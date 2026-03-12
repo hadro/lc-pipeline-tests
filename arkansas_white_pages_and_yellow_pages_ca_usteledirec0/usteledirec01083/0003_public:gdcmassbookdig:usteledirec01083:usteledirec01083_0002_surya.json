@@ -1,0 +1,96 @@
+{
+  "image_width": 2048,
+  "image_height": 1722,
+  "lines": [
+    {
+      "bbox": [
+        659,
+        242,
+        1452,
+        334
+      ],
+      "text": "<b>MICROFILMED</b>",
+      "confidence": 0.9535
+    },
+    {
+      "bbox": [
+        865,
+        423,
+        1182,
+        517
+      ],
+      "text": "1992",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        415,
+        606,
+        1762,
+        705
+      ],
+      "text": "LIBRARY OF CONGRESS",
+      "confidence": 0.9758
+    },
+    {
+      "bbox": [
+        640,
+        731,
+        1541,
+        826
+      ],
+      "text": "<b>PRESERVATION</b>",
+      "confidence": 0.9471
+    },
+    {
+      "bbox": [
+        376,
+        855,
+        1821,
+        947
+      ],
+      "text": "<b>MICROFILMING PROGRAM</b>",
+      "confidence": 0.966
+    },
+    {
+      "bbox": [
+        537,
+        1046,
+        1442,
+        1100
+      ],
+      "text": "<b>COPIES ARE AVAILABLE FROM:</b>",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        630,
+        1186,
+        1446,
+        1233
+      ],
+      "text": "THE LIBRARY OF CONGRESS",
+      "confidence": 0.84
+    },
+    {
+      "bbox": [
+        616,
+        1249,
+        1488,
+        1297
+      ],
+      "text": "PHOTODUPLICATION SERVICE",
+      "confidence": 0.704
+    },
+    {
+      "bbox": [
+        604,
+        1315,
+        1375,
+        1366
+      ],
+      "text": "WASHINGTON, D.C. 20540",
+      "confidence": 0.6144
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "image_width": 2048,
+  "image_height": 1717,
+  "lines": [
+    {
+      "bbox": [
+        513,
+        655,
+        1500,
+        904
+      ],
+      "text": "START",
+      "confidence": 0.9922
+    }
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "image_width": 1024,
+  "image_height": 1694,
+  "lines": [
+    {
+      "bbox": [
+        196,
+        193,
+        209,
+        208
+      ],
+      "text": "6",
+      "confidence": 0.9865
+    },
+    {
+      "bbox": [
+        237,
+        193,
+        380,
+        210
+      ],
+      "text": "United—Wrinkles",
+      "confidence": 0.8704
+    },
+    {
+      "bbox": [
+        531,
+        195,
+        641,
+        211
+      ],
+      "text": "CARAWAY",
+      "confidence": 0.7979
+    },
+    {
+      "bbox": [
+        197,
+        222,
+        521,
+        238
+      ],
+      "text": "United Telephone Co of Arkansas—continued",
+      "confidence": 0.84
+    },
+    {
+      "bbox": [
+        597,
+        223,
+        972,
+        238
+      ],
+      "text": "Waters T J . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9541
+    },
+    {
+      "bbox": [
+        596,
+        238,
+        974,
+        276
+      ],
+      "text": "Watts W A . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.828
+    },
+    {
+      "bbox": [
+        225,
+        239,
+        410,
+        255
+      ],
+      "text": "Telephone Service Calls:",
+      "confidence": 0.9166
+    },
+    {
+      "bbox": [
+        244,
+        254,
+        574,
+        273
+      ],
+      "text": "To Call Long Distance..... Dial \"0\"(Opr)",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        242,
+        271,
+        574,
+        307
+      ],
+      "text": "Information Or No's Not In Directory\nDial \"O\"(Opr) & ask for \"Information\"",
+      "confidence": 0.9429
+    },
+    {
+      "bbox": [
+        596,
+        274,
+        973,
+        290
+      ],
+      "text": "Welch Joe RFD . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9787
+    },
+    {
+      "bbox": [
+        596,
+        288,
+        972,
+        307
+      ],
+      "text": "Welsh Clara Belle Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.942
+    },
+    {
+      "bbox": [
+        242,
+        305,
+        575,
+        341
+      ],
+      "text": "To Call Repair Service\nDial \"O\" (Opr) & ask for \"Chief Operator\"",
+      "confidence": 0.972
+    },
+    {
+      "bbox": [
+        597,
+        306,
+        972,
+        323
+      ],
+      "text": "WESTERN AUTO ASSOCIATE STORE . . . . 482-3431",
+      "confidence": 0.665
+    },
+    {
+      "bbox": [
+        596,
+        325,
+        972,
+        341
+      ],
+      "text": "Wheeler C C Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9819
+    },
+    {
+      "bbox": [
+        596,
+        339,
+        972,
+        358
+      ],
+      "text": "White Clifford RFD 1 Black Oak ......482-3309",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        244,
+        340,
+        536,
+        356
+      ],
+      "text": "To Report Difficulty With Local Or Long",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        271,
+        353,
+        574,
+        393
+      ],
+      "text": "Distance Service<br>Dial \"O\" (Opr) & ask for \"Chief Operator\"",
+      "confidence": 0.9614
+    },
+    {
+      "bbox": [
+        596,
+        356,
+        972,
+        374
+      ],
+      "text": "Whitehead J A RFD 1 Black Oak . . . . . . . 482-3306",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        596,
+        374,
+        971,
+        391
+      ],
+      "text": "Williams Grady RFD 1 Black Oak.....482-3577",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        596,
+        389,
+        973,
+        407
+      ],
+      "text": "Williams H N RFD 1 Black Oak.......482-3678",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        595,
+        402,
+        972,
+        427
+      ],
+      "text": "Williams Josie Mrs RFD 1 Black Oak . . . . 482-3679",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        596,
+        425,
+        972,
+        441
+      ],
+      "text": "Williams Oscar RFD 1 Black Oak......482-3360",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        596,
+        441,
+        971,
+        458
+      ],
+      "text": "Wilson Don RFD 1 Black Oak.......482-3491",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        197,
+        447,
+        574,
+        463
+      ],
+      "text": "Vaughn F T RFD 1 Black Oak.........482-3647",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        596,
+        455,
+        972,
+        477
+      ],
+      "text": "Wilson R S Mrs RFD 1 Black Oak ..... 482-3405",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        596,
+        473,
+        972,
+        491
+      ],
+      "text": "Wilson Sue Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9825
+    },
+    {
+      "bbox": [
+        596,
+        490,
+        972,
+        509
+      ],
+      "text": "Wood Aubrey RFD 1 Black Oak ........482-3404",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        372,
+        491,
+        400,
+        506
+      ],
+      "text": "w",
+      "confidence": 0.8766
+    },
+    {
+      "bbox": [
+        596,
+        508,
+        972,
+        525
+      ],
+      "text": "Wood Billy RFD 1 Black Oak...................................",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        196,
+        520,
+        573,
+        538
+      ],
+      "text": "Waldon L E RFD 1 Black Oak . . . . . . . . . . . 482-3450",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        594,
+        523,
+        973,
+        560
+      ],
+      "text": "Wood George Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.8996
+    },
+    {
+      "bbox": [
+        197,
+        535,
+        573,
+        557
+      ],
+      "text": "Wallace J M Mrs RFD 1 Black Oak . . . . . 482-3666",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        197,
+        554,
+        573,
+        572
+      ],
+      "text": "Wallace W K . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.957
+    },
+    {
+      "bbox": [
+        623,
+        557,
+        971,
+        575
+      ],
+      "text": "Or RFD 1 Black Oak . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        197,
+        571,
+        572,
+        590
+      ],
+      "text": "Ward James . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9674
+    },
+    {
+      "bbox": [
+        595,
+        575,
+        972,
+        593
+      ],
+      "text": "Wood Ray . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9742
+    },
+    {
+      "bbox": [
+        197,
+        587,
+        574,
+        607
+      ],
+      "text": "Ward Ode RFD ......482-3504",
+      "confidence": 0.9522
+    },
+    {
+      "bbox": [
+        596,
+        589,
+        972,
+        609
+      ],
+      "text": "Wood W B RFD 2 Manila . . . . . . . . . . . . . . . . . 482-3698",
+      "confidence": 0.9736
+    },
+    {
+      "bbox": [
+        197,
+        606,
+        572,
+        622
+      ],
+      "text": "WARD'S TELEVISION SERVICE...... 482-3611",
+      "confidence": 0.9012
+    },
+    {
+      "bbox": [
+        595,
+        608,
+        971,
+        622
+      ],
+      "text": "Wrinkles George ....................................",
+      "confidence": 0.9617
+    },
+    {
+      "bbox": [
+        452,
+        769,
+        715,
+        808
+      ],
+      "text": "Warning",
+      "confidence": 0.8635
+    },
+    {
+      "bbox": [
+        333,
+        880,
+        834,
+        897
+      ],
+      "text": "Effective June 9, 1955, Act 240 of 1955 of the Arkansas",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        333,
+        926,
+        834,
+        944
+      ],
+      "text": "General Assembly provides that any person who shall wil-",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        331,
+        970,
+        834,
+        990
+      ],
+      "text": "fully refuse to immediately relinquish a party line when",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        332,
+        1016,
+        835,
+        1036
+      ],
+      "text": "informed that such line is needed for an emergency call",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        331,
+        1062,
+        835,
+        1082
+      ],
+      "text": "to a fire department, police department or for medical",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        331,
+        1108,
+        834,
+        1128
+      ],
+      "text": "aid or ambulance service, or any person who shall secure",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        333,
+        1154,
+        835,
+        1172
+      ],
+      "text": "the use of a party line by falsely stating that such line is",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        332,
+        1196,
+        833,
+        1221
+      ],
+      "text": "needed for an emergency call, shall be guilty of a misde-",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        332,
+        1243,
+        833,
+        1265
+      ],
+      "text": "meanor. The law defines an \"emergency\" as \"a situation",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        332,
+        1287,
+        834,
+        1311
+      ],
+      "text": "in which property or human life are in jeopardy and the",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        332,
+        1335,
+        672,
+        1357
+      ],
+      "text": "prompt summoning of aid is essential.\"",
+      "confidence": 0.9973
+    }
+  ]
+}

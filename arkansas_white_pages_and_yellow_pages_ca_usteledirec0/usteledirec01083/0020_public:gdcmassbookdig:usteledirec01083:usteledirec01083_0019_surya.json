@@ -1,0 +1,156 @@
+{
+  "image_width": 2048,
+  "image_height": 1713,
+  "lines": [
+    {
+      "bbox": [
+        872,
+        297,
+        901,
+        324
+      ],
+      "text": "7",
+      "confidence": 0.5033
+    },
+    {
+      "bbox": [
+        834,
+        325,
+        870,
+        364
+      ],
+      "text": "2",
+      "confidence": 0.5047
+    },
+    {
+      "bbox": [
+        1174,
+        365,
+        1201,
+        390
+      ],
+      "text": "0",
+      "confidence": 0.8989
+    },
+    {
+      "bbox": [
+        817,
+        376,
+        851,
+        411
+      ],
+      "text": "B",
+      "confidence": 0.7147
+    },
+    {
+      "bbox": [
+        1184,
+        409,
+        1213,
+        438
+      ],
+      "text": "Z",
+      "confidence": 0.7845
+    },
+    {
+      "bbox": [
+        817,
+        411,
+        846,
+        444
+      ],
+      "text": "_",
+      "confidence": 0.799
+    },
+    {
+      "bbox": [
+        812,
+        440,
+        871,
+        519
+      ],
+      "text": "7 $",
+      "confidence": 0.7424
+    },
+    {
+      "bbox": [
+        1175,
+        465,
+        1203,
+        485
+      ],
+      "text": "5",
+      "confidence": 0.7045
+    },
+    {
+      "bbox": [
+        1153,
+        514,
+        1182,
+        532
+      ],
+      "text": "⇗",
+      "confidence": 0.2993
+    },
+    {
+      "bbox": [
+        853,
+        521,
+        885,
+        551
+      ],
+      "text": "V",
+      "confidence": 0.4344
+    },
+    {
+      "bbox": [
+        388,
+        626,
+        1729,
+        724
+      ],
+      "text": "LIBRARY OF CONGRESS",
+      "confidence": 0.9776
+    },
+    {
+      "bbox": [
+        430,
+        848,
+        1700,
+        929
+      ],
+      "text": "UNITED STATES TELEPHONE",
+      "confidence": 0.9805
+    },
+    {
+      "bbox": [
+        515,
+        947,
+        1609,
+        1017
+      ],
+      "text": "DIRECTORY COLLECTION",
+      "confidence": 0.6993
+    },
+    {
+      "bbox": [
+        385,
+        1137,
+        1732,
+        1206
+      ],
+      "text": "PRESERVATION MICROFILMING",
+      "confidence": 0.7817
+    },
+    {
+      "bbox": [
+        856,
+        1231,
+        1259,
+        1302
+      ],
+      "text": "<b>PROJECT</b>",
+      "confidence": 0.9559
+    }
+  ]
+}

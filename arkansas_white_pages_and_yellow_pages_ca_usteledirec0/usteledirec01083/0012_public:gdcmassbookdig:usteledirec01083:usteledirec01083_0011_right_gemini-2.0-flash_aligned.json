@@ -1,0 +1,1035 @@
+{
+  "image": "0012_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0011_right.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://www.loc.gov/item/usteledirec01083/canvas/12",
+  "canvas_width": 6831,
+  "canvas_height": 5639,
+  "lines": [
+    {
+      "bbox": [
+        188,
+        188,
+        707,
+        215
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4043,627,1731,90",
+      "confidence": "line",
+      "gemini_text": "PARTY LINE AND EXTENSION TELEPHONE HINTS"
+    },
+    {
+      "bbox": [
+        61,
+        220,
+        837,
+        252
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=3619,734,2588,107",
+      "confidence": "line",
+      "gemini_text": "EFFICIENT PARTY LINE SERVICE depends largely on the consideration and courtesy"
+    },
+    {
+      "bbox": [
+        60,
+        243,
+        837,
+        271
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=3616,811,2591,93",
+      "confidence": "line",
+      "gemini_text": "which each subscriber gives to the other parties on his line. Endeavor to limit your calls"
+    },
+    {
+      "bbox": [
+        62,
+        265,
+        278,
+        285
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=3622,884,721,67",
+      "confidence": "line",
+      "gemini_text": "to five minutes duration."
+    },
+    {
+      "bbox": [
+        60,
+        297,
+        837,
+        325
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=3616,991,2591,93",
+      "confidence": "line",
+      "gemini_text": "When dialing on a party line, or any line with an extension telephone, it is necessary to"
+    },
+    {
+      "bbox": [
+        60,
+        317,
+        837,
+        345
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=3616,1058,2591,93",
+      "confidence": "line",
+      "gemini_text": "consider the possibility that someone else may be using the line. Learn and observe the"
+    },
+    {
+      "bbox": [
+        60,
+        341,
+        545,
+        361
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=3616,1138,1617,67",
+      "confidence": "line",
+      "gemini_text": "following rules and be a courteous party line neighbor:"
+    },
+    {
+      "bbox": [
+        84,
+        374,
+        439,
+        394
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=3696,1248,1184,67",
+      "confidence": "line",
+      "gemini_text": "1. If you hear a conversation when lifting"
+    },
+    {
+      "bbox": [
+        106,
+        397,
+        439,
+        414
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=3769,1325,1111,56",
+      "confidence": "line",
+      "gemini_text": "the receiver, the line is being used."
+    },
+    {
+      "bbox": [
+        108,
+        417,
+        438,
+        435
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=3776,1391,1100,60",
+      "confidence": "line",
+      "gemini_text": "Replace the receiver and try the call"
+    },
+    {
+      "bbox": [
+        107,
+        437,
+        212,
+        454
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=3772,1458,351,57",
+      "confidence": "line",
+      "gemini_text": "again later."
+    },
+    {
+      "bbox": [
+        80,
+        452,
+        437,
+        481
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=3682,1508,1191,97",
+      "confidence": "line",
+      "gemini_text": "2. If you hear the sound of \"Dialing"
+    },
+    {
+      "bbox": [
+        104,
+        472,
+        437,
+        501
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=3762,1575,1111,97",
+      "confidence": "line",
+      "gemini_text": "Clicks\" when lifting the receiver, it"
+    },
+    {
+      "bbox": [
+        106,
+        499,
+        437,
+        517
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=3769,1665,1104,60",
+      "confidence": "line",
+      "gemini_text": "means that someone else on the line is"
+    },
+    {
+      "bbox": [
+        105,
+        515,
+        437,
+        540
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=3766,1718,1107,84",
+      "confidence": "line",
+      "gemini_text": "dialing a number. The lifting of your"
+    },
+    {
+      "bbox": [
+        106,
+        540,
+        437,
+        560
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=3769,1802,1104,67",
+      "confidence": "line",
+      "gemini_text": "receiver has interfered with the dialing"
+    },
+    {
+      "bbox": [
+        104,
+        560,
+        437,
+        580
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=3762,1869,1111,66",
+      "confidence": "line",
+      "gemini_text": "and you should inform him to dial the"
+    },
+    {
+      "bbox": [
+        105,
+        577,
+        437,
+        604
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=3766,1925,1107,90",
+      "confidence": "line",
+      "gemini_text": "number again. Hang up your re-"
+    },
+    {
+      "bbox": [
+        104,
+        600,
+        437,
+        622
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=3762,2002,1111,73",
+      "confidence": "line",
+      "gemini_text": "ceiver and permit him to dial the num-"
+    },
+    {
+      "bbox": [
+        105,
+        624,
+        198,
+        640
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=3766,2082,310,53",
+      "confidence": "line",
+      "gemini_text": "ber again."
+    },
+    {
+      "bbox": [
+        480,
+        377,
+        837,
+        397
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=5017,1258,1190,67",
+      "confidence": "line",
+      "gemini_text": "3. If you are dialing and hear another"
+    },
+    {
+      "bbox": [
+        503,
+        392,
+        837,
+        442
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=5093,1308,1114,167",
+      "confidence": "line",
+      "gemini_text": "party lift his receiver before you have"
+    },
+    {
+      "bbox": [
+        504,
+        437,
+        836,
+        457
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=5097,1458,1107,67",
+      "confidence": "line",
+      "gemini_text": "him that the line is in use and after he"
+    },
+    {
+      "bbox": [
+        504,
+        458,
+        836,
+        480
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=5097,1528,1107,74",
+      "confidence": "line",
+      "gemini_text": "has replaced his receiver, replace your"
+    },
+    {
+      "bbox": [
+        504,
+        477,
+        835,
+        502
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=5097,1592,1104,83",
+      "confidence": "line",
+      "gemini_text": "own for a few moments. Then remove"
+    },
+    {
+      "bbox": [
+        504,
+        502,
+        836,
+        520
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=5097,1675,1107,60",
+      "confidence": "line",
+      "gemini_text": "it and dial the complete number"
+    },
+    {
+      "bbox": [
+        504,
+        523,
+        562,
+        538
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=5097,1745,193,50",
+      "confidence": "line",
+      "gemini_text": "again."
+    },
+    {
+      "bbox": [
+        478,
+        541,
+        836,
+        561
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=5010,1805,1194,67",
+      "confidence": "line",
+      "gemini_text": "4. When another party lifts his receiver"
+    },
+    {
+      "bbox": [
+        503,
+        559,
+        834,
+        587
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=5093,1865,1104,94",
+      "confidence": "line",
+      "gemini_text": "after you have heard the \"Ringing"
+    },
+    {
+      "bbox": [
+        503,
+        577,
+        834,
+        609
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=5093,1925,1104,107",
+      "confidence": "line",
+      "gemini_text": "Signal,\" it will not be necessary to re-"
+    },
+    {
+      "bbox": [
+        503,
+        600,
+        833,
+        627
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=5093,2002,1101,90",
+      "confidence": "line",
+      "gemini_text": "dial the number. Merely inform him"
+    },
+    {
+      "bbox": [
+        503,
+        624,
+        687,
+        641
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=5093,2082,614,57",
+      "confidence": "line",
+      "gemini_text": "that the line is in use."
+    },
+    {
+      "bbox": [
+        456,
+        774,
+        832,
+        794
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4936,2583,1255,66",
+      "confidence": "line",
+      "gemini_text": "Cagle James RFD 1 Black Oak........ 482-3350"
+    },
+    {
+      "bbox": [
+        456,
+        792,
+        832,
+        812
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4936,2643,1255,66",
+      "confidence": "line",
+      "gemini_text": "Campbell Jeff................ 482-3447"
+    },
+    {
+      "bbox": [
+        455,
+        806,
+        832,
+        831
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4933,2689,1258,84",
+      "confidence": "line",
+      "gemini_text": "Adams C W.................. 482-3515 Cannon Otto................. 482-3564"
+    },
+    {
+      "bbox": [
+        455,
+        822,
+        832,
+        846
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4933,2743,1258,80",
+      "confidence": "line",
+      "gemini_text": "Caraway Cleaners.............. 482-3441"
+    },
+    {
+      "bbox": [
+        454,
+        839,
+        833,
+        898
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4930,2799,1264,197",
+      "confidence": "line",
+      "gemini_text": "Caraway Electric Co............. 482-3332"
+    },
+    {
+      "bbox": [
+        454,
+        888,
+        833,
+        950
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4930,2963,1264,207",
+      "confidence": "line",
+      "gemini_text": "Caraway Insurance Agency........ 482-3314"
+    },
+    {
+      "bbox": [
+        456,
+        942,
+        831,
+        964
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4936,3143,1251,74",
+      "confidence": "line",
+      "gemini_text": "Caraway Oil Co & Auto Parts........ 482-3522"
+    },
+    {
+      "bbox": [
+        456,
+        961,
+        831,
+        978
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4936,3207,1251,56",
+      "confidence": "line",
+      "gemini_text": "Caraway Police Dept............. 482-3434"
+    },
+    {
+      "bbox": [
+        456,
+        976,
+        830,
+        995
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4936,3257,1248,63",
+      "confidence": "line",
+      "gemini_text": "Caraway Texaco Co............... 482-3331"
+    },
+    {
+      "bbox": [
+        467,
+        1027,
+        660,
+        1045
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4973,3427,644,60",
+      "confidence": "line",
+      "gemini_text": "To Complete All Calls"
+    },
+    {
+      "bbox": [
+        541,
+        1064,
+        741,
+        1081
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=5220,3550,667,57",
+      "confidence": "line",
+      "gemini_text": "Booth A I RFD Black Oak........... 482-3574 REMEMBER TO DIAL."
+    },
+    {
+      "bbox": [
+        452,
+        1153,
+        828,
+        1193
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4923,3847,1254,134",
+      "confidence": "line",
+      "gemini_text": "Caraway Water Plant............. 482-3571"
+    },
+    {
+      "bbox": [
+        454,
+        1187,
+        567,
+        1209
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4930,3961,377,73",
+      "confidence": "line",
+      "gemini_text": "Booth Troy RFD 1 Black Oak.......... 482-3478 Carolan B M.................... 482-3691"
+    },
+    {
+      "bbox": [
+        453,
+        1207,
+        827,
+        1226
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4926,4027,1248,64",
+      "confidence": "line",
+      "gemini_text": "Carroll Nettie.................. 482-3474"
+    },
+    {
+      "bbox": [
+        452,
+        1221,
+        827,
+        1261
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4923,4074,1251,134",
+      "confidence": "line",
+      "gemini_text": "Central High School............. 482-3327"
+    },
+    {
+      "bbox": [
+        451,
+        1254,
+        828,
+        1311
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4920,4184,1257,190",
+      "confidence": "line",
+      "gemini_text": "Chambliss Grocery RFD 1 Black Oak....482-3493"
+    },
+    {
+      "bbox": [
+        452,
+        1309,
+        826,
+        1326
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4923,4368,1248,56",
+      "confidence": "line",
+      "gemini_text": "Clements C A.................. 482-3581"
+    },
+    {
+      "bbox": [
+        452,
+        1323,
+        826,
+        1343
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4923,4414,1248,67",
+      "confidence": "line",
+      "gemini_text": "Clements Lyle RFD............... 482-3510"
+    },
+    {
+      "bbox": [
+        450,
+        1338,
+        827,
+        1378
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4916,4464,1258,134",
+      "confidence": "line",
+      "gemini_text": "Brickell James................. 482-3656 Cobb Gene RFD................ 482-3403"
+    },
+    {
+      "bbox": [
+        450,
+        1374,
+        826,
+        1394
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4916,4585,1255,66",
+      "confidence": "line",
+      "gemini_text": "Brooks Wayman.................. 482-3544 Coggin Vernon................. 482-3651"
+    },
+    {
+      "bbox": [
+        451,
+        1390,
+        826,
+        1410
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4920,4638,1251,67",
+      "confidence": "line",
+      "gemini_text": "Coggins JW RFD 1............... 482-3365"
+    },
+    {
+      "bbox": [
+        451,
+        1408,
+        826,
+        1425
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4920,4698,1251,57",
+      "confidence": "line",
+      "gemini_text": "Brown Edward................... 482-3427 Collier Thomas.................. 482-3663"
+    },
+    {
+      "bbox": [
+        450,
+        1424,
+        826,
+        1443
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4916,4751,1255,64",
+      "confidence": "line",
+      "gemini_text": "Connor Ada Mrs................. 482-3448"
+    },
+    {
+      "bbox": [
+        450,
+        1440,
+        826,
+        1459
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4916,4805,1255,63",
+      "confidence": "line",
+      "gemini_text": "Connor Ted..................... 482-3572"
+    },
+    {
+      "bbox": [
+        449,
+        1457,
+        826,
+        1474
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=4913,4862,1258,56",
+      "confidence": "line",
+      "gemini_text": "Burrough Annie................. 482-3426 Copeland Chester............... 482-3424"
+    },
+    {
+      "bbox": [
+        199,
+        687,
+        703,
+        726
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=1328,2292,3362,130",
+      "confidence": "manual",
+      "gemini_text": "CARAWAY, ARKANSAS"
+    },
+    {
+      "bbox": [
+        59,
+        790,
+        438,
+        807
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=394,2636,2528,57",
+      "confidence": "manual",
+      "gemini_text": "Abernathy M E................ 482-3618"
+    },
+    {
+      "bbox": [
+        58,
+        823,
+        437,
+        841
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=387,2746,2528,60",
+      "confidence": "manual",
+      "gemini_text": "Adams Charles L RFD 2 Manila.......... 482-3487"
+    },
+    {
+      "bbox": [
+        58,
+        841,
+        438,
+        858
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=387,2806,2535,57",
+      "confidence": "manual",
+      "gemini_text": "Adams William................. 482-3393"
+    },
+    {
+      "bbox": [
+        58,
+        858,
+        437,
+        874
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=387,2863,2528,53",
+      "confidence": "manual",
+      "gemini_text": "Anderson L L.................. 482-3629"
+    },
+    {
+      "bbox": [
+        58,
+        874,
+        437,
+        891
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=387,2916,2528,57",
+      "confidence": "manual",
+      "gemini_text": "Anderson Rudy RFD 1 Black Oak.......... 482-3430"
+    },
+    {
+      "bbox": [
+        453,
+        876,
+        739,
+        893
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=3022,2923,1908,57",
+      "confidence": "manual",
+      "gemini_text": "Caraway Gin & Cotton Co.......... 482-3511"
+    },
+    {
+      "bbox": [
+        751,
+        896,
+        833,
+        910
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=5010,2990,547,46",
+      "confidence": "manual",
+      "gemini_text": "Beaton Marie.................. 482-3335"
+    },
+    {
+      "bbox": [
+        60,
+        937,
+        436,
+        954
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=400,3126,2509,57",
+      "confidence": "manual",
+      "gemini_text": "Barrett Chesley L............... 482-3354"
+    },
+    {
+      "bbox": [
+        60,
+        954,
+        436,
+        970
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=400,3183,2509,54",
+      "confidence": "manual",
+      "gemini_text": "Barrett D C RFD 1 Black Oak.......... 482-3407"
+    },
+    {
+      "bbox": [
+        60,
+        971,
+        436,
+        987
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=400,3240,2509,53",
+      "confidence": "manual",
+      "gemini_text": "Barrett E E RFD 1 Black Oak.......... 482-3585"
+    },
+    {
+      "bbox": [
+        59,
+        988,
+        436,
+        1005
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=394,3297,2515,56",
+      "confidence": "manual",
+      "gemini_text": "Barringer A B.................. 482-3382"
+    },
+    {
+      "bbox": [
+        59,
+        1021,
+        436,
+        1038
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=394,3407,2515,56",
+      "confidence": "manual",
+      "gemini_text": "Bell Buddie RFD................ 482-3539"
+    },
+    {
+      "bbox": [
+        59,
+        1038,
+        435,
+        1055
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=394,3463,2508,57",
+      "confidence": "manual",
+      "gemini_text": "Bell JL RFD 1 Black Oak.......... 482-3578"
+    },
+    {
+      "bbox": [
+        58,
+        1055,
+        435,
+        1071
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=387,3520,2515,54",
+      "confidence": "manual",
+      "gemini_text": "Blake Cecil RFD 2 Manila.......... 482-3506"
+    },
+    {
+      "bbox": [
+        59,
+        1071,
+        435,
+        1088
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=394,3574,2508,56",
+      "confidence": "manual",
+      "gemini_text": "Blake Wayne RFD 2 Manila.......... 482-3484"
+    },
+    {
+      "bbox": [
+        58,
+        1088,
+        435,
+        1105
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=387,3630,2515,57",
+      "confidence": "manual",
+      "gemini_text": "Bolling J R.................... 482-3435"
+    },
+    {
+      "bbox": [
+        58,
+        1121,
+        435,
+        1138
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=387,3740,2515,57",
+      "confidence": "manual",
+      "gemini_text": "Booth Bobby RFD 1 Black Oak......... 482-3688"
+    },
+    {
+      "bbox": [
+        58,
+        1138,
+        435,
+        1155
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=387,3797,2515,57",
+      "confidence": "manual",
+      "gemini_text": "Booth Carl RFD 1 Black Oak.......... 482-3340"
+    },
+    {
+      "bbox": [
+        58,
+        1155,
+        435,
+        1171
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=387,3854,2515,53",
+      "confidence": "manual",
+      "gemini_text": "Booth Glen RFD 1 Black Oak.......... 482-3602"
+    },
+    {
+      "bbox": [
+        58,
+        1172,
+        434,
+        1188
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=387,3911,2508,53",
+      "confidence": "manual",
+      "gemini_text": "Booth Paul RFD 1 Black Oak.......... 482-3606"
+    },
+    {
+      "bbox": [
+        58,
+        1205,
+        433,
+        1222
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=387,4021,2501,56",
+      "confidence": "manual",
+      "gemini_text": "Booth Virgil RFD 1 Black Oak......... 482-3301"
+    },
+    {
+      "bbox": [
+        58,
+        1222,
+        434,
+        1238
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=387,4077,2508,54",
+      "confidence": "manual",
+      "gemini_text": "Bowen Donald RFD 1 Black Oak........ 482-3379"
+    },
+    {
+      "bbox": [
+        57,
+        1239,
+        434,
+        1253
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=380,4134,2515,47",
+      "confidence": "manual",
+      "gemini_text": "Bragg Russell.................. 482-3582"
+    },
+    {
+      "bbox": [
+        56,
+        1256,
+        433,
+        1271
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=374,4191,2514,50",
+      "confidence": "manual",
+      "gemini_text": "Branscum Dale RFD 1 Black Oak........ 482-3569"
+    },
+    {
+      "bbox": [
+        56,
+        1272,
+        433,
+        1288
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=374,4244,2514,54",
+      "confidence": "manual",
+      "gemini_text": "Bratten Jimmy RFD............... 482-3439"
+    },
+    {
+      "bbox": [
+        56,
+        1289,
+        431,
+        1304
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=374,4301,2501,50",
+      "confidence": "manual",
+      "gemini_text": "Brewer A E RFD 1 Black Oak.......... 482-3601"
+    },
+    {
+      "bbox": [
+        56,
+        1323,
+        432,
+        1338
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=374,4414,2508,50",
+      "confidence": "manual",
+      "gemini_text": "Brewer Earl RFD 2 Manila Ark........ 482-3475"
+    },
+    {
+      "bbox": [
+        56,
+        1340,
+        432,
+        1355
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=374,4471,2508,50",
+      "confidence": "manual",
+      "gemini_text": "Brickell Charles RFD 1 Black Oak...... 482-3307"
+    },
+    {
+      "bbox": [
+        55,
+        1356,
+        432,
+        1372
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=367,4525,2515,53",
+      "confidence": "manual",
+      "gemini_text": "Brooks Fronie RFD............... 482-3639"
+    },
+    {
+      "bbox": [
+        55,
+        1389,
+        432,
+        1406
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=367,4635,2515,56",
+      "confidence": "manual",
+      "gemini_text": "Brown Charles R RFD............. 482-3649"
+    },
+    {
+      "bbox": [
+        55,
+        1423,
+        431,
+        1438
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=367,4748,2508,50",
+      "confidence": "manual",
+      "gemini_text": "Brown WP RFD 1 Black Oak.......... 482-3367"
+    },
+    {
+      "bbox": [
+        54,
+        1440,
+        431,
+        1455
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=360,4805,2515,50",
+      "confidence": "manual",
+      "gemini_text": "Burdette E A RFD 1 Black Oak........ 482-3370"
+    },
+    {
+      "bbox": [
+        451,
+        1274,
+        828,
+        1291
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=3009,4251,2515,57",
+      "confidence": "manual",
+      "gemini_text": "Chambiiss J H RFD 1 Black Oak........482-3540"
+    },
+    {
+      "bbox": [
+        451,
+        1291,
+        828,
+        1308
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/12#xywh=3009,4308,2515,56",
+      "confidence": "manual",
+      "gemini_text": "CHARLENE'S PIN-UP SHOP......... 482-3514"
+    }
+  ],
+  "unmatched_gemini": [
+    "heard the \"Ringing Signal,\" inform",
+    "A",
+    "C",
+    "Abernathy's Lion Service Station......... 482-3513",
+    "Caraway Drug Co............... 482-3332",
+    "Caraway Grade School............ 482-3351",
+    "B",
+    "CARAWAY LUMBER CO............. 482-3532",
+    "All Seven (7) Figures",
+    "Carmack Etta.................. 482-3455",
+    "CENTRAL JIL CO................ 482-3411",
+    "Coffman WD RFD 1 Black Oak........482-3357"
+  ]
+}

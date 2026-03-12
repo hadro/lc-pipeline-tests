@@ -1,0 +1,1056 @@
+{
+  "image_width": 1024,
+  "image_height": 1697,
+  "lines": [
+    {
+      "bbox": [
+        222,
+        190,
+        337,
+        207
+      ],
+      "text": "Abel—Byrd's",
+      "confidence": 0.9466
+    },
+    {
+      "bbox": [
+        194,
+        191,
+        208,
+        204
+      ],
+      "text": "8",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        538,
+        191,
+        635,
+        207
+      ],
+      "text": "MONETTE",
+      "confidence": 0.7366
+    },
+    {
+      "bbox": [
+        322,
+        224,
+        846,
+        253
+      ],
+      "text": "PARTY LINE AND EXTENSION TELEPHONE HINTS",
+      "confidence": 0.6327
+    },
+    {
+      "bbox": [
+        194,
+        259,
+        977,
+        289
+      ],
+      "text": "EFFICIENT PARTY LINE SERVICE depends largely on the consideration and courtesy",
+      "confidence": 0.7632
+    },
+    {
+      "bbox": [
+        193,
+        282,
+        977,
+        309
+      ],
+      "text": "which each subscriber gives to the other parties on his line. Endeavor to limit your calls",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        195,
+        307,
+        412,
+        322
+      ],
+      "text": "to five minutes duration.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        194,
+        336,
+        977,
+        363
+      ],
+      "text": "When dialing on a party line, or any line with an extension telephone, it is necessary to",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        194,
+        358,
+        977,
+        384
+      ],
+      "text": "consider the possibility that someone else may be using the line. Learn and observe the",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        194,
+        378,
+        686,
+        404
+      ],
+      "text": "following rules and be a courteous party line neighbor:",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        619,
+        413,
+        977,
+        438
+      ],
+      "text": "3. If you are dialing and hear another",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        218,
+        416,
+        575,
+        434
+      ],
+      "text": "\n    If you hear a conversation when lifting\n",
+      "confidence": 0.7098
+    },
+    {
+      "bbox": [
+        241,
+        437,
+        576,
+        454
+      ],
+      "text": "the receiver, the line is being used.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        644,
+        437,
+        977,
+        459
+      ],
+      "text": "party lift his receiver before you have",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        241,
+        456,
+        576,
+        476
+      ],
+      "text": "Replace the receiver and try the call",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        644,
+        457,
+        977,
+        479
+      ],
+      "text": "heard the \"Ringing Signal,\" inform him",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        242,
+        478,
+        345,
+        496
+      ],
+      "text": "again later.",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        644,
+        478,
+        977,
+        498
+      ],
+      "text": "that the line is in use and after he has",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        215,
+        497,
+        575,
+        519
+      ],
+      "text": "2. If you hear the sound of \"Dialing",
+      "confidence": 0.9771
+    },
+    {
+      "bbox": [
+        643,
+        500,
+        977,
+        520
+      ],
+      "text": "replaced his receiver, replace your own",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        240,
+        515,
+        576,
+        540
+      ],
+      "text": "Clicks\" when lifting the receiver, it",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        643,
+        519,
+        977,
+        541
+      ],
+      "text": "for a few moments. Then remove it",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        643,
+        536,
+        976,
+        565
+      ],
+      "text": "and dial the complete number again.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        242,
+        540,
+        576,
+        557
+      ],
+      "text": "means that someone else on the line is",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        617,
+        559,
+        977,
+        606
+      ],
+      "text": "\n    When another party lifts his receiver<br>after you have heard the \"Ringing Sig-\n",
+      "confidence": 0.7646
+    },
+    {
+      "bbox": [
+        240,
+        560,
+        576,
+        582
+      ],
+      "text": "dialing a number. The lifting of your",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        240,
+        579,
+        576,
+        603
+      ],
+      "text": "receiver has interfered with the dialing",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        643,
+        600,
+        977,
+        628
+      ],
+      "text": "nal,\" it will not be necessary to redial",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        240,
+        602,
+        576,
+        622
+      ],
+      "text": "and you should inform him to dial the",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        240,
+        620,
+        576,
+        646
+      ],
+      "text": "number again. Hang up your receiver",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        642,
+        624,
+        977,
+        646
+      ],
+      "text": "the number. Merely inform him that",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        240,
+        641,
+        577,
+        665
+      ],
+      "text": "and permit him to dial the number",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        643,
+        646,
+        788,
+        662
+      ],
+      "text": "the line is in use.",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        241,
+        667,
+        301,
+        684
+      ],
+      "text": "again.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        339,
+        717,
+        827,
+        753
+      ],
+      "text": "MONETTE, ARKANSAS",
+      "confidence": 0.7976
+    },
+    {
+      "bbox": [
+        596,
+        763,
+        975,
+        785
+      ],
+      "text": "Bertig Elevator . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9164
+    },
+    {
+      "bbox": [
+        595,
+        780,
+        977,
+        818
+      ],
+      "text": "Bertig Gin Co . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.6687
+    },
+    {
+      "bbox": [
+        194,
+        792,
+        576,
+        810
+      ],
+      "text": "Abel Neil . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        195,
+        809,
+        576,
+        827
+      ],
+      "text": "Adams Harry . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9625
+    },
+    {
+      "bbox": [
+        596,
+        817,
+        975,
+        834
+      ],
+      "text": "Bibb Lloyd . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9702
+    },
+    {
+      "bbox": [
+        194,
+        828,
+        576,
+        845
+      ],
+      "text": "Adams J Q . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9804
+    },
+    {
+      "bbox": [
+        596,
+        833,
+        973,
+        850
+      ],
+      "text": "Bibb Richard RFD 3 Leachville......486-2191",
+      "confidence": 0.9478
+    },
+    {
+      "bbox": [
+        194,
+        845,
+        575,
+        862
+      ],
+      "text": "Agnew Gladys . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9662
+    },
+    {
+      "bbox": [
+        595,
+        847,
+        976,
+        888
+      ],
+      "text": "Bibb's Garage ....................................",
+      "confidence": 0.5766
+    },
+    {
+      "bbox": [
+        195,
+        860,
+        575,
+        878
+      ],
+      "text": "Anderson Aubrey . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9753
+    },
+    {
+      "bbox": [
+        195,
+        878,
+        575,
+        894
+      ],
+      "text": "Anderson Carl . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9672
+    },
+    {
+      "bbox": [
+        596,
+        882,
+        974,
+        902
+      ],
+      "text": "Blankenship Beulah Mrs . . . . . . . . . . . . . . . . 486-5516",
+      "confidence": 0.9792
+    },
+    {
+      "bbox": [
+        194,
+        892,
+        576,
+        912
+      ],
+      "text": "Anderson J M . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        596,
+        900,
+        973,
+        918
+      ],
+      "text": "Blankenship Claude . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.871
+    },
+    {
+      "bbox": [
+        194,
+        907,
+        576,
+        949
+      ],
+      "text": "Arant George 486-2226\nARK-MO POWER CO 486-5427",
+      "confidence": 0.7642
+    },
+    {
+      "bbox": [
+        596,
+        916,
+        974,
+        936
+      ],
+      "text": "BLANKENSHIP & CO furntr.........486-2112",
+      "confidence": 0.9289
+    },
+    {
+      "bbox": [
+        596,
+        935,
+        973,
+        954
+      ],
+      "text": "Blankenship James . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9063
+    },
+    {
+      "bbox": [
+        195,
+        944,
+        576,
+        963
+      ],
+      "text": "Arnold J E Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        596,
+        949,
+        973,
+        973
+      ],
+      "text": "Blankenship Lillian Mrs . . . . . . . . . . . . 486-5872",
+      "confidence": 0.9868
+    },
+    {
+      "bbox": [
+        195,
+        960,
+        576,
+        979
+      ],
+      "text": "Arnold Velma Mrs RFD 2 Lake City.....486-5720",
+      "confidence": 0.9797
+    },
+    {
+      "bbox": [
+        596,
+        970,
+        973,
+        986
+      ],
+      "text": "Blankenship Milton . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.8885
+    },
+    {
+      "bbox": [
+        194,
+        980,
+        576,
+        996
+      ],
+      "text": "Assembly of God Parsonage . . . . . . . . . 486-5836",
+      "confidence": 0.9683
+    },
+    {
+      "bbox": [
+        596,
+        984,
+        973,
+        1006
+      ],
+      "text": "Blankenship Norman . . . . . . . . . . . . . . . . . 486-5572",
+      "confidence": 0.9868
+    },
+    {
+      "bbox": [
+        594,
+        999,
+        975,
+        1060
+      ],
+      "text": "Blankenship Paul 486-5635<br>Blankenship Tucker 486-2163<br>Blankenship's Body Shop Hwy 139 N. 486-5522",
+      "confidence": 0.9763
+    },
+    {
+      "bbox": [
+        374,
+        1019,
+        395,
+        1035
+      ],
+      "text": "В",
+      "confidence": 0.775
+    },
+    {
+      "bbox": [
+        194,
+        1049,
+        575,
+        1066
+      ],
+      "text": "Baird Fred RFD 2 Lake City......486-2149",
+      "confidence": 0.8903
+    },
+    {
+      "bbox": [
+        596,
+        1053,
+        974,
+        1071
+      ],
+      "text": "Blasingame James W RFD 2 Lake City. . 486-2176",
+      "confidence": 0.9687
+    },
+    {
+      "bbox": [
+        194,
+        1067,
+        575,
+        1085
+      ],
+      "text": "Baker Bessie . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9475
+    },
+    {
+      "bbox": [
+        595,
+        1068,
+        975,
+        1108
+      ],
+      "text": "Bley Harold ....................................",
+      "confidence": 0.5914
+    },
+    {
+      "bbox": [
+        195,
+        1081,
+        575,
+        1099
+      ],
+      "text": "Baldridge J H RFD 1 Cardwell .......486-2139",
+      "confidence": 0.9803
+    },
+    {
+      "bbox": [
+        595,
+        1099,
+        973,
+        1125
+      ],
+      "text": "Bolar P B RFD 3 Leachville ...........486-5679",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        195,
+        1100,
+        575,
+        1117
+      ],
+      "text": "Ball Ben F . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9608
+    },
+    {
+      "bbox": [
+        193,
+        1113,
+        575,
+        1137
+      ],
+      "text": "Ball Henry 0 RFD 1......486-5810",
+      "confidence": 0.9665
+    },
+    {
+      "bbox": [
+        596,
+        1120,
+        973,
+        1139
+      ],
+      "text": "Boleyn Lloyd RFD 1......486-5875",
+      "confidence": 0.9572
+    },
+    {
+      "bbox": [
+        194,
+        1132,
+        574,
+        1150
+      ],
+      "text": "BALL IMPLEMENT CO INC....................................",
+      "confidence": 0.9205
+    },
+    {
+      "bbox": [
+        596,
+        1137,
+        973,
+        1155
+      ],
+      "text": "Bowman M C . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9608
+    },
+    {
+      "bbox": [
+        195,
+        1152,
+        575,
+        1169
+      ],
+      "text": "Ball James F . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9343
+    },
+    {
+      "bbox": [
+        596,
+        1154,
+        973,
+        1172
+      ],
+      "text": "Braden Alton RFD 3 Leachville......486-2192",
+      "confidence": 0.935
+    },
+    {
+      "bbox": [
+        195,
+        1170,
+        575,
+        1187
+      ],
+      "text": "Ball Thomas . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9574
+    },
+    {
+      "bbox": [
+        596,
+        1171,
+        973,
+        1189
+      ],
+      "text": "Braden Bill farm . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9375
+    },
+    {
+      "bbox": [
+        194,
+        1186,
+        575,
+        1201
+      ],
+      "text": "Baptist Church . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.95
+    },
+    {
+      "bbox": [
+        596,
+        1189,
+        973,
+        1205
+      ],
+      "text": "Braden Glenna Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9175
+    },
+    {
+      "bbox": [
+        196,
+        1199,
+        574,
+        1223
+      ],
+      "text": "Baptist Parsonage . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9751
+    },
+    {
+      "bbox": [
+        596,
+        1206,
+        973,
+        1223
+      ],
+      "text": "Bradford William Z RFD 2 Lake City....486-5683",
+      "confidence": 0.8695
+    },
+    {
+      "bbox": [
+        196,
+        1219,
+        573,
+        1238
+      ],
+      "text": "Barber Grover C . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.963
+    },
+    {
+      "bbox": [
+        595,
+        1223,
+        973,
+        1240
+      ],
+      "text": "Bray Arthur RFD 1....................................",
+      "confidence": 0.956
+    },
+    {
+      "bbox": [
+        594,
+        1234,
+        975,
+        1275
+      ],
+      "text": "Brinkley Cecil RFD 1 Cardwell ....... 486-5729<br>Brinkley J M Mrs RFD 3 Leachville ..... 486-5550",
+      "confidence": 0.9722
+    },
+    {
+      "bbox": [
+        195,
+        1237,
+        574,
+        1253
+      ],
+      "text": "Barnes J T . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9474
+    },
+    {
+      "bbox": [
+        193,
+        1250,
+        576,
+        1307
+      ],
+      "text": "Barnes May Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.5906
+    },
+    {
+      "bbox": [
+        595,
+        1272,
+        973,
+        1289
+      ],
+      "text": "Brinkley Leon RFD 1 Cardwell........486-5785",
+      "confidence": 0.9531
+    },
+    {
+      "bbox": [
+        595,
+        1288,
+        973,
+        1308
+      ],
+      "text": "Bronaugh Billy . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.932
+    },
+    {
+      "bbox": [
+        195,
+        1304,
+        422,
+        1322
+      ],
+      "text": "BARNETT HOMER & SON",
+      "confidence": 0.8685
+    },
+    {
+      "bbox": [
+        595,
+        1304,
+        972,
+        1326
+      ],
+      "text": "Brown G C Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9783
+    },
+    {
+      "bbox": [
+        242,
+        1323,
+        574,
+        1340
+      ],
+      "text": "RFD 1 Cardwell......486-5640",
+      "confidence": 0.9627
+    },
+    {
+      "bbox": [
+        595,
+        1324,
+        973,
+        1341
+      ],
+      "text": "Brown Ethel . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9508
+    },
+    {
+      "bbox": [
+        595,
+        1339,
+        973,
+        1357
+      ],
+      "text": "Brown Joe RFD 2 Leachville......486-5629",
+      "confidence": 0.9659
+    },
+    {
+      "bbox": [
+        196,
+        1340,
+        573,
+        1357
+      ],
+      "text": "Barnett Richard RFD 1 Cardwell......486-5681",
+      "confidence": 0.9585
+    },
+    {
+      "bbox": [
+        595,
+        1356,
+        973,
+        1373
+      ],
+      "text": "Bruce Carmel RFD 1....................................",
+      "confidence": 0.9381
+    },
+    {
+      "bbox": [
+        195,
+        1357,
+        574,
+        1374
+      ],
+      "text": "Bell Billy J RFD 2 Leachville......486-5630",
+      "confidence": 0.9737
+    },
+    {
+      "bbox": [
+        593,
+        1372,
+        974,
+        1409
+      ],
+      "text": "Buffaloe W T . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.7285
+    },
+    {
+      "bbox": [
+        194,
+        1374,
+        574,
+        1390
+      ],
+      "text": "Bell Robert . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9718
+    },
+    {
+      "bbox": [
+        194,
+        1389,
+        575,
+        1408
+      ],
+      "text": "Berry A D . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        193,
+        1403,
+        575,
+        1427
+      ],
+      "text": "Berry Monroe RFD 1......486-5584",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        594,
+        1406,
+        973,
+        1423
+      ],
+      "text": "Buzick John farm ....................................",
+      "confidence": 0.955
+    },
+    {
+      "bbox": [
+        193,
+        1422,
+        576,
+        1460
+      ],
+      "text": "Berry Thurlo . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.8339
+    },
+    {
+      "bbox": [
+        594,
+        1423,
+        973,
+        1442
+      ],
+      "text": "Buzick John Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9402
+    },
+    {
+      "bbox": [
+        594,
+        1440,
+        973,
+        1460
+      ],
+      "text": "Byrd Billy Rex . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9654
+    },
+    {
+      "bbox": [
+        594,
+        1457,
+        974,
+        1479
+      ],
+      "text": "BYRD'S PURE OIL STATION .......486-5712",
+      "confidence": 0.9138
+    },
+    {
+      "bbox": [
+        194,
+        1458,
+        576,
+        1475
+      ],
+      "text": "Berry's Grocery . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9702
+    },
+    {
+      "bbox": [
+        291,
+        1588,
+        401,
+        1630
+      ],
+      "text": ", pare -",
+      "confidence": 0.1896
+    }
+  ]
+}

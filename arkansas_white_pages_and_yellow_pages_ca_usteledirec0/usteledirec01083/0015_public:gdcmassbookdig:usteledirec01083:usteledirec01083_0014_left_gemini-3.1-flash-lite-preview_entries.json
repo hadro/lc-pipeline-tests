@@ -1,0 +1,717 @@
+{
+  "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "town": "Monette",
+    "alpha_section": "W"
+  },
+  "page_context": {
+    "town": "Monette",
+    "alpha_section": "B"
+  },
+  "entries": [
+    {
+      "subscriber_name": "Bertig Elevator",
+      "address_info": null,
+      "phone_number": "486-2213",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Bertig Gin Co.",
+      "address_info": null,
+      "phone_number": "486-2122",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Abel Neil",
+      "address_info": null,
+      "phone_number": "486-5865",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Bibb John",
+      "address_info": "RFD 1",
+      "phone_number": "486-5468",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Adams Harry",
+      "address_info": null,
+      "phone_number": "486-5634",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Bibb Lloyd",
+      "address_info": null,
+      "phone_number": "486-5759",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Adams J Q",
+      "address_info": null,
+      "phone_number": "486-2174",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Bibb Richard",
+      "address_info": "RFD 3 Leachville",
+      "phone_number": "486-2191",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Agnew Gladys",
+      "address_info": null,
+      "phone_number": "486-2118",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Bibb's Garage",
+      "address_info": null,
+      "phone_number": "486-5722",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Anderson Aubrey",
+      "address_info": null,
+      "phone_number": "486-5732",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Blacet George R",
+      "address_info": "RFD 1",
+      "phone_number": "486-5693",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Anderson Carl",
+      "address_info": null,
+      "phone_number": "486-5447",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Blankenship Beulah Mrs",
+      "address_info": null,
+      "phone_number": "486-5516",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Anderson J M",
+      "address_info": null,
+      "phone_number": "486-5402",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Blankenship Claude",
+      "address_info": null,
+      "phone_number": "486-5481",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Arant George",
+      "address_info": null,
+      "phone_number": "486-2226",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "BLANKENSHIP & CO",
+      "address_info": "furntr",
+      "phone_number": "486-2112",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "ARK-MO POWER CO.",
+      "address_info": null,
+      "phone_number": "486-5427",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Blankenship James",
+      "address_info": null,
+      "phone_number": "486-5573",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Arnold JE Mrs",
+      "address_info": null,
+      "phone_number": "486-5465",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Blankenship Lillian Mrs",
+      "address_info": null,
+      "phone_number": "486-5872",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Arnold Velma Mrs",
+      "address_info": "RFD 2 Lake City",
+      "phone_number": "486-5720",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Blankenship Milton",
+      "address_info": null,
+      "phone_number": "486-5642",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Assembly of God Parsonage",
+      "address_info": null,
+      "phone_number": "486-5836",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Blankenship Norman",
+      "address_info": null,
+      "phone_number": "486-5572",
+      "town": "Monette",
+      "alpha_section": "A",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Baird Fred",
+      "address_info": "RFD 2 Lake City",
+      "phone_number": "486-2149",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Blankenship Paul",
+      "address_info": null,
+      "phone_number": "486-5635",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Baker Bessie",
+      "address_info": null,
+      "phone_number": "486-5647",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Blankenship Tucker",
+      "address_info": null,
+      "phone_number": "486-2163",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Baldridge J H",
+      "address_info": "RFD 1 Cardwell",
+      "phone_number": "486-2139",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Blankenship's Body Shop",
+      "address_info": "Hwy 139 N",
+      "phone_number": "486-5522",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Ball Ben F",
+      "address_info": null,
+      "phone_number": "486-5685",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Blasingame James W",
+      "address_info": "RFD 2 Lake City",
+      "phone_number": "486-2176",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Ball Henry O",
+      "address_info": "RFD 1",
+      "phone_number": "486-5810",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Bley Harold",
+      "address_info": null,
+      "phone_number": "486-5846",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "BALL IMPLEMENT CO INC.",
+      "address_info": null,
+      "phone_number": "486-5431",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Bob's City Drug Store",
+      "address_info": null,
+      "phone_number": "486-2111",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Ball James F",
+      "address_info": null,
+      "phone_number": "486-5528",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Bolar P B",
+      "address_info": "RFD 3 Leachville",
+      "phone_number": "486-5679",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Ball Thomas",
+      "address_info": null,
+      "phone_number": "486-5638",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Boleyn Lloyd",
+      "address_info": "RFD 1",
+      "phone_number": "486-5875",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Baptist Church",
+      "address_info": null,
+      "phone_number": "486-5441",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Bowman M C",
+      "address_info": null,
+      "phone_number": "486-5824",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Baptist Parsonage",
+      "address_info": null,
+      "phone_number": "486-5456",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Braden Alton",
+      "address_info": "RFD 3 Leachville",
+      "phone_number": "486-2192",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Barber Grover C",
+      "address_info": null,
+      "phone_number": "486-2171",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Braden Bill",
+      "address_info": "farm",
+      "phone_number": "486-5407",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Barnes J T",
+      "address_info": null,
+      "phone_number": "486-2254",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Braden Glenna Mrs",
+      "address_info": null,
+      "phone_number": "486-2133",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Barnes May Mrs",
+      "address_info": null,
+      "phone_number": "486-5475",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Bradford William Z",
+      "address_info": "RFD 2 Lake City",
+      "phone_number": "486-5683",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Barnes W L",
+      "address_info": "RFD 2 Leachville",
+      "phone_number": "486-2259",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Bray Arthur",
+      "address_info": "RFD 1",
+      "phone_number": "486-2195",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Barnett Claude Earl",
+      "address_info": null,
+      "phone_number": "486-5752",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Brinkley Cecil",
+      "address_info": "RFD 1 Cardwell",
+      "phone_number": "486-5729",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "BARNETT HOMER & SON",
+      "address_info": "RFD 1 Cardwell",
+      "phone_number": "486-5640",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Brinkley J M Mrs",
+      "address_info": "RFD 3 Leachville",
+      "phone_number": "486-5550",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Barnett Richard",
+      "address_info": "RFD 1 Cardwell",
+      "phone_number": "486-5681",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Brinkley Leon",
+      "address_info": "RFD 1 Cardwell",
+      "phone_number": "486-5785",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Bell Billy J",
+      "address_info": "RFD 2 Leachville",
+      "phone_number": "486-5630",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Bronaugh Billy",
+      "address_info": null,
+      "phone_number": "486-2167",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Bell Robert",
+      "address_info": null,
+      "phone_number": "486-2128",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Brown G C Mrs",
+      "address_info": null,
+      "phone_number": "486-2157",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Berry A D",
+      "address_info": null,
+      "phone_number": "486-5592",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Brown Ethel",
+      "address_info": null,
+      "phone_number": "486-2153",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Berry Monroe",
+      "address_info": "RFD 1",
+      "phone_number": "486-5584",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Brown Joe",
+      "address_info": "RFD 2 Leachville",
+      "phone_number": "486-5629",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Berry Thurlo",
+      "address_info": null,
+      "phone_number": "486-5753",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Bruce Carmel",
+      "address_info": "RFD 1",
+      "phone_number": "486-5839",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Berryhill W M",
+      "address_info": "RFD 1 Cardwell",
+      "phone_number": "486-2186",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Buffaloe W T",
+      "address_info": null,
+      "phone_number": "486-5851",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Berry's Grocery",
+      "address_info": null,
+      "phone_number": "486-5813",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Buzick J W Jr",
+      "address_info": null,
+      "phone_number": "486-2155",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Buzick John",
+      "address_info": "farm",
+      "phone_number": "486-5687",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Buzick John Mrs",
+      "address_info": null,
+      "phone_number": "486-2246",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "Byrd Billy Rex",
+      "address_info": null,
+      "phone_number": "486-2172",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    },
+    {
+      "subscriber_name": "BYRD'S PURE OIL STATION",
+      "address_info": null,
+      "phone_number": "486-5712",
+      "town": "Monette",
+      "alpha_section": "B",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg"
+    }
+  ]
+}

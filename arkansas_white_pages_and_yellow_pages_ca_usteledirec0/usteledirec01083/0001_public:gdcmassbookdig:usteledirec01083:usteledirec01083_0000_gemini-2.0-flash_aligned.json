@@ -1,0 +1,21 @@
+{
+  "image": "0001_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0000.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://www.loc.gov/item/usteledirec01083/canvas/1",
+  "canvas_width": 6304,
+  "canvas_height": 5288,
+  "lines": [
+    {
+      "bbox": [
+        513,
+        655,
+        1500,
+        904
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/1#xywh=1579,2017,3038,767",
+      "confidence": "line",
+      "gemini_text": "START"
+    }
+  ],
+  "unmatched_gemini": []
+}

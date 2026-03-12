@@ -1,0 +1,946 @@
+{
+  "image_width": 1024,
+  "image_height": 1703,
+  "lines": [
+    {
+      "bbox": [
+        395,
+        201,
+        493,
+        217
+      ],
+      "text": "MONETTE",
+      "confidence": 0.7812
+    },
+    {
+      "bbox": [
+        665,
+        203,
+        832,
+        221
+      ],
+      "text": "Metcalf—Stotts 11",
+      "confidence": 0.9448
+    },
+    {
+      "bbox": [
+        55,
+        223,
+        431,
+        247
+      ],
+      "text": "Metcalf Hattie Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9345
+    },
+    {
+      "bbox": [
+        454,
+        229,
+        831,
+        249
+      ],
+      "text": "Redman Karlene B . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9263
+    },
+    {
+      "bbox": [
+        52,
+        240,
+        430,
+        264
+      ],
+      "text": "Methodist Parsonage . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        454,
+        247,
+        831,
+        267
+      ],
+      "text": "Reed Omer RFD 1....................................",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        52,
+        256,
+        430,
+        280
+      ],
+      "text": "Miles Farrell RFD 1....................................",
+      "confidence": 0.9821
+    },
+    {
+      "bbox": [
+        453,
+        261,
+        832,
+        301
+      ],
+      "text": "Reeves Howard ....................................",
+      "confidence": 0.9552
+    },
+    {
+      "bbox": [
+        51,
+        271,
+        432,
+        332
+      ],
+      "text": "\n    \n        Miles Seth RFD 2 Lake City\n        486-2203\n    \n    \n        Miller Bob RFD 2 Leachville\n        486-5586\n    \n    \n        Miller Jack RFD 2 Le",
+      "confidence": 0.9785
+    },
+    {
+      "bbox": [
+        453,
+        296,
+        830,
+        315
+      ],
+      "text": "Renew Cleaners . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9671
+    },
+    {
+      "bbox": [
+        452,
+        310,
+        831,
+        351
+      ],
+      "text": "\n    \n        Reves J Allen\n        486-5553\n    \n    \n        Reynolds Cora Mrs\n        486-5561\n    \n",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        50,
+        319,
+        432,
+        401
+      ],
+      "text": "Miller Raymond 486-5834\nMiller W H 486-5434\nMissco IMPLEMENT CO 486-5434\nMonette Cooperative Inc 486-5713",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        451,
+        342,
+        831,
+        403
+      ],
+      "text": "\n    \n        Richardson Roy\n        486-5555\n    \n    \n        Robert Freddie J\n        486-5644\n    \n    \n        Robertson W C Mrs\n        486-5743",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        447,
+        386,
+        832,
+        526
+      ],
+      "text": "| RODERTSON W U MITS                                   ",
+      "confidence": 0.9304
+    },
+    {
+      "bbox": [
+        52,
+        388,
+        432,
+        432
+      ],
+      "text": "MONETTE FLOWER & ART SHOP ... 486-2231<br>Monette Growers Association ... 486-2132",
+      "confidence": 0.9033
+    },
+    {
+      "bbox": [
+        52,
+        420,
+        430,
+        450
+      ],
+      "text": "MONETTE IMPLEMENT CO .......486-5417",
+      "confidence": 0.9803
+    },
+    {
+      "bbox": [
+        51,
+        440,
+        431,
+        481
+      ],
+      "text": "Monette Lodge 558 ..................................",
+      "confidence": 0.9302
+    },
+    {
+      "bbox": [
+        52,
+        474,
+        242,
+        493
+      ],
+      "text": "Monette Public Schools",
+      "confidence": 0.8872
+    },
+    {
+      "bbox": [
+        80,
+        493,
+        430,
+        512
+      ],
+      "text": "Grade School . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9542
+    },
+    {
+      "bbox": [
+        79,
+        508,
+        431,
+        549
+      ],
+      "text": "Principal's Office ....................................",
+      "confidence": 0.9291
+    },
+    {
+      "bbox": [
+        450,
+        514,
+        826,
+        533
+      ],
+      "text": "Ruebush Edna . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9549
+    },
+    {
+      "bbox": [
+        51,
+        541,
+        431,
+        582
+      ],
+      "text": "MONETTE STATE BANK . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9698
+    },
+    {
+      "bbox": [
+        627,
+        550,
+        648,
+        570
+      ],
+      "text": "S",
+      "confidence": 0.8636
+    },
+    {
+      "bbox": [
+        51,
+        574,
+        428,
+        599
+      ],
+      "text": "Monette Water & Sewer . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9858
+    },
+    {
+      "bbox": [
+        448,
+        577,
+        827,
+        619
+      ],
+      "text": "Scarsdale G 0 Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.4283
+    },
+    {
+      "bbox": [
+        49,
+        590,
+        430,
+        634
+      ],
+      "text": "Moore Kip Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.5169
+    },
+    {
+      "bbox": [
+        448,
+        609,
+        826,
+        635
+      ],
+      "text": "Scott Johnnie Mrs RFD 1 . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9889
+    },
+    {
+      "bbox": [
+        49,
+        624,
+        428,
+        649
+      ],
+      "text": "Morgan J D RFD 3 Leachville . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9874
+    },
+    {
+      "bbox": [
+        449,
+        630,
+        826,
+        649
+      ],
+      "text": "Scott Thomas . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9859
+    },
+    {
+      "bbox": [
+        49,
+        640,
+        428,
+        665
+      ],
+      "text": "MORGAN'S ESSO STATION ....................................",
+      "confidence": 0.9651
+    },
+    {
+      "bbox": [
+        449,
+        648,
+        826,
+        666
+      ],
+      "text": "Sembler G E RFD 1....................................",
+      "confidence": 0.9742
+    },
+    {
+      "bbox": [
+        50,
+        658,
+        428,
+        682
+      ],
+      "text": "Mullen Jeff . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9785
+    },
+    {
+      "bbox": [
+        446,
+        660,
+        827,
+        723
+      ],
+      "text": "\n    \n        Shannon Robert\n        486-5874\n    \n    \n        Shannon W G RFD 1\n        486-5594\n    \n    \n        Shaver James R RFD 2 Lake City\n      ",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        226,
+        695,
+        252,
+        717
+      ],
+      "text": "N",
+      "confidence": 0.951
+    },
+    {
+      "bbox": [
+        448,
+        714,
+        826,
+        736
+      ],
+      "text": "Simpkins C L RFD 2 Lake City......486-5703",
+      "confidence": 0.9798
+    },
+    {
+      "bbox": [
+        49,
+        728,
+        427,
+        746
+      ],
+      "text": "Nelson C A . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9726
+    },
+    {
+      "bbox": [
+        49,
+        743,
+        426,
+        765
+      ],
+      "text": "Nettles Ira Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9244
+    },
+    {
+      "bbox": [
+        49,
+        761,
+        426,
+        780
+      ],
+      "text": "Nettles Mary . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9341
+    },
+    {
+      "bbox": [
+        46,
+        775,
+        427,
+        800
+      ],
+      "text": "Norman Cora . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        460,
+        776,
+        653,
+        793
+      ],
+      "text": "To Complete All Calls",
+      "confidence": 0.9714
+    },
+    {
+      "bbox": [
+        47,
+        794,
+        428,
+        814
+      ],
+      "text": "Norman's Market groc . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.983
+    },
+    {
+      "bbox": [
+        535,
+        812,
+        733,
+        829
+      ],
+      "text": "REMEMBER TO DIAL",
+      "confidence": 0.8529
+    },
+    {
+      "bbox": [
+        227,
+        833,
+        249,
+        848
+      ],
+      "text": "O",
+      "confidence": 0.5048
+    },
+    {
+      "bbox": [
+        629,
+        847,
+        809,
+        872
+      ],
+      "text": "All Seven (7) Figures",
+      "confidence": 0.9491
+    },
+    {
+      "bbox": [
+        46,
+        859,
+        425,
+        879
+      ],
+      "text": "Osborn Frank . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9358
+    },
+    {
+      "bbox": [
+        45,
+        875,
+        425,
+        916
+      ],
+      "text": "\n    \n        Owen L P\n        486-5571\n    \n    \n        Owens Virgie Mrs\n        486-5547\n    \n",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        446,
+        910,
+        822,
+        927
+      ],
+      "text": "Simpkins W J RFD 2 Lake City......486-5802",
+      "confidence": 0.9719
+    },
+    {
+      "bbox": [
+        445,
+        922,
+        822,
+        948
+      ],
+      "text": "Sims Edith Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9855
+    },
+    {
+      "bbox": [
+        226,
+        931,
+        245,
+        948
+      ],
+      "text": "Р",
+      "confidence": 0.6974
+    },
+    {
+      "bbox": [
+        445,
+        939,
+        821,
+        966
+      ],
+      "text": "Sims Etta Miss . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9739
+    },
+    {
+      "bbox": [
+        445,
+        956,
+        822,
+        981
+      ],
+      "text": "Sims Flower Shop . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9788
+    },
+    {
+      "bbox": [
+        46,
+        959,
+        423,
+        979
+      ],
+      "text": "Pan American Motor Coaches . . . . . . . . . 486-5831",
+      "confidence": 0.9859
+    },
+    {
+      "bbox": [
+        443,
+        973,
+        822,
+        1015
+      ],
+      "text": "Sims Variety Store . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9749
+    },
+    {
+      "bbox": [
+        46,
+        978,
+        423,
+        997
+      ],
+      "text": "Parrish Wilburn . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.965
+    },
+    {
+      "bbox": [
+        46,
+        995,
+        424,
+        1014
+      ],
+      "text": "Parten Jessie R RFD 1 Leachville . . . . . . 486-5804",
+      "confidence": 0.9701
+    },
+    {
+      "bbox": [
+        442,
+        1004,
+        820,
+        1031
+      ],
+      "text": "Sipes Jack RFD 1 Cardwell ...................................",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        45,
+        1013,
+        424,
+        1030
+      ],
+      "text": "Pierce W 0 . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        443,
+        1025,
+        820,
+        1047
+      ],
+      "text": "Sipes John Elwyn RFD 1 Cardwell . . . . . 486-2178",
+      "confidence": 0.9822
+    },
+    {
+      "bbox": [
+        46,
+        1029,
+        424,
+        1047
+      ],
+      "text": "Pierce William T RFD 1......486-5658",
+      "confidence": 0.9616
+    },
+    {
+      "bbox": [
+        44,
+        1038,
+        425,
+        1084
+      ],
+      "text": "Piercy John Edgar RFD 3 Leachville ... 486-5710<br>Pittman Alvin RFD 2 Leachville ... ... 486-5583",
+      "confidence": 0.9339
+    },
+    {
+      "bbox": [
+        443,
+        1042,
+        820,
+        1064
+      ],
+      "text": "Sipes John W RFD 1 Cardwell ........486-5740",
+      "confidence": 0.983
+    },
+    {
+      "bbox": [
+        442,
+        1060,
+        820,
+        1079
+      ],
+      "text": "Skidmore Lawrence . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9028
+    },
+    {
+      "bbox": [
+        441,
+        1073,
+        818,
+        1097
+      ],
+      "text": "Smith Harry RFD 2 Leachville .......486-5567",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        43,
+        1076,
+        424,
+        1117
+      ],
+      "text": "Pitts G F . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.6366
+    },
+    {
+      "bbox": [
+        439,
+        1084,
+        822,
+        1204
+      ],
+      "text": "\n  \n    Smith Jack\n    486-2135\n  \n  \n    Smith Leroy RFD 1\n    486-5793\n  \n  \n    Smith Quention RFD 1 Leachville\n    486-5768\n  \n  \n  ",
+      "confidence": 0.9865
+    },
+    {
+      "bbox": [
+        44,
+        1113,
+        423,
+        1130
+      ],
+      "text": "Poe E F Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        44,
+        1129,
+        422,
+        1147
+      ],
+      "text": "POLICE . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9091
+    },
+    {
+      "bbox": [
+        71,
+        1143,
+        423,
+        1167
+      ],
+      "text": "If no answer call . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        43,
+        1156,
+        421,
+        1186
+      ],
+      "text": "Porter Curtis W Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        44,
+        1180,
+        421,
+        1196
+      ],
+      "text": "Porter Lehman . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9822
+    },
+    {
+      "bbox": [
+        441,
+        1195,
+        819,
+        1231
+      ],
+      "text": "Snider Oscar . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.4431
+    },
+    {
+      "bbox": [
+        44,
+        1197,
+        422,
+        1213
+      ],
+      "text": "Price E RFD 1....................................",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        44,
+        1212,
+        422,
+        1231
+      ],
+      "text": "Primm Laura Mrs RFD 1....................................",
+      "confidence": 0.9311
+    },
+    {
+      "bbox": [
+        441,
+        1223,
+        818,
+        1249
+      ],
+      "text": "Spikes Lavell . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9584
+    },
+    {
+      "bbox": [
+        42,
+        1226,
+        421,
+        1251
+      ],
+      "text": "Pruitt Lavell RFD 3 Leachville ...... 486-5568",
+      "confidence": 0.9766
+    },
+    {
+      "bbox": [
+        440,
+        1240,
+        818,
+        1266
+      ],
+      "text": "Spikes Lloyd RFD 1....................................",
+      "confidence": 0.9424
+    },
+    {
+      "bbox": [
+        42,
+        1242,
+        422,
+        1282
+      ],
+      "text": "Pyland J H RFD 2 Lake City. 486-5767\nPylant C E RFD 3 Leachville. 486-2159",
+      "confidence": 0.4458
+    },
+    {
+      "bbox": [
+        439,
+        1258,
+        819,
+        1300
+      ],
+      "text": "\n    \n        Spiller Nora Mrs\n        486-5716\n    \n    \n        Stallings Harvey L\n        486-2164\n    \n",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        441,
+        1290,
+        816,
+        1314
+      ],
+      "text": "Steed Bruce . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        220,
+        1298,
+        245,
+        1322
+      ],
+      "text": "Q",
+      "confidence": 0.9648
+    },
+    {
+      "bbox": [
+        440,
+        1307,
+        818,
+        1351
+      ],
+      "text": "\n  \n    \n      Steele J D\n      ....................................",
+      "confidence": 0.9815
+    },
+    {
+      "bbox": [
+        42,
+        1328,
+        420,
+        1347
+      ],
+      "text": "Qualls Jessie E RFD 2 Lake City ..... 486-2293",
+      "confidence": 0.9497
+    },
+    {
+      "bbox": [
+        439,
+        1341,
+        817,
+        1383
+      ],
+      "text": "\n    \n        Steele R Q RFD 1\n        ....................................",
+      "confidence": 0.9313
+    },
+    {
+      "bbox": [
+        42,
+        1346,
+        420,
+        1365
+      ],
+      "text": "Qualls Lucille Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.8747
+    },
+    {
+      "bbox": [
+        42,
+        1364,
+        420,
+        1381
+      ],
+      "text": "Qualls Red . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9285
+    },
+    {
+      "bbox": [
+        439,
+        1375,
+        817,
+        1419
+      ],
+      "text": "\n    \n        Stewart G F\n        .486-2201\n    \n    \n        Stewart Ralph Mrs\n        .486-5444\n    \n",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        41,
+        1380,
+        420,
+        1397
+      ],
+      "text": "Quillen Gertrude . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.8256
+    },
+    {
+      "bbox": [
+        439,
+        1407,
+        816,
+        1433
+      ],
+      "text": "Stewart Revis C RFD 2 Lake City . . . . . 486-5787",
+      "confidence": 0.983
+    },
+    {
+      "bbox": [
+        218,
+        1413,
+        244,
+        1435
+      ],
+      "text": "R",
+      "confidence": 0.9376
+    },
+    {
+      "bbox": [
+        440,
+        1429,
+        816,
+        1447
+      ],
+      "text": "Stewart W A RFD 1....................................",
+      "confidence": 0.9577
+    },
+    {
+      "bbox": [
+        40,
+        1438,
+        419,
+        1462
+      ],
+      "text": "Ramsey Jesse RFD 1....................................",
+      "confidence": 0.9762
+    },
+    {
+      "bbox": [
+        437,
+        1440,
+        817,
+        1499
+      ],
+      "text": "\n    \n        Stotts Dewey Mrs\n        486-2219\n    \n    \n        STOTTS RADIO SHOP\n        486-5714\n    \n    \n        Stotts Virl\n        486-2210</t",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        40,
+        1460,
+        420,
+        1477
+      ],
+      "text": "Randall O T Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9729
+    },
+    {
+      "bbox": [
+        40,
+        1475,
+        420,
+        1494
+      ],
+      "text": "Ray Raymond . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9671
+    }
+  ]
+}

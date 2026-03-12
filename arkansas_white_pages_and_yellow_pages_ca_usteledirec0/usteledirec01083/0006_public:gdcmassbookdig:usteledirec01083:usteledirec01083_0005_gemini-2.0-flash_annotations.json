@@ -1,0 +1,28 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "BEST COPY",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/6#xywh=1210,1925,3825,482"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "AVAILABLE",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/6#xywh=1204,3387,3788,522"
+    }
+  ]
+}

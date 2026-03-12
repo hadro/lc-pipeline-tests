@@ -1,0 +1,677 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MICROCOPY RESOLUTION TEST CHART",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=736,549,910,672"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "(ANSI and ISO TEST CHART No. 2)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=733,932,312,203"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "2.5",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=1544,966,305,210"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "2.2",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=1608,1078,301,237"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "4.0",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=1353,1082,304,526"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "2.0",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=1525,1210,147,147"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1.1",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=1713,1210,263,214"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1.8",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=1537,1293,263,225"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1.25 1.4 1.6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=1172,1330,158,177"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "APPLIED IMAGE, Inc",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=2082,1623,90,72"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1653 East Main Street",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=1785,1905,800,590"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rochester, New York 14609",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=1871,2033,770,564"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "12:1",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=2386,2766,188,1747"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MICROCOPY RESOLUTION TEST CHART",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=2589,3743,289,909"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "(ANSI and ISO TEST CHART No. 2)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=2408,4502,170,1221"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1.0",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=1454,5483,102,71"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "2.0",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=1845,6016,627,643"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1.1",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=1552,6351,165,240"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1.8",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=1368,6524,180,255"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1.25 1.4 1.6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=1244,6663,165,236"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "APPLIED IMAGE, Inc",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=928,6745,489,369"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1653 East Main Street",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=770,7234,301,289"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rochester, New York 14609",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=650,7253,207,172"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "THE LIBRARY OF CONGRESS",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=857,7452,263,278"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "PHOTODUPLICATION SERVICE",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=1075,7700,184,165"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "WASHINGTON. D. C. 20540",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=6263,665,448,474"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MICROCOPY RESOLUTION TEST CHART",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=6256,812,199,173"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NBS - 1010a",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=6391,943,447,466"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "(ANSI and ISO TEST CHART No. 2)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=6643,1105,308,278"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1.1",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=5715,1274,1056,729"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1.8",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=5993,1849,199,237"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "APPLIED IMAGE, Inc",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=5148,1965,574,620"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1653 East Main Street",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=5031,2056,237,199"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rochester, New York 14609",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=5854,2059,154,139"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MICROCOPY RESOLUTION TEST CHART",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=5144,2176,458,481"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "(ANSI and ISO TEST CHART No. 2)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=3671,2702,898,195"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1.0",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=4204,3168,166,455"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "2.5",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=4396,3179,188,308"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "3.6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=4095,3194,136,507"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "4.0",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=3780,3198,255,210"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "2.0",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=4392,3480,203,158"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1.1",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=3825,3566,131,128"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1.8",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=4370,3668,214,165"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1.25 1.4 1.6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=3678,3882,316,222"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1653 East Main Street",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=4340,3904,255,188"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NBS - 1010a",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=4129,3908,139,150"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "(ANSI and ISO TEST CHART No. 2)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=3878,4404,744,94"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1.0",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=3904,4536,706,120"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "45 2.8",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=3795,5050,443,429"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "2.5",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=5501,5982,82,102"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "3.2",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=4873,6020,864,778"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "2.2",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=5861,6332,245,278"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "3.6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=5437,6865,222,166"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "4.0",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=5873,6967,424,349"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "2.0",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=6399,6974,94,102"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1.1",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=5591,7012,278,203"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1.8",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=6267,7098,748,782"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1.25 1.4 1.6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=5764,7106,203,229"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "APPLIED IMAGE, Inc",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=6759,7132,271,282"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1653 East Main Street",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=5839,7226,293,229"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rochester, New York 14609",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=6008,7358,154,173"
+    }
+  ]
+}

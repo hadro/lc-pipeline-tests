@@ -1,0 +1,501 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "HOW TO USE THE DIAL TELEPHONE IN MONETTE, ARKANSAS",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3774,673,2223,79"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "IF YOUR DIAL LOOKS LIKE THIS",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3814,896,805,73"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "DO NOT CONFUSE A LETTER WITH A FIGURE WHEN DIALING",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3884,1844,2000,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1. Look up the number. If the number you are",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3598,2068,1244,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "calling is not listed in the directory, dial the Fig-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3664,2137,1178,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ure \"0\" (Opr) and ask for \"INFORMATION.\"",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3664,2204,1175,57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "2. Lift the receiver and listen for the DIAL TONE-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3598,2271,1244,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "a steady humming sound. Be sure the receiver",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3664,2341,1178,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "is off the hook while dialing.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3664,2414,699,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "3. For local calls, all seven (7) figures must be",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3591,2474,1251,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "dialed. For example, if the number 486-5421 is",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3664,2550,1178,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "to be dialed, place your finger in the opening",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3661,2620,1178,57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "where the Figure \"4\" appears and turn the dial",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3664,2687,1175,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "around until your finger strikes the stop.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3661,2760,998,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "4. Raise your finger, and without touching the dial,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3591,2830,1248,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "let it return to its original position. Do not force",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3664,2897,1175,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "or retard the motion of the dial.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3661,2966,789,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "5. Then continue by dialing the Figure \"8\" and the",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3588,3036,1251,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "remaining Figures \"6-, 5, 4, 2 and I\" in the same",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3661,3106,1178,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "manner.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3654,4322,656,49"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "6. After you have finished dialing you should hear",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4922,2068,1258,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "in the receiver either the RINGING SIGNAL",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4992,2137,1188,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "(an intermittent burr-r-ring sound) or the BUSY",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4996,2207,1181,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "SIGNAL (a rapid buzz-buzz-buzz sound).",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4992,2274,1009,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "If the \"Ringing Signa!\" is heard, it indicates that",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4996,2347,1181,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "the called party is being rung. Allow a rea-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4996,2417,1184,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "sonable length of time for someone at the called",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4992,2484,1185,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "station to answer. If you receive no answer, hang",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4992,2554,1182,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "If you hear the \"Busy Signal,\" it means that the",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4992,2693,1185,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "called station is busy. Hang up and call later.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4992,2763,1185,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "If you hear neither of these signals within a few",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4986,2833,1191,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "seconds, hang up the receiver for a few moments",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4989,2900,1185,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and then lift it and dial the complete number",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4989,2970,1185,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "again. If several attempts fail, dial \"0\" (Oper-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4986,3040,1188,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ator) and ask for \"CHIEF OPERATOR\" and",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4982,3100,1188,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "explain your difficulty.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4982,3176,549,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "To make a call to a subscriber on the same party 4. Allow sufficient time for the called party to",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4912,4115,1258,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "answer. Your telephone will stop ringing when-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4982,4185,1185,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ever the called party answers his telephone.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4982,4258,1188,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Then remove your receiver and begin the con-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4979,4325,1191,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "5. If the called party does not answer within a",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4912,4461,1252,64"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "reasonable length of time, you should break the",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4982,4528,1182,67"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "connection by removing your receiver and then",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4982,4601,1185,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "replacing it after a few moments.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4982,4674,812,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "7",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4856,4904,40,57"
+    }
+  ]
+}

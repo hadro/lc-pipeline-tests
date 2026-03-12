@@ -1,0 +1,66 @@
+{
+  "image_width": 2048,
+  "image_height": 1717,
+  "lines": [
+    {
+      "bbox": [
+        283,
+        314,
+        1786,
+        387
+      ],
+      "text": "ARKANSAS TELEPHONE DIRECTORIES",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        688,
+        500,
+        1340,
+        574
+      ],
+      "text": "WHITE PAGES",
+      "confidence": 0.7732
+    },
+    {
+      "bbox": [
+        208,
+        684,
+        435,
+        753
+      ],
+      "text": "CITY:",
+      "confidence": 0.7759
+    },
+    {
+      "bbox": [
+        530,
+        687,
+        1399,
+        763
+      ],
+      "text": "CARAWAY, MONETTE",
+      "confidence": 0.7633
+    },
+    {
+      "bbox": [
+        209,
+        1296,
+        474,
+        1364
+      ],
+      "text": "YEAR:",
+      "confidence": 0.7083
+    },
+    {
+      "bbox": [
+        572,
+        1297,
+        1209,
+        1370
+      ],
+      "text": "December 1960",
+      "confidence": 0.9272
+    }
+  ]
+}

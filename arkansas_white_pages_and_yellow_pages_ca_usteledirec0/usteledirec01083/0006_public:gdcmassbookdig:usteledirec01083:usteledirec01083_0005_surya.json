@@ -1,0 +1,26 @@
+{
+  "image_width": 2048,
+  "image_height": 1717,
+  "lines": [
+    {
+      "bbox": [
+        394,
+        627,
+        1640,
+        784
+      ],
+      "text": "BEST COPY",
+      "confidence": 0.9541
+    },
+    {
+      "bbox": [
+        392,
+        1103,
+        1626,
+        1273
+      ],
+      "text": "AVAILABLE",
+      "confidence": 0.9794
+    }
+  ]
+}

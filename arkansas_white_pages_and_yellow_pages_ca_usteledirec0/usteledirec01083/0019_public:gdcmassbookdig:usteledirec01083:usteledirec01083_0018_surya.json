@@ -1,0 +1,96 @@
+{
+  "image_width": 2048,
+  "image_height": 1707,
+  "lines": [
+    {
+      "bbox": [
+        411,
+        339,
+        1652,
+        427
+      ],
+      "text": "<b>U.S. TELEPHONE DIRECTORY</b>",
+      "confidence": 0.9769
+    },
+    {
+      "bbox": [
+        355,
+        434,
+        1695,
+        520
+      ],
+      "text": "<b>COLLECTION: REEL CONTENTS</b>",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        800,
+        540,
+        1295,
+        604
+      ],
+      "text": "<b>ARKANSAS</b>",
+      "confidence": 0.9441
+    },
+    {
+      "bbox": [
+        471,
+        672,
+        1562,
+        736
+      ],
+      "text": "MICROFILM NUMBER (o) 90/5003 MicRR",
+      "confidence": 0.7286
+    },
+    {
+      "bbox": [
+        658,
+        793,
+        1372,
+        835
+      ],
+      "text": "White Pages and Yellow Pages for:",
+      "confidence": 0.6897
+    },
+    {
+      "bbox": [
+        679,
+        891,
+        1431,
+        937
+      ],
+      "text": "<b>CITY: CARAWAY (Includes Monette)</b>",
+      "confidence": 0.9851
+    },
+    {
+      "bbox": [
+        895,
+        941,
+        1213,
+        979
+      ],
+      "text": "December 1960",
+      "confidence": 0.7305
+    },
+    {
+      "bbox": [
+        453,
+        1284,
+        1579,
+        1324
+      ],
+      "text": "(Note: See targets preceding White Pages and Yellow Pages for full listing of cities",
+      "confidence": 0.9722
+    },
+    {
+      "bbox": [
+        943,
+        1325,
+        1078,
+        1354
+      ],
+      "text": "covered.)",
+      "confidence": 0.9768
+    }
+  ]
+}

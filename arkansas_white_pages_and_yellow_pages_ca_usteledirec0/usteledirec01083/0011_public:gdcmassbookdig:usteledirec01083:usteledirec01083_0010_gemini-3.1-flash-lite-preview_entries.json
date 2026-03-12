@@ -1,0 +1,84 @@
+{
+  "image": "0011_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0010.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {},
+  "page_context": {
+    "town": null,
+    "alpha_section": null
+  },
+  "entries": [
+    {
+      "subscriber_name": "CARAWAY FIRE",
+      "address_info": null,
+      "phone_number": "482-3456",
+      "town": "Caraway",
+      "alpha_section": null,
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11",
+      "image": "0011_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0010.jpg"
+    },
+    {
+      "subscriber_name": "CARAWAY FIRE (if no answer)",
+      "address_info": null,
+      "phone_number": "482-3472",
+      "town": "Caraway",
+      "alpha_section": null,
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11",
+      "image": "0011_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0010.jpg"
+    },
+    {
+      "subscriber_name": "CARAWAY POLICE",
+      "address_info": null,
+      "phone_number": "482-3434",
+      "town": "Caraway",
+      "alpha_section": null,
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11",
+      "image": "0011_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0010.jpg"
+    },
+    {
+      "subscriber_name": "CARAWAY BUSINESS OFFICE",
+      "address_info": null,
+      "phone_number": "482-3521",
+      "town": "Caraway",
+      "alpha_section": null,
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11",
+      "image": "0011_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0010.jpg"
+    },
+    {
+      "subscriber_name": "MONETTE FIRE",
+      "address_info": null,
+      "phone_number": "486-5678",
+      "town": "Monette",
+      "alpha_section": null,
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11",
+      "image": "0011_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0010.jpg"
+    },
+    {
+      "subscriber_name": "MONETTE FIRE (if no answer)",
+      "address_info": null,
+      "phone_number": "486-5864",
+      "town": "Monette",
+      "alpha_section": null,
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11",
+      "image": "0011_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0010.jpg"
+    },
+    {
+      "subscriber_name": "MONETTE POLICE",
+      "address_info": null,
+      "phone_number": "486-2121",
+      "town": "Monette",
+      "alpha_section": null,
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11",
+      "image": "0011_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0010.jpg"
+    },
+    {
+      "subscriber_name": "MONETTE BUSINESS OFFICE",
+      "address_info": null,
+      "phone_number": "486-5421",
+      "town": "Monette",
+      "alpha_section": null,
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11",
+      "image": "0011_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0010.jpg"
+    }
+  ]
+}

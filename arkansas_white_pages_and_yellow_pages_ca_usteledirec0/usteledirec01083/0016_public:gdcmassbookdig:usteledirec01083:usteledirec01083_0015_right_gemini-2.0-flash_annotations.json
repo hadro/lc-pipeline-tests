@@ -1,0 +1,1436 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MONETTE",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4712,668,325,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Redman Karlene B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4907,761,1252,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Reed Omer RFD 1.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4907,820,1252,67"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Reeves Howard",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4904,867,1258,133"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Renew Cleaners",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4904,983,1252,63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Reynolds Cora Mrs",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4901,1030,1258,136"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Robert Freddie J.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4897,1136,1262,202"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Robertson W C Mrs",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4884,1282,1278,465"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ruebush Edna",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4894,1707,1249,63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Scarsdale GO Mrs",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4888,1916,1258,140"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Scott Johnnie Mrs RFD 1",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4888,2023,1255,86"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Scott Thomas",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4891,2092,1252,63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sembler GE RFD 1.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4891,2152,1252,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Shaver James R RFD 2 Lake City.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4881,2192,1265,209"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Simpkins C L RFD 2 Lake City.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4888,2371,1255,73"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "To Complete All Calls",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4927,2577,641,57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "REMEMBER TO DIAL",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=5176,2697,658,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Simpkins WJ RFD 2 Lake City.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4881,3022,1248,57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sims Edith Mrs",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4878,3062,1251,86"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sims Etta Miss",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4878,3119,1248,89"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sims Flower Shop",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4878,3175,1251,83"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sims Variety Store",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4871,3232,1258,139"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sipes Jack RFD 1 Cardwell.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4868,3334,1255,90"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sipes John Elwyn RFD 1 Cardwell.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4871,3404,1252,73"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sipes John W RFD 1 Cardwell.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4871,3461,1252,73"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Skidmore Lawrence",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4868,3520,1255,64"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Smith Harry RFD 2 Leachville.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4864,3564,1252,79"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Smith Quention RFD 1 Leachville.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4858,3600,1271,399"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Snider Oscar",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4864,3969,1255,119"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Spikes Lavell",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4864,4062,1252,86"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Spikes Lloyd RFD 1.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4861,4118,1255,87"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Stallings Harvey L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4858,4178,1261,140"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Steed Bruce",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4864,4284,1245,80"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Steele J D",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4861,4341,1255,146"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Steele R Q RFD 1...",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4858,4454,1255,139"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Stewart Ralph Mrs",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4858,4567,1255,146"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Stewart Revis C RFD 2 Lake City.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4858,4673,1251,86"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Stewart WA RFD 1.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4861,4746,1248,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "STOTTS RADIO SHOP",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4851,4783,1262,195"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Metcalf Hattie Mrs",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=359,747,2516,63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Methodist Parsonage",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=359,804,2503,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miles Farrell RFD 1.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=352,860,2510,63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miles Seth RFD 2 Lake City.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=352,910,2510,73"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miller Bob RFD 2 Leachville.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=352,973,2510,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miller Jack RFD 2 Leachville.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=359,1026,2503,63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miller Raymond",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=352,1086,2510,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miller W H",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=352,1139,2510,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MISSCO IMPLEMENT CO",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=352,1189,2510,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Monette Cooperative Inc",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=345,1242,2517,130"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Monette Growers Association",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=345,1348,2510,80"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MONETTE IMPLEMENT CO",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=345,1415,2510,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Monette Lodge 558",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=339,1465,2523,132"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Monette Public Schools",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=345,1584,1136,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Grade School",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=525,1634,2330,73"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Principal's Office",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=531,1694,2324,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Superintendent's Office",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=525,1754,2317,59"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MONETTE STATE BANK",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=339,1810,2510,57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MONETTE SUN OFFICE newsppr.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=339,1860,2503,73"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Monette Water & Sewer",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=339,1916,2503,67"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Moore Kip Mrs",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=339,1973,2503,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MOORE KIP LUMBER CO",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=339,2026,2497,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Morgan JD RFD 3 Leachville.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=339,2082,2503,67"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MORGAN'S ESSO STATION",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=339,2139,2503,63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mullen Jeff",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=339,2199,2503,59"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Nelson C A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=319,2415,2530,63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Nettles Ira Mrs",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=319,2471,2530,63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Nettles Mary",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=319,2527,2523,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Norman Cora",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=319,2584,2523,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Norman's Market groc",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=319,2640,2523,67"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Osborn Frank",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=272,2853,2577,80"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Owen L P",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=272,2919,2577,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Owens Virgie Mrs",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=272,2972,2577,64"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pan American Motor Coaches",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=305,3192,2511,63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Parrish Wilburn",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=305,3251,2511,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Parten Jessie R RFD 1 Leachville.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=299,3305,2510,59"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pierce W O",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=299,3364,2510,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pierce William T RFD 1.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=299,3414,2510,63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Piercy John Edgar RFD 3 Leachville.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=299,3474,2510,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pittman Alvin RFD 2 Leachville.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=299,3530,2510,57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pitts G F",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=299,3587,2510,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pitts R H RFD 1.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=299,3643,2497,57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Poe E F Mrs",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=299,3696,2503,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "POLICE",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=299,3756,2497,57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "If no answer call",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=471,3813,2331,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Porter Curtis W Mrs",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=299,3866,2497,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Porter Lehman",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=299,3922,2503,57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Price E RFD 1..",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=299,3975,2497,57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Primm Laura Mrs RFD 1.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=299,4029,2503,59"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pruitt Lavell RFD 3 Leachville.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=299,4088,2497,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pyland J H RFD 2 Lake City.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=299,4142,2497,59"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pylant CE RFD 3 Leachville.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=299,4198,2497,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Qualls Jessie E RFD 2 Lake City.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=259,4414,2557,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Qualls Lucille Mrs",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=259,4470,2543,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Qualls Red",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=266,4530,2536,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Quillen Gertrude",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=252,4583,2557,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ramsey Jesse RFD 1.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=246,4789,2563,63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Randall O T Mrs",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=246,4846,2563,59"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ray Raymond.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=246,4905,2556,57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Metcalf-Stotts 11",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4403,674,903,57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "REEVES HOWARD GROCERY",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=3002,937,1859,46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": ".486-5511",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4980,943,545,40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Richardson Roy",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=2995,1152,764,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "486-5555",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4808,1162,717,47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Robinson AF Mrs",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=3002,1322,889,46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "486-5616",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4808,1328,717,47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Roddy W S Mrs",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=2982,1378,777,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rodgers Scott",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=3008,1435,691,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "486-2265",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4961,1441,564,47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "RODGERS SCOTT CITY SERVICE",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=2968,1491,1647,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "STATION",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=3287,1551,472,40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "486-5541",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4987,1554,498,43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Schultz Joe RFD 2 Lake City.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=2982,1989,1567,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "486-5757",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4795,1999,690,44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Shannon Robert",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=2995,2209,764,49"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "486-5874",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4954,2219,558,46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rogers Ray RFD 3 Leachville.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=2982,1601,1766,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "486-5892",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4980,1611,538,43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ROSS APPLIANCE SALES & SERVICE... 486-5812",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=3008,1657,2490,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sipes Henry E RFD 1 Cardwell.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=2929,3298,2556,63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Smith Jack.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=2935,3630,2530,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Smith Leroy RFD 1.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=2935,3687,2530,63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Smith W A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=2935,3796,2517,63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Smith W 0",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=2935,3853,2510,63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Snider Eston",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=2935,3906,2517,73"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Steele John G RFD 1",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=2909,4407,2530,63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Steele Randolph farm RFD 1.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=2902,4464,2543,63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Stewart G F",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=2902,4577,2523,59"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Stotts Dewey Mrs",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=2909,4630,2523,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Spiller Nora Mrs",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=2909,4191,830,47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "486-5716",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/16#xywh=4768,4201,677,47"
+    }
+  ]
+}

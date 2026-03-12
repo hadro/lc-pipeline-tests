@@ -1,0 +1,294 @@
+{
+  "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "town": "Caraway",
+    "alpha_section": "U"
+  },
+  "page_context": {
+    "town": "Caraway",
+    "alpha_section": "W"
+  },
+  "entries": [
+    {
+      "subscriber_name": "Vaughn F T",
+      "address_info": "RFD 1 Black Oak",
+      "phone_number": "482-3647",
+      "town": "Caraway",
+      "alpha_section": "V",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Waldon L E",
+      "address_info": "RFD 1 Black Oak",
+      "phone_number": "482-3450",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Wallace J M Mrs",
+      "address_info": "RFD 1 Black Oak",
+      "phone_number": "482-3666",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Wallace W K",
+      "address_info": null,
+      "phone_number": "482-3417",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Ward James",
+      "address_info": null,
+      "phone_number": "482-3527",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Ward Ode",
+      "address_info": "RFD",
+      "phone_number": "482-3504",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "WARD'S TELEVISION SERVICE",
+      "address_info": null,
+      "phone_number": "482-3611",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Waters T J",
+      "address_info": null,
+      "phone_number": "482-3338",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Watts W A",
+      "address_info": null,
+      "phone_number": "482-3537",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Welch Gro & Service Station",
+      "address_info": "RFD",
+      "phone_number": "482-3375",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Welch Joe",
+      "address_info": "RFD",
+      "phone_number": "482-3494",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Welsh Clara Belle Mrs",
+      "address_info": null,
+      "phone_number": "482-3589",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "WESTERN AUTO ASSOCIATE STORE",
+      "address_info": null,
+      "phone_number": "482-3431",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Wheeler C C Mrs",
+      "address_info": null,
+      "phone_number": "482-3347",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "White Clifford",
+      "address_info": "RFD 1 Black Oak",
+      "phone_number": "482-3309",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Whitehead J A",
+      "address_info": "RFD 1 Black Oak",
+      "phone_number": "482-3306",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Williams Grady",
+      "address_info": "RFD 1 Black Oak",
+      "phone_number": "482-3577",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Williams H N",
+      "address_info": "RFD 1 Black Oak",
+      "phone_number": "482-3678",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Williams Josie Mrs",
+      "address_info": "RFD 1 Black Oak",
+      "phone_number": "482-3679",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Williams Oscar",
+      "address_info": "RFD 1 Black Oak",
+      "phone_number": "482-3360",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Wilson Don",
+      "address_info": "RFD 1 Black Oak",
+      "phone_number": "482-3491",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Wilson R S Mrs",
+      "address_info": "RFD 1 Black Oak",
+      "phone_number": "482-3405",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Wilson Sue Mrs",
+      "address_info": null,
+      "phone_number": "482-3384",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Wood Aubrey",
+      "address_info": "RFD 1 Black Oak",
+      "phone_number": "482-3404",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Wood Billy",
+      "address_info": "RFD 1 Black Oak",
+      "phone_number": "482-3388",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Wood George Mrs",
+      "address_info": null,
+      "phone_number": "482-3664",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Wood Herbert",
+      "address_info": "RFD 1 Black Oak",
+      "phone_number": "482-3593",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Wood Herbert (Or)",
+      "address_info": "RFD 1 Black Oak",
+      "phone_number": "482-3387",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Wood Ray",
+      "address_info": null,
+      "phone_number": "482-3428",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Wood W B",
+      "address_info": "RFD 2 Manila",
+      "phone_number": "482-3698",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    },
+    {
+      "subscriber_name": "Wrinkles George",
+      "address_info": null,
+      "phone_number": "482-9364",
+      "town": "Caraway",
+      "alpha_section": "W",
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_left.jpg"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "image_width": 2048,
+  "image_height": 1717,
+  "lines": [
+    {
+      "bbox": [
+        831,
+        330,
+        868,
+        366
+      ],
+      "text": "2",
+      "confidence": 0.5041
+    },
+    {
+      "bbox": [
+        1172,
+        368,
+        1199,
+        388
+      ],
+      "text": "0",
+      "confidence": 0.8774
+    },
+    {
+      "bbox": [
+        815,
+        380,
+        849,
+        411
+      ],
+      "text": "8",
+      "confidence": 0.7504
+    },
+    {
+      "bbox": [
+        1182,
+        410,
+        1211,
+        439
+      ],
+      "text": "Z",
+      "confidence": 0.7474
+    },
+    {
+      "bbox": [
+        815,
+        415,
+        843,
+        445
+      ],
+      "text": "_",
+      "confidence": 0.7395
+    },
+    {
+      "bbox": [
+        809,
+        445,
+        871,
+        524
+      ],
+      "text": "7 #",
+      "confidence": 0.6637
+    },
+    {
+      "bbox": [
+        1174,
+        466,
+        1201,
+        486
+      ],
+      "text": "5",
+      "confidence": 0.5152
+    },
+    {
+      "bbox": [
+        384,
+        632,
+        1730,
+        723
+      ],
+      "text": "LIBRARY OF CONGRESS",
+      "confidence": 0.9768
+    },
+    {
+      "bbox": [
+        431,
+        851,
+        1700,
+        928
+      ],
+      "text": "UNITED STATES TELEPHONE",
+      "confidence": 0.9774
+    },
+    {
+      "bbox": [
+        513,
+        949,
+        1609,
+        1020
+      ],
+      "text": "DIRECTORY COLLECTION",
+      "confidence": 0.6229
+    },
+    {
+      "bbox": [
+        385,
+        1141,
+        1733,
+        1205
+      ],
+      "text": "PRESERVATION MICROFILMING",
+      "confidence": 0.782
+    },
+    {
+      "bbox": [
+        856,
+        1236,
+        1261,
+        1306
+      ],
+      "text": "<b>PROJECT</b>",
+      "confidence": 0.9532
+    }
+  ]
+}

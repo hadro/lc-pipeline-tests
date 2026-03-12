@@ -1,0 +1,14 @@
+{
+  "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_right.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "town": "Caraway",
+    "alpha_section": "W"
+  },
+  "page_context": {
+    "town": "Monette",
+    "alpha_section": "W"
+  },
+  "entries": []
+}

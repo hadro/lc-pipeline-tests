@@ -1,0 +1,1226 @@
+{
+  "image_width": 1024,
+  "image_height": 1703,
+  "lines": [
+    {
+      "bbox": [
+        541,
+        204,
+        639,
+        220
+      ],
+      "text": "MONETTE",
+      "confidence": 0.7263
+    },
+    {
+      "bbox": [
+        240,
+        205,
+        388,
+        222
+      ],
+      "text": "Haddock—Merritt",
+      "confidence": 0.8325
+    },
+    {
+      "bbox": [
+        201,
+        206,
+        222,
+        221
+      ],
+      "text": "10",
+      "confidence": 0.9516
+    },
+    {
+      "bbox": [
+        600,
+        228,
+        978,
+        250
+      ],
+      "text": "Kennedy M L RFD 3 Leachville......486-5794",
+      "confidence": 0.9648
+    },
+    {
+      "bbox": [
+        378,
+        236,
+        407,
+        253
+      ],
+      "text": "н",
+      "confidence": 0.4823
+    },
+    {
+      "bbox": [
+        600,
+        243,
+        977,
+        267
+      ],
+      "text": "Kernodle Shelton . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9351
+    },
+    {
+      "bbox": [
+        600,
+        256,
+        978,
+        302
+      ],
+      "text": "Kerr Ernest RFD 1 . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.6726
+    },
+    {
+      "bbox": [
+        200,
+        263,
+        578,
+        283
+      ],
+      "text": "Haddock Jack . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        201,
+        281,
+        577,
+        298
+      ],
+      "text": "Halsey Orville RFD 2 Lake City......486-5877",
+      "confidence": 0.9773
+    },
+    {
+      "bbox": [
+        600,
+        291,
+        976,
+        317
+      ],
+      "text": "Kimbrell Ernest RFD 1......486-5587",
+      "confidence": 0.9618
+    },
+    {
+      "bbox": [
+        201,
+        297,
+        579,
+        319
+      ],
+      "text": "Hancock J V Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9812
+    },
+    {
+      "bbox": [
+        597,
+        305,
+        979,
+        388
+      ],
+      "text": "Kimbrell JL RFD 1 486-2101\nKimbrell JW RFD 1 486-2248\nKIP MOORE LUMBER CO 486-5621\nKirksey Donald 486-5519",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        200,
+        310,
+        579,
+        337
+      ],
+      "text": "Harper Bland Dr . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9766
+    },
+    {
+      "bbox": [
+        200,
+        330,
+        578,
+        352
+      ],
+      "text": "Harper Clinic . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9707
+    },
+    {
+      "bbox": [
+        200,
+        346,
+        578,
+        370
+      ],
+      "text": "Harper T P Dr . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9781
+    },
+    {
+      "bbox": [
+        202,
+        365,
+        579,
+        382
+      ],
+      "text": "Harrell Billy G RFD 1....................................",
+      "confidence": 0.9683
+    },
+    {
+      "bbox": [
+        600,
+        376,
+        977,
+        400
+      ],
+      "text": "Koons Walter RFD 1 Lake City ...... 486-5830",
+      "confidence": 0.9868
+    },
+    {
+      "bbox": [
+        201,
+        379,
+        580,
+        403
+      ],
+      "text": "Harrell C Jethro RFD 1....................................",
+      "confidence": 0.9822
+    },
+    {
+      "bbox": [
+        201,
+        395,
+        580,
+        420
+      ],
+      "text": "Harrell Fred RFD 2 Leachville . . . . . . . 486-5778",
+      "confidence": 0.9807
+    },
+    {
+      "bbox": [
+        202,
+        414,
+        580,
+        436
+      ],
+      "text": "Harrell Joe Eli RFD 1....................................",
+      "confidence": 0.9676
+    },
+    {
+      "bbox": [
+        779,
+        416,
+        799,
+        434
+      ],
+      "text": "L",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        202,
+        432,
+        578,
+        451
+      ],
+      "text": "Harrell Roy G RFD 1....................................",
+      "confidence": 0.9623
+    },
+    {
+      "bbox": [
+        600,
+        443,
+        977,
+        463
+      ],
+      "text": "Lackey P 0 RFD 3 Leachville . . . . . . . . . 486-5530",
+      "confidence": 0.9637
+    },
+    {
+      "bbox": [
+        202,
+        448,
+        580,
+        468
+      ],
+      "text": "Harrell W E RFD 1 . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9706
+    },
+    {
+      "bbox": [
+        600,
+        460,
+        977,
+        478
+      ],
+      "text": "Lackey R E RFD 1....................................",
+      "confidence": 0.9759
+    },
+    {
+      "bbox": [
+        202,
+        465,
+        580,
+        485
+      ],
+      "text": "Harrell W M Mrs RFD 1....................................",
+      "confidence": 0.9635
+    },
+    {
+      "bbox": [
+        600,
+        476,
+        977,
+        495
+      ],
+      "text": "Ladd James RFD 1....................................",
+      "confidence": 0.9609
+    },
+    {
+      "bbox": [
+        202,
+        478,
+        580,
+        504
+      ],
+      "text": "Harris John L Jr Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9745
+    },
+    {
+      "bbox": [
+        600,
+        489,
+        978,
+        516
+      ],
+      "text": "Lane Lacy . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9845
+    },
+    {
+      "bbox": [
+        201,
+        496,
+        579,
+        520
+      ],
+      "text": "Harrison Gladys Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9507
+    },
+    {
+      "bbox": [
+        599,
+        507,
+        978,
+        548
+      ],
+      "text": "Lang Bruce . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.8272
+    },
+    {
+      "bbox": [
+        202,
+        514,
+        579,
+        536
+      ],
+      "text": "Harrison W D . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9813
+    },
+    {
+      "bbox": [
+        203,
+        531,
+        579,
+        551
+      ],
+      "text": "Hawkins Tibbels Auda Mrs . . . . . . . . . . . . . . . 486-2127",
+      "confidence": 0.9621
+    },
+    {
+      "bbox": [
+        599,
+        540,
+        978,
+        566
+      ],
+      "text": "Lawhorn W 0 . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        202,
+        545,
+        580,
+        572
+      ],
+      "text": "Hays Benny . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9754
+    },
+    {
+      "bbox": [
+        600,
+        558,
+        977,
+        580
+      ],
+      "text": "Lay Helen Poe . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9821
+    },
+    {
+      "bbox": [
+        201,
+        561,
+        579,
+        589
+      ],
+      "text": "Hay's Store groc ....................................",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        601,
+        576,
+        978,
+        596
+      ],
+      "text": "Layne Iva Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9558
+    },
+    {
+      "bbox": [
+        201,
+        579,
+        583,
+        641
+      ],
+      "text": "\n    \n        Hazel George\n        486-5728\n    \n    \n        HAZEL GEORGE ELECTRIC CO\n        486-2114\n    \n    \n        Hazel Lowell\n        486-552",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        600,
+        591,
+        978,
+        616
+      ],
+      "text": "Layne Lucian . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.959
+    },
+    {
+      "bbox": [
+        602,
+        607,
+        978,
+        632
+      ],
+      "text": "Layne Willie Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9611
+    },
+    {
+      "bbox": [
+        602,
+        627,
+        977,
+        645
+      ],
+      "text": "LeFarlette Sherman . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.8846
+    },
+    {
+      "bbox": [
+        202,
+        629,
+        580,
+        656
+      ],
+      "text": "Hazel's Beauty Shop RFD 1......486-2148",
+      "confidence": 0.9756
+    },
+    {
+      "bbox": [
+        603,
+        643,
+        977,
+        665
+      ],
+      "text": "Long Roy . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9711
+    },
+    {
+      "bbox": [
+        203,
+        647,
+        581,
+        673
+      ],
+      "text": "Helen's Beauty Shop RFD 1.............486-2158",
+      "confidence": 0.9836
+    },
+    {
+      "bbox": [
+        602,
+        660,
+        979,
+        679
+      ],
+      "text": "Lybarger Bill . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9529
+    },
+    {
+      "bbox": [
+        202,
+        664,
+        582,
+        706
+      ],
+      "text": "Henry Mearl . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.6723
+    },
+    {
+      "bbox": [
+        778,
+        698,
+        805,
+        715
+      ],
+      "text": "M",
+      "confidence": 0.6766
+    },
+    {
+      "bbox": [
+        203,
+        700,
+        581,
+        719
+      ],
+      "text": "Herrod Fred RFD 1 Cardwell Mo.....486-5868",
+      "confidence": 0.981
+    },
+    {
+      "bbox": [
+        202,
+        713,
+        581,
+        739
+      ],
+      "text": "Hicks Delmar . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9739
+    },
+    {
+      "bbox": [
+        603,
+        721,
+        979,
+        743
+      ],
+      "text": "Malloy R W RFD 3 Leachville . . . . . . . . 486-5639",
+      "confidence": 0.985
+    },
+    {
+      "bbox": [
+        202,
+        731,
+        581,
+        756
+      ],
+      "text": "Hinson Adlia Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        603,
+        740,
+        978,
+        759
+      ],
+      "text": "Malone Austin . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.961
+    },
+    {
+      "bbox": [
+        203,
+        748,
+        581,
+        772
+      ],
+      "text": "Hinson Troy RFD 1 Leachville . . . . . . . 486-2193",
+      "confidence": 0.9849
+    },
+    {
+      "bbox": [
+        602,
+        755,
+        979,
+        777
+      ],
+      "text": "Malone 0 E RFD 1....................................",
+      "confidence": 0.9615
+    },
+    {
+      "bbox": [
+        203,
+        768,
+        581,
+        788
+      ],
+      "text": "Hodge J D Mrs RFD 2 Leachville . . . . . . 486-5878",
+      "confidence": 0.9663
+    },
+    {
+      "bbox": [
+        603,
+        772,
+        979,
+        794
+      ],
+      "text": "Mangrum Melvin RFD 2 Lake City . . . . . 486-2194",
+      "confidence": 0.9588
+    },
+    {
+      "bbox": [
+        202,
+        780,
+        581,
+        808
+      ],
+      "text": "Hogan Crawford . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        602,
+        786,
+        814,
+        810
+      ],
+      "text": "MARKIN AUTO SALVAGE",
+      "confidence": 0.9834
+    },
+    {
+      "bbox": [
+        202,
+        799,
+        582,
+        841
+      ],
+      "text": "Holland Herman ....................................",
+      "confidence": 0.9527
+    },
+    {
+      "bbox": [
+        646,
+        803,
+        978,
+        828
+      ],
+      "text": "RFD 1 Cardwell......486-2175",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        603,
+        823,
+        979,
+        842
+      ],
+      "text": "Markin C D RFD 1 Cardwell . . . . . . . . . . . . 486-5610",
+      "confidence": 0.9707
+    },
+    {
+      "bbox": [
+        203,
+        834,
+        581,
+        856
+      ],
+      "text": "Holman Morris RFD 1..................486-5704",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        602,
+        839,
+        980,
+        861
+      ],
+      "text": "Markin James . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9597
+    },
+    {
+      "bbox": [
+        203,
+        851,
+        581,
+        871
+      ],
+      "text": "Holmes Maurice . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        602,
+        856,
+        979,
+        878
+      ],
+      "text": "Markin Neal . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9653
+    },
+    {
+      "bbox": [
+        203,
+        868,
+        580,
+        888
+      ],
+      "text": "Horton J M RFD 1....................................",
+      "confidence": 0.9833
+    },
+    {
+      "bbox": [
+        602,
+        873,
+        980,
+        911
+      ],
+      "text": "Markin Neal Auto Sales . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.7557
+    },
+    {
+      "bbox": [
+        203,
+        882,
+        581,
+        907
+      ],
+      "text": "Hoskins Charlie . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        202,
+        897,
+        581,
+        924
+      ],
+      "text": "Hoskins 0 W . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        603,
+        909,
+        977,
+        925
+      ],
+      "text": "Marret Frank RFD 1 Cardwell ...... 486-5884",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        203,
+        916,
+        581,
+        941
+      ],
+      "text": "Hotchkiss Cora Mrs RFD 2 Lake City . . . 486-2258",
+      "confidence": 0.9802
+    },
+    {
+      "bbox": [
+        603,
+        925,
+        978,
+        942
+      ],
+      "text": "Masner E H Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9789
+    },
+    {
+      "bbox": [
+        203,
+        937,
+        580,
+        954
+      ],
+      "text": "Hout Bobby RFD 1....................................",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        603,
+        941,
+        979,
+        958
+      ],
+      "text": "Masner John P . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9796
+    },
+    {
+      "bbox": [
+        203,
+        952,
+        581,
+        971
+      ],
+      "text": "Hout Gene . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        602,
+        955,
+        978,
+        997
+      ],
+      "text": "Masner R E . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.8143
+    },
+    {
+      "bbox": [
+        203,
+        969,
+        581,
+        989
+      ],
+      "text": "Hout Neal RFD 1....................................",
+      "confidence": 0.9741
+    },
+    {
+      "bbox": [
+        202,
+        982,
+        581,
+        1008
+      ],
+      "text": "Hout T T RFD 1 ...................................",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        603,
+        991,
+        977,
+        1010
+      ],
+      "text": "MATTHEWS ALMUS oil distribtrs . . . . . . 486-5721",
+      "confidence": 0.8099
+    },
+    {
+      "bbox": [
+        202,
+        998,
+        581,
+        1025
+      ],
+      "text": "Hout Wayne RFD 1.......486-2183",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        630,
+        1009,
+        977,
+        1026
+      ],
+      "text": "Residence . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        203,
+        1019,
+        581,
+        1038
+      ],
+      "text": "Howe Zula Mrs RFD 3 Leachville . . . . . . 486-5620",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        603,
+        1024,
+        978,
+        1043
+      ],
+      "text": "Maude's Beauty Shop . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9515
+    },
+    {
+      "bbox": [
+        202,
+        1031,
+        582,
+        1077
+      ],
+      "text": "Howell Jack RFD 1 ...................................",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        602,
+        1039,
+        979,
+        1063
+      ],
+      "text": "Mayberry Tom . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9703
+    },
+    {
+      "bbox": [
+        602,
+        1055,
+        980,
+        1099
+      ],
+      "text": "Mayfield J M . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.8001
+    },
+    {
+      "bbox": [
+        202,
+        1066,
+        581,
+        1092
+      ],
+      "text": "Hubbard L B . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9669
+    },
+    {
+      "bbox": [
+        203,
+        1087,
+        581,
+        1105
+      ],
+      "text": "Hubble Robert RFD 1....................................",
+      "confidence": 0.9257
+    },
+    {
+      "bbox": [
+        603,
+        1092,
+        977,
+        1110
+      ],
+      "text": "Mays Estella Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.958
+    },
+    {
+      "bbox": [
+        202,
+        1102,
+        582,
+        1141
+      ],
+      "text": "Huddleston C B ..................................",
+      "confidence": 0.9571
+    },
+    {
+      "bbox": [
+        601,
+        1104,
+        981,
+        1166
+      ],
+      "text": "\n    \n        Mays Kenneth\n        486-5859\n    \n    \n        McClelland James A RFD 1\n        486-5569\n    \n    \n        McClelland R L RFD 2 Lake City\n ",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        203,
+        1135,
+        581,
+        1159
+      ],
+      "text": "Huffman Hosea . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9503
+    },
+    {
+      "bbox": [
+        202,
+        1151,
+        581,
+        1177
+      ],
+      "text": "Humphrey Emmit RFD 1......486-2103",
+      "confidence": 0.9436
+    },
+    {
+      "bbox": [
+        602,
+        1154,
+        980,
+        1200
+      ],
+      "text": "\n    \n        McCollum William H\n        486-5829\n    \n    \n        McDonal Ferrel\n        486-5646\n    \n",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        202,
+        1165,
+        582,
+        1213
+      ],
+      "text": "Hunter W C ..................................",
+      "confidence": 0.8077
+    },
+    {
+      "bbox": [
+        603,
+        1197,
+        738,
+        1209
+      ],
+      "text": "McDonal H Frank",
+      "confidence": 0.9795
+    },
+    {
+      "bbox": [
+        759,
+        1198,
+        979,
+        1211
+      ],
+      "text": ". . . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9789
+    },
+    {
+      "bbox": [
+        602,
+        1207,
+        980,
+        1229
+      ],
+      "text": "McFARLIN BUDGIE GARAGE .........486-5612",
+      "confidence": 0.9771
+    },
+    {
+      "bbox": [
+        383,
+        1224,
+        402,
+        1244
+      ],
+      "text": "I",
+      "confidence": 0.7557
+    },
+    {
+      "bbox": [
+        603,
+        1227,
+        980,
+        1246
+      ],
+      "text": "McFarlin Edward E RFD 2 Lake City . . . . 486-2284",
+      "confidence": 0.9692
+    },
+    {
+      "bbox": [
+        601,
+        1240,
+        981,
+        1298
+      ],
+      "text": "McFarlin Gus . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.562
+    },
+    {
+      "bbox": [
+        201,
+        1249,
+        583,
+        1269
+      ],
+      "text": "Ireland Cal Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9799
+    },
+    {
+      "bbox": [
+        384,
+        1281,
+        403,
+        1305
+      ],
+      "text": "J",
+      "confidence": 0.9774
+    },
+    {
+      "bbox": [
+        603,
+        1293,
+        979,
+        1309
+      ],
+      "text": "McFarlin Thomas Jr . . . . . . . . . . . . . . . . . 486-5825",
+      "confidence": 0.9831
+    },
+    {
+      "bbox": [
+        602,
+        1307,
+        980,
+        1331
+      ],
+      "text": "McFarlin Woodrow RFD 2 Lake City . . . . 486-5566",
+      "confidence": 0.9869
+    },
+    {
+      "bbox": [
+        203,
+        1316,
+        582,
+        1335
+      ],
+      "text": "Jackson Marlin D . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.8873
+    },
+    {
+      "bbox": [
+        602,
+        1325,
+        981,
+        1365
+      ],
+      "text": "McKinney J J Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.6295
+    },
+    {
+      "bbox": [
+        202,
+        1328,
+        583,
+        1356
+      ],
+      "text": "Jean's Beauty Shop . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9546
+    },
+    {
+      "bbox": [
+        203,
+        1346,
+        584,
+        1372
+      ],
+      "text": "Johnson Ruby Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9697
+    },
+    {
+      "bbox": [
+        603,
+        1360,
+        980,
+        1380
+      ],
+      "text": "Meacham Rudolph RFD 1....................................",
+      "confidence": 0.9322
+    },
+    {
+      "bbox": [
+        204,
+        1365,
+        583,
+        1387
+      ],
+      "text": "Johnston Albert . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.976
+    },
+    {
+      "bbox": [
+        602,
+        1374,
+        980,
+        1398
+      ],
+      "text": "Meeker Guy RFD 1....................................",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        602,
+        1392,
+        981,
+        1432
+      ],
+      "text": "Melville Bernice . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        380,
+        1404,
+        407,
+        1420
+      ],
+      "text": "K",
+      "confidence": 0.6467
+    },
+    {
+      "bbox": [
+        649,
+        1424,
+        980,
+        1449
+      ],
+      "text": "RFD 1 Cardwell Mo.......486-5896",
+      "confidence": 0.9865
+    },
+    {
+      "bbox": [
+        202,
+        1427,
+        585,
+        1468
+      ],
+      "text": "Kee R D . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.5051
+    },
+    {
+      "bbox": [
+        603,
+        1444,
+        980,
+        1461
+      ],
+      "text": "Merrill Gilbert Store groc . . . . . . . . . . . . 486-2214",
+      "confidence": 0.9874
+    },
+    {
+      "bbox": [
+        603,
+        1462,
+        980,
+        1480
+      ],
+      "text": "Merritt Elouise Mrs RFD 2 Lake City . . . 486-5669",
+      "confidence": 0.9804
+    },
+    {
+      "bbox": [
+        204,
+        1463,
+        584,
+        1481
+      ],
+      "text": "Keith Hubert RFD 1....................................",
+      "confidence": 0.9677
+    },
+    {
+      "bbox": [
+        204,
+        1480,
+        583,
+        1496
+      ],
+      "text": "Kelley Martha Jo . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9169
+    },
+    {
+      "bbox": [
+        603,
+        1480,
+        981,
+        1495
+      ],
+      "text": "Merritt W E Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9762
+    }
+  ]
+}

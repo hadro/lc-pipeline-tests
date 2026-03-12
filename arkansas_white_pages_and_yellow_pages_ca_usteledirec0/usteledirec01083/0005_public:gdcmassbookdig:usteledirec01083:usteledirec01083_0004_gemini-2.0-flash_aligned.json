@@ -1,0 +1,90 @@
+{
+  "image": "0005_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0004.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://www.loc.gov/item/usteledirec01083/canvas/5",
+  "canvas_width": 6288,
+  "canvas_height": 5256,
+  "lines": [
+    {
+      "bbox": [
+        413,
+        344,
+        1654,
+        426
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/5#xywh=1268,1057,3810,252",
+      "confidence": "line",
+      "gemini_text": "U.S. TELEPHONE DIRECTORY"
+    },
+    {
+      "bbox": [
+        356,
+        440,
+        1698,
+        520
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/5#xywh=1093,1352,4120,245",
+      "confidence": "line",
+      "gemini_text": "COLLECTION: REEL CONTENTS"
+    },
+    {
+      "bbox": [
+        472,
+        677,
+        1567,
+        738
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/5#xywh=1449,2080,3362,187",
+      "confidence": "line",
+      "gemini_text": "MICROFILM NUMBER (o) 90/5003 MicRR"
+    },
+    {
+      "bbox": [
+        662,
+        796,
+        1375,
+        838
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/5#xywh=2033,2445,2189,129",
+      "confidence": "line",
+      "gemini_text": "White Pages and Yellow Pages for:"
+    },
+    {
+      "bbox": [
+        682,
+        897,
+        1435,
+        939
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/5#xywh=2094,2755,2312,130",
+      "confidence": "line",
+      "gemini_text": "CITY: CARAWAY (Includes Monette)"
+    },
+    {
+      "bbox": [
+        897,
+        945,
+        1218,
+        983
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/5#xywh=2754,2903,986,117",
+      "confidence": "line",
+      "gemini_text": "December 1960"
+    },
+    {
+      "bbox": [
+        948,
+        1330,
+        1082,
+        1358
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/5#xywh=2911,4086,411,86",
+      "confidence": "line",
+      "gemini_text": "covered.)"
+    }
+  ],
+  "unmatched_gemini": [
+    "ARKANSAS",
+    "(Note: See targets preceding White Pages and Yellow Pages for full listing of cities"
+  ]
+}

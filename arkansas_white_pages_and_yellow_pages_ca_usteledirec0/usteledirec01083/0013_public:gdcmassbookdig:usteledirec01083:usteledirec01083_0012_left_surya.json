@@ -1,0 +1,1196 @@
+{
+  "image_width": 1024,
+  "image_height": 1694,
+  "lines": [
+    {
+      "bbox": [
+        195,
+        188,
+        209,
+        201
+      ],
+      "text": "4",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        237,
+        188,
+        407,
+        206
+      ],
+      "text": "Copeland—Meadows",
+      "confidence": 0.9367
+    },
+    {
+      "bbox": [
+        529,
+        191,
+        640,
+        207
+      ],
+      "text": "CARAWAY",
+      "confidence": 0.7755
+    },
+    {
+      "bbox": [
+        196,
+        209,
+        574,
+        236
+      ],
+      "text": "Copeland Gro & Mkt . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        596,
+        221,
+        972,
+        237
+      ],
+      "text": "Halfacre Don . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        197,
+        232,
+        574,
+        251
+      ],
+      "text": "Cotton Belt Depot . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9552
+    },
+    {
+      "bbox": [
+        596,
+        237,
+        972,
+        253
+      ],
+      "text": "Harris Annie RFD 2 Manila............482-3603",
+      "confidence": 0.9339
+    },
+    {
+      "bbox": [
+        196,
+        246,
+        574,
+        270
+      ],
+      "text": "Cox Allen . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        596,
+        252,
+        972,
+        270
+      ],
+      "text": "Harrison Ed RFD ......482-3496",
+      "confidence": 0.969
+    },
+    {
+      "bbox": [
+        196,
+        263,
+        574,
+        287
+      ],
+      "text": "Cox Janie . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        596,
+        270,
+        972,
+        287
+      ],
+      "text": "Hickey Ben . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9723
+    },
+    {
+      "bbox": [
+        196,
+        281,
+        574,
+        303
+      ],
+      "text": "Craig Selma . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9555
+    },
+    {
+      "bbox": [
+        595,
+        284,
+        973,
+        323
+      ],
+      "text": "Hicks Albert ....................................",
+      "confidence": 0.9857
+    },
+    {
+      "bbox": [
+        196,
+        298,
+        573,
+        320
+      ],
+      "text": "Crawford Dorse RFD 1 Black Oak.....482-3477",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        197,
+        317,
+        574,
+        334
+      ],
+      "text": "Crawford W W RFD 1 Black Oak......482-3305",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        596,
+        319,
+        971,
+        339
+      ],
+      "text": "Hicks Olen A . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9791
+    },
+    {
+      "bbox": [
+        197,
+        333,
+        574,
+        350
+      ],
+      "text": "Crigler Leon RFD 1 Black Oak.........482-3449",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        595,
+        336,
+        972,
+        354
+      ],
+      "text": "Hill Robert . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9899
+    },
+    {
+      "bbox": [
+        595,
+        350,
+        972,
+        375
+      ],
+      "text": "Hoggard C N RFD 1 Black Oak......482-3458",
+      "confidence": 0.9679
+    },
+    {
+      "bbox": [
+        594,
+        366,
+        972,
+        392
+      ],
+      "text": "Hollis C J . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9865
+    },
+    {
+      "bbox": [
+        595,
+        388,
+        972,
+        405
+      ],
+      "text": "Hollis C J Insurance & Real Estate . . . . . 482-3421",
+      "confidence": 0.9283
+    },
+    {
+      "bbox": [
+        197,
+        390,
+        573,
+        409
+      ],
+      "text": "D & G Softwater Service . . . . . . . . . . . . . . . . 482-3423",
+      "confidence": 0.8565
+    },
+    {
+      "bbox": [
+        595,
+        405,
+        972,
+        421
+      ],
+      "text": "Holt Charles . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9255
+    },
+    {
+      "bbox": [
+        197,
+        407,
+        574,
+        427
+      ],
+      "text": "Dallas Boyd B . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.955
+    },
+    {
+      "bbox": [
+        595,
+        420,
+        973,
+        439
+      ],
+      "text": "Houchin Paul . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        197,
+        423,
+        574,
+        443
+      ],
+      "text": "Dallas Wilson . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9419
+    },
+    {
+      "bbox": [
+        595,
+        436,
+        972,
+        455
+      ],
+      "text": "Huckabee C H RFD 1 Monette......482-3378",
+      "confidence": 0.9516
+    },
+    {
+      "bbox": [
+        196,
+        438,
+        575,
+        480
+      ],
+      "text": "Davenport Coy RFD 1 Monette ...... 482-3303\nDavid Amos ....................................",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        196,
+        470,
+        574,
+        497
+      ],
+      "text": "David Bulk Plant gas ......482-3352",
+      "confidence": 0.9843
+    },
+    {
+      "bbox": [
+        777,
+        475,
+        790,
+        490
+      ],
+      "text": "I",
+      "confidence": 0.7094
+    },
+    {
+      "bbox": [
+        196,
+        488,
+        574,
+        512
+      ],
+      "text": "David J R Jr . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9834
+    },
+    {
+      "bbox": [
+        593,
+        502,
+        973,
+        522
+      ],
+      "text": "Irene's Beauty Shop . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9758
+    },
+    {
+      "bbox": [
+        197,
+        508,
+        573,
+        527
+      ],
+      "text": "David J R Sr . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9777
+    },
+    {
+      "bbox": [
+        593,
+        516,
+        973,
+        540
+      ],
+      "text": "Isbell Kenneth RFD 1 Black Oak ..... 482-3302",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        196,
+        520,
+        572,
+        545
+      ],
+      "text": "DAVID SALES & SERVICE CO......482-3311",
+      "confidence": 0.9752
+    },
+    {
+      "bbox": [
+        593,
+        536,
+        972,
+        552
+      ],
+      "text": "Isbell T J RFD 1 Black Oak ..................................",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        197,
+        538,
+        573,
+        562
+      ],
+      "text": "DEGLOW GIN CO RFD 1 Black Oak . . . . 482-3621",
+      "confidence": 0.9349
+    },
+    {
+      "bbox": [
+        195,
+        555,
+        574,
+        599
+      ],
+      "text": "Dennis M D ..................................",
+      "confidence": 0.9672
+    },
+    {
+      "bbox": [
+        777,
+        574,
+        791,
+        591
+      ],
+      "text": "J",
+      "confidence": 0.9824
+    },
+    {
+      "bbox": [
+        196,
+        586,
+        572,
+        615
+      ],
+      "text": "Dennis Walter C RFD 1 Black Oak.....482-3677",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        593,
+        604,
+        972,
+        620
+      ],
+      "text": "Jarvis Beulah . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.8789
+    },
+    {
+      "bbox": [
+        196,
+        608,
+        572,
+        630
+      ],
+      "text": "Dobbins Lenn . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9756
+    },
+    {
+      "bbox": [
+        593,
+        621,
+        973,
+        636
+      ],
+      "text": "Jeffers Fred RFD 1 Black Oak......482-3486",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        196,
+        622,
+        573,
+        647
+      ],
+      "text": "Dowless Vernon RFD 1 Black Oak . . . . . 482-3595",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        593,
+        637,
+        972,
+        653
+      ],
+      "text": "Jeffers H E RFD 1 Black Oak......482-3696",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        197,
+        642,
+        574,
+        662
+      ],
+      "text": "DOWNS BUZICK KIECH GIN CO & INC...482-3323",
+      "confidence": 0.9282
+    },
+    {
+      "bbox": [
+        593,
+        652,
+        971,
+        670
+      ],
+      "text": "Jennings W B . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9686
+    },
+    {
+      "bbox": [
+        197,
+        660,
+        574,
+        679
+      ],
+      "text": "Dunavent Harry P Jr RFD 2 Manila....482-3640",
+      "confidence": 0.9433
+    },
+    {
+      "bbox": [
+        592,
+        665,
+        974,
+        726
+      ],
+      "text": "\n    \n        Johnson E C RFD 1 Black Oak\n        ....................................",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        374,
+        697,
+        393,
+        713
+      ],
+      "text": "Е",
+      "confidence": 0.7027
+    },
+    {
+      "bbox": [
+        593,
+        719,
+        972,
+        739
+      ],
+      "text": "Jones W A Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        197,
+        720,
+        571,
+        739
+      ],
+      "text": "Earnhart Paul RFD 1 Black Oak......482-3684",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        197,
+        738,
+        574,
+        757
+      ],
+      "text": "Edmondson Jeanette . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.936
+    },
+    {
+      "bbox": [
+        196,
+        755,
+        573,
+        772
+      ],
+      "text": "Edmondson Paul . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9802
+    },
+    {
+      "bbox": [
+        769,
+        755,
+        797,
+        777
+      ],
+      "text": "K",
+      "confidence": 0.8977
+    },
+    {
+      "bbox": [
+        196,
+        772,
+        574,
+        791
+      ],
+      "text": "Edwards Porter . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9344
+    },
+    {
+      "bbox": [
+        197,
+        788,
+        574,
+        807
+      ],
+      "text": "Emison Ben RFD 1 Black Oak......482-3358",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        595,
+        789,
+        676,
+        805
+      ],
+      "text": "Kelly A L .",
+      "confidence": 0.9551
+    },
+    {
+      "bbox": [
+        679,
+        789,
+        972,
+        807
+      ],
+      "text": ".......................................",
+      "confidence": 0.965
+    },
+    {
+      "bbox": [
+        196,
+        801,
+        572,
+        827
+      ],
+      "text": "Emison Eddie RFD 1 Black Oak......482-3567",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        594,
+        806,
+        973,
+        822
+      ],
+      "text": "Kelton Hershel RFD 2 Manila......482-3402",
+      "confidence": 0.9815
+    },
+    {
+      "bbox": [
+        196,
+        818,
+        572,
+        843
+      ],
+      "text": "Emison Ray Black Oak Route 1......482-3587",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        594,
+        822,
+        972,
+        840
+      ],
+      "text": "Kendrick Cecil . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9782
+    },
+    {
+      "bbox": [
+        594,
+        836,
+        972,
+        860
+      ],
+      "text": "Kendricks Self Service groc .........482-3622",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        595,
+        855,
+        972,
+        875
+      ],
+      "text": "KILGORE CLINIC ...................................",
+      "confidence": 0.9567
+    },
+    {
+      "bbox": [
+        375,
+        861,
+        390,
+        875
+      ],
+      "text": "F",
+      "confidence": 0.8445
+    },
+    {
+      "bbox": [
+        594,
+        871,
+        972,
+        893
+      ],
+      "text": "KILGORE JOHN H MD......482-3525",
+      "confidence": 0.9292
+    },
+    {
+      "bbox": [
+        197,
+        884,
+        573,
+        903
+      ],
+      "text": "Farley E L RFD 1 Monette......482-3658",
+      "confidence": 0.9712
+    },
+    {
+      "bbox": [
+        594,
+        890,
+        972,
+        907
+      ],
+      "text": "Killough Clay RFD 1 Black Oak......482-3483",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        197,
+        901,
+        573,
+        919
+      ],
+      "text": "Farley Marvin E RFD 1 Black Oak.....482-3686",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        592,
+        901,
+        972,
+        928
+      ],
+      "text": "Kincannon J D Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        197,
+        916,
+        573,
+        938
+      ],
+      "text": "Faulkner Bud RFD 1 Black Oak......482-3588",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        593,
+        925,
+        973,
+        941
+      ],
+      "text": "King Carl . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9766
+    },
+    {
+      "bbox": [
+        197,
+        934,
+        573,
+        954
+      ],
+      "text": "Faulkner Clay RFD ......482-3520",
+      "confidence": 0.9762
+    },
+    {
+      "bbox": [
+        593,
+        940,
+        973,
+        958
+      ],
+      "text": "Kuhn Hazel . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9774
+    },
+    {
+      "bbox": [
+        197,
+        951,
+        573,
+        971
+      ],
+      "text": "Faulkner Harvey RFD ......482-3469",
+      "confidence": 0.9604
+    },
+    {
+      "bbox": [
+        197,
+        969,
+        573,
+        986
+      ],
+      "text": "Finch Blanch RFD 1 Black Oak......482-3668",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        773,
+        978,
+        793,
+        996
+      ],
+      "text": "L",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        197,
+        984,
+        573,
+        1003
+      ],
+      "text": "Finch Paul RFD 1 Black Oak...........482-3460",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        197,
+        1002,
+        574,
+        1020
+      ],
+      "text": "Fincher Jack . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        593,
+        1008,
+        971,
+        1026
+      ],
+      "text": "Land C L . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9827
+    },
+    {
+      "bbox": [
+        196,
+        1018,
+        574,
+        1038
+      ],
+      "text": "FIRE . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9749
+    },
+    {
+      "bbox": [
+        593,
+        1024,
+        973,
+        1061
+      ],
+      "text": "Lane A J ..................................",
+      "confidence": 0.9255
+    },
+    {
+      "bbox": [
+        197,
+        1036,
+        573,
+        1054
+      ],
+      "text": "Fletcher Alston . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9876
+    },
+    {
+      "bbox": [
+        197,
+        1052,
+        574,
+        1071
+      ],
+      "text": "Fletcher Brodie RFD 1 Black Oak.....482-3650",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        593,
+        1056,
+        973,
+        1094
+      ],
+      "text": "Latta Jewell . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.7249
+    },
+    {
+      "bbox": [
+        196,
+        1066,
+        574,
+        1107
+      ],
+      "text": "Fletcher Buddy ...................................",
+      "confidence": 0.9702
+    },
+    {
+      "bbox": [
+        594,
+        1092,
+        972,
+        1109
+      ],
+      "text": "Layman Alfred . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.941
+    },
+    {
+      "bbox": [
+        197,
+        1102,
+        573,
+        1121
+      ],
+      "text": "Foster Bill RFD 1 Black Oak..........482-3503",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        594,
+        1109,
+        972,
+        1127
+      ],
+      "text": "Little Velma . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.982
+    },
+    {
+      "bbox": [
+        197,
+        1119,
+        573,
+        1138
+      ],
+      "text": "Frasure Dalton RFD 1 Black Oak......482-3559",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        593,
+        1123,
+        973,
+        1161
+      ],
+      "text": "Locke's Beauty Shop 482-3371<br>Luff Otis Rev 482-3554",
+      "confidence": 0.8165
+    },
+    {
+      "bbox": [
+        197,
+        1137,
+        574,
+        1154
+      ],
+      "text": "Frasure James RFD 1 Black Oak......482-3304",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        196,
+        1153,
+        573,
+        1171
+      ],
+      "text": "Fry Eddie Mae . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        770,
+        1182,
+        797,
+        1199
+      ],
+      "text": "M",
+      "confidence": 0.6757
+    },
+    {
+      "bbox": [
+        594,
+        1210,
+        973,
+        1247
+      ],
+      "text": "Malone J L . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9733
+    },
+    {
+      "bbox": [
+        197,
+        1216,
+        573,
+        1234
+      ],
+      "text": "Galegly H L . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9787
+    },
+    {
+      "bbox": [
+        197,
+        1234,
+        574,
+        1250
+      ],
+      "text": "Gauf LeRoy RFD 1 Monette......482-3604",
+      "confidence": 0.9685
+    },
+    {
+      "bbox": [
+        595,
+        1246,
+        973,
+        1263
+      ],
+      "text": "Mangrum A J RFD 1 Monette......482-3502",
+      "confidence": 0.9681
+    },
+    {
+      "bbox": [
+        197,
+        1249,
+        574,
+        1269
+      ],
+      "text": "Gipson Billy RFD ......482-3308",
+      "confidence": 0.9842
+    },
+    {
+      "bbox": [
+        596,
+        1262,
+        973,
+        1280
+      ],
+      "text": "Mangrum Pearl RFD 1 Black Oak......482-3380",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        197,
+        1264,
+        573,
+        1286
+      ],
+      "text": "Gipson George RFD . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9679
+    },
+    {
+      "bbox": [
+        595,
+        1279,
+        973,
+        1297
+      ],
+      "text": "Manis A A . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9763
+    },
+    {
+      "bbox": [
+        197,
+        1283,
+        574,
+        1301
+      ],
+      "text": "Gipson M O RFD .......482-3410",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        595,
+        1295,
+        973,
+        1314
+      ],
+      "text": "Manis Faye Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9702
+    },
+    {
+      "bbox": [
+        197,
+        1300,
+        574,
+        1317
+      ],
+      "text": "Given Arthur RFD 1 Black Oak......482-3605",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        595,
+        1313,
+        972,
+        1331
+      ],
+      "text": "Mann J R . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9713
+    },
+    {
+      "bbox": [
+        196,
+        1315,
+        574,
+        1352
+      ],
+      "text": "Glidewell James . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.7923
+    },
+    {
+      "bbox": [
+        595,
+        1329,
+        973,
+        1347
+      ],
+      "text": "Martin Bracy RFD ...................................",
+      "confidence": 0.9812
+    },
+    {
+      "bbox": [
+        594,
+        1346,
+        972,
+        1363
+      ],
+      "text": "Martin E L . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.977
+    },
+    {
+      "bbox": [
+        196,
+        1348,
+        575,
+        1388
+      ],
+      "text": "\n    \n        GREGORY BROS GROCERY\n        482-3422\n    \n    \n        Gregory S M\n        482-3643\n    \n",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        595,
+        1363,
+        973,
+        1381
+      ],
+      "text": "Martin Glenn RFD 1 Black Oak......482-3648",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        596,
+        1381,
+        973,
+        1398
+      ],
+      "text": "Masonic Hall . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.967
+    },
+    {
+      "bbox": [
+        197,
+        1384,
+        574,
+        1401
+      ],
+      "text": "Gurley E W RFD 1 Black Oak . . . . . . . . . 482-3359",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        594,
+        1395,
+        974,
+        1433
+      ],
+      "text": "Maxwell Argie ....................................",
+      "confidence": 0.8734
+    },
+    {
+      "bbox": [
+        371,
+        1420,
+        399,
+        1438
+      ],
+      "text": "н",
+      "confidence": 0.4916
+    },
+    {
+      "bbox": [
+        593,
+        1425,
+        974,
+        1483
+      ],
+      "text": "\n    \n        McKinley Mabel\n        482-3334\n    \n    \n        Meadows G E RFD\n        482-3485\n    \n    \n        Meadows W L RFD 1 Monette\n        4",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        197,
+        1445,
+        573,
+        1463
+      ],
+      "text": "Haag Lynn . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.981
+    },
+    {
+      "bbox": [
+        197,
+        1462,
+        574,
+        1479
+      ],
+      "text": "Haag Nelson . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9747
+    }
+  ]
+}

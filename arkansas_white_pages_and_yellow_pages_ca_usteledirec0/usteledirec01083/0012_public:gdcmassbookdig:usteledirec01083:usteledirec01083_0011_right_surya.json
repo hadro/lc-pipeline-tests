@@ -1,0 +1,936 @@
+{
+  "image_width": 1024,
+  "image_height": 1690,
+  "lines": [
+    {
+      "bbox": [
+        188,
+        188,
+        707,
+        215
+      ],
+      "text": "PARTY LINE AND EXTENSION TELEPHONE HINTS",
+      "confidence": 0.6557
+    },
+    {
+      "bbox": [
+        61,
+        220,
+        837,
+        252
+      ],
+      "text": "EFFICIENT PARTY LINE SERVICE depends largely on the consideration and courtesy",
+      "confidence": 0.8141
+    },
+    {
+      "bbox": [
+        60,
+        243,
+        837,
+        271
+      ],
+      "text": "which each subscriber gives to the other parties on his line. Endeavor to limit your calls",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        62,
+        265,
+        278,
+        285
+      ],
+      "text": "to five minutes duration.",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        60,
+        297,
+        837,
+        325
+      ],
+      "text": "When dialing on a party line, or any line with an extension telephone, it is necessary to",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        60,
+        317,
+        837,
+        345
+      ],
+      "text": "consider the possibility that someone else may be using the line. Learn and observe the",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        60,
+        341,
+        545,
+        361
+      ],
+      "text": "following rules and be a courteous party line neighbor:",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        84,
+        374,
+        439,
+        394
+      ],
+      "text": "\n    If you hear a conversation when lifting\n",
+      "confidence": 0.7527
+    },
+    {
+      "bbox": [
+        480,
+        377,
+        837,
+        397
+      ],
+      "text": "3. If you are dialing and hear another",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        503,
+        392,
+        837,
+        442
+      ],
+      "text": "party lift his receiver before you have heard the \"Ringing Signal,\" inform",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        106,
+        397,
+        439,
+        414
+      ],
+      "text": "the receiver, the line is being used.",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        108,
+        417,
+        438,
+        435
+      ],
+      "text": "Replace the receiver and try the call",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        107,
+        437,
+        212,
+        454
+      ],
+      "text": "again later.",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        504,
+        437,
+        836,
+        457
+      ],
+      "text": "him that the line is in use and after he",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        80,
+        452,
+        437,
+        481
+      ],
+      "text": "2. If you hear the sound of \"Dialing",
+      "confidence": 0.982
+    },
+    {
+      "bbox": [
+        504,
+        458,
+        836,
+        480
+      ],
+      "text": "has replaced his receiver, replace your",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        104,
+        472,
+        437,
+        501
+      ],
+      "text": "Clicks\" when lifting the receiver, it",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        504,
+        477,
+        835,
+        502
+      ],
+      "text": "own for a few moments. Then remove",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        106,
+        499,
+        437,
+        517
+      ],
+      "text": "means that someone else on the line is",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        504,
+        502,
+        836,
+        520
+      ],
+      "text": "it and dial the complete number",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        105,
+        515,
+        437,
+        540
+      ],
+      "text": "dialing a number. The lifting of your",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        504,
+        523,
+        562,
+        538
+      ],
+      "text": "again.",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        106,
+        540,
+        437,
+        560
+      ],
+      "text": "receiver has interfered with the dialing",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        478,
+        541,
+        836,
+        561
+      ],
+      "text": "4. When another party lifts his receiver",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        503,
+        559,
+        834,
+        587
+      ],
+      "text": "after you have heard the \"Ringing",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        104,
+        560,
+        437,
+        580
+      ],
+      "text": "and you should inform him to dial the",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        105,
+        577,
+        437,
+        604
+      ],
+      "text": "number again. Hang up your re-",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        503,
+        577,
+        834,
+        609
+      ],
+      "text": "Signal,\" it will not be necessary to re-",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        104,
+        600,
+        437,
+        622
+      ],
+      "text": "ceiver and permit him to dial the num-",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        503,
+        600,
+        833,
+        627
+      ],
+      "text": "dial the number. Merely inform him",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        105,
+        624,
+        198,
+        640
+      ],
+      "text": "ber again.",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        503,
+        624,
+        687,
+        641
+      ],
+      "text": "that the line is in use.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        202,
+        687,
+        691,
+        725
+      ],
+      "text": "CARAWAY, ARKANSAS",
+      "confidence": 0.9048
+    },
+    {
+      "bbox": [
+        59,
+        771,
+        440,
+        812
+      ],
+      "text": "Abernathy M E . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.949
+    },
+    {
+      "bbox": [
+        456,
+        774,
+        832,
+        794
+      ],
+      "text": "Cagle James RFD 1 Black Oak......482-3350",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        456,
+        792,
+        832,
+        812
+      ],
+      "text": "Campbell Jeff . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9714
+    },
+    {
+      "bbox": [
+        59,
+        805,
+        438,
+        845
+      ],
+      "text": "Adams C W . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.7416
+    },
+    {
+      "bbox": [
+        455,
+        806,
+        832,
+        831
+      ],
+      "text": "Cannon Otto . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9888
+    },
+    {
+      "bbox": [
+        455,
+        822,
+        832,
+        846
+      ],
+      "text": "Caraway Cleaners . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9539
+    },
+    {
+      "bbox": [
+        59,
+        838,
+        437,
+        862
+      ],
+      "text": "Adams William . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        454,
+        839,
+        833,
+        898
+      ],
+      "text": "\n    \n        Caraway Drug Co\n        482-3332\n    \n    \n        Caraway Electric Co\n        482-3332\n    \n    \n        Caraway Gin & Cotton Co\n        <t",
+      "confidence": 0.9777
+    },
+    {
+      "bbox": [
+        59,
+        856,
+        437,
+        878
+      ],
+      "text": "Anderson L L . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        60,
+        873,
+        437,
+        895
+      ],
+      "text": "Anderson Rudy RFD 1 Black Oak . . . . . 482-3430",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        454,
+        888,
+        833,
+        950
+      ],
+      "text": "\n    \n        Caraway Grade School\n        482-3351\n    \n    \n        Caraway Insurance Agency\n        482-3314\n    \n    \n        CARAWAY LUMBER CO\n      ",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        60,
+        935,
+        268,
+        955
+      ],
+      "text": "Barrett Chesley L . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.942
+    },
+    {
+      "bbox": [
+        271,
+        938,
+        436,
+        954
+      ],
+      "text": ". . . . . . . . . . 482-3354",
+      "confidence": 0.9715
+    },
+    {
+      "bbox": [
+        456,
+        942,
+        831,
+        964
+      ],
+      "text": "Caraway Oil Co & Auto Parts . . . . . . . . 482-3522",
+      "confidence": 0.9823
+    },
+    {
+      "bbox": [
+        60,
+        952,
+        436,
+        971
+      ],
+      "text": "Barrett D C RFD 1 Black Oak . . . . . . . . . . 482-3407",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        456,
+        961,
+        831,
+        978
+      ],
+      "text": "Caraway Police Dept . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9383
+    },
+    {
+      "bbox": [
+        58,
+        965,
+        436,
+        991
+      ],
+      "text": "Barrett E E RFD 1 Black Oak . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9869
+    },
+    {
+      "bbox": [
+        456,
+        976,
+        830,
+        995
+      ],
+      "text": "Caraway Texaco Co . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9762
+    },
+    {
+      "bbox": [
+        59,
+        987,
+        436,
+        1006
+      ],
+      "text": "Barringer A B . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9735
+    },
+    {
+      "bbox": [
+        58,
+        1001,
+        436,
+        1040
+      ],
+      "text": "\n    \n        Beaton Marie\n        482-3335\n    \n    \n        Bell Buddie RFD\n        482-3539\n    \n",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        467,
+        1027,
+        660,
+        1045
+      ],
+      "text": "To Complete All Calls",
+      "confidence": 0.9502
+    },
+    {
+      "bbox": [
+        58,
+        1037,
+        435,
+        1054
+      ],
+      "text": "Bell J L RFD 1 Black Oak......482-3578",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        57,
+        1052,
+        436,
+        1090
+      ],
+      "text": "Blake Cecil RFD 2 Manila ....................................",
+      "confidence": 0.9292
+    },
+    {
+      "bbox": [
+        541,
+        1064,
+        741,
+        1081
+      ],
+      "text": "REMEMBER TO DIAL",
+      "confidence": 0.8528
+    },
+    {
+      "bbox": [
+        57,
+        1084,
+        436,
+        1125
+      ],
+      "text": "Bolling J R . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.7334
+    },
+    {
+      "bbox": [
+        636,
+        1101,
+        818,
+        1123
+      ],
+      "text": "All Seven (7) Figures",
+      "confidence": 0.9619
+    },
+    {
+      "bbox": [
+        58,
+        1121,
+        434,
+        1139
+      ],
+      "text": "Booth Bobby RFD 1 Black Oak......482-3688",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        57,
+        1135,
+        435,
+        1157
+      ],
+      "text": "Booth Carl RFD 1 Black Oak . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9622
+    },
+    {
+      "bbox": [
+        452,
+        1153,
+        828,
+        1193
+      ],
+      "text": "Caraway Water Plant ....................................",
+      "confidence": 0.4658
+    },
+    {
+      "bbox": [
+        57,
+        1154,
+        435,
+        1173
+      ],
+      "text": "Booth Glen RFD 1 Black Oak...................................",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        57,
+        1168,
+        434,
+        1192
+      ],
+      "text": "Booth Paul RFD 1 Black Oak . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9656
+    },
+    {
+      "bbox": [
+        454,
+        1187,
+        567,
+        1209
+      ],
+      "text": "Carolan B M .",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        58,
+        1189,
+        433,
+        1206
+      ],
+      "text": "Booth Troy RFD 1 Black Oak . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        667,
+        1198,
+        825,
+        1208
+      ],
+      "text": ". . . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.7011
+    },
+    {
+      "bbox": [
+        58,
+        1204,
+        433,
+        1222
+      ],
+      "text": "Booth Virgil RFD 1 Black Oak........482-3301",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        453,
+        1207,
+        827,
+        1226
+      ],
+      "text": "Carroll Nettie . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9578
+    },
+    {
+      "bbox": [
+        56,
+        1219,
+        435,
+        1259
+      ],
+      "text": "Bowen Donald RFD 1 Black Oak . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        452,
+        1221,
+        827,
+        1261
+      ],
+      "text": "Central High School ...................................",
+      "confidence": 0.5696
+    },
+    {
+      "bbox": [
+        57,
+        1254,
+        433,
+        1273
+      ],
+      "text": "Branscum Dale RFD 1 Black Oak.....482-3569",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        451,
+        1254,
+        828,
+        1311
+      ],
+      "text": "Chambliss Grocery RFD 1 Black Oak ... 482-3493<br>Chambiiss J H RFD 1 Black Oak ... 482-3540<br>CHARLENE'S PIN-UP SHOP ... 482-3514",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        57,
+        1271,
+        434,
+        1290
+      ],
+      "text": "Bratten Jimmy RFD . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9443
+    },
+    {
+      "bbox": [
+        57,
+        1288,
+        433,
+        1305
+      ],
+      "text": "Brewer A E RFD 1 Black Oak.......... 482-3601",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        57,
+        1304,
+        433,
+        1323
+      ],
+      "text": "Brewer Earl RFD 2 Manila Ark......482-3475",
+      "confidence": 0.9559
+    },
+    {
+      "bbox": [
+        452,
+        1309,
+        826,
+        1326
+      ],
+      "text": "Clements C A . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9785
+    },
+    {
+      "bbox": [
+        57,
+        1320,
+        432,
+        1340
+      ],
+      "text": "Brickell Charles RFD 1 Black Oak . . . . . 482-3307",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        452,
+        1323,
+        826,
+        1343
+      ],
+      "text": "Clements Lyle RFD ......482-3510",
+      "confidence": 0.9782
+    },
+    {
+      "bbox": [
+        450,
+        1338,
+        827,
+        1378
+      ],
+      "text": "Cobb Gene RFD ...................................",
+      "confidence": 0.5293
+    },
+    {
+      "bbox": [
+        56,
+        1340,
+        433,
+        1357
+      ],
+      "text": "Brickell James . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9484
+    },
+    {
+      "bbox": [
+        56,
+        1356,
+        431,
+        1373
+      ],
+      "text": "Brooks Fronie RFD . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9414
+    },
+    {
+      "bbox": [
+        56,
+        1373,
+        432,
+        1390
+      ],
+      "text": "Brooks Wayman . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9384
+    },
+    {
+      "bbox": [
+        450,
+        1374,
+        826,
+        1394
+      ],
+      "text": "Coggin Vernon . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9699
+    },
+    {
+      "bbox": [
+        56,
+        1388,
+        431,
+        1405
+      ],
+      "text": "Brown Charles R RFD .................................",
+      "confidence": 0.9447
+    },
+    {
+      "bbox": [
+        451,
+        1390,
+        826,
+        1410
+      ],
+      "text": "Coggins J W RFD 1......482-3365",
+      "confidence": 0.9814
+    },
+    {
+      "bbox": [
+        53,
+        1400,
+        433,
+        1460
+      ],
+      "text": "Brown Edward . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.7566
+    },
+    {
+      "bbox": [
+        451,
+        1408,
+        826,
+        1425
+      ],
+      "text": "Collier Thomas . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9803
+    },
+    {
+      "bbox": [
+        450,
+        1424,
+        826,
+        1443
+      ],
+      "text": "Connor Ada Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        450,
+        1440,
+        826,
+        1459
+      ],
+      "text": "Connor Ted . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        54,
+        1457,
+        430,
+        1474
+      ],
+      "text": "Burrough Annie . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9325
+    },
+    {
+      "bbox": [
+        449,
+        1457,
+        826,
+        1474
+      ],
+      "text": "Copeland Chester . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9222
+    },
+    {
+      "bbox": [
+        287,
+        1477,
+        309,
+        1489
+      ],
+      "text": ".",
+      "confidence": 0.7406
+    }
+  ]
+}

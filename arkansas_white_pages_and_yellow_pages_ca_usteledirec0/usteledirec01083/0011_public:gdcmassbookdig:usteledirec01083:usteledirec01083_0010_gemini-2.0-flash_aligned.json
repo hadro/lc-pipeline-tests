@@ -1,0 +1,395 @@
+{
+  "image": "0011_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0010.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://www.loc.gov/item/usteledirec01083/canvas/11",
+  "canvas_width": 4698,
+  "canvas_height": 5624,
+  "lines": [
+    {
+      "bbox": [
+        716,
+        279,
+        1679,
+        349
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1642,640,2210,161",
+      "confidence": "line",
+      "gemini_text": "TELEPHONE DIRECTORY"
+    },
+    {
+      "bbox": [
+        1157,
+        374,
+        1237,
+        410
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2654,858,184,83",
+      "confidence": "line",
+      "gemini_text": "For"
+    },
+    {
+      "bbox": [
+        719,
+        428,
+        1642,
+        492
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1649,982,2118,147",
+      "confidence": "line",
+      "gemini_text": "CARAWAY And MONETTE, ARKANSAS"
+    },
+    {
+      "bbox": [
+        988,
+        540,
+        1406,
+        600
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2266,1239,959,138",
+      "confidence": "line",
+      "gemini_text": "December, 1960"
+    },
+    {
+      "bbox": [
+        739,
+        675,
+        1652,
+        722
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1695,1549,2095,108",
+      "confidence": "line",
+      "gemini_text": "DO NOT USE THIS DIRECTORY UNTIL THE DIAL CONVERSION DAY"
+    },
+    {
+      "bbox": [
+        997,
+        805,
+        1390,
+        845
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2287,1847,902,92",
+      "confidence": "line",
+      "gemini_text": "EMERGENCY CALLS"
+    },
+    {
+      "bbox": [
+        1588,
+        889,
+        1682,
+        907
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=3643,2040,215,41",
+      "confidence": "line",
+      "gemini_text": "TO            TO               TO             FEDERAL"
+    },
+    {
+      "bbox": [
+        1571,
+        911,
+        1701,
+        933
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=3604,2090,298,51",
+      "confidence": "line",
+      "gemini_text": "REPORT          CALL             CALL           BUREAU OF"
+    },
+    {
+      "bbox": [
+        1547,
+        936,
+        1722,
+        958
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=3549,2148,401,50",
+      "confidence": "line",
+      "gemini_text": "A FIRE          POLICE          SHERIFF         INVESTIGATION"
+    },
+    {
+      "bbox": [
+        1128,
+        969,
+        1278,
+        991
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2588,2223,344,51",
+      "confidence": "line",
+      "gemini_text": "CARAWAY    DIAL           DIAL 482-3434      DIAL \"0\" (Opr)    DIAL \"0\" (Opr)"
+    },
+    {
+      "bbox": [
+        1141,
+        993,
+        1262,
+        1011
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2617,2279,278,41",
+      "confidence": "line",
+      "gemini_text": "482-3456       if no answer        & ask for        & ask for"
+    },
+    {
+      "bbox": [
+        1334,
+        1012,
+        1501,
+        1037
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=3060,2322,383,57",
+      "confidence": "line",
+      "gemini_text": "DIAL 482-3472       \"INFORMATION\"    \"INFORMATION\""
+    },
+    {
+      "bbox": [
+        1126,
+        1052,
+        1276,
+        1072
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2583,2414,344,46",
+      "confidence": "line",
+      "gemini_text": "MONETTE    DIAL           DIAL 486-2121      DIAL \"0\" (Opr)    DIAL \"0\" (Opr)"
+    },
+    {
+      "bbox": [
+        1141,
+        1076,
+        1264,
+        1093
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2617,2469,283,39",
+      "confidence": "line",
+      "gemini_text": "486-5678       if no answer        & ask for        & ask for"
+    },
+    {
+      "bbox": [
+        1547,
+        1097,
+        1720,
+        1124
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=3549,2517,397,62",
+      "confidence": "line",
+      "gemini_text": "DIAL 486-5864       \"INFORMATION\"    \"INFORMATION\""
+    },
+    {
+      "bbox": [
+        903,
+        1283,
+        1471,
+        1321
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2071,2944,1303,87",
+      "confidence": "line",
+      "gemini_text": "TELEPHONE SERVICE CALLS"
+    },
+    {
+      "bbox": [
+        784,
+        1363,
+        959,
+        1390
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1798,3128,402,61",
+      "confidence": "line",
+      "gemini_text": "TO PLACE LONG    INFORMATION              TO CALL          TO REPORT        TO CALL"
+    },
+    {
+      "bbox": [
+        1390,
+        1383,
+        1578,
+        1407
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=3189,3173,431,55",
+      "confidence": "line",
+      "gemini_text": "DISTANCE             &                   REPAIR SERVICE    DIFFICULTY WITH   BUSINESS"
+    },
+    {
+      "bbox": [
+        1392,
+        1408,
+        1577,
+        1432
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=3193,3231,425,55",
+      "confidence": "line",
+      "gemini_text": "CALLS         NUMBERS NOT                                LOCAL OR LONG      OFFICE"
+    },
+    {
+      "bbox": [
+        1381,
+        1431,
+        1586,
+        1457
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=3168,3284,470,59",
+      "confidence": "line",
+      "gemini_text": "IN DIRECTORY                               DISTANCE SERVICE"
+    },
+    {
+      "bbox": [
+        792,
+        1487,
+        952,
+        1513
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1817,3412,367,60",
+      "confidence": "line",
+      "gemini_text": "CARAWAY   DIAL \"0\" (Opr)  DIAL \"0\" (Opr)      DIAL \"0\" (Opr)   DIAL \"0\" (Opr)       DIAL"
+    },
+    {
+      "bbox": [
+        1611,
+        1508,
+        1714,
+        1534
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=3696,3460,236,60",
+      "confidence": "line",
+      "gemini_text": "& ask for            & ask for        & ask for         482-3521"
+    },
+    {
+      "bbox": [
+        1383,
+        1513,
+        1584,
+        1539
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=3173,3472,461,59",
+      "confidence": "line",
+      "gemini_text": "\"INFORMATION\"      \"CHIEF OPERATOR\"  \"CHIEF OPERATOR\""
+    },
+    {
+      "bbox": [
+        984,
+        1549,
+        1141,
+        1574
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2257,3554,360,58",
+      "confidence": "line",
+      "gemini_text": "MONETTE   DIAL \"0\" (Opr)  DIAL \"0\" (Opr)      DIAL \"0\" (Opr)   DIAL \"0\" (Opr)       DIAL"
+    },
+    {
+      "bbox": [
+        1406,
+        1554,
+        1561,
+        1579
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=3225,3566,356,57",
+      "confidence": "line",
+      "gemini_text": "& ask for            & ask for        & ask for         486-5421"
+    },
+    {
+      "bbox": [
+        970,
+        1567,
+        1591,
+        1624
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2225,3596,1425,130",
+      "confidence": "line",
+      "gemini_text": "\"INFORMATION\"      \"CHIEF OPERATOR\"  \"CHIEF OPERATOR\""
+    },
+    {
+      "bbox": [
+        875,
+        1780,
+        1483,
+        1817
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2007,4084,1395,85",
+      "confidence": "line",
+      "gemini_text": "TELEPHONE BUSINESS OFFICE"
+    },
+    {
+      "bbox": [
+        665,
+        1830,
+        1742,
+        1863
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1525,4199,2471,76",
+      "confidence": "line",
+      "gemini_text": "The Telephone Business Office for the Caraway and Monette exchanges is located in the Monette,"
+    },
+    {
+      "bbox": [
+        615,
+        1852,
+        1744,
+        1888
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1411,4250,2590,82",
+      "confidence": "line",
+      "gemini_text": "Arkansas telephone central office building. The hours of operation for this office are from 8:00 a.m. un-"
+    },
+    {
+      "bbox": [
+        615,
+        1877,
+        1744,
+        1913
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1411,4307,2590,83",
+      "confidence": "line",
+      "gemini_text": "til 12:00 noon, and 1:00 p.m. until 5:00 p.m., daily, Monday through Friday. Payments may be made at"
+    },
+    {
+      "bbox": [
+        615,
+        1901,
+        1572,
+        1935
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1411,4362,2195,78",
+      "confidence": "line",
+      "gemini_text": "the Business Office, by mail, or by using the convenient Caraway or Monette depositories."
+    },
+    {
+      "bbox": [
+        663,
+        1944,
+        1744,
+        1979
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1521,4461,2480,80",
+      "confidence": "line",
+      "gemini_text": "You are always welcome to stop in and discuss your telephone business matters or to inquire about"
+    },
+    {
+      "bbox": [
+        612,
+        1967,
+        1669,
+        2002
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1404,4513,2425,81",
+      "confidence": "line",
+      "gemini_text": "the many additional telephone facilities which can make your service more useful and convenient."
+    },
+    {
+      "bbox": [
+        625,
+        2029,
+        1724,
+        2075
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1434,4656,2521,105",
+      "confidence": "line",
+      "gemini_text": "UNITED TELEPHONE COMPANY OF ARKANSAS"
+    },
+    {
+      "bbox": [
+        924,
+        2102,
+        1432,
+        2127
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2120,4823,1165,58",
+      "confidence": "line",
+      "gemini_text": "Copyright 1960, by United Telephone Company of Arkansas"
+    }
+  ],
+  "unmatched_gemini": []
+}

@@ -1,0 +1,76 @@
+{
+  "image_width": 2048,
+  "image_height": 1722,
+  "lines": [
+    {
+      "bbox": [
+        276,
+        444,
+        1379,
+        539
+      ],
+      "text": "SOME MATERIAL IN",
+      "confidence": 0.7946
+    },
+    {
+      "bbox": [
+        278,
+        555,
+        1394,
+        637
+      ],
+      "text": "THE ORIGINAL FILE",
+      "confidence": 0.9453
+    },
+    {
+      "bbox": [
+        277,
+        654,
+        1695,
+        751
+      ],
+      "text": "CONTAINS MUTILATIONS",
+      "confidence": 0.6199
+    },
+    {
+      "bbox": [
+        276,
+        766,
+        1565,
+        846
+      ],
+      "text": "AND OTHER DEFECTS.",
+      "confidence": 0.8864
+    },
+    {
+      "bbox": [
+        273,
+        969,
+        1514,
+        1062
+      ],
+      "text": "THESE UNAVOIDABLY",
+      "confidence": 0.8458
+    },
+    {
+      "bbox": [
+        276,
+        1077,
+        1309,
+        1162
+      ],
+      "text": "ARE PART OF THE",
+      "confidence": 0.8221
+    },
+    {
+      "bbox": [
+        281,
+        1190,
+        964,
+        1262
+      ],
+      "text": "FILMED FILE.",
+      "confidence": 0.9748
+    }
+  ]
+}

@@ -1,0 +1,779 @@
+{
+  "image": "0009_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0008.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://www.loc.gov/item/usteledirec01083/canvas/9",
+  "canvas_width": 7678,
+  "canvas_height": 8192,
+  "lines": [
+    {
+      "bbox": [
+        181,
+        151,
+        423,
+        360
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=679,566,907,784",
+      "confidence": "line",
+      "gemini_text": "(ANSI and ISO TEST CHART No. 2)"
+    },
+    {
+      "bbox": [
+        413,
+        256,
+        481,
+        312
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=1548,960,255,210",
+      "confidence": "line",
+      "gemini_text": "2.5"
+    },
+    {
+      "bbox": [
+        436,
+        284,
+        501,
+        344
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=1635,1065,243,225",
+      "confidence": "line",
+      "gemini_text": "2.2"
+    },
+    {
+      "bbox": [
+        353,
+        289,
+        473,
+        449
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=1323,1084,450,599",
+      "confidence": "line",
+      "gemini_text": "2.0"
+    },
+    {
+      "bbox": [
+        465,
+        317,
+        530,
+        364
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=1743,1188,244,177",
+      "confidence": "line",
+      "gemini_text": "1.8"
+    },
+    {
+      "bbox": [
+        416,
+        345,
+        492,
+        404
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=1560,1293,285,222",
+      "confidence": "line",
+      "gemini_text": "1.6"
+    },
+    {
+      "bbox": [
+        331,
+        374,
+        358,
+        403
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=1241,1402,101,109",
+      "confidence": "line",
+      "gemini_text": "APPLIED IMAGE, Inc"
+    },
+    {
+      "bbox": [
+        573,
+        416,
+        593,
+        433
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=2148,1560,75,63",
+      "confidence": "line",
+      "gemini_text": "1653 East Main Street"
+    },
+    {
+      "bbox": [
+        519,
+        482,
+        711,
+        650
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=1946,1807,720,630",
+      "confidence": "line",
+      "gemini_text": "Rochester, New York"
+    },
+    {
+      "bbox": [
+        545,
+        513,
+        729,
+        672
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=2043,1923,690,596",
+      "confidence": "line",
+      "gemini_text": "5"
+    },
+    {
+      "bbox": [
+        654,
+        735,
+        713,
+        1199
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=2452,2756,221,1739",
+      "confidence": "line",
+      "gemini_text": "4"
+    },
+    {
+      "bbox": [
+        778,
+        738,
+        836,
+        1529
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=2917,2767,217,2966",
+      "confidence": "line",
+      "gemini_text": "WASHINGTON. D. C. 20540"
+    },
+    {
+      "bbox": [
+        703,
+        1020,
+        783,
+        1265
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=2636,3824,299,919",
+      "confidence": "line",
+      "gemini_text": "PHOTODUPLICATION SERVICE"
+    },
+    {
+      "bbox": [
+        653,
+        1204,
+        708,
+        1543
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=2448,4514,206,1271",
+      "confidence": "line",
+      "gemini_text": "ARY THE LIBRA"
+    },
+    {
+      "bbox": [
+        507,
+        1611,
+        553,
+        1652
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=1901,6040,172,154",
+      "confidence": "line",
+      "gemini_text": "OF CONGRESS"
+    },
+    {
+      "bbox": [
+        526,
+        1633,
+        659,
+        1773
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=1972,6122,499,525",
+      "confidence": "line",
+      "gemini_text": "APPLIED IMAGE, Inc"
+    },
+    {
+      "bbox": [
+        421,
+        1688,
+        455,
+        1741
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=1578,6329,128,198",
+      "confidence": "line",
+      "gemini_text": "1653 East Main Street"
+    },
+    {
+      "bbox": [
+        627,
+        1694,
+        681,
+        1745
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=2351,6351,202,191",
+      "confidence": "line",
+      "gemini_text": "Rochester, New York 14609"
+    },
+    {
+      "bbox": [
+        369,
+        1732,
+        409,
+        1783
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=1383,6494,150,191",
+      "confidence": "line",
+      "gemini_text": "2.8"
+    },
+    {
+      "bbox": [
+        336,
+        1768,
+        373,
+        1831
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=1260,6629,138,236",
+      "confidence": "line",
+      "gemini_text": "2.2"
+    },
+    {
+      "bbox": [
+        287,
+        1794,
+        365,
+        1862
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=1076,6726,292,255",
+      "confidence": "line",
+      "gemini_text": "3.6"
+    },
+    {
+      "bbox": [
+        321,
+        1819,
+        468,
+        1945
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=1203,6820,552,472",
+      "confidence": "line",
+      "gemini_text": "40"
+    },
+    {
+      "bbox": [
+        261,
+        1823,
+        334,
+        1881
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=978,6835,274,217",
+      "confidence": "line",
+      "gemini_text": "2.0"
+    },
+    {
+      "bbox": [
+        304,
+        1867,
+        355,
+        1920
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=1140,7000,191,198",
+      "confidence": "line",
+      "gemini_text": "1.8"
+    },
+    {
+      "bbox": [
+        179,
+        1924,
+        252,
+        1996
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=671,7213,274,270",
+      "confidence": "line",
+      "gemini_text": "1.25"
+    },
+    {
+      "bbox": [
+        216,
+        1926,
+        235,
+        1942
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=810,7221,71,60",
+      "confidence": "line",
+      "gemini_text": "1.6"
+    },
+    {
+      "bbox": [
+        220,
+        1933,
+        280,
+        1992
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=825,7247,225,221",
+      "confidence": "line",
+      "gemini_text": "MICROCOPY RESOLUTION TEST CHART"
+    },
+    {
+      "bbox": [
+        1824,
+        17,
+        1869,
+        35
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=6838,64,169,67",
+      "confidence": "line",
+      "gemini_text": "NBS-10100"
+    },
+    {
+      "bbox": [
+        1724,
+        196,
+        1778,
+        257
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=6463,735,203,229",
+      "confidence": "line",
+      "gemini_text": "(ANSI and ISO TEST CHART No. 2)"
+    },
+    {
+      "bbox": [
+        1710,
+        221,
+        1756,
+        265
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=6411,829,172,165",
+      "confidence": "line",
+      "gemini_text": "11 12 13 14"
+    },
+    {
+      "bbox": [
+        1743,
+        260,
+        1845,
+        383
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=6535,975,382,461",
+      "confidence": "line",
+      "gemini_text": "MICROCOPY RESOLUTION TEST CHART"
+    },
+    {
+      "bbox": [
+        1806,
+        309,
+        1877,
+        383
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=6771,1159,266,277",
+      "confidence": "line",
+      "gemini_text": "(ANSI and ISO TEST CHART No. 2)"
+    },
+    {
+      "bbox": [
+        1568,
+        341,
+        1771,
+        483
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=5878,1278,762,533",
+      "confidence": "line",
+      "gemini_text": "3.2"
+    },
+    {
+      "bbox": [
+        1607,
+        402,
+        1792,
+        531
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=6025,1507,693,484",
+      "confidence": "line",
+      "gemini_text": "2.2"
+    },
+    {
+      "bbox": [
+        1525,
+        469,
+        1563,
+        522
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=5717,1758,143,199",
+      "confidence": "line",
+      "gemini_text": "1.1"
+    },
+    {
+      "bbox": [
+        1592,
+        481,
+        1681,
+        554
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=5968,1803,334,274",
+      "confidence": "line",
+      "gemini_text": "1.8"
+    },
+    {
+      "bbox": [
+        1389,
+        505,
+        1521,
+        670
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=5207,1893,495,619",
+      "confidence": "line",
+      "gemini_text": "1.4"
+    },
+    {
+      "bbox": [
+        1552,
+        536,
+        1623,
+        591
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=5818,2010,267,206",
+      "confidence": "line",
+      "gemini_text": "1.6"
+    },
+    {
+      "bbox": [
+        1386,
+        567,
+        1486,
+        687
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=5196,2126,375,450",
+      "confidence": "line",
+      "gemini_text": "MICROCOPY RESOLUTION TEST CHART"
+    },
+    {
+      "bbox": [
+        996,
+        716,
+        1237,
+        765
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=3734,2684,904,184",
+      "confidence": "line",
+      "gemini_text": "(ANSI and ISO TEST CHART No. 2)"
+    },
+    {
+      "bbox": [
+        1140,
+        839,
+        1183,
+        959
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=4274,3146,161,449",
+      "confidence": "line",
+      "gemini_text": "1.0"
+    },
+    {
+      "bbox": [
+        1192,
+        843,
+        1237,
+        882
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=4469,3161,169,146",
+      "confidence": "line",
+      "gemini_text": "2.8"
+    },
+    {
+      "bbox": [
+        1116,
+        847,
+        1143,
+        980
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=4184,3176,101,498",
+      "confidence": "line",
+      "gemini_text": "2.5"
+    },
+    {
+      "bbox": [
+        1034,
+        849,
+        1080,
+        887
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=3876,3183,173,143",
+      "confidence": "line",
+      "gemini_text": "3.2"
+    },
+    {
+      "bbox": [
+        1191,
+        879,
+        1240,
+        923
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=4465,3296,184,165",
+      "confidence": "line",
+      "gemini_text": "2.2"
+    },
+    {
+      "bbox": [
+        1191,
+        925,
+        1237,
+        962
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=4465,3468,173,139",
+      "confidence": "line",
+      "gemini_text": "2.0"
+    },
+    {
+      "bbox": [
+        1034,
+        942,
+        1073,
+        988
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=3876,3532,147,172",
+      "confidence": "line",
+      "gemini_text": "1.1"
+    },
+    {
+      "bbox": [
+        1183,
+        973,
+        1240,
+        1017
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=4435,3648,214,165",
+      "confidence": "line",
+      "gemini_text": "1.8"
+    },
+    {
+      "bbox": [
+        998,
+        1027,
+        1076,
+        1086
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=3742,3850,292,222",
+      "confidence": "line",
+      "gemini_text": "1.25"
+    },
+    {
+      "bbox": [
+        1114,
+        1035,
+        1159,
+        1076
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=4176,3880,169,154",
+      "confidence": "line",
+      "gemini_text": "1.4 1.6"
+    },
+    {
+      "bbox": [
+        1177,
+        1035,
+        1239,
+        1084
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=4413,3880,232,184",
+      "confidence": "line",
+      "gemini_text": "1653 East Main Street"
+    },
+    {
+      "bbox": [
+        1053,
+        1170,
+        1247,
+        1192
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=3948,4387,727,82",
+      "confidence": "line",
+      "gemini_text": "APPLIED IMAGE, Inc"
+    },
+    {
+      "bbox": [
+        1053,
+        1204,
+        1244,
+        1234
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=3948,4514,716,113",
+      "confidence": "line",
+      "gemini_text": "Rochester, New York 14609"
+    },
+    {
+      "bbox": [
+        1428,
+        1595,
+        1480,
+        1645
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=5354,5980,195,187",
+      "confidence": "line",
+      "gemini_text": "APPLIED IMAGE, Inc"
+    },
+    {
+      "bbox": [
+        1298,
+        1612,
+        1463,
+        1792
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=4866,6044,619,675",
+      "confidence": "line",
+      "gemini_text": "1653 East Main Street"
+    },
+    {
+      "bbox": [
+        1321,
+        1628,
+        1488,
+        1821
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=4952,6104,627,723",
+      "confidence": "line",
+      "gemini_text": "Rochester, New York 14609"
+    },
+    {
+      "bbox": [
+        1498,
+        1798,
+        1522,
+        1817
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=5616,6741,90,71",
+      "confidence": "line",
+      "gemini_text": "1.0"
+    },
+    {
+      "bbox": [
+        1550,
+        1810,
+        1716,
+        1974
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=5811,6786,622,615",
+      "confidence": "line",
+      "gemini_text": "3.6"
+    },
+    {
+      "bbox": [
+        1447,
+        1847,
+        1479,
+        1877
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=5425,6925,120,112",
+      "confidence": "line",
+      "gemini_text": "40"
+    },
+    {
+      "bbox": [
+        1478,
+        1872,
+        1546,
+        1924
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=5541,7019,255,194",
+      "confidence": "line",
+      "gemini_text": "2.0"
+    },
+    {
+      "bbox": [
+        1794,
+        1889,
+        1861,
+        1961
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=6726,7082,251,270",
+      "confidence": "line",
+      "gemini_text": "1.1"
+    },
+    {
+      "bbox": [
+        1756,
+        1891,
+        1826,
+        1971
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=6583,7090,263,300",
+      "confidence": "line",
+      "gemini_text": "1.8"
+    },
+    {
+      "bbox": [
+        1527,
+        1896,
+        1578,
+        1956
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=5725,7108,191,225",
+      "confidence": "line",
+      "gemini_text": "1.25"
+    },
+    {
+      "bbox": [
+        1559,
+        1927,
+        1609,
+        1983
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=5845,7225,187,210",
+      "confidence": "line",
+      "gemini_text": "1.4"
+    },
+    {
+      "bbox": [
+        1592,
+        1964,
+        1631,
+        2003
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=5968,7363,147,147",
+      "confidence": "line",
+      "gemini_text": "1.6"
+    },
+    {
+      "bbox": [
+        1688,
+        1989,
+        1754,
+        2052
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=6328,7457,248,236",
+      "confidence": "line",
+      "gemini_text": "MICROCOPY RESOLUTION TEST CHART"
+    },
+    {
+      "bbox": [
+        1694,
+        1992,
+        1782,
+        2086
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=6351,7468,330,353",
+      "confidence": "line",
+      "gemini_text": "(ANSI and ISO TEST CHART No. 2)"
+    }
+  ],
+  "unmatched_gemini": [
+    "MICROCOPY RESOLUTION TEST CHART",
+    "NBS - 10",
+    "POLOL",
+    "45 2.8",
+    "14609",
+    "123",
+    "1.0",
+    "2.5",
+    "3.2",
+    "1.1",
+    "1.4",
+    "NBS 10100",
+    "1.0",
+    "45 2.8 2.5",
+    "50",
+    "3.6",
+    "4.0",
+    "2.0",
+    "1.25",
+    "NBS-10100",
+    "3.6",
+    "4.0",
+    "APPLIED IMAGE, Inc",
+    "Rochester, New York 14609",
+    "1653 East Main Street",
+    "12:1",
+    "452.8",
+    "2.5",
+    "3.2",
+    "2.2",
+    "NBS-10100"
+  ]
+}

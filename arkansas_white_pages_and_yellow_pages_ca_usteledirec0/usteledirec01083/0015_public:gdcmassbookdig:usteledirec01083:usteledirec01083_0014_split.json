@@ -1,0 +1,24 @@
+{
+  "original_file": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014.jpg",
+  "original_width": 2048,
+  "original_height": 1697,
+  "gutter_col": 1024,
+  "pages": [
+    {
+      "side": "left",
+      "file": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg",
+      "x_offset": 0,
+      "y_offset": 0,
+      "width": 1024,
+      "height": 1697
+    },
+    {
+      "side": "right",
+      "file": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_right.jpg",
+      "x_offset": 1024,
+      "y_offset": 0,
+      "width": 1024,
+      "height": 1697
+    }
+  ]
+}

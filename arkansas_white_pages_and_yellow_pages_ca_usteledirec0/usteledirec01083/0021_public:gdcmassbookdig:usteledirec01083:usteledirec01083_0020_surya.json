@@ -1,0 +1,26 @@
+{
+  "image_width": 2048,
+  "image_height": 1718,
+  "lines": [
+    {
+      "bbox": [
+        1827,
+        566,
+        1843,
+        582
+      ],
+      "text": "ú",
+      "confidence": 0.2401
+    },
+    {
+      "bbox": [
+        721,
+        634,
+        1319,
+        883
+      ],
+      "text": "END",
+      "confidence": 0.9245
+    }
+  ]
+}

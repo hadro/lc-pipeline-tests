@@ -1,0 +1,726 @@
+{
+  "image_width": 2048,
+  "image_height": 2185,
+  "lines": [
+    {
+      "bbox": [
+        1824,
+        17,
+        1869,
+        35
+      ],
+      "text": "1 0",
+      "confidence": 0.8455
+    },
+    {
+      "bbox": [
+        181,
+        151,
+        423,
+        360
+      ],
+      "text": "HOOOCON, HEADING TO LEFT CHAPT TO TO",
+      "confidence": 0.4056
+    },
+    {
+      "bbox": [
+        1855,
+        171,
+        1868,
+        183
+      ],
+      "text": ".",
+      "confidence": 0.8154
+    },
+    {
+      "bbox": [
+        1724,
+        196,
+        1778,
+        257
+      ],
+      "text": "MCROCORY",
+      "confidence": 0.3826
+    },
+    {
+      "bbox": [
+        1710,
+        221,
+        1756,
+        265
+      ],
+      "text": "(And or",
+      "confidence": 0.6644
+    },
+    {
+      "bbox": [
+        413,
+        256,
+        481,
+        312
+      ],
+      "text": "25",
+      "confidence": 0.8458
+    },
+    {
+      "bbox": [
+        1743,
+        260,
+        1845,
+        383
+      ],
+      "text": "ASS REST CHARLAGE DE",
+      "confidence": 0.4456
+    },
+    {
+      "bbox": [
+        436,
+        284,
+        501,
+        344
+      ],
+      "text": "22",
+      "confidence": 0.6917
+    },
+    {
+      "bbox": [
+        353,
+        289,
+        473,
+        449
+      ],
+      "text": "12 12 12 12 12 12 12 12 12 12 12 12 12 1",
+      "confidence": 0.4518
+    },
+    {
+      "bbox": [
+        1806,
+        309,
+        1877,
+        383
+      ],
+      "text": "TEST CHART",
+      "confidence": 0.5999
+    },
+    {
+      "bbox": [
+        465,
+        317,
+        530,
+        364
+      ],
+      "text": "11120",
+      "confidence": 0.6459
+    },
+    {
+      "bbox": [
+        1568,
+        341,
+        1771,
+        483
+      ],
+      "text": "HERERER E",
+      "confidence": 0.2405
+    },
+    {
+      "bbox": [
+        416,
+        345,
+        492,
+        404
+      ],
+      "text": "135",
+      "confidence": 0.7609
+    },
+    {
+      "bbox": [
+        331,
+        374,
+        358,
+        403
+      ],
+      "text": "0",
+      "confidence": 0.9174
+    },
+    {
+      "bbox": [
+        1607,
+        402,
+        1792,
+        531
+      ],
+      "text": "23 23",
+      "confidence": 0.3788
+    },
+    {
+      "bbox": [
+        573,
+        416,
+        593,
+        433
+      ],
+      "text": "6",
+      "confidence": 0.5271
+    },
+    {
+      "bbox": [
+        1525,
+        469,
+        1563,
+        522
+      ],
+      "text": "in",
+      "confidence": 0.241
+    },
+    {
+      "bbox": [
+        1592,
+        481,
+        1681,
+        554
+      ],
+      "text": "1",
+      "confidence": 0.4904
+    },
+    {
+      "bbox": [
+        519,
+        482,
+        711,
+        650
+      ],
+      "text": "Realth water the",
+      "confidence": 0.2953
+    },
+    {
+      "bbox": [
+        1389,
+        505,
+        1521,
+        670
+      ],
+      "text": "BATEL WASE, ILE",
+      "confidence": 0.5565
+    },
+    {
+      "bbox": [
+        545,
+        513,
+        729,
+        672
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        1552,
+        536,
+        1623,
+        591
+      ],
+      "text": "16",
+      "confidence": 0.5319
+    },
+    {
+      "bbox": [
+        1386,
+        567,
+        1486,
+        687
+      ],
+      "text": "S. K. Valley Correlation",
+      "confidence": 0.519
+    },
+    {
+      "bbox": [
+        996,
+        716,
+        1237,
+        765
+      ],
+      "text": "MICROCOPY RESOLUTION TEST CHART\n\nNBS - 1010a\n\n(ANSI and ISO TEST CHART No. 2)",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        654,
+        735,
+        713,
+        1199
+      ],
+      "text": "<b>Պ</b>. հ. հ. հ. հ. հ. հ. հ. հ. հ. հ. հ. հ. հ.",
+      "confidence": 0.8693
+    },
+    {
+      "bbox": [
+        778,
+        738,
+        836,
+        1529
+      ],
+      "text": "աղակակարարարարարարարարարարությունների հետորարարարարարարարարարարարարարարարարարարա",
+      "confidence": 0.7512
+    },
+    {
+      "bbox": [
+        1140,
+        839,
+        1183,
+        959
+      ],
+      "text": "3.2<br>3.6<br>4.0",
+      "confidence": 0.8929
+    },
+    {
+      "bbox": [
+        1192,
+        843,
+        1237,
+        882
+      ],
+      "text": "2.5",
+      "confidence": 0.9605
+    },
+    {
+      "bbox": [
+        1116,
+        847,
+        1143,
+        980
+      ],
+      "text": "150<br>150<br>150<br>162<br>163<br>164<br>164<br>164<br>164<br>164<br>164<br>164<br>164<br>164<br>164",
+      "confidence": 0.8748
+    },
+    {
+      "bbox": [
+        1034,
+        849,
+        1080,
+        887
+      ],
+      "text": "1.0",
+      "confidence": 0.9416
+    },
+    {
+      "bbox": [
+        1191,
+        879,
+        1240,
+        923
+      ],
+      "text": "2.2",
+      "confidence": 0.9452
+    },
+    {
+      "bbox": [
+        1191,
+        925,
+        1237,
+        962
+      ],
+      "text": "2.0",
+      "confidence": 0.9716
+    },
+    {
+      "bbox": [
+        474,
+        934,
+        486,
+        945
+      ],
+      "text": "-",
+      "confidence": 0.5519
+    },
+    {
+      "bbox": [
+        1034,
+        942,
+        1073,
+        988
+      ],
+      "text": "1.1",
+      "confidence": 0.9369
+    },
+    {
+      "bbox": [
+        1183,
+        973,
+        1240,
+        1017
+      ],
+      "text": "1.8",
+      "confidence": 0.6515
+    },
+    {
+      "bbox": [
+        703,
+        1020,
+        783,
+        1265
+      ],
+      "text": "THE LIBRARY OF CONGRESS\nPHOTODUPLICATION SERVICE\nWASHINGTON D. C. 20540",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        998,
+        1027,
+        1076,
+        1086
+      ],
+      "text": "1.25",
+      "confidence": 0.8128
+    },
+    {
+      "bbox": [
+        1114,
+        1035,
+        1159,
+        1076
+      ],
+      "text": "1.4",
+      "confidence": 0.9067
+    },
+    {
+      "bbox": [
+        1177,
+        1035,
+        1239,
+        1084
+      ],
+      "text": "1.6",
+      "confidence": 0.6888
+    },
+    {
+      "bbox": [
+        1105,
+        1137,
+        1140,
+        1151
+      ],
+      "text": ". 8",
+      "confidence": 0.3531
+    },
+    {
+      "bbox": [
+        1053,
+        1170,
+        1247,
+        1192
+      ],
+      "text": "APPLIED IMAGE, Inc",
+      "confidence": 0.8657
+    },
+    {
+      "bbox": [
+        653,
+        1204,
+        708,
+        1543
+      ],
+      "text": "հ.հ.ս.<b>જ</b>սեսհոհո<b>հ</b>ոհոհոհոհո",
+      "confidence": 0.4906
+    },
+    {
+      "bbox": [
+        1053,
+        1204,
+        1244,
+        1234
+      ],
+      "text": "1653 East Main Street<br>Rochester, New York 14609",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        1169,
+        1260,
+        1184,
+        1271
+      ],
+      "text": ".",
+      "confidence": 0.666
+    },
+    {
+      "bbox": [
+        1428,
+        1595,
+        1480,
+        1645
+      ],
+      "text": "Millin",
+      "confidence": 0.4599
+    },
+    {
+      "bbox": [
+        507,
+        1611,
+        553,
+        1652
+      ],
+      "text": "Q.",
+      "confidence": 0.5209
+    },
+    {
+      "bbox": [
+        1298,
+        1612,
+        1463,
+        1792
+      ],
+      "text": "Second Second",
+      "confidence": 0.2147
+    },
+    {
+      "bbox": [
+        1321,
+        1628,
+        1488,
+        1821
+      ],
+      "text": "A TO THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY",
+      "confidence": 0.9516
+    },
+    {
+      "bbox": [
+        526,
+        1633,
+        659,
+        1773
+      ],
+      "text": "How Bridge",
+      "confidence": 0.4129
+    },
+    {
+      "bbox": [
+        421,
+        1688,
+        455,
+        1741
+      ],
+      "text": "0",
+      "confidence": 0.5028
+    },
+    {
+      "bbox": [
+        627,
+        1694,
+        681,
+        1745
+      ],
+      "text": "II Sold",
+      "confidence": 0.3399
+    },
+    {
+      "bbox": [
+        369,
+        1732,
+        409,
+        1783
+      ],
+      "text": "8",
+      "confidence": 0.6517
+    },
+    {
+      "bbox": [
+        336,
+        1768,
+        373,
+        1831
+      ],
+      "text": "0.2",
+      "confidence": 0.649
+    },
+    {
+      "bbox": [
+        287,
+        1794,
+        365,
+        1862
+      ],
+      "text": "67",
+      "confidence": 0.2885
+    },
+    {
+      "bbox": [
+        1498,
+        1798,
+        1522,
+        1817
+      ],
+      "text": "1",
+      "confidence": 0.4668
+    },
+    {
+      "bbox": [
+        1550,
+        1810,
+        1716,
+        1974
+      ],
+      "text": "Constitution of the second",
+      "confidence": 0.7087
+    },
+    {
+      "bbox": [
+        315,
+        1813,
+        430,
+        1903
+      ],
+      "text": "द्ये शे शे",
+      "confidence": 0.3057
+    },
+    {
+      "bbox": [
+        321,
+        1819,
+        468,
+        1945
+      ],
+      "text": "A A A A A A A A A A A A A A A A A A A ",
+      "confidence": 0.1459
+    },
+    {
+      "bbox": [
+        261,
+        1823,
+        334,
+        1881
+      ],
+      "text": "52",
+      "confidence": 0.5703
+    },
+    {
+      "bbox": [
+        1447,
+        1847,
+        1479,
+        1877
+      ],
+      "text": "à",
+      "confidence": 0.4509
+    },
+    {
+      "bbox": [
+        304,
+        1867,
+        355,
+        1920
+      ],
+      "text": "82.",
+      "confidence": 0.4338
+    },
+    {
+      "bbox": [
+        1478,
+        1872,
+        1546,
+        1924
+      ],
+      "text": "Mis in",
+      "confidence": 0.4257
+    },
+    {
+      "bbox": [
+        1794,
+        1889,
+        1861,
+        1961
+      ],
+      "text": "AND OTHER",
+      "confidence": 0.2378
+    },
+    {
+      "bbox": [
+        1756,
+        1891,
+        1826,
+        1971
+      ],
+      "text": "S. Co. Co. Co. Co. Co. Co. Co. Co. Co. Co",
+      "confidence": 0.1586
+    },
+    {
+      "bbox": [
+        1527,
+        1896,
+        1578,
+        1956
+      ],
+      "text": "No.",
+      "confidence": 0.262
+    },
+    {
+      "bbox": [
+        179,
+        1924,
+        252,
+        1996
+      ],
+      "text": "1821 GAMES",
+      "confidence": 0.3638
+    },
+    {
+      "bbox": [
+        216,
+        1926,
+        235,
+        1942
+      ],
+      "text": "6",
+      "confidence": 0.7562
+    },
+    {
+      "bbox": [
+        1559,
+        1927,
+        1609,
+        1983
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        220,
+        1933,
+        280,
+        1992
+      ],
+      "text": "ON HAMES",
+      "confidence": 0.7599
+    },
+    {
+      "bbox": [
+        1592,
+        1964,
+        1631,
+        2003
+      ],
+      "text": "Mig.",
+      "confidence": 0.277
+    },
+    {
+      "bbox": [
+        1688,
+        1989,
+        1754,
+        2052
+      ],
+      "text": "Total Barry",
+      "confidence": 0.4889
+    },
+    {
+      "bbox": [
+        1694,
+        1992,
+        1782,
+        2086
+      ],
+      "text": "SH CHANGE OF THE SHAPE OF THE SHAPE OF THE SHAPE OF THE SHAPE OF THE SHAPE OF THE SHAPE OF THE SHAPE OF THE SHAPE OF THE SHAPE OF THE SHAPE OF THE SHAPE OF THE SHAPE OF THE SHAPE OF THE SHAPE OF THE SHAPE OF THE SHAPE OF T",
+      "confidence": 0.715
+    }
+  ]
+}

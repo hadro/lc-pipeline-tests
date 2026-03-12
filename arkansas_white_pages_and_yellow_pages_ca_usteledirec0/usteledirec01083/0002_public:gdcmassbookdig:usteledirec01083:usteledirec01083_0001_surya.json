@@ -1,0 +1,86 @@
+{
+  "image_width": 2048,
+  "image_height": 1707,
+  "lines": [
+    {
+      "bbox": [
+        455,
+        351,
+        1575,
+        446
+      ],
+      "text": "LIBRARY OF CONGRESS",
+      "confidence": 0.9709
+    },
+    {
+      "bbox": [
+        262,
+        611,
+        1753,
+        679
+      ],
+      "text": "PRESERVATION MICROFILMING PROGRAM",
+      "confidence": 0.7104
+    },
+    {
+      "bbox": [
+        426,
+        779,
+        1558,
+        827
+      ],
+      "text": "THE MATERIAL WHICH FOLLOWS IS FROM THE",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        294,
+        833,
+        1671,
+        890
+      ],
+      "text": "COMBINED COLLECTIONS OF THE LIBRARY OF CONGRESS",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        500,
+        896,
+        1418,
+        943
+      ],
+      "text": "AND THE NEW YORK PUBLIC LIBRARY.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        464,
+        1015,
+        1481,
+        1062
+      ],
+      "text": "IT WAS PREPARED AND MICROFILMED TO",
+      "confidence": 0.9142
+    },
+    {
+      "bbox": [
+        498,
+        1074,
+        1435,
+        1120
+      ],
+      "text": "LIBRARY OF CONGRESS PRESERVATION",
+      "confidence": 0.8068
+    },
+    {
+      "bbox": [
+        575,
+        1133,
+        1351,
+        1180
+      ],
+      "text": "MICROFILMING SPECIFICATIONS.",
+      "confidence": 0.7035
+    }
+  ]
+}

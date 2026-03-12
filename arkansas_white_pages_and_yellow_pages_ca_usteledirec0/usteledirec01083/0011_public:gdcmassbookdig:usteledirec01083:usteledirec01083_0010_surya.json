@@ -1,0 +1,1016 @@
+{
+  "image_width": 2048,
+  "image_height": 2451,
+  "lines": [
+    {
+      "bbox": [
+        716,
+        279,
+        1679,
+        349
+      ],
+      "text": "TELEPHONE DIRECTORY",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        1157,
+        374,
+        1237,
+        410
+      ],
+      "text": "For",
+      "confidence": 0.8668
+    },
+    {
+      "bbox": [
+        719,
+        428,
+        1642,
+        492
+      ],
+      "text": "CARAWAY And MONETTE, ARKANSAS",
+      "confidence": 0.9343
+    },
+    {
+      "bbox": [
+        988,
+        540,
+        1406,
+        600
+      ],
+      "text": "December, 1960",
+      "confidence": 0.9799
+    },
+    {
+      "bbox": [
+        388,
+        628,
+        462,
+        1199
+      ],
+      "text": "1 2 3 4 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6",
+      "confidence": 0.6735
+    },
+    {
+      "bbox": [
+        189,
+        631,
+        250,
+        1196
+      ],
+      "text": "9.1....................................",
+      "confidence": 0.7966
+    },
+    {
+      "bbox": [
+        739,
+        675,
+        1652,
+        722
+      ],
+      "text": "DO NOT USE THIS DIRECTORY UNTIL THE DIAL CONVERSION DAY",
+      "confidence": 0.8821
+    },
+    {
+      "bbox": [
+        997,
+        805,
+        1390,
+        845
+      ],
+      "text": "<b>EMERGENCY CALLS</b>",
+      "confidence": 0.9572
+    },
+    {
+      "bbox": [
+        969,
+        880,
+        1006,
+        897
+      ],
+      "text": "TO",
+      "confidence": 0.9003
+    },
+    {
+      "bbox": [
+        1184,
+        883,
+        1221,
+        900
+      ],
+      "text": "TO",
+      "confidence": 0.9157
+    },
+    {
+      "bbox": [
+        1402,
+        886,
+        1440,
+        902
+      ],
+      "text": "TO",
+      "confidence": 0.8522
+    },
+    {
+      "bbox": [
+        1588,
+        889,
+        1682,
+        907
+      ],
+      "text": "FEDERAL",
+      "confidence": 0.603
+    },
+    {
+      "bbox": [
+        947,
+        904,
+        1027,
+        922
+      ],
+      "text": "REPORT",
+      "confidence": 0.7788
+    },
+    {
+      "bbox": [
+        1174,
+        904,
+        1232,
+        924
+      ],
+      "text": "CALL",
+      "confidence": 0.9645
+    },
+    {
+      "bbox": [
+        1390,
+        909,
+        1448,
+        927
+      ],
+      "text": "CALL",
+      "confidence": 0.9734
+    },
+    {
+      "bbox": [
+        1571,
+        911,
+        1701,
+        933
+      ],
+      "text": "BUREAU OF",
+      "confidence": 0.588
+    },
+    {
+      "bbox": [
+        950,
+        928,
+        1025,
+        946
+      ],
+      "text": "A FIRE",
+      "confidence": 0.846
+    },
+    {
+      "bbox": [
+        1165,
+        930,
+        1244,
+        948
+      ],
+      "text": "POLICE",
+      "confidence": 0.8803
+    },
+    {
+      "bbox": [
+        1377,
+        933,
+        1462,
+        951
+      ],
+      "text": "SHERIFF",
+      "confidence": 0.8472
+    },
+    {
+      "bbox": [
+        1547,
+        936,
+        1722,
+        958
+      ],
+      "text": "INVESTIGATION",
+      "confidence": 0.6033
+    },
+    {
+      "bbox": [
+        1128,
+        969,
+        1278,
+        991
+      ],
+      "text": "DIAL 482-3434",
+      "confidence": 0.5774
+    },
+    {
+      "bbox": [
+        1342,
+        969,
+        1497,
+        995
+      ],
+      "text": "DIAL \"O\" (Opr)",
+      "confidence": 0.9114
+    },
+    {
+      "bbox": [
+        1559,
+        974,
+        1713,
+        999
+      ],
+      "text": "DIAL \"O\" (Opr)",
+      "confidence": 0.9059
+    },
+    {
+      "bbox": [
+        959,
+        981,
+        1017,
+        999
+      ],
+      "text": "DIAL",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        692,
+        990,
+        807,
+        1010
+      ],
+      "text": "CARAWAY",
+      "confidence": 0.8166
+    },
+    {
+      "bbox": [
+        1548,
+        992,
+        1726,
+        1046
+      ],
+      "text": "& ask for \"INFORMATION\"",
+      "confidence": 0.9311
+    },
+    {
+      "bbox": [
+        1141,
+        993,
+        1262,
+        1011
+      ],
+      "text": "if no answer",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        1367,
+        994,
+        1469,
+        1016
+      ],
+      "text": "& ask for",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        938,
+        1001,
+        1037,
+        1021
+      ],
+      "text": "482-3456",
+      "confidence": 0.981
+    },
+    {
+      "bbox": [
+        1124,
+        1012,
+        1278,
+        1034
+      ],
+      "text": "DIAL 482-3472",
+      "confidence": 0.6307
+    },
+    {
+      "bbox": [
+        1334,
+        1012,
+        1501,
+        1037
+      ],
+      "text": "\"INFORMATION\"",
+      "confidence": 0.9472
+    },
+    {
+      "bbox": [
+        1126,
+        1052,
+        1276,
+        1072
+      ],
+      "text": "DIAL 486-2121",
+      "confidence": 0.6297
+    },
+    {
+      "bbox": [
+        1341,
+        1054,
+        1496,
+        1076
+      ],
+      "text": "DIAL \"0\" (Opr)",
+      "confidence": 0.8855
+    },
+    {
+      "bbox": [
+        1558,
+        1056,
+        1713,
+        1082
+      ],
+      "text": "DIAL \"0\" (Opr)",
+      "confidence": 0.8794
+    },
+    {
+      "bbox": [
+        957,
+        1061,
+        1017,
+        1081
+      ],
+      "text": "DIAL",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        701,
+        1072,
+        803,
+        1090
+      ],
+      "text": "MONETTE",
+      "confidence": 0.784
+    },
+    {
+      "bbox": [
+        1141,
+        1076,
+        1264,
+        1093
+      ],
+      "text": "if no answer",
+      "confidence": 0.9792
+    },
+    {
+      "bbox": [
+        1367,
+        1076,
+        1471,
+        1096
+      ],
+      "text": "& ask for",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        1583,
+        1079,
+        1687,
+        1103
+      ],
+      "text": "& ask for",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        938,
+        1085,
+        1035,
+        1103
+      ],
+      "text": "486-5678",
+      "confidence": 0.915
+    },
+    {
+      "bbox": [
+        1126,
+        1097,
+        1278,
+        1115
+      ],
+      "text": "DIAL 486-5864",
+      "confidence": 0.6418
+    },
+    {
+      "bbox": [
+        1334,
+        1097,
+        1505,
+        1119
+      ],
+      "text": "\"INFORMATION\"",
+      "confidence": 0.9294
+    },
+    {
+      "bbox": [
+        1547,
+        1097,
+        1720,
+        1124
+      ],
+      "text": "\"INFORMATION\"",
+      "confidence": 0.9561
+    },
+    {
+      "bbox": [
+        276,
+        1100,
+        303,
+        1201
+      ],
+      "text": "NGRESS",
+      "confidence": 0.9763
+    },
+    {
+      "bbox": [
+        310,
+        1108,
+        344,
+        1203
+      ],
+      "text": "ERVICE",
+      "confidence": 0.7982
+    },
+    {
+      "bbox": [
+        349,
+        1136,
+        372,
+        1196
+      ],
+      "text": "20540",
+      "confidence": 0.9741
+    },
+    {
+      "bbox": [
+        395,
+        1196,
+        471,
+        1910
+      ],
+      "text": "7 8 9 10 11 1 12 13 14",
+      "confidence": 0.8547
+    },
+    {
+      "bbox": [
+        317,
+        1198,
+        337,
+        1216
+      ],
+      "text": "S",
+      "confidence": 0.7675
+    },
+    {
+      "bbox": [
+        278,
+        1201,
+        305,
+        1478
+      ],
+      "text": "THE LIBRARY OF CO",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        351,
+        1205,
+        372,
+        1235
+      ],
+      "text": "j",
+      "confidence": 0.4148
+    },
+    {
+      "bbox": [
+        192,
+        1206,
+        256,
+        1937
+      ],
+      "text": "LILLER LILL COLLEGE LILL COLLEGE COLLEGE COLLEGE COLLEGE COLLEGE COLLEGE COLLEGE COLLEGE COLLEGE COLLEGE COLLEGE COLLEGE COLLEGE COLLEGE COLLEGE COLLEGE COLLEGE COLLEGE COLLEGE COLLEGE COLLEGE COLLEGE COLLEGE COLLEGE COLLE",
+      "confidence": 0.9099
+    },
+    {
+      "bbox": [
+        309,
+        1217,
+        345,
+        1460
+      ],
+      "text": "PHOTODUPLICATION",
+      "confidence": 0.8417
+    },
+    {
+      "bbox": [
+        349,
+        1233,
+        373,
+        1433
+      ],
+      "text": "WASHINGTON, D.",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        903,
+        1283,
+        1471,
+        1321
+      ],
+      "text": "TELEPHONE SERVICE CALLS",
+      "confidence": 0.5312
+    },
+    {
+      "bbox": [
+        981,
+        1357,
+        1143,
+        1379
+      ],
+      "text": "INFORMATION",
+      "confidence": 0.6029
+    },
+    {
+      "bbox": [
+        1421,
+        1362,
+        1547,
+        1382
+      ],
+      "text": "TO REPORT",
+      "confidence": 0.8036
+    },
+    {
+      "bbox": [
+        784,
+        1363,
+        959,
+        1390
+      ],
+      "text": "TO PLACE LONG",
+      "confidence": 0.738
+    },
+    {
+      "bbox": [
+        1616,
+        1377,
+        1716,
+        1399
+      ],
+      "text": "TO CALL",
+      "confidence": 0.9685
+    },
+    {
+      "bbox": [
+        1218,
+        1382,
+        1319,
+        1404
+      ],
+      "text": "TO CALL",
+      "confidence": 0.9703
+    },
+    {
+      "bbox": [
+        1390,
+        1383,
+        1578,
+        1407
+      ],
+      "text": "DIFFICULTY WITH",
+      "confidence": 0.6223
+    },
+    {
+      "bbox": [
+        1051,
+        1384,
+        1075,
+        1399
+      ],
+      "text": "&",
+      "confidence": 0.6481
+    },
+    {
+      "bbox": [
+        815,
+        1392,
+        930,
+        1414
+      ],
+      "text": "DISTANCE",
+      "confidence": 0.8752
+    },
+    {
+      "bbox": [
+        1612,
+        1402,
+        1718,
+        1422
+      ],
+      "text": "<b>BUSINESS</b>",
+      "confidence": 0.9327
+    },
+    {
+      "bbox": [
+        981,
+        1405,
+        1143,
+        1425
+      ],
+      "text": "<b>NUMBERS NOT</b>",
+      "confidence": 0.8961
+    },
+    {
+      "bbox": [
+        1184,
+        1407,
+        1360,
+        1427
+      ],
+      "text": "REPAIR SERVICE",
+      "confidence": 0.751
+    },
+    {
+      "bbox": [
+        1392,
+        1408,
+        1577,
+        1432
+      ],
+      "text": "LOCAL OR LONG",
+      "confidence": 0.736
+    },
+    {
+      "bbox": [
+        836,
+        1416,
+        909,
+        1438
+      ],
+      "text": "CALLS",
+      "confidence": 0.8951
+    },
+    {
+      "bbox": [
+        1626,
+        1428,
+        1706,
+        1446
+      ],
+      "text": "OFFICE",
+      "confidence": 0.7991
+    },
+    {
+      "bbox": [
+        984,
+        1430,
+        1140,
+        1448
+      ],
+      "text": "IN DIRECTORY",
+      "confidence": 0.7814
+    },
+    {
+      "bbox": [
+        1381,
+        1431,
+        1586,
+        1457
+      ],
+      "text": "DISTANCE SERVICE",
+      "confidence": 0.6068
+    },
+    {
+      "bbox": [
+        984,
+        1467,
+        1141,
+        1492
+      ],
+      "text": "DIAL \"0\" (Opr)",
+      "confidence": 0.9096
+    },
+    {
+      "bbox": [
+        1191,
+        1469,
+        1348,
+        1493
+      ],
+      "text": "DIAL \"O\" (Opr)",
+      "confidence": 0.9031
+    },
+    {
+      "bbox": [
+        1406,
+        1469,
+        1564,
+        1498
+      ],
+      "text": "DIAL \"0\" (Opr)",
+      "confidence": 0.9243
+    },
+    {
+      "bbox": [
+        792,
+        1487,
+        952,
+        1513
+      ],
+      "text": "DIAL \"0\" (Opr)",
+      "confidence": 0.9294
+    },
+    {
+      "bbox": [
+        1005,
+        1488,
+        1113,
+        1515
+      ],
+      "text": "& ask for",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        642,
+        1489,
+        760,
+        1513
+      ],
+      "text": "CARAWAY",
+      "confidence": 0.7823
+    },
+    {
+      "bbox": [
+        1634,
+        1489,
+        1694,
+        1511
+      ],
+      "text": "DIAL",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        1215,
+        1491,
+        1319,
+        1515
+      ],
+      "text": "& ask for",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        1432,
+        1494,
+        1538,
+        1519
+      ],
+      "text": "& ask for",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        1611,
+        1508,
+        1714,
+        1534
+      ],
+      "text": "482-3521",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        974,
+        1510,
+        1146,
+        1534
+      ],
+      "text": "\"INFORMATION\"",
+      "confidence": 0.9394
+    },
+    {
+      "bbox": [
+        1170,
+        1512,
+        1367,
+        1536
+      ],
+      "text": "\"CHIEF OPERATOR\"",
+      "confidence": 0.8588
+    },
+    {
+      "bbox": [
+        1383,
+        1513,
+        1584,
+        1539
+      ],
+      "text": "\"CHIEF OPERATOR\"",
+      "confidence": 0.9561
+    },
+    {
+      "bbox": [
+        984,
+        1549,
+        1141,
+        1574
+      ],
+      "text": "DIAL \"0\" (Opr)",
+      "confidence": 0.9348
+    },
+    {
+      "bbox": [
+        1191,
+        1551,
+        1348,
+        1576
+      ],
+      "text": "DIAL \"0\" (0pr)",
+      "confidence": 0.9472
+    },
+    {
+      "bbox": [
+        1406,
+        1554,
+        1561,
+        1579
+      ],
+      "text": "DIAL \"O\" (Opr)",
+      "confidence": 0.9206
+    },
+    {
+      "bbox": [
+        970,
+        1567,
+        1591,
+        1624
+      ],
+      "text": "& ask for & ask for & ask for \"CHIEF OPERATOR\"",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        792,
+        1568,
+        953,
+        1594
+      ],
+      "text": "DIAL \"0\" (Opr)",
+      "confidence": 0.9488
+    },
+    {
+      "bbox": [
+        1632,
+        1568,
+        1695,
+        1592
+      ],
+      "text": "DIAL",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        641,
+        1573,
+        747,
+        1593
+      ],
+      "text": "MONETTE",
+      "confidence": 0.6955
+    },
+    {
+      "bbox": [
+        1611,
+        1593,
+        1711,
+        1615
+      ],
+      "text": "486-5421",
+      "confidence": 0.9569
+    },
+    {
+      "bbox": [
+        875,
+        1780,
+        1483,
+        1817
+      ],
+      "text": "TELEPHONE BUSINESS OFFICE",
+      "confidence": 0.5548
+    },
+    {
+      "bbox": [
+        665,
+        1830,
+        1742,
+        1863
+      ],
+      "text": "The Telephone Business Office for the Caraway and Monette exchanges is located in the Monette,",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        615,
+        1852,
+        1744,
+        1888
+      ],
+      "text": "Arkansas telephone central office building. The hours of operation for this office are from 8:00 a.m. un-",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        615,
+        1877,
+        1744,
+        1913
+      ],
+      "text": "til 12:00 noon, and 1:00 p.m. until 5:00 p.m., daily, Monday through Friday. Payments may be made at",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        615,
+        1901,
+        1572,
+        1935
+      ],
+      "text": "the Business Office, by mail, or by using the convenient Caraway or Monette depositories.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        663,
+        1944,
+        1744,
+        1979
+      ],
+      "text": "You are always welcome to stop in and discuss your telephone business matters or to inquire about",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        612,
+        1967,
+        1669,
+        2002
+      ],
+      "text": "the many additional telephone facilities which can make your service more useful and convenient.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        625,
+        2029,
+        1724,
+        2075
+      ],
+      "text": "UNITED TELEPHONE COMPANY OF ARKANSAS",
+      "confidence": 0.7842
+    },
+    {
+      "bbox": [
+        924,
+        2102,
+        1432,
+        2127
+      ],
+      "text": "Copyright 1960, by United Telephone Company of Arkansas",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        54,
+        2119,
+        78,
+        2134
+      ],
+      "text": "2",
+      "confidence": 0.6464
+    }
+  ]
+}

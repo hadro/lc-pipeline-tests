@@ -1,0 +1,5 @@
+0011_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0010.jpg
+0012_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0011_left.jpg
+0012_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0011_right.jpg
+0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg
+0016_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0015_right.jpg

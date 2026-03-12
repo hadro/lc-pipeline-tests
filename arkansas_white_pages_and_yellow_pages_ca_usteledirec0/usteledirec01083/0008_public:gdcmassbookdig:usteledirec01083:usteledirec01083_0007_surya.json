@@ -1,0 +1,26 @@
+{
+  "image_width": 2048,
+  "image_height": 1713,
+  "lines": [
+    {
+      "bbox": [
+        428,
+        623,
+        1612,
+        791
+      ],
+      "text": "FILMED AS",
+      "confidence": 0.9743
+    },
+    {
+      "bbox": [
+        391,
+        1098,
+        1640,
+        1281
+      ],
+      "text": "PUBLISHED",
+      "confidence": 0.9739
+    }
+  ]
+}

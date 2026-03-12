@@ -1,0 +1,896 @@
+{
+  "image_width": 1024,
+  "image_height": 1690,
+  "lines": [
+    {
+      "bbox": [
+        256,
+        196,
+        929,
+        222
+      ],
+      "text": "HOW TO USE THE DIAL TELEPHONE IN CARAWAY, ARKANSAS",
+      "confidence": 0.6497
+    },
+    {
+      "bbox": [
+        272,
+        266,
+        512,
+        288
+      ],
+      "text": "IF YOUR DIAL LOOKS LIKE THIS",
+      "confidence": 0.8376
+    },
+    {
+      "bbox": [
+        663,
+        267,
+        901,
+        289
+      ],
+      "text": "IF YOUR DIAL LOOKS LIKE THIS",
+      "confidence": 0.8046
+    },
+    {
+      "bbox": [
+        621,
+        300,
+        683,
+        316
+      ],
+      "text": "This is the",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        253,
+        302,
+        314,
+        316
+      ],
+      "text": "This is the",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        471,
+        302,
+        533,
+        314
+      ],
+      "text": "This is the",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        882,
+        302,
+        942,
+        316
+      ],
+      "text": "This is the",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        474,
+        317,
+        529,
+        329
+      ],
+      "text": "figure \"1\"",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        623,
+        317,
+        681,
+        330
+      ],
+      "text": "Letter \"I\"",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        884,
+        317,
+        941,
+        330
+      ],
+      "text": "figure \"1\"",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        256,
+        318,
+        312,
+        330
+      ],
+      "text": "Letter \"I\"",
+      "confidence": 0.9765
+    },
+    {
+      "bbox": [
+        381,
+        405,
+        404,
+        413
+      ],
+      "text": "352",
+      "confidence": 0.9227
+    },
+    {
+      "bbox": [
+        471,
+        469,
+        532,
+        482
+      ],
+      "text": "This is the",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        881,
+        469,
+        942,
+        482
+      ],
+      "text": "This is the",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        622,
+        473,
+        683,
+        486
+      ],
+      "text": "This is the",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        251,
+        474,
+        314,
+        486
+      ],
+      "text": "This is the",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        882,
+        482,
+        938,
+        497
+      ],
+      "text": "figure \"0\"",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        471,
+        484,
+        529,
+        497
+      ],
+      "text": "figure \"0\"",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        622,
+        485,
+        681,
+        502
+      ],
+      "text": "Letter \"O\"",
+      "confidence": 0.9825
+    },
+    {
+      "bbox": [
+        251,
+        489,
+        310,
+        501
+      ],
+      "text": "Letter \"O'",
+      "confidence": 0.9534
+    },
+    {
+      "bbox": [
+        467,
+        497,
+        538,
+        511
+      ],
+      "text": "and Operator",
+      "confidence": 0.9876
+    },
+    {
+      "bbox": [
+        877,
+        497,
+        947,
+        511
+      ],
+      "text": "and Operator",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        292,
+        551,
+        891,
+        568
+      ],
+      "text": "DO NOT CONFUSE A LETTER WITH A FIGURE WHEN DIALING",
+      "confidence": 0.8813
+    },
+    {
+      "bbox": [
+        207,
+        618,
+        581,
+        633
+      ],
+      "text": "1. Look up the number. If the number you are",
+      "confidence": 0.7815
+    },
+    {
+      "bbox": [
+        604,
+        618,
+        980,
+        633
+      ],
+      "text": "6. After you have finished dialing you should hear",
+      "confidence": 0.8713
+    },
+    {
+      "bbox": [
+        227,
+        639,
+        581,
+        655
+      ],
+      "text": "calling is not listed in the directory, dial the Fig-",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        625,
+        639,
+        979,
+        654
+      ],
+      "text": "in the receiver either the RINGING SIGNAL",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        226,
+        660,
+        581,
+        676
+      ],
+      "text": "ure \"0\" (Opr) and ask for \"INFORMATION.\"",
+      "confidence": 0.8694
+    },
+    {
+      "bbox": [
+        627,
+        660,
+        979,
+        676
+      ],
+      "text": "(an intermittent burr-r-ring sound) or the BUSY",
+      "confidence": 0.978
+    },
+    {
+      "bbox": [
+        626,
+        680,
+        920,
+        695
+      ],
+      "text": "SIGNAL (a rapid buzz-buzz-buzz sound).",
+      "confidence": 0.856
+    },
+    {
+      "bbox": [
+        204,
+        681,
+        581,
+        697
+      ],
+      "text": "2. Lift the receiver and listen for the DIAL TONE—",
+      "confidence": 0.5631
+    },
+    {
+      "bbox": [
+        626,
+        700,
+        980,
+        716
+      ],
+      "text": "If the \"Ringing Signal\" is heard, it indicates that",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        226,
+        701,
+        581,
+        717
+      ],
+      "text": "a steady humming sound. Be sure the receiver",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        625,
+        721,
+        980,
+        737
+      ],
+      "text": "the called party is being rung. Allow a rea-",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        226,
+        722,
+        433,
+        738
+      ],
+      "text": "is off the hook while dialing.",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        204,
+        743,
+        581,
+        759
+      ],
+      "text": "3. For local calls, all seven (7) figures must be",
+      "confidence": 0.9194
+    },
+    {
+      "bbox": [
+        626,
+        743,
+        980,
+        758
+      ],
+      "text": "sonable length of time for someone at the called",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        626,
+        762,
+        979,
+        778
+      ],
+      "text": "station to answer. If you receive no answer, hang",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        226,
+        764,
+        581,
+        779
+      ],
+      "text": "dialed. For example, if the number 482-3521 is",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        226,
+        784,
+        581,
+        801
+      ],
+      "text": "to be dialed, place your finger in the opening",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        626,
+        784,
+        755,
+        799
+      ],
+      "text": "up and call later.",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        226,
+        804,
+        581,
+        821
+      ],
+      "text": "where the figure \"4\" appears and turn the dial",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        626,
+        804,
+        980,
+        820
+      ],
+      "text": "If you hear the \"Busy Signal,\" it means that the",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        626,
+        825,
+        980,
+        841
+      ],
+      "text": "called station is busy. Hang up and call later.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        226,
+        826,
+        519,
+        841
+      ],
+      "text": "around until your finger strikes the stop.",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        626,
+        845,
+        980,
+        861
+      ],
+      "text": "If you hear neither of these signals within a few",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        204,
+        846,
+        581,
+        862
+      ],
+      "text": "4. Raise your finger, and without touching the dial,",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        626,
+        866,
+        980,
+        882
+      ],
+      "text": "seconds, hang up the receiver for a few moments",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        226,
+        867,
+        580,
+        882
+      ],
+      "text": "let it return to its original position. Do not force",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        226,
+        887,
+        459,
+        902
+      ],
+      "text": "or retard the motion of the dial.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        625,
+        887,
+        980,
+        902
+      ],
+      "text": "and then lift it and dial the complete number",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        204,
+        906,
+        581,
+        925
+      ],
+      "text": "5. Then continue by dialing the figure \"8\" and the",
+      "confidence": 0.9788
+    },
+    {
+      "bbox": [
+        625,
+        908,
+        979,
+        923
+      ],
+      "text": "again. If several attempts fail, dial \"0\" (Oper-",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        226,
+        926,
+        580,
+        946
+      ],
+      "text": "remaining figures \"2-, 3, 5, 2, and 1\" in the same",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        624,
+        928,
+        979,
+        944
+      ],
+      "text": "ator) and ask for \"CHIEF OPERATOR\" and ex-",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        624,
+        949,
+        773,
+        965
+      ],
+      "text": "plain your difficulty.",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        226,
+        951,
+        286,
+        964
+      ],
+      "text": "manner.",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        203,
+        978,
+        979,
+        994
+      ],
+      "text": "AFTER COMPLETING YOUR CONVERSATION—Hang up your receiver so that your line will be dis-",
+      "confidence": 0.9678
+    },
+    {
+      "bbox": [
+        205,
+        996,
+        978,
+        1016
+      ],
+      "text": "connected and will be ready to make or receive calls. If you wish to make several calls in succession,",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        204,
+        1020,
+        628,
+        1035
+      ],
+      "text": "hang up your receiver for a few seconds after each call.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        356,
+        1074,
+        823,
+        1096
+      ],
+      "text": "DIALING A NUMBER ON YOUR PARTY LINE",
+      "confidence": 0.7629
+    },
+    {
+      "bbox": [
+        229,
+        1105,
+        952,
+        1122
+      ],
+      "text": "CALLS TO STATIONS ON THE SAME PARTY LINE ARE MADE BY DIALING",
+      "confidence": 0.9562
+    },
+    {
+      "bbox": [
+        457,
+        1126,
+        724,
+        1145
+      ],
+      "text": "A SPECIAL CODE NUMBER",
+      "confidence": 0.9334
+    },
+    {
+      "bbox": [
+        205,
+        1160,
+        977,
+        1176
+      ],
+      "text": "Each party line subscriber will receive a list showing the other parties on his line and the Special Code",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        204,
+        1179,
+        977,
+        1198
+      ],
+      "text": "Numbers to dial for them. If you are a party line subscriber, and misplace this card, please get in touch",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        205,
+        1202,
+        580,
+        1217
+      ],
+      "text": "with the Monette Business Office for a replacement.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        204,
+        1232,
+        579,
+        1246
+      ],
+      "text": "To make a call to a subscriber on the same party",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        603,
+        1232,
+        977,
+        1247
+      ],
+      "text": "Allow sufficient time for the called party to",
+      "confidence": 0.5799
+    },
+    {
+      "bbox": [
+        203,
+        1251,
+        533,
+        1266
+      ],
+      "text": "line (Commonly called a \"Reverting Call\"):",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        623,
+        1252,
+        977,
+        1267
+      ],
+      "text": "answer. Your telephone will stop ringing when-",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        204,
+        1273,
+        577,
+        1288
+      ],
+      "text": "1. Lift the receiver and listen for the Dial Tone",
+      "confidence": 0.6913
+    },
+    {
+      "bbox": [
+        623,
+        1273,
+        978,
+        1289
+      ],
+      "text": "ever the called party answers his telephone.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        225,
+        1294,
+        417,
+        1309
+      ],
+      "text": "indicating the line is clear.",
+      "confidence": 0.9832
+    },
+    {
+      "bbox": [
+        623,
+        1294,
+        977,
+        1309
+      ],
+      "text": "Then remove your receiver and begin the con-",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        203,
+        1314,
+        579,
+        1329
+      ],
+      "text": "2. Dial the SPECIAL CODE NUMBER, for the party",
+      "confidence": 0.6523
+    },
+    {
+      "bbox": [
+        623,
+        1314,
+        694,
+        1328
+      ],
+      "text": "versation.",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        602,
+        1334,
+        977,
+        1349
+      ],
+      "text": "5. If the called party does not answer within a",
+      "confidence": 0.8868
+    },
+    {
+      "bbox": [
+        224,
+        1335,
+        577,
+        1350
+      ],
+      "text": "you desire to call, as listed on your party line",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        623,
+        1355,
+        977,
+        1370
+      ],
+      "text": "reasonable length of time, you should break the",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        224,
+        1357,
+        266,
+        1370
+      ],
+      "text": "card.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        203,
+        1377,
+        577,
+        1392
+      ],
+      "text": "Next, hang up your receiver. Your telephone and",
+      "confidence": 0.9865
+    },
+    {
+      "bbox": [
+        623,
+        1377,
+        977,
+        1392
+      ],
+      "text": "connection by removing your receiver and then",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        225,
+        1397,
+        578,
+        1413
+      ],
+      "text": "the called party telephone will then start to ring.",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        623,
+        1397,
+        867,
+        1412
+      ],
+      "text": "replacing it after a few moments.",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        206,
+        1422,
+        977,
+        1437
+      ],
+      "text": "REMEMBER—When you call stations that are NOT on your party line, merely dial the number as it ap-",
+      "confidence": 0.6824
+    },
+    {
+      "bbox": [
+        207,
+        1443,
+        376,
+        1458
+      ],
+      "text": "pears in your directory.",
+      "confidence": 0.9857
+    },
+    {
+      "bbox": [
+        628,
+        1463,
+        749,
+        1488
+      ],
+      "text": "482948",
+      "confidence": 0.9681
+    },
+    {
+      "bbox": [
+        228,
+        1468,
+        378,
+        1523
+      ],
+      "text": "JAN -4 1981",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        558,
+        1471,
+        576,
+        1495
+      ],
+      "text": "A",
+      "confidence": 0.9594
+    }
+  ]
+}

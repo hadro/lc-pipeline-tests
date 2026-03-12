@@ -1,0 +1,26 @@
+{
+  "image_width": 2048,
+  "image_height": 1713,
+  "lines": [
+    {
+      "bbox": [
+        434,
+        685,
+        1614,
+        941
+      ],
+      "text": "PLEASE",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        423,
+        1036,
+        1602,
+        1274
+      ],
+      "text": "REWIND",
+      "confidence": 0.9809
+    }
+  ]
+}

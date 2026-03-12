@@ -1,0 +1,946 @@
+{
+  "image_width": 2048,
+  "image_height": 3050,
+  "lines": [
+    {
+      "bbox": [
+        360,
+        337,
+        401,
+        366
+      ],
+      "text": "12",
+      "confidence": 0.9037
+    },
+    {
+      "bbox": [
+        426,
+        338,
+        687,
+        372
+      ],
+      "text": "Tapp's—Zook",
+      "confidence": 0.9715
+    },
+    {
+      "bbox": [
+        967,
+        338,
+        1148,
+        371
+      ],
+      "text": "MONETTE",
+      "confidence": 0.7413
+    },
+    {
+      "bbox": [
+        1080,
+        394,
+        1762,
+        422
+      ],
+      "text": "Wallace Elmer RFD 1......486-5769",
+      "confidence": 0.9217
+    },
+    {
+      "bbox": [
+        1080,
+        423,
+        1761,
+        453
+      ],
+      "text": "Wallace Elvis RFD 1....................................",
+      "confidence": 0.9311
+    },
+    {
+      "bbox": [
+        361,
+        449,
+        1049,
+        481
+      ],
+      "text": "Tapp's Red & White Store . . . . . . . . . . . . . . . . 486-2232",
+      "confidence": 0.8784
+    },
+    {
+      "bbox": [
+        1078,
+        452,
+        1754,
+        484
+      ],
+      "text": "Wallace Frank . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9195
+    },
+    {
+      "bbox": [
+        360,
+        481,
+        1046,
+        510
+      ],
+      "text": "Taylor Bobby Mrs RFD 1..........486-2268",
+      "confidence": 0.8911
+    },
+    {
+      "bbox": [
+        1076,
+        482,
+        1759,
+        513
+      ],
+      "text": "Wallace John RFD 1..................486-5548",
+      "confidence": 0.9515
+    },
+    {
+      "bbox": [
+        360,
+        511,
+        1049,
+        541
+      ],
+      "text": "Taylor C A RFD 3 Leachville......486-2240",
+      "confidence": 0.9536
+    },
+    {
+      "bbox": [
+        1076,
+        513,
+        1759,
+        544
+      ],
+      "text": "Wallace M B Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.944
+    },
+    {
+      "bbox": [
+        360,
+        540,
+        1048,
+        571
+      ],
+      "text": "Taylor Eugene RFD 1....................................",
+      "confidence": 0.8264
+    },
+    {
+      "bbox": [
+        1076,
+        542,
+        1759,
+        573
+      ],
+      "text": "Wallace P D RFD 2 Leachville . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9759
+    },
+    {
+      "bbox": [
+        361,
+        570,
+        1048,
+        601
+      ],
+      "text": "Taylor Ira L RFD 1 Leachville . . . . . . . . 486-5749",
+      "confidence": 0.9536
+    },
+    {
+      "bbox": [
+        1076,
+        573,
+        1759,
+        604
+      ],
+      "text": "Wallace Roy T RFD 1.................486-5803",
+      "confidence": 0.9403
+    },
+    {
+      "bbox": [
+        361,
+        601,
+        1047,
+        631
+      ],
+      "text": "Taylor L H RFD 1....................................",
+      "confidence": 0.9381
+    },
+    {
+      "bbox": [
+        1076,
+        602,
+        1759,
+        632
+      ],
+      "text": "Wallace Victoria . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9468
+    },
+    {
+      "bbox": [
+        360,
+        631,
+        1046,
+        662
+      ],
+      "text": "Taylor L R RFD 1....................................",
+      "confidence": 0.8819
+    },
+    {
+      "bbox": [
+        1076,
+        633,
+        1757,
+        664
+      ],
+      "text": "Wallace Woodrow . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.8947
+    },
+    {
+      "bbox": [
+        360,
+        663,
+        1046,
+        692
+      ],
+      "text": "Taylor Norman RFD 1....................................",
+      "confidence": 0.7837
+    },
+    {
+      "bbox": [
+        1074,
+        663,
+        1759,
+        696
+      ],
+      "text": "Walton Ray 0 . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9291
+    },
+    {
+      "bbox": [
+        360,
+        692,
+        1046,
+        722
+      ],
+      "text": "Taylor T B RFD 1 Cardwell..........486-5795",
+      "confidence": 0.8643
+    },
+    {
+      "bbox": [
+        1076,
+        693,
+        1761,
+        725
+      ],
+      "text": "Waters Forrest RFD 1 Cardwell......486-5593",
+      "confidence": 0.9676
+    },
+    {
+      "bbox": [
+        361,
+        723,
+        1046,
+        751
+      ],
+      "text": "Taylor Viola Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.6751
+    },
+    {
+      "bbox": [
+        1075,
+        724,
+        1757,
+        754
+      ],
+      "text": "Watkins Drug Store . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.7703
+    },
+    {
+      "bbox": [
+        360,
+        753,
+        1044,
+        783
+      ],
+      "text": "Taylor's Dress Shop . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.8714
+    },
+    {
+      "bbox": [
+        1075,
+        755,
+        1757,
+        783
+      ],
+      "text": "Watkins R B . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9142
+    },
+    {
+      "bbox": [
+        1074,
+        781,
+        1758,
+        817
+      ],
+      "text": "Watson Mildred Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.8263
+    },
+    {
+      "bbox": [
+        360,
+        783,
+        1044,
+        812
+      ],
+      "text": "Thomas Maude . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9538
+    },
+    {
+      "bbox": [
+        359,
+        810,
+        858,
+        845
+      ],
+      "text": "Thompson Betty Beauty Shop",
+      "confidence": 0.7228
+    },
+    {
+      "bbox": [
+        1074,
+        814,
+        1756,
+        846
+      ],
+      "text": "Webb Norris atty ......486-5841",
+      "confidence": 0.9311
+    },
+    {
+      "bbox": [
+        443,
+        837,
+        1048,
+        879
+      ],
+      "text": "RFD 2 Lake City......486-5557",
+      "confidence": 0.9784
+    },
+    {
+      "bbox": [
+        1128,
+        847,
+        1757,
+        875
+      ],
+      "text": "Residence . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9636
+    },
+    {
+      "bbox": [
+        1078,
+        871,
+        1759,
+        907
+      ],
+      "text": "WESTERN AUTO ASSOC STORE......486-5523",
+      "confidence": 0.8405
+    },
+    {
+      "bbox": [
+        361,
+        872,
+        1047,
+        905
+      ],
+      "text": "Thompson J E RFD 2 Lake City......486-5557",
+      "confidence": 0.9572
+    },
+    {
+      "bbox": [
+        1076,
+        902,
+        1756,
+        936
+      ],
+      "text": "WHEELER FURNITURE & HARDWARE...486-5731",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        361,
+        904,
+        1046,
+        934
+      ],
+      "text": "Thompson Sam Mrs . . . . . . . . . . . . . . . . . 486-5724",
+      "confidence": 0.9071
+    },
+    {
+      "bbox": [
+        361,
+        934,
+        1041,
+        964
+      ],
+      "text": "Thurman Sidney L . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.8245
+    },
+    {
+      "bbox": [
+        1080,
+        934,
+        1756,
+        964
+      ],
+      "text": "WHITE'S SHEET METAL & HEATING CO. 486-5632",
+      "confidence": 0.8793
+    },
+    {
+      "bbox": [
+        1076,
+        961,
+        1756,
+        998
+      ],
+      "text": "Whitten Hubert N RFD 3 Leachville . . . . 486-5601",
+      "confidence": 0.977
+    },
+    {
+      "bbox": [
+        360,
+        965,
+        1042,
+        994
+      ],
+      "text": "Tilley Billy Ray . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9454
+    },
+    {
+      "bbox": [
+        360,
+        994,
+        1044,
+        1025
+      ],
+      "text": "Tilley C F . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9802
+    },
+    {
+      "bbox": [
+        1074,
+        995,
+        1756,
+        1026
+      ],
+      "text": "Whitten Mayme Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9465
+    },
+    {
+      "bbox": [
+        360,
+        1024,
+        1042,
+        1055
+      ],
+      "text": "Tipton Clayborn . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.8775
+    },
+    {
+      "bbox": [
+        1074,
+        1024,
+        1756,
+        1056
+      ],
+      "text": "Wilkerson W T . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9684
+    },
+    {
+      "bbox": [
+        360,
+        1055,
+        1044,
+        1083
+      ],
+      "text": "Tipton Theatre . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.8632
+    },
+    {
+      "bbox": [
+        1074,
+        1055,
+        1758,
+        1089
+      ],
+      "text": "Williams Bob . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9825
+    },
+    {
+      "bbox": [
+        359,
+        1081,
+        1042,
+        1113
+      ],
+      "text": "TOMPKINS DUDLEY A JR ins....................................",
+      "confidence": 0.8409
+    },
+    {
+      "bbox": [
+        1075,
+        1085,
+        1757,
+        1117
+      ],
+      "text": "Williams Clyde C RFD 1....................................",
+      "confidence": 0.9775
+    },
+    {
+      "bbox": [
+        1074,
+        1113,
+        1756,
+        1149
+      ],
+      "text": "Williams Tommy R RFD 3 Leachville . . . . 486-5684",
+      "confidence": 0.9849
+    },
+    {
+      "bbox": [
+        365,
+        1116,
+        1046,
+        1144
+      ],
+      "text": "Tompkins Junior . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9288
+    },
+    {
+      "bbox": [
+        363,
+        1145,
+        1044,
+        1176
+      ],
+      "text": "Tracer Jacob Winfred . . . . . . . . . . . . . . . . . 486-5474",
+      "confidence": 0.8535
+    },
+    {
+      "bbox": [
+        1074,
+        1145,
+        1756,
+        1178
+      ],
+      "text": "Williamson L L . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9832
+    },
+    {
+      "bbox": [
+        1074,
+        1176,
+        1756,
+        1207
+      ],
+      "text": "Wilson Arthur B RFD 1......486-5857",
+      "confidence": 0.9706
+    },
+    {
+      "bbox": [
+        360,
+        1177,
+        1044,
+        1207
+      ],
+      "text": "Tracer's Jewelry . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9536
+    },
+    {
+      "bbox": [
+        359,
+        1202,
+        1041,
+        1238
+      ],
+      "text": "Trammel R M RFD 1....................................",
+      "confidence": 0.957
+    },
+    {
+      "bbox": [
+        1076,
+        1206,
+        1756,
+        1238
+      ],
+      "text": "Wilson Earl . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9715
+    },
+    {
+      "bbox": [
+        1076,
+        1234,
+        1756,
+        1272
+      ],
+      "text": "Wilson Pearl Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9702
+    },
+    {
+      "bbox": [
+        360,
+        1236,
+        1041,
+        1264
+      ],
+      "text": "Tucker Gus A Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9527
+    },
+    {
+      "bbox": [
+        1067,
+        1258,
+        1762,
+        1401
+      ],
+      "text": "\n  \n    \n      Wilson Vess\n      ....................................",
+      "confidence": 0.9852
+    },
+    {
+      "bbox": [
+        679,
+        1293,
+        730,
+        1332
+      ],
+      "text": "U",
+      "confidence": 0.9292
+    },
+    {
+      "bbox": [
+        358,
+        1355,
+        882,
+        1383
+      ],
+      "text": "UNITED TELEPHONE CO OF ARKANSAS",
+      "confidence": 0.6289
+    },
+    {
+      "bbox": [
+        409,
+        1386,
+        1039,
+        1416
+      ],
+      "text": "Business Office . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9231
+    },
+    {
+      "bbox": [
+        1074,
+        1386,
+        1756,
+        1422
+      ],
+      "text": "Winstead Roy . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9751
+    },
+    {
+      "bbox": [
+        1075,
+        1416,
+        1756,
+        1449
+      ],
+      "text": "Winstead Ruth Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9809
+    },
+    {
+      "bbox": [
+        409,
+        1417,
+        1039,
+        1447
+      ],
+      "text": "District Manager ....................................",
+      "confidence": 0.903
+    },
+    {
+      "bbox": [
+        1074,
+        1447,
+        1754,
+        1483
+      ],
+      "text": "Witcher Henry . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9761
+    },
+    {
+      "bbox": [
+        407,
+        1448,
+        1039,
+        1477
+      ],
+      "text": "Asst District Manager..........486-5741",
+      "confidence": 0.9735
+    },
+    {
+      "bbox": [
+        409,
+        1478,
+        957,
+        1507
+      ],
+      "text": "For Telephone Service Calls See Page One",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        1074,
+        1478,
+        1754,
+        1513
+      ],
+      "text": "Wolf Robert C . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9463
+    },
+    {
+      "bbox": [
+        1075,
+        1508,
+        1756,
+        1540
+      ],
+      "text": "Woodsmall Elvin Mrs RFD 1..........486-5806",
+      "confidence": 0.9251
+    },
+    {
+      "bbox": [
+        1075,
+        1540,
+        1756,
+        1572
+      ],
+      "text": "Wooten Robert RFD 1 Cardwell.......486-5578",
+      "confidence": 0.9708
+    },
+    {
+      "bbox": [
+        1073,
+        1569,
+        1754,
+        1600
+      ],
+      "text": "Wyatt Lowell I RFD 1....................................",
+      "confidence": 0.9237
+    },
+    {
+      "bbox": [
+        356,
+        1595,
+        1041,
+        1627
+      ],
+      "text": "Vance 0 J . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9852
+    },
+    {
+      "bbox": [
+        358,
+        1624,
+        1042,
+        1656
+      ],
+      "text": "Vore Loren RFD 2 Leachville......486-5784",
+      "confidence": 0.9694
+    },
+    {
+      "bbox": [
+        1073,
+        1687,
+        1756,
+        1721
+      ],
+      "text": "Yoakum Esteen . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.9231
+    },
+    {
+      "bbox": [
+        670,
+        1689,
+        728,
+        1724
+      ],
+      "text": "W",
+      "confidence": 0.8929
+    },
+    {
+      "bbox": [
+        1075,
+        1716,
+        1756,
+        1750
+      ],
+      "text": "Young Clifford RFD 1....................................",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        356,
+        1745,
+        1041,
+        1778
+      ],
+      "text": "Walker Edgar . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.934
+    },
+    {
+      "bbox": [
+        1075,
+        1769,
+        1445,
+        1829
+      ],
+      "text": "<b>Z</b>",
+      "confidence": 0.6597
+    },
+    {
+      "bbox": [
+        356,
+        1775,
+        1041,
+        1808
+      ],
+      "text": "Walker J M RFD 1 Cardwell............486-5648",
+      "confidence": 0.9364
+    },
+    {
+      "bbox": [
+        354,
+        1807,
+        1039,
+        1837
+      ],
+      "text": "Wallace C A Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9527
+    },
+    {
+      "bbox": [
+        1069,
+        1830,
+        1758,
+        1869
+      ],
+      "text": "Zook Jack Mrs . . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9535
+    },
+    {
+      "bbox": [
+        354,
+        1837,
+        1039,
+        1866
+      ],
+      "text": "Wallace D R . . . . . . . . . . . . . . . . . .",
+      "confidence": 0.9628
+    },
+    {
+      "bbox": [
+        949,
+        2191,
+        1296,
+        2304
+      ],
+      "text": "WHO RENTS?",
+      "confidence": 0.9855
+    },
+    {
+      "bbox": [
+        378,
+        2201,
+        703,
+        2300
+      ],
+      "text": "WHO SELLS?",
+      "confidence": 0.8286
+    },
+    {
+      "bbox": [
+        1401,
+        2214,
+        1718,
+        2265
+      ],
+      "text": "the answers are",
+      "confidence": 0.9686
+    },
+    {
+      "bbox": [
+        1399,
+        2300,
+        1725,
+        2363
+      ],
+      "text": "as close as your",
+      "confidence": 0.9808
+    },
+    {
+      "bbox": [
+        1334,
+        2386,
+        1723,
+        2450
+      ],
+      "text": "<b>Telephone Directory</b>",
+      "confidence": 0.9625
+    },
+    {
+      "bbox": [
+        935,
+        2424,
+        1333,
+        2580
+      ],
+      "text": "WHO REPAIRS?",
+      "confidence": 0.936
+    },
+    {
+      "bbox": [
+        361,
+        2443,
+        681,
+        2572
+      ],
+      "text": "MHO BUYS ?",
+      "confidence": 0.9868
+    },
+    {
+      "bbox": [
+        1592,
+        2487,
+        1711,
+        2538
+      ],
+      "text": "in the",
+      "confidence": 0.9793
+    },
+    {
+      "bbox": [
+        1326,
+        2555,
+        1710,
+        2610
+      ],
+      "text": "<b>CLASSIFIED SECTION</b>",
+      "confidence": 0.9526
+    },
+    {
+      "bbox": [
+        1037,
+        2558,
+        1097,
+        2588
+      ],
+      "text": "WHO",
+      "confidence": 0.7628
+    }
+  ]
+}
