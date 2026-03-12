@@ -1,0 +1,280 @@
+{
+  "image": "0014_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013_right.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "canvas_uri": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+  "canvas_width": 6816,
+  "canvas_height": 5640,
+  "lines": [
+    {
+      "bbox": [
+        110,
+        202,
+        778,
+        226
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3774,673,2223,79",
+      "confidence": "line",
+      "gemini_text": "HOW TO USE THE DIAL TELEPHONE IN MONETTE, ARKANSAS"
+    },
+    {
+      "bbox": [
+        122,
+        269,
+        364,
+        291
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3814,896,805,73",
+      "confidence": "line",
+      "gemini_text": "IF YOUR DIAL LOOKS LIKE THIS"
+    },
+    {
+      "bbox": [
+        143,
+        554,
+        744,
+        570
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3884,1844,2000,54",
+      "confidence": "line",
+      "gemini_text": "DO NOT CONFUSE A LETTER WITH A FIGURE WHEN DIALING"
+    },
+    {
+      "bbox": [
+        77,
+        642,
+        431,
+        657
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3664,2137,1178,50",
+      "confidence": "line",
+      "gemini_text": "1. Look up the number. If the number you are calling is not listed in the directory, dial the Figure \"0\" (Opr) and ask for \"INFORMATION.\""
+    },
+    {
+      "bbox": [
+        57,
+        682,
+        431,
+        700
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3598,2271,1244,60",
+      "confidence": "line",
+      "gemini_text": "2. Lift the receiver and listen for the DIAL TONE—a steady humming sound. Be sure the receiver is off the hook while dialing."
+    },
+    {
+      "bbox": [
+        76,
+        787,
+        430,
+        804
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3661,2620,1178,57",
+      "confidence": "line",
+      "gemini_text": "3. For local calls, all seven (7) figures must be dialed. For example, if the number 486-5421 is to be dialed, place your finger in the opening where the Figure \"4\" appears and turn the dial around until your finger strikes the stop."
+    },
+    {
+      "bbox": [
+        77,
+        870,
+        430,
+        886
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3664,2897,1175,53",
+      "confidence": "line",
+      "gemini_text": "4. Raise your finger, and without touching the dial, let it return to its original position. Do not force or retard the motion of the dial."
+    },
+    {
+      "bbox": [
+        76,
+        891,
+        313,
+        906
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3661,2966,789,50",
+      "confidence": "line",
+      "gemini_text": "5. Then continue by dialing the Figure \"8\" and the remaining Figures \"6-, 5, 4, 2 and 1\" in the same manner."
+    },
+    {
+      "bbox": [
+        54,
+        912,
+        430,
+        928
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3588,3036,1251,54",
+      "confidence": "line",
+      "gemini_text": "AFTER COMPLETING YOUR CONVERSATION—Hang up your receiver so that your line will be disconnected and will be ready to make or receive calls. If you wish to make several calls in succession, hang up your receiver for a few seconds after each call."
+    },
+    {
+      "bbox": [
+        76,
+        933,
+        430,
+        948
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3661,3106,1178,50",
+      "confidence": "line",
+      "gemini_text": "6. After you have finished dialing you should hear in the receiver either the RINGING SIGNAL (an intermittent burr-r-ring sound) or the BUSY SIGNAL (a rapid buzz-buzz-buzz sound)."
+    },
+    {
+      "bbox": [
+        53,
+        980,
+        830,
+        1002
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3584,3263,2586,73",
+      "confidence": "line",
+      "gemini_text": "If the \"Ringing Signal\" is heard, it indicates that the called station is being rung. Allow a reasonable length of time for someone at the called station to answer. If you receive no answer, hang up and call later."
+    },
+    {
+      "bbox": [
+        54,
+        1002,
+        830,
+        1021
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3588,3336,2582,63",
+      "confidence": "line",
+      "gemini_text": "If you hear the \"Busy Signal,\" it means that the called station is busy. Hang up and call later."
+    },
+    {
+      "bbox": [
+        55,
+        1024,
+        484,
+        1039
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3591,3409,1428,50",
+      "confidence": "line",
+      "gemini_text": "If you hear neither of these signals within a few seconds, hang up the receiver for a few moments and then lift it and dial the complete number again. If several attempts fail, dial \"0\" (Operator) and ask for \"CHIEF OPERATOR\" and explain your difficulty."
+    },
+    {
+      "bbox": [
+        206,
+        1074,
+        674,
+        1098
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4094,3576,1557,80",
+      "confidence": "line",
+      "gemini_text": "DIALING A NUMBER ON YOUR PARTY LINE"
+    },
+    {
+      "bbox": [
+        78,
+        1106,
+        803,
+        1131
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3668,3682,2412,84",
+      "confidence": "line",
+      "gemini_text": "CALLS TO STATIONS ON THE SAME PARTY LINE ARE MADE BY DIALING A SPECIAL CODE NUMBER"
+    },
+    {
+      "bbox": [
+        55,
+        1164,
+        830,
+        1181
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3591,3875,2579,57",
+      "confidence": "line",
+      "gemini_text": "Each party line subscriber will receive a list showing the other parties on his line and the Special Code Numbers to dial for them. If you are a party line subscriber, and misplace this card, please get in touch with the Monette Business Office for a replacement."
+    },
+    {
+      "bbox": [
+        53,
+        1237,
+        430,
+        1252
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3584,4118,1255,50",
+      "confidence": "line",
+      "gemini_text": "To make a call to a subscriber on the same party line (Commonly called a \"Reverting Call\"):"
+    },
+    {
+      "bbox": [
+        53,
+        1277,
+        428,
+        1293
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3584,4252,1248,53",
+      "confidence": "line",
+      "gemini_text": "1. Lift the receiver and listen for the Dial Tone indicating the line is clear."
+    },
+    {
+      "bbox": [
+        74,
+        1341,
+        427,
+        1356
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3654,4465,1175,50",
+      "confidence": "line",
+      "gemini_text": "2. Dial the SPECIAL CODE NUMBER, for the party you desire to call, as listed on your party line card."
+    },
+    {
+      "bbox": [
+        74,
+        1401,
+        429,
+        1419
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=3654,4664,1182,60",
+      "confidence": "line",
+      "gemini_text": "3. Next, hang up your receiver. Your telephone and the called party telephone will then start to ring."
+    },
+    {
+      "bbox": [
+        473,
+        1257,
+        829,
+        1273
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4982,4185,1185,53",
+      "confidence": "line",
+      "gemini_text": "4. Allow sufficient time for the called party to answer. Your telephone will stop ringing whenever the called party answers his telephone. Then remove your receiver and begin the conversation."
+    },
+    {
+      "bbox": [
+        473,
+        1360,
+        828,
+        1380
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4982,4528,1182,67",
+      "confidence": "line",
+      "gemini_text": "5. If the called party does not answer within a reasonable length of time, you should break the connection by removing your receiver and then replacing it after a few moments."
+    },
+    {
+      "bbox": [
+        473,
+        1382,
+        829,
+        1400
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4982,4601,1185,60",
+      "confidence": "line",
+      "gemini_text": "REMEMBER—When you call stations that are NOT on your party line, merely dial the number as it appears in your directory."
+    },
+    {
+      "bbox": [
+        435,
+        1473,
+        447,
+        1490
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/14#xywh=4856,4904,40,57",
+      "confidence": "line",
+      "gemini_text": "7"
+    }
+  ],
+  "unmatched_gemini": [
+    "IF YOUR DIAL LOOKS LIKE THIS",
+    "(This is the Letter \"I\", This is the figure \"1\", This is the Letter \"O\", This is the figure \"0\" and Operator)",
+    "[Diagram of Rotary Dial showing 486-5421]",
+    "(This is the Letter \"I\", This is the figure \"1\", This is the Letter \"O\", This is the figure \"0\" and Operator)",
+    "[Diagram of Rotary Dial showing 486-5421]"
+  ]
+}

@@ -269,7 +269,7 @@
         1183,
         959
       ],
-      "text": "3.2<br>3.6<br>4.0",
+      "text": "3.2\n3.6\n4.0",
       "confidence": 0.8929
     },
     {
@@ -289,7 +289,7 @@
         1143,
         980
       ],
-      "text": "150<br>150<br>150<br>162<br>163<br>164<br>164<br>164<br>164<br>164<br>164<br>164<br>164<br>164<br>164",
+      "text": "150\n150\n150\n162\n163\n164\n164\n164\n164\n164\n164\n164\n164\n164\n164",
       "confidence": 0.8748
     },
     {
@@ -429,7 +429,7 @@
         1244,
         1234
       ],
-      "text": "1653 East Main Street<br>Rochester, New York 14609",
+      "text": "1653 East Main Street\nRochester, New York 14609",
       "confidence": 0.9941
     },
     {

@@ -1,0 +1,21 @@
+{
+  "image": "0018_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0017.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "canvas_uri": "https://www.loc.gov/item/usteledirec01083/canvas/18",
+  "canvas_width": 7695,
+  "canvas_height": 8192,
+  "lines": [
+    {
+      "bbox": [
+        689,
+        996,
+        766,
+        1238
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=2589,3743,289,909",
+      "confidence": "line",
+      "gemini_text": "This image does not contain a telephone directory page. It is a series of calibration and resolution test charts produced by Applied Image, Inc. for the Library of Congress Photoduplication Service."
+    }
+  ],
+  "unmatched_gemini": []
+}

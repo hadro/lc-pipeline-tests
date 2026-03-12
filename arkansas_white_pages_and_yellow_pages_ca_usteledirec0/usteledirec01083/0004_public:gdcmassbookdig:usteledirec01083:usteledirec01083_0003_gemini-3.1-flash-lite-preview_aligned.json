@@ -1,0 +1,65 @@
+{
+  "image": "0004_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0003.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "canvas_uri": "https://www.loc.gov/item/usteledirec01083/canvas/4",
+  "canvas_width": 6304,
+  "canvas_height": 5288,
+  "lines": [
+    {
+      "bbox": [
+        384,
+        632,
+        1730,
+        723
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/4#xywh=1182,1946,4143,281",
+      "confidence": "line",
+      "gemini_text": "LIBRARY OF CONGRESS"
+    },
+    {
+      "bbox": [
+        431,
+        851,
+        1700,
+        928
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/4#xywh=1327,2621,3906,237",
+      "confidence": "line",
+      "gemini_text": "UNITED STATES TELEPHONE"
+    },
+    {
+      "bbox": [
+        513,
+        949,
+        1609,
+        1020
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/4#xywh=1579,2923,3374,218",
+      "confidence": "line",
+      "gemini_text": "DIRECTORY COLLECTION"
+    },
+    {
+      "bbox": [
+        385,
+        1141,
+        1733,
+        1205
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/4#xywh=1185,3514,4149,197",
+      "confidence": "line",
+      "gemini_text": "PRESERVATION MICROFILMING"
+    },
+    {
+      "bbox": [
+        856,
+        1236,
+        1261,
+        1306
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/4#xywh=2635,3807,1247,215",
+      "confidence": "line",
+      "gemini_text": "PROJECT"
+    }
+  ],
+  "unmatched_gemini": []
+}

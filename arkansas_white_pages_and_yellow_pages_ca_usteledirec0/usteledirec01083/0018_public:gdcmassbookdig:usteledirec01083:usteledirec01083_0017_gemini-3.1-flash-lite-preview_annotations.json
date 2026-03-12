@@ -1,0 +1,17 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "This image does not contain a telephone directory page. It is a series of calibration and resolution test charts produced by Applied Image, Inc. for the Library of Congress Photoduplication Service.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/18#xywh=2589,3743,289,909"
+    }
+  ]
+}

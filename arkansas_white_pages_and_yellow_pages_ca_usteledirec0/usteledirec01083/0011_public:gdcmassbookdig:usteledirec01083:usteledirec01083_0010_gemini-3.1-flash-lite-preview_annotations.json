@@ -1,0 +1,237 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "TELEPHONE DIRECTORY",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1642,640,2210,161"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "For",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2654,858,184,83"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "CARAWAY And MONETTE, ARKANSAS",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1649,982,2118,147"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "December, 1960",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2266,1239,959,138"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "DO NOT USE THIS DIRECTORY UNTIL THE DIAL CONVERSION DAY",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1695,1549,2095,108"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "EMERGENCY CALLS",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2287,1847,902,92"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "TO REPORT A FIRE: CARAWAY DIAL 482-3456, MONETTE DIAL 486-5678",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2588,2223,344,51"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "TO CALL POLICE: CARAWAY DIAL 482-3434 if no answer DIAL 482-3472, MONETTE DIAL 486-2121 if no answer DIAL 486-5864",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1587,2272,264,46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "TO CALL SHERIFF: CARAWAY DIAL 0 (Opr) & ask for INFORMATION, MONETTE DIAL 0 (Opr) & ask for INFORMATION",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=3551,2276,408,124"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "FEDERAL BUREAU OF INVESTIGATION: CARAWAY DIAL 0 (Opr) & ask for INFORMATION, MONETTE DIAL 0 (Opr) & ask for INFORMATION",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=3549,2517,397,62"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "TELEPHONE SERVICE CALLS",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2071,2944,1303,87"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "TO PLACE LONG DISTANCE CALLS: CARAWAY DIAL 0 (Opr), MONETTE DIAL 0 (Opr)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1798,3128,402,61"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "INFORMATION & NUMBERS NOT IN DIRECTORY: CARAWAY DIAL 0 (Opr) & ask for INFORMATION, MONETTE DIAL 0 (Opr) & ask for INFORMATION",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2234,3465,395,55"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "TO CALL REPAIR SERVICE: CARAWAY DIAL 0 (Opr) & ask for CHIEF OPERATOR, MONETTE DIAL 0 (Opr) & ask for CHIEF OPERATOR",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=3173,3472,461,59"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "TO REPORT DIFFICULTY WITH LOCAL OR LONG DISTANCE SERVICE: CARAWAY DIAL 0 (Opr) & ask for CHIEF OPERATOR, MONETTE DIAL 0 (Opr) & ask for CHIEF OPERATOR",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2225,3596,1425,130"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "TO CALL BUSINESS OFFICE: CARAWAY DIAL 482-3521, MONETTE DIAL 486-5421",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=3696,3655,229,51"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "TELEPHONE BUSINESS OFFICE",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2007,4084,1395,85"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Telephone Business Office for the Caraway and Monette exchanges is located in the Monette, Arkansas telephone central office building. The hours of operation for this office are from 8:00 a.m. until 12:00 noon, and 1:00 p.m. until 5:00 p.m., daily, Monday through Friday. Payments may be made at the Business Office, by mail, or by using the convenient Caraway or Monette depositories.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1411,4250,2590,82"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "You are always welcome to stop in and discuss your telephone business matters or to inquire about the many additional telephone facilities which can make your service more useful and convenient.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1404,4513,2425,81"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "UNITED TELEPHONE COMPANY OF ARKANSAS",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1434,4656,2521,105"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Copyright 1960, by United Telephone Company of Arkansas",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2120,4823,1165,58"
+    }
+  ]
+}

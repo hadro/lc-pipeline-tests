@@ -1,0 +1,32 @@
+{
+  "image": "0008_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0007.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "canvas_uri": "https://www.loc.gov/item/usteledirec01083/canvas/8",
+  "canvas_width": 6320,
+  "canvas_height": 5288,
+  "lines": [
+    {
+      "bbox": [
+        428,
+        623,
+        1612,
+        791
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/8#xywh=1321,1923,3654,519",
+      "confidence": "line",
+      "gemini_text": "FILMED AS"
+    },
+    {
+      "bbox": [
+        391,
+        1098,
+        1640,
+        1281
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/8#xywh=1207,3390,3854,564",
+      "confidence": "line",
+      "gemini_text": "PUBLISHED"
+    }
+  ],
+  "unmatched_gemini": []
+}

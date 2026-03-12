@@ -1,0 +1,109 @@
+{
+  "image": "0003_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0002.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "canvas_uri": "https://www.loc.gov/item/usteledirec01083/canvas/3",
+  "canvas_width": 6288,
+  "canvas_height": 5288,
+  "lines": [
+    {
+      "bbox": [
+        659,
+        242,
+        1452,
+        334
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/3#xywh=2023,743,2435,283",
+      "confidence": "line",
+      "gemini_text": "MICROFILMED"
+    },
+    {
+      "bbox": [
+        865,
+        423,
+        1182,
+        517
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/3#xywh=2656,1299,973,289",
+      "confidence": "line",
+      "gemini_text": "1992"
+    },
+    {
+      "bbox": [
+        415,
+        606,
+        1762,
+        705
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/3#xywh=1274,1861,4136,304",
+      "confidence": "line",
+      "gemini_text": "LIBRARY OF CONGRESS"
+    },
+    {
+      "bbox": [
+        640,
+        731,
+        1541,
+        826
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/3#xywh=1965,2245,2766,292",
+      "confidence": "line",
+      "gemini_text": "PRESERVATION"
+    },
+    {
+      "bbox": [
+        376,
+        855,
+        1821,
+        947
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/3#xywh=1154,2626,4437,282",
+      "confidence": "line",
+      "gemini_text": "MICROFILMING PROGRAM"
+    },
+    {
+      "bbox": [
+        537,
+        1046,
+        1442,
+        1100
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/3#xywh=1649,3212,2778,166",
+      "confidence": "line",
+      "gemini_text": "COPIES ARE AVAILABLE FROM:"
+    },
+    {
+      "bbox": [
+        630,
+        1186,
+        1446,
+        1233
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/3#xywh=1934,3642,2506,144",
+      "confidence": "line",
+      "gemini_text": "THE LIBRARY OF CONGRESS"
+    },
+    {
+      "bbox": [
+        616,
+        1249,
+        1488,
+        1297
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/3#xywh=1891,3835,2678,148",
+      "confidence": "line",
+      "gemini_text": "PHOTODUPLICATION SERVICE"
+    },
+    {
+      "bbox": [
+        604,
+        1315,
+        1375,
+        1366
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/3#xywh=1854,4038,2368,157",
+      "confidence": "line",
+      "gemini_text": "WASHINGTON, D.C. 20540"
+    }
+  ],
+  "unmatched_gemini": []
+}

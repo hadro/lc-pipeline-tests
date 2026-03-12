@@ -1,0 +1,241 @@
+{
+  "image": "0011_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0010.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "canvas_uri": "https://www.loc.gov/item/usteledirec01083/canvas/11",
+  "canvas_width": 4698,
+  "canvas_height": 5624,
+  "lines": [
+    {
+      "bbox": [
+        716,
+        279,
+        1679,
+        349
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1642,640,2210,161",
+      "confidence": "line",
+      "gemini_text": "TELEPHONE DIRECTORY"
+    },
+    {
+      "bbox": [
+        1157,
+        374,
+        1237,
+        410
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2654,858,184,83",
+      "confidence": "line",
+      "gemini_text": "For"
+    },
+    {
+      "bbox": [
+        719,
+        428,
+        1642,
+        492
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1649,982,2118,147",
+      "confidence": "line",
+      "gemini_text": "CARAWAY And MONETTE, ARKANSAS"
+    },
+    {
+      "bbox": [
+        988,
+        540,
+        1406,
+        600
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2266,1239,959,138",
+      "confidence": "line",
+      "gemini_text": "December, 1960"
+    },
+    {
+      "bbox": [
+        739,
+        675,
+        1652,
+        722
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1695,1549,2095,108",
+      "confidence": "line",
+      "gemini_text": "DO NOT USE THIS DIRECTORY UNTIL THE DIAL CONVERSION DAY"
+    },
+    {
+      "bbox": [
+        997,
+        805,
+        1390,
+        845
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2287,1847,902,92",
+      "confidence": "line",
+      "gemini_text": "EMERGENCY CALLS"
+    },
+    {
+      "bbox": [
+        1128,
+        969,
+        1278,
+        991
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2588,2223,344,51",
+      "confidence": "line",
+      "gemini_text": "TO REPORT A FIRE: CARAWAY DIAL 482-3456, MONETTE DIAL 486-5678"
+    },
+    {
+      "bbox": [
+        692,
+        990,
+        807,
+        1010
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1587,2272,264,46",
+      "confidence": "line",
+      "gemini_text": "TO CALL POLICE: CARAWAY DIAL 482-3434 if no answer DIAL 482-3472, MONETTE DIAL 486-2121 if no answer DIAL 486-5864"
+    },
+    {
+      "bbox": [
+        1548,
+        992,
+        1726,
+        1046
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=3551,2276,408,124",
+      "confidence": "line",
+      "gemini_text": "TO CALL SHERIFF: CARAWAY DIAL 0 (Opr) & ask for INFORMATION, MONETTE DIAL 0 (Opr) & ask for INFORMATION"
+    },
+    {
+      "bbox": [
+        1547,
+        1097,
+        1720,
+        1124
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=3549,2517,397,62",
+      "confidence": "line",
+      "gemini_text": "FEDERAL BUREAU OF INVESTIGATION: CARAWAY DIAL 0 (Opr) & ask for INFORMATION, MONETTE DIAL 0 (Opr) & ask for INFORMATION"
+    },
+    {
+      "bbox": [
+        903,
+        1283,
+        1471,
+        1321
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2071,2944,1303,87",
+      "confidence": "line",
+      "gemini_text": "TELEPHONE SERVICE CALLS"
+    },
+    {
+      "bbox": [
+        784,
+        1363,
+        959,
+        1390
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1798,3128,402,61",
+      "confidence": "line",
+      "gemini_text": "TO PLACE LONG DISTANCE CALLS: CARAWAY DIAL 0 (Opr), MONETTE DIAL 0 (Opr)"
+    },
+    {
+      "bbox": [
+        974,
+        1510,
+        1146,
+        1534
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2234,3465,395,55",
+      "confidence": "line",
+      "gemini_text": "INFORMATION & NUMBERS NOT IN DIRECTORY: CARAWAY DIAL 0 (Opr) & ask for INFORMATION, MONETTE DIAL 0 (Opr) & ask for INFORMATION"
+    },
+    {
+      "bbox": [
+        1383,
+        1513,
+        1584,
+        1539
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=3173,3472,461,59",
+      "confidence": "line",
+      "gemini_text": "TO CALL REPAIR SERVICE: CARAWAY DIAL 0 (Opr) & ask for CHIEF OPERATOR, MONETTE DIAL 0 (Opr) & ask for CHIEF OPERATOR"
+    },
+    {
+      "bbox": [
+        970,
+        1567,
+        1591,
+        1624
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2225,3596,1425,130",
+      "confidence": "line",
+      "gemini_text": "TO REPORT DIFFICULTY WITH LOCAL OR LONG DISTANCE SERVICE: CARAWAY DIAL 0 (Opr) & ask for CHIEF OPERATOR, MONETTE DIAL 0 (Opr) & ask for CHIEF OPERATOR"
+    },
+    {
+      "bbox": [
+        1611,
+        1593,
+        1711,
+        1615
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=3696,3655,229,51",
+      "confidence": "line",
+      "gemini_text": "TO CALL BUSINESS OFFICE: CARAWAY DIAL 482-3521, MONETTE DIAL 486-5421"
+    },
+    {
+      "bbox": [
+        875,
+        1780,
+        1483,
+        1817
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2007,4084,1395,85",
+      "confidence": "line",
+      "gemini_text": "TELEPHONE BUSINESS OFFICE"
+    },
+    {
+      "bbox": [
+        615,
+        1852,
+        1744,
+        1888
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1411,4250,2590,82",
+      "confidence": "line",
+      "gemini_text": "The Telephone Business Office for the Caraway and Monette exchanges is located in the Monette, Arkansas telephone central office building. The hours of operation for this office are from 8:00 a.m. until 12:00 noon, and 1:00 p.m. until 5:00 p.m., daily, Monday through Friday. Payments may be made at the Business Office, by mail, or by using the convenient Caraway or Monette depositories."
+    },
+    {
+      "bbox": [
+        612,
+        1967,
+        1669,
+        2002
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1404,4513,2425,81",
+      "confidence": "line",
+      "gemini_text": "You are always welcome to stop in and discuss your telephone business matters or to inquire about the many additional telephone facilities which can make your service more useful and convenient."
+    },
+    {
+      "bbox": [
+        625,
+        2029,
+        1724,
+        2075
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=1434,4656,2521,105",
+      "confidence": "line",
+      "gemini_text": "UNITED TELEPHONE COMPANY OF ARKANSAS"
+    },
+    {
+      "bbox": [
+        924,
+        2102,
+        1432,
+        2127
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/11#xywh=2120,4823,1165,58",
+      "confidence": "line",
+      "gemini_text": "Copyright 1960, by United Telephone Company of Arkansas"
+    }
+  ],
+  "unmatched_gemini": []
+}

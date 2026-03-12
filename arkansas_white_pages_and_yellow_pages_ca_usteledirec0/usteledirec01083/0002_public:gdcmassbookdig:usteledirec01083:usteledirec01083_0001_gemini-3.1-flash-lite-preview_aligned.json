@@ -1,0 +1,98 @@
+{
+  "image": "0002_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0001.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "canvas_uri": "https://www.loc.gov/item/usteledirec01083/canvas/2",
+  "canvas_width": 6304,
+  "canvas_height": 5256,
+  "lines": [
+    {
+      "bbox": [
+        455,
+        351,
+        1575,
+        446
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/2#xywh=1401,1081,3447,292",
+      "confidence": "line",
+      "gemini_text": "LIBRARY OF CONGRESS"
+    },
+    {
+      "bbox": [
+        262,
+        611,
+        1753,
+        679
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/2#xywh=806,1881,4590,210",
+      "confidence": "line",
+      "gemini_text": "PRESERVATION MICROFILMING PROGRAM"
+    },
+    {
+      "bbox": [
+        426,
+        779,
+        1558,
+        827
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/2#xywh=1311,2399,3485,147",
+      "confidence": "line",
+      "gemini_text": "THE MATERIAL WHICH FOLLOWS IS FROM THE"
+    },
+    {
+      "bbox": [
+        294,
+        833,
+        1671,
+        890
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/2#xywh=905,2565,4239,175",
+      "confidence": "line",
+      "gemini_text": "COMBINED COLLECTIONS OF THE LIBRARY OF CONGRESS"
+    },
+    {
+      "bbox": [
+        500,
+        896,
+        1418,
+        943
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/2#xywh=1539,2759,2826,145",
+      "confidence": "line",
+      "gemini_text": "AND THE NEW YORK PUBLIC LIBRARY."
+    },
+    {
+      "bbox": [
+        464,
+        1015,
+        1481,
+        1062
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/2#xywh=1428,3125,3131,145",
+      "confidence": "line",
+      "gemini_text": "IT WAS PREPARED AND MICROFILMED TO"
+    },
+    {
+      "bbox": [
+        498,
+        1074,
+        1435,
+        1120
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/2#xywh=1533,3307,2884,142",
+      "confidence": "line",
+      "gemini_text": "LIBRARY OF CONGRESS PRESERVATION"
+    },
+    {
+      "bbox": [
+        575,
+        1133,
+        1351,
+        1180
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/2#xywh=1770,3489,2389,144",
+      "confidence": "line",
+      "gemini_text": "MICROFILMING SPECIFICATIONS."
+    }
+  ],
+  "unmatched_gemini": []
+}

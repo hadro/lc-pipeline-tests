@@ -1,0 +1,17 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The provided image contains only technical calibration targets, resolution test charts, and a reduction ratio label (12:1). There is no telephone directory content to transcribe.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=3734,2684,904,184"
+    }
+  ]
+}

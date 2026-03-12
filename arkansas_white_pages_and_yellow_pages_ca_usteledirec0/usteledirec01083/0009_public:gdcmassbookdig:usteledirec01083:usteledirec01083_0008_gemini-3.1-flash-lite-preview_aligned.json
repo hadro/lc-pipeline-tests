@@ -1,0 +1,21 @@
+{
+  "image": "0009_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0008.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "canvas_uri": "https://www.loc.gov/item/usteledirec01083/canvas/9",
+  "canvas_width": 7678,
+  "canvas_height": 8192,
+  "lines": [
+    {
+      "bbox": [
+        996,
+        716,
+        1237,
+        765
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/9#xywh=3734,2684,904,184",
+      "confidence": "line",
+      "gemini_text": "The provided image contains only technical calibration targets, resolution test charts, and a reduction ratio label (12:1). There is no telephone directory content to transcribe."
+    }
+  ],
+  "unmatched_gemini": []
+}

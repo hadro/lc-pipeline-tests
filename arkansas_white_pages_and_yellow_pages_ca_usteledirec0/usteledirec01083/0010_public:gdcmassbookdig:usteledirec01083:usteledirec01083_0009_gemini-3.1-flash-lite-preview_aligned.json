@@ -1,0 +1,54 @@
+{
+  "image": "0010_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0009.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "canvas_uri": "https://www.loc.gov/item/usteledirec01083/canvas/10",
+  "canvas_width": 6304,
+  "canvas_height": 5288,
+  "lines": [
+    {
+      "bbox": [
+        283,
+        314,
+        1786,
+        387
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/10#xywh=871,967,4627,225",
+      "confidence": "line",
+      "gemini_text": "ARKANSAS TELEPHONE DIRECTORIES"
+    },
+    {
+      "bbox": [
+        688,
+        500,
+        1340,
+        574
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/10#xywh=2118,1540,2007,228",
+      "confidence": "line",
+      "gemini_text": "WHITE PAGES"
+    },
+    {
+      "bbox": [
+        530,
+        687,
+        1399,
+        763
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/10#xywh=1631,2116,2675,234",
+      "confidence": "line",
+      "gemini_text": "CITY: CARAWAY, MONETTE"
+    },
+    {
+      "bbox": [
+        572,
+        1297,
+        1209,
+        1370
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/10#xywh=1761,3994,1960,225",
+      "confidence": "line",
+      "gemini_text": "YEAR: December 1960"
+    }
+  ],
+  "unmatched_gemini": []
+}

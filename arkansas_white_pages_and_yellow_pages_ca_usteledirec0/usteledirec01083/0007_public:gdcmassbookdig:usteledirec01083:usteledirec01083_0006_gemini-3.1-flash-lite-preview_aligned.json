@@ -1,0 +1,87 @@
+{
+  "image": "0007_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0006.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "canvas_uri": "https://www.loc.gov/item/usteledirec01083/canvas/7",
+  "canvas_width": 6288,
+  "canvas_height": 5288,
+  "lines": [
+    {
+      "bbox": [
+        276,
+        444,
+        1379,
+        539
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/7#xywh=847,1363,3387,292",
+      "confidence": "line",
+      "gemini_text": "SOME MATERIAL IN"
+    },
+    {
+      "bbox": [
+        278,
+        555,
+        1394,
+        637
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/7#xywh=854,1704,3426,252",
+      "confidence": "line",
+      "gemini_text": "THE ORIGINAL FILE"
+    },
+    {
+      "bbox": [
+        277,
+        654,
+        1695,
+        751
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/7#xywh=850,2008,4354,298",
+      "confidence": "line",
+      "gemini_text": "CONTAINS MUTILATIONS"
+    },
+    {
+      "bbox": [
+        276,
+        766,
+        1565,
+        846
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/7#xywh=847,2352,3958,246",
+      "confidence": "line",
+      "gemini_text": "AND OTHER DEFECTS."
+    },
+    {
+      "bbox": [
+        273,
+        969,
+        1514,
+        1062
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/7#xywh=838,2976,3810,285",
+      "confidence": "line",
+      "gemini_text": "THESE UNAVOIDABLY"
+    },
+    {
+      "bbox": [
+        276,
+        1077,
+        1309,
+        1162
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/7#xywh=847,3307,3172,261",
+      "confidence": "line",
+      "gemini_text": "ARE PART OF THE"
+    },
+    {
+      "bbox": [
+        281,
+        1190,
+        964,
+        1262
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/7#xywh=863,3654,2097,221",
+      "confidence": "line",
+      "gemini_text": "FILMED FILE."
+    }
+  ],
+  "unmatched_gemini": []
+}

@@ -1,0 +1,941 @@
+{
+  "image": "0015_public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014_left.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "canvas_uri": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+  "canvas_width": 6784,
+  "canvas_height": 5624,
+  "lines": [
+    {
+      "bbox": [
+        222,
+        190,
+        337,
+        207
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=735,630,381,56",
+      "confidence": "line",
+      "gemini_text": "8 Abel—Byrd's MONETTE"
+    },
+    {
+      "bbox": [
+        322,
+        224,
+        846,
+        253
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1067,742,1735,96",
+      "confidence": "line",
+      "gemini_text": "PARTY LINE AND EXTENSION TELEPHONE HINTS"
+    },
+    {
+      "bbox": [
+        193,
+        282,
+        977,
+        309
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=639,935,2597,89",
+      "confidence": "line",
+      "gemini_text": "EFFICIENT PARTY LINE SERVICE depends largely on the consideration and courtesy which each subscriber gives to the other parties on his line. Endeavor to limit your calls to five minutes duration."
+    },
+    {
+      "bbox": [
+        194,
+        358,
+        977,
+        384
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=643,1186,2593,87",
+      "confidence": "line",
+      "gemini_text": "When dialing on a party line, or any line with an extension telephone, it is necessary to consider the possibility that someone else may be using the line. Learn and observe the following rules and be a courteous party line neighbor:"
+    },
+    {
+      "bbox": [
+        218,
+        416,
+        575,
+        434
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=722,1379,1183,59",
+      "confidence": "line",
+      "gemini_text": "1. If you hear a conversation when lifting the receiver, the line is being used. Replace the receiver and try the call again later."
+    },
+    {
+      "bbox": [
+        240,
+        579,
+        576,
+        603
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=795,1919,1113,79",
+      "confidence": "line",
+      "gemini_text": "2. If you hear the sound of \"Dialing Clicks\" when lifting the receiver, it means that someone else on the line is dialing a number. The lifting of your receiver has interfered with the dialing and you should inform him to dial the number again. Hang up your receiver and permit him to dial the number again."
+    },
+    {
+      "bbox": [
+        240,
+        602,
+        576,
+        622
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=795,1995,1113,66",
+      "confidence": "line",
+      "gemini_text": "3. If you are dialing and hear another party lift his receiver before you have heard the \"Ringing Signal,\" inform him that the line is in use and after he has replaced his receiver, replace your own for a few moments. Then remove it and dial the complete number again."
+    },
+    {
+      "bbox": [
+        240,
+        641,
+        577,
+        665
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=795,2124,1116,80",
+      "confidence": "line",
+      "gemini_text": "4. When another party lifts his receiver after you have heard the \"Ringing Signal,\" it will not be necessary to redial the number. Merely inform him that the line is in use."
+    },
+    {
+      "bbox": [
+        339,
+        717,
+        827,
+        753
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1123,2376,1616,120",
+      "confidence": "line",
+      "gemini_text": "MONETTE, ARKANSAS"
+    },
+    {
+      "bbox": [
+        194,
+        792,
+        576,
+        810
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=643,2625,1265,59",
+      "confidence": "line",
+      "gemini_text": "Abel Neil ...................... 486-5865"
+    },
+    {
+      "bbox": [
+        195,
+        809,
+        576,
+        827
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=646,2681,1262,60",
+      "confidence": "line",
+      "gemini_text": "Adams Harry .................... 486-5634"
+    },
+    {
+      "bbox": [
+        194,
+        828,
+        576,
+        845
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=643,2744,1265,56",
+      "confidence": "line",
+      "gemini_text": "Adams J Q ...................... 486-2174"
+    },
+    {
+      "bbox": [
+        194,
+        845,
+        575,
+        862
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=643,2800,1262,57",
+      "confidence": "line",
+      "gemini_text": "Agnew Gladys ................... 486-2118"
+    },
+    {
+      "bbox": [
+        195,
+        860,
+        575,
+        878
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=646,2850,1259,60",
+      "confidence": "line",
+      "gemini_text": "Anderson Aubrey ................ 486-5732"
+    },
+    {
+      "bbox": [
+        195,
+        878,
+        575,
+        894
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=646,2910,1259,53",
+      "confidence": "line",
+      "gemini_text": "Anderson Carl .................. 486-5447"
+    },
+    {
+      "bbox": [
+        194,
+        892,
+        576,
+        912
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=643,2956,1265,66",
+      "confidence": "line",
+      "gemini_text": "Anderson J M ................... 486-5402"
+    },
+    {
+      "bbox": [
+        194,
+        907,
+        576,
+        949
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=643,3006,1265,139",
+      "confidence": "line",
+      "gemini_text": "ARK-MO POWER CO ................ 486-5427"
+    },
+    {
+      "bbox": [
+        195,
+        944,
+        576,
+        963
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=646,3128,1262,63",
+      "confidence": "line",
+      "gemini_text": "Arnold J E Mrs ................. 486-5465"
+    },
+    {
+      "bbox": [
+        195,
+        960,
+        576,
+        979
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=646,3182,1262,62",
+      "confidence": "line",
+      "gemini_text": "Arnold Velma Mrs RFD 2 Lake City.. 486-5720"
+    },
+    {
+      "bbox": [
+        194,
+        980,
+        576,
+        996
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=643,3248,1265,53",
+      "confidence": "line",
+      "gemini_text": "Assembly of God Parsonage ...... 486-5836"
+    },
+    {
+      "bbox": [
+        374,
+        1019,
+        395,
+        1035
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1239,3377,69,53",
+      "confidence": "line",
+      "gemini_text": "B"
+    },
+    {
+      "bbox": [
+        194,
+        1049,
+        575,
+        1066
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=643,3476,1262,57",
+      "confidence": "line",
+      "gemini_text": "Baird Fred RFD 2 Lake City...... 486-2149"
+    },
+    {
+      "bbox": [
+        194,
+        1067,
+        575,
+        1085
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=643,3536,1262,60",
+      "confidence": "line",
+      "gemini_text": "Baker Bessie ................... 486-5647"
+    },
+    {
+      "bbox": [
+        195,
+        1081,
+        575,
+        1099
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=646,3583,1259,59",
+      "confidence": "line",
+      "gemini_text": "Baldridge J H RFD 1 Cardwell.... 486-2139"
+    },
+    {
+      "bbox": [
+        195,
+        1100,
+        575,
+        1117
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=646,3645,1259,57",
+      "confidence": "line",
+      "gemini_text": "Ball Ben F ..................... 486-5685"
+    },
+    {
+      "bbox": [
+        193,
+        1113,
+        575,
+        1137
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=639,3689,1266,79",
+      "confidence": "line",
+      "gemini_text": "Ball Henry O RFD 1.............. 486-5810"
+    },
+    {
+      "bbox": [
+        194,
+        1132,
+        574,
+        1150
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=643,3752,1258,59",
+      "confidence": "line",
+      "gemini_text": "BALL IMPLEMENT CO INC........... 486-5431"
+    },
+    {
+      "bbox": [
+        195,
+        1152,
+        575,
+        1169
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=646,3818,1259,56",
+      "confidence": "line",
+      "gemini_text": "Ball James F ................... 486-5528"
+    },
+    {
+      "bbox": [
+        195,
+        1170,
+        575,
+        1187
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=646,3877,1259,57",
+      "confidence": "line",
+      "gemini_text": "Ball Thomas .................... 486-5638"
+    },
+    {
+      "bbox": [
+        194,
+        1186,
+        575,
+        1201
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=643,3931,1262,49",
+      "confidence": "line",
+      "gemini_text": "Baptist Church ................. 486-5441"
+    },
+    {
+      "bbox": [
+        196,
+        1199,
+        574,
+        1223
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=649,3974,1252,79",
+      "confidence": "line",
+      "gemini_text": "Baptist Parsonage .............. 486-5456"
+    },
+    {
+      "bbox": [
+        196,
+        1219,
+        573,
+        1238
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=649,4040,1249,63",
+      "confidence": "line",
+      "gemini_text": "Barber Grover C ................ 486-2171"
+    },
+    {
+      "bbox": [
+        195,
+        1237,
+        574,
+        1253
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=646,4100,1255,53",
+      "confidence": "line",
+      "gemini_text": "Barnes J T ..................... 486-2254"
+    },
+    {
+      "bbox": [
+        193,
+        1250,
+        576,
+        1307
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=639,4143,1269,189",
+      "confidence": "line",
+      "gemini_text": "Barnes May Mrs ................. 486-5475"
+    },
+    {
+      "bbox": [
+        195,
+        1304,
+        422,
+        1322
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=646,4322,752,59",
+      "confidence": "line",
+      "gemini_text": "BARNETT HOMER & SON"
+    },
+    {
+      "bbox": [
+        242,
+        1323,
+        574,
+        1340
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=802,4385,1099,56",
+      "confidence": "line",
+      "gemini_text": "RFD 1 Cardwell................ 486-5640"
+    },
+    {
+      "bbox": [
+        196,
+        1340,
+        573,
+        1357
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=649,4441,1249,56",
+      "confidence": "line",
+      "gemini_text": "Barnett Richard RFD 1 Cardwell.. 486-5681"
+    },
+    {
+      "bbox": [
+        195,
+        1357,
+        574,
+        1374
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=646,4497,1255,57",
+      "confidence": "line",
+      "gemini_text": "Bell Billy J RFD 2 Leachville... 486-5630"
+    },
+    {
+      "bbox": [
+        194,
+        1374,
+        574,
+        1390
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=643,4554,1258,53",
+      "confidence": "line",
+      "gemini_text": "Bell Robert .................... 486-2128"
+    },
+    {
+      "bbox": [
+        194,
+        1389,
+        575,
+        1408
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=643,4603,1262,63",
+      "confidence": "line",
+      "gemini_text": "Berry A D ...................... 486-5592"
+    },
+    {
+      "bbox": [
+        193,
+        1403,
+        575,
+        1427
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=639,4650,1266,79",
+      "confidence": "line",
+      "gemini_text": "Berry Monroe RFD 1.............. 486-5584"
+    },
+    {
+      "bbox": [
+        193,
+        1422,
+        576,
+        1460
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=639,4713,1269,126",
+      "confidence": "line",
+      "gemini_text": "Berry Thurlo ................... 486-5753"
+    },
+    {
+      "bbox": [
+        194,
+        1458,
+        576,
+        1475
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=643,4832,1265,56",
+      "confidence": "line",
+      "gemini_text": "Berryhill W M RFD 1 Cardwell.... 486-2186"
+    },
+    {
+      "bbox": [
+        644,
+        437,
+        977,
+        459
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=2133,1448,1103,73",
+      "confidence": "line",
+      "gemini_text": "Berry's Grocery ................ 486-5813"
+    },
+    {
+      "bbox": [
+        643,
+        600,
+        977,
+        628
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=2130,1988,1106,93",
+      "confidence": "line",
+      "gemini_text": "Bertig Elevator ................ 486-2213"
+    },
+    {
+      "bbox": [
+        596,
+        763,
+        975,
+        785
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1974,2529,1256,73",
+      "confidence": "line",
+      "gemini_text": "Bertig Gin Co .................. 486-2122"
+    },
+    {
+      "bbox": [
+        595,
+        780,
+        977,
+        818
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1971,2585,1265,126",
+      "confidence": "line",
+      "gemini_text": "Bibb John RFD 1................. 486-5468"
+    },
+    {
+      "bbox": [
+        596,
+        817,
+        975,
+        834
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1974,2708,1256,56",
+      "confidence": "line",
+      "gemini_text": "Bibb Lloyd ..................... 486-5759"
+    },
+    {
+      "bbox": [
+        596,
+        833,
+        973,
+        850
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1974,2761,1249,56",
+      "confidence": "line",
+      "gemini_text": "Bibb Richard RFD 3 Leachville... 486-2191"
+    },
+    {
+      "bbox": [
+        595,
+        847,
+        976,
+        888
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1971,2807,1262,136",
+      "confidence": "line",
+      "gemini_text": "Bibb's Garage .................. 486-5722"
+    },
+    {
+      "bbox": [
+        596,
+        882,
+        974,
+        902
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1974,2923,1252,66",
+      "confidence": "line",
+      "gemini_text": "Blankenship Beulah Mrs ......... 486-5516"
+    },
+    {
+      "bbox": [
+        596,
+        900,
+        973,
+        918
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1974,2983,1249,59",
+      "confidence": "line",
+      "gemini_text": "Blankenship Claude ............. 486-5481"
+    },
+    {
+      "bbox": [
+        596,
+        916,
+        974,
+        936
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1974,3036,1252,66",
+      "confidence": "line",
+      "gemini_text": "BLANKENSHIP & CO furntr........ 486-2112"
+    },
+    {
+      "bbox": [
+        596,
+        935,
+        973,
+        954
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1974,3099,1249,63",
+      "confidence": "line",
+      "gemini_text": "Blankenship James .............. 486-5573"
+    },
+    {
+      "bbox": [
+        596,
+        949,
+        973,
+        973
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1974,3145,1249,80",
+      "confidence": "line",
+      "gemini_text": "Blankenship Lillian Mrs ........ 486-5872"
+    },
+    {
+      "bbox": [
+        596,
+        970,
+        973,
+        986
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1974,3215,1249,53",
+      "confidence": "line",
+      "gemini_text": "Blankenship Milton ............. 486-5642"
+    },
+    {
+      "bbox": [
+        596,
+        984,
+        973,
+        1006
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1974,3261,1249,73",
+      "confidence": "line",
+      "gemini_text": "Blankenship Norman ............. 486-5572"
+    },
+    {
+      "bbox": [
+        594,
+        999,
+        975,
+        1060
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1968,3311,1262,202",
+      "confidence": "line",
+      "gemini_text": "Blankenship's Body Shop Hwy 139 N.. 486-5522"
+    },
+    {
+      "bbox": [
+        596,
+        1053,
+        974,
+        1071
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1974,3490,1252,59",
+      "confidence": "line",
+      "gemini_text": "Blasingame James W RFD 2 Lake City.. 486-2176"
+    },
+    {
+      "bbox": [
+        595,
+        1068,
+        975,
+        1108
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1971,3539,1259,133",
+      "confidence": "line",
+      "gemini_text": "Bley Harold .................... 486-5846"
+    },
+    {
+      "bbox": [
+        595,
+        1099,
+        973,
+        1125
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1971,3642,1252,86",
+      "confidence": "line",
+      "gemini_text": "Bolar P B RFD 3 Leachville...... 486-5679"
+    },
+    {
+      "bbox": [
+        596,
+        1120,
+        973,
+        1139
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1974,3712,1249,63",
+      "confidence": "line",
+      "gemini_text": "Boleyn Lloyd RFD 1.............. 486-5875"
+    },
+    {
+      "bbox": [
+        596,
+        1137,
+        973,
+        1155
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1974,3768,1249,60",
+      "confidence": "line",
+      "gemini_text": "Bowman M C ..................... 486-5824"
+    },
+    {
+      "bbox": [
+        596,
+        1154,
+        973,
+        1172
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1974,3824,1249,60",
+      "confidence": "line",
+      "gemini_text": "Braden Alton RFD 3 Leachville... 486-2192"
+    },
+    {
+      "bbox": [
+        596,
+        1171,
+        973,
+        1189
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1974,3881,1249,59",
+      "confidence": "line",
+      "gemini_text": "Braden Bill farm ............... 486-5407"
+    },
+    {
+      "bbox": [
+        596,
+        1189,
+        973,
+        1205
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1974,3940,1249,53",
+      "confidence": "line",
+      "gemini_text": "Braden Glenna Mrs .............. 486-2133"
+    },
+    {
+      "bbox": [
+        596,
+        1206,
+        973,
+        1223
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1974,3997,1249,56",
+      "confidence": "line",
+      "gemini_text": "Bradford William Z RFD 2 Lake City.. 486-5683"
+    },
+    {
+      "bbox": [
+        595,
+        1223,
+        973,
+        1240
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1971,4053,1252,56",
+      "confidence": "line",
+      "gemini_text": "Bray Arthur RFD 1............... 486-2195"
+    },
+    {
+      "bbox": [
+        594,
+        1234,
+        975,
+        1275
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1968,4090,1262,135",
+      "confidence": "line",
+      "gemini_text": "Brinkley J M Mrs RFD 3 Leachville.. 486-5550"
+    },
+    {
+      "bbox": [
+        595,
+        1272,
+        973,
+        1289
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1971,4216,1252,56",
+      "confidence": "line",
+      "gemini_text": "Brinkley Leon RFD 1 Cardwell.... 486-5785"
+    },
+    {
+      "bbox": [
+        595,
+        1288,
+        973,
+        1308
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1971,4269,1252,66",
+      "confidence": "line",
+      "gemini_text": "Bronaugh Billy ................. 486-2167"
+    },
+    {
+      "bbox": [
+        595,
+        1304,
+        972,
+        1326
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1971,4322,1249,72",
+      "confidence": "line",
+      "gemini_text": "Brown G C Mrs .................. 486-2157"
+    },
+    {
+      "bbox": [
+        595,
+        1324,
+        973,
+        1341
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1971,4388,1252,56",
+      "confidence": "line",
+      "gemini_text": "Brown Ethel .................... 486-2153"
+    },
+    {
+      "bbox": [
+        595,
+        1339,
+        973,
+        1357
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1971,4438,1252,59",
+      "confidence": "line",
+      "gemini_text": "Brown Joe RFD 2 Leachville...... 486-5629"
+    },
+    {
+      "bbox": [
+        595,
+        1356,
+        973,
+        1373
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1971,4494,1252,56",
+      "confidence": "line",
+      "gemini_text": "Bruce Carmel RFD 1.............. 486-5839"
+    },
+    {
+      "bbox": [
+        593,
+        1372,
+        974,
+        1409
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1964,4547,1262,123",
+      "confidence": "line",
+      "gemini_text": "Buffaloe W T ................... 486-5851"
+    },
+    {
+      "bbox": [
+        594,
+        1406,
+        973,
+        1423
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1968,4660,1255,56",
+      "confidence": "line",
+      "gemini_text": "Buzick John farm ............... 486-5687"
+    },
+    {
+      "bbox": [
+        594,
+        1423,
+        973,
+        1442
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1968,4716,1255,63",
+      "confidence": "line",
+      "gemini_text": "Buzick John Mrs ................ 486-2246"
+    },
+    {
+      "bbox": [
+        594,
+        1440,
+        973,
+        1460
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1968,4772,1255,67",
+      "confidence": "line",
+      "gemini_text": "Byrd Billy Rex ................. 486-2172"
+    },
+    {
+      "bbox": [
+        594,
+        1457,
+        974,
+        1479
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1968,4829,1258,73",
+      "confidence": "line",
+      "gemini_text": "BYRD'S PURE OIL STATION ........ 486-5712"
+    },
+    {
+      "bbox": [
+        196,
+        912,
+        296,
+        926
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=649,3022,331,47",
+      "confidence": "manual",
+      "gemini_text": "Arant George ................... 486-2226"
+    },
+    {
+      "bbox": [
+        593,
+        1003,
+        977,
+        1019
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1964,3324,1272,53",
+      "confidence": "manual",
+      "gemini_text": "Blankenship Paul ............... 486-5635"
+    },
+    {
+      "bbox": [
+        593,
+        1019,
+        978,
+        1036
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=1964,3377,1276,56",
+      "confidence": "manual",
+      "gemini_text": "Blankenship Tucker ............. 486-2163"
+    },
+    {
+      "bbox": [
+        193,
+        1271,
+        576,
+        1285
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/usteledirec01083/canvas/15#xywh=639,4212,1269,47",
+      "confidence": "manual",
+      "gemini_text": "Barnes W L RFD 2 Leachville..... 486-2259"
+    }
+  ],
+  "unmatched_gemini": [
+    "A",
+    "Barnett Claude Earl ............ 486-5752",
+    "Blacet George R RFD 1........... 486-5693",
+    "Bob's City Drug Store .......... 486-2111",
+    "Brinkley Cecil RFD 1 Cardwell... 486-5729",
+    "Buzick J W Jr .................. 486-2155"
+  ]
+}

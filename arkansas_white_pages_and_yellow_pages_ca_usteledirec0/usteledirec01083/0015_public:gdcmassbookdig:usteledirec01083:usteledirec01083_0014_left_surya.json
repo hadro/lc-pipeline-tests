@@ -249,7 +249,7 @@
         977,
         606
       ],
-      "text": "\n    When another party lifts his receiver<br>after you have heard the \"Ringing Sig-\n",
+      "text": "\n    When another party lifts his receiver\nafter you have heard the \"Ringing Sig-\n",
       "confidence": 0.7646
     },
     {
@@ -589,7 +589,7 @@
         975,
         1060
       ],
-      "text": "Blankenship Paul 486-5635<br>Blankenship Tucker 486-2163<br>Blankenship's Body Shop Hwy 139 N. 486-5522",
+      "text": "Blankenship Paul 486-5635\nBlankenship Tucker 486-2163\nBlankenship's Body Shop Hwy 139 N. 486-5522",
       "confidence": 0.9763
     },
     {
@@ -819,7 +819,7 @@
         975,
         1275
       ],
-      "text": "Brinkley Cecil RFD 1 Cardwell ....... 486-5729<br>Brinkley J M Mrs RFD 3 Leachville ..... 486-5550",
+      "text": "Brinkley Cecil RFD 1 Cardwell ....... 486-5729\nBrinkley J M Mrs RFD 3 Leachville ..... 486-5550",
       "confidence": 0.9722
     },
     {

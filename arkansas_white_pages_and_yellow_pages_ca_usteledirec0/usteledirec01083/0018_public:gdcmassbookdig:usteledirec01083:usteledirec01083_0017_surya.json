@@ -229,7 +229,7 @@
         1216,
         771
       ],
-      "text": "MICROCOPY RESOLUTION TEST CHART<br>NBS - 1010a<br>(ANSI and ISO TEST CHART No. 2)",
+      "text": "MICROCOPY RESOLUTION TEST CHART\nNBS - 1010a\n(ANSI and ISO TEST CHART No. 2)",
       "confidence": 0.9593
     },
     {
@@ -259,7 +259,7 @@
         1163,
         964
       ],
-      "text": "3.2<br>3.6<br>4.0",
+      "text": "3.2\n3.6\n4.0",
       "confidence": 0.9063
     },
     {
@@ -279,7 +279,7 @@
         1126,
         985
       ],
-      "text": "145<br>150<br>150<br>162<br>163<br>163<br>164<br>164<br>164<br>164<br>164<br>164<br>164<br>164<br>164<br>164",
+      "text": "145\n150\n150\n162\n163\n163\n164\n164\n164\n164\n164\n164\n164\n164\n164\n164",
       "confidence": 0.8831
     },
     {
@@ -409,7 +409,7 @@
         1227,
         1239
       ],
-      "text": "1653 East Main Street<br>Rochester, New York 14609",
+      "text": "1653 East Main Street\nRochester, New York 14609",
       "confidence": 0.9972
     },
     {

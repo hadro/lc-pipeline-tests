@@ -1,0 +1,86 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/usteledirec01083/canvas/11"
+    }
+  ]
+}
