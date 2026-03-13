@@ -1,0 +1,35 @@
+{
+  "image": "0022_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0022.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "category": "Desserts"
+  },
+  "page_context": {
+    "category": "Pickles"
+  },
+  "entries": [
+    {
+      "category": "Pickles",
+      "recipe_name": "PICKLED GRAPES",
+      "recipe_text": "Seven lbs. of fruit. Three and a half lbs. of sugar. One ounce of whole cinnamon. One ounce of whole cloves. Weigh the fruit and sugar. Push the pulp from the skins. Boil the pulp; when done, put it through a sieve. Put one quart of vinegar on the fire, with the sugar, and boil once. Then put the skins and pulp in with the spice and boil it a half hour or longer. Tie the spices in a piece of thin muslin.",
+      "ingredients": [
+        "Seven lbs. of fruit",
+        "Three and a half lbs. of sugar",
+        "One ounce of whole cinnamon",
+        "One ounce of whole cloves",
+        "One quart of vinegar"
+      ],
+      "steps": [
+        "Weigh the fruit and sugar.",
+        "Push the pulp from the skins.",
+        "Boil the pulp; when done, put it through a sieve.",
+        "Put one quart of vinegar on the fire, with the sugar, and boil once.",
+        "Put the skins and pulp in with the spice and boil it a half hour or longer.",
+        "Tie the spices in a piece of thin muslin."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/22",
+      "image": "0022_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0022.jpg"
+    }
+  ]
+}

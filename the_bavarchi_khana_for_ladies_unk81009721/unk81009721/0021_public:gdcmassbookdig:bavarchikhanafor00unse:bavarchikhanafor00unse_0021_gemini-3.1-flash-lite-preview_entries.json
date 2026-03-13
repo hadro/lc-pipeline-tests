@@ -1,0 +1,51 @@
+{
+  "image": "0021_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0021.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "category": "Desserts"
+  },
+  "page_context": {
+    "category": "Desserts"
+  },
+  "entries": [
+    {
+      "category": "Desserts",
+      "recipe_name": "GRAHAM MUFFINS.",
+      "recipe_text": "One pint of sour milk, A little salt. One table-spoon of sugar. One tea-spoon of soda or saleratus. Graham flour enough to make as stiff a batter as can well be stirred.",
+      "ingredients": [
+        "One pint of sour milk",
+        "A little salt",
+        "One table-spoon of sugar",
+        "One tea-spoon of soda or saleratus",
+        "Graham flour"
+      ],
+      "steps": [
+        "Mix ingredients to make as stiff a batter as can well be stirred."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/21",
+      "image": "0021_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0021.jpg"
+    },
+    {
+      "category": "Desserts",
+      "recipe_name": "CORN MUFFINS.",
+      "recipe_text": "One pint of corn meal. One pint of sour milk. Two eggs. A little salt. Two table-spoons of sugar. Three tea-spoons of melted butter. Two small teaspoons of soda or saleratus. A handful of bread crumbs dried. Bake in a quick oven.",
+      "ingredients": [
+        "One pint of corn meal",
+        "One pint of sour milk",
+        "Two eggs",
+        "A little salt",
+        "Two table-spoons of sugar",
+        "Three tea-spoons of melted butter",
+        "Two small teaspoons of soda or saleratus",
+        "A handful of bread crumbs dried"
+      ],
+      "steps": [
+        "Combine ingredients.",
+        "Bake in a quick oven."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/21",
+      "image": "0021_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0021.jpg"
+    }
+  ]
+}

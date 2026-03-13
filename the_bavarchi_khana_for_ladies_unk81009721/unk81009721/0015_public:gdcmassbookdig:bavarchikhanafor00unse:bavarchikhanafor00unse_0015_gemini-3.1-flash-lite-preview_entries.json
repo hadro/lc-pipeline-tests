@@ -1,0 +1,79 @@
+{
+  "image": "0015_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0015.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "category": "Desserts"
+  },
+  "page_context": {
+    "category": "Desserts"
+  },
+  "entries": [
+    {
+      "category": "Desserts",
+      "recipe_name": "QUEEN OF PUDDINGS.",
+      "recipe_text": "One pint of bread crumbs. One quart of milk. One cup of sugar. Butter the size of an egg. Yolks of five eggs, well beaten. The grated rind of one lemon. Bake like custard, then spread over it a layer of jelly or preserves. Beat the whites of the eggs to a stiff froth, adding one cup of powdered sugar, and spread it over the top. Set it in the oven to brown.",
+      "ingredients": [
+        "One pint of bread crumbs",
+        "One quart of milk",
+        "One cup of sugar",
+        "Butter the size of an egg",
+        "Yolks of five eggs",
+        "Grated rind of one lemon",
+        "Jelly or preserves",
+        "Whites of five eggs",
+        "One cup of powdered sugar"
+      ],
+      "steps": [
+        "Mix bread crumbs, milk, sugar, butter, beaten yolks, and lemon rind.",
+        "Bake like custard.",
+        "Spread a layer of jelly or preserves over the top.",
+        "Beat the whites of the eggs to a stiff froth with one cup of powdered sugar.",
+        "Spread the egg white mixture over the top.",
+        "Set in the oven to brown."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/15",
+      "image": "0015_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0015.jpg"
+    },
+    {
+      "category": "Desserts",
+      "recipe_name": "PUFFS.",
+      "recipe_text": "One pint of milk. One pint of flour. Two eggs. A little salt. Fill nine cups half full and bake half an hour.",
+      "ingredients": [
+        "One pint of milk",
+        "One pint of flour",
+        "Two eggs",
+        "A little salt"
+      ],
+      "steps": [
+        "Combine milk, flour, eggs, and salt.",
+        "Fill nine cups half full.",
+        "Bake half an hour."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/15",
+      "image": "0015_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0015.jpg"
+    },
+    {
+      "category": "Desserts",
+      "recipe_name": "SAUCE FOR PUFFS.",
+      "recipe_text": "Scald two table-spoons of Madeira wine with the same quantity of water. Rub together two cups of sugar and one of butter, and add the beaten yolks of two eggs, and put into the scalding wine. Then add the beaten whites of the eggs.",
+      "ingredients": [
+        "Two table-spoons of Madeira wine",
+        "Two table-spoons of water",
+        "Two cups of sugar",
+        "One cup of butter",
+        "Yolks of two eggs",
+        "Whites of two eggs"
+      ],
+      "steps": [
+        "Scald the wine and water together.",
+        "Rub the sugar and butter together.",
+        "Add the beaten yolks to the sugar and butter mixture.",
+        "Combine the sugar/butter/yolk mixture with the scalding wine.",
+        "Add the beaten whites of the eggs."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/15",
+      "image": "0015_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0015.jpg"
+    }
+  ]
+}

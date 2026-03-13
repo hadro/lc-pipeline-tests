@@ -1,0 +1,73 @@
+{
+  "image": "0020_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0020.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "category": "Desserts"
+  },
+  "page_context": {
+    "category": "Desserts"
+  },
+  "entries": [
+    {
+      "category": "Desserts",
+      "recipe_name": "LEMON BISCUIT",
+      "recipe_text": "One and a half lbs. of flour. One lb. of sugar. Twelve ounces of butter. Five eggs. Half a gill of milk. One table-spoon of lemon extract. Two tea-spoons of cream tartar. One tea-spoon of soda. One tea-spoon of almond extract can be used, if preferred.",
+      "ingredients": [
+        "1 1/2 lbs. flour",
+        "1 lb. sugar",
+        "12 ounces butter",
+        "5 eggs",
+        "1/2 gill milk",
+        "1 table-spoon lemon extract",
+        "2 tea-spoons cream tartar",
+        "1 tea-spoon soda",
+        "1 tea-spoon almond extract (optional)"
+      ],
+      "steps": [
+        "Combine ingredients and bake."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/20",
+      "image": "0020_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0020.jpg"
+    },
+    {
+      "category": "Desserts",
+      "recipe_name": "GINGER SPONGE CAKE",
+      "recipe_text": "One cup of molasses. One cup of butter. Two cups of sugar. Four eggs. Three cups of flour. One cup of milk. One tea-spoon of soda. One table-spoon of ginger.",
+      "ingredients": [
+        "1 cup molasses",
+        "1 cup butter",
+        "2 cups sugar",
+        "4 eggs",
+        "3 cups flour",
+        "1 cup milk",
+        "1 tea-spoon soda",
+        "1 table-spoon ginger"
+      ],
+      "steps": [
+        "Combine ingredients and bake."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/20",
+      "image": "0020_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0020.jpg"
+    },
+    {
+      "category": "Desserts",
+      "recipe_name": "BREAKFAST CAKES",
+      "recipe_text": "One quart flour. One pint milk. Two eggs. Butter the size of an egg. One tea-spoon of soda. Two tea-spoons of cream tartar. Bake in a quick oven and heated pans.",
+      "ingredients": [
+        "1 quart flour",
+        "1 pint milk",
+        "2 eggs",
+        "Butter the size of an egg",
+        "1 tea-spoon soda",
+        "2 tea-spoons cream tartar"
+      ],
+      "steps": [
+        "Combine ingredients.",
+        "Bake in a quick oven and heated pans."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/20",
+      "image": "0020_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0020.jpg"
+    }
+  ]
+}

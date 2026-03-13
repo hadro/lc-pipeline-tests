@@ -1,0 +1,54 @@
+{
+  "image": "0013_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0013.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "category": ""
+  },
+  "page_context": {
+    "category": "Desserts"
+  },
+  "entries": [
+    {
+      "category": "Desserts",
+      "recipe_name": "ORANGE PUDDING",
+      "recipe_text": "To two large oranges peeled and picked to pieces, add a cup of sugar. Boil a quart of milk mixed with the yolks of three eggs, and two dessert-spoons of corn-starch. Cool it and stir into it the orange and sugar. Cover it with meringue made of the whites of the eggs, and a little sugar, and brown in the oven.",
+      "ingredients": [
+        "2 large oranges",
+        "1 cup sugar",
+        "1 quart milk",
+        "3 egg yolks",
+        "2 dessert-spoons corn-starch",
+        "whites of 3 eggs",
+        "sugar (for meringue)"
+      ],
+      "steps": [
+        "Peel and pick the oranges into pieces.",
+        "Add a cup of sugar to the oranges.",
+        "Boil the milk mixed with the egg yolks and corn-starch.",
+        "Cool the mixture.",
+        "Stir the orange and sugar into the cooled mixture.",
+        "Cover with a meringue made of the egg whites and a little sugar.",
+        "Brown in the oven."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/13",
+      "image": "0013_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0013.jpg"
+    },
+    {
+      "category": "Desserts",
+      "recipe_name": "CORN PUDDING",
+      "recipe_text": "Grate one dozen ears of corn, not too young. Add one quart milk, four or five beaten eggs, a dessert-spoon of",
+      "ingredients": [
+        "1 dozen ears of corn",
+        "1 quart milk",
+        "4 or 5 beaten eggs"
+      ],
+      "steps": [
+        "Grate the ears of corn.",
+        "Add the milk and beaten eggs."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/13",
+      "image": "0013_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0013.jpg"
+    }
+  ]
+}

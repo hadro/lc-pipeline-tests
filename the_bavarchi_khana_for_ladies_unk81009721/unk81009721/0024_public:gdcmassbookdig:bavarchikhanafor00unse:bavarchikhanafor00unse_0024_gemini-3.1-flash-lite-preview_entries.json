@@ -1,0 +1,43 @@
+{
+  "image": "0024_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0024.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "category": "Pickles"
+  },
+  "page_context": {
+    "category": "Pickles"
+  },
+  "entries": [
+    {
+      "category": "Pickles",
+      "recipe_name": "CHOW CHOW",
+      "recipe_text": "One peck of green tomatoes. Six peppers, taking out the seeds. Three onions. Chop together and cover them over night, adding two-thirds of a cup of salt. In the morning, draw off the liquor and just cover with vinegar. add one and a half cups of sugar. Less than a cup of made mustard. A table-spoon of cloves, allspice and cinnamon. Boil all about twenty minutes or more. Much improved by the addition of cauliflower and celery, with the other things.",
+      "ingredients": [
+        "One peck of green tomatoes",
+        "Six peppers",
+        "Three onions",
+        "Two-thirds of a cup of salt",
+        "Vinegar",
+        "One and a half cups of sugar",
+        "Less than a cup of made mustard",
+        "A table-spoon of cloves",
+        "Allspice",
+        "Cinnamon",
+        "Cauliflower (optional)",
+        "Celery (optional)"
+      ],
+      "steps": [
+        "Chop the tomatoes, peppers, and onions together.",
+        "Cover the mixture over night, adding two-thirds of a cup of salt.",
+        "In the morning, draw off the liquor.",
+        "Cover the mixture with vinegar.",
+        "Add sugar, made mustard, cloves, allspice, and cinnamon.",
+        "Boil all about twenty minutes or more.",
+        "Add cauliflower and celery if desired."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/24",
+      "image": "0024_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0024.jpg"
+    }
+  ]
+}

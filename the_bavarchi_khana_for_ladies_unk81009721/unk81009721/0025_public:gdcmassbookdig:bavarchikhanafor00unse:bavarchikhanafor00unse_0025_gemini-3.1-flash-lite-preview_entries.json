@@ -1,0 +1,55 @@
+{
+  "image": "0025_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0025.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "category": "Pickles"
+  },
+  "page_context": {
+    "category": "Miscellaneous"
+  },
+  "entries": [
+    {
+      "category": "Miscellaneous",
+      "recipe_name": "DRESSING FOR COLE SLAW.",
+      "recipe_text": "Rub together one cup of sugar and a piece of butter the size of a large egg. Add a well-beaten egg. Scald a pint of equal quantities of vinegar and water, and pour on these ingredients. When well mixed, pour it over the cabbage and stir it well. The cabbage should lie in cold water first, and then be finely chopped. Serve when cold.",
+      "ingredients": [
+        "one cup of sugar",
+        "piece of butter the size of a large egg",
+        "one well-beaten egg",
+        "a pint of equal quantities of vinegar and water",
+        "cabbage"
+      ],
+      "steps": [
+        "Rub together one cup of sugar and a piece of butter the size of a large egg.",
+        "Add a well-beaten egg.",
+        "Scald a pint of equal quantities of vinegar and water, and pour on these ingredients.",
+        "When well mixed, pour it over the cabbage and stir it well.",
+        "The cabbage should lie in cold water first, and then be finely chopped.",
+        "Serve when cold."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/25",
+      "image": "0025_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0025.jpg"
+    },
+    {
+      "category": "Miscellaneous",
+      "recipe_name": "STEWED LOBSTER.",
+      "recipe_text": "To one lobster, boiled and cut in small pieces, add a pint of milk or water. A small piece of butter the size of half an egg, a little pepper and a little salt. Stew this together about ten minutes. Serve hot.",
+      "ingredients": [
+        "one lobster, boiled and cut in small pieces",
+        "a pint of milk or water",
+        "a small piece of butter the size of half an egg",
+        "a little pepper",
+        "a little salt"
+      ],
+      "steps": [
+        "To one lobster, boiled and cut in small pieces, add a pint of milk or water.",
+        "Add a small piece of butter the size of half an egg, a little pepper and a little salt.",
+        "Stew this together about ten minutes.",
+        "Serve hot."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/25",
+      "image": "0025_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0025.jpg"
+    }
+  ]
+}

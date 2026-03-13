@@ -1,0 +1,79 @@
+{
+  "image": "0018_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0018.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "category": "Desserts"
+  },
+  "page_context": {
+    "category": "Desserts"
+  },
+  "entries": [
+    {
+      "category": "Desserts",
+      "recipe_name": "CUSTARD CAKE",
+      "recipe_text": "Three eggs, One cup of sugar. One cup of flour. Bake in jelly-cake tins, two layers. CUSTARD FOR THE ABOVE. Half a pint of milk. Two table-spoons of sugar. Two table-spoons of flour. One egg. Boil the custard and flavor with vanilla.",
+      "ingredients": [
+        "Three eggs",
+        "One cup of sugar",
+        "One cup of flour",
+        "Half a pint of milk",
+        "Two table-spoons of sugar",
+        "Two table-spoons of flour",
+        "One egg",
+        "Vanilla"
+      ],
+      "steps": [
+        "Bake cake in jelly-cake tins, two layers.",
+        "Boil the custard ingredients and flavor with vanilla."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/18",
+      "image": "0018_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0018.jpg"
+    },
+    {
+      "category": "Desserts",
+      "recipe_name": "SPICE CAKE, No. 1",
+      "recipe_text": "One lb. of flour. One lb. of sugar. Three quarter lb. of butter. One quarter less with cream. One cup of cream or milk. Four eggs separated. One tea-spoon of soda. One tea-spoon of cloves and cinnamon, citron, currants and raisins. One glass of wine and one nutmeg.",
+      "ingredients": [
+        "One lb. of flour",
+        "One lb. of sugar",
+        "Three quarter lb. of butter",
+        "One cup of cream or milk",
+        "Four eggs separated",
+        "One tea-spoon of soda",
+        "One tea-spoon of cloves",
+        "One tea-spoon of cinnamon",
+        "Citron",
+        "Currants",
+        "Raisins",
+        "One glass of wine",
+        "One nutmeg"
+      ],
+      "steps": [],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/18",
+      "image": "0018_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0018.jpg"
+    },
+    {
+      "category": "Desserts",
+      "recipe_name": "SPICE CAKE, No. 2",
+      "recipe_text": "One cup of butter. Two cups of sugar. Three cups of flour. Four eggs. Half a cup of milk. One tea-spoon of soda. One cup of raisins. One cup of currants, citron, One tea-spoon of cloves, cinnamon and allspice.",
+      "ingredients": [
+        "One cup of butter",
+        "Two cups of sugar",
+        "Three cups of flour",
+        "Four eggs",
+        "Half a cup of milk",
+        "One tea-spoon of soda",
+        "One cup of raisins",
+        "One cup of currants",
+        "Citron",
+        "One tea-spoon of cloves",
+        "One tea-spoon of cinnamon",
+        "One tea-spoon of allspice"
+      ],
+      "steps": [],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/18",
+      "image": "0018_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0018.jpg"
+    }
+  ]
+}

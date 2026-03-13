@@ -1,0 +1,10 @@
+{
+  "image": "0011_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0011.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {},
+  "page_context": {
+    "category": ""
+  },
+  "entries": []
+}

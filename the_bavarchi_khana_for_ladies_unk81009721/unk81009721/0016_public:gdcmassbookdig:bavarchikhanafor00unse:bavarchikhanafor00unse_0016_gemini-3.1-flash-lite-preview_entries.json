@@ -1,0 +1,37 @@
+{
+  "image": "0016_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0016.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "category": "Desserts"
+  },
+  "page_context": {
+    "category": "Desserts"
+  },
+  "entries": [
+    {
+      "category": "Desserts",
+      "recipe_name": "ORANGE JELLY CAKE",
+      "recipe_text": "One lb. of eggs. One lb. of powdered sugar. Half lb. of flour. Beat the eggs separately. Any good recipe for Sponge Cake will do. JELLY FOR THE ABOVE. Beat, to a stiff froth, the white of an egg. Add sugar enough to make it a little stiff. Then add the grated rind and juice of an orange. The above cake can be baked in jelly-cake tins, or in thick loaves, to be split when cold.",
+      "ingredients": [
+        "1 lb. eggs",
+        "1 lb. powdered sugar",
+        "1/2 lb. flour",
+        "1 white of an egg",
+        "Sugar",
+        "Grated rind of an orange",
+        "Juice of an orange"
+      ],
+      "steps": [
+        "Beat the eggs separately.",
+        "Prepare the cake batter using the eggs, sugar, and flour (or any good Sponge Cake recipe).",
+        "Bake in jelly-cake tins or thick loaves to be split when cold.",
+        "For the jelly: Beat the white of an egg to a stiff froth.",
+        "Add sugar to the egg white until slightly stiff.",
+        "Stir in the grated rind and juice of an orange."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/16",
+      "image": "0016_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0016.jpg"
+    }
+  ]
+}

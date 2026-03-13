@@ -1,0 +1,54 @@
+{
+  "image": "0014_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0014.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "category": "Desserts"
+  },
+  "page_context": {
+    "category": "Desserts"
+  },
+  "entries": [
+    {
+      "category": "Desserts",
+      "recipe_name": "SPANISH CREAM",
+      "recipe_text": "One quart milk. One quarter box of gelatine. Three eggs. Three table-spoons of sugar. Put the gelatine to soak in a little of the milk. Boil the rest and pour on it. Beat the yolks well with the sugar, and mix them with the milk and gelatine, and a little salt. When nearly cold, add four table-spoons of wine. Beat the whites with one cup of sugar and juice of a lemon; spread it over the top and set it in the oven to brown.",
+      "ingredients": [
+        "One quart milk",
+        "One quarter box of gelatine",
+        "Three eggs",
+        "Three table-spoons of sugar",
+        "a little salt",
+        "four table-spoons of wine",
+        "one cup of sugar",
+        "juice of a lemon"
+      ],
+      "steps": [
+        "Put the gelatine to soak in a little of the milk.",
+        "Boil the rest and pour on it.",
+        "Beat the yolks well with the sugar, and mix them with the milk and gelatine, and a little salt.",
+        "When nearly cold, add four table-spoons of wine.",
+        "Beat the whites with one cup of sugar and juice of a lemon; spread it over the top and set it in the oven to brown."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/14",
+      "image": "0014_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0014.jpg"
+    },
+    {
+      "category": "Desserts",
+      "recipe_name": "FRUIT MERINGUE",
+      "recipe_text": "Fill a baking dish half full of peaches or tart apples cut up, or strawberries. Beat the whites of eggs, more or less, according to the size of the dish, to a stiff froth, adding a heaping table-spoon of powdered sugar for each egg. Set in a quick oven to brown.",
+      "ingredients": [
+        "peaches or tart apples cut up, or strawberries",
+        "whites of eggs",
+        "heaping table-spoon of powdered sugar for each egg"
+      ],
+      "steps": [
+        "Fill a baking dish half full of peaches or tart apples cut up, or strawberries.",
+        "Beat the whites of eggs, more or less, according to the size of the dish, to a stiff froth, adding a heaping table-spoon of powdered sugar for each egg.",
+        "Set in a quick oven to brown."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/14",
+      "image": "0014_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0014.jpg"
+    }
+  ]
+}

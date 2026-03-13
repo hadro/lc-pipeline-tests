@@ -1,0 +1,75 @@
+{
+  "image": "0019_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0019.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "category": "Desserts"
+  },
+  "page_context": {
+    "category": "Desserts"
+  },
+  "entries": [
+    {
+      "category": "Desserts",
+      "recipe_name": "DELICATE CAKE",
+      "recipe_text": "Whites of three eggs. One and a half cups of sugar. Half a cup of butter. Three cups of flour. One cup of milk. Half a tea-spoon of soda. One tea-spoon of cream tartar. One tea-spoon of extract of almond. Use the yolks in the same way.",
+      "ingredients": [
+        "Whites of three eggs",
+        "One and a half cups of sugar",
+        "Half a cup of butter",
+        "Three cups of flour",
+        "One cup of milk",
+        "Half a tea-spoon of soda",
+        "One tea-spoon of cream tartar",
+        "One tea-spoon of extract of almond",
+        "Yolks of three eggs"
+      ],
+      "steps": [
+        "Mix ingredients together.",
+        "Use the yolks in the same way."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/19",
+      "image": "0019_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0019.jpg"
+    },
+    {
+      "category": "Desserts",
+      "recipe_name": "SPONGE CAKE",
+      "recipe_text": "One lb. of eggs. One lb. of sugar. Half a lb. of flour. Beat the eggs separately.",
+      "ingredients": [
+        "One lb. of eggs",
+        "One lb. of sugar",
+        "Half a lb. of flour"
+      ],
+      "steps": [
+        "Beat the eggs separately.",
+        "Combine ingredients."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/19",
+      "image": "0019_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0019.jpg"
+    },
+    {
+      "category": "Desserts",
+      "recipe_name": "NUT BISCUIT",
+      "recipe_text": "Take eight ounces of sweet almonds and four ounces of bitter ones; throw them into boiling water for five minutes; take out and skin them, pound them in a mortar; when fine enough, mix in four ounces of flour. The flour must be dry and well sifted. Then beat the yolks of two eggs; add to it eight ounces of fine white sugar, then add the whites of four eggs, beaten to a stiff froth. Add the",
+      "ingredients": [
+        "Eight ounces of sweet almonds",
+        "Four ounces of bitter almonds",
+        "Four ounces of flour",
+        "Yolks of two eggs",
+        "Eight ounces of fine white sugar",
+        "Whites of four eggs"
+      ],
+      "steps": [
+        "Throw almonds into boiling water for five minutes.",
+        "Take out and skin the almonds.",
+        "Pound almonds in a mortar.",
+        "Mix in four ounces of dry, well-sifted flour.",
+        "Beat the yolks of two eggs.",
+        "Add eight ounces of fine white sugar to the yolks.",
+        "Add the whites of four eggs, beaten to a stiff froth."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/19",
+      "image": "0019_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0019.jpg"
+    }
+  ]
+}

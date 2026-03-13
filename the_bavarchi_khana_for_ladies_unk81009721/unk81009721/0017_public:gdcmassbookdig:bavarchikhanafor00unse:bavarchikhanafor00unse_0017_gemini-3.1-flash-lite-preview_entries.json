@@ -1,0 +1,58 @@
+{
+  "image": "0017_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0017.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "category": "Desserts"
+  },
+  "page_context": {
+    "category": "Desserts"
+  },
+  "entries": [
+    {
+      "category": "Desserts",
+      "recipe_name": "CHOCOLATE JELLY CAKE, No. 1.",
+      "recipe_text": "Cake the same as for Orange Cake. FOR JELLY. Beat, to a stiff froth, the white of an egg. Stiffen with grated chocolate, and perhaps a handful of powdered sugar. Proceed as for Orange Cake.",
+      "ingredients": [
+        "white of an egg",
+        "grated chocolate",
+        "powdered sugar"
+      ],
+      "steps": [
+        "Beat the white of an egg to a stiff froth.",
+        "Stiffen with grated chocolate and a handful of powdered sugar.",
+        "Proceed as for Orange Cake."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/17",
+      "image": "0017_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0017.jpg"
+    },
+    {
+      "category": "Desserts",
+      "recipe_name": "CHOCOLATE JELLY CAKE, No. 2.",
+      "recipe_text": "Two cups of sugar. Half a cup of butter. One cup of milk. Three eggs. Three cups of flour. One tea-spoon of cream tartar. Half a tea-spoon of soda. Bake in thick loaves and split when cold. JELLY FOR THE ABOVE. One cup of grated chocolate. Two cups of sugar. Half a cup of milk. As soon as it boils, pour a layer over the lower layer of cake. Lay another layer of cake and pour another layer of chocolate. Lay the top layer of cake, and letting the rest of the chocolate boil until it strings in water, pour it over the whole.",
+      "ingredients": [
+        "2 cups sugar",
+        "1/2 cup butter",
+        "1 cup milk",
+        "3 eggs",
+        "3 cups flour",
+        "1 tea-spoon cream tartar",
+        "1/2 tea-spoon soda",
+        "1 cup grated chocolate",
+        "2 cups sugar",
+        "1/2 cup milk"
+      ],
+      "steps": [
+        "Mix sugar, butter, milk, eggs, flour, cream tartar, and soda.",
+        "Bake in thick loaves and split when cold.",
+        "For the jelly, combine grated chocolate, sugar, and milk.",
+        "As soon as it boils, pour a layer over the lower layer of cake.",
+        "Lay another layer of cake and pour another layer of chocolate.",
+        "Lay the top layer of cake.",
+        "Let the rest of the chocolate boil until it strings in water, then pour it over the whole."
+      ],
+      "canvas_fragment": "https://www.loc.gov/item/unk81009721/canvas/17",
+      "image": "0017_public:gdcmassbookdig:bavarchikhanafor00unse:bavarchikhanafor00unse_0017.jpg"
+    }
+  ]
+}
