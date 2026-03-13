@@ -1,1 +1,958 @@
-{"@context": "http://iiif.io/api/presentation/3/context.json", "id": "https://www.loc.gov/item/usteledirec01083/manifest.json", "type": "Manifest", "label": {"en": ["Arkansas - White Pages and Yellow Pages - Caraway - December 1960"]}, "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/1", "type": "Canvas", "width": "6304", "height": "5288", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/1/page", "type": "AnnotationPage", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/1/annotation", "type": "Annotation", "motivation": "painting", "body": {"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0000/full/max/0/default.jpg", "type": "Image", "service": [{"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0000", "type": "ImageService3", "maxWidth": "6304"}]}, "target": "https://www.loc.gov/item/usteledirec01083/canvas/1"}]}]}, {"id": "https://www.loc.gov/item/usteledirec01083/canvas/2", "type": "Canvas", "width": "6304", "height": "5256", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/2/page", "type": "AnnotationPage", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/2/annotation", "type": "Annotation", "motivation": "painting", "body": {"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0001/full/max/0/default.jpg", "type": "Image", "service": [{"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0001", "type": "ImageService3", "maxWidth": "6304"}]}, "target": "https://www.loc.gov/item/usteledirec01083/canvas/2"}]}]}, {"id": "https://www.loc.gov/item/usteledirec01083/canvas/3", "type": "Canvas", "width": "6288", "height": "5288", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/3/page", "type": "AnnotationPage", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/3/annotation", "type": "Annotation", "motivation": "painting", "body": {"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0002/full/max/0/default.jpg", "type": "Image", "service": [{"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0002", "type": "ImageService3", "maxWidth": "6288"}]}, "target": "https://www.loc.gov/item/usteledirec01083/canvas/3"}]}]}, {"id": "https://www.loc.gov/item/usteledirec01083/canvas/4", "type": "Canvas", "width": "6304", "height": "5288", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/4/page", "type": "AnnotationPage", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/4/annotation", "type": "Annotation", "motivation": "painting", "body": {"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0003/full/max/0/default.jpg", "type": "Image", "service": [{"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0003", "type": "ImageService3", "maxWidth": "6304"}]}, "target": "https://www.loc.gov/item/usteledirec01083/canvas/4"}]}]}, {"id": "https://www.loc.gov/item/usteledirec01083/canvas/5", "type": "Canvas", "width": "6288", "height": "5256", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/5/page", "type": "AnnotationPage", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/5/annotation", "type": "Annotation", "motivation": "painting", "body": {"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0004/full/max/0/default.jpg", "type": "Image", "service": [{"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0004", "type": "ImageService3", "maxWidth": "6288"}]}, "target": "https://www.loc.gov/item/usteledirec01083/canvas/5"}]}]}, {"id": "https://www.loc.gov/item/usteledirec01083/canvas/6", "type": "Canvas", "width": "6288", "height": "5272", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/6/page", "type": "AnnotationPage", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/6/annotation", "type": "Annotation", "motivation": "painting", "body": {"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0005/full/max/0/default.jpg", "type": "Image", "service": [{"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0005", "type": "ImageService3", "maxWidth": "6288"}]}, "target": "https://www.loc.gov/item/usteledirec01083/canvas/6"}]}]}, {"id": "https://www.loc.gov/item/usteledirec01083/canvas/7", "type": "Canvas", "width": "6288", "height": "5288", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/7/page", "type": "AnnotationPage", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/7/annotation", "type": "Annotation", "motivation": "painting", "body": {"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0006/full/max/0/default.jpg", "type": "Image", "service": [{"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0006", "type": "ImageService3", "maxWidth": "6288"}]}, "target": "https://www.loc.gov/item/usteledirec01083/canvas/7"}]}]}, {"id": "https://www.loc.gov/item/usteledirec01083/canvas/8", "type": "Canvas", "width": "6320", "height": "5288", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/8/page", "type": "AnnotationPage", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/8/annotation", "type": "Annotation", "motivation": "painting", "body": {"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0007/full/max/0/default.jpg", "type": "Image", "service": [{"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0007", "type": "ImageService3", "maxWidth": "6320"}]}, "target": "https://www.loc.gov/item/usteledirec01083/canvas/8"}]}]}, {"id": "https://www.loc.gov/item/usteledirec01083/canvas/9", "type": "Canvas", "width": "7678", "height": "8192", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/9/page", "type": "AnnotationPage", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/9/annotation", "type": "Annotation", "motivation": "painting", "body": {"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0008/full/max/0/default.jpg", "type": "Image", "service": [{"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0008", "type": "ImageService3", "maxWidth": "7678"}]}, "target": "https://www.loc.gov/item/usteledirec01083/canvas/9"}]}]}, {"id": "https://www.loc.gov/item/usteledirec01083/canvas/10", "type": "Canvas", "width": "6304", "height": "5288", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/10/page", "type": "AnnotationPage", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/10/annotation", "type": "Annotation", "motivation": "painting", "body": {"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0009/full/max/0/default.jpg", "type": "Image", "service": [{"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0009", "type": "ImageService3", "maxWidth": "6304"}]}, "target": "https://www.loc.gov/item/usteledirec01083/canvas/10"}]}]}, {"id": "https://www.loc.gov/item/usteledirec01083/canvas/11", "type": "Canvas", "width": "4698", "height": "5624", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/11/page", "type": "AnnotationPage", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/11/annotation", "type": "Annotation", "motivation": "painting", "body": {"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0010/full/max/0/default.jpg", "type": "Image", "service": [{"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0010", "type": "ImageService3", "maxWidth": "4698"}]}, "target": "https://www.loc.gov/item/usteledirec01083/canvas/11"}]}]}, {"id": "https://www.loc.gov/item/usteledirec01083/canvas/12", "type": "Canvas", "width": "6831", "height": "5639", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/12/page", "type": "AnnotationPage", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/12/annotation", "type": "Annotation", "motivation": "painting", "body": {"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0011/full/max/0/default.jpg", "type": "Image", "service": [{"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0011", "type": "ImageService3", "maxWidth": "6831"}]}, "target": "https://www.loc.gov/item/usteledirec01083/canvas/12"}]}]}, {"id": "https://www.loc.gov/item/usteledirec01083/canvas/13", "type": "Canvas", "width": "6816", "height": "5640", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/13/page", "type": "AnnotationPage", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/13/annotation", "type": "Annotation", "motivation": "painting", "body": {"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0012/full/max/0/default.jpg", "type": "Image", "service": [{"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0012", "type": "ImageService3", "maxWidth": "6816"}]}, "target": "https://www.loc.gov/item/usteledirec01083/canvas/13"}]}]}, {"id": "https://www.loc.gov/item/usteledirec01083/canvas/14", "type": "Canvas", "width": "6816", "height": "5640", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/14/page", "type": "AnnotationPage", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/14/annotation", "type": "Annotation", "motivation": "painting", "body": {"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013/full/max/0/default.jpg", "type": "Image", "service": [{"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013", "type": "ImageService3", "maxWidth": "6816"}]}, "target": "https://www.loc.gov/item/usteledirec01083/canvas/14"}]}]}, {"id": "https://www.loc.gov/item/usteledirec01083/canvas/15", "type": "Canvas", "width": "6784", "height": "5624", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/15/page", "type": "AnnotationPage", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/15/annotation", "type": "Annotation", "motivation": "painting", "body": {"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014/full/max/0/default.jpg", "type": "Image", "service": [{"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014", "type": "ImageService3", "maxWidth": "6784"}]}, "target": "https://www.loc.gov/item/usteledirec01083/canvas/15"}]}]}, {"id": "https://www.loc.gov/item/usteledirec01083/canvas/16", "type": "Canvas", "width": "6800", "height": "5656", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/16/page", "type": "AnnotationPage", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/16/annotation", "type": "Annotation", "motivation": "painting", "body": {"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0015/full/max/0/default.jpg", "type": "Image", "service": [{"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0015", "type": "ImageService3", "maxWidth": "6800"}]}, "target": "https://www.loc.gov/item/usteledirec01083/canvas/16"}]}]}, {"id": "https://www.loc.gov/item/usteledirec01083/canvas/17", "type": "Canvas", "width": "3776", "height": "5624", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/17/page", "type": "AnnotationPage", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/17/annotation", "type": "Annotation", "motivation": "painting", "body": {"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0016/full/max/0/default.jpg", "type": "Image", "service": [{"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0016", "type": "ImageService3", "maxWidth": "3776"}]}, "target": "https://www.loc.gov/item/usteledirec01083/canvas/17"}]}]}, {"id": "https://www.loc.gov/item/usteledirec01083/canvas/18", "type": "Canvas", "width": "7695", "height": "8192", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/18/page", "type": "AnnotationPage", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/18/annotation", "type": "Annotation", "motivation": "painting", "body": {"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0017/full/max/0/default.jpg", "type": "Image", "service": [{"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0017", "type": "ImageService3", "maxWidth": "7695"}]}, "target": "https://www.loc.gov/item/usteledirec01083/canvas/18"}]}]}, {"id": "https://www.loc.gov/item/usteledirec01083/canvas/19", "type": "Canvas", "width": "6304", "height": "5256", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/19/page", "type": "AnnotationPage", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/19/annotation", "type": "Annotation", "motivation": "painting", "body": {"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0018/full/max/0/default.jpg", "type": "Image", "service": [{"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0018", "type": "ImageService3", "maxWidth": "6304"}]}, "target": "https://www.loc.gov/item/usteledirec01083/canvas/19"}]}]}, {"id": "https://www.loc.gov/item/usteledirec01083/canvas/20", "type": "Canvas", "width": "6320", "height": "5288", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/20/page", "type": "AnnotationPage", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/20/annotation", "type": "Annotation", "motivation": "painting", "body": {"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0019/full/max/0/default.jpg", "type": "Image", "service": [{"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0019", "type": "ImageService3", "maxWidth": "6320"}]}, "target": "https://www.loc.gov/item/usteledirec01083/canvas/20"}]}]}, {"id": "https://www.loc.gov/item/usteledirec01083/canvas/21", "type": "Canvas", "width": "6320", "height": "5304", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/21/page", "type": "AnnotationPage", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/21/annotation", "type": "Annotation", "motivation": "painting", "body": {"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0020/full/max/0/default.jpg", "type": "Image", "service": [{"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0020", "type": "ImageService3", "maxWidth": "6320"}]}, "target": "https://www.loc.gov/item/usteledirec01083/canvas/21"}]}]}, {"id": "https://www.loc.gov/item/usteledirec01083/canvas/22", "type": "Canvas", "width": "6320", "height": "5288", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/22/page", "type": "AnnotationPage", "items": [{"id": "https://www.loc.gov/item/usteledirec01083/canvas/22/annotation", "type": "Annotation", "motivation": "painting", "body": {"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0021/full/max/0/default.jpg", "type": "Image", "service": [{"id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0021", "type": "ImageService3", "maxWidth": "6320"}]}, "target": "https://www.loc.gov/item/usteledirec01083/canvas/22"}]}]}]}
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://www.loc.gov/item/usteledirec01083/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Arkansas - White Pages and Yellow Pages - Caraway - December 1960"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://www.loc.gov/item/usteledirec01083/canvas/1",
+      "type": "Canvas",
+      "width": 6304,
+      "height": 5288,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0000/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0000",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/usteledirec01083/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/usteledirec01083/canvas/1/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0000/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0000",
+                    "type": "ImageService3",
+                    "maxWidth": 6304
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/usteledirec01083/canvas/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.loc.gov/item/usteledirec01083/canvas/2",
+      "type": "Canvas",
+      "width": 6304,
+      "height": 5256,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0001/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0001",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/usteledirec01083/canvas/2/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/usteledirec01083/canvas/2/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0001/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0001",
+                    "type": "ImageService3",
+                    "maxWidth": 6304
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/usteledirec01083/canvas/2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.loc.gov/item/usteledirec01083/canvas/3",
+      "type": "Canvas",
+      "width": 6288,
+      "height": 5288,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0002/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0002",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/usteledirec01083/canvas/3/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/usteledirec01083/canvas/3/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0002/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0002",
+                    "type": "ImageService3",
+                    "maxWidth": 6288
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/usteledirec01083/canvas/3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.loc.gov/item/usteledirec01083/canvas/4",
+      "type": "Canvas",
+      "width": 6304,
+      "height": 5288,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0003/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0003",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/usteledirec01083/canvas/4/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/usteledirec01083/canvas/4/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0003/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0003",
+                    "type": "ImageService3",
+                    "maxWidth": 6304
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/usteledirec01083/canvas/4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.loc.gov/item/usteledirec01083/canvas/5",
+      "type": "Canvas",
+      "width": 6288,
+      "height": 5256,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0004/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0004",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/usteledirec01083/canvas/5/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/usteledirec01083/canvas/5/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0004/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0004",
+                    "type": "ImageService3",
+                    "maxWidth": 6288
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/usteledirec01083/canvas/5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.loc.gov/item/usteledirec01083/canvas/6",
+      "type": "Canvas",
+      "width": 6288,
+      "height": 5272,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0005/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0005",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/usteledirec01083/canvas/6/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/usteledirec01083/canvas/6/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0005/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0005",
+                    "type": "ImageService3",
+                    "maxWidth": 6288
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/usteledirec01083/canvas/6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.loc.gov/item/usteledirec01083/canvas/7",
+      "type": "Canvas",
+      "width": 6288,
+      "height": 5288,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0006/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0006",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/usteledirec01083/canvas/7/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/usteledirec01083/canvas/7/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0006/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0006",
+                    "type": "ImageService3",
+                    "maxWidth": 6288
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/usteledirec01083/canvas/7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.loc.gov/item/usteledirec01083/canvas/8",
+      "type": "Canvas",
+      "width": 6320,
+      "height": 5288,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0007/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0007",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/usteledirec01083/canvas/8/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/usteledirec01083/canvas/8/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0007/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0007",
+                    "type": "ImageService3",
+                    "maxWidth": 6320
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/usteledirec01083/canvas/8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.loc.gov/item/usteledirec01083/canvas/9",
+      "type": "Canvas",
+      "width": 7678,
+      "height": 8192,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0008/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0008",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/usteledirec01083/canvas/9/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/usteledirec01083/canvas/9/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0008/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0008",
+                    "type": "ImageService3",
+                    "maxWidth": 7678
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/usteledirec01083/canvas/9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.loc.gov/item/usteledirec01083/canvas/10",
+      "type": "Canvas",
+      "width": 6304,
+      "height": 5288,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0009/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0009",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/usteledirec01083/canvas/10/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/usteledirec01083/canvas/10/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0009/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0009",
+                    "type": "ImageService3",
+                    "maxWidth": 6304
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/usteledirec01083/canvas/10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.loc.gov/item/usteledirec01083/canvas/11",
+      "type": "Canvas",
+      "width": 4698,
+      "height": 5624,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0010/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0010",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/usteledirec01083/canvas/11/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/usteledirec01083/canvas/11/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0010/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0010",
+                    "type": "ImageService3",
+                    "maxWidth": 4698
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/usteledirec01083/canvas/11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.loc.gov/item/usteledirec01083/canvas/12",
+      "type": "Canvas",
+      "width": 6831,
+      "height": 5639,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0011/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0011",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/usteledirec01083/canvas/12/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/usteledirec01083/canvas/12/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0011/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0011",
+                    "type": "ImageService3",
+                    "maxWidth": 6831
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/usteledirec01083/canvas/12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.loc.gov/item/usteledirec01083/canvas/13",
+      "type": "Canvas",
+      "width": 6816,
+      "height": 5640,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0012/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0012",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/usteledirec01083/canvas/13/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/usteledirec01083/canvas/13/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0012/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0012",
+                    "type": "ImageService3",
+                    "maxWidth": 6816
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/usteledirec01083/canvas/13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.loc.gov/item/usteledirec01083/canvas/14",
+      "type": "Canvas",
+      "width": 6816,
+      "height": 5640,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/usteledirec01083/canvas/14/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/usteledirec01083/canvas/14/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0013",
+                    "type": "ImageService3",
+                    "maxWidth": 6816
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/usteledirec01083/canvas/14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.loc.gov/item/usteledirec01083/canvas/15",
+      "type": "Canvas",
+      "width": 6784,
+      "height": 5624,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/usteledirec01083/canvas/15/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/usteledirec01083/canvas/15/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0014",
+                    "type": "ImageService3",
+                    "maxWidth": 6784
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/usteledirec01083/canvas/15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.loc.gov/item/usteledirec01083/canvas/16",
+      "type": "Canvas",
+      "width": 6800,
+      "height": 5656,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0015/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0015",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/usteledirec01083/canvas/16/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/usteledirec01083/canvas/16/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0015/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0015",
+                    "type": "ImageService3",
+                    "maxWidth": 6800
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/usteledirec01083/canvas/16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.loc.gov/item/usteledirec01083/canvas/17",
+      "type": "Canvas",
+      "width": 3776,
+      "height": 5624,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0016/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0016",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/usteledirec01083/canvas/17/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/usteledirec01083/canvas/17/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0016/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0016",
+                    "type": "ImageService3",
+                    "maxWidth": 3776
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/usteledirec01083/canvas/17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.loc.gov/item/usteledirec01083/canvas/18",
+      "type": "Canvas",
+      "width": 7695,
+      "height": 8192,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0017/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0017",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/usteledirec01083/canvas/18/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/usteledirec01083/canvas/18/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0017/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0017",
+                    "type": "ImageService3",
+                    "maxWidth": 7695
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/usteledirec01083/canvas/18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.loc.gov/item/usteledirec01083/canvas/19",
+      "type": "Canvas",
+      "width": 6304,
+      "height": 5256,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0018/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0018",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/usteledirec01083/canvas/19/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/usteledirec01083/canvas/19/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0018/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0018",
+                    "type": "ImageService3",
+                    "maxWidth": 6304
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/usteledirec01083/canvas/19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.loc.gov/item/usteledirec01083/canvas/20",
+      "type": "Canvas",
+      "width": 6320,
+      "height": 5288,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0019/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0019",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/usteledirec01083/canvas/20/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/usteledirec01083/canvas/20/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0019/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0019",
+                    "type": "ImageService3",
+                    "maxWidth": 6320
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/usteledirec01083/canvas/20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.loc.gov/item/usteledirec01083/canvas/21",
+      "type": "Canvas",
+      "width": 6320,
+      "height": 5304,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0020/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0020",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/usteledirec01083/canvas/21/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/usteledirec01083/canvas/21/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0020/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0020",
+                    "type": "ImageService3",
+                    "maxWidth": 6320
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/usteledirec01083/canvas/21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.loc.gov/item/usteledirec01083/canvas/22",
+      "type": "Canvas",
+      "width": 6320,
+      "height": 5288,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0021/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0021",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/usteledirec01083/canvas/22/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/usteledirec01083/canvas/22/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0021/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:usteledirec01083:usteledirec01083_0021",
+                    "type": "ImageService3",
+                    "maxWidth": 6320
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/usteledirec01083/canvas/22"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
