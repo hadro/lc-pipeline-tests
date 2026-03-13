@@ -12,7 +12,6 @@
 </head>
 <body>
   <script>
-    // Decode a base64url-encoded IIIF content state string.
     function decodeContentState(encoded) {
       try {
         var b64 = encoded.replace(/-/g, "+").replace(/_/g, "/");
@@ -24,45 +23,57 @@
       }
     }
 
-    // Clover's iiif-content web-component attribute is broken for base64url
-    // content states (github.com/samvera-labs/clover-iiif/issues/312).
-    // Workaround: encode the content state as a blob URL and pass it as id.
+    // Clover's iiif-content attribute is broken for base64url content states
+    // (github.com/samvera-labs/clover-iiif/issues/312).
+    // Workaround: serialise the content state as a blob URL and pass as id.
     function contentStateToBlobId(stateObj) {
       var json = JSON.stringify(stateObj);
       var blob = new Blob([json], { type: "application/json" });
       return URL.createObjectURL(blob);
     }
 
-    // Build a Clover-compatible SpecificResource content state from a canvas
-    // URI (which may include a #xywh= fragment) and manifest URL.
-    function buildContentState(canvasUri, manifestUrl) {
-      var fragment = "";
-      var canvasBase = canvasUri;
-      var hashIdx = canvasUri.indexOf("#");
-      if (hashIdx !== -1) {
-        fragment = canvasUri.slice(hashIdx + 1);   // e.g. "xywh=10,20,100,50"
-        canvasBase = canvasUri.slice(0, hashIdx);
-      }
-
-      var target = {
-        "type": "SpecificResource",
-        "source": {
-          "id": canvasBase,
-          "type": "Canvas",
-          "partOf": [{ "id": manifestUrl, "type": "Manifest" }]
-        }
-      };
-      if (fragment) {
-        target["selector"] = { "type": "FragmentSelector", "value": fragment };
-      }
-
+    // Build a plain SpecificResource content state for canvas navigation.
+    // We intentionally omit FragmentSelector: Clover's Vault library will try
+    // to fetch the canvas source URI to resolve a selector, and LOC canvas
+    // URIs return HTML (not JSON), causing a parse failure.
+    function buildContentState(canvasBase, manifestUrl) {
       return {
         "@context": "http://iiif.io/api/presentation/3/context.json",
         "id": canvasBase + "/content-state",
         "type": "Annotation",
         "motivation": ["contentState"],
-        "target": target
+        "target": {
+          "type": "SpecificResource",
+          "source": {
+            "id": canvasBase,
+            "type": "Canvas",
+            "partOf": [{ "id": manifestUrl, "type": "Manifest" }]
+          }
+        }
       };
+    }
+
+    // After Clover/OSD has opened the canvas, zoom the viewport to a pixel
+    // region [px, py, pw, ph] on a canvas with width canvasW.
+    // OSD normalises so imageWidth = 1.0; both x/y and w/h are divided by
+    // imageWidth (NOT imageHeight) to stay in that coordinate space.
+    function scheduleOsdZoom(px, py, pw, ph, canvasW) {
+      var PADDING = 1.5;  // factor: show context around the entry
+      var rx = Math.max(0, (px - pw * (PADDING - 1) * 0.5) / canvasW);
+      var ry = Math.max(0, (py - ph * (PADDING - 1) * 0.5) / canvasW);
+      var rw = pw * PADDING / canvasW;
+      var rh = ph * PADDING / canvasW;
+
+      var tries = 0;
+      var timer = setInterval(function() {
+        if (++tries > 60) { clearInterval(timer); return; }
+        var osdEl = document.querySelector(".openseadragon-container");
+        if (!osdEl || !osdEl.openSeadragon) return;
+        var viewer = osdEl.openSeadragon;
+        if (!viewer.isOpen()) return;
+        clearInterval(timer);
+        viewer.viewport.fitBounds({ x: rx, y: ry, width: rw, height: rh }, false);
+      }, 200);
     }
 
     var iiifContentParam = new URLSearchParams(window.location.search).get("iiif-content");
@@ -70,31 +81,55 @@
     var insertAnchor = document.currentScript;
 
     if (!iiifContentParam) {
-      // No content state — show a blank viewer (no default manifest to guess).
       document.body.appendChild(el);
     } else {
       var state = decodeContentState(iiifContentParam);
 
       if (!state || !state.target) {
-        // Unparseable — nothing to show.
         document.body.appendChild(el);
       } else if (state.target.type === "SpecificResource") {
-        // Already in Clover's preferred format — pass straight through.
+        // Already Clover-compatible — pass through as-is.
         el.setAttribute("id", contentStateToBlobId(state));
         insertAnchor.insertAdjacentElement("afterend", el);
       } else {
-        // Simple format: target.id is a canvas URI (possibly with #xywh=),
-        // target.partOf holds the manifest. Build a SpecificResource state.
+        // Simple format: target.id is a canvas URI, possibly with #xywh= fragment.
         var target = state.target;
-        var canvasUri = (typeof target === "string") ? target : (target.id || "");
-        var manifestUrl =
-          (target.partOf && target.partOf[0] && target.partOf[0].id) || "";
+        var canvasUri  = (typeof target === "string") ? target : (target.id || "");
+        var manifestUrl = (target.partOf && target.partOf[0] && target.partOf[0].id) || "";
 
-        if (!canvasUri || !manifestUrl) {
+        // Split xywh fragment from the canvas base URI.
+        var canvasBase = canvasUri;
+        var xywhStr    = null;
+        var hashIdx    = canvasUri.indexOf("#");
+        if (hashIdx !== -1) {
+          canvasBase = canvasUri.slice(0, hashIdx);
+          var frag = canvasUri.slice(hashIdx + 1);
+          if (frag.slice(0, 5) === "xywh=") xywhStr = frag.slice(5);
+        }
+
+        if (!canvasBase || !manifestUrl) {
           document.body.appendChild(el);
         } else {
-          el.setAttribute("id", contentStateToBlobId(buildContentState(canvasUri, manifestUrl)));
+          el.setAttribute("id", contentStateToBlobId(buildContentState(canvasBase, manifestUrl)));
           insertAnchor.insertAdjacentElement("afterend", el);
+
+          // Zoom to the entry region after OSD loads.
+          if (xywhStr) {
+            var coords = xywhStr.split(",").map(Number);
+            if (coords.length === 4 && coords[2] > 0 && coords[3] > 0) {
+              fetch(manifestUrl)
+                .then(function(r) { return r.json(); })
+                .then(function(manifest) {
+                  var canvas = (manifest.items || []).find(function(c) {
+                    return c.id === canvasBase;
+                  });
+                  if (canvas && canvas.width) {
+                    scheduleOsdZoom(coords[0], coords[1], coords[2], coords[3], canvas.width);
+                  }
+                })
+                .catch(function() {});
+            }
+          }
         }
       }
     }
