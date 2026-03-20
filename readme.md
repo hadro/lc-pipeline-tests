@@ -5,6 +5,11 @@ Polish Declarations of Admiration and Friendship for the United States: Grammar 
 - Data explorer: https://hadro.github.io/lc-pipeline-tests/polish_declarations_of_admiration_and_fr_pldec.104/explorer.html
 - Files: https://github.com/hadro/lc-pipeline-tests/tree/main/polish_declarations_of_admiration_and_fr_pldec.104
 
+Wealth and pedigree of the wealthy citizens of New York City (1842):
+- Source: https://www.loc.gov/resource/gdcmassbookdig.wealthpedigreeof00beac/ 
+- Data explorer: https://hadro.github.io/lc-pipeline-tests/wealth_and_pedigree_of_the_wealthy_citiz_03008057/explorer
+- Files: https://github.com/hadro/lc-pipeline-tests/tree/main/wealth_and_pedigree_of_the_wealthy_citiz_03008057
+
 Arkansas phone book from microfilm: 
 - Source: https://www.loc.gov/item/usteledirec01083/
 - Data explorer: https://hadro.github.io/lc-pipeline-tests/arkansas_white_pages_and_yellow_pages_ca_usteledirec0/explorer
