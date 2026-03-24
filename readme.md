@@ -10,6 +10,11 @@ The "files" go to the source repo and generally include some or all of the follo
 - All OCR text (surya and Gemini) (not all repos include all OCR at this point)
 
 
+### Gazetteer of surface waters of Iowa.
+- Source: [loc.gov/item/unk82032541/](https://www.loc.gov/item/unk82032541/)
+- Data explorer: [explorer.html](https://hadro.github.io/lc-pipeline-tests/gazetteer_of_surface_waters_of_iowa_unk82032541/explorer.html)
+- Files: [steiger_s_german_american_cookbook_steig_07033856](https://github.com/hadro/lc-pipeline-tests/tree/main/gazetteer_of_surface_waters_of_iowa_unk82032541)
+
 ### Steiger's German American cookbook. Steiger's deutsch-amerikanisches kochbuch für kleinere familien. Praktische anweisung, auf deutsche weise gut, schmackhaft, abwechselnd und sparsam zu kochen. Mit berücksichtigung amerikanischer nahrungsmittel und angabe der englischen ausdrücke. (30 test pages)
 
 - Source: [loc.gov/item/07033856/](https://www.loc.gov/item/07033856/)
