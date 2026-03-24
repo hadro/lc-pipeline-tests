@@ -1,0 +1,5196 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://hadro.github.io/lc-pipeline-tests/copyright_ledgers_copyright_records_new_2022657932/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "[Copyright ledgers.] Copyright records New York Southern District,"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/1",
+      "type": "Canvas",
+      "width": 3692,
+      "height": 5799,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0001/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0001",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/1/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0001/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0001",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/1"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/2",
+      "type": "Canvas",
+      "width": 3677,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0002/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0002",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/2/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/2/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0002/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0002",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/2"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/3",
+      "type": "Canvas",
+      "width": 3601,
+      "height": 5743,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0003/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0003",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/3/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/3/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0003/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0003",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/3"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/4",
+      "type": "Canvas",
+      "width": 3629,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0004/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0004",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/4/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/4/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0004/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0004",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/4"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/5",
+      "type": "Canvas",
+      "width": 3622,
+      "height": 5750,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0005/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0005",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/5/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/5/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0005/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0005",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/5"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/6",
+      "type": "Canvas",
+      "width": 3643,
+      "height": 5757,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0006/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0006",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/6/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/6/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0006/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0006",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/6"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/7",
+      "type": "Canvas",
+      "width": 3685,
+      "height": 5764,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0007/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0007",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/7/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/7/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0007/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0007",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/7"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/8",
+      "type": "Canvas",
+      "width": 3574,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0008/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0008",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/8/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/8/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0008/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0008",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/8"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/9",
+      "type": "Canvas",
+      "width": 3643,
+      "height": 5764,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0009/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0009",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/9/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/9/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0009/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0009",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/9"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/10",
+      "type": "Canvas",
+      "width": 3629,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0010/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0010",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/10/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/10/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0010/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0010",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/10"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/11",
+      "type": "Canvas",
+      "width": 3643,
+      "height": 5743,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0011/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0011",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/11/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/11/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0011/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0011",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/11"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/12",
+      "type": "Canvas",
+      "width": 3588,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0012/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0012",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/12/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/12/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0012/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0012",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/12"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/13",
+      "type": "Canvas",
+      "width": 3657,
+      "height": 5743,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0013/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0013",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/13/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/13/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0013/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0013",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/13"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/14",
+      "type": "Canvas",
+      "width": 3588,
+      "height": 5764,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0014/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0014",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/14/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/14/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0014/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0014",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/14"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/15",
+      "type": "Canvas",
+      "width": 3657,
+      "height": 5743,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0015/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0015",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/15/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/15/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0015/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0015",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/15"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/16",
+      "type": "Canvas",
+      "width": 3594,
+      "height": 5757,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0016/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0016",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/16/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/16/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0016/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0016",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/16"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/17",
+      "type": "Canvas",
+      "width": 3657,
+      "height": 5743,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0017/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0017",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/17/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/17/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0017/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0017",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/17"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/18",
+      "type": "Canvas",
+      "width": 3594,
+      "height": 5764,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0018/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0018",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/18/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/18/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0018/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0018",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/18"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/19",
+      "type": "Canvas",
+      "width": 3657,
+      "height": 5764,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0019/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0019",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/19/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/19/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0019/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0019",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/19"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/20",
+      "type": "Canvas",
+      "width": 3608,
+      "height": 5764,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0020/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0020",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/20/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/20/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0020/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0020",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/20"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "20"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/21",
+      "type": "Canvas",
+      "width": 3678,
+      "height": 5764,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0021/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0021",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/21/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/21/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0021/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0021",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/21"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "21"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/22",
+      "type": "Canvas",
+      "width": 3581,
+      "height": 5778,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0022/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0022",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/22/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/22/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0022/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0022",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/22"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "22"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/23",
+      "type": "Canvas",
+      "width": 3657,
+      "height": 5764,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0023/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0023",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/23/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/23/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0023/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0023",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/23"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "23"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/24",
+      "type": "Canvas",
+      "width": 3588,
+      "height": 5757,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0024/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0024",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/24/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/24/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0024/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0024",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/24"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "24"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/25",
+      "type": "Canvas",
+      "width": 3671,
+      "height": 5764,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0025/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0025",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/25/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/25/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0025/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0025",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/25"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "25"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/26",
+      "type": "Canvas",
+      "width": 3594,
+      "height": 5757,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0026/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0026",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/26/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/26/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0026/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0026",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/26"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "26"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/27",
+      "type": "Canvas",
+      "width": 3671,
+      "height": 5764,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0027/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0027",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/27/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/27/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0027/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0027",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/27"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "27"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/28",
+      "type": "Canvas",
+      "width": 3581,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0028/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0028",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/28/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/28/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0028/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0028",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/28"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "28"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/29",
+      "type": "Canvas",
+      "width": 3671,
+      "height": 5750,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0029/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0029",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/29/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/29/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0029/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0029",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/29"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "29"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/30",
+      "type": "Canvas",
+      "width": 3581,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0030/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0030",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/30/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/30/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0030/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0030",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/30"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "30"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/31",
+      "type": "Canvas",
+      "width": 3692,
+      "height": 5722,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0031/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0031",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/31/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/31/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0031/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0031",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/31"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "31"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/32",
+      "type": "Canvas",
+      "width": 3594,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0032/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0032",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/32/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/32/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0032/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0032",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/32"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "32"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/33",
+      "type": "Canvas",
+      "width": 3678,
+      "height": 5757,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0033/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0033",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/33/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/33/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0033/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0033",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/33"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "33"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/34",
+      "type": "Canvas",
+      "width": 3601,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0034/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0034",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/34/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/34/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0034/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0034",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/34"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "34"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/35",
+      "type": "Canvas",
+      "width": 3678,
+      "height": 5736,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0035/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0035",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/35/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/35/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0035/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0035",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/35"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "35"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/36",
+      "type": "Canvas",
+      "width": 3608,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0036/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0036",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/36/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/36/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0036/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0036",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/36"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "36"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/37",
+      "type": "Canvas",
+      "width": 3678,
+      "height": 5736,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0037/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0037",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/37/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/37/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0037/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0037",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/37"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "37"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/38",
+      "type": "Canvas",
+      "width": 3608,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0038/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0038",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/38/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/38/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0038/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0038",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/38"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "38"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/39",
+      "type": "Canvas",
+      "width": 3678,
+      "height": 5736,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0039/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0039",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/39/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/39/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0039/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0039",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/39"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "39"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/40",
+      "type": "Canvas",
+      "width": 3636,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0040/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0040",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/40/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/40/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0040/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0040",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/40"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "40"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/41",
+      "type": "Canvas",
+      "width": 3664,
+      "height": 5729,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0041/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0041",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/41/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/41/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0041/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0041",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/41"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "41"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/42",
+      "type": "Canvas",
+      "width": 3636,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0042/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0042",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/42/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/42/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0042/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0042",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/42"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "42"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/43",
+      "type": "Canvas",
+      "width": 3706,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0043/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0043",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/43/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/43/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0043/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0043",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/43"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "43"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/44",
+      "type": "Canvas",
+      "width": 3699,
+      "height": 5792,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0044/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0044",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/44/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/44/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0044/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0044",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/44"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "44"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/45",
+      "type": "Canvas",
+      "width": 3761,
+      "height": 5813,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0045/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0045",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/45/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/45/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0045/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0045",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/45"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "45"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/46",
+      "type": "Canvas",
+      "width": 3699,
+      "height": 5778,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0046/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0046",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/46/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/46/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0046/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0046",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/46"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "46"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/47",
+      "type": "Canvas",
+      "width": 3740,
+      "height": 5792,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0047/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0047",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/47/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/47/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0047/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0047",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/47"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "47"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/48",
+      "type": "Canvas",
+      "width": 3664,
+      "height": 5778,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0048/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0048",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/48/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/48/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0048/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0048",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/48"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "48"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/49",
+      "type": "Canvas",
+      "width": 3719,
+      "height": 5764,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0049/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0049",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/49/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/49/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0049/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0049",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/49"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "49"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/50",
+      "type": "Canvas",
+      "width": 3664,
+      "height": 5778,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0050/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0050",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/50/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/50/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0050/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0050",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/50"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "50"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/51",
+      "type": "Canvas",
+      "width": 3719,
+      "height": 5764,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0051/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0051",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/51/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/51/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0051/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0051",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/51"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "51"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/52",
+      "type": "Canvas",
+      "width": 3664,
+      "height": 5750,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0052/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0052",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/52/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/52/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0052/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0052",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/52"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "52"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/53",
+      "type": "Canvas",
+      "width": 3719,
+      "height": 5764,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0053/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0053",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/53/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/53/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0053/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0053",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/53"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "53"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/54",
+      "type": "Canvas",
+      "width": 3678,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0054/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0054",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/54/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/54/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0054/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0054",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/54"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "54"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/55",
+      "type": "Canvas",
+      "width": 3733,
+      "height": 5764,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0055/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0055",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/55/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/55/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0055/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0055",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/55"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "55"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/56",
+      "type": "Canvas",
+      "width": 3678,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0056/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0056",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/56/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/56/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0056/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0056",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/56"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "56"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/57",
+      "type": "Canvas",
+      "width": 3733,
+      "height": 5764,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0057/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0057",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/57/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/57/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0057/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0057",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/57"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "57"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/58",
+      "type": "Canvas",
+      "width": 3699,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0058/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0058",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/58/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/58/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0058/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0058",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/58"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "58"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/59",
+      "type": "Canvas",
+      "width": 3733,
+      "height": 5764,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0059/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0059",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/59/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/59/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0059/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0059",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/59"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "59"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/60",
+      "type": "Canvas",
+      "width": 3692,
+      "height": 5792,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0060/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0060",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/60/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/60/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0060/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0060",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/60"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "60"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/61",
+      "type": "Canvas",
+      "width": 3733,
+      "height": 5764,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0061/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0061",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/61/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/61/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0061/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0061",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/61"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "61"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/62",
+      "type": "Canvas",
+      "width": 3678,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0062/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0062",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/62/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/62/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0062/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0062",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/62"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "62"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/63",
+      "type": "Canvas",
+      "width": 3733,
+      "height": 5764,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0063/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0063",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/63/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/63/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0063/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0063",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/63"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "63"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/64",
+      "type": "Canvas",
+      "width": 3692,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0064/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0064",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/64/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/64/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0064/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0064",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/64"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "64"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/65",
+      "type": "Canvas",
+      "width": 3733,
+      "height": 5750,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0065/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0065",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/65/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/65/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0065/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0065",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/65"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "65"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/66",
+      "type": "Canvas",
+      "width": 3678,
+      "height": 5785,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0066/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0066",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/66/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/66/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0066/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0066",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/66"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "66"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/67",
+      "type": "Canvas",
+      "width": 3754,
+      "height": 5750,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0067/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0067",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/67/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/67/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0067/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0067",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/67"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "67"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/68",
+      "type": "Canvas",
+      "width": 3650,
+      "height": 5799,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0068/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0068",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/68/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/68/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0068/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0068",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/68"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "68"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/69",
+      "type": "Canvas",
+      "width": 3747,
+      "height": 5750,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0069/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0069",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/69/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/69/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0069/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0069",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/69"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "69"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/70",
+      "type": "Canvas",
+      "width": 3664,
+      "height": 5792,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0070/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0070",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/70/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/70/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0070/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0070",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/70"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "70"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/71",
+      "type": "Canvas",
+      "width": 3747,
+      "height": 5750,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0071/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0071",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/71/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/71/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0071/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0071",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/71"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "71"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/72",
+      "type": "Canvas",
+      "width": 3664,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0072/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0072",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/72/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/72/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0072/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0072",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/72"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "72"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/73",
+      "type": "Canvas",
+      "width": 3747,
+      "height": 5750,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0073/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0073",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/73/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/73/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0073/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0073",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/73"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "73"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/74",
+      "type": "Canvas",
+      "width": 3678,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0074/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0074",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/74/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/74/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0074/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0074",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/74"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "74"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/75",
+      "type": "Canvas",
+      "width": 3747,
+      "height": 5750,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0075/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0075",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/75/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/75/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0075/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0075",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/75"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "75"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/76",
+      "type": "Canvas",
+      "width": 3650,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0076/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0076",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/76/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/76/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0076/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0076",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/76"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "76"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/77",
+      "type": "Canvas",
+      "width": 3754,
+      "height": 5736,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0077/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0077",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/77/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/77/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0077/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0077",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/77"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "77"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/78",
+      "type": "Canvas",
+      "width": 3685,
+      "height": 5792,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0078/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0078",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/78/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/78/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0078/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0078",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/78"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "78"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/79",
+      "type": "Canvas",
+      "width": 3740,
+      "height": 5750,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0079/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0079",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/79/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/79/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0079/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0079",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/79"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "79"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/80",
+      "type": "Canvas",
+      "width": 3692,
+      "height": 5792,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0080/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0080",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/80/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/80/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0080/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0080",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/80"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "80"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/81",
+      "type": "Canvas",
+      "width": 3740,
+      "height": 5750,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0081/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0081",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/81/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/81/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0081/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0081",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/81"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "81"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/82",
+      "type": "Canvas",
+      "width": 3671,
+      "height": 5792,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0082/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0082",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/82/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/82/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0082/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0082",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/82"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "82"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/83",
+      "type": "Canvas",
+      "width": 3740,
+      "height": 5750,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0083/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0083",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/83/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/83/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0083/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0083",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/83"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "83"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/84",
+      "type": "Canvas",
+      "width": 3671,
+      "height": 5792,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0084/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0084",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/84/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/84/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0084/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0084",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/84"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "84"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/85",
+      "type": "Canvas",
+      "width": 3740,
+      "height": 5750,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0085/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0085",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/85/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/85/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0085/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0085",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/85"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "85"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/86",
+      "type": "Canvas",
+      "width": 3692,
+      "height": 5792,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0086/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0086",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/86/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/86/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0086/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0086",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/86"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "86"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/87",
+      "type": "Canvas",
+      "width": 3789,
+      "height": 5757,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0087/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0087",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/87/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/87/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0087/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0087",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/87"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "87"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/88",
+      "type": "Canvas",
+      "width": 3671,
+      "height": 5792,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0088/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0088",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/88/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/88/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0088/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0088",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/88"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "88"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/89",
+      "type": "Canvas",
+      "width": 3789,
+      "height": 5757,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0089/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0089",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/89/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/89/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0089/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0089",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/89"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "89"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/90",
+      "type": "Canvas",
+      "width": 3671,
+      "height": 5792,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0090/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0090",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/90/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/90/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0090/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0090",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/90"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "90"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/91",
+      "type": "Canvas",
+      "width": 3754,
+      "height": 5757,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0091/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0091",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/91/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/91/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0091/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0091",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/91"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "91"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/92",
+      "type": "Canvas",
+      "width": 3650,
+      "height": 5806,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0092/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0092",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/92/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/92/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0092/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0092",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/92"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "92"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/93",
+      "type": "Canvas",
+      "width": 3789,
+      "height": 5757,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0093/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0093",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/93/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/93/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0093/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0093",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/93"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "93"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/94",
+      "type": "Canvas",
+      "width": 3650,
+      "height": 5806,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0094/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0094",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/94/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/94/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0094/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0094",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/94"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "94"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/95",
+      "type": "Canvas",
+      "width": 3817,
+      "height": 5778,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0095/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0095",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/95/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/95/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0095/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0095",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/95"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "95"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/96",
+      "type": "Canvas",
+      "width": 3615,
+      "height": 5792,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0096/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0096",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/96/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/96/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0096/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0096",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/96"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "96"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/97",
+      "type": "Canvas",
+      "width": 3858,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0097/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0097",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/97/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/97/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0097/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0097",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/97"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "97"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/98",
+      "type": "Canvas",
+      "width": 3615,
+      "height": 5792,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0098/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0098",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/98/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/98/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0098/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0098",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/98"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "98"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/99",
+      "type": "Canvas",
+      "width": 3851,
+      "height": 5792,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0099/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0099",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/99/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/99/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0099/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0099",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/99"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "99"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/100",
+      "type": "Canvas",
+      "width": 3622,
+      "height": 5799,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0100/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0100",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/100/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/100/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0100/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0100",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/100"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "100"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/101",
+      "type": "Canvas",
+      "width": 3831,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0101/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0101",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/101/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/101/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0101/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0101",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/101"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "101"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/102",
+      "type": "Canvas",
+      "width": 3560,
+      "height": 5785,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0102/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0102",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/102/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/102/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0102/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0102",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/102"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "102"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/103",
+      "type": "Canvas",
+      "width": 3817,
+      "height": 5771,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0103/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0103",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/103/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/103/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0103/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0103",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/103"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "103"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/104",
+      "type": "Canvas",
+      "width": 3588,
+      "height": 5806,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0104/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0104",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/104/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/104/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0104/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0104",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/104"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "104"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/105",
+      "type": "Canvas",
+      "width": 3838,
+      "height": 5764,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0105/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0105",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/105/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/105/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0105/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0105",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/105"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "105"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/106",
+      "type": "Canvas",
+      "width": 3567,
+      "height": 5806,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0106/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0106",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/106/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/106/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0106/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0106",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/106"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "106"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/107",
+      "type": "Canvas",
+      "width": 3657,
+      "height": 5785,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0107/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0107",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/107/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/107/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0107/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0107",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/107"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "107"
+        ]
+      }
+    },
+    {
+      "id": "https://www.loc.gov/item/2022657932/canvas/108",
+      "type": "Canvas",
+      "width": 3685,
+      "height": 5806,
+      "thumbnail": [
+        {
+          "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0108/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0108",
+              "type": "ImageService3"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.loc.gov/item/2022657932/canvas/108/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://www.loc.gov/item/2022657932/canvas/108/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0108/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbccopyledger:copy0375:0108",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://www.loc.gov/item/2022657932/canvas/108"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "108"
+        ]
+      }
+    }
+  ]
+}
