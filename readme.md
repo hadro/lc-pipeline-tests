@@ -1,4 +1,21 @@
-## Examples:
+## LC Examples run through the pipeline:
+
+Many of the items below are only partial tests, 30-40 pages. 
+
+The "files" go to the source repo and generally include some or all of the following generated for any given volume:
+- OCR prompt used
+- NER prompt used
+- Raw structured data extraction CSV
+- Data explorer html file
+- All OCR text (surya and Gemini) (not all repos include all OCR at this point)
+
+
+### Steiger's German American cookbook. Steiger's deutsch-amerikanisches kochbuch für kleinere familien. Praktische anweisung, auf deutsche weise gut, schmackhaft, abwechselnd und sparsam zu kochen. Mit berücksichtigung amerikanischer nahrungsmittel und angabe der englischen ausdrücke. (30 test pages)
+
+- Source: [loc.gov/item/07033856/](https://www.loc.gov/item/07033856/)
+- Data explorer: [explorer.html](https://hadro.github.io/lc-pipeline-tests/steiger_s_german_american_cookbook_steig_07033856/explorer.html)
+- Files: [steiger_s_german_american_cookbook_steig_07033856](https://github.com/hadro/lc-pipeline-tests/tree/main/steiger_s_german_american_cookbook_steig_07033856)
+
 
 ### Polish Declarations of Admiration and Friendship for the United States: Grammar and elementary schools; Miscellaneous; Volume 104 (30 test pages)
 - Source: [loc.gov/item/pldec.104/](https://www.loc.gov/item/pldec.104/)
@@ -34,9 +51,3 @@
 - Source: [loc.gov/resource/sn83030313/1847-04-30/ed-1/](https://www.loc.gov/resource/sn83030313/1847-04-30/ed-1/?st=gallery)
 - Files: [the_new_york_herald_new_york_n_y_1840_19_sn83030313](https://github.com/hadro/lc-pipeline-tests/tree/main/the_new_york_herald_new_york_n_y_1840_19_sn83030313)
 
-The repos above include some or all of the following:
-- OCR prompt used (for Gemini)
-- NER prompt used (for Gemini)
-- Data explorer html file
-- Raw structured data extraction CSV
-- All OCR text (surya and Gemini) (not all repos include all OCR at this point)
