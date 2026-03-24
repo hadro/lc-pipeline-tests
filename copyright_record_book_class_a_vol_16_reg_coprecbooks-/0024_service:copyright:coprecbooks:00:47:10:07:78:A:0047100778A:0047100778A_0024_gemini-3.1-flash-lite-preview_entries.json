@@ -1,0 +1,37 @@
+{
+  "image": "0024_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0024.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "registration_class": "A",
+    "registration_number": "10009"
+  },
+  "page_context": {
+    "registration_class": "A",
+    "registration_number": "10009"
+  },
+  "entries": [
+    {
+      "registration_class": "A",
+      "registration_number": "10009",
+      "form_type": "AFFIDAVIT",
+      "affidavit_state": "Massachusetts",
+      "affidavit_county": "Suffolk",
+      "printing_establishment": {
+        "name": "Ginn & Company",
+        "city": "Cambridge",
+        "state": "Massachusetts"
+      },
+      "binding_establishment": {
+        "name": "Little, Brown & Company",
+        "city": "Cambridge",
+        "state": "Massachusetts"
+      },
+      "date_of_publication": "January 22, 1947",
+      "affiant_name": "Richard F. Robustan",
+      "notarization_date": "January 22, 1947",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0024",
+      "image": "0024_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0024.jpg"
+    }
+  ]
+}

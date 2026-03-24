@@ -1,0 +1,57 @@
+{
+  "image": "0041_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0041.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "registration_class": "A",
+    "registration_number": "10017"
+  },
+  "page_context": {
+    "registration_class": "A",
+    "registration_number": "10018"
+  },
+  "entries": [
+    {
+      "registration_class": "A",
+      "registration_number": "10018",
+      "form_type": "APPLICATION",
+      "title_of_book": "THE BRITISH PEOPLE 1746-1946",
+      "copyright_owners": [
+        {
+          "name": "G.D.H. Cole",
+          "address": "Freeland, Holders Hill Road, Hendon N. W. 4, London, England"
+        },
+        {
+          "name": "Raymond Postgate",
+          "address": "45 Hendon Lane, London N. 3, England"
+        }
+      ],
+      "authors": [
+        {
+          "name": "Raymond Postgate",
+          "citizenship": "British",
+          "domicile": "45 Hendon Lane, London N. 3, England",
+          "birth_year": "1896"
+        },
+        {
+          "name": "George Douglas Howard Cole",
+          "citizenship": "British",
+          "domicile": "Freeland Holders Hill Road, Hendon N.W.4, London, England",
+          "birth_year": "1889"
+        }
+      ],
+      "retail_price": "$5.00",
+      "book_edition_type": "new edition",
+      "send_certificate_to": {
+        "name": "ALFRED A. KNOPF, INC.",
+        "address": "501 Madison Avenue, New York, N. Y."
+      },
+      "office_use": {
+        "application_received_date": "JAN 24 1947",
+        "copies_received_date": "JAN 25 1947"
+      },
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0041",
+      "image": "0041_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0041.jpg"
+    }
+  ]
+}

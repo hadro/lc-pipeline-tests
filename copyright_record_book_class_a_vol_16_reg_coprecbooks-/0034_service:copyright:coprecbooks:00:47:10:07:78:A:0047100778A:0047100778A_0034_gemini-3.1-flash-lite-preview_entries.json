@@ -1,0 +1,37 @@
+{
+  "image": "0034_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0034.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "registration_class": "A",
+    "registration_number": "100141"
+  },
+  "page_context": {
+    "registration_class": "A",
+    "registration_number": "100141"
+  },
+  "entries": [
+    {
+      "registration_class": "A",
+      "registration_number": "100141",
+      "form_type": "AFFIDAVIT",
+      "affidavit_state": "New York",
+      "affidavit_county": "New York",
+      "printing_establishment": {
+        "name": "The Hamilton Printing Company",
+        "city": "Albany",
+        "state": "New York"
+      },
+      "binding_establishment": {
+        "name": "Montauk Bookbinding Corporation",
+        "city": "New York",
+        "state": "New York"
+      },
+      "date_of_publication": "January 21, 1947",
+      "affiant_name": "Faulkner Lewis",
+      "notarization_date": "January 21, 1947",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0034",
+      "image": "0034_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0034.jpg"
+    }
+  ]
+}

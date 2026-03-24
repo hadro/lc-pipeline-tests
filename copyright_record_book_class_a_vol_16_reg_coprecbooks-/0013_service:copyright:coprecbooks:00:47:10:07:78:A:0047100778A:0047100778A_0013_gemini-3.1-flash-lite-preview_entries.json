@@ -1,0 +1,54 @@
+{
+  "image": "0013_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0013.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "registration_class": "A",
+    "registration_number": "10003"
+  },
+  "page_context": {
+    "registration_class": "A",
+    "registration_number": "10004"
+  },
+  "entries": [
+    {
+      "registration_class": "A",
+      "registration_number": "10004",
+      "form_type": "APPLICATION",
+      "title_of_book": "DANDY THE DECOY",
+      "copyright_owners": [
+        {
+          "name": "EMILY KEECH",
+          "address": "224 Crosshill Road, Penn Wynne, Philadelphia 3, Pennsylvania"
+        },
+        {
+          "name": "EMILY CAMPION",
+          "address": "224 Crosshill Road, Penn Wynne, Philadelphia 3, Pennsylvania"
+        }
+      ],
+      "authors": [
+        {
+          "name": "EMILY KEECH",
+          "citizenship": "United States",
+          "domicile": "224 Crosshill Road, Penn Wynne, Philadelphia 3, Pa."
+        },
+        {
+          "name": "Emily Campion",
+          "citizenship": "United States",
+          "domicile": "224 Crosshill Road, Penn Wynne, Philadelphia 3, Pa."
+        }
+      ],
+      "retail_price": "1.00",
+      "send_certificate_to": {
+        "name": "RINEHART & COMPANY, INC. ATTENTION M. J. REEGE",
+        "address": "232 Madison Avenue, New York 16, New York"
+      },
+      "office_use": {
+        "application_received_date": "JAN-3 1947",
+        "copies_received_date": "AUG 24 1946"
+      },
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0013",
+      "image": "0013_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0013.jpg"
+    }
+  ]
+}

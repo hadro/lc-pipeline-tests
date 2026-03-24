@@ -1,0 +1,37 @@
+{
+  "image": "0018_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0018.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "registration_class": "A",
+    "registration_number": "10006"
+  },
+  "page_context": {
+    "registration_class": "A",
+    "registration_number": "10006"
+  },
+  "entries": [
+    {
+      "registration_class": "A",
+      "registration_number": "10006",
+      "form_type": "AFFIDAVIT",
+      "affidavit_state": "California",
+      "affidavit_county": "Alameda",
+      "printing_establishment": {
+        "name": "COLOR ART PRESS",
+        "city": "Oakland",
+        "state": "California"
+      },
+      "binding_establishment": {
+        "name": "COLOR ART PRESS",
+        "city": "Oakland",
+        "state": "California"
+      },
+      "date_of_publication": "December 17, 1946",
+      "affiant_name": "HENRY M. BINDT",
+      "notarization_date": "January 10, 1947",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0018",
+      "image": "0018_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0018.jpg"
+    }
+  ]
+}

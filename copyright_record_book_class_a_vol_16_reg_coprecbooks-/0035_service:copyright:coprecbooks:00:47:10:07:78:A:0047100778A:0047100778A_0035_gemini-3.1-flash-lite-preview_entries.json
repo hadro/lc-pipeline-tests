@@ -1,0 +1,50 @@
+{
+  "image": "0035_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0035.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "registration_class": "A",
+    "registration_number": "100141"
+  },
+  "page_context": {
+    "registration_class": "A",
+    "registration_number": "10015"
+  },
+  "entries": [
+    {
+      "registration_class": "A",
+      "registration_number": "10015",
+      "form_type": "APPLICATION",
+      "title_of_book": "ALEXANDRA KOLLANTAY AMBASSADRESS FROM RUSSIA",
+      "copyright_owners": [
+        {
+          "name": "Isabel de Palencia",
+          "address": "9 Plaza Jorge Washington, Mexico City, Mexico, D.F."
+        }
+      ],
+      "authors": [
+        {
+          "name": "Isabel de Palencia",
+          "citizenship": "Mexico",
+          "domicile": "9 Plaza Jorge Washington, Mexico City, Mexico, D.F."
+        }
+      ],
+      "retail_price": "3.50",
+      "send_certificate_to": {
+        "name": "M.Gaignat - Longmans, Green and Co., Inc.",
+        "address": "55 Fifth Avenue, New York 3, N. Y."
+      },
+      "office_use": {
+        "application_received_date": "JAN 23 1947",
+        "copies_received_date": "JAN-9 1947",
+        "remittance": {
+          "number": "7086",
+          "date": "JAN27'41",
+          "amount": "$2.00"
+        }
+      },
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0035",
+      "image": "0035_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0035.jpg"
+    }
+  ]
+}

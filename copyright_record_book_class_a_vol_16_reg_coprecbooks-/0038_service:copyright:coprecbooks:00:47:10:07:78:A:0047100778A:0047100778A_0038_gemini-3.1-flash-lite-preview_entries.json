@@ -1,0 +1,37 @@
+{
+  "image": "0038_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0038.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "registration_class": "A",
+    "registration_number": "P-593440"
+  },
+  "page_context": {
+    "registration_class": "A",
+    "registration_number": "P-593440"
+  },
+  "entries": [
+    {
+      "registration_class": "A",
+      "registration_number": "P-593440",
+      "form_type": "AFFIDAVIT",
+      "affidavit_state": "New York",
+      "affidavit_county": "New York",
+      "printing_establishment": {
+        "name": "The Maple Press",
+        "city": "York",
+        "state": "Pennsylvania"
+      },
+      "binding_establishment": {
+        "name": "Moore and Company",
+        "city": "Baltimore",
+        "state": "Maryland"
+      },
+      "date_of_publication": "January 20, 1947",
+      "affiant_name": "E. Trevor Hill, Treasurer (for Farrar, Straus and Company, Inc.)",
+      "notarization_date": "January 20, 1947",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0038",
+      "image": "0038_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0038.jpg"
+    }
+  ]
+}

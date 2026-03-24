@@ -1,0 +1,52 @@
+{
+  "image": "0021_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0021.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "registration_class": "A",
+    "registration_number": "10007"
+  },
+  "page_context": {
+    "registration_class": "A",
+    "registration_number": "10008"
+  },
+  "entries": [
+    {
+      "registration_class": "A",
+      "registration_number": "10008",
+      "form_type": "APPLICATION",
+      "title_of_book": "THURLOW WEED: WIZARD OF THE LOBBY",
+      "copyright_owners": [
+        {
+          "name": "Glyndon G. Van Deusen",
+          "address": "University of Rochester, Rochester, New York"
+        }
+      ],
+      "authors": [
+        {
+          "name": "Glyndon G. Van Deusen",
+          "citizenship": "United States",
+          "domicile": "University of Rochester, Rochester, New York",
+          "birth_year": "1897",
+          "death_year": null
+        }
+      ],
+      "retail_price": "$4.00",
+      "send_certificate_to": {
+        "name": "Little, Brown & Company",
+        "address": "34 Beacon Street, Boston 6, Massachusetts"
+      },
+      "office_use": {
+        "application_received_date": "JAN 23 1947",
+        "copies_received_date": "DEC - 6 1946",
+        "remittance": {
+          "number": "6816",
+          "date": "JAN 27 1947",
+          "amount": "$2.00"
+        }
+      },
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0021",
+      "image": "0021_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0021.jpg"
+    }
+  ]
+}

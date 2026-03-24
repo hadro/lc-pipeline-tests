@@ -1,0 +1,37 @@
+{
+  "image": "0014_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0014.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "registration_class": "A",
+    "registration_number": "10004"
+  },
+  "page_context": {
+    "registration_class": "A",
+    "registration_number": "10004"
+  },
+  "entries": [
+    {
+      "registration_class": "A",
+      "registration_number": "10004",
+      "form_type": "AFFIDAVIT",
+      "affidavit_state": "NEW YORK",
+      "affidavit_county": "NEW YORK",
+      "printing_establishment": {
+        "name": "Kellogg, Bulkley Company",
+        "city": "Hartford",
+        "state": "Connecticut"
+      },
+      "binding_establishment": {
+        "name": "H. Wolff Bindery",
+        "city": "New York",
+        "state": "New York"
+      },
+      "date_of_publication": "December 31, 1946",
+      "affiant_name": "Frederick Rinehart",
+      "notarization_date": "December 31, 1946",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0014",
+      "image": "0014_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0014.jpg"
+    }
+  ]
+}

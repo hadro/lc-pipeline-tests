@@ -1,0 +1,56 @@
+{
+  "image": "0005_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0005.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {},
+  "page_context": {
+    "registration_class": "A",
+    "registration_number": "59400"
+  },
+  "entries": [
+    {
+      "registration_class": "A",
+      "registration_number": "59400",
+      "form_type": "APPLICATION",
+      "title_of_book": "RIMES OF A REPORTER",
+      "copyright_owners": [
+        {
+          "name": "Florence M. Fitchett",
+          "address": "Manchester, Wash."
+        }
+      ],
+      "authors": [
+        {
+          "name": "Carlton Fitchett",
+          "citizenship": "U.S.",
+          "domicile": "Deceased",
+          "birth_year": "1886",
+          "death_year": "1946"
+        },
+        {
+          "name": "George Milton Savage, Jr.",
+          "citizenship": "U.S.",
+          "domicile": "5526 17th N. E., Seattle, Wash.",
+          "birth_year": "1904",
+          "death_year": null
+        }
+      ],
+      "retail_price": "$2.50",
+      "send_certificate_to": {
+        "name": "SUPERIOR PUBLISHING COMPANY",
+        "address": "2603 Third Ave., Seattle, Wash."
+      },
+      "office_use": {
+        "application_received_date": "DEC 21 1946",
+        "copies_received_date": "DEC 22 1946",
+        "remittance": {
+          "number": "7399",
+          "date": "DEC24'46",
+          "amount": "$2.00"
+        }
+      },
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0005",
+      "image": "0005_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0005.jpg"
+    }
+  ]
+}

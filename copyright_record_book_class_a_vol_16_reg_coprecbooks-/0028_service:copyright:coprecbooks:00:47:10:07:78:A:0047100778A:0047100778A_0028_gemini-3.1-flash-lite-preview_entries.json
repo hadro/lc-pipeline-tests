@@ -1,0 +1,37 @@
+{
+  "image": "0028_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0028.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "registration_class": "A",
+    "registration_number": "10011"
+  },
+  "page_context": {
+    "registration_class": "A",
+    "registration_number": "10011"
+  },
+  "entries": [
+    {
+      "registration_class": "A",
+      "registration_number": "10011",
+      "form_type": "AFFIDAVIT",
+      "affidavit_state": "ILLINOIS",
+      "affidavit_county": "COOK",
+      "printing_establishment": {
+        "name": "Western Newspaper Union",
+        "city": "Chicago",
+        "state": "Illinois"
+      },
+      "binding_establishment": {
+        "name": "Western Newspaper Union",
+        "city": "Chicago",
+        "state": "Illinois"
+      },
+      "date_of_publication": "January 1, 1947",
+      "affiant_name": "Patrick Francis Sullivan",
+      "notarization_date": "January 16, 1947",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0028",
+      "image": "0028_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0028.jpg"
+    }
+  ]
+}

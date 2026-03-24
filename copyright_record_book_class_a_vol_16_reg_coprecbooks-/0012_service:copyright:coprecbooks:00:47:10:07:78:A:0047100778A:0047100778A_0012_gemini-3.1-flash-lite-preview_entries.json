@@ -1,0 +1,37 @@
+{
+  "image": "0012_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0012.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "registration_class": "A",
+    "registration_number": "10003"
+  },
+  "page_context": {
+    "registration_class": "A",
+    "registration_number": "10003"
+  },
+  "entries": [
+    {
+      "registration_class": "A",
+      "registration_number": "10003",
+      "form_type": "AFFIDAVIT",
+      "affidavit_state": "NEW YORK",
+      "affidavit_county": "NEW YORK",
+      "printing_establishment": {
+        "name": "FERRIS PRINTING COMPANY",
+        "city": "NEW YORK",
+        "state": "NEW YORK"
+      },
+      "binding_establishment": {
+        "name": "CHARLES H. BOHN COMPANY",
+        "city": "NEW YORK",
+        "state": "NEW YORK"
+      },
+      "date_of_publication": "JANUARY 9, 1947",
+      "affiant_name": "Frederick Rinehart",
+      "notarization_date": "JANUARY 10, 1947",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0012",
+      "image": "0012_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0012.jpg"
+    }
+  ]
+}

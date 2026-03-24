@@ -1,0 +1,49 @@
+{
+  "image": "0009_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0009.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "registration_class": "A",
+    "registration_number": "R-585083"
+  },
+  "page_context": {
+    "registration_class": "A",
+    "registration_number": "10002"
+  },
+  "entries": [
+    {
+      "registration_class": "A",
+      "registration_number": "10002",
+      "form_type": "APPLICATION",
+      "title_of_book": "ESSAY ON MARRIAGE",
+      "copyright_owners": [
+        {
+          "name": "ANNE FINCH",
+          "address": "44 MUSEUM STREET, LONDON, W.C. 1, ENGLAND"
+        }
+      ],
+      "authors": [
+        {
+          "name": "ANNE FINCH",
+          "citizenship": "GREAT BRITAIN",
+          "domicile": "44 MUSEUM STREET, LONDON, WC 1, ENG.",
+          "birth_year": "1908",
+          "death_year": null
+        }
+      ],
+      "retail_price": "$1.00",
+      "book_edition_type": "United States edition of a book first published abroad on (Date) JUNE 19, 1946. in the English language and registered under Ad Interim No. 307",
+      "send_certificate_to": {
+        "name": "RINEHART & COMPANY, INCORPORATED ATTN: MARGUERITE J. REESE",
+        "address": "232 MADISON AVENUE, NEW YORK 16, NEW YORK"
+      },
+      "office_use": {
+        "application_received_date": "JAN 12 1947",
+        "copies_received_date": "OCT 22 1946",
+        "remittance": null
+      },
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0009",
+      "image": "0009_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0009.jpg"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "image": "0039_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0039.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "registration_class": "A",
+    "registration_number": "P-593440"
+  },
+  "page_context": {
+    "registration_class": "A",
+    "registration_number": "10017"
+  },
+  "entries": [
+    {
+      "registration_class": "A",
+      "registration_number": "10017",
+      "form_type": "APPLICATION",
+      "title_of_book": "THE MODERN HOYLE--1947",
+      "copyright_owners": [
+        {
+          "name": "POCKET BOOKS, INC.",
+          "address": "1230 Sixth Avenue, New York 20, New York"
+        }
+      ],
+      "authors": [
+        {
+          "name": "Albert H. Morehead",
+          "citizenship": "U.S.A.",
+          "domicile": "Glenside, Pennsylvania",
+          "birth_year": "1906",
+          "death_year": null
+        }
+      ],
+      "retail_price": "$2.00",
+      "book_edition_type": "new edition",
+      "send_certificate_to": {
+        "name": "THE JOHN C. WINSTON COMPANY, TRADE DEPARTMENT",
+        "address": "1010 ARCH STREET, PHILADELPHIA 7, PENNSYLVANIA"
+      },
+      "office_use": {
+        "application_received_date": "JAN 26 1947",
+        "copies_received_date": "JAN 24 1947"
+      },
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0039",
+      "image": "0039_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0039.jpg"
+    }
+  ]
+}

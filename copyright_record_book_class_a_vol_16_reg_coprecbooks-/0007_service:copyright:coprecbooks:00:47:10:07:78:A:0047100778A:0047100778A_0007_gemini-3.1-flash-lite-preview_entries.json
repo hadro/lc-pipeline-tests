@@ -1,0 +1,49 @@
+{
+  "image": "0007_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0007.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "registration_class": "A",
+    "registration_number": "59400"
+  },
+  "page_context": {
+    "registration_class": "A",
+    "registration_number": "R-585083"
+  },
+  "entries": [
+    {
+      "registration_class": "A",
+      "registration_number": "R-585083",
+      "form_type": "APPLICATION",
+      "title_of_book": "THE UNEXPECTED WARRIOR",
+      "copyright_owners": [
+        {
+          "name": "ERIC HATCH",
+          "address": "SMITHTOWN BRANCH, LONG ISLAND, NEW YORK"
+        }
+      ],
+      "authors": [
+        {
+          "name": "ERIC HATCH",
+          "citizenship": "UNITED STATES",
+          "domicile": "SMITHTOWN BRANCH, LONG ISLAND, N.Y.",
+          "birth_year": "1901",
+          "death_year": null
+        }
+      ],
+      "retail_price": "$2.00",
+      "book_edition_type": "A serial republished in book form with new matter.",
+      "send_certificate_to": {
+        "name": "RINEHART & COMPANY, INCORPORATED ATTN: MISS. MARGUERITE J. REESE",
+        "address": "232 MADISON AVENUE, NEW YORK 16, NEW YORK"
+      },
+      "office_use": {
+        "application_received_date": "JAN 12 1947",
+        "copies_received_date": "NOV 20 1946",
+        "remittance": null
+      },
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0007",
+      "image": "0007_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0007.jpg"
+    }
+  ]
+}

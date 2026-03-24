@@ -1,0 +1,37 @@
+{
+  "image": "0020_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0020.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "registration_class": "A",
+    "registration_number": "10007"
+  },
+  "page_context": {
+    "registration_class": "A",
+    "registration_number": "10007"
+  },
+  "entries": [
+    {
+      "registration_class": "A",
+      "registration_number": "10007",
+      "form_type": "AFFIDAVIT",
+      "affidavit_state": "Wisconsin",
+      "affidavit_county": "Milwaukee",
+      "printing_establishment": {
+        "name": "The Bruce Publishing Company",
+        "city": "Milwaukee",
+        "state": "Wisconsin"
+      },
+      "binding_establishment": {
+        "name": "Boehm Bindery",
+        "city": "Milwaukee",
+        "state": "Wisconsin"
+      },
+      "date_of_publication": "January 15, 1947",
+      "affiant_name": "Wm. George Bruce, President",
+      "notarization_date": "January 15, 1947",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0020",
+      "image": "0020_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0020.jpg"
+    }
+  ]
+}

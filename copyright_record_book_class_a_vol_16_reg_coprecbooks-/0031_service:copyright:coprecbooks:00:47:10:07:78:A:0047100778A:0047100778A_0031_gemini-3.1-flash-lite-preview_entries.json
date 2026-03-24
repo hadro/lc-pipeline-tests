@@ -1,0 +1,52 @@
+{
+  "image": "0031_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0031.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "registration_class": "A",
+    "registration_number": "10012"
+  },
+  "page_context": {
+    "registration_class": "A",
+    "registration_number": "10013"
+  },
+  "entries": [
+    {
+      "registration_class": "A",
+      "registration_number": "10013",
+      "form_type": "APPLICATION",
+      "title_of_book": "COMFORT YE MY PEOPLE",
+      "copyright_owners": [
+        {
+          "name": "The Macmillan Company",
+          "address": "60 Fifth Avenue, New York 11, New York"
+        }
+      ],
+      "authors": [
+        {
+          "name": "Russell L. Dicks",
+          "citizenship": "United States",
+          "domicile": "250 East Superior Street, Chicago 11, Illinois",
+          "birth_year": null,
+          "death_year": null
+        }
+      ],
+      "retail_price": "$1.25",
+      "send_certificate_to": {
+        "name": "The Macmillan Company",
+        "address": "60 Fifth Avenue, New York 11, New York"
+      },
+      "office_use": {
+        "application_received_date": "JAN 23 1947",
+        "copies_received_date": "JAN 22 1947",
+        "remittance": {
+          "number": "7029",
+          "date": "JAN247",
+          "amount": "$2.00"
+        }
+      },
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0031",
+      "image": "0031_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0031.jpg"
+    }
+  ]
+}

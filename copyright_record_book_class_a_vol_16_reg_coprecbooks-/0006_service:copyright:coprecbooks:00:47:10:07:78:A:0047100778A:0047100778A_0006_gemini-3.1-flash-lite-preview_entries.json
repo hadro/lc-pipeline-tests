@@ -1,0 +1,37 @@
+{
+  "image": "0006_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0006.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "registration_class": "A",
+    "registration_number": "59400"
+  },
+  "page_context": {
+    "registration_class": "A",
+    "registration_number": "59400"
+  },
+  "entries": [
+    {
+      "registration_class": "A",
+      "registration_number": "59400",
+      "form_type": "AFFIDAVIT",
+      "affidavit_state": "Washington",
+      "affidavit_county": "King",
+      "printing_establishment": {
+        "name": "Metropolitan Press Printing Co.",
+        "city": "Seattle",
+        "state": "Wash."
+      },
+      "binding_establishment": {
+        "name": "Ward's Bindery",
+        "city": "Seattle",
+        "state": "Wash."
+      },
+      "date_of_publication": "December 10, 1946",
+      "affiant_name": "Max Wells",
+      "notarization_date": "December 16, 1946",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0006",
+      "image": "0006_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0006.jpg"
+    }
+  ]
+}

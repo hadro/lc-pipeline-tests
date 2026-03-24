@@ -1,0 +1,52 @@
+{
+  "image": "0027_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0027.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "registration_class": "A",
+    "registration_number": "10010"
+  },
+  "page_context": {
+    "registration_class": "A",
+    "registration_number": "10011"
+  },
+  "entries": [
+    {
+      "registration_class": "A",
+      "registration_number": "10011",
+      "form_type": "APPLICATION",
+      "title_of_book": "CHICAGO BUILDING TRADES MANUAL, VOLUME 13, 1947",
+      "copyright_owners": [
+        {
+          "name": "THE CHICAGO AND COOK COUNTY BUILDING AND CONSTRUCTION TRADES COUNCIL",
+          "address": "130 North Wells Street, Chicago, Illinois"
+        }
+      ],
+      "authors": [
+        {
+          "name": "PATRICK FRANCIS SULLIVAN",
+          "citizenship": "United States",
+          "domicile": "Chicago, Illinois",
+          "birth_year": "1879",
+          "death_year": null
+        }
+      ],
+      "book_edition_type": "new edition",
+      "send_certificate_to": {
+        "name": "Emory J. Smith",
+        "address": "38 South Dearborn Street, Chicago 3, Illinois"
+      },
+      "office_use": {
+        "application_received_date": "JAN 19 1947",
+        "copies_received_date": "JAN 19 1947",
+        "remittance": {
+          "number": "6934",
+          "date": "JAN27'47",
+          "amount": "$2.00"
+        }
+      },
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0027",
+      "image": "0027_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0027.jpg"
+    }
+  ]
+}

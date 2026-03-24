@@ -1,0 +1,49 @@
+{
+  "image": "0033_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0033.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "registration_class": "A",
+    "registration_number": "10013"
+  },
+  "page_context": {
+    "registration_class": "A",
+    "registration_number": "100141"
+  },
+  "entries": [
+    {
+      "registration_class": "A",
+      "registration_number": "100141",
+      "form_type": "APPLICATION",
+      "title_of_book": "THE WEB OF GOVERNMENT",
+      "copyright_owners": [
+        {
+          "name": "Robert M. MacIver",
+          "address": "Palisades, New York"
+        }
+      ],
+      "authors": [
+        {
+          "name": "R. M. MacIver",
+          "citizenship": "United States",
+          "domicile": "Palisades, New York"
+        }
+      ],
+      "retail_price": "4.50",
+      "send_certificate_to": {
+        "name": "The Macmillan Company",
+        "address": "60 Fifth Avenue, New York 11, New York"
+      },
+      "office_use": {
+        "application_received_date": "JAN 23 1947",
+        "copies_received_date": "JAN-8 1947",
+        "remittance": {
+          "number": "7029 JAN2747",
+          "amount": "$2.00"
+        }
+      },
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0033",
+      "image": "0033_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0033.jpg"
+    }
+  ]
+}

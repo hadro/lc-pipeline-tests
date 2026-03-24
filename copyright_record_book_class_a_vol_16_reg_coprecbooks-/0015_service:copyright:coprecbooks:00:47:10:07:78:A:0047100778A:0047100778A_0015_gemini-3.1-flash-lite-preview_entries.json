@@ -1,0 +1,43 @@
+{
+  "image": "0015_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0015.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "registration_class": "A",
+    "registration_number": "10004"
+  },
+  "page_context": {
+    "registration_class": "A",
+    "registration_number": "10005"
+  },
+  "entries": [
+    {
+      "registration_class": "A",
+      "registration_number": "10005",
+      "form_type": "APPLICATION",
+      "title_of_book": "P-H Federal Tax Report Bulletin Vol. 28, No. 1",
+      "copyright_owners": [
+        {
+          "name": "Prentice-Hall, Inc.",
+          "address": "70 Fifth Avenue, New York City, New York"
+        }
+      ],
+      "authors": [
+        {
+          "name": "Prentice-Hall, Inc.",
+          "citizenship": "U.S.A."
+        }
+      ],
+      "send_certificate_to": {
+        "name": "Prentice-Hall, Inc.",
+        "address": "70 Fifth Avenue, New York City, New York, 11"
+      },
+      "office_use": {
+        "application_received_date": "JAN 14 1947",
+        "copies_received_date": "DEC - 3 1946"
+      },
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0015",
+      "image": "0015_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0015.jpg"
+    }
+  ]
+}

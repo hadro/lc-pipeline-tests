@@ -1,0 +1,52 @@
+{
+  "image": "0019_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0019.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "registration_class": "A",
+    "registration_number": "10006"
+  },
+  "page_context": {
+    "registration_class": "A",
+    "registration_number": "10007"
+  },
+  "entries": [
+    {
+      "registration_class": "A",
+      "registration_number": "10007",
+      "form_type": "APPLICATION",
+      "title_of_book": "WAYFARERS' FRIEND",
+      "copyright_owners": [
+        {
+          "name": "The Bruce Publishing Company",
+          "address": "540 N. Milwaukee St., Milwaukee 1, Wisconsin"
+        }
+      ],
+      "authors": [
+        {
+          "name": "Courtenay Savage",
+          "citizenship": "U.S.A.",
+          "domicile": "1255 N. State St., Chicago 10, Ill.",
+          "birth_year": "1890",
+          "death_year": "1946"
+        }
+      ],
+      "retail_price": "$2.00",
+      "send_certificate_to": {
+        "name": "The Bruce Publishing Company",
+        "address": "540 N. Milwaukee St., Milwaukee 1, Wisconsin"
+      },
+      "office_use": {
+        "application_received_date": "JAN 18 1947",
+        "copies_received_date": "JAN 18 1947",
+        "remittance": {
+          "number": "6848",
+          "date": "JAN2747",
+          "amount": "$2.00"
+        }
+      },
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0019",
+      "image": "0019_service:copyright:coprecbooks:00:47:10:07:78:A:0047100778A:0047100778A_0019.jpg"
+    }
+  ]
+}
