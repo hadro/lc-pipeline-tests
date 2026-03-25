@@ -1,4 +1,4 @@
-## [Slides](https://hadro.github.io/lc-pipeline-tests/)
+## [Slides](https://hadro.github.io/lc-pipeline-tests/slides)
 
 ## LC Examples run through the pipeline:
 
