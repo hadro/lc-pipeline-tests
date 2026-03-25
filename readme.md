@@ -1,3 +1,5 @@
+## [Slides](https://hadro.github.io/lc-pipeline-tests/)
+
 ## LC Examples run through the pipeline:
 
 Many of the items below are only partial tests, 30-40 pages. 
@@ -7,7 +9,7 @@ The "files" go to the source repo and generally include some or all of the follo
 - NER prompt used
 - Raw structured data extraction CSV
 - Data explorer html file
-- All OCR text (surya and Gemini) (not all repos include all OCR at this point)
+- Sometimes OCR text (surya and Gemini) (not all repos include all OCR at this point, but I'm happy to add if that would be helpful)
 
 
 ### Gazetteer of surface waters of Iowa.
@@ -56,3 +58,9 @@ The "files" go to the source repo and generally include some or all of the follo
 - Source: [loc.gov/resource/sn83030313/1847-04-30/ed-1/](https://www.loc.gov/resource/sn83030313/1847-04-30/ed-1/?st=gallery)
 - Files: [the_new_york_herald_new_york_n_y_1840_19_sn83030313](https://github.com/hadro/lc-pipeline-tests/tree/main/the_new_york_herald_new_york_n_y_1840_19_sn83030313)
 
+## Previous examples sent out with the invitation
+
+- [1911 Woods' Business, Professional and Trades Directory of New Orleans, Louisiana](https://hadro.github.io/woods-directory/explorer)
+- [1842 copyright ledger (printed text & handwritten text)](https://hadro.github.io/copyright-ledger-test/explorer)
+- [19th Century brewery guides, extracted from a brewery guide](https://hadro.github.io/brewery-guides/explorer#about)
+- [Example map listings from the 1947 Green Book](https://hadro.github.io/green-book-iiif-test/map)
