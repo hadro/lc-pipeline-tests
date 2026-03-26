@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Directory of the Grand and Subordinate Lodges, F.A.A.M. of the District of Columbia, 1903-1905; also a list of the Royal Arch chapters, Knight Templar commanderies, Supreme Council, A.A.S.R., southern jurisdiction, Order of Eastern Star chapters, and the Courts of Heroines of Jericho (Directory of the Grand and Subordinate Lodges, F.A.A.M. of the District of Columbia, 1903-1905; also a list of the Royal Arch chapters, Knight Templar commanderies, Supreme Council, A.A.S.R., southern jurisdiction, Order of Eastern Star chapters, and the Courts of Heroines of Jericho) — IIIF Viewer</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      background: #1a1a1a;
+      color: #f0f0f0;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    header {
+      background: #111;
+      border-bottom: 1px solid #333;
+      padding: 10px 16px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-shrink: 0;
+      flex-wrap: wrap;
+    }
+    header h1 { font-size: 15px; font-weight: 700; color: #f0c040; }
+    #viewer-wrap { flex: 1; position: relative; overflow: hidden; }
+    clover-viewer { display: block; position: absolute; inset: 0; }
+  </style>
+  
+</head>
+<body>
+
+<header>
+  <h1>Directory of the Grand and Subordinate Lodges, F.A.A.M. of the District of Columbia, 1903-1905; also a list of the Royal Arch chapters, Knight Templar commanderies, Supreme Council, A.A.S.R., southern jurisdiction, Order of Eastern Star chapters, and the Courts of Heroines of Jericho (Directory of the Grand and Subordinate Lodges, F.A.A.M. of the District of Columbia, 1903-1905; also a list of the Royal Arch chapters, Knight Templar commanderies, Supreme Council, A.A.S.R., southern jurisdiction, Order of Eastern Star chapters, and the Courts of Heroines of Jericho)</h1>
+</header>
+
+<div id="viewer-wrap"></div>
+
+<script>
+const DEFAULT_MANIFEST = "https://hadro.github.io/directory_of_the_grand_and_subordinate_l_74175569/manifest.json";
+
+// ── IIIF Content State helpers ───────────────────────────────────────────────
+function decodeContentState() {
+  const raw = new URLSearchParams(window.location.search).get("iiif-content");
+  if (!raw) return null;
+  try {
+    const b64 = raw.replace(/-/g, "+").replace(/_/g, "/");
+    const padded = b64 + "=".repeat((4 - b64.length % 4) % 4);
+    const json = decodeURIComponent(escape(atob(padded)));
+    return JSON.parse(json);
+  } catch (e) { return null; }
+}
+
+// ── Canvas ID translation (NYPL image URL → real canvas ID) ─────────────────
+function serviceId(service) {
+  if (!service) return "";
+  const s = Array.isArray(service) ? service[0] : service;
+  return (s && (s.id || s["@id"])) || "";
+}
+
+function buildCanvasIndex(manifest) {
+  const index = {};
+  for (const canvas of (manifest.items || [])) {
+    try {
+      const body = canvas.items[0].items[0].body;
+      const svc = serviceId(body.service);
+      if (svc) index[svc] = canvas.id;
+    } catch (e) {}
+  }
+  return index;
+}
+
+function oldCanvasToServiceBase(url) {
+  return url.replace(/\/full\/.*$/, "");
+}
+
+// ── Clover content state (SpecificResource format + blob URL workaround) ─────
+function contentStateToBlobId(stateObj) {
+  const blob = new Blob([JSON.stringify(stateObj)], { type: "application/json" });
+  return URL.createObjectURL(blob);
+}
+
+function buildCloverState(manifestId, canvasId, fragment) {
+  const csTarget = {
+    type: "SpecificResource",
+    source: {
+      id: canvasId,
+      type: "Canvas",
+      partOf: [{ id: manifestId, type: "Manifest" }],
+    },
+  };
+  if (fragment) {
+    csTarget.selector = { type: "FragmentSelector", value: fragment };
+  }
+  return {
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    id: canvasId + (fragment ? "#" + fragment : "") + "/content-state",
+    type: "Annotation",
+    motivation: ["contentState"],
+    target: csTarget,
+  };
+}
+
+// ── Close info panel once Clover has zoomed to the content-state target ───────
+function closeInfoPanelAfterZoom(el, fallbackMs) {
+  let done = false;
+  function close() {
+    if (done) return;
+    done = true;
+    obs.disconnect();
+    clearTimeout(timer);
+    const btn = el.querySelector('[data-value="manifest-back"]');
+    if (btn) btn.click();
+  }
+  const obs = new MutationObserver(mutations => {
+    for (const m of mutations) {
+      if (m.type === "attributes" && m.attributeName === "class" &&
+          m.target.className === "clover-iiif-content-state") {
+        close();
+        return;
+      }
+    }
+  });
+  obs.observe(el, { subtree: true, attributes: true, attributeFilter: ["class"] });
+  const timer = setTimeout(close, fallbackMs);
+}
+
+// ── Viewer lifecycle ─────────────────────────────────────────────────────────
+function launchClover(manifestId, rawCanvasId) {
+  const wrap = document.getElementById("viewer-wrap");
+  const old = wrap.querySelector("clover-viewer");
+  if (old) old.remove();
+
+  const el = document.createElement("clover-viewer");
+
+  if (!rawCanvasId) {
+    el.setAttribute("id", manifestId);
+    wrap.appendChild(el);
+    closeInfoPanelAfterZoom(el, 1500);
+    return;
+  }
+
+  const fragment = rawCanvasId.includes("#") ? rawCanvasId.split("#")[1] : "";
+  const oldBase  = rawCanvasId.includes("#") ? rawCanvasId.split("#")[0] : rawCanvasId;
+
+  fetch(manifestId)
+    .then(r => r.json())
+    .then(manifest => {
+      const index = buildCanvasIndex(manifest);
+      const svcBase = oldCanvasToServiceBase(oldBase);
+      const newCanvasId = index[svcBase] || index[oldBase] || oldBase;
+      el.setAttribute("id", contentStateToBlobId(buildCloverState(manifestId, newCanvasId, fragment)));
+      wrap.appendChild(el);
+      closeInfoPanelAfterZoom(el, 5000);
+    })
+    .catch(() => {
+      el.setAttribute("id", manifestId);
+      wrap.appendChild(el);
+      closeInfoPanelAfterZoom(el, 1500);
+    });
+}
+
+// ── Initialise ───────────────────────────────────────────────────────────────
+const contentState = decodeContentState();
+let startCanvasId = null;
+
+if (contentState) {
+  const target = contentState.target || {};
+  const source = (target.type === "SpecificResource" && target.source) ? target.source : target;
+  startCanvasId = (typeof source === "string" ? source : (source.id || "")).split("#")[0];
+  if (source.id && source.id.includes("#")) startCanvasId += "#" + source.id.split("#")[1];
+}
+
+launchClover(DEFAULT_MANIFEST, startCanvasId);
+</script>
+
+<script src="clover.umd.patched.js"></script>
+</body>
+</html>

@@ -1,22 +1,25 @@
-## [Slides](https://hadro.github.io/lc-pipeline-tests/slides)
+## Slides
+
+Some slides that talk about about relevant background, the pipeline elements, and links to some examples. 
+- [Slides](https://hadro.github.io/lc-pipeline-tests/slides)
 
 ## LC Examples run through the pipeline:
 
 Many of the items below are only partial tests, 30-40 pages. 
 
 The "files" go to the source repo and generally include some or all of the following generated for any given volume:
-- OCR prompt used
-- NER prompt used
-- Raw structured data extraction CSV
-- Data explorer html file
-- Sometimes OCR text (surya and Gemini) (not all repos include all OCR at this point, but I'm happy to add if that would be helpful)
+- OCR prompt used (ocr_prompt.md)
+- NER prompt used (ner_prompt.md)
+- Raw structured data extraction CSV (entries_{model-name}.csv)
+- Data explorer html file (explorer.html)
+- Sometimes OCR text (surya and Gemini) (will be within a sub-folder; not all repos include all OCR at this point, but I'm happy to add if that would be helpful)
 
-## Directory of the Grand and Subordinate Lodges, F.A.A.M. of the District of Columbia, 1903-1905 [Data extraction from the concluding directory portion of the item]
+### Directory of the Grand and Subordinate Lodges, F.A.A.M. of the District of Columbia, 1903-1905 [Data extraction from the concluding directory portion of the item]
 - Source: [loc.gov/item/74175569/](https://www.loc.gov/item/74175569/)
 - Data explorer: [explorer.html](https://hadro.github.io/lc-pipeline-tests/directory_of_the_grand_and_subordinate_l_74175569/explorer.html)
 - Files: [directory_of_the_grand_and_subordinate_l_74175569](https://github.com/hadro/lc-pipeline-tests/tree/main/directory_of_the_grand_and_subordinate_l_74175569) 
 
-## Frederick Douglass Papers: Financial Papers, 1847-1928; Bank books 
+### Frederick Douglass Papers: Financial Papers, 1847-1928; Bank books 
 - Source: [loc.gov/item/mss1187900887/](https://www.loc.gov/item/mss1187900887/)
 - Data explorer: [explorer.html](https://hadro.github.io/lc-pipeline-tests/frederick_douglass_papers_financial_pape_mss118790088/explorer.html)
 - Files: [frederick_douglass_papers_financial_pape_mss118790088](https://github.com/hadro/lc-pipeline-tests/tree/main/frederick_douglass_papers_financial_pape_mss118790088)
