@@ -436,14 +436,15 @@ function renderTableBody() {
     });
     const tdSrc = document.createElement("td");
     tdSrc.className = "source-cell";
-    if (row.canvas_fragment) {
+    const _srcUrl = row.canvas_fragment ? viewerUrl(row.canvas_fragment) : sourceUrlFromImage(row.image);
+    if (_srcUrl) {
       const btn = document.createElement("button");
       btn.className = "src-btn";
       btn.textContent = "View page ↗";
       btn.title = "Open original digitized page image";
       btn.addEventListener("click", e => {
         e.stopPropagation();
-        openSource(row.canvas_fragment);
+        window.open(_srcUrl, "_blank");
       });
       tdSrc.appendChild(btn);
     }
@@ -606,6 +607,22 @@ function openSource(canvas_fragment) {
   if (url) window.open(url, "_blank");
 }
 
+// Derive a LOC viewer URL directly from the image filename when canvas_fragment is absent.
+// Image filename pattern: 0001_service:mss:mss23044:mss23044-022:01:0224.jpg
+// LOC resource URL format: https://www.loc.gov/resource/mss23044.02201/?sp=224&st=image
+// where "02201" = item suffix (022) + part (01), stripping the collection prefix from item ID.
+function sourceUrlFromImage(image) {
+  if (!image) return "";
+  const svcId = image.replace(/^\d+_/, "").replace(/\.jpg$/i, "");
+  // 6-part: service:{type}:{coll}:{coll}-{itemSuffix}:{part}:{page}
+  const m6 = svcId.match(/^service:[^:]+:([^:]+):[^:]*?-([^:-]+):(\d+):(\d+)$/);
+  if (m6) return `https://www.loc.gov/resource/${m6[1]}.${m6[2]}${m6[3]}/?sp=${parseInt(m6[4])}&st=image`;
+  // 5-part: service:{type}:{coll}:{coll}-{itemSuffix}:{page}
+  const m5 = svcId.match(/^service:[^:]+:([^:]+):[^:]*?-([^:-]+):(\d+)$/);
+  if (m5) return `https://www.loc.gov/resource/${m5[1]}.${m5[2]}/?sp=${parseInt(m5[3])}&st=image`;
+  return "";
+}
+
 // ── IIIF Content State deep-link ────────────────────────────────────────────
 function contentStateUrl(canvas_fragment) {
   const mUrl = activeManifestUrl || MANIFEST_URL;
@@ -632,8 +649,12 @@ function contentStateUrl(canvas_fragment) {
 function thumbUrl(row) {
   const cf = row.canvas_fragment || "";
   if (!cf) {
-    // No canvas fragment — fall back to the local page image (full page, no crop)
-    return row.image ? row.image : "";
+    // No canvas fragment — construct IIIF thumbnail from image filename
+    if (row.image) {
+      const svcId = row.image.replace(/^\d+_/, "").replace(/\.jpg$/i, "");
+      return `https://tile.loc.gov/image-services/iiif/${svcId}/full/200,/0/default.jpg`;
+    }
+    return "";
   }
   const cid = cf.includes("#") ? cf.split("#")[0] : cf;
   const svc = CANVAS_MAP[cid];
@@ -679,7 +700,7 @@ function showDetail(row) {
     img.alt = `Scan showing ${entryName}`;
     img.style.display = "block";
     img.onerror = () => { img.style.display = "none"; };
-    thumbLink.href = csUrl || viewerUrl(row.canvas_fragment) || "#";
+    thumbLink.href = csUrl || viewerUrl(row.canvas_fragment) || sourceUrlFromImage(row.image) || "#";
     thumbLink.title = "View this entry highlighted in the original scan";
     thumbLink.setAttribute("aria-label", `View ${entryName} in source document`);
   } else {
@@ -705,15 +726,13 @@ function showDetail(row) {
   });
 
   const src = document.getElementById("detail-source");
-  if (row.canvas_fragment) {
+  {
     const links = [];
-    const srcUrl = viewerUrl(row.canvas_fragment);
+    const srcUrl = row.canvas_fragment ? viewerUrl(row.canvas_fragment) : sourceUrlFromImage(row.image);
     if (srcUrl) links.push(`<a href="${srcUrl}" target="_blank">Open source page ↗</a>`);
-    const csUrl = contentStateUrl(row.canvas_fragment);
+    const csUrl = row.canvas_fragment ? contentStateUrl(row.canvas_fragment) : "";
     if (csUrl) links.push(`<a href="${csUrl}" target="_blank">View in source document ↗</a>`);
     src.innerHTML = links.join(" · ");
-  } else {
-    src.innerHTML = "";
   }
 }
 
