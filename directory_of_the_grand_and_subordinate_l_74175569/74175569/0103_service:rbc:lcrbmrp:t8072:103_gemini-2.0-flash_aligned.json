@@ -1,0 +1,338 @@
+{
+  "image": "0103_service:rbc:lcrbmrp:t8072:103.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103",
+  "canvas_width": 1895,
+  "canvas_height": 2998,
+  "surya_median_confidence": 0.986,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        731,
+        390,
+        1258,
+        428
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=731,390,527,38",
+      "confidence": "line",
+      "gemini_text": "OWEN E. MCNEILL,",
+      "surya_confidence": 0.9766
+    },
+    {
+      "bbox": [
+        315,
+        657,
+        914,
+        694
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=315,657,599,37",
+      "confidence": "line",
+      "gemini_text": "831 Delaware Ave., S. W. Washington, D. C.",
+      "surya_confidence": 0.9965
+    },
+    {
+      "bbox": [
+        754,
+        805,
+        1230,
+        841
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=754,805,476,36",
+      "confidence": "line",
+      "gemini_text": "JAMES F. BUNDY,",
+      "surya_confidence": 0.9587
+    },
+    {
+      "bbox": [
+        448,
+        939,
+        1530,
+        976
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=448,939,1082,37",
+      "confidence": "line",
+      "gemini_text": "Attorney and Counsellor-at-law, Notary Public.",
+      "surya_confidence": 0.9794
+    },
+    {
+      "bbox": [
+        404,
+        1070,
+        1032,
+        1108
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=404,1070,628,38",
+      "confidence": "line",
+      "gemini_text": "Office: 420 5th St., N. W. Washington, D. C.",
+      "surya_confidence": 0.986
+    },
+    {
+      "bbox": [
+        314,
+        1114,
+        953,
+        1152
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=314,1114,639,38",
+      "confidence": "line",
+      "gemini_text": "Residence: 403 O St., N. W.",
+      "surya_confidence": 0.9933
+    },
+    {
+      "bbox": [
+        775,
+        1206,
+        1206,
+        1245
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=775,1206,431,39",
+      "confidence": "line",
+      "gemini_text": "WM. C. MARTIN,",
+      "surya_confidence": 0.9817
+    },
+    {
+      "bbox": [
+        617,
+        1296,
+        1353,
+        1334
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=617,1296,736,38",
+      "confidence": "line",
+      "gemini_text": "Attorney and Counsellor-at-law.",
+      "surya_confidence": 0.9765
+    },
+    {
+      "bbox": [
+        312,
+        1382,
+        915,
+        1421
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=312,1382,603,39",
+      "confidence": "line",
+      "gemini_text": "Office: 503½ D St., N. W. Washington, D. C.",
+      "surya_confidence": 0.9806
+    },
+    {
+      "bbox": [
+        481,
+        1430,
+        1493,
+        1468
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=481,1430,1012,38",
+      "confidence": "line",
+      "gemini_text": "Webster Law Building Annex, Second Floor",
+      "surya_confidence": 0.9898
+    },
+    {
+      "bbox": [
+        310,
+        1481,
+        1658,
+        1523
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=310,1481,1348,42",
+      "confidence": "line",
+      "gemini_text": "Practices in all the courts of the District of Columbia and",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        663,
+        1532,
+        1304,
+        1568
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=663,1532,641,36",
+      "confidence": "line",
+      "gemini_text": "the Executive Departments.",
+      "surya_confidence": 0.9964
+    },
+    {
+      "bbox": [
+        721,
+        1620,
+        1260,
+        1657
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=721,1620,539,37",
+      "confidence": "line",
+      "gemini_text": "R. L. GAINES, M. D.",
+      "surya_confidence": 0.9906
+    },
+    {
+      "bbox": [
+        462,
+        1710,
+        1498,
+        1748
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=462,1710,1036,38",
+      "confidence": "line",
+      "gemini_text": "Hours: 8 to 10 a. m.; 2 to 4 p. m.; 6 to 8 p. m..",
+      "surya_confidence": 0.9917
+    },
+    {
+      "bbox": [
+        303,
+        1796,
+        810,
+        1834
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=303,1796,507,38",
+      "confidence": "line",
+      "gemini_text": "2243 Brightwood Ave., Washington, D. C.",
+      "surya_confidence": 0.9911
+    },
+    {
+      "bbox": [
+        639,
+        1888,
+        1317,
+        1926
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=639,1888,678,38",
+      "confidence": "line",
+      "gemini_text": "Telephone Call, Main 3913-A.",
+      "surya_confidence": 0.9932
+    },
+    {
+      "bbox": [
+        609,
+        2008,
+        1348,
+        2052
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=609,2008,739,44",
+      "confidence": "line",
+      "gemini_text": "DR. C. SUMNER WORMLEY,",
+      "surya_confidence": 0.9747
+    },
+    {
+      "bbox": [
+        786,
+        2145,
+        1167,
+        2183
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=786,2145,381,38",
+      "confidence": "line",
+      "gemini_text": "Surgeon Dentist.",
+      "surya_confidence": 0.9663
+    },
+    {
+      "bbox": [
+        301,
+        2278,
+        761,
+        2315
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=301,2278,460,37",
+      "confidence": "line",
+      "gemini_text": "1531 14th St., N. W. Washington, D. C.",
+      "surya_confidence": 0.9951
+    },
+    {
+      "bbox": [
+        628,
+        2355,
+        1322,
+        2397
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=628,2355,694,42",
+      "confidence": "line",
+      "gemini_text": "DR. HAMILTON S. SMITH,",
+      "surya_confidence": 0.9617
+    },
+    {
+      "bbox": [
+        791,
+        2414,
+        1162,
+        2451
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=791,2414,371,37",
+      "confidence": "line",
+      "gemini_text": "Dental Surgeon.",
+      "surya_confidence": 0.9744
+    },
+    {
+      "bbox": [
+        301,
+        2463,
+        1653,
+        2510
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=301,2463,1352,47",
+      "confidence": "line",
+      "gemini_text": "(Late Demonstrator and Professor in Howard University",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        742,
+        2513,
+        1219,
+        2551
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=742,2513,477,38",
+      "confidence": "line",
+      "gemini_text": "Dental Department.)",
+      "surya_confidence": 0.9501
+    },
+    {
+      "bbox": [
+        299,
+        2566,
+        1558,
+        2612
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=299,2566,1259,46",
+      "confidence": "line",
+      "gemini_text": "1524 Pierce Place, N. W. Washington, D. C.",
+      "surya_confidence": 0.979
+    },
+    {
+      "bbox": [
+        298,
+        2621,
+        1650,
+        2667
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=298,2621,1352,46",
+      "confidence": "line",
+      "gemini_text": "Fourteen years' practice, Good Work, Best Material and",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        298,
+        2664,
+        1652,
+        2712
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=298,2664,1354,48",
+      "confidence": "line",
+      "gemini_text": "fair prices. Examination free. Sunday work if desired.",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        1133,
+        2279,
+        1562,
+        2321
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:103#xywh=1133,2279,429,42",
+      "confidence": "line",
+      "gemini_text": "94",
+      "surya_confidence": 0.9883
+    }
+  ],
+  "unmatched_gemini": [
+    "Counsellor-at-Law."
+  ]
+}

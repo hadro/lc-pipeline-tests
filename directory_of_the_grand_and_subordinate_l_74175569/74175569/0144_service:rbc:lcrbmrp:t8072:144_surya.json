@@ -1,0 +1,16 @@
+{
+  "image_width": 1818,
+  "image_height": 3001,
+  "lines": [
+    {
+      "bbox": [
+        419,
+        2909,
+        554,
+        2929
+      ],
+      "text": "and the state of the state of",
+      "confidence": 0.1163
+    }
+  ]
+}

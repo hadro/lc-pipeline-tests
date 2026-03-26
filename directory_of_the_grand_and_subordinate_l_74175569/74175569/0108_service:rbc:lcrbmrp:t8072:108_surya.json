@@ -1,0 +1,356 @@
+{
+  "image_width": 1817,
+  "image_height": 3012,
+  "lines": [
+    {
+      "bbox": [
+        604,
+        362,
+        1221,
+        396
+      ],
+      "text": "DIRECTORY—continued.",
+      "confidence": 0.8625
+    },
+    {
+      "bbox": [
+        444,
+        437,
+        1325,
+        474
+      ],
+      "text": "Williams, Jos. L., 5, 2437 Brightwood ave.",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        444,
+        470,
+        1264,
+        509
+      ],
+      "text": "Williams, R. W., 8, 932 Dartmouth nw.",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        445,
+        507,
+        1094,
+        541
+      ],
+      "text": "Williams, Thomas, 6, 406 C ne.",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        439,
+        530,
+        1304,
+        652
+      ],
+      "text": "Williams, Thomas N., 7, 2121 11th nw. Williams, Wyatt, 7-2-2, 1620 Vt. ave. nw. Willis, Geo. W., 3, 332 C sw.",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        442,
+        644,
+        1137,
+        677
+      ],
+      "text": "Williston, Edw. D., 1, 1434 T nw.",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        443,
+        679,
+        1261,
+        709
+      ],
+      "text": "Winfield, Walter, 14, 1626 Vt. ave. nw.",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        442,
+        713,
+        1164,
+        745
+      ],
+      "text": "Winslow, A. B., 12, G, 1018 W nw.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        443,
+        743,
+        1157,
+        780
+      ],
+      "text": "Winslow, James H., 1, 1206 R nw.",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        440,
+        773,
+        1267,
+        889
+      ],
+      "text": "Wood, James W., 12, 826 10th nw.\nWormley, C. S., 14, 1531 14th nw.\nWormley, James T., 14-7-4, 1801 8th nw",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        441,
+        880,
+        1381,
+        918
+      ],
+      "text": "Wortham, Rev. P. W., 7-11-2, Cumberland, Md.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        440,
+        915,
+        1302,
+        953
+      ],
+      "text": "Wright, David C., 7-11-2, S, 1348 27th nw.",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        440,
+        950,
+        1141,
+        986
+      ],
+      "text": "Wright, James B., 5, 406 Elm nw.",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        440,
+        980,
+        1239,
+        1022
+      ],
+      "text": "Wright, John W., 7-11-2, 1348 27th nw.",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        443,
+        1008,
+        1323,
+        1060
+      ],
+      "text": "Young, Beverly, 12-2, 471 Clarks Court sw.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        443,
+        1050,
+        1172,
+        1088
+      ],
+      "text": "Young, Chas. H., 15, 1633 10th nw.",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        443,
+        1085,
+        1137,
+        1122
+      ],
+      "text": "Young, James, 6, 39 Hanover nw.",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        443,
+        1121,
+        1194,
+        1157
+      ],
+      "text": "Young, J. E., 10, Garfield Anacostia.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        445,
+        1155,
+        1264,
+        1190
+      ],
+      "text": "Young, Samuel, 8, 1205 N. Y. ave. nw.",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        446,
+        1186,
+        1061,
+        1224
+      ],
+      "text": "Young, Samuel I., 5, 635 L ne.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        744,
+        1388,
+        1079,
+        1460
+      ],
+      "text": "Notice.",
+      "confidence": 0.9809
+    },
+    {
+      "bbox": [
+        304,
+        1545,
+        1582,
+        1605
+      ],
+      "text": "On the following pages will be found the",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        237,
+        1631,
+        1582,
+        1689
+      ],
+      "text": "names of the Officers for 1904 of the Most Wor-",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        236,
+        1723,
+        1583,
+        1784
+      ],
+      "text": "shipful Grand Lodge, F. A. A. M. and its Sub-",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        236,
+        1814,
+        1583,
+        1872
+      ],
+      "text": "ordinate Lodges, Grand Royal Arch Chapter",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        234,
+        1903,
+        1582,
+        1960
+      ],
+      "text": "and its Subordinate Chapters, Grand Com-",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        235,
+        1988,
+        1579,
+        2054
+      ],
+      "text": "mandery of Knights Templar, and its Sub-",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        233,
+        2079,
+        1579,
+        2139
+      ],
+      "text": "ordinate Commanderies, Grand Chapter O. E. S.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        233,
+        2169,
+        1580,
+        2227
+      ],
+      "text": "and its Subordinate Chapters, Courts of Heroines",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        232,
+        2255,
+        1578,
+        2317
+      ],
+      "text": "of Jericho, and the names of the Officers and",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        232,
+        2337,
+        1578,
+        2413
+      ],
+      "text": "Members of the James H. Hill Lodge, No. 16.",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        230,
+        2436,
+        1576,
+        2494
+      ],
+      "text": "F. A. A. M., and Datcher Chapter, U. D., O. E. S.,",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        233,
+        2525,
+        1579,
+        2585
+      ],
+      "text": "together with the corrections of all addresses",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        231,
+        2613,
+        548,
+        2665
+      ],
+      "text": "obtainable.",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        878,
+        2684,
+        931,
+        2714
+      ],
+      "text": "99",
+      "confidence": 0.9815
+    }
+  ]
+}

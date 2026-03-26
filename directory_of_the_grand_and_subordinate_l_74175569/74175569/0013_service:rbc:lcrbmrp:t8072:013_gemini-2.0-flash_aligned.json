@@ -1,0 +1,384 @@
+{
+  "image": "0013_service:rbc:lcrbmrp:t8072:013.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013",
+  "canvas_width": 1662,
+  "canvas_height": 2865,
+  "surya_median_confidence": 0.9989,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        688,
+        460,
+        1092,
+        518
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=688,460,404,58",
+      "confidence": "line",
+      "gemini_text": "Introductory",
+      "surya_confidence": 0.3806
+    },
+    {
+      "bbox": [
+        229,
+        681,
+        732,
+        722
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=229,681,503,41",
+      "confidence": "line",
+      "gemini_text": "To the Members of the",
+      "surya_confidence": 0.9956
+    },
+    {
+      "bbox": [
+        423,
+        746,
+        1199,
+        792
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=423,746,776,46",
+      "confidence": "line",
+      "gemini_text": "Masonic Craft of this Jurisdiction:",
+      "surya_confidence": 0.9984
+    },
+    {
+      "bbox": [
+        268,
+        828,
+        1570,
+        870
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=268,828,1302,42",
+      "confidence": "line",
+      "gemini_text": "We have long felt that a necessity of our organization was",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        224,
+        885,
+        1571,
+        925
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=224,885,1347,40",
+      "confidence": "line",
+      "gemini_text": "a good Masonic Directory, giving the names of the Officers",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        222,
+        939,
+        1574,
+        981
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=222,939,1352,42",
+      "confidence": "line",
+      "gemini_text": "of our Grand and Subordinate bodies, including those of",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        222,
+        994,
+        1576,
+        1032
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=222,994,1354,38",
+      "confidence": "line",
+      "gemini_text": "the Ladies of the Order of the Eastern Star and Courts of",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        220,
+        1052,
+        1571,
+        1091
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=220,1052,1351,39",
+      "confidence": "line",
+      "gemini_text": "Heroines of Jericho, with the names and post office addresses",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        222,
+        1107,
+        650,
+        1141
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=222,1107,428,34",
+      "confidence": "line",
+      "gemini_text": "of the entire Craft.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        270,
+        1164,
+        1571,
+        1203
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=270,1164,1301,39",
+      "confidence": "line",
+      "gemini_text": "We have with considerable labor tried to respond to this",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        221,
+        1218,
+        1577,
+        1257
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=221,1218,1356,39",
+      "confidence": "line",
+      "gemini_text": "necessity, and have compiled this little directory for presen-",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        218,
+        1273,
+        1572,
+        1314
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=218,1273,1354,41",
+      "confidence": "line",
+      "gemini_text": "tation to the members of the Craft and Adoptive rites of Ma-",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        222,
+        1329,
+        817,
+        1367
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=222,1329,595,38",
+      "confidence": "line",
+      "gemini_text": "sonry in this Jurisdiction.",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        263,
+        1386,
+        1578,
+        1421
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=263,1386,1315,35",
+      "confidence": "line",
+      "gemini_text": "It contains the names and addresses of the members of",
+      "surya_confidence": 0.9971
+    },
+    {
+      "bbox": [
+        218,
+        1441,
+        1580,
+        1480
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=218,1441,1362,39",
+      "confidence": "line",
+      "gemini_text": "our Thirteen Blue Lodges, Five Royal Arch Chapters, Four",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        220,
+        1495,
+        1573,
+        1535
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=220,1495,1353,40",
+      "confidence": "line",
+      "gemini_text": "Knights Templar Commanderies, A. A. S. R. Consistory,",
+      "surya_confidence": 0.9879
+    },
+    {
+      "bbox": [
+        220,
+        1552,
+        1584,
+        1591
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=220,1552,1364,39",
+      "confidence": "line",
+      "gemini_text": "Mecca Temple, A. A. O. N. Mystic Shrine, Six Chapters of",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        218,
+        1608,
+        1585,
+        1647
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=218,1608,1367,39",
+      "confidence": "line",
+      "gemini_text": "the Order of the Eastern Star, and Two Courts of the He",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        218,
+        1663,
+        609,
+        1697
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=218,1663,391,34",
+      "confidence": "line",
+      "gemini_text": "roines of Jericho.",
+      "surya_confidence": 0.9975
+    },
+    {
+      "bbox": [
+        263,
+        1718,
+        1542,
+        1758
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=263,1718,1279,40",
+      "confidence": "line",
+      "gemini_text": "We have labored hard to make this book as nearly corred",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        220,
+        1774,
+        1537,
+        1812
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=220,1774,1317,38",
+      "confidence": "line",
+      "gemini_text": "as possible, and we desire each brother and sister to ha",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        221,
+        1830,
+        1537,
+        1869
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=221,1830,1316,39",
+      "confidence": "line",
+      "gemini_text": "a copy, with the hope that it may be the means of bringin",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        218,
+        1886,
+        1544,
+        1924
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=218,1886,1326,38",
+      "confidence": "line",
+      "gemini_text": "into closer touch every branch of our beloved Order, an",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        214,
+        1941,
+        1553,
+        1980
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=214,1941,1339,39",
+      "confidence": "line",
+      "gemini_text": "forming a more perfect union, so that we may all be in fac",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        217,
+        1997,
+        1574,
+        2035
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=217,1997,1357,38",
+      "confidence": "line",
+      "gemini_text": "united in one sacred band or society of friends, brothers and",
+      "surya_confidence": 0.9957
+    },
+    {
+      "bbox": [
+        218,
+        2053,
+        1387,
+        2091
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=218,2053,1169,38",
+      "confidence": "line",
+      "gemini_text": "sisters, among whom no contention shall ever arise.",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        260,
+        2107,
+        1574,
+        2146
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=260,2107,1314,39",
+      "confidence": "line",
+      "gemini_text": "I present this directory to the Craft with my compliments,",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        220,
+        2164,
+        1571,
+        2202
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=220,2164,1351,38",
+      "confidence": "line",
+      "gemini_text": "and with the hope that the object desired may be attained.",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        612,
+        2243,
+        1142,
+        2281
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=612,2243,530,38",
+      "confidence": "line",
+      "gemini_text": "Fraternally submitted:",
+      "surya_confidence": 0.967
+    },
+    {
+      "bbox": [
+        1035,
+        2312,
+        1236,
+        2347
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=1035,2312,201,35",
+      "confidence": "line",
+      "gemini_text": "MALVIN,",
+      "surya_confidence": 0.9883
+    },
+    {
+      "bbox": [
+        1178,
+        2378,
+        1506,
+        2415
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:013#xywh=1178,2378,328,37",
+      "confidence": "line",
+      "gemini_text": "Grand Master.",
+      "surya_confidence": 0.9232
+    }
+  ],
+  "unmatched_gemini": []
+}

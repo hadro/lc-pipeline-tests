@@ -1,0 +1,216 @@
+{
+  "image_width": 1804,
+  "image_height": 3002,
+  "lines": [
+    {
+      "bbox": [
+        270,
+        405,
+        1474,
+        486
+      ],
+      "text": "Past Right Eminent Grand Commanders",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        192,
+        912,
+        1537,
+        980
+      ],
+      "text": "*William H. Thomas......January 16, 1871",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        192,
+        1010,
+        1536,
+        1062
+      ],
+      "text": "John A. Gray ....... February 27, 1873",
+      "confidence": 0.9875
+    },
+    {
+      "bbox": [
+        189,
+        1099,
+        1536,
+        1150
+      ],
+      "text": "Leonard C. Bailey ..... December 14, 1874",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        187,
+        1184,
+        1538,
+        1243
+      ],
+      "text": "*J. W. Booth...................................",
+      "confidence": 0.9787
+    },
+    {
+      "bbox": [
+        182,
+        1277,
+        1539,
+        1334
+      ],
+      "text": "A. W. Tancil ....................................",
+      "confidence": 0.983
+    },
+    {
+      "bbox": [
+        184,
+        1377,
+        1538,
+        1437
+      ],
+      "text": "*John Battles ...... November 17, 1879",
+      "confidence": 0.9728
+    },
+    {
+      "bbox": [
+        181,
+        1479,
+        1536,
+        1536
+      ],
+      "text": "Perry H. Carson, Sr.....February 28, 1880",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        184,
+        1579,
+        1535,
+        1639
+      ],
+      "text": "William H. Myers......November 24, 1880",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        179,
+        1679,
+        1534,
+        1738
+      ],
+      "text": "*Carter A. Stewart ....................................",
+      "confidence": 0.9747
+    },
+    {
+      "bbox": [
+        176,
+        1780,
+        1534,
+        1841
+      ],
+      "text": "John L. Hickman ..... December 9, 1884",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        176,
+        1879,
+        1532,
+        1940
+      ],
+      "text": "John W. Freeman......November 24, 1886",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        176,
+        1975,
+        1529,
+        2043
+      ],
+      "text": "Samuel H. West ...... November 25, 1887",
+      "confidence": 0.9876
+    },
+    {
+      "bbox": [
+        172,
+        2077,
+        1531,
+        2140
+      ],
+      "text": "*John H. Burrill ..................................",
+      "confidence": 0.9505
+    },
+    {
+      "bbox": [
+        175,
+        2183,
+        1529,
+        2243
+      ],
+      "text": "Thornton A. Jackson ...... November 19, 1890",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        170,
+        2284,
+        1528,
+        2346
+      ],
+      "text": "Louis H. Wayne......November 26, 1891",
+      "confidence": 0.9888
+    },
+    {
+      "bbox": [
+        170,
+        2380,
+        1525,
+        2451
+      ],
+      "text": "John N. Dorster ..... October 20, 1898",
+      "confidence": 0.9888
+    },
+    {
+      "bbox": [
+        167,
+        2487,
+        1525,
+        2553
+      ],
+      "text": "Henry C. Harris ...... October 30, 1899",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        168,
+        2590,
+        1523,
+        2652
+      ],
+      "text": "S. Roger Watts ...... October 27, 1900",
+      "confidence": 0.9868
+    },
+    {
+      "bbox": [
+        170,
+        2675,
+        391,
+        2710
+      ],
+      "text": "*Deceased.",
+      "confidence": 0.8796
+    },
+    {
+      "bbox": [
+        813,
+        2721,
+        929,
+        2763
+      ],
+      "text": "31",
+      "confidence": 0.9829
+    }
+  ]
+}

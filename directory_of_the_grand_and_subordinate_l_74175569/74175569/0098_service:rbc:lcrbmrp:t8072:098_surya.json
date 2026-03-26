@@ -1,0 +1,666 @@
+{
+  "image_width": 1795,
+  "image_height": 2999,
+  "lines": [
+    {
+      "bbox": [
+        553,
+        369,
+        1183,
+        404
+      ],
+      "text": "DIRECTORY—Continued.",
+      "confidence": 0.9289
+    },
+    {
+      "bbox": [
+        1295,
+        437,
+        1341,
+        459
+      ],
+      "text": "15 1",
+      "confidence": 0.3407
+    },
+    {
+      "bbox": [
+        404,
+        444,
+        1117,
+        485
+      ],
+      "text": "Lomax, J. N., 7-7-4, D, 2106 L nw.",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        405,
+        481,
+        1144,
+        519
+      ],
+      "text": "Love, Silas L., 15, Brightwood Park.",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        405,
+        517,
+        1036,
+        552
+      ],
+      "text": "Loving, W. H., 5, 1015 4th nw.",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        407,
+        547,
+        1262,
+        589
+      ],
+      "text": "Lowery, Mason S., 7-2-3, F, 1002 18th nw.",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        406,
+        585,
+        1101,
+        622
+      ],
+      "text": "Lucas, Chas. F., 15, 1102 21st nw.",
+      "confidence": 0.9888
+    },
+    {
+      "bbox": [
+        406,
+        622,
+        1008,
+        657
+      ],
+      "text": "Lucas, Wm. E., 14, 461 E sw.",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        406,
+        654,
+        1222,
+        691
+      ],
+      "text": "Lynch, John R., 14, Paymaster U. S. A.",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        404,
+        688,
+        1047,
+        729
+      ],
+      "text": "Lynn, Thomas, 7, 1826 20th nw.",
+      "confidence": 0.9794
+    },
+    {
+      "bbox": [
+        405,
+        728,
+        1072,
+        758
+      ],
+      "text": "Madden, Willis A., 9, City P. O.",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        403,
+        757,
+        1243,
+        798
+      ],
+      "text": "Mallory, Thomas, 1, 1635 Conn. ave. nw.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        400,
+        791,
+        1339,
+        830
+      ],
+      "text": "Malvin, W. H. Judd., 1-7-4, 33d A-R-S, 1018 R",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        406,
+        829,
+        1132,
+        865
+      ],
+      "text": "Manns, James, 7, New York, N. Y.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        406,
+        865,
+        1026,
+        899
+      ],
+      "text": "Mansfield, John, 4, 3218 M nw.",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        406,
+        895,
+        1219,
+        937
+      ],
+      "text": "Mansfield, Robt. N., 8, Lancaster, Ohio.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        406,
+        934,
+        1078,
+        970
+      ],
+      "text": "Marshall, Alex., 5, 1018 15th nw.",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        406,
+        967,
+        1028,
+        1006
+      ],
+      "text": "Marshall, Benj., 15, 119 5th se.",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        404,
+        999,
+        1040,
+        1043
+      ],
+      "text": "Marshall, Ches., 3, 246 14th se.",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        403,
+        1032,
+        1124,
+        1111
+      ],
+      "text": "Marshall, W. H., 3, 816 3d se.\nMarshall, Wm. H., 1, 1549 4th nw.",
+      "confidence": 0.9699
+    },
+    {
+      "bbox": [
+        406,
+        1105,
+        1267,
+        1146
+      ],
+      "text": "Martin, Jesse B., 10, G, 641 S. C. ave. se.",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        406,
+        1138,
+        1162,
+        1182
+      ],
+      "text": "Martin, Samuel, 7-11-2, 1340 28th nw.",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        409,
+        1176,
+        1053,
+        1215
+      ],
+      "text": "Martin, W. C., 15, 5031/2 D nw.",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        403,
+        1209,
+        1084,
+        1251
+      ],
+      "text": "Mason, A. J., 1-1-3, Pittsburg, Pa.",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        407,
+        1241,
+        1162,
+        1290
+      ],
+      "text": "Mayne, Jos. N., 1, 323 S. C. ave. se.",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        404,
+        1278,
+        1243,
+        1320
+      ],
+      "text": "Mays, J. Wm., 5, 33d A-S, 1822 11th nw.",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        404,
+        1316,
+        1017,
+        1354
+      ],
+      "text": "McCary, D. B., 14, 448 Q nw.",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        406,
+        1350,
+        1098,
+        1389
+      ],
+      "text": "McCary, M. M., 14, Omaha, Nebr.",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        406,
+        1382,
+        1144,
+        1424
+      ],
+      "text": "McCary, W. W., 14, 18121/2 11th nw.",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        405,
+        1421,
+        1202,
+        1456
+      ],
+      "text": "McDowell, D. H., 12, 2030 Vt. ave. nw.",
+      "confidence": 0.9859
+    },
+    {
+      "bbox": [
+        381,
+        1451,
+        1243,
+        1497
+      ],
+      "text": "McDuffie, J. A., 14, G, 1512 Madison nw.",
+      "confidence": 0.9769
+    },
+    {
+      "bbox": [
+        406,
+        1487,
+        1164,
+        1528
+      ],
+      "text": "McKenny, Chas. M., 7, 1540 5th nw.",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        406,
+        1523,
+        1134,
+        1561
+      ],
+      "text": "McKinley, Whit., 14, 1918 11th nw.",
+      "confidence": 0.962
+    },
+    {
+      "bbox": [
+        406,
+        1558,
+        1203,
+        1596
+      ],
+      "text": "McNair, Augustus, 15-5-1, S, 802 3d se.",
+      "confidence": 0.9851
+    },
+    {
+      "bbox": [
+        404,
+        1587,
+        1303,
+        1635
+      ],
+      "text": "McNeill, Owen E., 3-11-2, 831 Del. ave. sw.",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        407,
+        1628,
+        1084,
+        1666
+      ],
+      "text": "Mercer, Wm. T., 9-5-1, 218 H sw.",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        409,
+        1660,
+        1064,
+        1706
+      ],
+      "text": "Middleton, Henry, 5, 338 C sw.",
+      "confidence": 0.992
+    },
+    {
+      "bbox": [
+        409,
+        1698,
+        1074,
+        1738
+      ],
+      "text": "Milford, Geo. W., 9, City P. O.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        409,
+        1731,
+        1135,
+        1773
+      ],
+      "text": "Miller, J. A., 14, Indianapolis, Ind.",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        407,
+        1767,
+        1083,
+        1807
+      ],
+      "text": "Miller, Jas. A., 5-1-1, 1829 L nw.",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        408,
+        1796,
+        1098,
+        1846
+      ],
+      "text": "Mills, Chas. D., 1, 1638 11th nw.",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        407,
+        1830,
+        1204,
+        1879
+      ],
+      "text": "Minor, E. P., 1-1-3, S, 43 Hanover nw.",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        409,
+        1872,
+        1002,
+        1912
+      ],
+      "text": "Minor, John O., 7, 419 L nw.",
+      "confidence": 0.9895
+    },
+    {
+      "bbox": [
+        409,
+        1904,
+        1079,
+        1948
+      ],
+      "text": "Minor, Thos. N., 15, 704 9th sw.",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        407,
+        1938,
+        1203,
+        1982
+      ],
+      "text": "Mitchell, G. T., 9, Bureau of E. and P.",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        406,
+        1973,
+        1200,
+        2017
+      ],
+      "text": "Mitchell, John H., 10-7-4, G, 318 G se.",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        403,
+        2002,
+        1303,
+        2053
+      ],
+      "text": "Mitchell, M. V. B., 12, Winthrop Heights ne.",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        407,
+        2039,
+        1343,
+        2085
+      ],
+      "text": "Mitchell, Rev. O. L., 5-11, St. Mary's Parish,",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        409,
+        2077,
+        1103,
+        2119
+      ],
+      "text": "Molens, Erastus, 9-5-3, 407 O nw.",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        407,
+        2112,
+        1182,
+        2152
+      ],
+      "text": "Monroe, James T., 1-1-1, 1145 1st nw.",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        403,
+        2142,
+        1303,
+        2189
+      ],
+      "text": "Monroe, Lloyd, 1-7-4, 32d, 716 Farragut nw.",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        407,
+        2177,
+        1266,
+        2226
+      ],
+      "text": "Montgomery, W. S., 5, 32d 1912 11th nw.",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        403,
+        2213,
+        1038,
+        2259
+      ],
+      "text": "Moore, Zeph P., 1, 1206 R nw.",
+      "confidence": 0.984
+    },
+    {
+      "bbox": [
+        409,
+        2252,
+        1048,
+        2294
+      ],
+      "text": "Morris, Peter D., 7, 1803 L nw.",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        409,
+        2288,
+        1029,
+        2325
+      ],
+      "text": "Morrison, B. F., 5, 1303 P nw.",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        409,
+        2321,
+        1004,
+        2365
+      ],
+      "text": "Morrison, John, 1, 334 C sw.",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        410,
+        2349,
+        1307,
+        2398
+      ],
+      "text": "Moten, Sylvester, 7-5, 1239 Trinidad ave. ne.",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        410,
+        2381,
+        1158,
+        2433
+      ],
+      "text": "Moten, Parker, 8-11-2, 1628 11th nw.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        403,
+        2418,
+        1207,
+        2499
+      ],
+      "text": "Moton, V. S., 7, 2247 12th nw.\nMozee, Richard, 1-7, 1428 Fla. ave. nw.",
+      "confidence": 0.9781
+    },
+    {
+      "bbox": [
+        407,
+        2481,
+        1126,
+        2544
+      ],
+      "text": "Murray, Emanuel, 7, 1800 14th nw.",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        403,
+        2511,
+        1078,
+        2583
+      ],
+      "text": "Murray, Harrison, 3, 1215 D se.",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        407,
+        2559,
+        987,
+        2601
+      ],
+      "text": "Murray, H. C., 5, 628 O nw.",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        407,
+        2594,
+        1002,
+        2634
+      ],
+      "text": "Myers, Hyter, 15, 1416 I nw.",
+      "confidence": 0.9796
+    },
+    {
+      "bbox": [
+        407,
+        2622,
+        1324,
+        2671
+      ],
+      "text": "Myers, Wm. H., 6-1-1, 33d A-H-N, 308 3d sw.",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        869,
+        2701,
+        925,
+        2733
+      ],
+      "text": "89",
+      "confidence": 0.9685
+    },
+    {
+      "bbox": [
+        415,
+        2911,
+        528,
+        2925
+      ],
+      "text": "1日 日本の日本の日本の日本の日本の日本の日本の日本の日本の日本の日本の日本の日本の日",
+      "confidence": 0.0485
+    }
+  ]
+}

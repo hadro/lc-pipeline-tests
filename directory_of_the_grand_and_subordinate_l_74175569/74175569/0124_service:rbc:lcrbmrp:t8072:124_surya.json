@@ -1,0 +1,196 @@
+{
+  "image_width": 1822,
+  "image_height": 2992,
+  "lines": [
+    {
+      "bbox": [
+        540,
+        399,
+        1316,
+        472
+      ],
+      "text": "Marian Chapter, No. 8, O. E. S.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        456,
+        523,
+        1415,
+        596
+      ],
+      "text": "Nellie Williams, Royal Matron, 823 2nd st. se.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        460,
+        591,
+        1410,
+        663
+      ],
+      "text": "J. H. F. Brown, Royal Patron, 1013 18th nw.",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        504,
+        671,
+        1360,
+        740
+      ],
+      "text": "Matilda Payne, Secretary, 1511 M st. nw.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        704,
+        755,
+        1168,
+        812
+      ],
+      "text": "Meets Fourth Friday.",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        467,
+        1232,
+        1415,
+        1305
+      ],
+      "text": "Prince Hall Chapter, No. 12, O. E. S.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        467,
+        1355,
+        1417,
+        1433
+      ],
+      "text": "Amelia Montague ...... Royal Matron",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        801,
+        1422,
+        1102,
+        1470
+      ],
+      "text": "1303 T st. nw.",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        466,
+        1480,
+        1421,
+        1554
+      ],
+      "text": "Walter J. Abrams.... Royal Patron",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        753,
+        1543,
+        1132,
+        1597
+      ],
+      "text": "1241 22nd st. nw.",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        528,
+        1620,
+        1328,
+        1682
+      ],
+      "text": "Eva B. Lucas, Secretary, 461 E st. sw.",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        730,
+        1702,
+        1165,
+        1756
+      ],
+      "text": "Meets First Monday.",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        574,
+        2235,
+        1340,
+        2301
+      ],
+      "text": "Electa Chapter, No. 14, O. E. S.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        472,
+        2362,
+        1428,
+        2421
+      ],
+      "text": "Rebecca J. Taylor......Royal Matron.",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        606,
+        2417,
+        1290,
+        2476
+      ],
+      "text": "1245 Austin st., Brookland, D. C.",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        478,
+        2486,
+        1428,
+        2545
+      ],
+      "text": "W. A. Warfield, Royal Patron, 1901 11th nw.",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        586,
+        2566,
+        1317,
+        2623
+      ],
+      "text": "Ella Jones, Secretary, 916 E st. sw.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        694,
+        2645,
+        1240,
+        2700
+      ],
+      "text": "Meets Second Wednesday.",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        918,
+        2722,
+        994,
+        2760
+      ],
+      "text": "115",
+      "confidence": 0.978
+    }
+  ]
+}

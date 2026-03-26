@@ -1,0 +1,127 @@
+{
+  "image": "0033_service:mss:mss11879:mss11879-42:42001:0033.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Bank Ledger",
+    "section_title": "CR",
+    "year": "1857"
+  },
+  "page_context": {
+    "record_type": "Loan Record",
+    "section_title": "Money loaned in the District of Columbia",
+    "year": "1873"
+  },
+  "entries": [
+    {
+      "date": "October 28, 1873",
+      "description": "Dr Green. Twelve hundred Dollars",
+      "amount": "1200.00",
+      "transaction_type": "loan_given",
+      "record_type": "Loan Record",
+      "section_title": "Money loaned in the District of Columbia",
+      "year": "1873",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0033#xywh=976,194,530,110",
+      "image": "0033_service:mss:mss11879:mss11879-42:42001:0033.jpg"
+    },
+    {
+      "date": "October 28, 1873",
+      "description": "Mr Feiler",
+      "amount": "1000.00",
+      "transaction_type": "loan_given",
+      "record_type": "Loan Record",
+      "section_title": "Money loaned in the District of Columbia",
+      "year": "1873",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0033#xywh=984,285,337,150",
+      "image": "0033_service:mss:mss11879:mss11879-42:42001:0033.jpg"
+    },
+    {
+      "date": "October 28, 1873",
+      "description": "Chas. R. Douglass",
+      "amount": "1300.00",
+      "transaction_type": "loan_given",
+      "record_type": "Loan Record",
+      "section_title": "Money loaned in the District of Columbia",
+      "year": "1873",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0033#xywh=982,394,357,60",
+      "image": "0033_service:mss:mss11879:mss11879-42:42001:0033.jpg"
+    },
+    {
+      "date": "October 28, 1873",
+      "description": "Deed of trust. Cook",
+      "amount": "5000.00",
+      "transaction_type": "loan_given",
+      "record_type": "Loan Record",
+      "section_title": "Money loaned in the District of Columbia",
+      "year": "1873",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0033#xywh=977,452,364,55",
+      "image": "0033_service:mss:mss11879:mss11879-42:42001:0033.jpg"
+    },
+    {
+      "date": "October 28, 1873",
+      "description": "Deed of Trust. Cook",
+      "amount": "2000.00",
+      "transaction_type": "loan_given",
+      "record_type": "Loan Record",
+      "section_title": "Money loaned in the District of Columbia",
+      "year": "1873",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0033#xywh=975,83,499,124",
+      "image": "0033_service:mss:mss11879:mss11879-42:42001:0033.jpg"
+    },
+    {
+      "date": "October 28, 1873",
+      "description": "Emily Johnson",
+      "amount": "80.00",
+      "transaction_type": "loan_given",
+      "record_type": "Loan Record",
+      "section_title": "Money loaned in the District of Columbia",
+      "year": "1873",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0033#xywh=970,549,335,59",
+      "image": "0033_service:mss:mss11879:mss11879-42:42001:0033.jpg"
+    },
+    {
+      "date": "October 28, 1873",
+      "description": "Lewis H. Douglass",
+      "amount": "1500.00",
+      "transaction_type": "loan_given",
+      "record_type": "Loan Record",
+      "section_title": "Money loaned in the District of Columbia",
+      "year": "1873",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0033#xywh=962,597,378,71",
+      "image": "0033_service:mss:mss11879:mss11879-42:42001:0033.jpg"
+    },
+    {
+      "date": "October 28, 1873",
+      "description": "Fredk Douglass",
+      "amount": "1000.00",
+      "transaction_type": "loan_given",
+      "record_type": "Loan Record",
+      "section_title": "Money loaned in the District of Columbia",
+      "year": "1873",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0033",
+      "image": "0033_service:mss:mss11879:mss11879-42:42001:0033.jpg"
+    },
+    {
+      "date": "October 28, 1873",
+      "description": "Chas. Douglass",
+      "amount": "1000.00",
+      "transaction_type": "loan_given",
+      "record_type": "Loan Record",
+      "section_title": "Money loaned in the District of Columbia",
+      "year": "1873",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0033",
+      "image": "0033_service:mss:mss11879:mss11879-42:42001:0033.jpg"
+    },
+    {
+      "date": "October 28, 1873",
+      "description": "Deposit At F Bank",
+      "amount": "3.80",
+      "transaction_type": "deposit",
+      "record_type": "Loan Record",
+      "section_title": "Money loaned in the District of Columbia",
+      "year": "1873",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0033#xywh=967,748,393,64",
+      "image": "0033_service:mss:mss11879:mss11879-42:42001:0033.jpg"
+    }
+  ]
+}

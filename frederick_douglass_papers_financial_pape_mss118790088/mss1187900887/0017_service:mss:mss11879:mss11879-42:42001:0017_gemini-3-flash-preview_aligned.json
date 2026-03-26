@@ -1,0 +1,566 @@
+{
+  "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017",
+  "canvas_width": 1956,
+  "canvas_height": 1609,
+  "surya_median_confidence": 0.8595,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        268,
+        181,
+        646,
+        238
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=268,181,378,57",
+      "confidence": "line",
+      "gemini_text": "Je vais bien",
+      "surya_confidence": 0.8843
+    },
+    {
+      "bbox": [
+        242,
+        247,
+        810,
+        289
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=242,247,568,42",
+      "confidence": "line",
+      "gemini_text": "Je ne vais pas bien",
+      "surya_confidence": 0.5872
+    },
+    {
+      "bbox": [
+        261,
+        347,
+        683,
+        394
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=261,347,422,47",
+      "confidence": "line",
+      "gemini_text": "Nous allons bien",
+      "surya_confidence": 0.9869
+    },
+    {
+      "bbox": [
+        265,
+        399,
+        996,
+        443
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=265,399,731,44",
+      "confidence": "line",
+      "gemini_text": "Conduisez moi au Palais Bourbon",
+      "surya_confidence": 0.9971
+    },
+    {
+      "bbox": [
+        268,
+        451,
+        662,
+        495
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=268,451,394,44",
+      "confidence": "line",
+      "gemini_text": "Dépêchez-vous",
+      "surya_confidence": 0.969
+    },
+    {
+      "bbox": [
+        269,
+        498,
+        823,
+        548
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=269,498,554,50",
+      "confidence": "line",
+      "gemini_text": "Je vous prends à l'heure",
+      "surya_confidence": 0.3697
+    },
+    {
+      "bbox": [
+        274,
+        550,
+        796,
+        596
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=274,550,522,46",
+      "confidence": "line",
+      "gemini_text": "Où sommes nous",
+      "surya_confidence": 0.8837
+    },
+    {
+      "bbox": [
+        276,
+        599,
+        916,
+        646
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=276,599,640,47",
+      "confidence": "line",
+      "gemini_text": "Combien d'arrêt or",
+      "surya_confidence": 0.8318
+    },
+    {
+      "bbox": [
+        273,
+        649,
+        954,
+        697
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=273,649,681,48",
+      "confidence": "line",
+      "gemini_text": "combien de minutes d'arrêt?",
+      "surya_confidence": 0.9949
+    },
+    {
+      "bbox": [
+        271,
+        697,
+        893,
+        751
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=271,697,622,54",
+      "confidence": "line",
+      "gemini_text": "Quelle heure est-il?",
+      "surya_confidence": 0.5028
+    },
+    {
+      "bbox": [
+        268,
+        738,
+        935,
+        813
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=268,738,667,75",
+      "confidence": "line",
+      "gemini_text": "Quand part le train?",
+      "surya_confidence": 0.9599
+    },
+    {
+      "bbox": [
+        289,
+        798,
+        985,
+        853
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=289,798,696,55",
+      "confidence": "line",
+      "gemini_text": "Quel est le meilleur hotel?",
+      "surya_confidence": 0.576
+    },
+    {
+      "bbox": [
+        292,
+        857,
+        978,
+        901
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=292,857,686,44",
+      "confidence": "line",
+      "gemini_text": "Avez vous une chambre à",
+      "surya_confidence": 0.7907
+    },
+    {
+      "bbox": [
+        277,
+        917,
+        536,
+        954
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=277,917,259,37",
+      "confidence": "line",
+      "gemini_text": "deux lits?",
+      "surya_confidence": 0.5944
+    },
+    {
+      "bbox": [
+        280,
+        967,
+        542,
+        1003
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=280,967,262,36",
+      "confidence": "line",
+      "gemini_text": "Combien?",
+      "surya_confidence": 0.9924
+    },
+    {
+      "bbox": [
+        265,
+        1009,
+        993,
+        1065
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=265,1009,728,56",
+      "confidence": "line",
+      "gemini_text": "Quel est le prix de pension?",
+      "surya_confidence": 0.5674
+    },
+    {
+      "bbox": [
+        273,
+        1059,
+        571,
+        1108
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=273,1059,298,49",
+      "confidence": "line",
+      "gemini_text": "par jour?",
+      "surya_confidence": 0.7765
+    },
+    {
+      "bbox": [
+        285,
+        1110,
+        607,
+        1158
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=285,1110,322,48",
+      "confidence": "line",
+      "gemini_text": "par semaine",
+      "surya_confidence": 0.7785
+    },
+    {
+      "bbox": [
+        298,
+        1165,
+        614,
+        1203
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=298,1165,316,38",
+      "confidence": "line",
+      "gemini_text": "par mois?",
+      "surya_confidence": 0.613
+    },
+    {
+      "bbox": [
+        274,
+        1208,
+        1004,
+        1265
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=274,1208,730,57",
+      "confidence": "line",
+      "gemini_text": "Nous partirons demain matin",
+      "surya_confidence": 0.985
+    },
+    {
+      "bbox": [
+        283,
+        1270,
+        966,
+        1312
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=283,1270,683,42",
+      "confidence": "line",
+      "gemini_text": "Donnez nous la note",
+      "surya_confidence": 0.7957
+    },
+    {
+      "bbox": [
+        281,
+        1319,
+        642,
+        1366
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=281,1319,361,47",
+      "confidence": "line",
+      "gemini_text": "Tout compris",
+      "surya_confidence": 0.3734
+    },
+    {
+      "bbox": [
+        296,
+        1364,
+        768,
+        1418
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=296,1364,472,54",
+      "confidence": "line",
+      "gemini_text": "A quelle distance?",
+      "surya_confidence": 0.9728
+    },
+    {
+      "bbox": [
+        1163,
+        182,
+        1568,
+        233
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1163,182,405,51",
+      "confidence": "line",
+      "gemini_text": "I am well",
+      "surya_confidence": 0.5682
+    },
+    {
+      "bbox": [
+        1170,
+        246,
+        1553,
+        284
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1170,246,383,38",
+      "confidence": "line",
+      "gemini_text": "I am unwell",
+      "surya_confidence": 0.9899
+    },
+    {
+      "bbox": [
+        1166,
+        291,
+        1588,
+        337
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1166,291,422,46",
+      "confidence": "line",
+      "gemini_text": "Mme D. is well",
+      "surya_confidence": 0.7875
+    },
+    {
+      "bbox": [
+        1181,
+        346,
+        1566,
+        384
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1181,346,385,38",
+      "confidence": "line",
+      "gemini_text": "We are well",
+      "surya_confidence": 0.9829
+    },
+    {
+      "bbox": [
+        1095,
+        397,
+        1752,
+        435
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1095,397,657,38",
+      "confidence": "line",
+      "gemini_text": "Conduct me to the Pais Bourbon",
+      "surya_confidence": 0.9569
+    },
+    {
+      "bbox": [
+        1101,
+        451,
+        1350,
+        490
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1101,451,249,39",
+      "confidence": "line",
+      "gemini_text": "Depêchez vous.",
+      "surya_confidence": 0.926
+    },
+    {
+      "bbox": [
+        1096,
+        499,
+        1752,
+        552
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1096,499,656,53",
+      "confidence": "line",
+      "gemini_text": "I take you by the hour",
+      "surya_confidence": 0.8595
+    },
+    {
+      "bbox": [
+        1107,
+        550,
+        1528,
+        594
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1107,550,421,44",
+      "confidence": "line",
+      "gemini_text": "Where are we",
+      "surya_confidence": 0.5404
+    },
+    {
+      "bbox": [
+        1117,
+        601,
+        1878,
+        659
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1117,601,761,58",
+      "confidence": "line",
+      "gemini_text": "How long do you stop there?",
+      "surya_confidence": 0.4151
+    },
+    {
+      "bbox": [
+        1119,
+        695,
+        1757,
+        734
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1119,695,638,39",
+      "confidence": "line",
+      "gemini_text": "What o'clock is it",
+      "surya_confidence": 0.9771
+    },
+    {
+      "bbox": [
+        1115,
+        738,
+        1848,
+        797
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1115,738,733,59",
+      "confidence": "line",
+      "gemini_text": "When is the train going?",
+      "surya_confidence": 0.8332
+    },
+    {
+      "bbox": [
+        1117,
+        794,
+        1782,
+        843
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1117,794,665,49",
+      "confidence": "line",
+      "gemini_text": "What is the best hotel?",
+      "surya_confidence": 0.8954
+    },
+    {
+      "bbox": [
+        1112,
+        848,
+        1876,
+        896
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1112,848,764,48",
+      "confidence": "line",
+      "gemini_text": "Have you a room with two",
+      "surya_confidence": 0.9907
+    },
+    {
+      "bbox": [
+        1100,
+        908,
+        1266,
+        941
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1100,908,166,33",
+      "confidence": "line",
+      "gemini_text": "beds?",
+      "surya_confidence": 0.6837
+    },
+    {
+      "bbox": [
+        1095,
+        957,
+        1462,
+        991
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1095,957,367,34",
+      "confidence": "line",
+      "gemini_text": "How much?",
+      "surya_confidence": 0.9586
+    },
+    {
+      "bbox": [
+        1098,
+        999,
+        1875,
+        1065
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1098,999,777,66",
+      "confidence": "line",
+      "gemini_text": "What is the price of boarding",
+      "surya_confidence": 0.9579
+    },
+    {
+      "bbox": [
+        1101,
+        1054,
+        1312,
+        1100
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1101,1054,211,46",
+      "confidence": "line",
+      "gemini_text": "by day",
+      "surya_confidence": 0.9809
+    },
+    {
+      "bbox": [
+        1101,
+        1095,
+        1336,
+        1147
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1101,1095,235,52",
+      "confidence": "line",
+      "gemini_text": "by week",
+      "surya_confidence": 0.9275
+    },
+    {
+      "bbox": [
+        1102,
+        1156,
+        1384,
+        1206
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1102,1156,282,50",
+      "confidence": "line",
+      "gemini_text": "by month",
+      "surya_confidence": 0.8267
+    },
+    {
+      "bbox": [
+        1069,
+        1211,
+        1885,
+        1251
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1069,1211,816,40",
+      "confidence": "line",
+      "gemini_text": "We shall leave to morrow morning",
+      "surya_confidence": 0.6315
+    },
+    {
+      "bbox": [
+        1089,
+        1258,
+        1597,
+        1306
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1089,1258,508,48",
+      "confidence": "line",
+      "gemini_text": "Give us the bill",
+      "surya_confidence": 0.6332
+    },
+    {
+      "bbox": [
+        1057,
+        1301,
+        1587,
+        1359
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1057,1301,530,58",
+      "confidence": "line",
+      "gemini_text": "Everything included",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        1084,
+        1361,
+        1324,
+        1410
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1084,1361,240,49",
+      "confidence": "line",
+      "gemini_text": "How far",
+      "surya_confidence": 0.9345
+    }
+  ],
+  "unmatched_gemini": [
+    "Mme Douglass va bien"
+  ]
+}

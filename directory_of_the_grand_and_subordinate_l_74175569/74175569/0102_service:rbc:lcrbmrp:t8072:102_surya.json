@@ -1,0 +1,636 @@
+{
+  "image_width": 1815,
+  "image_height": 2994,
+  "lines": [
+    {
+      "bbox": [
+        572,
+        403,
+        1175,
+        441
+      ],
+      "text": "DIRETORY—continued.",
+      "confidence": 0.9585
+    },
+    {
+      "bbox": [
+        420,
+        471,
+        1084,
+        504
+      ],
+      "text": "Pulley, P. W., 6, 28 Defrees nw.",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        423,
+        506,
+        1143,
+        539
+      ],
+      "text": "Quarles, W. C., 9-11-2, S, Anacostia.",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        421,
+        539,
+        1104,
+        573
+      ],
+      "text": "Rafas, John W., 8-2, 822 12th nw.",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        423,
+        570,
+        1114,
+        608
+      ],
+      "text": "Redding, G. C., 8-2, 1114 18th nw.",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        418,
+        599,
+        1089,
+        679
+      ],
+      "text": "Renfro, H. B., 9, City P. O.\nRenfro, Daniel I., 1, 1628 5th nw.",
+      "confidence": 0.9784
+    },
+    {
+      "bbox": [
+        421,
+        673,
+        1081,
+        709
+      ],
+      "text": "Rhone, Geo. R., 7, 1017 18th nw.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        423,
+        709,
+        1051,
+        741
+      ],
+      "text": "Rials, Ferd., 12, 465 School sw.",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        421,
+        742,
+        1157,
+        774
+      ],
+      "text": "Richardson, D. E., 4, 1504 26th nw.",
+      "confidence": 0.986
+    },
+    {
+      "bbox": [
+        421,
+        775,
+        1158,
+        809
+      ],
+      "text": "Richardson, Geo. H., 5, 309 11th ne.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        420,
+        805,
+        1358,
+        845
+      ],
+      "text": "Richardson, J. A., 5, 217 Capitol ave., Ivy City.",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        421,
+        838,
+        1069,
+        884
+      ],
+      "text": "Richardson, Robt., 12, 410 O nw.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        418,
+        872,
+        1157,
+        951
+      ],
+      "text": "Rivers, John W., 8, 236 13th se.\nRoberts, Isaac, 8, 1322 Stanton ave.",
+      "confidence": 0.9845
+    },
+    {
+      "bbox": [
+        421,
+        946,
+        1090,
+        983
+      ],
+      "text": "Robinson, Geo. A., 7, 1431 W nw.",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        420,
+        983,
+        1099,
+        1013
+      ],
+      "text": "Robinson, Geo. M., 10, 814 3d sw.",
+      "confidence": 0.9849
+    },
+    {
+      "bbox": [
+        421,
+        1013,
+        1358,
+        1050
+      ],
+      "text": "Robinson, Michael H., 3-5-1, 33d G-M-R-S, 41",
+      "confidence": 0.9869
+    },
+    {
+      "bbox": [
+        459,
+        1051,
+        571,
+        1077
+      ],
+      "text": "D se.",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        421,
+        1083,
+        1359,
+        1117
+      ],
+      "text": "Robinson, Nathaniel, 12-7-4, 32d G-N-S, 2246",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        462,
+        1119,
+        756,
+        1147
+      ],
+      "text": "Cleveland ave.",
+      "confidence": 0.9767
+    },
+    {
+      "bbox": [
+        424,
+        1148,
+        1048,
+        1187
+      ],
+      "text": "Robinson, N. G., 3, 38½ 0 nw.",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        424,
+        1180,
+        1302,
+        1221
+      ],
+      "text": "Robinson, W. A., 0-1-3, 32d S, 1912 11th nw.",
+      "confidence": 0.9664
+    },
+    {
+      "bbox": [
+        425,
+        1222,
+        1140,
+        1252
+      ],
+      "text": "Rogers, G. C. F., 12, 2402 15th nw.",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        423,
+        1255,
+        974,
+        1285
+      ],
+      "text": "Rollins, Daniel, 3, 47 L nw.",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        424,
+        1288,
+        1048,
+        1321
+      ],
+      "text": "Ross, Travis, 7, 1613 12th nw.",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        426,
+        1321,
+        1004,
+        1356
+      ],
+      "text": "Ross, R. D., 4, 1129 23d nw.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        421,
+        1355,
+        1358,
+        1391
+      ],
+      "text": "Ryder, Rev. Wm. P., 3-1-1, C, 66 11th st.,",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        459,
+        1391,
+        827,
+        1423
+      ],
+      "text": "Wheeling, W. Va.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        424,
+        1421,
+        1072,
+        1460
+      ],
+      "text": "Sales, Thomas, 15-5, 711 2d sw.",
+      "confidence": 0.9767
+    },
+    {
+      "bbox": [
+        425,
+        1460,
+        1082,
+        1490
+      ],
+      "text": "Saunders, James, 3-1, 1503 P nw.",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        424,
+        1493,
+        1031,
+        1527
+      ],
+      "text": "Saunders, Wm., 6, Deanwood.",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        424,
+        1527,
+        1256,
+        1559
+      ],
+      "text": "Saunders, Wm. H., 4-11-2, G. Deanwood.",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        423,
+        1561,
+        1122,
+        1593
+      ],
+      "text": "Savoy, Edw. A., 14, 2008 17th nw.",
+      "confidence": 0.9687
+    },
+    {
+      "bbox": [
+        425,
+        1596,
+        1110,
+        1626
+      ],
+      "text": "Savoy, Walter, 5, 1257 Wylie ne.",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        423,
+        1629,
+        1140,
+        1661
+      ],
+      "text": "Scipio, Chas. W., 15-5-1, 456 1st sw.",
+      "confidence": 0.9827
+    },
+    {
+      "bbox": [
+        425,
+        1662,
+        1172,
+        1700
+      ],
+      "text": "Scott, A. W., 12-2, G, 1626 11th nw.",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        426,
+        1694,
+        1049,
+        1731
+      ],
+      "text": "Scott, Geo. W., 5, 1703 R nw.",
+      "confidence": 0.9836
+    },
+    {
+      "bbox": [
+        425,
+        1733,
+        1340,
+        1765
+      ],
+      "text": "Scott, Isaac W., 9-7-4, 33d G-R-S, 1737 L nw.",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        426,
+        1768,
+        1098,
+        1798
+      ],
+      "text": "Scott, Jere., 15, 206 Va. ave. sw.",
+      "confidence": 0.9812
+    },
+    {
+      "bbox": [
+        426,
+        1799,
+        1220,
+        1833
+      ],
+      "text": "Scott, John R., 9, U. S. Marshal Office.",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        426,
+        1836,
+        1158,
+        1866
+      ],
+      "text": "Scott, Wm. A., 6, Gaithersburg, Md.",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        426,
+        1866,
+        1198,
+        1902
+      ],
+      "text": "Scott, Wm. E., 1, 1032 N. J. ave. nw.",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        422,
+        1894,
+        1221,
+        1979
+      ],
+      "text": "Scott, Wm. M., 15, 42 Pierce nw. Sears, Andrew W., 1-1-3, S, 445 I nw.",
+      "confidence": 0.9518
+    },
+    {
+      "bbox": [
+        426,
+        1970,
+        1359,
+        2004
+      ],
+      "text": "Severson, Wm. H., 3-7-4, 32d B-L-R-S, 326 E",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        426,
+        2006,
+        1129,
+        2036
+      ],
+      "text": "Sewell, Chas. A., 5, 1127 18th nw.",
+      "confidence": 0.979
+    },
+    {
+      "bbox": [
+        426,
+        2039,
+        1054,
+        2071
+      ],
+      "text": "Shelton, J. B., 6, Chicago, Ills.",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        426,
+        2074,
+        1161,
+        2104
+      ],
+      "text": "Shelton, W. H., 15, 128 Va. ave. sw.",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        426,
+        2106,
+        1116,
+        2141
+      ],
+      "text": "Shippen, P. W., 14, 1735 10th nw.",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        426,
+        2138,
+        1341,
+        2175
+      ],
+      "text": "Simmons, Arthur, 1-1-3, 33d G-I-S, 1739 L nw.",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        426,
+        2171,
+        1344,
+        2207
+      ],
+      "text": "Simmons, John T., 15-5-1, S, 207 Va. ave. sw.",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        426,
+        2204,
+        1358,
+        2246
+      ],
+      "text": "Simmons, P. H., 6-1-1, 32d G-K-Q-S, 1020 20th",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        426,
+        2245,
+        1359,
+        2277
+      ],
+      "text": "Simms, Geo. W., 1-1-3, G-S, 2110 Ward Pl. nw.",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        426,
+        2278,
+        1073,
+        2308
+      ],
+      "text": "Simms, Henry C., 15, 315 D se.",
+      "confidence": 0.9852
+    },
+    {
+      "bbox": [
+        428,
+        2313,
+        1132,
+        2342
+      ],
+      "text": "Simms, H. E., 14, S, 1544 8th nw.",
+      "confidence": 0.9895
+    },
+    {
+      "bbox": [
+        428,
+        2347,
+        1359,
+        2376
+      ],
+      "text": "Simms, Richard, 7-11-2, R, 1918 N. Y. ave. nw.",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        427,
+        2375,
+        1205,
+        2413
+      ],
+      "text": "Skinner, John, 3-5, 1440 Madison nw.",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        428,
+        2408,
+        1119,
+        2444
+      ],
+      "text": "Slade, Bennett B., 14, 1202 E nw.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        423,
+        2435,
+        1225,
+        2556
+      ],
+      "text": "Slaughter, Abe, 15-5-1, S, 1611 4th nw. Smallwood, Thomas, 3, 207 L nw. Smiler, Andrew, 15, 704 1st sw.",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        426,
+        2549,
+        1203,
+        2582
+      ],
+      "text": "Smiler, James H., 15-5-1, 1318 11th se.",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        427,
+        2580,
+        1163,
+        2617
+      ],
+      "text": "Smith, Austin, 3, Falls Church, Va.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        428,
+        2618,
+        1341,
+        2651
+      ],
+      "text": "Smith, Clem., 9-5-1, S, St. Elizabeth Asylum.",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        427,
+        2650,
+        1056,
+        2686
+      ],
+      "text": "Smith, C. L., 15, 302 12th nw.",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        868,
+        2711,
+        922,
+        2743
+      ],
+      "text": "93",
+      "confidence": 0.9657
+    },
+    {
+      "bbox": [
+        432,
+        2908,
+        555,
+        2922
+      ],
+      "text": "الواقع المستشيطين المترث",
+      "confidence": 0.3262
+    }
+  ]
+}

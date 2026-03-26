@@ -1,0 +1,266 @@
+{
+  "image_width": 1833,
+  "image_height": 2995,
+  "lines": [
+    {
+      "bbox": [
+        458,
+        318,
+        1373,
+        378
+      ],
+      "text": "Roster Grand Chapter O. E. S.",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        228,
+        641,
+        1591,
+        685
+      ],
+      "text": "James O. Bampfield......Grand Royal Patron",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        737,
+        712,
+        1087,
+        747
+      ],
+      "text": "1119 V st., nw.",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        232,
+        797,
+        1590,
+        838
+      ],
+      "text": "Elizabeth W. Marshall.....Grand Royal Matron",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        759,
+        869,
+        1099,
+        904
+      ],
+      "text": "1203 K st., nw.",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        230,
+        968,
+        1587,
+        1005
+      ],
+      "text": "Wm. A. Baltimore .... Associate Grand Royal Patron",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        229,
+        1057,
+        1585,
+        1095
+      ],
+      "text": "Hattie E. Lee..... Associate Grand Royal Matron",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        230,
+        1140,
+        1585,
+        1190
+      ],
+      "text": "Martha A. Ferguson......Grand Treasurer",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        229,
+        1235,
+        1593,
+        1275
+      ],
+      "text": "Ellen L. Wayne......Grand Secretary",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        693,
+        1303,
+        1142,
+        1339
+      ],
+      "text": "315 East Capitol st.",
+      "confidence": 0.9821
+    },
+    {
+      "bbox": [
+        226,
+        1414,
+        1587,
+        1455
+      ],
+      "text": "Julia M. Taylor ........................Grand Conductress",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        229,
+        1503,
+        1585,
+        1542
+      ],
+      "text": "Matilda Payne......Associate Grand Conductress",
+      "confidence": 0.9681
+    },
+    {
+      "bbox": [
+        230,
+        1582,
+        1585,
+        1636
+      ],
+      "text": "Emma Evans......Grand Warder",
+      "confidence": 0.9857
+    },
+    {
+      "bbox": [
+        227,
+        1668,
+        1577,
+        1718
+      ],
+      "text": "Walter J. Abrams ......Grand Marshal",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        224,
+        1769,
+        1582,
+        1810
+      ],
+      "text": "Robert A. Payne .......Grand Chaplain",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        224,
+        1857,
+        1582,
+        1899
+      ],
+      "text": "Lelia L. Pendleton..... Hon. Grand Lady Truth",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        222,
+        1944,
+        1582,
+        1990
+      ],
+      "text": "Annie V. Moore...................................",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        222,
+        2032,
+        1581,
+        2079
+      ],
+      "text": "Lottie R. Crusoe....................................",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        222,
+        2119,
+        1582,
+        2169
+      ],
+      "text": "Jennie Stewart ....................................",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        219,
+        2213,
+        1577,
+        2259
+      ],
+      "text": "Emma G. Dandridge....................................",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        222,
+        2302,
+        1581,
+        2349
+      ],
+      "text": "Julia A. Taylor..... Hon. Grand Organist",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        219,
+        2384,
+        1575,
+        2435
+      ],
+      "text": "Robt. H. Ford..... ...............................",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        213,
+        2480,
+        1573,
+        2527
+      ],
+      "text": "Nellie E. Morgan....................................",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        698,
+        2573,
+        1086,
+        2611
+      ],
+      "text": "918 11th st., nw.",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        875,
+        2673,
+        933,
+        2708
+      ],
+      "text": "43",
+      "confidence": 0.9843
+    },
+    {
+      "bbox": [
+        436,
+        2908,
+        560,
+        2922
+      ],
+      "text": "Commence of the of",
+      "confidence": 0.3019
+    }
+  ]
+}

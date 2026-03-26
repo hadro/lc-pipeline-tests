@@ -1,0 +1,216 @@
+{
+  "image_width": 1890,
+  "image_height": 2996,
+  "lines": [
+    {
+      "bbox": [
+        717,
+        370,
+        1274,
+        431
+      ],
+      "text": "Phone, East 342-Y.",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        623,
+        606,
+        1373,
+        664
+      ],
+      "text": "CARL E. GUNDLACH,",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        321,
+        743,
+        1677,
+        800
+      ],
+      "text": "Costumes, Lodge Paraphernalia, Society Goods,",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        601,
+        890,
+        1387,
+        945
+      ],
+      "text": "Emblems, Buttons, Badges,",
+      "confidence": 0.9577
+    },
+    {
+      "bbox": [
+        456,
+        1018,
+        1524,
+        1075
+      ],
+      "text": "FOR ALL SECRET SOCIETIES.",
+      "confidence": 0.9851
+    },
+    {
+      "bbox": [
+        707,
+        1133,
+        1290,
+        1217
+      ],
+      "text": "Flags and Buntings.",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        535,
+        1348,
+        1458,
+        1402
+      ],
+      "text": "813 Seventh Street Northwest,",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        719,
+        1460,
+        1267,
+        1517
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        324,
+        1593,
+        1059,
+        1634
+      ],
+      "text": "Established Jan. 27, 1897.",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        1075,
+        1595,
+        1672,
+        1634
+      ],
+      "text": "Telephone, 803 Columbus.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        715,
+        1703,
+        1282,
+        1760
+      ],
+      "text": "HOTEL MACEO,",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        505,
+        1816,
+        1491,
+        1876
+      ],
+      "text": "First-class Accommodations Only.",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        319,
+        1929,
+        1671,
+        1985
+      ],
+      "text": "213 West 53d St., Cor. Broadway, New York.",
+      "confidence": 0.992
+    },
+    {
+      "bbox": [
+        494,
+        2036,
+        1488,
+        2094
+      ],
+      "text": "FIRST-CLASS RESTAURANT",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        606,
+        2150,
+        1389,
+        2202
+      ],
+      "text": "For Ladies and Gentlemen.",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        318,
+        2285,
+        1671,
+        2343
+      ],
+      "text": "Headquarters for the Clergy and Business Men.",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        450,
+        2370,
+        1541,
+        2432
+      ],
+      "text": "Salads, Oysters and Chops a Specialty.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        322,
+        2476,
+        1666,
+        2515
+      ],
+      "text": "Regular Dinner, 6 to 8 P.-M., 35c. Sundays, 1 to 4.30, 45c.",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        633,
+        2555,
+        1373,
+        2593
+      ],
+      "text": "Open from 7 30 A. M. to 12 P. M.",
+      "confidence": 0.9877
+    },
+    {
+      "bbox": [
+        957,
+        2634,
+        1622,
+        2672
+      ],
+      "text": "BENJ. F. THOMAS, Prop.",
+      "confidence": 0.9689
+    },
+    {
+      "bbox": [
+        965,
+        2691,
+        1025,
+        2725
+      ],
+      "text": "98",
+      "confidence": 0.9751
+    }
+  ]
+}

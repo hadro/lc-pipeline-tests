@@ -1,0 +1,56 @@
+{
+  "image_width": 1725,
+  "image_height": 1424,
+  "lines": [
+    {
+      "bbox": [
+        132,
+        188,
+        742,
+        269
+      ],
+      "text": "Herd for whichour.",
+      "confidence": 0.5317
+    },
+    {
+      "bbox": [
+        117,
+        288,
+        862,
+        468
+      ],
+      "text": "Miller Ochon & Mulligarismon,\ndated June 15 \" for 6 Bunth due",
+      "confidence": 0.819
+    },
+    {
+      "bbox": [
+        113,
+        489,
+        848,
+        679
+      ],
+      "text": "Miller Vo Milleyur Two Months,",
+      "confidence": 0.8342
+    },
+    {
+      "bbox": [
+        117,
+        757,
+        455,
+        814
+      ],
+      "text": "Mehrz. Market:",
+      "confidence": 0.7114
+    },
+    {
+      "bbox": [
+        678,
+        767,
+        817,
+        823
+      ],
+      "text": "410",
+      "confidence": 0.9931
+    }
+  ]
+}

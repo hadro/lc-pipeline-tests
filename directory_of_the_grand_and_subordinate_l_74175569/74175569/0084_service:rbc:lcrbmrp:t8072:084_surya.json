@@ -1,0 +1,646 @@
+{
+  "image_width": 1801,
+  "image_height": 2991,
+  "lines": [
+    {
+      "bbox": [
+        646,
+        458,
+        1232,
+        518
+      ],
+      "text": "eMasonic Directorye",
+      "confidence": 0.516
+    },
+    {
+      "bbox": [
+        452,
+        562,
+        1418,
+        600
+      ],
+      "text": "-Abrams, Walter J., 1-11-3, 33d S, 1241 22d nw.",
+      "confidence": 0.8525
+    },
+    {
+      "bbox": [
+        454,
+        597,
+        1262,
+        634
+      ],
+      "text": "-Addison, C. E., 15-5, 1201 Pa. ave. se.",
+      "confidence": 0.9103
+    },
+    {
+      "bbox": [
+        484,
+        635,
+        1149,
+        667
+      ],
+      "text": "Alexander, Louis, 8-2, 1015 Q nw.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        483,
+        668,
+        1119,
+        701
+      ],
+      "text": "Allen, L. J., 7-11-2, 1923 L nw.",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        484,
+        702,
+        1299,
+        738
+      ],
+      "text": "Anderson, Chas. H., 6-1, St. Louis, Mo.",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        484,
+        737,
+        1199,
+        773
+      ],
+      "text": "Anderson, Stephen, 8, 618 12th ne.",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        484,
+        772,
+        1317,
+        807
+      ],
+      "text": "Anderson, Wm. H., 6-2-1, 163 Pierce nw.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        484,
+        808,
+        1179,
+        840
+      ],
+      "text": "Andrews, J. A., 14, 1635 11th nw.",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        484,
+        840,
+        1340,
+        876
+      ],
+      "text": "Archer, Simon, 8-7-4, 32d S, 1623 17th nw.",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        484,
+        873,
+        1340,
+        915
+      ],
+      "text": "Armistead, H. M., 1-7, 32d G, 315 10th se.",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        484,
+        905,
+        1299,
+        946
+      ],
+      "text": "Arnett, Henry Y., 9, Wilberforce, Ohio.",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        487,
+        947,
+        1419,
+        980
+      ],
+      "text": "Arrington, George, 5-7-4, S, 627 R. I. ave. nw.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        484,
+        983,
+        1338,
+        1013
+      ],
+      "text": "Askins, J. B., 9-11-2, S, 1739 Corcoran nw.",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        484,
+        1014,
+        1220,
+        1051
+      ],
+      "text": "Avery, J. H., 9, Bur. Ptg. and Eng.",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        484,
+        1052,
+        1100,
+        1084
+      ],
+      "text": "Bagby, Alfred, 6, 1007 U nw.",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        484,
+        1085,
+        1419,
+        1119
+      ],
+      "text": "Bailey, Horace M., 1-1-3, 32d G-M-S, 400 I nw.",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        484,
+        1121,
+        1173,
+        1156
+      ],
+      "text": "Bailey, L. C., 5, A, 1406 15th nw.",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        484,
+        1153,
+        1217,
+        1190
+      ],
+      "text": "Ball, Edgar, 5, C, 735 Marshall nw.",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        487,
+        1186,
+        1146,
+        1225
+      ],
+      "text": "Baltimore, Jere. D., 5, 224 D sw.",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        487,
+        1228,
+        1137,
+        1258
+      ],
+      "text": "Baltimore, Wm. A., 5, 71 G sw.",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        486,
+        1261,
+        1422,
+        1293
+      ],
+      "text": "Bampfield, Jas. O., 9-7-4, 33d D-M-R-S-T, 1119",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        505,
+        1295,
+        653,
+        1324
+      ],
+      "text": "V nw.",
+      "confidence": 0.9216
+    },
+    {
+      "bbox": [
+        484,
+        1330,
+        1178,
+        1362
+      ],
+      "text": "Banks, Harrison, 9-7-1, 731 2d sw.",
+      "confidence": 0.9808
+    },
+    {
+      "bbox": [
+        484,
+        1367,
+        1154,
+        1396
+      ],
+      "text": "Banks, H. H., 15-5-1, 731 2d sw.",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        484,
+        1401,
+        1220,
+        1431
+      ],
+      "text": "Banks, J. W., 9-7-4, Brentwood, Md.",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        484,
+        1436,
+        1262,
+        1466
+      ],
+      "text": "Barbour, Wm. H., 5-1-1, S, 1514 O nw.",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        484,
+        1470,
+        1136,
+        1503
+      ],
+      "text": "Barnes, Perry, 4, 1043 30th nw.",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        484,
+        1506,
+        1136,
+        1536
+      ],
+      "text": "Barnes, Peter, 9-7-1, 234 2d nw.",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        483,
+        1540,
+        1064,
+        1572
+      ],
+      "text": "Battle, John, 15, 213 G sw.",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        484,
+        1574,
+        1038,
+        1606
+      ],
+      "text": "Batty, R. B., 6, 319 3d sw.",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        484,
+        1610,
+        1158,
+        1640
+      ],
+      "text": "Beaman, Jos. N., 15, 1321 M nw.",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        486,
+        1642,
+        1218,
+        1677
+      ],
+      "text": "Beason, James T., 9, G, 2462 P nw.",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        487,
+        1674,
+        1159,
+        1715
+      ],
+      "text": "Beckett, Wm., 1-5-3, 1628 M nw.",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        486,
+        1712,
+        1322,
+        1746
+      ],
+      "text": "Beckwith, John, 15-5-1, 727 Del. ave. sw.",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        484,
+        1749,
+        1158,
+        1781
+      ],
+      "text": "Bell, John C., 6, Bennings, D. C.",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        487,
+        1785,
+        1262,
+        1815
+      ],
+      "text": "Berry, Alfred, 3-5-1, 649 S. C. ave. se.",
+      "confidence": 0.9874
+    },
+    {
+      "bbox": [
+        489,
+        1819,
+        1181,
+        1851
+      ],
+      "text": "Berry, Samuel W., 15, 247 3d sw.",
+      "confidence": 0.9839
+    },
+    {
+      "bbox": [
+        489,
+        1853,
+        1421,
+        1886
+      ],
+      "text": "Beverly, Rev. R. H., 3-1-3, G-S, Anacostia.",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        490,
+        1888,
+        1178,
+        1922
+      ],
+      "text": "Beverly, Robt. H., 1-5, 924 L nw.",
+      "confidence": 0.9822
+    },
+    {
+      "bbox": [
+        489,
+        1923,
+        1419,
+        1955
+      ],
+      "text": "Beverly, Wm., 14, 147 Grand st., Jersey City,",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        489,
+        1957,
+        1218,
+        1991
+      ],
+      "text": "Bias, James, 4, 1143 21st nw., rear.",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        489,
+        1994,
+        1146,
+        2024
+      ],
+      "text": "Bland, John H., 7, 1206 16th nw.",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        489,
+        2029,
+        1125,
+        2059
+      ],
+      "text": "Blont, S. A., 9, 3d and P nw.",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        487,
+        2061,
+        1245,
+        2096
+      ],
+      "text": "Bogle, Harrison, 6, 1732 Vt. ave. nw.",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        487,
+        2091,
+        1283,
+        2132
+      ],
+      "text": "Boggins, Frank K., 3, 605 Va. ave. se.",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        487,
+        2128,
+        1303,
+        2168
+      ],
+      "text": "Bonner, M. J., 5, 1420 Pierce Place nw.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        487,
+        2168,
+        1082,
+        2198
+      ],
+      "text": "Booker, N. J., 7, 1117 19 nw.",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        489,
+        2200,
+        1157,
+        2235
+      ],
+      "text": "Bowie, Henry, 15, 108 Canal sw.",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        487,
+        2237,
+        1203,
+        2267
+      ],
+      "text": "Bowman, Lincoln, 6, 2410 15th nw.",
+      "confidence": 0.9786
+    },
+    {
+      "bbox": [
+        487,
+        2269,
+        1098,
+        2306
+      ],
+      "text": "Boyd, Geo. R., 7, 2807 O nw.",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        489,
+        2304,
+        1098,
+        2337
+      ],
+      "text": "Boyd, Geo. W., 7, 2807 O nw.",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        489,
+        2340,
+        1362,
+        2374
+      ],
+      "text": "Bradford, Longstreet, 1-1-3, 10 Defrees nw.",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        489,
+        2374,
+        1106,
+        2406
+      ],
+      "text": "Branch, E. J., 12, 1112 Q nw.",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        489,
+        2405,
+        1301,
+        2443
+      ],
+      "text": "Branch, G. W., 8, 2125 Ward Place nw.",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        489,
+        2444,
+        1269,
+        2477
+      ],
+      "text": "Brandon, D. S., 5-11, G, 1826 11th nw.",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        485,
+        2470,
+        1265,
+        2552
+      ],
+      "text": "Braxton, C. B., 15, 2124 11th nw.\nBray, Paul H., 9, 32d 322 Spruce nw.",
+      "confidence": 0.9715
+    },
+    {
+      "bbox": [
+        489,
+        2549,
+        1173,
+        2582
+      ],
+      "text": "Briles, Daniel, 12, 1502 Erie nw.",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        488,
+        2582,
+        1080,
+        2618
+      ],
+      "text": "Brodie, A. K., 1, 1110 T nw.",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        489,
+        2617,
+        1184,
+        2650
+      ],
+      "text": "Bronaugh, Hunter, 14, 1734 V nw.",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        489,
+        2651,
+        1227,
+        2685
+      ],
+      "text": "Brooks, Alex. H., 9-5, 2034 17th nw.",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        488,
+        2682,
+        1242,
+        2722
+      ],
+      "text": "Brooks, Arthur, 10-7-3, 2009 14th nw.",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        927,
+        2757,
+        981,
+        2791
+      ],
+      "text": "75",
+      "confidence": 0.9258
+    },
+    {
+      "bbox": [
+        430,
+        2907,
+        541,
+        2921
+      ],
+      "text": "Statement of the party",
+      "confidence": 0.2255
+    }
+  ]
+}

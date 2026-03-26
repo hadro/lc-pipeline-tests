@@ -1,0 +1,158 @@
+{
+  "image": "0053_service:rbc:lcrbmrp:t8072:053.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:053",
+  "canvas_width": 1892,
+  "canvas_height": 2996,
+  "surya_median_confidence": 0.9823,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        395,
+        1747,
+        1619,
+        1797
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:053#xywh=395,1747,1224,50",
+      "confidence": "line",
+      "gemini_text": "It goes into every State in the Union and in foreign lands.",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        453,
+        1815,
+        1510,
+        1891
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:053#xywh=453,1815,1057,76",
+      "confidence": "line",
+      "gemini_text": "ONLY $1.00",
+      "surya_confidence": 0.7968
+    },
+    {
+      "bbox": [
+        758,
+        1920,
+        1259,
+        1952
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:053#xywh=758,1920,501,32",
+      "confidence": "line",
+      "gemini_text": "PER YEAR IN ADVANCE.",
+      "surya_confidence": 0.9877
+    },
+    {
+      "bbox": [
+        798,
+        2006,
+        1214,
+        2043
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:053#xywh=798,2006,416,37",
+      "confidence": "line",
+      "gemini_text": "SUBSCRIBE FOR THE",
+      "surya_confidence": 0.9964
+    },
+    {
+      "bbox": [
+        670,
+        2240,
+        1357,
+        2286
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:053#xywh=670,2240,687,46",
+      "confidence": "line",
+      "gemini_text": "published in the United States.",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        919,
+        2476,
+        1102,
+        2515
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:053#xywh=919,2476,183,39",
+      "confidence": "line",
+      "gemini_text": "Address",
+      "surya_confidence": 0.9138
+    },
+    {
+      "bbox": [
+        783,
+        2537,
+        1486,
+        2599
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:053#xywh=783,2537,703,62",
+      "confidence": "line",
+      "gemini_text": "Industrial Advocate,",
+      "surya_confidence": 0.9947
+    },
+    {
+      "bbox": [
+        952,
+        2614,
+        1521,
+        2662
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:053#xywh=952,2614,569,48",
+      "confidence": "line",
+      "gemini_text": "627 So. St. Asaph St.,",
+      "surya_confidence": 0.9858
+    },
+    {
+      "bbox": [
+        465,
+        2062,
+        1558,
+        2160
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:053#xywh=465,2062,1093,98",
+      "confidence": "line",
+      "gemini_text": "\"Industrial Advocate,\"",
+      "surya_confidence": 0.9971
+    },
+    {
+      "bbox": [
+        401,
+        2183,
+        1630,
+        2234
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:053#xywh=401,2183,1229,51",
+      "confidence": "line",
+      "gemini_text": "The only Afro-American Masonic Weekly Newspaper",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        403,
+        2291,
+        1629,
+        2347
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:053#xywh=403,2291,1226,56",
+      "confidence": "line",
+      "gemini_text": "Official Organ Scottish Rite Masons and Mystic Shriners.",
+      "surya_confidence": 0.9782
+    },
+    {
+      "bbox": [
+        449,
+        2390,
+        1603,
+        2430
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:053#xywh=449,2390,1154,40",
+      "confidence": "line",
+      "gemini_text": "ENDORSED BY LEADING MASONS THE COUNTRY OVER.",
+      "surya_confidence": 0.974
+    }
+  ],
+  "unmatched_gemini": [
+    "Alexandria, Va."
+  ]
+}

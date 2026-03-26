@@ -1,0 +1,528 @@
+{
+  "image": "0073_service:rbc:lcrbmrp:t8072:073.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073",
+  "canvas_width": 1890,
+  "canvas_height": 3004,
+  "surya_median_confidence": 0.9969,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        593,
+        384,
+        1403,
+        489
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=593,384,810,105",
+      "confidence": "line",
+      "gemini_text": "MORPHINE,",
+      "surya_confidence": 0.9717
+    },
+    {
+      "bbox": [
+        459,
+        558,
+        1542,
+        649
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=459,558,1083,91",
+      "confidence": "line",
+      "gemini_text": "Opium, Whiskey and",
+      "surya_confidence": 0.9527
+    },
+    {
+      "bbox": [
+        575,
+        666,
+        1418,
+        761
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=575,666,843,95",
+      "confidence": "line",
+      "gemini_text": "All Drug Habits",
+      "surya_confidence": 0.9307
+    },
+    {
+      "bbox": [
+        529,
+        813,
+        1475,
+        868
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=529,813,946,55",
+      "confidence": "line",
+      "gemini_text": "Cured Without Pain at Your Home.",
+      "surya_confidence": 0.9978
+    },
+    {
+      "bbox": [
+        633,
+        894,
+        1351,
+        945
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=633,894,718,51",
+      "confidence": "line",
+      "gemini_text": "The Best of Sanitorium Facilities",
+      "surya_confidence": 0.8665
+    },
+    {
+      "bbox": [
+        875,
+        971,
+        1127,
+        1020
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=875,971,252,49",
+      "confidence": "line",
+      "gemini_text": "it Desired.",
+      "surya_confidence": 0.9864
+    },
+    {
+      "bbox": [
+        568,
+        1056,
+        1476,
+        1105
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=568,1056,908,49",
+      "confidence": "line",
+      "gemini_text": "If you are addicted to these habits",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        527,
+        1100,
+        1476,
+        1148
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=527,1100,949,48",
+      "confidence": "line",
+      "gemini_text": "you can be cured and restored to your",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        527,
+        1148,
+        1474,
+        1192
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=527,1148,947,44",
+      "confidence": "line",
+      "gemini_text": "former health and vigor without pain",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        527,
+        1196,
+        1477,
+        1235
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=527,1196,950,39",
+      "confidence": "line",
+      "gemini_text": "or the loss of an hour from your busi-",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        527,
+        1237,
+        1477,
+        1279
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=527,1237,950,42",
+      "confidence": "line",
+      "gemini_text": "ness at a moderate cost. The medicine",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        526,
+        1278,
+        1477,
+        1329
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=526,1278,951,51",
+      "confidence": "line",
+      "gemini_text": "builds up your health, restores your",
+      "surya_confidence": 0.9708
+    },
+    {
+      "bbox": [
+        527,
+        1326,
+        1476,
+        1370
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=527,1326,949,44",
+      "confidence": "line",
+      "gemini_text": "nervous system to its normal condition;",
+      "surya_confidence": 0.9956
+    },
+    {
+      "bbox": [
+        527,
+        1369,
+        1476,
+        1416
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=527,1369,949,47",
+      "confidence": "line",
+      "gemini_text": "you feel like a different person from the",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        527,
+        1413,
+        1477,
+        1461
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=527,1413,950,48",
+      "confidence": "line",
+      "gemini_text": "beginning of the treatment, LEAVING",
+      "surya_confidence": 0.9952
+    },
+    {
+      "bbox": [
+        527,
+        1456,
+        1477,
+        1504
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=527,1456,950,48",
+      "confidence": "line",
+      "gemini_text": "OFF THE OPIATES AFTER THE",
+      "surya_confidence": 0.9793
+    },
+    {
+      "bbox": [
+        524,
+        1502,
+        1473,
+        1548
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=524,1502,949,46",
+      "confidence": "line",
+      "gemini_text": "FIRST DOSE. You will soon be con-",
+      "surya_confidence": 0.9792
+    },
+    {
+      "bbox": [
+        525,
+        1548,
+        1472,
+        1594
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=525,1548,947,46",
+      "confidence": "line",
+      "gemini_text": "vinced and fully satisfied in your own",
+      "surya_confidence": 0.9866
+    },
+    {
+      "bbox": [
+        525,
+        1590,
+        1213,
+        1638
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=525,1590,688,48",
+      "confidence": "line",
+      "gemini_text": "mind that you will be cured.",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        569,
+        1637,
+        1473,
+        1684
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=569,1637,904,47",
+      "confidence": "line",
+      "gemini_text": "Mr. T. M. Brown, of DeQueen, Ark.,",
+      "surya_confidence": 0.9943
+    },
+    {
+      "bbox": [
+        525,
+        1680,
+        1473,
+        1729
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=525,1680,948,49",
+      "confidence": "line",
+      "gemini_text": "says: \"Over seven years ago I was cured",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        525,
+        1724,
+        1476,
+        1774
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=525,1724,951,50",
+      "confidence": "line",
+      "gemini_text": "of the opium habit by your medicine",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        525,
+        1772,
+        1476,
+        1816
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=525,1772,951,44",
+      "confidence": "line",
+      "gemini_text": "and have continued in the very best of",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        524,
+        1827,
+        853,
+        1862
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=524,1827,329,35",
+      "confidence": "line",
+      "gemini_text": "health since.\"",
+      "surya_confidence": 0.9884
+    },
+    {
+      "bbox": [
+        566,
+        1871,
+        1473,
+        1917
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=566,1871,907,46",
+      "confidence": "line",
+      "gemini_text": "Dr. W. N. Tunstall, of Lovingston, Va.",
+      "surya_confidence": 0.9831
+    },
+    {
+      "bbox": [
+        524,
+        1914,
+        1476,
+        1961
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=524,1914,952,47",
+      "confidence": "line",
+      "gemini_text": "says: \"I am glad to say that I firmly be-",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        520,
+        1959,
+        1474,
+        2006
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=520,1959,954,47",
+      "confidence": "line",
+      "gemini_text": "lieve that I am entirely and permanent-",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        521,
+        2003,
+        1471,
+        2049
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=521,2003,950,46",
+      "confidence": "line",
+      "gemini_text": "ly cured of the Drink Habit, as I have",
+      "surya_confidence": 0.9983
+    },
+    {
+      "bbox": [
+        522,
+        2047,
+        1473,
+        2095
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=522,2047,951,48",
+      "confidence": "line",
+      "gemini_text": "never so much as wanted a drink in any",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        522,
+        2094,
+        1473,
+        2138
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=522,2094,951,44",
+      "confidence": "line",
+      "gemini_text": "form since I took your eradicator, now",
+      "surya_confidence": 0.9983
+    },
+    {
+      "bbox": [
+        525,
+        2136,
+        1471,
+        2185
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=525,2136,946,49",
+      "confidence": "line",
+      "gemini_text": "eighteen months ago. It was the best",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        524,
+        2184,
+        1071,
+        2220
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=524,2184,547,36",
+      "confidence": "line",
+      "gemini_text": "dollar I ever invested.\"",
+      "surya_confidence": 0.9864
+    },
+    {
+      "bbox": [
+        566,
+        2226,
+        1471,
+        2274
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=566,2226,905,48",
+      "confidence": "line",
+      "gemini_text": "Mrs. Virginia Townsend, of Shreve-",
+      "surya_confidence": 0.9939
+    },
+    {
+      "bbox": [
+        522,
+        2271,
+        1471,
+        2317
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=522,2271,949,46",
+      "confidence": "line",
+      "gemini_text": "port, La., writes: No more opium. I have",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        522,
+        2317,
+        1469,
+        2361
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=522,2317,947,44",
+      "confidence": "line",
+      "gemini_text": "taken no other remedy than yours and",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        522,
+        2359,
+        1469,
+        2408
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=522,2359,947,49",
+      "confidence": "line",
+      "gemini_text": "I make no mistake when I say that my",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        520,
+        2404,
+        1466,
+        2445
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=520,2404,946,41",
+      "confidence": "line",
+      "gemini_text": "health is better now than it ever was in",
+      "surya_confidence": 0.9944
+    },
+    {
+      "bbox": [
+        519,
+        2447,
+        1469,
+        2496
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=519,2447,950,49",
+      "confidence": "line",
+      "gemini_text": "my life, and I owe it to you and your",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        519,
+        2493,
+        1471,
+        2539
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=519,2493,952,46",
+      "confidence": "line",
+      "gemini_text": "remedy. It has been twelve years since",
+      "surya_confidence": 0.9969
+    },
+    {
+      "bbox": [
+        519,
+        2541,
+        1256,
+        2580
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=519,2541,737,39",
+      "confidence": "line",
+      "gemini_text": "I was cured by your treatment.",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        560,
+        2595,
+        1464,
+        2637
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=560,2595,904,42",
+      "confidence": "line",
+      "gemini_text": "For full particulars address Dr. B",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        519,
+        2636,
+        1465,
+        2687
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=519,2636,946,51",
+      "confidence": "line",
+      "gemini_text": "M. Wooley, 302 Lowndes Bldg., Atlanta,",
+      "surya_confidence": 0.9958
+    },
+    {
+      "bbox": [
+        521,
+        2686,
+        615,
+        2719
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:073#xywh=521,2686,94,33",
+      "confidence": "line",
+      "gemini_text": "Ga.",
+      "surya_confidence": 0.9873
+    }
+  ],
+  "unmatched_gemini": []
+}

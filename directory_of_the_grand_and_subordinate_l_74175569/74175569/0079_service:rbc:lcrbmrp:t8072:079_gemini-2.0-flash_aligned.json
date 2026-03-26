@@ -1,0 +1,384 @@
+{
+  "image": "0079_service:rbc:lcrbmrp:t8072:079.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079",
+  "canvas_width": 1916,
+  "canvas_height": 2992,
+  "surya_median_confidence": 0.9939,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        398,
+        329,
+        1533,
+        401
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=398,329,1135,72",
+      "confidence": "line",
+      "gemini_text": "Woman's Crowning Beauty is her Face.",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        569,
+        434,
+        1360,
+        478
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=569,434,791,44",
+      "confidence": "line",
+      "gemini_text": "THE ART OF BEAUTIFYING,",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        791,
+        516,
+        1130,
+        576
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=791,516,339,60",
+      "confidence": "line",
+      "gemini_text": "Electrolysys.",
+      "surya_confidence": 0.9919
+    },
+    {
+      "bbox": [
+        285,
+        620,
+        1641,
+        667
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=285,620,1356,47",
+      "confidence": "line",
+      "gemini_text": "SCIENTIFIC, FACIAL AND GENERAL MASSAGE",
+      "surya_confidence": 0.9818
+    },
+    {
+      "bbox": [
+        835,
+        694,
+        1087,
+        728
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=835,694,252,34",
+      "confidence": "line",
+      "gemini_text": "TAUGHT.",
+      "surya_confidence": 0.978
+    },
+    {
+      "bbox": [
+        326,
+        867,
+        1643,
+        918
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=326,867,1317,51",
+      "confidence": "line",
+      "gemini_text": "The long-felt want of an institution for the teaching of",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        280,
+        911,
+        1637,
+        963
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=280,911,1357,52",
+      "confidence": "line",
+      "gemini_text": "Massage, Electricity, Medico-Gymnastic, Medical Baths,",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        283,
+        956,
+        1638,
+        1006
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=283,956,1355,50",
+      "confidence": "line",
+      "gemini_text": "etc., after the system in the Medical Schools in Europe, has",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        280,
+        1001,
+        1413,
+        1048
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=280,1001,1133,47",
+      "confidence": "line",
+      "gemini_text": "prompted me to introduce such an institution here.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        323,
+        1059,
+        1638,
+        1105
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=323,1059,1315,46",
+      "confidence": "line",
+      "gemini_text": "The number of scientifically educated Massage Operators",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        279,
+        1101,
+        1638,
+        1150
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=279,1101,1359,49",
+      "confidence": "line",
+      "gemini_text": "in this country is very limited, and the demand for such is",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        281,
+        1149,
+        673,
+        1187
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=281,1149,392,38",
+      "confidence": "line",
+      "gemini_text": "rapidly growing.",
+      "surya_confidence": 0.9976
+    },
+    {
+      "bbox": [
+        323,
+        1202,
+        1346,
+        1249
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=323,1202,1023,47",
+      "confidence": "line",
+      "gemini_text": "Do you desire to learn a profitable life work?",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        671,
+        1283,
+        1242,
+        1325
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=671,1283,571,42",
+      "confidence": "line",
+      "gemini_text": "DR. JOHN F. NUBEL,",
+      "surya_confidence": 0.9783
+    },
+    {
+      "bbox": [
+        826,
+        1352,
+        1630,
+        1396
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=826,1352,804,44",
+      "confidence": "line",
+      "gemini_text": "Professor of Massage Electrolysys.",
+      "surya_confidence": 0.9684
+    },
+    {
+      "bbox": [
+        279,
+        1428,
+        951,
+        1470
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=279,1428,672,42",
+      "confidence": "line",
+      "gemini_text": "Residence, 1202 K St., N. W.",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        1453,
+        1427,
+        1632,
+        1469
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=1453,1427,179,42",
+      "confidence": "line",
+      "gemini_text": "'Phone.",
+      "surya_confidence": 0.8902
+    },
+    {
+      "bbox": [
+        282,
+        1553,
+        1630,
+        1641
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=282,1553,1348,88",
+      "confidence": "line",
+      "gemini_text": "BEAUTIFY YOUR WORK!",
+      "surya_confidence": 0.9874
+    },
+    {
+      "bbox": [
+        389,
+        1713,
+        1526,
+        1764
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=389,1713,1137,51",
+      "confidence": "line",
+      "gemini_text": "Sermons, Song Services, Lectures, Readings, etc.,",
+      "surya_confidence": 0.9966
+    },
+    {
+      "bbox": [
+        609,
+        1789,
+        1301,
+        1850
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=609,1789,692,61",
+      "confidence": "line",
+      "gemini_text": "Beautifully Illustrated.",
+      "surya_confidence": 0.9129
+    },
+    {
+      "bbox": [
+        846,
+        1878,
+        1064,
+        1917
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=846,1878,218,39",
+      "confidence": "line",
+      "gemini_text": "by aid of",
+      "surya_confidence": 0.9879
+    },
+    {
+      "bbox": [
+        491,
+        1940,
+        1414,
+        1999
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=491,1940,923,59",
+      "confidence": "line",
+      "gemini_text": "DOUBLE STEREOPTICON",
+      "surya_confidence": 0.7013
+    },
+    {
+      "bbox": [
+        911,
+        2027,
+        999,
+        2057
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=911,2027,88,30",
+      "confidence": "line",
+      "gemini_text": "and",
+      "surya_confidence": 0.9845
+    },
+    {
+      "bbox": [
+        689,
+        2090,
+        1215,
+        2148
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=689,2090,526,58",
+      "confidence": "line",
+      "gemini_text": "Calcium Light.",
+      "surya_confidence": 0.9498
+    },
+    {
+      "bbox": [
+        394,
+        2225,
+        1494,
+        2281
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=394,2225,1100,56",
+      "confidence": "line",
+      "gemini_text": "Masonic Work and Bible History a Specialty.",
+      "surya_confidence": 0.9958
+    },
+    {
+      "bbox": [
+        521,
+        2346,
+        1389,
+        2384
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=521,2346,868,38",
+      "confidence": "line",
+      "gemini_text": "Slides Made to Order on Short Notice.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        271,
+        2416,
+        1058,
+        2450
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=271,2416,787,34",
+      "confidence": "line",
+      "gemini_text": "PRICES REASONABLE. SERVICES PROMPT.",
+      "surya_confidence": 0.9875
+    },
+    {
+      "bbox": [
+        328,
+        2529,
+        1563,
+        2568
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=328,2529,1235,39",
+      "confidence": "line",
+      "gemini_text": "For rates, dates and list of subjects, call on or address",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        726,
+        2597,
+        1160,
+        2633
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=726,2597,434,36",
+      "confidence": "line",
+      "gemini_text": "F. A. FOWLER,",
+      "surya_confidence": 0.9688
+    },
+    {
+      "bbox": [
+        491,
+        2665,
+        1398,
+        2703
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=491,2665,907,38",
+      "confidence": "line",
+      "gemini_text": "Sec'y Social Lodge, No. 1, F. A. A. M.",
+      "surya_confidence": 0.9975
+    },
+    {
+      "bbox": [
+        271,
+        2731,
+        1617,
+        2768
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:079#xywh=271,2731,1346,37",
+      "confidence": "line",
+      "gemini_text": "Office, 511 10th St., N. W, Residence, 2209 14th St., N.W.",
+      "surya_confidence": 0.9879
+    }
+  ],
+  "unmatched_gemini": []
+}

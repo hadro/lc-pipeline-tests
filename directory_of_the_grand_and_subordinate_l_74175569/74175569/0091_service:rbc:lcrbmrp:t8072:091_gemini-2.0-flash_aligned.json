@@ -1,0 +1,336 @@
+{
+  "image": "0091_service:rbc:lcrbmrp:t8072:091.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091",
+  "canvas_width": 1916,
+  "canvas_height": 2996,
+  "surya_median_confidence": 0.9969,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        316,
+        353,
+        1205,
+        429
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=316,353,889,76",
+      "confidence": "line",
+      "gemini_text": "Present---Future.",
+      "surya_confidence": 0.9286
+    },
+    {
+      "bbox": [
+        590,
+        538,
+        1678,
+        574
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=590,538,1088,36",
+      "confidence": "line",
+      "gemini_text": "\"To thine own self be true.\" Evidence the",
+      "surya_confidence": 0.9947
+    },
+    {
+      "bbox": [
+        589,
+        617,
+        1678,
+        659
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=589,617,1089,42",
+      "confidence": "line",
+      "gemini_text": "above by purchasing a home. I will submit as",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        585,
+        697,
+        1676,
+        738
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=585,697,1091,41",
+      "confidence": "line",
+      "gemini_text": "large a variety from which to make a selection",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        590,
+        789,
+        1676,
+        827
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=590,789,1086,38",
+      "confidence": "line",
+      "gemini_text": "as any nogro can show you, and a far greater",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        587,
+        875,
+        1676,
+        921
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=587,875,1089,46",
+      "confidence": "line",
+      "gemini_text": "number than any Caucasian will show you.",
+      "surya_confidence": 0.9983
+    },
+    {
+      "bbox": [
+        588,
+        967,
+        1676,
+        1008
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=588,967,1088,41",
+      "confidence": "line",
+      "gemini_text": "Prices, from $1,500 to $15,000, and in no instance",
+      "surya_confidence": 0.9936
+    },
+    {
+      "bbox": [
+        587,
+        1057,
+        1679,
+        1098
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=587,1057,1092,41",
+      "confidence": "line",
+      "gemini_text": "will you pay a dollar more than the property is",
+      "surya_confidence": 0.9981
+    },
+    {
+      "bbox": [
+        590,
+        1151,
+        739,
+        1185
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=590,1151,149,34",
+      "confidence": "line",
+      "gemini_text": "worth.",
+      "surya_confidence": 0.9969
+    },
+    {
+      "bbox": [
+        632,
+        1239,
+        1681,
+        1277
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=632,1239,1049,38",
+      "confidence": "line",
+      "gemini_text": "If provided for the present, look out for the",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        585,
+        1329,
+        1676,
+        1367
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=585,1329,1091,38",
+      "confidence": "line",
+      "gemini_text": "future by taking out a life insurance policy.",
+      "surya_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        589,
+        1419,
+        1679,
+        1457
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=589,1419,1090,38",
+      "confidence": "line",
+      "gemini_text": "Modern insurance does not require that an indi-",
+      "surya_confidence": 0.9969
+    },
+    {
+      "bbox": [
+        588,
+        1506,
+        1678,
+        1550
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=588,1506,1090,44",
+      "confidence": "line",
+      "gemini_text": "vidual should die to win. Insure while young or",
+      "surya_confidence": 0.9983
+    },
+    {
+      "bbox": [
+        587,
+        1593,
+        1681,
+        1640
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=587,1593,1094,47",
+      "confidence": "line",
+      "gemini_text": "middle-aged, and you will be certain of a compe-",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        587,
+        1687,
+        1678,
+        1729
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=587,1687,1091,42",
+      "confidence": "line",
+      "gemini_text": "tence when you grow old. In sums of $1,000 and",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        588,
+        1774,
+        1683,
+        1821
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=588,1774,1095,47",
+      "confidence": "line",
+      "gemini_text": "up, and any one of the dozen forms of policies",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        589,
+        1869,
+        1684,
+        1907
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=589,1869,1095,38",
+      "confidence": "line",
+      "gemini_text": "issued by the Company-not just the highest",
+      "surya_confidence": 0.997
+    },
+    {
+      "bbox": [
+        590,
+        1960,
+        1111,
+        1998
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=590,1960,521,38",
+      "confidence": "line",
+      "gemini_text": "priced, and that alone.",
+      "surya_confidence": 0.9974
+    },
+    {
+      "bbox": [
+        630,
+        2048,
+        1681,
+        2087
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=630,2048,1051,39",
+      "confidence": "line",
+      "gemini_text": "Favor me with a postal, and I shall be pleased",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        590,
+        2134,
+        1676,
+        2178
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=590,2134,1086,44",
+      "confidence": "line",
+      "gemini_text": "to call, and you will be assured square treatment.",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        325,
+        2281,
+        1021,
+        2338
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=325,2281,696,57",
+      "confidence": "line",
+      "gemini_text": "JOHN C. KEELAN,",
+      "surya_confidence": 0.9632
+    },
+    {
+      "bbox": [
+        464,
+        2376,
+        747,
+        2409
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=464,2376,283,33",
+      "confidence": "line",
+      "gemini_text": "BROKERS'",
+      "surya_confidence": 0.8052
+    },
+    {
+      "bbox": [
+        459,
+        2440,
+        1018,
+        2476
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=459,2440,559,36",
+      "confidence": "line",
+      "gemini_text": "REPRESENTATIVE,",
+      "surya_confidence": 0.9745
+    },
+    {
+      "bbox": [
+        327,
+        2506,
+        1021,
+        2544
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=327,2506,694,38",
+      "confidence": "line",
+      "gemini_text": "REAL ESTATE, LOANS,",
+      "surya_confidence": 0.9538
+    },
+    {
+      "bbox": [
+        328,
+        2574,
+        836,
+        2608
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=328,2574,508,34",
+      "confidence": "line",
+      "gemini_text": "LIFE INSURANCE.",
+      "surya_confidence": 0.9629
+    },
+    {
+      "bbox": [
+        458,
+        2641,
+        1015,
+        2678
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=458,2641,557,37",
+      "confidence": "line",
+      "gemini_text": "245 ELM STREET, N. W.",
+      "surya_confidence": 0.9884
+    },
+    {
+      "bbox": [
+        967,
+        2697,
+        1026,
+        2731
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:091#xywh=967,2697,59,34",
+      "confidence": "line",
+      "gemini_text": "82",
+      "surya_confidence": 0.9829
+    }
+  ],
+  "unmatched_gemini": []
+}

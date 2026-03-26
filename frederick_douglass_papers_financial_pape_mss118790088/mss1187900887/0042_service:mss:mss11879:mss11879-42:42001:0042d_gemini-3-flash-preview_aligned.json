@@ -1,0 +1,313 @@
+{
+  "image": "0042_service:mss:mss11879:mss11879-42:42001:0042d.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d",
+  "canvas_width": 863,
+  "canvas_height": 1288,
+  "surya_median_confidence": 0.9864,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        142,
+        71,
+        722,
+        128
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=142,71,580,57",
+      "confidence": "line",
+      "gemini_text": "THE WASHINGTON LOAN & TRUST CO.",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        242,
+        122,
+        620,
+        154
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=242,122,378,32",
+      "confidence": "line",
+      "gemini_text": "PAID UP CAPITAL, $1,000,000.",
+      "surya_confidence": 0.7906
+    },
+    {
+      "bbox": [
+        142,
+        154,
+        725,
+        205
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=142,154,583,51",
+      "confidence": "line",
+      "gemini_text": "Organized under Act of Congress, and subject to the supervision",
+      "surya_confidence": 0.987
+    },
+    {
+      "bbox": [
+        202,
+        968,
+        676,
+        996
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=202,968,474,28",
+      "confidence": "line",
+      "gemini_text": "Granite Building, Cor. 9th and F Sts., N. W.",
+      "surya_confidence": 0.9955
+    },
+    {
+      "bbox": [
+        376,
+        1000,
+        503,
+        1015
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=376,1000,127,15",
+      "confidence": "line",
+      "gemini_text": "DIRECTORS.",
+      "surya_confidence": 0.9567
+    },
+    {
+      "bbox": [
+        344,
+        1015,
+        504,
+        1039
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=344,1015,160,24",
+      "confidence": "line",
+      "gemini_text": "Martin A. Knapp,",
+      "surya_confidence": 0.9885
+    },
+    {
+      "bbox": [
+        344,
+        1034,
+        481,
+        1054
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=344,1034,137,20",
+      "confidence": "line",
+      "gemini_text": "John B. Larner,",
+      "surya_confidence": 0.9874
+    },
+    {
+      "bbox": [
+        341,
+        1050,
+        521,
+        1087
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=341,1050,180,37",
+      "confidence": "line",
+      "gemini_text": "Theodore W. Noyes,",
+      "surya_confidence": 0.9903
+    },
+    {
+      "bbox": [
+        341,
+        1085,
+        501,
+        1103
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=341,1085,160,18",
+      "confidence": "line",
+      "gemini_text": "Allison Nailor, Jr.",
+      "surya_confidence": 0.9832
+    },
+    {
+      "bbox": [
+        342,
+        1103,
+        507,
+        1121
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=342,1103,165,18",
+      "confidence": "line",
+      "gemini_text": "Watson J. Newton,",
+      "surya_confidence": 0.9713
+    },
+    {
+      "bbox": [
+        341,
+        1116,
+        497,
+        1141
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=341,1116,156,25",
+      "confidence": "line",
+      "gemini_text": "Sam'l L. Phillips,",
+      "surya_confidence": 0.9973
+    },
+    {
+      "bbox": [
+        340,
+        1137,
+        463,
+        1152
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=340,1137,123,15",
+      "confidence": "line",
+      "gemini_text": "Isadore Saks,",
+      "surya_confidence": 0.9884
+    },
+    {
+      "bbox": [
+        341,
+        1153,
+        447,
+        1169
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=341,1153,106,16",
+      "confidence": "line",
+      "gemini_text": "N. H. Shea,",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        339,
+        1171,
+        445,
+        1187
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=339,1171,106,16",
+      "confidence": "line",
+      "gemini_text": "Ellis Spear,",
+      "surya_confidence": 0.982
+    },
+    {
+      "bbox": [
+        548,
+        1015,
+        714,
+        1032
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=548,1015,166,17",
+      "confidence": "line",
+      "gemini_text": "Thomas W. Smith,",
+      "surya_confidence": 0.9851
+    },
+    {
+      "bbox": [
+        548,
+        1031,
+        686,
+        1049
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=548,1031,138,18",
+      "confidence": "line",
+      "gemini_text": "John A. Swope,",
+      "surya_confidence": 0.9943
+    },
+    {
+      "bbox": [
+        541,
+        1037,
+        735,
+        1142
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=541,1037,194,105",
+      "confidence": "line",
+      "gemini_text": "George Truesdell,",
+      "surya_confidence": 0.994
+    },
+    {
+      "bbox": [
+        541,
+        1127,
+        712,
+        1188
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=541,1127,171,61",
+      "confidence": "line",
+      "gemini_text": "A. S. Worthington,",
+      "surya_confidence": 0.9789
+    },
+    {
+      "bbox": [
+        150,
+        1021,
+        304,
+        1037
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=150,1021,154,16",
+      "confidence": "line",
+      "gemini_text": "Charles B. Bailey",
+      "surya_confidence": 0.9486
+    },
+    {
+      "bbox": [
+        150,
+        1033,
+        312,
+        1110
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=150,1033,162,77",
+      "confidence": "line",
+      "gemini_text": "John R. Carmody,",
+      "surya_confidence": 0.9828
+    },
+    {
+      "bbox": [
+        152,
+        1104,
+        327,
+        1122
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=152,1104,175,18",
+      "confidence": "line",
+      "gemini_text": "Augustus Crane, Jr.,",
+      "surya_confidence": 0.9861
+    },
+    {
+      "bbox": [
+        155,
+        1121,
+        297,
+        1139
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=155,1121,142,18",
+      "confidence": "line",
+      "gemini_text": "J. J. Darlington,",
+      "surya_confidence": 0.9123
+    },
+    {
+      "bbox": [
+        151,
+        1133,
+        297,
+        1177
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=151,1133,146,44",
+      "confidence": "line",
+      "gemini_text": "John Joy Edson,",
+      "surya_confidence": 0.9866
+    },
+    {
+      "bbox": [
+        151,
+        1173,
+        314,
+        1190
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0042d#xywh=151,1173,163,17",
+      "confidence": "line",
+      "gemini_text": "John A. Hamilton,",
+      "surya_confidence": 0.9828
+    }
+  ],
+  "unmatched_gemini": [
+    "and inspection of the United States Treasury Officials.",
+    "A. L. Barber,",
+    "Wm. E. Barker,",
+    "John M. Clapp,",
+    "A. P. Fardon,",
+    "H. D. Mirick,",
+    "Louis P. Shoemaker,",
+    "B. H. Warner,",
+    "H. K. Willard",
+    "A. A. Wilson",
+    "Louis D. Wine,",
+    "S. W. Woodward,"
+  ]
+}

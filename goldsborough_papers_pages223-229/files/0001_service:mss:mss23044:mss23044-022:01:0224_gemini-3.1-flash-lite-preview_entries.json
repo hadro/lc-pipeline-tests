@@ -1,0 +1,103 @@
+{
+  "image": "0001_service:mss:mss23044:mss23044-022:01:0224.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {},
+  "page_context": {
+    "vessel_identity": "1st Class Sloop",
+    "section_title": "Tacking & Wearing",
+    "subsection": "General"
+  },
+  "entries": [
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Signal & Conn",
+      "value": "1",
+      "details": "Qr Master",
+      "canvas_fragment": "",
+      "image": "0001_service:mss:mss23044:mss23044-022:01:0224.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Wheel",
+      "value": "1",
+      "details": "Qr Master",
+      "canvas_fragment": "",
+      "image": "0001_service:mss:mss23044:mss23044-022:01:0224.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Forecastleman",
+      "value": "1",
+      "details": "Wheel",
+      "canvas_fragment": "",
+      "image": "0001_service:mss:mss23044:mss23044-022:01:0224.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Messengers",
+      "value": "2",
+      "details": null,
+      "canvas_fragment": "",
+      "image": "0001_service:mss:mss23044:mss23044-022:01:0224.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Forecastle",
+      "value": "1 B M & Nos 1 to 20",
+      "details": "inclusive",
+      "canvas_fragment": "",
+      "image": "0001_service:mss:mss23044:mss23044-022:01:0224.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Fore Mast",
+      "value": "30, 29",
+      "details": "M M",
+      "canvas_fragment": "",
+      "image": "0001_service:mss:mss23044:mss23044-022:01:0224.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Fore Top",
+      "value": "32, 52, 31, 51",
+      "details": "Capt OS",
+      "canvas_fragment": "",
+      "image": "0001_service:mss:mss23044:mss23044-022:01:0224.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Main Mast",
+      "value": "158 B M; 92, 91, M M",
+      "details": "In wearing to brail up & set Fore Trysail",
+      "canvas_fragment": "",
+      "image": "0001_service:mss:mss23044:mss23044-022:01:0224.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Marines",
+      "value": "2 part 207 to 216",
+      "details": "inclusive",
+      "canvas_fragment": "",
+      "image": "0001_service:mss:mss23044:mss23044-022:01:0224.jpg"
+    }
+  ]
+}

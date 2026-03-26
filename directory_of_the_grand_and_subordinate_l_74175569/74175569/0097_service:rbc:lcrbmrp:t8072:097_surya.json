@@ -1,0 +1,116 @@
+{
+  "image_width": 1900,
+  "image_height": 2984,
+  "lines": [
+    {
+      "bbox": [
+        827,
+        1166,
+        1329,
+        1311
+      ],
+      "text": "SERVICE STATES",
+      "confidence": 0.7337
+    },
+    {
+      "bbox": [
+        582,
+        1403,
+        1372,
+        1504
+      ],
+      "text": "MME. DAVIS.",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        310,
+        1540,
+        1661,
+        1698
+      ],
+      "text": "BORN CLAIRVOYANT & CARD READER",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        444,
+        1752,
+        1533,
+        1824
+      ],
+      "text": "Tells about Business, Removes Spells",
+      "confidence": 0.9843
+    },
+    {
+      "bbox": [
+        450,
+        1862,
+        1535,
+        1937
+      ],
+      "text": "and Evil Influences, Reunites the Sep-",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        449,
+        1965,
+        1535,
+        2048
+      ],
+      "text": "arated and GIVES LUCK TO ALL.",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        685,
+        2213,
+        1313,
+        2279
+      ],
+      "text": "1228 25th St. N. W.,",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        687,
+        2318,
+        1219,
+        2381
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        322,
+        2536,
+        1673,
+        2606
+      ],
+      "text": "No letters answered unless accompanied by",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        907,
+        2614,
+        1100,
+        2668
+      ],
+      "text": "stamp.",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        969,
+        2688,
+        1030,
+        2724
+      ],
+      "text": "88",
+      "confidence": 0.9852
+    }
+  ]
+}

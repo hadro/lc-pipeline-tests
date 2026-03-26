@@ -1,0 +1,792 @@
+{
+  "image": "0086_service:rbc:lcrbmrp:t8072:086.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086",
+  "canvas_width": 1800,
+  "canvas_height": 2986,
+  "surya_median_confidence": 0.9906,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        571,
+        464,
+        1200,
+        503
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=571,464,629,39",
+      "confidence": "line",
+      "gemini_text": "DIRECTORY-Continued.",
+      "surya_confidence": 0.9526
+    },
+    {
+      "bbox": [
+        415,
+        552,
+        1353,
+        591
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,552,938,39",
+      "confidence": "line",
+      "gemini_text": "Brooks, Eugene, 5, 32d 1437 Pierce Place nw.",
+      "surya_confidence": 0.9934
+    },
+    {
+      "bbox": [
+        415,
+        589,
+        1153,
+        625
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,589,738,36",
+      "confidence": "line",
+      "gemini_text": "Brooks, Rev. John H., 3, 435 2d sw.",
+      "surya_confidence": 0.9904
+    },
+    {
+      "bbox": [
+        417,
+        622,
+        1146,
+        660
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=417,622,729,38",
+      "confidence": "line",
+      "gemini_text": "Brooks, John T., 7-11, 535 21st nw.",
+      "surya_confidence": 0.9915
+    },
+    {
+      "bbox": [
+        416,
+        658,
+        1024,
+        695
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=416,658,608,37",
+      "confidence": "line",
+      "gemini_text": "Brooks, Wm. S., 3, 326 E sw.",
+      "surya_confidence": 0.9843
+    },
+    {
+      "bbox": [
+        415,
+        696,
+        960,
+        728
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,696,545,32",
+      "confidence": "line",
+      "gemini_text": "Brown, Chas., 3, 308 3d se.",
+      "surya_confidence": 0.9796
+    },
+    {
+      "bbox": [
+        416,
+        728,
+        1311,
+        764
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=416,728,895,36",
+      "confidence": "line",
+      "gemini_text": "Brown, Chas. H., 8-11, G, 1113 Pa. ave. nw.",
+      "surya_confidence": 0.9919
+    },
+    {
+      "bbox": [
+        415,
+        760,
+        1273,
+        802
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,760,858,42",
+      "confidence": "line",
+      "gemini_text": "Brown, Ellis W., 5-7, 32d G, 924 24th nw.",
+      "surya_confidence": 0.9952
+    },
+    {
+      "bbox": [
+        413,
+        793,
+        1110,
+        837
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=413,793,697,44",
+      "confidence": "line",
+      "gemini_text": "Brown, E. P., 7-11-2, 511 20th nw.",
+      "surya_confidence": 0.9939
+    },
+    {
+      "bbox": [
+        415,
+        834,
+        1191,
+        867
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,834,776,33",
+      "confidence": "line",
+      "gemini_text": "Brown, Geo. E., 1-1-3, S, 1009 3d nw.",
+      "surya_confidence": 0.9917
+    },
+    {
+      "bbox": [
+        415,
+        870,
+        1084,
+        900
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,870,669,30",
+      "confidence": "line",
+      "gemini_text": "Brown, Henry, 6, 52 Pierce nw.",
+      "surya_confidence": 0.9939
+    },
+    {
+      "bbox": [
+        415,
+        905,
+        1267,
+        935
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,905,852,30",
+      "confidence": "line",
+      "gemini_text": "Brown, Horace, 6-1-1, S, Deanwood, D. C.",
+      "surya_confidence": 0.9914
+    },
+    {
+      "bbox": [
+        417,
+        939,
+        1143,
+        971
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=417,939,726,32",
+      "confidence": "line",
+      "gemini_text": "Brown, Howard D., 1-2, 105 D ne.",
+      "surya_confidence": 0.9821
+    },
+    {
+      "bbox": [
+        414,
+        972,
+        1131,
+        1008
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=414,972,717,36",
+      "confidence": "line",
+      "gemini_text": "Brown, J. R. F., 14, 1013 18th nw.",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        413,
+        1002,
+        1254,
+        1046
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=413,1002,841,44",
+      "confidence": "line",
+      "gemini_text": "Brown, J. Т. С., 3-5-1, 32d R-S, 479 C sw.",
+      "surya_confidence": 0.9956
+    },
+    {
+      "bbox": [
+        414,
+        1044,
+        1150,
+        1076
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=414,1044,736,32",
+      "confidence": "line",
+      "gemini_text": "Brown, John H., 15, 71 Defrees nw.",
+      "surya_confidence": 0.995
+    },
+    {
+      "bbox": [
+        414,
+        1080,
+        1270,
+        1110
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=414,1080,856,30",
+      "confidence": "line",
+      "gemini_text": "Brown, John R., 10-7, 32d G 947 25th nw.",
+      "surya_confidence": 0.9912
+    },
+    {
+      "bbox": [
+        415,
+        1114,
+        1066,
+        1146
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,1114,651,32",
+      "confidence": "line",
+      "gemini_text": "Brown, Lincoln, 14, 1440 T nw.",
+      "surya_confidence": 0.9956
+    },
+    {
+      "bbox": [
+        417,
+        1148,
+        1170,
+        1180
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=417,1148,753,32",
+      "confidence": "line",
+      "gemini_text": "Brown, R. R., 8, 1011 N. J. ave. nw.",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        418,
+        1181,
+        1143,
+        1216
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=418,1181,725,35",
+      "confidence": "line",
+      "gemini_text": "Brown, Robt. W., 9, 1737 11th nw.",
+      "surya_confidence": 0.9931
+    },
+    {
+      "bbox": [
+        417,
+        1218,
+        1111,
+        1251
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=417,1218,694,33",
+      "confidence": "line",
+      "gemini_text": "Brown, Shad D., 14, 32d 24 O nw.",
+      "surya_confidence": 0.9921
+    },
+    {
+      "bbox": [
+        416,
+        1253,
+        1129,
+        1285
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=416,1253,713,32",
+      "confidence": "line",
+      "gemini_text": "Brown, Thos. P., 15-5-1, 829 2d sw.",
+      "surya_confidence": 0.9931
+    },
+    {
+      "bbox": [
+        415,
+        1290,
+        1060,
+        1319
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,1290,645,29",
+      "confidence": "line",
+      "gemini_text": "Brown, Wm., 4, 1208 25th nw.",
+      "surya_confidence": 0.9899
+    },
+    {
+      "bbox": [
+        414,
+        1323,
+        1311,
+        1355
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=414,1323,897,32",
+      "confidence": "line",
+      "gemini_text": "Brown, Wm. Knox, 6-1-3, G-M-S, 205 L nw.",
+      "surya_confidence": 0.988
+    },
+    {
+      "bbox": [
+        415,
+        1356,
+        1054,
+        1391
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,1356,639,35",
+      "confidence": "line",
+      "gemini_text": "Brown, Wm. T., 15, 223 H sw.",
+      "surya_confidence": 0.9945
+    },
+    {
+      "bbox": [
+        415,
+        1389,
+        1060,
+        1426
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,1389,645,37",
+      "confidence": "line",
+      "gemini_text": "Brown, Wm. T., 7, 2827 M nw.",
+      "surya_confidence": 0.9956
+    },
+    {
+      "bbox": [
+        414,
+        1427,
+        1167,
+        1459
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=414,1427,753,32",
+      "confidence": "line",
+      "gemini_text": "Bruce, J. Carl., 14, 347 Pa. ave. nw.",
+      "surya_confidence": 0.982
+    },
+    {
+      "bbox": [
+        414,
+        1463,
+        1129,
+        1492
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=414,1463,715,29",
+      "confidence": "line",
+      "gemini_text": "Bryant, J. E., 5, 1943 Vt. ave. nw.",
+      "surya_confidence": 0.9871
+    },
+    {
+      "bbox": [
+        415,
+        1497,
+        1308,
+        1526
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,1497,893,29",
+      "confidence": "line",
+      "gemini_text": "Buchanan, Chas. T., 1-5-1, 32d 1009 19th nw.",
+      "surya_confidence": 0.9853
+    },
+    {
+      "bbox": [
+        415,
+        1532,
+        1185,
+        1561
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,1532,770,29",
+      "confidence": "line",
+      "gemini_text": "Burgess, James, 4, Georgetown, D. C.",
+      "surya_confidence": 0.967
+    },
+    {
+      "bbox": [
+        412,
+        1565,
+        1168,
+        1599
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=412,1565,756,34",
+      "confidence": "line",
+      "gemini_text": "Burless, Jos. H., 7-11-2, Rosslyn, Va.",
+      "surya_confidence": 0.987
+    },
+    {
+      "bbox": [
+        414,
+        1601,
+        1024,
+        1633
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=414,1601,610,32",
+      "confidence": "line",
+      "gemini_text": "Burnett, Edw., 9, 713 1st sw.",
+      "surya_confidence": 0.9871
+    },
+    {
+      "bbox": [
+        414,
+        1637,
+        1185,
+        1667
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=414,1637,771,30",
+      "confidence": "line",
+      "gemini_text": "Burnett, H. J., 15, Freedman's Hospl.",
+      "surya_confidence": 0.9837
+    },
+    {
+      "bbox": [
+        415,
+        1672,
+        1348,
+        1701
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,1672,933,29",
+      "confidence": "line",
+      "gemini_text": "Burnett, Simon C., 7-11-2, G-S, 1346 27th nw.",
+      "surya_confidence": 0.9836
+    },
+    {
+      "bbox": [
+        415,
+        1707,
+        1312,
+        1735
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,1707,897,28",
+      "confidence": "line",
+      "gemini_text": "Burr, Brooks, 10-7-1, 33d C-M-O-S, 324 G se.",
+      "surya_confidence": 0.9838
+    },
+    {
+      "bbox": [
+        414,
+        1740,
+        1027,
+        1772
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=414,1740,613,32",
+      "confidence": "line",
+      "gemini_text": "Bush, Samuel, 10, 2010 M nw.",
+      "surya_confidence": 0.988
+    },
+    {
+      "bbox": [
+        413,
+        1773,
+        1348,
+        1809
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=413,1773,935,36",
+      "confidence": "line",
+      "gemini_text": "Butler, John A., 4-11-2, D, 1121 Connors Ct.",
+      "surya_confidence": 0.9908
+    },
+    {
+      "bbox": [
+        415,
+        1809,
+        1086,
+        1843
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,1809,671,34",
+      "confidence": "line",
+      "gemini_text": "Cabaniss, G. W., 14, 1906 K nw.",
+      "surya_confidence": 0.9873
+    },
+    {
+      "bbox": [
+        413,
+        1843,
+        1101,
+        1878
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=413,1843,688,35",
+      "confidence": "line",
+      "gemini_text": "Cabaniss, I. N., 14, 920 11th nw.",
+      "surya_confidence": 0.9878
+    },
+    {
+      "bbox": [
+        415,
+        1878,
+        1065,
+        1911
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,1878,650,33",
+      "confidence": "line",
+      "gemini_text": "Callaway, R. W., 5, 2124 F nw.",
+      "surya_confidence": 0.9859
+    },
+    {
+      "bbox": [
+        415,
+        1910,
+        1086,
+        1950
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,1910,671,40",
+      "confidence": "line",
+      "gemini_text": "Campbell, Geo. N., 3, 423 3d sw.",
+      "surya_confidence": 0.9854
+    },
+    {
+      "bbox": [
+        417,
+        1948,
+        1186,
+        1982
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=417,1948,769,34",
+      "confidence": "line",
+      "gemini_text": "Campbell, John H., 1, 32d 458 1st sw.",
+      "surya_confidence": 0.9863
+    },
+    {
+      "bbox": [
+        415,
+        1983,
+        1048,
+        2016
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,1983,633,33",
+      "confidence": "line",
+      "gemini_text": "Campbell, R. J., 9, 234 2d nw.",
+      "surya_confidence": 0.9847
+    },
+    {
+      "bbox": [
+        415,
+        2019,
+        1101,
+        2049
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,2019,686,30",
+      "confidence": "line",
+      "gemini_text": "Campbell, Thomas, 15, 326 H sw.",
+      "surya_confidence": 0.9903
+    },
+    {
+      "bbox": [
+        414,
+        2054,
+        1348,
+        2084
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=414,2054,934,30",
+      "confidence": "line",
+      "gemini_text": "Cardozo, F. J., 14-7-4, 32d D-K-S, 2d and C sw.",
+      "surya_confidence": 0.9762
+    },
+    {
+      "bbox": [
+        415,
+        2090,
+        1209,
+        2119
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,2090,794,29",
+      "confidence": "line",
+      "gemini_text": "Cardozo, Harry, 14, Freedman's Hospl.",
+      "surya_confidence": 0.9907
+    },
+    {
+      "bbox": [
+        415,
+        2124,
+        1167,
+        2154
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,2124,752,30",
+      "confidence": "line",
+      "gemini_text": "Carmine, Geo. D., 15-7-4, 425 1st sw.",
+      "surya_confidence": 0.9873
+    },
+    {
+      "bbox": [
+        413,
+        2154,
+        1228,
+        2194
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=413,2154,815,40",
+      "confidence": "line",
+      "gemini_text": "Carroll, Patrick, 7, 443 Washington nw.",
+      "surya_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        414,
+        2192,
+        1074,
+        2224
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=414,2192,660,32",
+      "confidence": "line",
+      "gemini_text": "Carroll, Rev. R. A., 15, Hilsdale.",
+      "surya_confidence": 0.9958
+    },
+    {
+      "bbox": [
+        414,
+        2227,
+        1098,
+        2260
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=414,2227,684,33",
+      "confidence": "line",
+      "gemini_text": "Carroll, Thomas, 12, Bladensburg.",
+      "surya_confidence": 0.9937
+    },
+    {
+      "bbox": [
+        415,
+        2260,
+        1348,
+        2296
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,2260,933,36",
+      "confidence": "line",
+      "gemini_text": "Carson, Perry H., 10-7-4, 33d G-M-R, 934 3d",
+      "surya_confidence": 0.9943
+    },
+    {
+      "bbox": [
+        415,
+        2297,
+        1248,
+        2329
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,2297,833,32",
+      "confidence": "line",
+      "gemini_text": "Carson, Perry H., Jr., 10, 61 Defrees nw.",
+      "surya_confidence": 0.9931
+    },
+    {
+      "bbox": [
+        415,
+        2331,
+        1104,
+        2364
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,2331,689,33",
+      "confidence": "line",
+      "gemini_text": "Carter, Arthur, 15, Tennallytown.",
+      "surya_confidence": 0.9952
+    },
+    {
+      "bbox": [
+        417,
+        2366,
+        1105,
+        2398
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=417,2366,688,32",
+      "confidence": "line",
+      "gemini_text": "Carter, Andrew J., 15, 1826 E nw.",
+      "surya_confidence": 0.9864
+    },
+    {
+      "bbox": [
+        417,
+        2396,
+        1186,
+        2433
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=417,2396,769,37",
+      "confidence": "line",
+      "gemini_text": "Carter, Charles, 6-1-3, S, 1033 3d nw.",
+      "surya_confidence": 0.9891
+    },
+    {
+      "bbox": [
+        415,
+        2435,
+        1054,
+        2468
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,2435,639,33",
+      "confidence": "line",
+      "gemini_text": "Carter, Charles, 12, S, 38 D se.",
+      "surya_confidence": 0.9958
+    },
+    {
+      "bbox": [
+        415,
+        2469,
+        1011,
+        2503
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,2469,596,34",
+      "confidence": "line",
+      "gemini_text": "Carter, E. F., 10, 1827 R nw.",
+      "surya_confidence": 0.9883
+    },
+    {
+      "bbox": [
+        415,
+        2504,
+        1104,
+        2536
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,2504,689,32",
+      "confidence": "line",
+      "gemini_text": "Carter, Geo. A., 12, 308 12th nw.",
+      "surya_confidence": 0.9912
+    },
+    {
+      "bbox": [
+        415,
+        2539,
+        1228,
+        2572
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,2539,813,33",
+      "confidence": "line",
+      "gemini_text": "Carter, Robť. R., 7-11-2, 1612 Valley st.",
+      "surya_confidence": 0.9822
+    },
+    {
+      "bbox": [
+        414,
+        2571,
+        1087,
+        2610
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=414,2571,673,39",
+      "confidence": "line",
+      "gemini_text": "Carter, Silas F., 7, 1614 4th nw.",
+      "surya_confidence": 0.9936
+    },
+    {
+      "bbox": [
+        415,
+        2605,
+        1173,
+        2643
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,2605,758,38",
+      "confidence": "line",
+      "gemini_text": "Carter, Thomas H., 14-7, 1713 R nw.",
+      "surya_confidence": 0.9868
+    },
+    {
+      "bbox": [
+        415,
+        2638,
+        1342,
+        2678
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,2638,927,40",
+      "confidence": "line",
+      "gemini_text": "Carter, Wm. A., 7-11-2, G, 1223 Potomac nw.",
+      "surya_confidence": 0.9916
+    },
+    {
+      "bbox": [
+        415,
+        2676,
+        1090,
+        2712
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,2676,675,36",
+      "confidence": "line",
+      "gemini_text": "Carter, Wm. H., 9, 918 11th nw.",
+      "surya_confidence": 0.9938
+    },
+    {
+      "bbox": [
+        415,
+        2709,
+        1126,
+        2749
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=415,2709,711,40",
+      "confidence": "line",
+      "gemini_text": "Carter, Wm. H., 15-5-2, 511 2d sw.",
+      "surya_confidence": 0.9921
+    },
+    {
+      "bbox": [
+        856,
+        2792,
+        897,
+        2814
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:086#xywh=856,2792,41,22",
+      "confidence": "line",
+      "gemini_text": "77",
+      "surya_confidence": 0.9402
+    }
+  ],
+  "unmatched_gemini": []
+}

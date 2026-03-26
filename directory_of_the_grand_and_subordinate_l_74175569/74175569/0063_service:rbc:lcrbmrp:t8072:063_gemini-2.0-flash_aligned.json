@@ -1,0 +1,384 @@
+{
+  "image": "0063_service:rbc:lcrbmrp:t8072:063.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063",
+  "canvas_width": 1892,
+  "canvas_height": 2997,
+  "surya_median_confidence": 0.9909,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        711,
+        406,
+        1259,
+        441
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=711,406,548,35",
+      "confidence": "line",
+      "gemini_text": "HENRY EBERBACH,",
+      "surya_confidence": 0.9313
+    },
+    {
+      "bbox": [
+        400,
+        459,
+        1573,
+        501
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=400,459,1173,42",
+      "confidence": "line",
+      "gemini_text": "Dealer in Pianos, Organs and Every Description of",
+      "surya_confidence": 0.9925
+    },
+    {
+      "bbox": [
+        726,
+        516,
+        1239,
+        549
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=726,516,513,33",
+      "confidence": "line",
+      "gemini_text": "Musical Merchandise.",
+      "surya_confidence": 0.964
+    },
+    {
+      "bbox": [
+        543,
+        600,
+        1473,
+        650
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=543,600,930,50",
+      "confidence": "line",
+      "gemini_text": "915 F Street, N. W., Near Ninth Street,",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        770,
+        650,
+        1196,
+        689
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=770,650,426,39",
+      "confidence": "line",
+      "gemini_text": "Washington. D. C.",
+      "surya_confidence": 0.9859
+    },
+    {
+      "bbox": [
+        343,
+        694,
+        1623,
+        734
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=343,694,1280,40",
+      "confidence": "line",
+      "gemini_text": "Pianos and Organs Repaired, Tuned, Boxed and Moved.",
+      "surya_confidence": 0.9977
+    },
+    {
+      "bbox": [
+        786,
+        802,
+        1157,
+        839
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=786,802,371,37",
+      "confidence": "line",
+      "gemini_text": "JOHN W.LEE,",
+      "surya_confidence": 0.9725
+    },
+    {
+      "bbox": [
+        868,
+        890,
+        1095,
+        924
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=868,890,227,34",
+      "confidence": "line",
+      "gemini_text": "Dealer in",
+      "surya_confidence": 0.9571
+    },
+    {
+      "bbox": [
+        393,
+        974,
+        1565,
+        1021
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=393,974,1172,47",
+      "confidence": "line",
+      "gemini_text": "FLOWERS, UPHOLSTERING, CARPETS, &c",
+      "surya_confidence": 0.9647
+    },
+    {
+      "bbox": [
+        692,
+        1071,
+        1294,
+        1108
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=692,1071,602,37",
+      "confidence": "line",
+      "gemini_text": "2722 N Street, Northwest.",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        652,
+        1205,
+        1293,
+        1252
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=652,1205,641,47",
+      "confidence": "line",
+      "gemini_text": "ARMISTEAD T. PRIDE,",
+      "surya_confidence": 0.9934
+    },
+    {
+      "bbox": [
+        783,
+        1298,
+        1171,
+        1335
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=783,1298,388,37",
+      "confidence": "line",
+      "gemini_text": "PHARMACIST,",
+      "surya_confidence": 0.9778
+    },
+    {
+      "bbox": [
+        510,
+        1385,
+        1450,
+        1432
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=510,1385,940,47",
+      "confidence": "line",
+      "gemini_text": "Corner of 28th and P Streets, Northwest.",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        300,
+        1473,
+        1651,
+        1522
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=300,1473,1351,49",
+      "confidence": "line",
+      "gemini_text": "Agent for the Famous Grip-Mal Tablets, a Sure Cure for",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        706,
+        1523,
+        1243,
+        1562
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=706,1523,537,39",
+      "confidence": "line",
+      "gemini_text": "La Grip and Malaria.",
+      "surya_confidence": 0.994
+    },
+    {
+      "bbox": [
+        682,
+        1638,
+        1258,
+        1680
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=682,1638,576,42",
+      "confidence": "line",
+      "gemini_text": "WALTER WINFIELD,",
+      "surya_confidence": 0.975
+    },
+    {
+      "bbox": [
+        866,
+        1693,
+        1077,
+        1729
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=866,1693,211,36",
+      "confidence": "line",
+      "gemini_text": "With the",
+      "surya_confidence": 0.996
+    },
+    {
+      "bbox": [
+        409,
+        1747,
+        1542,
+        1791
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=409,1747,1133,44",
+      "confidence": "line",
+      "gemini_text": "STANDARD SEWING MACHINE COMPANY",
+      "surya_confidence": 0.9435
+    },
+    {
+      "bbox": [
+        742,
+        1810,
+        1138,
+        1846
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=742,1810,396,36",
+      "confidence": "line",
+      "gemini_text": "602 9th st., nw.",
+      "surya_confidence": 0.9796
+    },
+    {
+      "bbox": [
+        400,
+        1870,
+        1548,
+        1920
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=400,1870,1148,50",
+      "confidence": "line",
+      "gemini_text": "Repairer of all kinds of Family Sewing Machines.",
+      "surya_confidence": 0.9973
+    },
+    {
+      "bbox": [
+        576,
+        1929,
+        1354,
+        1973
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=576,1929,778,44",
+      "confidence": "line",
+      "gemini_text": "1626 Vermont Avenue, Northwest.",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        736,
+        2050,
+        1207,
+        2088
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=736,2050,471,38",
+      "confidence": "line",
+      "gemini_text": "W. A. STEWART,",
+      "surya_confidence": 0.9861
+    },
+    {
+      "bbox": [
+        584,
+        2100,
+        1353,
+        2147
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=584,2100,769,47",
+      "confidence": "line",
+      "gemini_text": "CONSERVATORY OF MUSIC,",
+      "surya_confidence": 0.9528
+    },
+    {
+      "bbox": [
+        680,
+        2159,
+        1252,
+        2203
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=680,2159,572,44",
+      "confidence": "line",
+      "gemini_text": "Cor. 12th and R sts., nw.",
+      "surya_confidence": 0.9981
+    },
+    {
+      "bbox": [
+        570,
+        2214,
+        1364,
+        2261
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=570,2214,794,47",
+      "confidence": "line",
+      "gemini_text": "Lodge and Club Rooms For Rent.",
+      "surya_confidence": 0.9909
+    },
+    {
+      "bbox": [
+        352,
+        2267,
+        1581,
+        2318
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=352,2267,1229,51",
+      "confidence": "line",
+      "gemini_text": "Real Estate and Loans, Notes and Drafts Discounted.",
+      "surya_confidence": 0.9958
+    },
+    {
+      "bbox": [
+        542,
+        2327,
+        1394,
+        2366
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=542,2327,852,39",
+      "confidence": "line",
+      "gemini_text": "LEGAL CONSULTATION FREE.",
+      "surya_confidence": 0.9512
+    },
+    {
+      "bbox": [
+        647,
+        2448,
+        1279,
+        2488
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=647,2448,632,40",
+      "confidence": "line",
+      "gemini_text": "BEBNARD E. EMMERT,",
+      "surya_confidence": 0.962
+    },
+    {
+      "bbox": [
+        603,
+        2537,
+        1320,
+        2575
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=603,2537,717,38",
+      "confidence": "line",
+      "gemini_text": "Wholesale and Retail Dealer In",
+      "surya_confidence": 0.9807
+    },
+    {
+      "bbox": [
+        291,
+        2621,
+        1637,
+        2673
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=291,2621,1346,52",
+      "confidence": "line",
+      "gemini_text": "HAMS, SHOULDERS, BREASTS AND LEAF LARD.",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        512,
+        2716,
+        1417,
+        2760
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:063#xywh=512,2716,905,44",
+      "confidence": "line",
+      "gemini_text": "Stalls, 212 Center and 2 O St, Markets.",
+      "surya_confidence": 0.9973
+    }
+  ],
+  "unmatched_gemini": []
+}

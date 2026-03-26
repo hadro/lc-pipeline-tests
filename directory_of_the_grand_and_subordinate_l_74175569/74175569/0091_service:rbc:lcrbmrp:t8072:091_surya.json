@@ -1,0 +1,276 @@
+{
+  "image_width": 1916,
+  "image_height": 2996,
+  "lines": [
+    {
+      "bbox": [
+        316,
+        353,
+        1205,
+        429
+      ],
+      "text": "Present---Future.",
+      "confidence": 0.9286
+    },
+    {
+      "bbox": [
+        590,
+        538,
+        1678,
+        574
+      ],
+      "text": "\"To thine own self be true.\" Evidence the",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        589,
+        617,
+        1678,
+        659
+      ],
+      "text": "above by purchasing a home. I will submit as",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        585,
+        697,
+        1676,
+        738
+      ],
+      "text": "large a variety from which to make a selection",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        590,
+        789,
+        1676,
+        827
+      ],
+      "text": "as any nogro can show you, and a far greater",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        587,
+        875,
+        1676,
+        921
+      ],
+      "text": "number than any Caucasian will show you.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        588,
+        967,
+        1676,
+        1008
+      ],
+      "text": "Prices, from $1,500 to $15,000, and in no instance",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        587,
+        1057,
+        1679,
+        1098
+      ],
+      "text": "will you pay a dollar more than the property is",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        590,
+        1151,
+        739,
+        1185
+      ],
+      "text": "worth.",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        632,
+        1239,
+        1681,
+        1277
+      ],
+      "text": "If provided for the present, look out for the",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        585,
+        1329,
+        1676,
+        1367
+      ],
+      "text": "future by taking out a life insurance policy.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        589,
+        1419,
+        1679,
+        1457
+      ],
+      "text": "Modern insurance does not require that an indi-",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        588,
+        1506,
+        1678,
+        1550
+      ],
+      "text": "vidual should die to win. Insure while young or",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        587,
+        1593,
+        1681,
+        1640
+      ],
+      "text": "middle-aged, and you will be certain of a compe-",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        587,
+        1687,
+        1678,
+        1729
+      ],
+      "text": "tence when you grow old. In sums of $1,000 and",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        588,
+        1774,
+        1683,
+        1821
+      ],
+      "text": "up, and any one of the dozen forms of policies",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        589,
+        1869,
+        1684,
+        1907
+      ],
+      "text": "issued by the Company—not just the highest",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        590,
+        1960,
+        1111,
+        1998
+      ],
+      "text": "priced, and that alone.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        630,
+        2048,
+        1681,
+        2087
+      ],
+      "text": "Favor me with a postal, and I shall be pleased",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        590,
+        2134,
+        1676,
+        2178
+      ],
+      "text": "to call, and you will be assured square treatment.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        325,
+        2281,
+        1021,
+        2338
+      ],
+      "text": "JOHN C. KEELAN,",
+      "confidence": 0.9632
+    },
+    {
+      "bbox": [
+        464,
+        2376,
+        747,
+        2409
+      ],
+      "text": "BROKERS'",
+      "confidence": 0.8052
+    },
+    {
+      "bbox": [
+        459,
+        2440,
+        1018,
+        2476
+      ],
+      "text": "REPRESENTATIVE,",
+      "confidence": 0.9745
+    },
+    {
+      "bbox": [
+        327,
+        2506,
+        1021,
+        2544
+      ],
+      "text": "REAL ESTATE, LOANS,",
+      "confidence": 0.9538
+    },
+    {
+      "bbox": [
+        328,
+        2574,
+        836,
+        2608
+      ],
+      "text": "LIFE INSURANCE.",
+      "confidence": 0.9629
+    },
+    {
+      "bbox": [
+        458,
+        2641,
+        1015,
+        2678
+      ],
+      "text": "245 ELM STREET, N. W.",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        967,
+        2697,
+        1026,
+        2731
+      ],
+      "text": "82",
+      "confidence": 0.9829
+    }
+  ]
+}

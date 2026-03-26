@@ -1,0 +1,300 @@
+{
+  "image": "0027_service:mss:mss11879:mss11879-42:42001:0027.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027",
+  "canvas_width": 828,
+  "canvas_height": 1283,
+  "surya_median_confidence": 0.9889,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        224,
+        214,
+        566,
+        248
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=224,214,342,34",
+      "confidence": "line",
+      "gemini_text": "OFFICERS AND TRUSTEES",
+      "surya_confidence": 0.8601
+    },
+    {
+      "bbox": [
+        361,
+        285,
+        430,
+        300
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=361,285,69,15",
+      "confidence": "line",
+      "gemini_text": "OF THE",
+      "surya_confidence": 0.9943
+    },
+    {
+      "bbox": [
+        122,
+        328,
+        673,
+        388
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=122,328,551,60",
+      "confidence": "line",
+      "gemini_text": "German American Savings Bank.",
+      "surya_confidence": 0.9955
+    },
+    {
+      "bbox": [
+        366,
+        472,
+        440,
+        494
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=366,472,74,22",
+      "confidence": "line",
+      "gemini_text": "Officers.",
+      "surya_confidence": 0.991
+    },
+    {
+      "bbox": [
+        233,
+        509,
+        481,
+        538
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=233,509,248,29",
+      "confidence": "line",
+      "gemini_text": "JOHN HITZ, PRESIDENT.",
+      "surya_confidence": 0.9768
+    },
+    {
+      "bbox": [
+        235,
+        532,
+        589,
+        567
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=235,532,354,35",
+      "confidence": "line",
+      "gemini_text": "ANTON EBERLY, VICE-PRESIDENT.",
+      "surya_confidence": 0.9925
+    },
+    {
+      "bbox": [
+        235,
+        560,
+        577,
+        594
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=235,560,342,34",
+      "confidence": "line",
+      "gemini_text": "WM. F. MATTINGLY, SECRETARY.",
+      "surya_confidence": 0.9957
+    },
+    {
+      "bbox": [
+        236,
+        590,
+        506,
+        621
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=236,590,270,31",
+      "confidence": "line",
+      "gemini_text": "C. E. PRENTISS, CASHIER.",
+      "surya_confidence": 0.9915
+    },
+    {
+      "bbox": [
+        238,
+        615,
+        624,
+        650
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=238,615,386,35",
+      "confidence": "line",
+      "gemini_text": "ROBT. M. POTTS, ASSISTANT CASHIER.",
+      "surya_confidence": 0.9881
+    },
+    {
+      "bbox": [
+        315,
+        686,
+        496,
+        715
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=315,686,181,29",
+      "confidence": "line",
+      "gemini_text": "Board of Trustees.",
+      "surya_confidence": 0.9879
+    },
+    {
+      "bbox": [
+        291,
+        725,
+        497,
+        754
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=291,725,206,29",
+      "confidence": "line",
+      "gemini_text": "R. B. DONALDSON,",
+      "surya_confidence": 0.988
+    },
+    {
+      "bbox": [
+        294,
+        754,
+        480,
+        781
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=294,754,186,27",
+      "confidence": "line",
+      "gemini_text": "ANTON EBERLY,",
+      "surya_confidence": 0.9789
+    },
+    {
+      "bbox": [
+        295,
+        780,
+        500,
+        809
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=295,780,205,29",
+      "confidence": "line",
+      "gemini_text": "GEORGE EMMERT,",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        295,
+        811,
+        429,
+        837
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=295,811,134,26",
+      "confidence": "line",
+      "gemini_text": "JOHN HITZ,",
+      "surya_confidence": 0.98
+    },
+    {
+      "bbox": [
+        297,
+        837,
+        496,
+        864
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=297,837,199,27",
+      "confidence": "line",
+      "gemini_text": "JAMES M. LEWIS,",
+      "surya_confidence": 0.9406
+    },
+    {
+      "bbox": [
+        296,
+        863,
+        521,
+        892
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=296,863,225,29",
+      "confidence": "line",
+      "gemini_text": "WM. F. MATTINGLY,",
+      "surya_confidence": 0.9896
+    },
+    {
+      "bbox": [
+        299,
+        891,
+        545,
+        921
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=299,891,246,30",
+      "confidence": "line",
+      "gemini_text": "CHRISTIAN RUPPERT,",
+      "surya_confidence": 0.977
+    },
+    {
+      "bbox": [
+        298,
+        919,
+        544,
+        949
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=298,919,246,30",
+      "confidence": "line",
+      "gemini_text": "LOUIS H. SCHNEIDER,",
+      "surya_confidence": 0.9842
+    },
+    {
+      "bbox": [
+        300,
+        948,
+        503,
+        976
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=300,948,203,28",
+      "confidence": "line",
+      "gemini_text": "FREDRICH STUTZ.",
+      "surya_confidence": 0.9707
+    },
+    {
+      "bbox": [
+        141,
+        1039,
+        695,
+        1080
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=141,1039,554,41",
+      "confidence": "line",
+      "gemini_text": "BANK HOURS.—10 A. M. to 4 o'clock, P. M. Open on",
+      "surya_confidence": 0.9953
+    },
+    {
+      "bbox": [
+        221,
+        1069,
+        614,
+        1104
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=221,1069,393,35",
+      "confidence": "line",
+      "gemini_text": "Saturday evenings from 6 to 8 o'clock, to",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        312,
+        1094,
+        523,
+        1126
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=312,1094,211,32",
+      "confidence": "line",
+      "gemini_text": "receive deposits only.",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        188,
+        1134,
+        698,
+        1174
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=188,1134,510,40",
+      "confidence": "line",
+      "gemini_text": "If this book should be lost, immediate notice must",
+      "surya_confidence": 0.9704
+    },
+    {
+      "bbox": [
+        314,
+        1168,
+        524,
+        1198
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0027#xywh=314,1168,210,30",
+      "confidence": "line",
+      "gemini_text": "be given to the Bank.",
+      "surya_confidence": 0.9984
+    }
+  ],
+  "unmatched_gemini": []
+}

@@ -1,0 +1,106 @@
+{
+  "image_width": 1881,
+  "image_height": 3003,
+  "lines": [
+    {
+      "bbox": [
+        377,
+        946,
+        1487,
+        1061
+      ],
+      "text": "DAVID L. STEWART,",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        901,
+        1148,
+        1522,
+        1204
+      ],
+      "text": "Phone 3057 Main",
+      "confidence": 0.8475
+    },
+    {
+      "bbox": [
+        324,
+        1159,
+        890,
+        1214
+      ],
+      "text": "1601 12th St. N. W.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        497,
+        1305,
+        1371,
+        1402
+      ],
+      "text": "Funeral Director.",
+      "confidence": 0.9462
+    },
+    {
+      "bbox": [
+        326,
+        1614,
+        1546,
+        1697
+      ],
+      "text": "Prompt and Polite Service. Everything up to date",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        710,
+        1748,
+        1174,
+        1806
+      ],
+      "text": "and First Quality.",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        326,
+        2009,
+        1554,
+        2095
+      ],
+      "text": "RATES REASONABLE.",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        332,
+        2265,
+        1558,
+        2334
+      ],
+      "text": "New first-class carriages of all kinds for hire, with",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        774,
+        2365,
+        1105,
+        2418
+      ],
+      "text": "polite drivers.",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        547,
+        2641,
+        1369,
+        2702
+      ],
+      "text": "\"WE STUDY TO PLEASE.\"",
+      "confidence": 0.9889
+    }
+  ]
+}

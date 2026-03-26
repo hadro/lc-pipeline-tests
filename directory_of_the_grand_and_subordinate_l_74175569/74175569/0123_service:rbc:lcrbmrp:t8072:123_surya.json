@@ -1,0 +1,536 @@
+{
+  "image_width": 1895,
+  "image_height": 2995,
+  "lines": [
+    {
+      "bbox": [
+        539,
+        408,
+        1334,
+        477
+      ],
+      "text": "PROF. JOHN F. NUBEL,",
+      "confidence": 0.9836
+    },
+    {
+      "bbox": [
+        350,
+        480,
+        1101,
+        522
+      ],
+      "text": "Telephone 1225 Main.",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        1100,
+        485,
+        1694,
+        529
+      ],
+      "text": "1202 K St, N. W., Office.",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        413,
+        535,
+        1623,
+        584
+      ],
+      "text": "Scientific Massage, Medico-Gymnastics, Electricity,",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        784,
+        584,
+        1255,
+        617
+      ],
+      "text": "Swedish Movements.",
+      "confidence": 0.9453
+    },
+    {
+      "bbox": [
+        433,
+        637,
+        1601,
+        684
+      ],
+      "text": "All Facial and Scalp Affection Treated and Cured.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        734,
+        685,
+        1291,
+        725
+      ],
+      "text": "Hours, 9 a. m. to 6 p m.",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        525,
+        729,
+        1511,
+        771
+      ],
+      "text": "Special Arrangements for Home Treatment.",
+      "confidence": 0.9697
+    },
+    {
+      "bbox": [
+        429,
+        782,
+        1691,
+        828
+      ],
+      "text": "Having been very successful in treating the many skin",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        345,
+        825,
+        1691,
+        874
+      ],
+      "text": "and scalp affections that came under my care during my",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        344,
+        875,
+        1689,
+        914
+      ],
+      "text": "stay for the past twelve months with the John H. Woodbury",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        345,
+        916,
+        1689,
+        962
+      ],
+      "text": "Dermatological Institute of Washington, D. C., I have",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        345,
+        959,
+        1686,
+        1007
+      ],
+      "text": "severed my professional connections with said Institute and",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        343,
+        1003,
+        1686,
+        1051
+      ],
+      "text": "established private parlors at the above address where I",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        345,
+        1049,
+        1689,
+        1095
+      ],
+      "text": "will continue personally and successfully treating the",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        345,
+        1094,
+        1331,
+        1138
+      ],
+      "text": "varied affections skin and scalp are heir to.",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        432,
+        1140,
+        1691,
+        1184
+      ],
+      "text": "My scientific facial treatment supersedes anything yet",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        345,
+        1183,
+        1691,
+        1227
+      ],
+      "text": "introduced for increasing circulation, strengthening",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        343,
+        1226,
+        1691,
+        1274
+      ],
+      "text": "muscles, developing tissues, removing wrinkles, whitening,",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        344,
+        1274,
+        1689,
+        1316
+      ],
+      "text": "softening, healing and beautifying the complexion; protect-",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        342,
+        1316,
+        1691,
+        1362
+      ],
+      "text": "ing the skin from the ill effects and sudden changes of the",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        342,
+        1363,
+        555,
+        1396
+      ],
+      "text": "weather.",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        431,
+        1408,
+        1691,
+        1448
+      ],
+      "text": "The world is full of people who are afraid to examine",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        337,
+        1451,
+        1689,
+        1495
+      ],
+      "text": "into their condition or are simply thoughtless and do not",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        337,
+        1496,
+        1689,
+        1538
+      ],
+      "text": "realize the value of a good complexion. Take yourself for",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        337,
+        1538,
+        1702,
+        1584
+      ],
+      "text": "instance. Sit down and honestly face the facts of your real-",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        336,
+        1583,
+        1685,
+        1629
+      ],
+      "text": "condition. Soberly and sensibly stop a moment and think.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        337,
+        1630,
+        1688,
+        1671
+      ],
+      "text": "Is your complexion as good as it might be? Is your flesh",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        337,
+        1674,
+        1689,
+        1716
+      ],
+      "text": "firm and sound? Do you sleep well? Are your eyes bright?",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        337,
+        1718,
+        1689,
+        1762
+      ],
+      "text": "Does your skin bear the rosy flush of health? These are a",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        335,
+        1760,
+        1347,
+        1807
+      ],
+      "text": "few of the questions you should ask yourself.",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        426,
+        1810,
+        1684,
+        1848
+      ],
+      "text": "I propose to aid you in securing perfect complexion and",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        339,
+        1852,
+        1685,
+        1894
+      ],
+      "text": "a luxuriant growth of hair. When I tell you my scientific",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        334,
+        1900,
+        1686,
+        1937
+      ],
+      "text": "treatment replaces a marred complexion with beauty—cures",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        337,
+        1940,
+        1686,
+        1986
+      ],
+      "text": "and banishes from the human system Headaches, Tri-facial",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        336,
+        1984,
+        1685,
+        2031
+      ],
+      "text": "Neuralgia, Nasal Catarrh, fullness and dizziness in the",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        334,
+        2027,
+        1683,
+        2076
+      ],
+      "text": "head, Insomnia, and make weak eyes strong; I am well",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        337,
+        2074,
+        1167,
+        2116
+      ],
+      "text": "aware that I am making big claims.",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        419,
+        2120,
+        1685,
+        2162
+      ],
+      "text": "Measure me by my works, not by my words. I offer",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        334,
+        2165,
+        1685,
+        2207
+      ],
+      "text": "unprejudiced testimony not of people so obscure that their",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        331,
+        2206,
+        1682,
+        2253
+      ],
+      "text": "word is valueless but of men and women whose standing in",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        331,
+        2251,
+        1680,
+        2298
+      ],
+      "text": "the social and business world are such that they are above",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        331,
+        2296,
+        864,
+        2337
+      ],
+      "text": "the breath of suspicion.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        418,
+        2341,
+        1685,
+        2388
+      ],
+      "text": "My system is as elastic as human need. I have no set",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        331,
+        2386,
+        1681,
+        2427
+      ],
+      "text": "rules—no ironclad methods of progress. My treatment to",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        331,
+        2431,
+        1680,
+        2473
+      ],
+      "text": "you will be measured and guided by your necessity. It",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        329,
+        2475,
+        1677,
+        2517
+      ],
+      "text": "will be as individual as though you were my only patient.",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        419,
+        2520,
+        1680,
+        2562
+      ],
+      "text": "I shall be pleased to have you call and consult me any",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        330,
+        2567,
+        1285,
+        2604
+      ],
+      "text": "time, all consultation strictly confidential.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        874,
+        2612,
+        1275,
+        2648
+      ],
+      "text": "Yours very truly,",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        922,
+        2655,
+        1542,
+        2691
+      ],
+      "text": "PROF. JOHN F. NUBEL.",
+      "confidence": 0.9538
+    },
+    {
+      "bbox": [
+        413,
+        2710,
+        1681,
+        2752
+      ],
+      "text": "P. S. My facial creams, lotions and tonics are pure",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        330,
+        2754,
+        893,
+        2787
+      ],
+      "text": "and effective and on sale.",
+      "confidence": 0.9992
+    }
+  ]
+}

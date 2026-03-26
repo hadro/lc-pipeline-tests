@@ -1,0 +1,24 @@
+{
+  "image": "0013_service:mss:mss11879:mss11879-42:42001:0013d.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0013d",
+  "canvas_width": 1063,
+  "canvas_height": 1636,
+  "surya_median_confidence": 0.8494,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        405,
+        1508,
+        449,
+        1535
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0013d#xywh=405,1508,44,27",
+      "confidence": "line",
+      "gemini_text": "PASS BOOK",
+      "surya_confidence": 0.8938
+    }
+  ],
+  "unmatched_gemini": []
+}

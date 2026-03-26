@@ -1,0 +1,328 @@
+{
+  "image": "0131_service:rbc:lcrbmrp:t8072:131.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131",
+  "canvas_width": 1876,
+  "canvas_height": 2993,
+  "surya_median_confidence": 0.9925,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        315,
+        451,
+        608,
+        487
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=315,451,293,36",
+      "confidence": "line",
+      "gemini_text": "Jesse Lewis.",
+      "surya_confidence": 0.9786
+    },
+    {
+      "bbox": [
+        717,
+        497,
+        1261,
+        535
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=717,497,544,38",
+      "confidence": "line",
+      "gemini_text": "LEWIS & JACKSON,",
+      "surya_confidence": 0.9109
+    },
+    {
+      "bbox": [
+        529,
+        562,
+        1452,
+        602
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=529,562,923,40",
+      "confidence": "line",
+      "gemini_text": "DEALERS IN WOOD AND COAL,",
+      "surya_confidence": 0.9437
+    },
+    {
+      "bbox": [
+        601,
+        632,
+        1380,
+        669
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=601,632,779,37",
+      "confidence": "line",
+      "gemini_text": "Office and Yard, 438 O St. N. W.",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        373,
+        722,
+        1611,
+        761
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=373,722,1238,39",
+      "confidence": "line",
+      "gemini_text": "We will furnish you with best grades at lowest prices.",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        321,
+        776,
+        1668,
+        817
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=321,776,1347,41",
+      "confidence": "line",
+      "gemini_text": "We guarantee 2,240 lbs. to the ton and deliver promptly.",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        798,
+        844,
+        1181,
+        878
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=798,844,383,34",
+      "confidence": "line",
+      "gemini_text": "TERMS CASH.",
+      "surya_confidence": 0.9398
+    },
+    {
+      "bbox": [
+        551,
+        945,
+        1433,
+        982
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=551,945,882,37",
+      "confidence": "line",
+      "gemini_text": "THE DOUGLASS CLUB SALOON,",
+      "surya_confidence": 0.9962
+    },
+    {
+      "bbox": [
+        384,
+        1019,
+        1599,
+        1067
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=384,1019,1215,48",
+      "confidence": "line",
+      "gemini_text": "Fine Wines, Liquors, Whiskey, Cigars and Tobacco.",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        495,
+        1112,
+        977,
+        1149
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=495,1112,482,37",
+      "confidence": "line",
+      "gemini_text": "Mail Orders Filled. Jug Trade Handled.",
+      "surya_confidence": 0.9925
+    },
+    {
+      "bbox": [
+        313,
+        1187,
+        1668,
+        1244
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=313,1187,1355,57",
+      "confidence": "line",
+      "gemini_text": "112 West 5th Street, LITTLE ROCK, ARK.. Phone 1760.",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        402,
+        1273,
+        1576,
+        1323
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=402,1273,1174,50",
+      "confidence": "line",
+      "gemini_text": "J. W. Douglass, Prop. Will Keaton, Manager.",
+      "surya_confidence": 0.9874
+    },
+    {
+      "bbox": [
+        761,
+        1401,
+        1221,
+        1441
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=761,1401,460,40",
+      "confidence": "line",
+      "gemini_text": "Phone, Main 850-M.",
+      "surya_confidence": 0.9957
+    },
+    {
+      "bbox": [
+        652,
+        1499,
+        1326,
+        1546
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=652,1499,674,47",
+      "confidence": "line",
+      "gemini_text": "SWANN & WOODHOUSE,",
+      "surya_confidence": 0.9674
+    },
+    {
+      "bbox": [
+        311,
+        1609,
+        697,
+        1645
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=311,1609,386,36",
+      "confidence": "line",
+      "gemini_text": "Ladies' Tailors. Parisian Styles a Specialty.",
+      "surya_confidence": 0.9829
+    },
+    {
+      "bbox": [
+        571,
+        1725,
+        1413,
+        1771
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=571,1725,842,46",
+      "confidence": "line",
+      "gemini_text": "1614 O St. N. W., Washington, D. C.",
+      "surya_confidence": 0.9953
+    },
+    {
+      "bbox": [
+        707,
+        1848,
+        1276,
+        1890
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=707,1848,569,42",
+      "confidence": "line",
+      "gemini_text": "BENJAMIN F. POPE,",
+      "surya_confidence": 0.9551
+    },
+    {
+      "bbox": [
+        321,
+        1973,
+        835,
+        2019
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=321,1973,514,46",
+      "confidence": "line",
+      "gemini_text": "SUNDAYS ONLY. PHOTOGRAPHER,",
+      "surya_confidence": 0.9874
+    },
+    {
+      "bbox": [
+        457,
+        2196,
+        1548,
+        2244
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=457,2196,1091,48",
+      "confidence": "line",
+      "gemini_text": "Residences and Family Groups Our Specialty.",
+      "surya_confidence": 0.9929
+    },
+    {
+      "bbox": [
+        731,
+        2325,
+        1250,
+        2362
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=731,2325,519,37",
+      "confidence": "line",
+      "gemini_text": "ALBERT UPSHAW,",
+      "surya_confidence": 0.9852
+    },
+    {
+      "bbox": [
+        322,
+        2396,
+        612,
+        2436
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=322,2396,290,40",
+      "confidence": "line",
+      "gemini_text": "CATERER, 1628 11th St. N. W.,",
+      "surya_confidence": 0.9931
+    },
+    {
+      "bbox": [
+        687,
+        2529,
+        1296,
+        2566
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=687,2529,609,37",
+      "confidence": "line",
+      "gemini_text": "First-class Dining Rooms.",
+      "surya_confidence": 0.9806
+    },
+    {
+      "bbox": [
+        363,
+        2591,
+        1629,
+        2638
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=363,2591,1266,47",
+      "confidence": "line",
+      "gemini_text": "Board by the Day, Week or Month, or served HOT at",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        709,
+        2641,
+        1303,
+        2678
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=709,2641,594,37",
+      "confidence": "line",
+      "gemini_text": "short notice at your home.",
+      "surya_confidence": 0.9983
+    },
+    {
+      "bbox": [
+        496,
+        2705,
+        1490,
+        2747
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=496,2705,994,42",
+      "confidence": "line",
+      "gemini_text": "Banquets and Large Parties my Specialty.",
+      "surya_confidence": 0.9908
+    },
+    {
+      "bbox": [
+        959,
+        2767,
+        1033,
+        2797
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:131#xywh=959,2767,74,30",
+      "confidence": "line",
+      "gemini_text": "122",
+      "surya_confidence": 0.9681
+    }
+  ],
+  "unmatched_gemini": [
+    "John H. Jackson.",
+    "445 Ridge St. N. W.",
+    "Washington, D. C."
+  ]
+}

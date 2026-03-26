@@ -1,0 +1,139 @@
+{
+  "image": "0014_service:mss:mss11879:mss11879-42:42001:0014.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014",
+  "canvas_width": 1915,
+  "canvas_height": 1597,
+  "surya_median_confidence": 0.6579,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        1000,
+        135,
+        1619,
+        362
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014#xywh=1000,135,619,227",
+      "confidence": "line",
+      "gemini_text": "Keyser gate Hor",
+      "surya_confidence": 0.6774
+    },
+    {
+      "bbox": [
+        1010,
+        350,
+        1854,
+        499
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014#xywh=1010,350,844,149",
+      "confidence": "line",
+      "gemini_text": "Trinity gate when [illegible]",
+      "surya_confidence": 0.7905
+    },
+    {
+      "bbox": [
+        1029,
+        579,
+        1694,
+        697
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014#xywh=1029,579,665,118",
+      "confidence": "line",
+      "gemini_text": "aujourdhui Mademoiselle",
+      "surya_confidence": 0.9501
+    },
+    {
+      "bbox": [
+        1148,
+        732,
+        1696,
+        811
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014#xywh=1148,732,548,79",
+      "confidence": "line",
+      "gemini_text": "Je suis bien bien aise.",
+      "surya_confidence": 0.4415
+    },
+    {
+      "bbox": [
+        1142,
+        835,
+        1525,
+        965
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014#xywh=1142,835,383,130",
+      "confidence": "line",
+      "gemini_text": "ayez du fromage",
+      "surya_confidence": 0.5481
+    },
+    {
+      "bbox": [
+        1145,
+        985,
+        1587,
+        1043
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014#xywh=1145,985,442,58",
+      "confidence": "line",
+      "gemini_text": "Nous sommes revenu i",
+      "surya_confidence": 0.5207
+    },
+    {
+      "bbox": [
+        1156,
+        1098,
+        1562,
+        1139
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014#xywh=1156,1098,406,41",
+      "confidence": "line",
+      "gemini_text": "Nous sommes revenu -",
+      "surya_confidence": 0.6384
+    },
+    {
+      "bbox": [
+        1160,
+        1152,
+        1497,
+        1199
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014#xywh=1160,1152,337,47",
+      "confidence": "line",
+      "gemini_text": "J'ai je suis [illegible]",
+      "surya_confidence": 0.8342
+    },
+    {
+      "bbox": [
+        1145,
+        1197,
+        1632,
+        1295
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014#xywh=1145,1197,487,98",
+      "confidence": "line",
+      "gemini_text": "Nous sommes revenu",
+      "surya_confidence": 0.4506
+    },
+    {
+      "bbox": [
+        1011,
+        1358,
+        1474,
+        1397
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014#xywh=1011,1358,463,39",
+      "confidence": "line",
+      "gemini_text": "Il ne pas encore arrive,",
+      "surya_confidence": 0.8122
+    }
+  ],
+  "unmatched_gemini": [
+    "bill 75-67",
+    "chapel",
+    "cloches a conne",
+    "Nous Dinons a la maison",
+    "ayons du beurre",
+    "Je suis revenu"
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136",
+  "canvas_width": 1827,
+  "canvas_height": 2984,
+  "surya_median_confidence": 0.993,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        637,
+        421,
+        1270,
+        465
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=637,421,633,44",
+      "confidence": "line",
+      "gemini_text": "Corrections, Additions, Etc.",
+      "surya_confidence": 0.99
+    },
+    {
+      "bbox": [
+        412,
+        523,
+        1408,
+        565
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=412,523,996,42",
+      "confidence": "line",
+      "gemini_text": "Washington, Charles, 1, National Museum.",
+      "surya_confidence": 0.9953
+    },
+    {
+      "bbox": [
+        413,
+        567,
+        1271,
+        611
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=413,567,858,44",
+      "confidence": "line",
+      "gemini_text": "Watson, Hughes, 10, 1745 R I. ave nw",
+      "surya_confidence": 0.9977
+    },
+    {
+      "bbox": [
+        414,
+        615,
+        1230,
+        652
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=414,615,816,37",
+      "confidence": "line",
+      "gemini_text": "Watson, Reddick, 12, 410 Elm st nw",
+      "surya_confidence": 0.9964
+    },
+    {
+      "bbox": [
+        413,
+        658,
+        1002,
+        698
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=413,658,589,40",
+      "confidence": "line",
+      "gemini_text": "Wells, Frank, 6, 924 4 nw",
+      "surya_confidence": 0.9901
+    },
+    {
+      "bbox": [
+        413,
+        698,
+        1207,
+        745
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=413,698,794,47",
+      "confidence": "line",
+      "gemini_text": "Webster, Fred T., 1, 18 Defrees nw",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        415,
+        746,
+        1120,
+        787
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=415,746,705,41",
+      "confidence": "line",
+      "gemini_text": "Weston, Wm. J., 1, 319 Oak nw",
+      "surya_confidence": 0.9923
+    },
+    {
+      "bbox": [
+        416,
+        790,
+        1040,
+        832
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=416,790,624,42",
+      "confidence": "line",
+      "gemini_text": "White, Algier, 6, 419 L nw.",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        416,
+        835,
+        977,
+        876
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=416,835,561,41",
+      "confidence": "line",
+      "gemini_text": "White, B H., 3, 120 M se",
+      "surya_confidence": 0.9945
+    },
+    {
+      "bbox": [
+        415,
+        873,
+        1217,
+        925
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=415,873,802,52",
+      "confidence": "line",
+      "gemini_text": "Wilcox, Sergt. Mitchell 5, 214 D nw",
+      "surya_confidence": 0.997
+    },
+    {
+      "bbox": [
+        416,
+        920,
+        1364,
+        966
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=416,920,948,46",
+      "confidence": "line",
+      "gemini_text": "Wilkinson, Garnet C, 5, Anacostia, D. C.",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        415,
+        965,
+        1356,
+        1012
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=415,965,941,47",
+      "confidence": "line",
+      "gemini_text": "Williams, Edward 4, 2815 Dumbarton nw",
+      "surya_confidence": 0.997
+    },
+    {
+      "bbox": [
+        416,
+        1012,
+        1078,
+        1056
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=416,1012,662,44",
+      "confidence": "line",
+      "gemini_text": "Williams, John, 4, 814 17 nw",
+      "surya_confidence": 0.9826
+    },
+    {
+      "bbox": [
+        416,
+        1056,
+        1195,
+        1100
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=416,1056,779,44",
+      "confidence": "line",
+      "gemini_text": "Williams, Philip B, 5, 1029 17 nw",
+      "surya_confidence": 0.9946
+    },
+    {
+      "bbox": [
+        416,
+        1097,
+        1338,
+        1147
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=416,1097,922,50",
+      "confidence": "line",
+      "gemini_text": "Williams, Thomas N, 7-11-2, 2121 11 nw",
+      "surya_confidence": 0.993
+    },
+    {
+      "bbox": [
+        418,
+        1147,
+        996,
+        1189
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=418,1147,578,42",
+      "confidence": "line",
+      "gemini_text": "Willis, G. W 3, 332 C sw",
+      "surya_confidence": 0.988
+    },
+    {
+      "bbox": [
+        423,
+        1196,
+        1318,
+        1232
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=423,1196,895,36",
+      "confidence": "line",
+      "gemini_text": "Wilson, Jennie Stewart, Oregon ave nw",
+      "surya_confidence": 0.9952
+    },
+    {
+      "bbox": [
+        418,
+        1231,
+        1284,
+        1280
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=418,1231,866,49",
+      "confidence": "line",
+      "gemini_text": "Wilson, Lemuel A., 1, 997 Fla. ave nw",
+      "surya_confidence": 0.9978
+    },
+    {
+      "bbox": [
+        418,
+        1280,
+        1107,
+        1324
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=418,1280,689,44",
+      "confidence": "line",
+      "gemini_text": "Wood, James W, 12. 826 10 ne",
+      "surya_confidence": 0.9935
+    },
+    {
+      "bbox": [
+        416,
+        1323,
+        1075,
+        1370
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=416,1323,659,47",
+      "confidence": "line",
+      "gemini_text": "Wormley. C. K., 5, 1801 8 nw",
+      "surya_confidence": 0.9936
+    },
+    {
+      "bbox": [
+        419,
+        1364,
+        1332,
+        1415
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=419,1364,913,51",
+      "confidence": "line",
+      "gemini_text": "Wright, Charles H., 3, 1826 Riggs st nw",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        419,
+        1410,
+        1235,
+        1461
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=419,1410,816,51",
+      "confidence": "line",
+      "gemini_text": "Young, James E., 6, 35 Hanover nw",
+      "surya_confidence": 0.9974
+    },
+    {
+      "bbox": [
+        422,
+        1664,
+        1504,
+        1727
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=422,1664,1082,63",
+      "confidence": "line",
+      "gemini_text": "Roster Grand Chapter, O. E. S.",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        837,
+        1776,
+        1099,
+        1812
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=837,1776,262,36",
+      "confidence": "line",
+      "gemini_text": "1904-1905.",
+      "surya_confidence": 0.9625
+    },
+    {
+      "bbox": [
+        422,
+        1932,
+        1507,
+        1980
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=422,1932,1085,48",
+      "confidence": "line",
+      "gemini_text": "James O. Bampfield.....Grand Royal Patron",
+      "surya_confidence": 0.9933
+    },
+    {
+      "bbox": [
+        768,
+        1991,
+        1163,
+        2028
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=768,1991,395,37",
+      "confidence": "line",
+      "gemini_text": "1119 V street nw.",
+      "surya_confidence": 0.9978
+    },
+    {
+      "bbox": [
+        421,
+        2072,
+        1505,
+        2110
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=421,2072,1084,38",
+      "confidence": "line",
+      "gemini_text": "Hattie E. Lee.....Grand Royal Matron",
+      "surya_confidence": 0.9928
+    },
+    {
+      "bbox": [
+        770,
+        2129,
+        1155,
+        2162
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=770,2129,385,33",
+      "confidence": "line",
+      "gemini_text": "2908 M street nw",
+      "surya_confidence": 0.9836
+    },
+    {
+      "bbox": [
+        423,
+        2206,
+        1507,
+        2243
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=423,2206,1084,37",
+      "confidence": "line",
+      "gemini_text": "Wm. A. Baltimore...Asso. Grand Royal Patron",
+      "surya_confidence": 0.9901
+    },
+    {
+      "bbox": [
+        423,
+        2282,
+        1507,
+        2322
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=423,2282,1084,40",
+      "confidence": "line",
+      "gemini_text": "Matilda Payne...Asso. Grand Royal Matron",
+      "surya_confidence": 0.9901
+    },
+    {
+      "bbox": [
+        427,
+        2360,
+        1510,
+        2401
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=427,2360,1083,41",
+      "confidence": "line",
+      "gemini_text": "Sarah P. Alexander.....Grand Treasurer",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        774,
+        2414,
+        1148,
+        2454
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=774,2414,374,40",
+      "confidence": "line",
+      "gemini_text": "1015 Q street nw",
+      "surya_confidence": 0.99
+    },
+    {
+      "bbox": [
+        423,
+        2495,
+        1508,
+        2535
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=423,2495,1085,40",
+      "confidence": "line",
+      "gemini_text": "Ellen L. Wayne .....Grand Secretary",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        709,
+        2550,
+        1222,
+        2588
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=709,2550,513,38",
+      "confidence": "line",
+      "gemini_text": "315 East Capitol street",
+      "surya_confidence": 0.9481
+    },
+    {
+      "bbox": [
+        500,
+        2683,
+        1440,
+        2735
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=500,2683,940,52",
+      "confidence": "line",
+      "gemini_text": "Annual Meeting, Tuesday, May 25, 1905.",
+      "surya_confidence": 0.9902
+    },
+    {
+      "bbox": [
+        927,
+        2750,
+        1001,
+        2784
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=927,2750,74,34",
+      "confidence": "line",
+      "gemini_text": "127",
+      "surya_confidence": 0.9822
+    }
+  ],
+  "unmatched_gemini": []
+}

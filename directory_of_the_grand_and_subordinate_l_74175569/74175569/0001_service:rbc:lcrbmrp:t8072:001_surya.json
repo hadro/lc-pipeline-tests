@@ -1,0 +1,56 @@
+{
+  "image_width": 402,
+  "image_height": 2978,
+  "lines": [
+    {
+      "bbox": [
+        176,
+        516,
+        227,
+        568
+      ],
+      "text": "1",
+      "confidence": 0.3717
+    },
+    {
+      "bbox": [
+        173,
+        591,
+        221,
+        669
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        162,
+        640,
+        218,
+        821
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        173,
+        792,
+        228,
+        866
+      ],
+      "text": "N.",
+      "confidence": 0.2407
+    },
+    {
+      "bbox": [
+        162,
+        1190,
+        237,
+        2384
+      ],
+      "text": "TORY DIST: OF COL. 1903-05",
+      "confidence": 0.9378
+    }
+  ]
+}

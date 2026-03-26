@@ -1,0 +1,546 @@
+{
+  "image_width": 1823,
+  "image_height": 2978,
+  "lines": [
+    {
+      "bbox": [
+        485,
+        315,
+        1296,
+        377
+      ],
+      "text": "Queen Esther Chapter, No. 1, O. E. S.",
+      "confidence": 0.984
+    },
+    {
+      "bbox": [
+        655,
+        417,
+        1132,
+        459
+      ],
+      "text": "Meets Third Friday.",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        227,
+        590,
+        1575,
+        643
+      ],
+      "text": "Miss Lottie R. Crusoe ......Royal Matron",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        715,
+        646,
+        1134,
+        680
+      ],
+      "text": "1938 11th st., nw.",
+      "confidence": 0.9899
+    },
+    {
+      "bbox": [
+        227,
+        721,
+        1577,
+        781
+      ],
+      "text": "Sir Henry Coleman ....... Royal Patron",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        682,
+        779,
+        1128,
+        814
+      ],
+      "text": "1112 N. J. ave., nw.",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        230,
+        857,
+        1581,
+        911
+      ],
+      "text": "Mrs. Georgiana Gleaves.....Secretary",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        720,
+        913,
+        1134,
+        947
+      ],
+      "text": "126 Carroll st., se.",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        445,
+        1087,
+        1122,
+        1121
+      ],
+      "text": "Aden, Laura, 1918 N. Y. ave. nw.",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        446,
+        1122,
+        1090,
+        1156
+      ],
+      "text": "Archer, Victoria, 1623 17th nw.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        446,
+        1157,
+        1069,
+        1191
+      ],
+      "text": "Rampfield, Jas. O., 1119 V nw.",
+      "confidence": 0.6683
+    },
+    {
+      "bbox": [
+        449,
+        1187,
+        993,
+        1226
+      ],
+      "text": "Bampfield, L. E., 1119 V nw.",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        447,
+        1225,
+        1003,
+        1261
+      ],
+      "text": "Benn, Mary E., 2617 O nw.",
+      "confidence": 0.9813
+    },
+    {
+      "bbox": [
+        447,
+        1257,
+        1054,
+        1297
+      ],
+      "text": "Boyd, Mary P., 1343 28th nw.",
+      "confidence": 0.973
+    },
+    {
+      "bbox": [
+        447,
+        1294,
+        1156,
+        1329
+      ],
+      "text": "Brooks, Catharine A., 535 21st nw.",
+      "confidence": 0.9678
+    },
+    {
+      "bbox": [
+        447,
+        1325,
+        1051,
+        1369
+      ],
+      "text": "Brown, Chanie, 511 20th nw.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        447,
+        1361,
+        1060,
+        1402
+      ],
+      "text": "Brown, Jennie, 1146 16th nw.",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        446,
+        1395,
+        1177,
+        1435
+      ],
+      "text": "Brown, Martha E., 1737 11th nw.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        446,
+        1433,
+        1025,
+        1467
+      ],
+      "text": "Brown, Mildred, 2211 O nw.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        446,
+        1466,
+        936,
+        1503
+      ],
+      "text": "Brown, Sallie, 324 I se.",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        449,
+        1500,
+        1104,
+        1538
+      ],
+      "text": "Butler, Lubelle E., 816 13th ne.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        450,
+        1536,
+        1104,
+        1573
+      ],
+      "text": "Campbell, Sarah M., 234 2d nw.",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        449,
+        1570,
+        1059,
+        1609
+      ],
+      "text": "Carroll, Ernistine, 503 3d sw.",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        447,
+        1607,
+        984,
+        1644
+      ],
+      "text": "Chase, Agnes, 9151/2 G sw.",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        447,
+        1638,
+        1200,
+        1682
+      ],
+      "text": "Clair, Fannie M. W., 1914 11th nw.",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        450,
+        1674,
+        1195,
+        1714
+      ],
+      "text": "Clements, Lizzie, 1623 Vt. ave. nw.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        450,
+        1704,
+        1209,
+        1753
+      ],
+      "text": "Coleman, Henry, 1112 N. J. ave. nw.",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        452,
+        1746,
+        964,
+        1782
+      ],
+      "text": "Coleman, Rose, 159 C se.",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        452,
+        1778,
+        1054,
+        1819
+      ],
+      "text": "Crusor, Anna R., 2423 P nw.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        452,
+        1814,
+        1150,
+        1851
+      ],
+      "text": "Crusor, Lottie R., 1938 11th nw.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        453,
+        1849,
+        1025,
+        1887
+      ],
+      "text": "Davis, Annie, 1011 19th nw.",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        453,
+        1885,
+        968,
+        1921
+      ],
+      "text": "Davis, Clara, 1514 O nw.",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        453,
+        1917,
+        1232,
+        1957
+      ],
+      "text": "Deans, Lulu S., 2403 Brightwood ave.",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        455,
+        1951,
+        1047,
+        1995
+      ],
+      "text": "DeLong, Ella, 2208 12th nw.",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        453,
+        1988,
+        977,
+        2028
+      ],
+      "text": "Dogan, Ida, 1637 4th nw.",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        456,
+        2019,
+        1127,
+        2065
+      ],
+      "text": "Ferguson, Margaret, 2617 O nw.",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        458,
+        2057,
+        1054,
+        2097
+      ],
+      "text": "Fisher, Elizabeth, 2518 P nw.",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        458,
+        2093,
+        989,
+        2132
+      ],
+      "text": "Flagg, Callie, 2720 O nw.",
+      "confidence": 0.9738
+    },
+    {
+      "bbox": [
+        453,
+        2126,
+        1021,
+        2167
+      ],
+      "text": "Fleet, Mary, 1664 Erie nw.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        456,
+        2160,
+        1173,
+        2200
+      ],
+      "text": "Ford, Mary E., 1910 N. Y. ave. nw.",
+      "confidence": 0.9832
+    },
+    {
+      "bbox": [
+        456,
+        2195,
+        1068,
+        2237
+      ],
+      "text": "Freeman, Annie, 1609 4th nw.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        457,
+        2227,
+        1033,
+        2274
+      ],
+      "text": "Gant, Rebecca, 2527 P nw.",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        457,
+        2263,
+        1008,
+        2309
+      ],
+      "text": "Gates, Mary V., 445 S nw.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        458,
+        2299,
+        1255,
+        2339
+      ],
+      "text": "Gleaves, Georgiana, 126 Carroll se.",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        458,
+        2333,
+        1127,
+        2377
+      ],
+      "text": "Goings, Paulettia, 1303 27th nw.",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        458,
+        2368,
+        995,
+        2415
+      ],
+      "text": "Grant, Annet, 2919 E nw.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        459,
+        2403,
+        1025,
+        2442
+      ],
+      "text": "Gray, Martha E, 1144 15th nw",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        456,
+        2439,
+        983,
+        2477
+      ],
+      "text": "Gray, Mary A., 221 F nw.",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        459,
+        2472,
+        1031,
+        2512
+      ],
+      "text": "Hewlett, Annie, 2809 O nw.",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        457,
+        2503,
+        1023,
+        2586
+      ],
+      "text": "Hewlett, Lena, 2809 O nw. Hicks, Mamie, 219 C sw.",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        460,
+        2578,
+        1006,
+        2615
+      ],
+      "text": "Hicks, Mary J., 219 C sw.",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        459,
+        2611,
+        1073,
+        2651
+      ],
+      "text": "Howard, Amanda, 2702 O nw.",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        900,
+        2661,
+        957,
+        2693
+      ],
+      "text": "45",
+      "confidence": 0.9798
+    },
+    {
+      "bbox": [
+        436,
+        2905,
+        565,
+        2921
+      ],
+      "text": "فوالواء أعاس الماسات",
+      "confidence": 0.2661
+    }
+  ]
+}

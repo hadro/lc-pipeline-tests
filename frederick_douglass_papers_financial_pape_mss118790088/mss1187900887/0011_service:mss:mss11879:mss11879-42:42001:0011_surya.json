@@ -1,0 +1,86 @@
+{
+  "image_width": 1637,
+  "image_height": 918,
+  "lines": [
+    {
+      "bbox": [
+        62,
+        52,
+        316,
+        69
+      ],
+      "text": "#Thurstendown in the facility of the carbon control of the desired of the carbon control of the carbon control of the carbon control of the carbon control of the carbon control of the carbon control of the carbon control o",
+      "confidence": 0.1559
+    },
+    {
+      "bbox": [
+        1185,
+        121,
+        1318,
+        181
+      ],
+      "text": "any",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        512,
+        122,
+        698,
+        191
+      ],
+      "text": "Sterling",
+      "confidence": 0.6524
+    },
+    {
+      "bbox": [
+        66,
+        195,
+        88,
+        263
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        68,
+        289,
+        88,
+        452
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        1178,
+        539,
+        1285,
+        596
+      ],
+      "text": "ised",
+      "confidence": 0.8417
+    },
+    {
+      "bbox": [
+        70,
+        585,
+        85,
+        610
+      ],
+      "text": "D",
+      "confidence": 0.4192
+    },
+    {
+      "bbox": [
+        259,
+        798,
+        488,
+        815
+      ],
+      "text": "Stewart, Warren & Co. Litho 29 Howard St. N.Y.",
+      "confidence": 0.9792
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "image_width": 1610,
+  "image_height": 1147,
+  "lines": [
+    {
+      "bbox": [
+        788,
+        284,
+        1454,
+        350
+      ],
+      "text": "Washington D. C.",
+      "confidence": 0.9729
+    },
+    {
+      "bbox": [
+        1025,
+        365,
+        1375,
+        436
+      ],
+      "text": "mil 18\"1869",
+      "confidence": 0.4005
+    },
+    {
+      "bbox": [
+        456,
+        440,
+        1407,
+        599
+      ],
+      "text": "To realist received of promise to",
+      "confidence": 0.6651
+    },
+    {
+      "bbox": [
+        1414,
+        455,
+        1520,
+        521
+      ],
+      "text": "bay",
+      "confidence": 0.4883
+    },
+    {
+      "bbox": [
+        1237,
+        514,
+        1454,
+        588
+      ],
+      "text": "mod",
+      "confidence": 0.8808
+    },
+    {
+      "bbox": [
+        454,
+        586,
+        1196,
+        672
+      ],
+      "text": "One hundred dollars one",
+      "confidence": 0.9534
+    },
+    {
+      "bbox": [
+        463,
+        684,
+        613,
+        738
+      ],
+      "text": "date.",
+      "confidence": 0.9644
+    },
+    {
+      "bbox": [
+        732,
+        730,
+        1288,
+        833
+      ],
+      "text": "Thanks R. Douglass",
+      "confidence": 0.7331
+    }
+  ]
+}

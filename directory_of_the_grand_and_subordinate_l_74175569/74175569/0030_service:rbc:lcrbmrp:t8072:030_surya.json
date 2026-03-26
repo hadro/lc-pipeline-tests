@@ -1,0 +1,316 @@
+{
+  "image_width": 1814,
+  "image_height": 2910,
+  "lines": [
+    {
+      "bbox": [
+        419,
+        283,
+        1551,
+        343
+      ],
+      "text": "Meetings held at Masonic Temple—(continued).",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        317,
+        388,
+        867,
+        425
+      ],
+      "text": "SECOND WEDNESDAYS-",
+      "confidence": 0.9349
+    },
+    {
+      "bbox": [
+        447,
+        429,
+        1200,
+        476
+      ],
+      "text": "Electa Chapter, No. 14, O. E. S.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        448,
+        473,
+        1365,
+        519
+      ],
+      "text": "Gethsemane Commandery, K. T., No. 3.",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        317,
+        612,
+        831,
+        646
+      ],
+      "text": "THIRD WEDNESDAYS-",
+      "confidence": 0.9766
+    },
+    {
+      "bbox": [
+        450,
+        650,
+        1460,
+        700
+      ],
+      "text": "Charles Datcher Lodge, No. 15, F. A. A. M.",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        455,
+        701,
+        1095,
+        738
+      ],
+      "text": "Union R. A. Chapter, No. 2.",
+      "confidence": 0.9762
+    },
+    {
+      "bbox": [
+        451,
+        743,
+        1310,
+        784
+      ],
+      "text": "Gethsemane Chapter, No. 4, O. E. S.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        317,
+        875,
+        869,
+        916
+      ],
+      "text": "FOURTH WEDNESDAYS-",
+      "confidence": 0.9633
+    },
+    {
+      "bbox": [
+        450,
+        921,
+        1316,
+        963
+      ],
+      "text": "Prince Hall Chapter, No. 12, O. E. S.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        318,
+        1059,
+        780,
+        1094
+      ],
+      "text": "FIRST THURSDAYS-",
+      "confidence": 0.9686
+    },
+    {
+      "bbox": [
+        456,
+        1103,
+        1198,
+        1141
+      ],
+      "text": "Social Lodge. No 1, F. A. A. M.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        445,
+        1145,
+        1328,
+        1184
+      ],
+      "text": "Henderson Commandery, K. T., No. 2.",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        321,
+        1280,
+        834,
+        1316
+      ],
+      "text": "SECOND THURSDAYS-",
+      "confidence": 0.965
+    },
+    {
+      "bbox": [
+        456,
+        1319,
+        1357,
+        1366
+      ],
+      "text": "Widow's Son Lodge, No. 7, F. A. A. M.",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        455,
+        1369,
+        1194,
+        1407
+      ],
+      "text": "St. John's R. A. Chapter, No. 7.",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        323,
+        1504,
+        801,
+        1536
+      ],
+      "text": "THIRD THURSDAYS-",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        448,
+        1544,
+        1362,
+        1588
+      ],
+      "text": "Prince Hall Lodge, No. 14, F. A. A. M.",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        317,
+        1683,
+        835,
+        1717
+      ],
+      "text": "FOURTH THURSDAYS-",
+      "confidence": 0.9669
+    },
+    {
+      "bbox": [
+        451,
+        1726,
+        1186,
+        1762
+      ],
+      "text": "Board of Directors, M. H. B. A.",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        321,
+        1860,
+        716,
+        1894
+      ],
+      "text": "FIRST FRIDAYS-",
+      "confidence": 0.9605
+    },
+    {
+      "bbox": [
+        450,
+        1900,
+        1341,
+        1944
+      ],
+      "text": "Brightwood Lodge, U. D., F. A. A. M.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        454,
+        1947,
+        1221,
+        1987
+      ],
+      "text": "Mt. Vernon R. A. Chapter, No. 1.",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        321,
+        2079,
+        760,
+        2120
+      ],
+      "text": "SECOND FRIDAYS-",
+      "confidence": 0.9487
+    },
+    {
+      "bbox": [
+        456,
+        2125,
+        1227,
+        2163
+      ],
+      "text": "Simon Commandery, K. T., No. 1.",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        322,
+        2258,
+        729,
+        2296
+      ],
+      "text": "THIRD FRIDAYS-",
+      "confidence": 0.9834
+    },
+    {
+      "bbox": [
+        456,
+        2303,
+        1339,
+        2341
+      ],
+      "text": "Queen Esther Chapter, No. 1, O. E. S.",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        320,
+        2439,
+        758,
+        2474
+      ],
+      "text": "FOURTH FRIDAYS-",
+      "confidence": 0.9514
+    },
+    {
+      "bbox": [
+        454,
+        2478,
+        1356,
+        2520
+      ],
+      "text": "Mt. Calvary Commandery, K. T., No. 4.",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        456,
+        2525,
+        1210,
+        2564
+      ],
+      "text": "Marvian Chapter, No. 8, O. E. S.",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        964,
+        2613,
+        1018,
+        2648
+      ],
+      "text": "21",
+      "confidence": 0.9944
+    }
+  ]
+}

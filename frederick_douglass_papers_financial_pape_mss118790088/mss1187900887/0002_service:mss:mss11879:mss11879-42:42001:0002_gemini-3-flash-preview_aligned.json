@@ -1,0 +1,293 @@
+{
+  "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+  "canvas_width": 1412,
+  "canvas_height": 1218,
+  "surya_median_confidence": 0.9631,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        183,
+        132,
+        634,
+        174
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=183,132,451,42",
+      "confidence": "line",
+      "gemini_text": "CAPITAL SAVINGS BANK,",
+      "surya_confidence": 0.9534
+    },
+    {
+      "bbox": [
+        316,
+        174,
+        496,
+        198
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=316,174,180,24",
+      "confidence": "line",
+      "gemini_text": "WASHINGTON, D. C.",
+      "surya_confidence": 0.9456
+    },
+    {
+      "bbox": [
+        498,
+        214,
+        700,
+        241
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=498,214,202,27",
+      "confidence": "line",
+      "gemini_text": "DR. In Account with Helen Douglass CR.",
+      "surya_confidence": 0.97
+    },
+    {
+      "bbox": [
+        183,
+        345,
+        376,
+        407
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=183,345,193,62",
+      "confidence": "line",
+      "gemini_text": "1895 '95.",
+      "surya_confidence": 0.943
+    },
+    {
+      "bbox": [
+        444,
+        365,
+        663,
+        405
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=444,365,219,40",
+      "confidence": "line",
+      "gemini_text": "July 15 Dep. 3000 00 July 15 Ck 3 00",
+      "surya_confidence": 0.9432
+    },
+    {
+      "bbox": [
+        476,
+        425,
+        648,
+        465
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=476,425,172,40",
+      "confidence": "line",
+      "gemini_text": "\" 19 \" 268 10 \" 16 \" 4 80",
+      "surya_confidence": 0.9957
+    },
+    {
+      "bbox": [
+        473,
+        492,
+        649,
+        529
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=473,492,176,37",
+      "confidence": "line",
+      "gemini_text": "Dec 19 \" 100 00 Aug 6 \" 268 25",
+      "surya_confidence": 0.9848
+    },
+    {
+      "bbox": [
+        294,
+        542,
+        671,
+        654
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=294,542,377,112",
+      "confidence": "line",
+      "gemini_text": "(Time Deposit) \" 31 \" 50",
+      "surya_confidence": 0.9492
+    },
+    {
+      "bbox": [
+        449,
+        627,
+        650,
+        671
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=449,627,201,44",
+      "confidence": "line",
+      "gemini_text": "July 17 Dep. 2200 00 Sept. 27 \" 100",
+      "surya_confidence": 0.9923
+    },
+    {
+      "bbox": [
+        503,
+        685,
+        642,
+        733
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=503,685,139,48",
+      "confidence": "line",
+      "gemini_text": "Oct 21 \" 18 00 Oct. 16 \" 20",
+      "surya_confidence": 0.9887
+    },
+    {
+      "bbox": [
+        468,
+        756,
+        643,
+        797
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=468,756,175,41",
+      "confidence": "line",
+      "gemini_text": "1897 Nov. 16 \" 50",
+      "surya_confidence": 0.9936
+    },
+    {
+      "bbox": [
+        416,
+        1049,
+        693,
+        1132
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=416,1049,277,83",
+      "confidence": "line",
+      "gemini_text": "July 17 Int. 120 00 Dec 9 \" 100",
+      "surya_confidence": 0.9845
+    },
+    {
+      "bbox": [
+        181,
+        1054,
+        357,
+        1112
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=181,1054,176,58",
+      "confidence": "line",
+      "gemini_text": "Jan 9/96 \" 5 00",
+      "surya_confidence": 0.9581
+    },
+    {
+      "bbox": [
+        1160,
+        334,
+        1251,
+        373
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=1160,334,91,39",
+      "confidence": "line",
+      "gemini_text": "\" 31 \" 50",
+      "surya_confidence": 0.9942
+    },
+    {
+      "bbox": [
+        1152,
+        407,
+        1322,
+        449
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=1152,407,170,42",
+      "confidence": "line",
+      "gemini_text": "\" 24 \" 50 25",
+      "surya_confidence": 0.9813
+    },
+    {
+      "bbox": [
+        1170,
+        449,
+        1240,
+        476
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=1170,449,70,27",
+      "confidence": "line",
+      "gemini_text": "Mch 10 \" 163",
+      "surya_confidence": 0.6467
+    },
+    {
+      "bbox": [
+        1157,
+        482,
+        1250,
+        507
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=1157,482,93,25",
+      "confidence": "line",
+      "gemini_text": "\" 13 \" 33",
+      "surya_confidence": 0.9948
+    },
+    {
+      "bbox": [
+        1174,
+        520,
+        1244,
+        540
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=1174,520,70,20",
+      "confidence": "line",
+      "gemini_text": "\" 21 \" 45",
+      "surya_confidence": 0.6308
+    },
+    {
+      "bbox": [
+        1151,
+        549,
+        1207,
+        573
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=1151,549,56,24",
+      "confidence": "line",
+      "gemini_text": "Apr 3 \" 60",
+      "surya_confidence": 0.9956
+    },
+    {
+      "bbox": [
+        1209,
+        553,
+        1242,
+        570
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=1209,553,33,17",
+      "confidence": "line",
+      "gemini_text": "Nov 2 \" 100",
+      "surya_confidence": 0.8868
+    },
+    {
+      "bbox": [
+        1151,
+        682,
+        1242,
+        702
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=1151,682,91,20",
+      "confidence": "line",
+      "gemini_text": "5 00",
+      "surya_confidence": 0.8484
+    },
+    {
+      "bbox": [
+        1149,
+        1040,
+        1230,
+        1066
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=1149,1040,81,26",
+      "confidence": "line",
+      "gemini_text": "2 00",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        1116,
+        1097,
+        1305,
+        1138
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=1116,1097,189,41",
+      "confidence": "line",
+      "gemini_text": "Amt 5726 25 Amt. 3606 25",
+      "surya_confidence": 0.9938
+    }
+  ],
+  "unmatched_gemini": [
+    "1896 \" 7 \" 50",
+    "Apr 2 \" 20 15 \" 22 \" 3 00",
+    "\" 14 \" 100",
+    "Feb. 8 \" 16 75"
+  ]
+}

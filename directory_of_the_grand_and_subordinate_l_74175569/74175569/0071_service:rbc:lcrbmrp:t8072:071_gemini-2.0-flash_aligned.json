@@ -1,0 +1,252 @@
+{
+  "image": "0071_service:rbc:lcrbmrp:t8072:071.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:071",
+  "canvas_width": 1896,
+  "canvas_height": 3000,
+  "surya_median_confidence": 0.9864,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        752,
+        379,
+        1264,
+        464
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:071#xywh=752,379,512,85",
+      "confidence": "line",
+      "gemini_text": "HARRIS'",
+      "surya_confidence": 0.8394
+    },
+    {
+      "bbox": [
+        335,
+        542,
+        1694,
+        676
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:071#xywh=335,542,1359,134",
+      "confidence": "line",
+      "gemini_text": "MASONIC TEXT-BOOK;",
+      "surya_confidence": 0.9952
+    },
+    {
+      "bbox": [
+        840,
+        713,
+        1183,
+        752
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:071#xywh=840,713,343,39",
+      "confidence": "line",
+      "gemini_text": "A CONCISE",
+      "surya_confidence": 0.9135
+    },
+    {
+      "bbox": [
+        493,
+        800,
+        1534,
+        869
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:071#xywh=493,800,1041,69",
+      "confidence": "line",
+      "gemini_text": "Historical Sketch of Masonry",
+      "surya_confidence": 0.9095
+    },
+    {
+      "bbox": [
+        906,
+        925,
+        1117,
+        952
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:071#xywh=906,925,211,27",
+      "confidence": "line",
+      "gemini_text": "AND THE",
+      "surya_confidence": 0.9907
+    },
+    {
+      "bbox": [
+        329,
+        995,
+        1692,
+        1057
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:071#xywh=329,995,1363,62",
+      "confidence": "line",
+      "gemini_text": "ORGANIZATION OF MASONIC GRAND LODGES,",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        463,
+        1135,
+        1552,
+        1188
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:071#xywh=463,1135,1089,53",
+      "confidence": "line",
+      "gemini_text": "And especially of Masonry among Colored Men",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        867,
+        1196,
+        1148,
+        1238
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:071#xywh=867,1196,281,42",
+      "confidence": "line",
+      "gemini_text": "of America;",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        715,
+        1304,
+        1295,
+        1339
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:071#xywh=715,1304,580,35",
+      "confidence": "line",
+      "gemini_text": "ALSO, A COMPILATION OF",
+      "surya_confidence": 0.9864
+    },
+    {
+      "bbox": [
+        495,
+        1382,
+        1515,
+        1456
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:071#xywh=495,1382,1020,74",
+      "confidence": "line",
+      "gemini_text": "The Illustrations of Masonic Work,",
+      "surya_confidence": 0.8638
+    },
+    {
+      "bbox": [
+        329,
+        1526,
+        1676,
+        1580
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:071#xywh=329,1526,1347,54",
+      "confidence": "line",
+      "gemini_text": "As drawn from the Most Reliable Authorities on the subject.",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        607,
+        1640,
+        1402,
+        1706
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:071#xywh=607,1640,795,66",
+      "confidence": "line",
+      "gemini_text": "By HARRISON L. HARRIS, M. D.,",
+      "surya_confidence": 0.9953
+    },
+    {
+      "bbox": [
+        536,
+        1752,
+        1469,
+        1791
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:071#xywh=536,1752,933,39",
+      "confidence": "line",
+      "gemini_text": "Grand Secretary of the Grand Lodge of Virginia.",
+      "surya_confidence": 0.963
+    },
+    {
+      "bbox": [
+        726,
+        1936,
+        1273,
+        1972
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:071#xywh=726,1936,547,36",
+      "confidence": "line",
+      "gemini_text": "COPYRIGHTED 1903.",
+      "surya_confidence": 0.9271
+    },
+    {
+      "bbox": [
+        325,
+        2120,
+        1673,
+        2172
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:071#xywh=325,2120,1348,52",
+      "confidence": "line",
+      "gemini_text": "Published and used by the Grand Lodge of Virginia.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        443,
+        2226,
+        1558,
+        2297
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:071#xywh=443,2226,1115,71",
+      "confidence": "line",
+      "gemini_text": "PRICE TWO DOLLARS.",
+      "surya_confidence": 0.9892
+    },
+    {
+      "bbox": [
+        548,
+        2436,
+        878,
+        2471
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:071#xywh=548,2436,330,35",
+      "confidence": "line",
+      "gemini_text": "Send orders to",
+      "surya_confidence": 0.9774
+    },
+    {
+      "bbox": [
+        717,
+        2529,
+        1211,
+        2567
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:071#xywh=717,2529,494,38",
+      "confidence": "line",
+      "gemini_text": "DR. H. L. HARRIS,",
+      "surya_confidence": 0.9775
+    },
+    {
+      "bbox": [
+        895,
+        2621,
+        1510,
+        2659
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:071#xywh=895,2621,615,38",
+      "confidence": "line",
+      "gemini_text": "No. 308 West Leigh Street,",
+      "surya_confidence": 0.9949
+    },
+    {
+      "bbox": [
+        1303,
+        2711,
+        1668,
+        2747
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:071#xywh=1303,2711,365,36",
+      "confidence": "line",
+      "gemini_text": "RICHMOND, VA.",
+      "surya_confidence": 0.9826
+    }
+  ],
+  "unmatched_gemini": []
+}

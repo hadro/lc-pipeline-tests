@@ -1,0 +1,316 @@
+{
+  "image_width": 1892,
+  "image_height": 2997,
+  "lines": [
+    {
+      "bbox": [
+        711,
+        406,
+        1259,
+        441
+      ],
+      "text": "HENRY EBERBACH,",
+      "confidence": 0.9313
+    },
+    {
+      "bbox": [
+        400,
+        459,
+        1573,
+        501
+      ],
+      "text": "Dealer in Pianos, Organs and Every Description of",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        726,
+        516,
+        1239,
+        549
+      ],
+      "text": "Musical Merchandise.",
+      "confidence": 0.964
+    },
+    {
+      "bbox": [
+        543,
+        600,
+        1473,
+        650
+      ],
+      "text": "915 F Street, N. W., Near Ninth Street,",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        770,
+        650,
+        1196,
+        689
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9859
+    },
+    {
+      "bbox": [
+        343,
+        694,
+        1623,
+        734
+      ],
+      "text": "Pianos and Organs Repaired, Tuned, Boxed and Moved.",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        786,
+        802,
+        1157,
+        839
+      ],
+      "text": "JOHN W.LEE,",
+      "confidence": 0.9725
+    },
+    {
+      "bbox": [
+        868,
+        890,
+        1095,
+        924
+      ],
+      "text": "Dealer in",
+      "confidence": 0.9571
+    },
+    {
+      "bbox": [
+        393,
+        974,
+        1565,
+        1021
+      ],
+      "text": "FLOWERS, UPHOLSTERING, CARPETS, &c",
+      "confidence": 0.9647
+    },
+    {
+      "bbox": [
+        692,
+        1071,
+        1294,
+        1108
+      ],
+      "text": "2722 N Street, Northwest.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        652,
+        1205,
+        1293,
+        1252
+      ],
+      "text": "ARMISTEAD T. PRIDE,",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        783,
+        1298,
+        1171,
+        1335
+      ],
+      "text": "PHARMACIST,",
+      "confidence": 0.9778
+    },
+    {
+      "bbox": [
+        510,
+        1385,
+        1450,
+        1432
+      ],
+      "text": "Corner of 28th and P Streets, Northwest.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        300,
+        1473,
+        1651,
+        1522
+      ],
+      "text": "Agent for the Famous Grip-Mal Tablets, a Sure Cure for",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        706,
+        1523,
+        1243,
+        1562
+      ],
+      "text": "La Grip and Malaria.",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        682,
+        1638,
+        1258,
+        1680
+      ],
+      "text": "WALTER WINFIELD,",
+      "confidence": 0.975
+    },
+    {
+      "bbox": [
+        866,
+        1693,
+        1077,
+        1729
+      ],
+      "text": "With the",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        409,
+        1747,
+        1542,
+        1791
+      ],
+      "text": "STANDARD SEWING MACHINE COMPANY",
+      "confidence": 0.9435
+    },
+    {
+      "bbox": [
+        742,
+        1810,
+        1138,
+        1846
+      ],
+      "text": "602 9th st., nw.",
+      "confidence": 0.9796
+    },
+    {
+      "bbox": [
+        400,
+        1870,
+        1548,
+        1920
+      ],
+      "text": "Repairer of all kinds of Family Sewing Machines.",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        576,
+        1929,
+        1354,
+        1973
+      ],
+      "text": "1626 Vermont Avenue, Northwest.",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        736,
+        2050,
+        1207,
+        2088
+      ],
+      "text": "W. A. STEWART,",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        584,
+        2100,
+        1353,
+        2147
+      ],
+      "text": "CONSERVATORY OF MUSIC,",
+      "confidence": 0.9528
+    },
+    {
+      "bbox": [
+        680,
+        2159,
+        1252,
+        2203
+      ],
+      "text": "Cor. 12th and R sts., nw.",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        570,
+        2214,
+        1364,
+        2261
+      ],
+      "text": "Lodge and Club Rooms For Rent.",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        352,
+        2267,
+        1581,
+        2318
+      ],
+      "text": "Real Estate and Loans, Notes and Drafts Discounted.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        542,
+        2327,
+        1394,
+        2366
+      ],
+      "text": "LEGAL CONSULTATION FREE.",
+      "confidence": 0.9512
+    },
+    {
+      "bbox": [
+        647,
+        2448,
+        1279,
+        2488
+      ],
+      "text": "BEBNARD E. EMMERT,",
+      "confidence": 0.962
+    },
+    {
+      "bbox": [
+        603,
+        2537,
+        1320,
+        2575
+      ],
+      "text": "Wholesale and Retail Dealer In",
+      "confidence": 0.9807
+    },
+    {
+      "bbox": [
+        291,
+        2621,
+        1637,
+        2673
+      ],
+      "text": "HAMS, SHOULDERS, BREASTS AND LEAF LARD.",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        512,
+        2716,
+        1417,
+        2760
+      ],
+      "text": "Stalls, 212 Center and 2 O St, Markets.",
+      "confidence": 0.9973
+    }
+  ]
+}

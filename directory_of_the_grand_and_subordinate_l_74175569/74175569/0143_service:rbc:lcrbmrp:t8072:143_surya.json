@@ -1,0 +1,16 @@
+{
+  "image_width": 1890,
+  "image_height": 2982,
+  "lines": [
+    {
+      "bbox": [
+        855,
+        1379,
+        911,
+        1393
+      ],
+      "text": ".",
+      "confidence": 0.6408
+    }
+  ]
+}

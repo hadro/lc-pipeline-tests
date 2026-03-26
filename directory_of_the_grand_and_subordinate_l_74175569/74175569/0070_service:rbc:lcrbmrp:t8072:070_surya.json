@@ -1,0 +1,556 @@
+{
+  "image_width": 1804,
+  "image_height": 2985,
+  "lines": [
+    {
+      "bbox": [
+        508,
+        387,
+        1259,
+        439
+      ],
+      "text": "Electa Chapter, No. 14, O. E. S.",
+      "confidence": 0.9766
+    },
+    {
+      "bbox": [
+        574,
+        486,
+        1180,
+        523
+      ],
+      "text": "Meets Second Wednesday.",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        205,
+        673,
+        1556,
+        715
+      ],
+      "text": "Mrs. Louisa Henderson ......Royal Matron",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        668,
+        731,
+        1090,
+        768
+      ],
+      "text": "471 School st., sw.",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        208,
+        824,
+        1556,
+        873
+      ],
+      "text": "Sir W. A. Warfield ..... Royal Patron",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        682,
+        888,
+        1074,
+        924
+      ],
+      "text": "1901 11th st., nw.",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        204,
+        975,
+        1557,
+        1015
+      ],
+      "text": "Miss Ella Jones..... Secretary",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        724,
+        1022,
+        1035,
+        1056
+      ],
+      "text": "916 E st., sw.",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        419,
+        1092,
+        1111,
+        1129
+      ],
+      "text": "Ball, Elizabeth, 741 Marshall nw.",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        423,
+        1131,
+        1174,
+        1163
+      ],
+      "text": "Beckworth, Nancy, 727 Del. ave. sw.",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        419,
+        1164,
+        978,
+        1197
+      ],
+      "text": "Bell, Jennie, Takoma Park.",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        423,
+        1194,
+        918,
+        1234
+      ],
+      "text": "Bolton, Cora, 823 R nw.",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        422,
+        1236,
+        1049,
+        1268
+      ],
+      "text": "Braxton, Lizzie, 2124 11th nw.",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        420,
+        1271,
+        1089,
+        1301
+      ],
+      "text": "Braxton, Louisa, 2124 11th nw.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        422,
+        1306,
+        1073,
+        1335
+      ],
+      "text": "Brown, Jane W., 1141 20th nw.",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        420,
+        1339,
+        1032,
+        1371
+      ],
+      "text": "Brown, Mary E., 1244 1st sw.",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        422,
+        1373,
+        1249,
+        1406
+      ],
+      "text": "Brown, Nannis B., 1316 Md. ave. ne.",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        422,
+        1407,
+        1034,
+        1442
+      ],
+      "text": "Burgess, Susie, 1025 19th nw.",
+      "confidence": 0.9751
+    },
+    {
+      "bbox": [
+        422,
+        1442,
+        1016,
+        1474
+      ],
+      "text": "Burless, Edith, Rosslyn, Va.",
+      "confidence": 0.977
+    },
+    {
+      "bbox": [
+        422,
+        1478,
+        1079,
+        1508
+      ],
+      "text": "Cabaniss, Janie, 920-11th nw.",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        422,
+        1511,
+        1043,
+        1543
+      ],
+      "text": "Cabaniss, Martha, 1906 K nw.",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        422,
+        1547,
+        1092,
+        1579
+      ],
+      "text": "Carter, Nannie, 1223 Potomac st.",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        420,
+        1580,
+        1157,
+        1614
+      ],
+      "text": "Chase, Mollie V., 716 Farragut nw.",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        420,
+        1616,
+        1225,
+        1649
+      ],
+      "text": "Chichester, Douglass, 751 Steuben nw.",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        422,
+        1651,
+        1234,
+        1683
+      ],
+      "text": "Chichester, Georgiana, 751 Steuben nw.",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        422,
+        1685,
+        1073,
+        1717
+      ],
+      "text": "Chissell, Rosetta, 1614 11th nw.",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        422,
+        1721,
+        1094,
+        1750
+      ],
+      "text": "Cozzens, Elizabeth, 2111 9th nw.",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        420,
+        1756,
+        1195,
+        1785
+      ],
+      "text": "Davis, Helen A., 516 Tenn. ave. ne.",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        420,
+        1790,
+        1125,
+        1820
+      ],
+      "text": "Dickerson, Elnora, 1711 11th nw.",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        420,
+        1824,
+        1019,
+        1857
+      ],
+      "text": "Dickerson, Eva, 2206 8th nw.",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        420,
+        1858,
+        1210,
+        1892
+      ],
+      "text": "Dickerson, Mary V., 1711 11th nw.",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        422,
+        1895,
+        1049,
+        1924
+      ],
+      "text": "Ellis, Elizabeth, 1609 12th nw.",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        420,
+        1930,
+        1031,
+        1959
+      ],
+      "text": "Fortune, Laura, 418 Elm nw.",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        420,
+        1963,
+        1002,
+        1993
+      ],
+      "text": "Freeman, Ella, 1609 4th nw.",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        419,
+        1997,
+        1235,
+        2029
+      ],
+      "text": "Gardner, Cecillie, 800 Marshall nw.",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        420,
+        2027,
+        1025,
+        2066
+      ],
+      "text": "Gilchrist, Maggie, 347 D sw.",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        419,
+        2067,
+        1007,
+        2099
+      ],
+      "text": "Gilchrist, Susan, 207 L sw.",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        419,
+        2100,
+        875,
+        2133
+      ],
+      "text": "Gray, Ella, 630 O nw.",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        417,
+        2137,
+        892,
+        2166
+      ],
+      "text": "Gray, John, 630 O nw.",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        417,
+        2171,
+        1147,
+        2201
+      ],
+      "text": "Harvey, Mary, 2219 Cleveland ave.",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        417,
+        2206,
+        1138,
+        2236
+      ],
+      "text": "Henderson, Louisa, 471 School sw.",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        419,
+        2238,
+        995,
+        2274
+      ],
+      "text": "Hill, Gertrude, 1133 1st nw.",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        417,
+        2271,
+        946,
+        2310
+      ],
+      "text": "Hill, W. C., 1133 1st nw.",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        419,
+        2311,
+        1091,
+        2340
+      ],
+      "text": "Holmes, Marie, Arlington, Va.",
+      "confidence": 0.9893
+    },
+    {
+      "bbox": [
+        422,
+        2344,
+        1041,
+        2375
+      ],
+      "text": "Howard, Nannie, 418 Elm nw.",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        423,
+        2376,
+        1156,
+        2411
+      ],
+      "text": "Hunt, Hannah, 821 Del. ave. sw.",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        419,
+        2411,
+        1095,
+        2443
+      ],
+      "text": "Johnson, Ellen, 1641 Vt. ave. nw.",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        419,
+        2446,
+        1156,
+        2480
+      ],
+      "text": "Johnson, Lottie, 1451 Pierce Pl. nw.",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        419,
+        2481,
+        1013,
+        2514
+      ],
+      "text": "Johnson, Maggie, 406 41/2 sw.",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        419,
+        2516,
+        876,
+        2546
+      ],
+      "text": "Jones, Ella, 916 E sw.",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        417,
+        2552,
+        954,
+        2582
+      ],
+      "text": "Jones, Mary S., 904 E sw.",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        417,
+        2585,
+        1004,
+        2620
+      ],
+      "text": "Malvin, M. V. S., 1018 R nw.",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        420,
+        2620,
+        1115,
+        2653
+      ],
+      "text": "Malvin, W. H. Judd., 1018 R nw.",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        856,
+        2690,
+        911,
+        2724
+      ],
+      "text": "61",
+      "confidence": 0.9737
+    },
+    {
+      "bbox": [
+        429,
+        2906,
+        551,
+        2920
+      ],
+      "text": "And the second second",
+      "confidence": 0.1251
+    }
+  ]
+}

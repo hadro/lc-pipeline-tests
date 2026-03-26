@@ -1,0 +1,556 @@
+{
+  "image_width": 1394,
+  "image_height": 1144,
+  "lines": [
+    {
+      "bbox": [
+        796,
+        140,
+        1281,
+        198
+      ],
+      "text": "HE GAPITAL SAVINGS BANK",
+      "confidence": 0.9288
+    },
+    {
+      "bbox": [
+        170,
+        141,
+        547,
+        158
+      ],
+      "text": "Organized October 1, 1888.",
+      "confidence": 0.9862
+    },
+    {
+      "bbox": [
+        103,
+        209,
+        614,
+        251
+      ],
+      "text": "Capital Savings Bank,",
+      "confidence": 0.7047
+    },
+    {
+      "bbox": [
+        800,
+        213,
+        1281,
+        246
+      ],
+      "text": "Presents the \"compliments of the sea-",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        772,
+        245,
+        1280,
+        283
+      ],
+      "text": "son\" to its many patrons and friends, and",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        239,
+        272,
+        478,
+        298
+      ],
+      "text": "609 F St., N. W.,",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        773,
+        279,
+        1282,
+        312
+      ],
+      "text": "asks for the New Year a continuance of",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        770,
+        314,
+        1284,
+        349
+      ],
+      "text": "the patronage which they have so gener-",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        220,
+        318,
+        485,
+        344
+      ],
+      "text": "WASHINGTON, D. C.",
+      "confidence": 0.9578
+    },
+    {
+      "bbox": [
+        772,
+        345,
+        1284,
+        384
+      ],
+      "text": "ously given to it in the past, and upon",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        773,
+        379,
+        1285,
+        417
+      ],
+      "text": "which has been built the splendid suc-",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        300,
+        403,
+        419,
+        419
+      ],
+      "text": "OFFICERS.",
+      "confidence": 0.9432
+    },
+    {
+      "bbox": [
+        773,
+        415,
+        1201,
+        445
+      ],
+      "text": "cess which the Bank has achieved.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        801,
+        447,
+        1285,
+        482
+      ],
+      "text": "With the purchase of our new building",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        239,
+        455,
+        473,
+        475
+      ],
+      "text": "HON. J. R. LYNCH.",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        773,
+        480,
+        1285,
+        517
+      ],
+      "text": "at 609 F St., at a cost of $32,000, and with",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        304,
+        485,
+        414,
+        504
+      ],
+      "text": "President.",
+      "confidence": 0.9812
+    },
+    {
+      "bbox": [
+        212,
+        512,
+        504,
+        532
+      ],
+      "text": "DR. JAMES R. WILDER,",
+      "confidence": 0.9797
+    },
+    {
+      "bbox": [
+        773,
+        513,
+        1285,
+        549
+      ],
+      "text": "the alterations necessary to adapt it to",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        272,
+        540,
+        440,
+        559
+      ],
+      "text": "Vice President.",
+      "confidence": 0.9734
+    },
+    {
+      "bbox": [
+        773,
+        546,
+        1285,
+        584
+      ],
+      "text": "the needs of our business, we have great-",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        240,
+        568,
+        473,
+        590
+      ],
+      "text": "HENRY E. BAKER,",
+      "confidence": 0.949
+    },
+    {
+      "bbox": [
+        774,
+        579,
+        1286,
+        617
+      ],
+      "text": "ly improved our facilities for transacting",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        297,
+        597,
+        411,
+        617
+      ],
+      "text": "Secretary.",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        775,
+        612,
+        1286,
+        651
+      ],
+      "text": "a general banking business, and we cor-",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        263,
+        626,
+        439,
+        643
+      ],
+      "text": "L. C. BAILEY.",
+      "confidence": 0.9565
+    },
+    {
+      "bbox": [
+        774,
+        647,
+        1288,
+        683
+      ],
+      "text": "dially invite the public to give us a larger",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        304,
+        652,
+        419,
+        672
+      ],
+      "text": "Treasurer.",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        211,
+        677,
+        503,
+        703
+      ],
+      "text": "DOUGLASS B. McCARY,",
+      "confidence": 0.9701
+    },
+    {
+      "bbox": [
+        774,
+        681,
+        1232,
+        717
+      ],
+      "text": "share of their patronage and support.",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        314,
+        711,
+        401,
+        728
+      ],
+      "text": "Cashier.",
+      "confidence": 0.9799
+    },
+    {
+      "bbox": [
+        804,
+        714,
+        1288,
+        749
+      ],
+      "text": "As a savings institution, we invite",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        777,
+        747,
+        1289,
+        784
+      ],
+      "text": "special attention to the importance of",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        281,
+        770,
+        419,
+        790
+      ],
+      "text": "DIRECTORS.",
+      "confidence": 0.9241
+    },
+    {
+      "bbox": [
+        776,
+        782,
+        1289,
+        817
+      ],
+      "text": "forming the habit of laying by some part",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        777,
+        815,
+        1290,
+        852
+      ],
+      "text": "of one's earnings regularly-however",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        333,
+        827,
+        472,
+        846
+      ],
+      "text": "L. C. Bailey,",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        101,
+        830,
+        299,
+        849
+      ],
+      "text": "Hon. J. R. Lynch,",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        777,
+        848,
+        1289,
+        884
+      ],
+      "text": "small it may be-so that the foundation",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        335,
+        849,
+        505,
+        868
+      ],
+      "text": "John A. Pierre.",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        101,
+        852,
+        225,
+        872
+      ],
+      "text": "J. W. Cole,",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        101,
+        874,
+        284,
+        894
+      ],
+      "text": "Henry E. Baker,",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        336,
+        874,
+        549,
+        891
+      ],
+      "text": "Jerome A. Johnson.",
+      "confidence": 0.9805
+    },
+    {
+      "bbox": [
+        777,
+        881,
+        1289,
+        919
+      ],
+      "text": "may thus be laid for larger accumula-",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        101,
+        896,
+        539,
+        915
+      ],
+      "text": "Prof. James Storum, Wm. E. Matthews,",
+      "confidence": 0.9832
+    },
+    {
+      "bbox": [
+        778,
+        915,
+        1289,
+        950
+      ],
+      "text": "tions; and as a MEDIUM OF EXCHANGE",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        101,
+        918,
+        303,
+        938
+      ],
+      "text": "James T. Bradford",
+      "confidence": 0.975
+    },
+    {
+      "bbox": [
+        333,
+        918,
+        612,
+        937
+      ],
+      "text": "Prof. W. S. Montgomery.",
+      "confidence": 0.976
+    },
+    {
+      "bbox": [
+        334,
+        938,
+        562,
+        960
+      ],
+      "text": "Dr. James R. Wilder.",
+      "confidence": 0.9888
+    },
+    {
+      "bbox": [
+        101,
+        941,
+        298,
+        960
+      ],
+      "text": "Dr. A. W. Tancil,",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        780,
+        948,
+        1290,
+        987
+      ],
+      "text": "for business men, we offer special advan-",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        333,
+        962,
+        521,
+        980
+      ],
+      "text": "Dr. W. S. Lofton.",
+      "confidence": 0.9859
+    },
+    {
+      "bbox": [
+        102,
+        965,
+        275,
+        982
+      ],
+      "text": "John, A. Lewis,",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        778,
+        981,
+        1291,
+        1020
+      ],
+      "text": "tages in the fact that our location is cen-",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        245,
+        983,
+        477,
+        1003
+      ],
+      "text": "Whitefield McKinlay.",
+      "confidence": 0.9911
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "image": "0036_service:mss:mss11879:mss11879-42:42001:0036.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0036",
+  "canvas_width": 1610,
+  "canvas_height": 1147,
+  "surya_median_confidence": 0.807,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        788,
+        284,
+        1454,
+        350
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0036#xywh=788,284,666,66",
+      "confidence": "line",
+      "gemini_text": "Washington D. C.",
+      "surya_confidence": 0.9729
+    },
+    {
+      "bbox": [
+        732,
+        730,
+        1288,
+        833
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0036#xywh=732,730,556,103",
+      "confidence": "line",
+      "gemini_text": "to Frederick Douglass, the sum of",
+      "surya_confidence": 0.7331
+    },
+    {
+      "bbox": [
+        1025,
+        365,
+        1375,
+        436
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0036#xywh=1025,365,350,71",
+      "confidence": "line",
+      "gemini_text": "One Hundred Dollars, one year after",
+      "surya_confidence": 0.4005
+    },
+    {
+      "bbox": [
+        1237,
+        514,
+        1454,
+        588
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0036#xywh=1237,514,217,74",
+      "confidence": "line",
+      "gemini_text": "date.",
+      "surya_confidence": 0.8808
+    },
+    {
+      "bbox": [
+        1414,
+        455,
+        1520,
+        521
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0036#xywh=1414,455,106,66",
+      "confidence": "line",
+      "gemini_text": "Charles R. Douglass",
+      "surya_confidence": 0.4883
+    }
+  ],
+  "unmatched_gemini": [
+    "April 13th 1869",
+    "$100 00/100",
+    "For value received I promise to pay"
+  ]
+}

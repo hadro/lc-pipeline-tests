@@ -1,0 +1,237 @@
+{
+  "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "section_title": "Lodge Officers for 1904",
+    "organization_name": "Widow's Son Lodge, No. 7"
+  },
+  "page_context": {
+    "section_title": "Lodge Officers for 1904",
+    "organization_name": "Charles Datcher Lodge, No. 15"
+  },
+  "entries": [
+    {
+      "name": "Charles H. Brown",
+      "title_or_role": "W. Master",
+      "organization_name": "Warren Lodge, No. 8",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets First Wednesday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=444,529,698,40",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "Charles H. Parker",
+      "title_or_role": "S. W.",
+      "organization_name": "Warren Lodge, No. 8",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets First Wednesday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=182,571,1218,44",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "Allen F. Jackson",
+      "title_or_role": "J. W.",
+      "organization_name": "Warren Lodge, No. 8",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets First Wednesday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=544,463,498,38",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "Geo. W. Branch",
+      "title_or_role": "Sec'y.",
+      "address": "2125 Ward Place, N. W.",
+      "organization_name": "Warren Lodge, No. 8",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets First Wednesday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=182,611,1216,51",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "Osborn T. Taylor",
+      "title_or_role": "W. Master",
+      "organization_name": "Pythagoras Lodge, No. 9",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets Third Tuesday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=444,900,697,37",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "Walter B. Hayson",
+      "title_or_role": "S. W.",
+      "organization_name": "Pythagoras Lodge, No. 9",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets Third Tuesday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=185,937,1215,49",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "John H. Gray",
+      "title_or_role": "J. W.",
+      "organization_name": "Pythagoras Lodge, No. 9",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets Third Tuesday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=505,817,574,41",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "James O. Bampfield",
+      "title_or_role": "Sec'y",
+      "address": "1119 V st. N. W.",
+      "organization_name": "Pythagoras Lodge, No. 9",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets Third Tuesday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=287,983,1029,47",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "Jesse B. Martin",
+      "title_or_role": "W. Master",
+      "organization_name": "John F. Cook Lodge, No. 10",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets Second Tuesday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=467,1267,651,35",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "Daniel W. Eidier",
+      "title_or_role": "S. W.",
+      "organization_name": "John F. Cook Lodge, No. 10",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets Second Tuesday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=188,1305,1213,47",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "William H. Jackson",
+      "title_or_role": "J.W.",
+      "organization_name": "John F. Cook Lodge, No. 10",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets Second Tuesday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=462,1183,656,48",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "Thos. E. Jones",
+      "title_or_role": "Sec'y.",
+      "address": "20 Prospect st., Reno City, D. C.",
+      "organization_name": "John F. Cook Lodge, No. 10",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets Second Tuesday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=411,1356,554,40",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "Beverly Young",
+      "title_or_role": "W. Master",
+      "organization_name": "St. John's Lodge, No. 12",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets Fourth Monday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=474,1673,639,53",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "Allen L. Deans",
+      "title_or_role": "S. W.",
+      "organization_name": "St. John's Lodge, No. 12",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets Fourth Monday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=190,1719,1216,47",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "John A. Smith",
+      "title_or_role": "J. W.",
+      "organization_name": "St. John's Lodge, No. 12",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets Fourth Monday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=508,1602,569,37",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "Nathaniel Robinson",
+      "title_or_role": "Sec'y",
+      "address": "2246 Cleveland Ave, N. W.",
+      "organization_name": "St. John's Lodge, No. 12",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets Fourth Monday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=189,1769,1216,39",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "William H. Haynes",
+      "title_or_role": "W. Master",
+      "organization_name": "Prince Hall Lodge, No. 14",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets Third Thursday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=426,2047,737,38",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "Edward H. Hunter",
+      "title_or_role": "S. W.",
+      "organization_name": "Prince Hall Lodge, No. 14",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets Third Thursday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=190,2087,1213,46",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "Wallace W. McCary",
+      "title_or_role": "J. W.",
+      "organization_name": "Prince Hall Lodge, No. 14",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets Third Thursday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=488,1970,616,37",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "Wm. T. Ferguson",
+      "title_or_role": "Sec'y",
+      "address": "1420 Pierce Place, N. W.",
+      "organization_name": "Prince Hall Lodge, No. 14",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets Third Thursday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=193,2131,1208,50",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "John D. Howard",
+      "title_or_role": "W. Master",
+      "organization_name": "Charles Datcher Lodge, No. 15",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets Third Wednesday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=457,2409,680,49",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "Charles H. Young",
+      "title_or_role": "S. W.",
+      "organization_name": "Charles Datcher Lodge, No. 15",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets Third Wednesday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=190,2457,1213,46",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "Jeremiah Scott",
+      "title_or_role": "J. W.",
+      "organization_name": "Charles Datcher Lodge, No. 15",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets Third Wednesday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=438,2339,719,36",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    },
+    {
+      "name": "Alex F. Hicks",
+      "title_or_role": "Sec'y",
+      "address": "2435 Brightwood Ave. N. W.",
+      "organization_name": "Charles Datcher Lodge, No. 15",
+      "section_title": "Lodge Officers for 1904",
+      "meeting_info": "Meets Third Wednesday",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=191,2499,1210,49",
+      "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "image_width": 1910,
+  "image_height": 3008,
+  "lines": [
+    {
+      "bbox": [
+        1099,
+        393,
+        1645,
+        515
+      ],
+      "text": "W. CALVIN CHASE,",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        1142,
+        569,
+        1602,
+        607
+      ],
+      "text": "ATTORNEY AND",
+      "confidence": 0.8624
+    },
+    {
+      "bbox": [
+        1142,
+        626,
+        1531,
+        664
+      ],
+      "text": "COUNSELLOR",
+      "confidence": 0.9511
+    },
+    {
+      "bbox": [
+        1141,
+        683,
+        1397,
+        720
+      ],
+      "text": "AT LAW.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        1195,
+        786,
+        1545,
+        826
+      ],
+      "text": "Notary Public.",
+      "confidence": 0.9821
+    },
+    {
+      "bbox": [
+        1097,
+        871,
+        1652,
+        912
+      ],
+      "text": "Practices in all Courts",
+      "confidence": 0.9411
+    },
+    {
+      "bbox": [
+        1182,
+        915,
+        1558,
+        961
+      ],
+      "text": "of Virginia and",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        1133,
+        953,
+        1612,
+        1000
+      ],
+      "text": "District of Columbia.",
+      "confidence": 0.9668
+    },
+    {
+      "bbox": [
+        1100,
+        1073,
+        1648,
+        1128
+      ],
+      "text": "Editor of \"The Bee.\"",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        1287,
+        1209,
+        1461,
+        1245
+      ],
+      "text": "Offices:",
+      "confidence": 0.9418
+    },
+    {
+      "bbox": [
+        1096,
+        1282,
+        1643,
+        1329
+      ],
+      "text": "1109 I Street N.W, and",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        1186,
+        1327,
+        1568,
+        1374
+      ],
+      "text": "503 D St. N.W.,",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        1097,
+        1411,
+        1643,
+        1464
+      ],
+      "text": "WASHINGTON, D. C.",
+      "confidence": 0.9478
+    },
+    {
+      "bbox": [
+        297,
+        1556,
+        1652,
+        1651
+      ],
+      "text": "If You Want Fine Wines & Liquors",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        1559,
+        1873,
+        1653,
+        1923
+      ],
+      "text": "At",
+      "confidence": 0.9639
+    },
+    {
+      "bbox": [
+        291,
+        1952,
+        410,
+        2006
+      ],
+      "text": "For",
+      "confidence": 0.9735
+    },
+    {
+      "bbox": [
+        1429,
+        2002,
+        1652,
+        2057
+      ],
+      "text": "Whole-",
+      "confidence": 0.9796
+    },
+    {
+      "bbox": [
+        835,
+        2007,
+        1351,
+        2055
+      ],
+      "text": "SHERRY ) WHISKEY ) (BRANDE",
+      "confidence": 0.982
+    },
+    {
+      "bbox": [
+        663,
+        2010,
+        762,
+        2051
+      ],
+      "text": "PORT",
+      "confidence": 0.9706
+    },
+    {
+      "bbox": [
+        292,
+        2086,
+        509,
+        2148
+      ],
+      "text": "Family",
+      "confidence": 0.9173
+    },
+    {
+      "bbox": [
+        1534,
+        2138,
+        1652,
+        2191
+      ],
+      "text": "sale",
+      "confidence": 0.9851
+    },
+    {
+      "bbox": [
+        1150,
+        2195,
+        1350,
+        2270
+      ],
+      "text": "Signor",
+      "confidence": 0.4795
+    },
+    {
+      "bbox": [
+        671,
+        2200,
+        838,
+        2256
+      ],
+      "text": "KINES",
+      "confidence": 0.734
+    },
+    {
+      "bbox": [
+        299,
+        2217,
+        418,
+        2273
+      ],
+      "text": "Use",
+      "confidence": 0.9266
+    },
+    {
+      "bbox": [
+        1465,
+        2267,
+        1652,
+        2323
+      ],
+      "text": "Prices<sup>®</sup>",
+      "confidence": 0.6908
+    },
+    {
+      "bbox": [
+        873,
+        2487,
+        1087,
+        2515
+      ],
+      "text": "COPYTIGH",
+      "confidence": 0.5525
+    },
+    {
+      "bbox": [
+        297,
+        2588,
+        1652,
+        2679
+      ],
+      "text": "Go to Collins, 2028 14th St., N. W.",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        937,
+        2698,
+        997,
+        2732
+      ],
+      "text": "84",
+      "confidence": 0.9888
+    }
+  ]
+}

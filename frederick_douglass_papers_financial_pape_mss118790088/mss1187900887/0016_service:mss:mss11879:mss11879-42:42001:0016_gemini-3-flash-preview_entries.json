@@ -1,0 +1,83 @@
+{
+  "image": "0016_service:mss:mss11879:mss11879-42:42001:0016.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Language Exercises",
+    "section_title": "Future",
+    "year": null
+  },
+  "page_context": {
+    "record_type": "Language Exercises",
+    "section_title": "Future",
+    "year": null
+  },
+  "entries": [
+    {
+      "date": null,
+      "description": "Jesus étant né à Bethléhem ville de Judée, au temps du roi Hérode, des mages d'Orient arrivèrent à Jérusalem.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Future",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016",
+      "image": "0016_service:mss:mss11879:mss11879-42:42001:0016.jpg"
+    },
+    {
+      "date": null,
+      "description": "2. Et dirent, où est les roi des Juifs qui est né, car nous avons vu son étoile en Orient nous sommes venus l'adorer.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Future",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016",
+      "image": "0016_service:mss:mss11879:mss11879-42:42001:0016.jpg"
+    },
+    {
+      "date": null,
+      "description": "3. Le roi Hérode l'ayant appris, en fut troublé et tout Jérusalem avec lui.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Future",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016",
+      "image": "0016_service:mss:mss11879:mss11879-42:42001:0016.jpg"
+    },
+    {
+      "date": null,
+      "description": "4. Et ayant assemblé tout les principaux sacrificateurs et les scribes, il s'informa du peuple, il s'informa de d'eux où le Christ devait naître",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Future",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016",
+      "image": "0016_service:mss:mss11879:mss11879-42:42001:0016.jpg"
+    },
+    {
+      "date": null,
+      "description": "5. Et ils lui dirent, c'est à Bethléhem, ville de Judée, car c'est ainsi que l'a écrit un prophète:",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Future",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016",
+      "image": "0016_service:mss:mss11879:mss11879-42:42001:0016.jpg"
+    },
+    {
+      "date": null,
+      "description": "6. Et toi Bethléhem, terre de Juda tu n'es pas la moindre entre les principales villes de Juda: car c'est de toi",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Future",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016",
+      "image": "0016_service:mss:mss11879:mss11879-42:42001:0016.jpg"
+    }
+  ]
+}

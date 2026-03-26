@@ -1,0 +1,76 @@
+{
+  "image": "0035_service:mss:mss11879:mss11879-42:42001:0035.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0035",
+  "canvas_width": 1725,
+  "canvas_height": 1424,
+  "surya_median_confidence": 0.819,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        132,
+        188,
+        742,
+        269
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0035#xywh=132,188,610,81",
+      "confidence": "line",
+      "gemini_text": "Recd for collection.",
+      "surya_confidence": 0.5317
+    },
+    {
+      "bbox": [
+        117,
+        288,
+        862,
+        468
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0035#xywh=117,288,745,180",
+      "confidence": "line",
+      "gemini_text": "dated June 15th for 6 Month due",
+      "surya_confidence": 0.819
+    },
+    {
+      "bbox": [
+        113,
+        489,
+        848,
+        679
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0035#xywh=113,489,735,190",
+      "confidence": "line",
+      "gemini_text": "Miller O. & Mulligan",
+      "surya_confidence": 0.8342
+    },
+    {
+      "bbox": [
+        117,
+        757,
+        455,
+        814
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0035#xywh=117,757,338,57",
+      "confidence": "line",
+      "gemini_text": "due Sept 8. 8 390.",
+      "surya_confidence": 0.7114
+    },
+    {
+      "bbox": [
+        678,
+        767,
+        817,
+        823
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0035#xywh=678,767,139,56",
+      "confidence": "line",
+      "gemini_text": "Mch 12. Market: 4 10",
+      "surya_confidence": 0.9931
+    }
+  ],
+  "unmatched_gemini": [
+    "Miller Orton & Mulligan's note",
+    "Dec 18 91 70",
+    "dated July 5 for Two Month"
+  ]
+}

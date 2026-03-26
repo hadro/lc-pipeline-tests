@@ -1,0 +1,396 @@
+{
+  "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112",
+  "canvas_width": 1828,
+  "canvas_height": 3005,
+  "surya_median_confidence": 0.992,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        475,
+        390,
+        1307,
+        445
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=475,390,832,55",
+      "confidence": "line",
+      "gemini_text": "Lodge Officers for 1904.",
+      "surya_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        658,
+        669,
+        1130,
+        707
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=658,669,472,38",
+      "confidence": "line",
+      "gemini_text": "Social Lodge, No. 1.",
+      "surya_confidence": 0.9948
+    },
+    {
+      "bbox": [
+        508,
+        746,
+        1278,
+        783
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=508,746,770,37",
+      "confidence": "line",
+      "gemini_text": "Benjamin E. Herbert, W. Master,",
+      "surya_confidence": 0.9941
+    },
+    {
+      "bbox": [
+        290,
+        789,
+        1497,
+        829
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=290,789,1207,40",
+      "confidence": "line",
+      "gemini_text": "Ernest M. Dickerson, S. W. Reuben S. Smith, J.W.",
+      "surya_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        397,
+        833,
+        1381,
+        874
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=397,833,984,41",
+      "confidence": "line",
+      "gemini_text": "Fred A. Fowler, Sec'y, 2209 14th st. N. W.",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        636,
+        893,
+        1159,
+        928
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=636,893,523,35",
+      "confidence": "line",
+      "gemini_text": "Meets First Thursday.",
+      "surya_confidence": 0.9882
+    },
+    {
+      "bbox": [
+        658,
+        1012,
+        1125,
+        1051
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=658,1012,467,39",
+      "confidence": "line",
+      "gemini_text": "Felix Lodge, No. 3.",
+      "surya_confidence": 0.9834
+    },
+    {
+      "bbox": [
+        555,
+        1090,
+        1234,
+        1129
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=555,1090,679,39",
+      "confidence": "line",
+      "gemini_text": "Owen E. McNeill, W. Master.",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        289,
+        1137,
+        1497,
+        1173
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=289,1137,1208,36",
+      "confidence": "line",
+      "gemini_text": "A. L. Cornish, S. W. Junius C. Cooper, J. W.",
+      "surya_confidence": 0.9935
+    },
+    {
+      "bbox": [
+        436,
+        1176,
+        1362,
+        1222
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=436,1176,926,46",
+      "confidence": "line",
+      "gemini_text": "Wm. H. Severson, Sec'y, 326 E st. S. W.",
+      "surya_confidence": 0.9966
+    },
+    {
+      "bbox": [
+        658,
+        1237,
+        1133,
+        1273
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=658,1237,475,36",
+      "confidence": "line",
+      "gemini_text": "Meets First Monday.",
+      "surya_confidence": 0.9815
+    },
+    {
+      "bbox": [
+        641,
+        1357,
+        1142,
+        1396
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=641,1357,501,39",
+      "confidence": "line",
+      "gemini_text": "Hiram Lodge, No. 4.",
+      "surya_confidence": 0.9798
+    },
+    {
+      "bbox": [
+        531,
+        1440,
+        1253,
+        1475
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=531,1440,722,35",
+      "confidence": "line",
+      "gemini_text": "Albert T. Newman, W. Master.",
+      "surya_confidence": 0.9926
+    },
+    {
+      "bbox": [
+        289,
+        1483,
+        1498,
+        1519
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=289,1483,1209,36",
+      "confidence": "line",
+      "gemini_text": "John H. Gaskins, S. W. William H. Brown, J. W.",
+      "surya_confidence": 0.9913
+    },
+    {
+      "bbox": [
+        353,
+        1529,
+        1410,
+        1566
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=353,1529,1057,37",
+      "confidence": "line",
+      "gemini_text": "Joseph N. Lawson, Sec'y, 1311 27th st. N. W.",
+      "surya_confidence": 0.9948
+    },
+    {
+      "bbox": [
+        641,
+        1583,
+        1140,
+        1620
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=641,1583,499,37",
+      "confidence": "line",
+      "gemini_text": "Meets Third Monday,",
+      "surya_confidence": 0.9901
+    },
+    {
+      "bbox": [
+        636,
+        1703,
+        1139,
+        1743
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=636,1703,503,40",
+      "confidence": "line",
+      "gemini_text": "Eureka Lodge, No. 5.",
+      "surya_confidence": 0.9753
+    },
+    {
+      "bbox": [
+        467,
+        1783,
+        1314,
+        1820
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=467,1783,847,37",
+      "confidence": "line",
+      "gemini_text": "L. Gorham Fletcher, Jr., W. Master.",
+      "surya_confidence": 0.992
+    },
+    {
+      "bbox": [
+        283,
+        1827,
+        1495,
+        1865
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=283,1827,1212,38",
+      "confidence": "line",
+      "gemini_text": "Arthur C. Newman, S.W. Samuel W. Watson, J.W.",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        329,
+        1872,
+        1434,
+        1910
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=329,1872,1105,38",
+      "confidence": "line",
+      "gemini_text": "Edward A. Watson, Sec'y, 1238 Joliet st. N. W.",
+      "surya_confidence": 0.9927
+    },
+    {
+      "bbox": [
+        632,
+        1929,
+        1150,
+        1964
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=632,1929,518,35",
+      "confidence": "line",
+      "gemini_text": "Meets Second Monday.",
+      "surya_confidence": 0.9824
+    },
+    {
+      "bbox": [
+        618,
+        2048,
+        1157,
+        2087
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=618,2048,539,39",
+      "confidence": "line",
+      "gemini_text": "Meridian Lodge, No. 6.",
+      "surya_confidence": 0.967
+    },
+    {
+      "bbox": [
+        549,
+        2130,
+        1224,
+        2166
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=549,2130,675,36",
+      "confidence": "line",
+      "gemini_text": "Joseph E. Graves, W. Master.",
+      "surya_confidence": 0.9898
+    },
+    {
+      "bbox": [
+        283,
+        2172,
+        1492,
+        2212
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=283,2172,1209,40",
+      "confidence": "line",
+      "gemini_text": "Alfred H. Harvey, S. W. Benjamin Williams, J.W.",
+      "surya_confidence": 0.9916
+    },
+    {
+      "bbox": [
+        417,
+        2216,
+        1359,
+        2258
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=417,2216,942,42",
+      "confidence": "line",
+      "gemini_text": "Wm. Knox Brown, Sec'y, 205 L st. N. W.",
+      "surya_confidence": 0.9964
+    },
+    {
+      "bbox": [
+        647,
+        2275,
+        1137,
+        2311
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=647,2275,490,36",
+      "confidence": "line",
+      "gemini_text": "Meets First Tuesday.",
+      "surya_confidence": 0.98
+    },
+    {
+      "bbox": [
+        574,
+        2388,
+        1202,
+        2435
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=574,2388,628,47",
+      "confidence": "line",
+      "gemini_text": "Widow's Son Lodge, No. 7.",
+      "surya_confidence": 0.9947
+    },
+    {
+      "bbox": [
+        546,
+        2472,
+        1217,
+        2512
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=546,2472,671,40",
+      "confidence": "line",
+      "gemini_text": "Charles H. Posey, W. Master.",
+      "surya_confidence": 0.986
+    },
+    {
+      "bbox": [
+        281,
+        2516,
+        1489,
+        2557
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=281,2516,1208,41",
+      "confidence": "line",
+      "gemini_text": "Charles L. Harris, S. W. Thomas N Williams, J.W.",
+      "surya_confidence": 0.9947
+    },
+    {
+      "bbox": [
+        409,
+        2559,
+        1378,
+        2606
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=409,2559,969,47",
+      "confidence": "line",
+      "gemini_text": "John S. George, Sec'y, 1938 11th st. N. W.",
+      "surya_confidence": 0.9977
+    },
+    {
+      "bbox": [
+        604,
+        2617,
+        1179,
+        2656
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=604,2617,575,39",
+      "confidence": "line",
+      "gemini_text": "Meets Second Thursday.",
+      "surya_confidence": 0.9905
+    },
+    {
+      "bbox": [
+        850,
+        2695,
+        926,
+        2729
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=850,2695,76,34",
+      "confidence": "line",
+      "gemini_text": "103",
+      "surya_confidence": 0.9778
+    }
+  ],
+  "unmatched_gemini": []
+}

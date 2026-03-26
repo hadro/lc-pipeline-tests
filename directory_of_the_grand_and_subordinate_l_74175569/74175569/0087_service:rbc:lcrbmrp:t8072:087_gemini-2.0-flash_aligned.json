@@ -1,0 +1,432 @@
+{
+  "image": "0087_service:rbc:lcrbmrp:t8072:087.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087",
+  "canvas_width": 1904,
+  "canvas_height": 2999,
+  "surya_median_confidence": 0.9901,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        739,
+        439,
+        1350,
+        477
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=739,439,611,38",
+      "confidence": "line",
+      "gemini_text": "JOHN W. PATTERSON,",
+      "surya_confidence": 0.9612
+    },
+    {
+      "bbox": [
+        764,
+        502,
+        1337,
+        541
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=764,502,573,39",
+      "confidence": "line",
+      "gemini_text": "ATTORNEY-AT-LAW.",
+      "surya_confidence": 0.9661
+    },
+    {
+      "bbox": [
+        842,
+        574,
+        1177,
+        608
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=842,574,335,34",
+      "confidence": "line",
+      "gemini_text": "Law. Real Estate. Pensions.",
+      "surya_confidence": 0.9891
+    },
+    {
+      "bbox": [
+        764,
+        629,
+        1337,
+        663
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=764,629,573,34",
+      "confidence": "line",
+      "gemini_text": "407 Seventh Street N. W.",
+      "surya_confidence": 0.9939
+    },
+    {
+      "bbox": [
+        771,
+        686,
+        1342,
+        725
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=771,686,571,39",
+      "confidence": "line",
+      "gemini_text": "Rooms 5, 6, 7, 8, 9, 10, 11.",
+      "surya_confidence": 0.9943
+    },
+    {
+      "bbox": [
+        808,
+        741,
+        1274,
+        782
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=808,741,466,41",
+      "confidence": "line",
+      "gemini_text": "Telephone, East 352.",
+      "surya_confidence": 0.9922
+    },
+    {
+      "bbox": [
+        788,
+        869,
+        1301,
+        905
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=788,869,513,36",
+      "confidence": "line",
+      "gemini_text": "MAY B WILLIAMS,",
+      "surya_confidence": 0.9848
+    },
+    {
+      "bbox": [
+        796,
+        946,
+        1299,
+        980
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=796,946,503,34",
+      "confidence": "line",
+      "gemini_text": "Graduated Mid-Wife.",
+      "surya_confidence": 0.9605
+    },
+    {
+      "bbox": [
+        628,
+        1020,
+        1457,
+        1067
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=628,1020,829,47",
+      "confidence": "line",
+      "gemini_text": "\"Calls attended without physician\"",
+      "surya_confidence": 0.9983
+    },
+    {
+      "bbox": [
+        422,
+        1107,
+        752,
+        1140
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=422,1107,330,33",
+      "confidence": "line",
+      "gemini_text": "'Phone 1408 F. 1919 11th Street, N. W.",
+      "surya_confidence": 0.9163
+    },
+    {
+      "bbox": [
+        840,
+        1226,
+        1258,
+        1260
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=840,1226,418,34",
+      "confidence": "line",
+      "gemini_text": "J. T. JOHNSON.",
+      "surya_confidence": 0.9861
+    },
+    {
+      "bbox": [
+        810,
+        1283,
+        1286,
+        1319
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=810,1283,476,36",
+      "confidence": "line",
+      "gemini_text": "1403 P Street, N. W.",
+      "surya_confidence": 0.9787
+    },
+    {
+      "bbox": [
+        421,
+        1334,
+        1724,
+        1382
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=421,1334,1303,48",
+      "confidence": "line",
+      "gemini_text": "Still at the same old stand, doing first-class hair cutting",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        378,
+        1378,
+        1723,
+        1424
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=378,1378,1345,46",
+      "confidence": "line",
+      "gemini_text": "and shaving. Tonics, hair dye, and \"Tionia\" always on",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        371,
+        1425,
+        1594,
+        1469
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=371,1425,1223,44",
+      "confidence": "line",
+      "gemini_text": "hand. Shampooing done at Residence, 1423 P Street.",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        416,
+        1465,
+        1718,
+        1516
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=416,1465,1302,51",
+      "confidence": "line",
+      "gemini_text": "I am also in the Jewelry business, repairing watches and",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        374,
+        1515,
+        1521,
+        1557
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=374,1515,1147,42",
+      "confidence": "line",
+      "gemini_text": "jewelry. Watches cleaned, main springs, $1 each.",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        485,
+        1557,
+        1609,
+        1604
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=485,1557,1124,47",
+      "confidence": "line",
+      "gemini_text": "Diamonds, Elgin and Waltham watches for sale.",
+      "surya_confidence": 0.9984
+    },
+    {
+      "bbox": [
+        523,
+        1603,
+        1569,
+        1647
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=523,1603,1046,44",
+      "confidence": "line",
+      "gemini_text": "Jewelry and watches called for and delivered.",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        786,
+        1728,
+        1299,
+        1765
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=786,1728,513,37",
+      "confidence": "line",
+      "gemini_text": "EZEKIEL TIGNOR,",
+      "surya_confidence": 0.9553
+    },
+    {
+      "bbox": [
+        692,
+        1790,
+        1413,
+        1831
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=692,1790,721,41",
+      "confidence": "line",
+      "gemini_text": "CENTRAL DINING ROOMS.",
+      "surya_confidence": 0.9219
+    },
+    {
+      "bbox": [
+        831,
+        1863,
+        1270,
+        1897
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=831,1863,439,34",
+      "confidence": "line",
+      "gemini_text": "Meals at all hours.",
+      "surya_confidence": 0.9933
+    },
+    {
+      "bbox": [
+        418,
+        1934,
+        898,
+        1971
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=418,1934,480,37",
+      "confidence": "line",
+      "gemini_text": "1213 E Street, N. W. Washington, D. C.",
+      "surya_confidence": 0.9772
+    },
+    {
+      "bbox": [
+        731,
+        1999,
+        1369,
+        2036
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=731,1999,638,37",
+      "confidence": "line",
+      "gemini_text": "Residence, 324 G St., S. W.",
+      "surya_confidence": 0.9975
+    },
+    {
+      "bbox": [
+        379,
+        2124,
+        766,
+        2158
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=379,2124,387,34",
+      "confidence": "line",
+      "gemini_text": "JOHN SWANN. THOMAS H. WILKINS",
+      "surya_confidence": 0.9606
+    },
+    {
+      "bbox": [
+        780,
+        2211,
+        1329,
+        2248
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=780,2211,549,37",
+      "confidence": "line",
+      "gemini_text": "SWANN & WILKINS,",
+      "surya_confidence": 0.9423
+    },
+    {
+      "bbox": [
+        626,
+        2276,
+        1485,
+        2318
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=626,2276,859,42",
+      "confidence": "line",
+      "gemini_text": "Registered Plumbers and Gas-fitters.",
+      "surya_confidence": 0.9867
+    },
+    {
+      "bbox": [
+        425,
+        2349,
+        877,
+        2386
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=425,2349,452,37",
+      "confidence": "line",
+      "gemini_text": "1115 Q Street N. W. Washington, D. C.",
+      "surya_confidence": 0.9821
+    },
+    {
+      "bbox": [
+        645,
+        2468,
+        1464,
+        2508
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=645,2468,819,40",
+      "confidence": "line",
+      "gemini_text": "DANIEL FREEMAN'S STUDIO,",
+      "surya_confidence": 0.9625
+    },
+    {
+      "bbox": [
+        599,
+        2525,
+        1507,
+        2563
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=599,2525,908,38",
+      "confidence": "line",
+      "gemini_text": "Fine photographs, crayons and pastels,",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        780,
+        2569,
+        1315,
+        2608
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=780,2569,535,39",
+      "confidence": "line",
+      "gemini_text": "Any size and all kinds.",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        520,
+        2611,
+        1567,
+        2648
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=520,2611,1047,37",
+      "confidence": "line",
+      "gemini_text": "All work first-class. Guaranteed not to fade.",
+      "surya_confidence": 0.9984
+    },
+    {
+      "bbox": [
+        588,
+        2657,
+        1482,
+        2698
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=588,2657,894,41",
+      "confidence": "line",
+      "gemini_text": "Picture frames, Bicycles and Sundries.",
+      "surya_confidence": 0.9926
+    },
+    {
+      "bbox": [
+        1251,
+        2714,
+        1681,
+        2751
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=1251,2714,430,37",
+      "confidence": "line",
+      "gemini_text": "1516 14th St., N. W. Washington, D. C.",
+      "surya_confidence": 0.9874
+    },
+    {
+      "bbox": [
+        1034,
+        2771,
+        1090,
+        2803
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:087#xywh=1034,2771,56,32",
+      "confidence": "line",
+      "gemini_text": "78",
+      "surya_confidence": 0.9331
+    }
+  ],
+  "unmatched_gemini": []
+}

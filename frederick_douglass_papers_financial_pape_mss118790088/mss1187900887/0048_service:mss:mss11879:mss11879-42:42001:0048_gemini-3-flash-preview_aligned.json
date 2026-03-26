@@ -1,0 +1,528 @@
+{
+  "image": "0048_service:mss:mss11879:mss11879-42:42001:0048.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048",
+  "canvas_width": 1355,
+  "canvas_height": 1107,
+  "surya_median_confidence": 0.999,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        173,
+        105,
+        498,
+        136
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=173,105,325,31",
+      "confidence": "line",
+      "gemini_text": "CAPITAL SAVINGS BANK.",
+      "surya_confidence": 0.9861
+    },
+    {
+      "bbox": [
+        80,
+        160,
+        590,
+        200
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=80,160,510,40",
+      "confidence": "line",
+      "gemini_text": "flect credit upon the business capability",
+      "surya_confidence": 0.9964
+    },
+    {
+      "bbox": [
+        83,
+        201,
+        226,
+        220
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=83,201,143,19",
+      "confidence": "line",
+      "gemini_text": "of our race.",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        110,
+        215,
+        593,
+        254
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=110,215,483,39",
+      "confidence": "line",
+      "gemini_text": "\"What we have accomplished in these",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        82,
+        242,
+        593,
+        283
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=82,242,511,41",
+      "confidence": "line",
+      "gemini_text": "brief years has been accomplished in the",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        82,
+        269,
+        593,
+        313
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=82,269,511,44",
+      "confidence": "line",
+      "gemini_text": "face of greater opposition than we have",
+      "surya_confidence": 0.9976
+    },
+    {
+      "bbox": [
+        83,
+        298,
+        593,
+        339
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=83,298,510,41",
+      "confidence": "line",
+      "gemini_text": "any reason to expect will confront us",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        85,
+        326,
+        592,
+        366
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=85,326,507,40",
+      "confidence": "line",
+      "gemini_text": "again. 'Nothing succeeds like success,'",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        86,
+        354,
+        593,
+        395
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=86,354,507,41",
+      "confidence": "line",
+      "gemini_text": "and, having shown what is possible of",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        86,
+        381,
+        593,
+        423
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=86,381,507,42",
+      "confidence": "line",
+      "gemini_text": "accomplishment in this direction, we con-",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        87,
+        409,
+        594,
+        453
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=87,409,507,44",
+      "confidence": "line",
+      "gemini_text": "fidently look forward to greater success",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        86,
+        445,
+        270,
+        475
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=86,445,184,30",
+      "confidence": "line",
+      "gemini_text": "in the future.\"",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        114,
+        474,
+        595,
+        510
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=114,474,481,36",
+      "confidence": "line",
+      "gemini_text": "We offer special advantages to",
+      "surya_confidence": 0.9579
+    },
+    {
+      "bbox": [
+        87,
+        504,
+        596,
+        543
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=87,504,509,39",
+      "confidence": "line",
+      "gemini_text": "churches, benevolent and charitable as-",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        87,
+        536,
+        598,
+        577
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=87,536,511,41",
+      "confidence": "line",
+      "gemini_text": "sociations, secret societies and holders of",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        87,
+        570,
+        598,
+        614
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=87,570,511,44",
+      "confidence": "line",
+      "gemini_text": "trust funds. On all deposits received from",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        88,
+        606,
+        599,
+        644
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=88,606,511,38",
+      "confidence": "line",
+      "gemini_text": "these sources we pay interest at from 4 to",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        88,
+        637,
+        599,
+        679
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=88,637,511,42",
+      "confidence": "line",
+      "gemini_text": "6 per cent. per annum, regulated by the",
+      "surya_confidence": 0.9955
+    },
+    {
+      "bbox": [
+        88,
+        670,
+        599,
+        714
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=88,670,511,44",
+      "confidence": "line",
+      "gemini_text": "length of time the deposits are allowed to",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        88,
+        710,
+        340,
+        740
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=88,710,252,30",
+      "confidence": "line",
+      "gemini_text": "remain uncalled for.",
+      "surya_confidence": 0.9971
+    },
+    {
+      "bbox": [
+        93,
+        738,
+        600,
+        779
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=93,738,507,41",
+      "confidence": "line",
+      "gemini_text": "Banks are made strong in proportion as",
+      "surya_confidence": 0.642
+    },
+    {
+      "bbox": [
+        91,
+        774,
+        506,
+        813
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=91,774,415,39",
+      "confidence": "line",
+      "gemini_text": "they are supported by the people.",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        119,
+        804,
+        603,
+        845
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=119,804,484,41",
+      "confidence": "line",
+      "gemini_text": "May we have your support? Give us a",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        92,
+        852,
+        150,
+        872
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=92,852,58,20",
+      "confidence": "line",
+      "gemini_text": "call.",
+      "surya_confidence": 0.9905
+    },
+    {
+      "bbox": [
+        115,
+        878,
+        602,
+        910
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=115,878,487,32",
+      "confidence": "line",
+      "gemini_text": "The Herdies and F St. Cars pass",
+      "surya_confidence": 0.7585
+    },
+    {
+      "bbox": [
+        94,
+        911,
+        602,
+        948
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=94,911,508,37",
+      "confidence": "line",
+      "gemini_text": "our door, and the Cable Cars pass with-",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        95,
+        951,
+        321,
+        979
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=95,951,226,28",
+      "confidence": "line",
+      "gemini_text": "in one-half block.",
+      "surya_confidence": 0.6693
+    },
+    {
+      "bbox": [
+        773,
+        209,
+        1265,
+        238
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=773,209,492,29",
+      "confidence": "line",
+      "gemini_text": "Interest on Time Deposits will be as Follows:",
+      "surya_confidence": 0.9736
+    },
+    {
+      "bbox": [
+        762,
+        312,
+        1271,
+        338
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=762,312,509,26",
+      "confidence": "line",
+      "gemini_text": "On all sums of not less than $5—on deposit for",
+      "surya_confidence": 0.9962
+    },
+    {
+      "bbox": [
+        806,
+        338,
+        1272,
+        366
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=806,338,466,28",
+      "confidence": "line",
+      "gemini_text": "six months, next preceding the first day of",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        806,
+        366,
+        1273,
+        394
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=806,366,467,28",
+      "confidence": "line",
+      "gemini_text": "January or the first day of July, 2 1/2 per",
+      "surya_confidence": 0.994
+    },
+    {
+      "bbox": [
+        806,
+        399,
+        984,
+        419
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=806,399,178,20",
+      "confidence": "line",
+      "gemini_text": "cent per annum.",
+      "surya_confidence": 0.9965
+    },
+    {
+      "bbox": [
+        765,
+        474,
+        1275,
+        501
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=765,474,510,27",
+      "confidence": "line",
+      "gemini_text": "On all sums of not less than $50—on deposit for",
+      "surya_confidence": 0.9875
+    },
+    {
+      "bbox": [
+        806,
+        501,
+        1273,
+        529
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=806,501,467,28",
+      "confidence": "line",
+      "gemini_text": "six months, next preceding the first day of",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        806,
+        528,
+        1273,
+        557
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=806,528,467,29",
+      "confidence": "line",
+      "gemini_text": "January or the first day of July, 4 per cent",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        807,
+        563,
+        938,
+        583
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=807,563,131,20",
+      "confidence": "line",
+      "gemini_text": "per annum.",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        765,
+        636,
+        1273,
+        665
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=765,636,508,29",
+      "confidence": "line",
+      "gemini_text": "On all sums of not less than $100—on deposit",
+      "surya_confidence": 0.9953
+    },
+    {
+      "bbox": [
+        809,
+        665,
+        1274,
+        692
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=809,665,465,27",
+      "confidence": "line",
+      "gemini_text": "for not less than one year, next preceding",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        808,
+        692,
+        1275,
+        721
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=808,692,467,29",
+      "confidence": "line",
+      "gemini_text": "the first day of January or the first day of",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        808,
+        725,
+        1106,
+        747
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=808,725,298,22",
+      "confidence": "line",
+      "gemini_text": "July, 6 per cent per annum.",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        789,
+        806,
+        1276,
+        834
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=789,806,487,28",
+      "confidence": "line",
+      "gemini_text": "Interest will be computed and placed to",
+      "surya_confidence": 0.59
+    },
+    {
+      "bbox": [
+        766,
+        840,
+        1277,
+        867
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=766,840,511,27",
+      "confidence": "line",
+      "gemini_text": "the credit of depositors by the twentieth day of",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        770,
+        879,
+        1103,
+        899
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0048#xywh=770,879,333,20",
+      "confidence": "line",
+      "gemini_text": "January and July of each year.",
+      "surya_confidence": 0.9996
+    }
+  ],
+  "unmatched_gemini": []
+}

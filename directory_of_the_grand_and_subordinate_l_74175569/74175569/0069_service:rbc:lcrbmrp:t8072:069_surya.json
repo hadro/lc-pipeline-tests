@@ -1,0 +1,326 @@
+{
+  "image_width": 1894,
+  "image_height": 3005,
+  "lines": [
+    {
+      "bbox": [
+        678,
+        386,
+        1273,
+        424
+      ],
+      "text": "JOSEPH T. NEWMAN,",
+      "confidence": 0.9475
+    },
+    {
+      "bbox": [
+        834,
+        474,
+        1123,
+        512
+      ],
+      "text": "Hair Cutter.",
+      "confidence": 0.9842
+    },
+    {
+      "bbox": [
+        299,
+        562,
+        754,
+        601
+      ],
+      "text": "Service Up-to-Date.",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        1040,
+        566,
+        1650,
+        604
+      ],
+      "text": "Appointments First-Class.",
+      "confidence": 0.9317
+    },
+    {
+      "bbox": [
+        634,
+        652,
+        1292,
+        693
+      ],
+      "text": "400 Third Street, Southwest.",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        760,
+        794,
+        1179,
+        834
+      ],
+      "text": "A. S. HOWARD,",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        675,
+        885,
+        1254,
+        923
+      ],
+      "text": "First-Class Barber Shop,",
+      "confidence": 0.9696
+    },
+    {
+      "bbox": [
+        527,
+        974,
+        1404,
+        1013
+      ],
+      "text": "624 Pennsylvania Avenue, Northwest,",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        295,
+        1060,
+        768,
+        1096
+      ],
+      "text": "Hot and Cold Baths.",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        1207,
+        1065,
+        1639,
+        1103
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        672,
+        1136,
+        1257,
+        1174
+      ],
+      "text": "JAMES H. WINSLOW,",
+      "confidence": 0.9769
+    },
+    {
+      "bbox": [
+        754,
+        1225,
+        1179,
+        1263
+      ],
+      "text": "1206 R St., N. W.",
+      "confidence": 0.9836
+    },
+    {
+      "bbox": [
+        354,
+        1310,
+        1589,
+        1352
+      ],
+      "text": "UNDERTAKER AND PRACTICAL EMBALMER,",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        469,
+        1399,
+        1455,
+        1448
+      ],
+      "text": "All Work First Class. Terms Reasonable.",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        293,
+        1486,
+        560,
+        1522
+      ],
+      "text": "Phone 2322",
+      "confidence": 0.9839
+    },
+    {
+      "bbox": [
+        1145,
+        1492,
+        1638,
+        1529
+      ],
+      "text": "Residence Next Door.",
+      "confidence": 0.9585
+    },
+    {
+      "bbox": [
+        348,
+        1573,
+        1583,
+        1622
+      ],
+      "text": "Porcelain Inlay, Crown and Bridge Work a Specialty.",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        620,
+        1646,
+        1316,
+        1685
+      ],
+      "text": "Dr. WILLIAM S. LOFTON,",
+      "confidence": 0.9803
+    },
+    {
+      "bbox": [
+        842,
+        1712,
+        1115,
+        1747
+      ],
+      "text": "DENTIST.",
+      "confidence": 0.9486
+    },
+    {
+      "bbox": [
+        288,
+        1774,
+        895,
+        1821
+      ],
+      "text": "1543 M Street, Northwest,",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        1204,
+        1783,
+        1633,
+        1821
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        375,
+        1863,
+        1545,
+        1912
+      ],
+      "text": "Hours: 9 A. M. to 5 P. M. Phone, Main 929-A.",
+      "confidence": 0.9849
+    },
+    {
+      "bbox": [
+        686,
+        1970,
+        1209,
+        2008
+      ],
+      "text": "GRAY & COSTLEY,",
+      "confidence": 0.8986
+    },
+    {
+      "bbox": [
+        526,
+        2054,
+        1398,
+        2104
+      ],
+      "text": "WINES, LIQUORS AND CIGARS.",
+      "confidence": 0.9772
+    },
+    {
+      "bbox": [
+        481,
+        2149,
+        1434,
+        2190
+      ],
+      "text": "Ladies and Gentlemen's Cafe upstairs.",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        285,
+        2235,
+        1139,
+        2279
+      ],
+      "text": "No 1313 E Street, Northwest,",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        1191,
+        2241,
+        1630,
+        2280
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        654,
+        2326,
+        1248,
+        2364
+      ],
+      "text": "Next to National Theatre.",
+      "confidence": 0.9714
+    },
+    {
+      "bbox": [
+        770,
+        2442,
+        1131,
+        2479
+      ],
+      "text": "L. S. JONES,",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        681,
+        2529,
+        1237,
+        2565
+      ],
+      "text": "PRODUCE DEALER.",
+      "confidence": 0.9665
+    },
+    {
+      "bbox": [
+        478,
+        2620,
+        1428,
+        2657
+      ],
+      "text": "B street, Near Ninth Street South Side.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        607,
+        2706,
+        1292,
+        2744
+      ],
+      "text": "Residence 1836 11th St N W.",
+      "confidence": 0.997
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "image": "0129_service:rbc:lcrbmrp:t8072:129.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129",
+  "canvas_width": 1862,
+  "canvas_height": 2986,
+  "surya_median_confidence": 0.9809,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        1059,
+        945,
+        1349,
+        1090
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=1059,945,290,145",
+      "confidence": "line",
+      "gemini_text": "LIQUORS",
+      "surya_confidence": 0.57
+    },
+    {
+      "bbox": [
+        623,
+        1256,
+        1314,
+        1311
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=623,1256,691,55",
+      "confidence": "line",
+      "gemini_text": "WILEY JONES,",
+      "surya_confidence": 0.935
+    },
+    {
+      "bbox": [
+        693,
+        1328,
+        1249,
+        1369
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=693,1328,556,41",
+      "confidence": "line",
+      "gemini_text": "(Eastern Light Lodge, No. 6.)",
+      "surya_confidence": 0.9907
+    },
+    {
+      "bbox": [
+        289,
+        1384,
+        1646,
+        1439
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=289,1384,1357,55",
+      "confidence": "line",
+      "gemini_text": "Wholesale and Retail Dealer in Liquors, Cigars, Tobacco,",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        600,
+        1458,
+        1330,
+        1500
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=600,1458,730,42",
+      "confidence": "line",
+      "gemini_text": "207 Main St., Pine Bluff, Ark.",
+      "surya_confidence": 0.9948
+    },
+    {
+      "bbox": [
+        652,
+        1525,
+        1282,
+        1567
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=652,1525,630,42",
+      "confidence": "line",
+      "gemini_text": "\"Case Goods a Specialty.\"",
+      "surya_confidence": 0.9782
+    },
+    {
+      "bbox": [
+        488,
+        1598,
+        1437,
+        1644
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=488,1598,949,46",
+      "confidence": "line",
+      "gemini_text": "THE FOLLOWING FINE BRANDS OF",
+      "surya_confidence": 0.9705
+    },
+    {
+      "bbox": [
+        623,
+        1648,
+        1308,
+        1689
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=623,1648,685,41",
+      "confidence": "line",
+      "gemini_text": "LIQUORS NOW ON HAND.",
+      "surya_confidence": 0.9671
+    },
+    {
+      "bbox": [
+        1135,
+        1735,
+        1436,
+        1763
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=1135,1735,301,28",
+      "confidence": "line",
+      "gemini_text": "PER GALLON.",
+      "surya_confidence": 0.9877
+    },
+    {
+      "bbox": [
+        488,
+        1763,
+        1445,
+        1819
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=488,1763,957,56",
+      "confidence": "line",
+      "gemini_text": "Golden Wedding...........$4 00 to $5.00",
+      "surya_confidence": 0.9888
+    },
+    {
+      "bbox": [
+        488,
+        1812,
+        1441,
+        1860
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=488,1812,953,48",
+      "confidence": "line",
+      "gemini_text": "Guckenheimer............. 4.00 to 5.00",
+      "surya_confidence": 0.9808
+    },
+    {
+      "bbox": [
+        478,
+        1856,
+        1440,
+        1907
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=478,1856,962,51",
+      "confidence": "line",
+      "gemini_text": "Live Oak ............... 4.00 to 5.00",
+      "surya_confidence": 0.9711
+    },
+    {
+      "bbox": [
+        486,
+        1904,
+        1440,
+        1948
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=486,1904,954,44",
+      "confidence": "line",
+      "gemini_text": "Belle of Nelson........... 4.00 to 5 00",
+      "surya_confidence": 0.9818
+    },
+    {
+      "bbox": [
+        488,
+        1947,
+        1438,
+        1993
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=488,1947,950,46",
+      "confidence": "line",
+      "gemini_text": "Old Barbee ............... 400 to 5.00",
+      "surya_confidence": 0.9734
+    },
+    {
+      "bbox": [
+        485,
+        1992,
+        1440,
+        2041
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=485,1992,955,49",
+      "confidence": "line",
+      "gemini_text": "Mayflower ............... 3 00 to 3.50",
+      "surya_confidence": 0.9808
+    },
+    {
+      "bbox": [
+        489,
+        2038,
+        1438,
+        2082
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=489,2038,949,44",
+      "confidence": "line",
+      "gemini_text": "Owenboro ................ 3.00 to 3 50",
+      "surya_confidence": 0.9769
+    },
+    {
+      "bbox": [
+        485,
+        2080,
+        1438,
+        2130
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=485,2080,953,50",
+      "confidence": "line",
+      "gemini_text": "Imperial Crown............ 2.00 to 2.50",
+      "surya_confidence": 0.978
+    },
+    {
+      "bbox": [
+        486,
+        2127,
+        1438,
+        2173
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=486,2127,952,46",
+      "confidence": "line",
+      "gemini_text": "Newsboy ................. 1.75 to 2.00",
+      "surya_confidence": 0.9633
+    },
+    {
+      "bbox": [
+        486,
+        2170,
+        1437,
+        2217
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=486,2170,951,47",
+      "confidence": "line",
+      "gemini_text": "Corn Whiskey ............. 2.00 to 3.00",
+      "surya_confidence": 0.9731
+    },
+    {
+      "bbox": [
+        705,
+        2247,
+        1200,
+        2294
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=705,2247,495,47",
+      "confidence": "line",
+      "gemini_text": "Alcohol, $3 per gallon",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        859,
+        2330,
+        1067,
+        2363
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=859,2330,208,33",
+      "confidence": "line",
+      "gemini_text": "WINES.",
+      "surya_confidence": 0.9811
+    },
+    {
+      "bbox": [
+        490,
+        2370,
+        1434,
+        2417
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=490,2370,944,47",
+      "confidence": "line",
+      "gemini_text": "All kinds from $1 00 to $3.00 per gallon.",
+      "surya_confidence": 0.9969
+    },
+    {
+      "bbox": [
+        872,
+        2429,
+        1030,
+        2463
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=872,2429,158,34",
+      "confidence": "line",
+      "gemini_text": "GINS.",
+      "surya_confidence": 0.9795
+    },
+    {
+      "bbox": [
+        486,
+        2470,
+        1434,
+        2516
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=486,2470,948,46",
+      "confidence": "line",
+      "gemini_text": "Domestic and Imported from $1.50 to $3.50",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        817,
+        2520,
+        1070,
+        2558
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=817,2520,253,38",
+      "confidence": "line",
+      "gemini_text": "per gallon.",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        674,
+        2595,
+        1238,
+        2637
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=674,2595,564,42",
+      "confidence": "line",
+      "gemini_text": "Fine Brandy, Rum, Etc.",
+      "surya_confidence": 0.9955
+    },
+    {
+      "bbox": [
+        484,
+        2670,
+        1432,
+        2705
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=484,2670,948,35",
+      "confidence": "line",
+      "gemini_text": "Money sent by Express or P. O. Order will have",
+      "surya_confidence": 0.9953
+    },
+    {
+      "bbox": [
+        777,
+        2717,
+        1126,
+        2751
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:129#xywh=777,2717,349,34",
+      "confidence": "line",
+      "gemini_text": "prompt attention.",
+      "surya_confidence": 0.9852
+    }
+  ],
+  "unmatched_gemini": [
+    "WINES",
+    "&"
+  ]
+}

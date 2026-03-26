@@ -1,0 +1,286 @@
+{
+  "image_width": 1895,
+  "image_height": 3042,
+  "lines": [
+    {
+      "bbox": [
+        77,
+        87,
+        108,
+        109
+      ],
+      "text": "he.",
+      "confidence": 0.2243
+    },
+    {
+      "bbox": [
+        277,
+        428,
+        1202,
+        504
+      ],
+      "text": "DR. A. W. TANCIL,",
+      "confidence": 0.9807
+    },
+    {
+      "bbox": [
+        666,
+        576,
+        1171,
+        616
+      ],
+      "text": "2111 Pa. Ave., N. W.,",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        1189,
+        705,
+        1612,
+        745
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        1871,
+        714,
+        1893,
+        746
+      ],
+      "text": "Ja",
+      "confidence": 0.9204
+    },
+    {
+      "bbox": [
+        282,
+        836,
+        1141,
+        906
+      ],
+      "text": "R. PHIL. BROOME BROOKS,",
+      "confidence": 0.5242
+    },
+    {
+      "bbox": [
+        852,
+        982,
+        1358,
+        1024
+      ],
+      "text": "306 3d Street, S. W.,",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        463,
+        1110,
+        1622,
+        1166
+      ],
+      "text": "Office Hours: 8 to 10 A. M., 1 to 2, and 6 to 8 P. M.",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        324,
+        1239,
+        1101,
+        1297
+      ],
+      "text": "R. WILLIAM A. WARFIELD,",
+      "confidence": 0.8504
+    },
+    {
+      "bbox": [
+        635,
+        1331,
+        1349,
+        1381
+      ],
+      "text": "Office, 1901 11th Street, N. W.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        839,
+        1413,
+        1633,
+        1467
+      ],
+      "text": "Hours: Until 9.30, and 4 to 6 P. M.",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        282,
+        1427,
+        712,
+        1473
+      ],
+      "text": "Phone, Main 2770.",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        507,
+        1508,
+        1395,
+        1561
+      ],
+      "text": "Surgeon in Chief, Freedmen's Hospital",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        291,
+        1629,
+        1146,
+        1704
+      ],
+      "text": "DR. SAMUEL ROGER WAT S,",
+      "confidence": 0.9699
+    },
+    {
+      "bbox": [
+        651,
+        1727,
+        1265,
+        1780
+      ],
+      "text": "Office, 1343 V Street N. W.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        1067,
+        1809,
+        1634,
+        1864
+      ],
+      "text": "Telephone, Main 3965-F.",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        290,
+        1871,
+        837,
+        1912
+      ],
+      "text": "Office Consultation from",
+      "confidence": 0.9018
+    },
+    {
+      "bbox": [
+        589,
+        1918,
+        1336,
+        1966
+      ],
+      "text": "8 to 10 A. M. and 3 to 7.30 P. M.",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        295,
+        2037,
+        836,
+        2120
+      ],
+      "text": "R. C. W. CHILDS,",
+      "confidence": 0.7072
+    },
+    {
+      "bbox": [
+        684,
+        2131,
+        1633,
+        2184
+      ],
+      "text": "Office and Residence, 513 3d Street, S. W.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        903,
+        2190,
+        1418,
+        2239
+      ],
+      "text": "Telephone, Main 82-F.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        385,
+        2276,
+        1550,
+        2338
+      ],
+      "text": "Office Hours: 8 to 10 A. M., 12 to 2 and 5 to 7 P. M.",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        690,
+        2338,
+        1231,
+        2389
+      ],
+      "text": "(Eureka Lodge, No. 5.)",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        297,
+        2412,
+        936,
+        2515
+      ],
+      "text": "DR. E. D. WILLISTON,",
+      "confidence": 0.9786
+    },
+    {
+      "bbox": [
+        678,
+        2517,
+        1646,
+        2570
+      ],
+      "text": "Office and Residence, 1434 T Street N. W.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        891,
+        2608,
+        1440,
+        2656
+      ],
+      "text": "Telephone, Main 2408-F.",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        399,
+        2694,
+        1539,
+        2757
+      ],
+      "text": "Office Hours, 8 to 10 A. M., 2 to 3 and 6 to 8 P. M.",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        941,
+        2765,
+        999,
+        2797
+      ],
+      "text": "32",
+      "confidence": 0.9635
+    }
+  ]
+}

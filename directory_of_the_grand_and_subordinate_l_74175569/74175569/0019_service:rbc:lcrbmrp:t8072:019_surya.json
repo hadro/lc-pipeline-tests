@@ -1,0 +1,2426 @@
+{
+  "image_width": 1816,
+  "image_height": 2893,
+  "lines": [
+    {
+      "bbox": [
+        523,
+        188,
+        592,
+        427
+      ],
+      "text": "Datcher, Jr.",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        1259,
+        193,
+        1325,
+        409
+      ],
+      "text": "Wilkinson",
+      "confidence": 0.9315
+    },
+    {
+      "bbox": [
+        594,
+        203,
+        625,
+        422
+      ],
+      "text": "Somerville",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        284,
+        211,
+        317,
+        583
+      ],
+      "text": "Grand Secretaries.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        725,
+        211,
+        806,
+        440
+      ],
+      "text": "A. Watson\nA. Watson",
+      "confidence": 0.968
+    },
+    {
+      "bbox": [
+        861,
+        214,
+        894,
+        430
+      ],
+      "text": "M. Thomas",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        721,
+        215,
+        759,
+        372
+      ],
+      "text": "Watson",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        994,
+        215,
+        1057,
+        367
+      ],
+      "text": "Brown",
+      "confidence": 0.7869
+    },
+    {
+      "bbox": [
+        460,
+        221,
+        525,
+        595
+      ],
+      "text": "Annanias Herbert\nWilliam Ford",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        425,
+        227,
+        463,
+        594
+      ],
+      "text": "Annanias Herbert",
+      "confidence": 0.9855
+    },
+    {
+      "bbox": [
+        625,
+        227,
+        662,
+        381
+      ],
+      "text": "Tinney",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        1056,
+        227,
+        1103,
+        372
+      ],
+      "text": "Myers",
+      "confidence": 0.9532
+    },
+    {
+      "bbox": [
+        693,
+        229,
+        729,
+        443
+      ],
+      "text": "J. Daicher",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        924,
+        230,
+        957,
+        436
+      ],
+      "text": "Taliaferro",
+      "confidence": 0.9696
+    },
+    {
+      "bbox": [
+        958,
+        231,
+        993,
+        365
+      ],
+      "text": "Brown",
+      "confidence": 0.9502
+    },
+    {
+      "bbox": [
+        1127,
+        240,
+        1159,
+        405
+      ],
+      "text": "Stewart",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        1094,
+        242,
+        1127,
+        410
+      ],
+      "text": "Stewart",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        1157,
+        242,
+        1192,
+        408
+      ],
+      "text": "Stewart",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        559,
+        258,
+        591,
+        430
+      ],
+      "text": "Datcher",
+      "confidence": 0.9366
+    },
+    {
+      "bbox": [
+        1226,
+        287,
+        1265,
+        595
+      ],
+      "text": "John G. Goines",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        1189,
+        293,
+        1236,
+        595
+      ],
+      "text": "John G. Goines",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        656,
+        295,
+        693,
+        458
+      ],
+      "text": ". Brown",
+      "confidence": 0.8867
+    },
+    {
+      "bbox": [
+        393,
+        310,
+        428,
+        596
+      ],
+      "text": "John T. Costin",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        822,
+        325,
+        865,
+        437
+      ],
+      "text": "Cook",
+      "confidence": 0.9876
+    },
+    {
+      "bbox": [
+        794,
+        333,
+        824,
+        435
+      ],
+      "text": "Cook",
+      "confidence": 0.9068
+    },
+    {
+      "bbox": [
+        890,
+        338,
+        935,
+        598
+      ],
+      "text": "John F. Cook",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        992,
+        353,
+        1028,
+        416
+      ],
+      "text": "5",
+      "confidence": 0.6052
+    },
+    {
+      "bbox": [
+        1023,
+        358,
+        1060,
+        415
+      ],
+      "text": "3",
+      "confidence": 0.4828
+    },
+    {
+      "bbox": [
+        956,
+        362,
+        999,
+        424
+      ],
+      "text": "6:",
+      "confidence": 0.3886
+    },
+    {
+      "bbox": [
+        1060,
+        369,
+        1092,
+        421
+      ],
+      "text": "H.",
+      "confidence": 0.9665
+    },
+    {
+      "bbox": [
+        621,
+        370,
+        666,
+        433
+      ],
+      "text": "B.",
+      "confidence": 0.922
+    },
+    {
+      "bbox": [
+        1260,
+        381,
+        1292,
+        593
+      ],
+      "text": "William P.",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        1097,
+        409,
+        1127,
+        595
+      ],
+      "text": "Carter A.",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        1292,
+        409,
+        1327,
+        595
+      ],
+      "text": "Jno. F. N.",
+      "confidence": 0.9537
+    },
+    {
+      "bbox": [
+        1127,
+        414,
+        1160,
+        595
+      ],
+      "text": "Carter A.",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        997,
+        417,
+        1029,
+        595
+      ],
+      "text": "Solomon",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        1029,
+        418,
+        1061,
+        594
+      ],
+      "text": "Solomon",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        963,
+        421,
+        995,
+        596
+      ],
+      "text": "Solomon",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        494,
+        422,
+        528,
+        595
+      ],
+      "text": "William",
+      "confidence": 0.9636
+    },
+    {
+      "bbox": [
+        1159,
+        423,
+        1199,
+        463
+      ],
+      "text": "A",
+      "confidence": 0.6714
+    },
+    {
+      "bbox": [
+        593,
+        425,
+        628,
+        594
+      ],
+      "text": "Rob't H.",
+      "confidence": 0.9688
+    },
+    {
+      "bbox": [
+        792,
+        428,
+        897,
+        608
+      ],
+      "text": "John F.\nJohn F.\nEdward",
+      "confidence": 0.9667
+    },
+    {
+      "bbox": [
+        1062,
+        429,
+        1092,
+        589
+      ],
+      "text": "William.",
+      "confidence": 0.9278
+    },
+    {
+      "bbox": [
+        561,
+        432,
+        595,
+        596
+      ],
+      "text": "Francis",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        627,
+        435,
+        661,
+        596
+      ],
+      "text": "Andrew",
+      "confidence": 0.9731
+    },
+    {
+      "bbox": [
+        529,
+        436,
+        559,
+        596
+      ],
+      "text": "Francis",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        762,
+        437,
+        794,
+        595
+      ],
+      "text": "Edward",
+      "confidence": 0.9749
+    },
+    {
+      "bbox": [
+        729,
+        438,
+        759,
+        596
+      ],
+      "text": "Edward",
+      "confidence": 0.9795
+    },
+    {
+      "bbox": [
+        928,
+        438,
+        962,
+        593
+      ],
+      "text": "Wm. A.",
+      "confidence": 0.8368
+    },
+    {
+      "bbox": [
+        692,
+        446,
+        729,
+        598
+      ],
+      "text": "Samuel",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        662,
+        453,
+        693,
+        600
+      ],
+      "text": "John M",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        1163,
+        456,
+        1195,
+        595
+      ],
+      "text": "Carter",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        155,
+        510,
+        203,
+        938
+      ],
+      "text": "ORGANIZATION.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        754,
+        625,
+        937,
+        1037
+      ],
+      "text": "John T. Costin\nJohn T. Costin\nHenry H. Dade\nWilliam Anderson\nWilliam Anderson",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        962,
+        637,
+        1000,
+        860
+      ],
+      "text": "Davenport",
+      "confidence": 0.9893
+    },
+    {
+      "bbox": [
+        943,
+        643,
+        1066,
+        1018
+      ],
+      "text": "Jas. W. Daveners. W. Davenport",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        927,
+        647,
+        966,
+        846
+      ],
+      "text": "B. Tinney",
+      "confidence": 0.9718
+    },
+    {
+      "bbox": [
+        1098,
+        647,
+        1127,
+        780
+      ],
+      "text": "Brown",
+      "confidence": 0.9437
+    },
+    {
+      "bbox": [
+        289,
+        666,
+        322,
+        969
+      ],
+      "text": "Gr. Treasurers.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        730,
+        687,
+        764,
+        1013
+      ],
+      "text": "William Briscoe",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        662,
+        700,
+        696,
+        1014
+      ],
+      "text": "Robert Johnson",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        697,
+        701,
+        729,
+        1014
+      ],
+      "text": "William Briscoe",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        632,
+        702,
+        664,
+        1016
+      ],
+      "text": "Robert Johnson",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        596,
+        703,
+        631,
+        873
+      ],
+      "text": "Johnson",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        564,
+        714,
+        596,
+        869
+      ],
+      "text": "Frazier",
+      "confidence": 0.8333
+    },
+    {
+      "bbox": [
+        1062,
+        715,
+        1097,
+        1014
+      ],
+      "text": "Thomas Brown",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        431,
+        716,
+        464,
+        866
+      ],
+      "text": "Frazier",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        497,
+        718,
+        528,
+        867
+      ],
+      "text": "Frazier",
+      "confidence": 0.9815
+    },
+    {
+      "bbox": [
+        463,
+        719,
+        496,
+        867
+      ],
+      "text": "Frazier",
+      "confidence": 0.9782
+    },
+    {
+      "bbox": [
+        529,
+        720,
+        564,
+        870
+      ],
+      "text": "Frazier",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        1127,
+        725,
+        1168,
+        1010
+      ],
+      "text": "Albert Parker",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        402,
+        727,
+        428,
+        871
+      ],
+      "text": "Frazier",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        1160,
+        727,
+        1198,
+        1010
+      ],
+      "text": "Albert Parker",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        1194,
+        729,
+        1230,
+        872
+      ],
+      "text": "Parker",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        1229,
+        730,
+        1265,
+        871
+      ],
+      "text": "Parker",
+      "confidence": 0.9837
+    },
+    {
+      "bbox": [
+        1260,
+        730,
+        1301,
+        873
+      ],
+      "text": "Parker",
+      "confidence": 0.9789
+    },
+    {
+      "bbox": [
+        1296,
+        731,
+        1328,
+        870
+      ],
+      "text": "Parker",
+      "confidence": 0.8097
+    },
+    {
+      "bbox": [
+        1097,
+        796,
+        1131,
+        1011
+      ],
+      "text": "William M",
+      "confidence": 0.9592
+    },
+    {
+      "bbox": [
+        934,
+        851,
+        966,
+        1012
+      ],
+      "text": "Andrew",
+      "confidence": 0.9587
+    },
+    {
+      "bbox": [
+        1230,
+        868,
+        1299,
+        1016
+      ],
+      "text": "Albert",
+      "confidence": 0.9369
+    },
+    {
+      "bbox": [
+        1198,
+        873,
+        1232,
+        1010
+      ],
+      "text": "Albert",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        432,
+        874,
+        467,
+        1021
+      ],
+      "text": "Joseph",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        1296,
+        875,
+        1328,
+        1006
+      ],
+      "text": "Albert",
+      "confidence": 0.9599
+    },
+    {
+      "bbox": [
+        600,
+        877,
+        631,
+        1016
+      ],
+      "text": "Robert",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        467,
+        880,
+        500,
+        1020
+      ],
+      "text": "Joseph",
+      "confidence": 0.9851
+    },
+    {
+      "bbox": [
+        499,
+        880,
+        534,
+        1020
+      ],
+      "text": "Joseph",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        531,
+        880,
+        570,
+        1019
+      ],
+      "text": "Joseph",
+      "confidence": 0.9805
+    },
+    {
+      "bbox": [
+        565,
+        880,
+        600,
+        1019
+      ],
+      "text": "Joseph",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        401,
+        882,
+        435,
+        1018
+      ],
+      "text": "Joseph",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        161,
+        952,
+        199,
+        1053
+      ],
+      "text": "ITS",
+      "confidence": 0.8175
+    },
+    {
+      "bbox": [
+        402,
+        1028,
+        438,
+        1266
+      ],
+      "text": "Datcher, Jr.",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        435,
+        1030,
+        473,
+        1263
+      ],
+      "text": "Datcher, Jr.",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        632,
+        1044,
+        671,
+        1432
+      ],
+      "text": "Rob't H. Somerville",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        1000,
+        1044,
+        1032,
+        1274
+      ],
+      "text": "Schureman",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        759,
+        1045,
+        908,
+        1455
+      ],
+      "text": "George S. White\nJoseph Smallwood\nRobert H. Booker\nDavid Fisher",
+      "confidence": 0.9888
+    },
+    {
+      "bbox": [
+        898,
+        1045,
+        939,
+        1201
+      ],
+      "text": "lohnson",
+      "confidence": 0.8994
+    },
+    {
+      "bbox": [
+        160,
+        1069,
+        210,
+        1240
+      ],
+      "text": "SINCE",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        293,
+        1069,
+        323,
+        1263
+      ],
+      "text": "Wardens.",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        1066,
+        1073,
+        1103,
+        1284
+      ],
+      "text": "W. Brooks",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        602,
+        1078,
+        640,
+        1434
+      ],
+      "text": "Carter A. Stewart",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        1125,
+        1110,
+        1276,
+        1450
+      ],
+      "text": "John A. Butler\nJohn W. Hurd\nWm. P. Ryder\nWm. P. Ryder",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        734,
+        1118,
+        769,
+        1434
+      ],
+      "text": "Clement Becket",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        1227,
+        1120,
+        1306,
+        1332
+      ],
+      "text": "P. Ryder\nH. Burrill",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        966,
+        1126,
+        1000,
+        1259
+      ],
+      "text": "Brown",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        998,
+        1134,
+        1104,
+        1450
+      ],
+      "text": "J. H. A. Simms",
+      "confidence": 0.9656
+    },
+    {
+      "bbox": [
+        468,
+        1139,
+        500,
+        1260
+      ],
+      "text": "Davis",
+      "confidence": 0.9143
+    },
+    {
+      "bbox": [
+        660,
+        1142,
+        710,
+        1434
+      ],
+      "text": "James Hebron",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        464,
+        1155,
+        537,
+        1435
+      ],
+      "text": "John H. Davis\nJohn Thomas",
+      "confidence": 0.9723
+    },
+    {
+      "bbox": [
+        566,
+        1155,
+        599,
+        1274
+      ],
+      "text": "Hunt",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        535,
+        1161,
+        565,
+        1259
+      ],
+      "text": "Ford",
+      "confidence": 0.9717
+    },
+    {
+      "bbox": [
+        891,
+        1165,
+        977,
+        1435
+      ],
+      "text": "Chas. C. C. Jo\nJohn F. Cook",
+      "confidence": 0.9762
+    },
+    {
+      "bbox": [
+        1266,
+        1187,
+        1334,
+        1434
+      ],
+      "text": "John H. Bur.\nJ. R. Contee",
+      "confidence": 0.9796
+    },
+    {
+      "bbox": [
+        698,
+        1197,
+        739,
+        1434
+      ],
+      "text": "J. A. Mason",
+      "confidence": 0.9431
+    },
+    {
+      "bbox": [
+        1097,
+        1197,
+        1135,
+        1431
+      ],
+      "text": "Alfred Pope",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        154,
+        1243,
+        208,
+        1823
+      ],
+      "text": "THE GRAND LODGE",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        533,
+        1260,
+        570,
+        1431
+      ],
+      "text": "William",
+      "confidence": 0.9668
+    },
+    {
+      "bbox": [
+        970,
+        1262,
+        1003,
+        1435
+      ],
+      "text": "Thomas",
+      "confidence": 0.9876
+    },
+    {
+      "bbox": [
+        293,
+        1265,
+        330,
+        1407
+      ],
+      "text": "Jr. Gr.",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        437,
+        1268,
+        469,
+        1432
+      ],
+      "text": "Francis",
+      "confidence": 0.9539
+    },
+    {
+      "bbox": [
+        403,
+        1275,
+        438,
+        1433
+      ],
+      "text": "Francis",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        572,
+        1276,
+        600,
+        1433
+      ],
+      "text": "Charles",
+      "confidence": 0.9592
+    },
+    {
+      "bbox": [
+        1069,
+        1284,
+        1105,
+        1433
+      ],
+      "text": "George",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        1197,
+        1433,
+        1342,
+        1881
+      ],
+      "text": "Wm. A. Taliaferro\nWm. A. Taliaferro\nJohn T. Lucas\nThorn'n A. Jackson",
+      "confidence": 0.9771
+    },
+    {
+      "bbox": [
+        729,
+        1446,
+        1147,
+        1882
+      ],
+      "text": "Henry H. Dade\nAdolphus Hall\nGeorge S. White\nWilliam Tunnia\nAndrew B Tinney\nRobert H. Booker\nChas. C. C. Johnson\nJohn F. Cook\nAndrew B Tinney\nWilliam H. Myers\nCharles H. Twine",
+      "confidence": 0.9428
+    },
+    {
+      "bbox": [
+        601,
+        1468,
+        649,
+        1689
+      ],
+      "text": "H. Thomas",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        294,
+        1470,
+        331,
+        1827
+      ],
+      "text": "Sen. Gr. Wardens.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        673,
+        1488,
+        705,
+        1685
+      ],
+      "text": "Anderson",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        537,
+        1492,
+        570,
+        1855
+      ],
+      "text": "Annanias Herbert",
+      "confidence": 0.9716
+    },
+    {
+      "bbox": [
+        470,
+        1524,
+        506,
+        1853
+      ],
+      "text": "William Briscoe",
+      "confidence": 0.9542
+    },
+    {
+      "bbox": [
+        701,
+        1534,
+        740,
+        1857
+      ],
+      "text": "Clement Becket",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        502,
+        1536,
+        538,
+        1856
+      ],
+      "text": "Richard Phiske",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        636,
+        1538,
+        671,
+        1681
+      ],
+      "text": "Becket",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        567,
+        1542,
+        614,
+        1689
+      ],
+      "text": "Tascoe",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        407,
+        1544,
+        437,
+        1853
+      ],
+      "text": "Richard Phiske",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        435,
+        1544,
+        473,
+        1853
+      ],
+      "text": "Dennis Burbon",
+      "confidence": 0.8259
+    },
+    {
+      "bbox": [
+        1167,
+        1553,
+        1203,
+        1688
+      ],
+      "text": "Welch",
+      "confidence": 0.9752
+    },
+    {
+      "bbox": [
+        1138,
+        1610,
+        1175,
+        1857
+      ],
+      "text": "John Battle",
+      "confidence": 0.9714
+    },
+    {
+      "bbox": [
+        638,
+        1681,
+        671,
+        1857
+      ],
+      "text": "Clement",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        1170,
+        1684,
+        1207,
+        1857
+      ],
+      "text": "Thomas",
+      "confidence": 0.9568
+    },
+    {
+      "bbox": [
+        603,
+        1689,
+        641,
+        1855
+      ],
+      "text": "William",
+      "confidence": 0.9688
+    },
+    {
+      "bbox": [
+        673,
+        1691,
+        703,
+        1854
+      ],
+      "text": "William",
+      "confidence": 0.9425
+    },
+    {
+      "bbox": [
+        569,
+        1692,
+        606,
+        1860
+      ],
+      "text": "Thomas",
+      "confidence": 0.9858
+    },
+    {
+      "bbox": [
+        167,
+        1821,
+        210,
+        2202
+      ],
+      "text": "OFFICERS OF",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        504,
+        1864,
+        540,
+        1932
+      ],
+      "text": "Jr.",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        569,
+        1867,
+        676,
+        2275
+      ],
+      "text": "Annanias Herbert\nAnnanias Herbert\nWilliam H Thomas",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        838,
+        1870,
+        980,
+        2297
+      ],
+      "text": "George S. White\nWilliam Tunnia\nEdward M. Thomas\nHenry H. Dade",
+      "confidence": 0.9877
+    },
+    {
+      "bbox": [
+        1038,
+        1877,
+        1248,
+        2299
+      ],
+      "text": "Carter A. Stewart\nAndrew B. Tinney\nCharles H. Twine\nAndrew B. Tinney\nAndrew B. Tinney",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        805,
+        1883,
+        843,
+        2046
+      ],
+      "text": "Thomas",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        298,
+        1885,
+        332,
+        2257
+      ],
+      "text": "Dep'y Gr. Masters.",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        736,
+        1904,
+        879,
+        2295
+      ],
+      "text": "Carter A. Stewart\nHenry H. Dade\nEdward M. Thoma\nGeorge S. White",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        1271,
+        1909,
+        1342,
+        2277
+      ],
+      "text": "Wm. A. Taliaferro\nGeo. W. Brooks",
+      "confidence": 0.984
+    },
+    {
+      "bbox": [
+        505,
+        1929,
+        545,
+        2110
+      ],
+      "text": "Datcher,",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        407,
+        1945,
+        476,
+        2272
+      ],
+      "text": "Daniel H. Smith",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        473,
+        1964,
+        575,
+        2273
+      ],
+      "text": "Dennis Burbon\nFrancis Datche\nDennis Burbon",
+      "confidence": 0.9798
+    },
+    {
+      "bbox": [
+        669,
+        1970,
+        709,
+        2276
+      ],
+      "text": "Thomas Tascoe",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        703,
+        1983,
+        741,
+        2273
+      ],
+      "text": "Edward Evans",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        971,
+        1986,
+        1044,
+        2274
+      ],
+      "text": "Adolphus Hall\nDavid Fisher",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        1242,
+        2042,
+        1274,
+        2277
+      ],
+      "text": "John Battle",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        1308,
+        2178,
+        1344,
+        2282
+      ],
+      "text": "Geo.",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        172,
+        2224,
+        210,
+        2437
+      ],
+      "text": "ECTIVE",
+      "confidence": 0.9803
+    },
+    {
+      "bbox": [
+        982,
+        2286,
+        1008,
+        2401
+      ],
+      "text": "omas.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        606,
+        2295,
+        643,
+        2528
+      ],
+      "text": "Datcher, Jr.",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        811,
+        2319,
+        874,
+        2524
+      ],
+      "text": "Anderson\nThomas",
+      "confidence": 0.9509
+    },
+    {
+      "bbox": [
+        674,
+        2326,
+        706,
+        2688
+      ],
+      "text": "Annanias Herbert",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        1275,
+        2330,
+        1309,
+        2514
+      ],
+      "text": "H. Myers",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        299,
+        2333,
+        329,
+        2498
+      ],
+      "text": "Masters.",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        709,
+        2334,
+        740,
+        2500
+      ],
+      "text": ":tewart",
+      "confidence": 0.6346
+    },
+    {
+      "bbox": [
+        1309,
+        2334,
+        1339,
+        2533
+      ],
+      "text": "Taliaferro",
+      "confidence": 0.9618
+    },
+    {
+      "bbox": [
+        777,
+        2340,
+        807,
+        2506
+      ],
+      "text": "Stewart",
+      "confidence": 0.9637
+    },
+    {
+      "bbox": [
+        940,
+        2348,
+        979,
+        2495
+      ],
+      "text": "Booker",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        505,
+        2354,
+        538,
+        2687
+      ],
+      "text": "Robert Robinson",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        571,
+        2364,
+        607,
+        2530
+      ],
+      "text": "Datcher",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        472,
+        2365,
+        505,
+        2686
+      ],
+      "text": "Richard Phiske",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        909,
+        2365,
+        941,
+        2690
+      ],
+      "text": "William Tunnia",
+      "confidence": 0.7384
+    },
+    {
+      "bbox": [
+        541,
+        2366,
+        570,
+        2531
+      ],
+      "text": "Datcher",
+      "confidence": 0.9796
+    },
+    {
+      "bbox": [
+        408,
+        2368,
+        438,
+        2535
+      ],
+      "text": "Datcher",
+      "confidence": 0.9876
+    },
+    {
+      "bbox": [
+        738,
+        2391,
+        775,
+        2689
+      ],
+      "text": "Edward Evans",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        441,
+        2397,
+        473,
+        2535
+      ],
+      "text": "Costin",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        976,
+        2397,
+        1004,
+        2459
+      ],
+      "text": "Th",
+      "confidence": 0.5454
+    },
+    {
+      "bbox": [
+        840,
+        2406,
+        915,
+        2692
+      ],
+      "text": "Edw. M. Thom\nAdolphus Hall",
+      "confidence": 0.9768
+    },
+    {
+      "bbox": [
+        641,
+        2421,
+        671,
+        2691
+      ],
+      "text": "Charles Hunt",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        162,
+        2428,
+        212,
+        2498
+      ],
+      "text": "BI",
+      "confidence": 0.3517
+    },
+    {
+      "bbox": [
+        1005,
+        2431,
+        1041,
+        2541
+      ],
+      "text": "Cook",
+      "confidence": 0.9683
+    },
+    {
+      "bbox": [
+        1243,
+        2431,
+        1272,
+        2531
+      ],
+      "text": "Cook",
+      "confidence": 0.9702
+    },
+    {
+      "bbox": [
+        1209,
+        2432,
+        1241,
+        2529
+      ],
+      "text": "Cook",
+      "confidence": 0.9723
+    },
+    {
+      "bbox": [
+        1180,
+        2434,
+        1206,
+        2528
+      ],
+      "text": "Cook",
+      "confidence": 0.9496
+    },
+    {
+      "bbox": [
+        1043,
+        2435,
+        1074,
+        2533
+      ],
+      "text": "Cook",
+      "confidence": 0.9678
+    },
+    {
+      "bbox": [
+        1147,
+        2435,
+        1172,
+        2527
+      ],
+      "text": "Cook",
+      "confidence": 0.9099
+    },
+    {
+      "bbox": [
+        1080,
+        2437,
+        1104,
+        2533
+      ],
+      "text": "COOK",
+      "confidence": 0.9071
+    },
+    {
+      "bbox": [
+        1113,
+        2440,
+        1139,
+        2535
+      ],
+      "text": "Cook",
+      "confidence": 0.9218
+    },
+    {
+      "bbox": [
+        977,
+        2454,
+        1007,
+        2511
+      ],
+      "text": "H.",
+      "confidence": 0.9818
+    },
+    {
+      "bbox": [
+        941,
+        2500,
+        977,
+        2693
+      ],
+      "text": "Robert H.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        711,
+        2501,
+        742,
+        2557
+      ],
+      "text": "A.",
+      "confidence": 0.9126
+    },
+    {
+      "bbox": [
+        777,
+        2503,
+        808,
+        2561
+      ],
+      "text": "A.",
+      "confidence": 0.9169
+    },
+    {
+      "bbox": [
+        299,
+        2512,
+        330,
+        2635
+      ],
+      "text": "Grand",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        1272,
+        2513,
+        1311,
+        2686
+      ],
+      "text": "William",
+      "confidence": 0.9708
+    },
+    {
+      "bbox": [
+        805,
+        2519,
+        843,
+        2688
+      ],
+      "text": "William",
+      "confidence": 0.9714
+    },
+    {
+      "bbox": [
+        975,
+        2520,
+        1009,
+        2691
+      ],
+      "text": "William",
+      "confidence": 0.9585
+    },
+    {
+      "bbox": [
+        609,
+        2531,
+        638,
+        2687
+      ],
+      "text": "Francis",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        441,
+        2536,
+        473,
+        2687
+      ],
+      "text": "John T.",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        408,
+        2537,
+        438,
+        2688
+      ],
+      "text": "Charles",
+      "confidence": 0.966
+    },
+    {
+      "bbox": [
+        1310,
+        2537,
+        1339,
+        2590
+      ],
+      "text": "A.",
+      "confidence": 0.7122
+    },
+    {
+      "bbox": [
+        573,
+        2539,
+        606,
+        2691
+      ],
+      "text": "Charles",
+      "confidence": 0.976
+    },
+    {
+      "bbox": [
+        541,
+        2540,
+        572,
+        2682
+      ],
+      "text": "Charles",
+      "confidence": 0.5114
+    },
+    {
+      "bbox": [
+        1170,
+        2543,
+        1208,
+        2581
+      ],
+      "text": "H",
+      "confidence": 0.5219
+    },
+    {
+      "bbox": [
+        1207,
+        2547,
+        1274,
+        2585
+      ],
+      "text": "五日",
+      "confidence": 0.4188
+    },
+    {
+      "bbox": [
+        1075,
+        2549,
+        1107,
+        2584
+      ],
+      "text": "H",
+      "confidence": 0.7212
+    },
+    {
+      "bbox": [
+        1144,
+        2549,
+        1177,
+        2582
+      ],
+      "text": "H",
+      "confidence": 0.4829
+    },
+    {
+      "bbox": [
+        1041,
+        2550,
+        1072,
+        2585
+      ],
+      "text": "F",
+      "confidence": 0.3369
+    },
+    {
+      "bbox": [
+        1013,
+        2552,
+        1044,
+        2585
+      ],
+      "text": "H",
+      "confidence": 0.5511
+    },
+    {
+      "bbox": [
+        1110,
+        2553,
+        1141,
+        2586
+      ],
+      "text": "H",
+      "confidence": 0.6797
+    },
+    {
+      "bbox": [
+        777,
+        2555,
+        807,
+        2694
+      ],
+      "text": "Carter",
+      "confidence": 0.9672
+    },
+    {
+      "bbox": [
+        710,
+        2558,
+        743,
+        2693
+      ],
+      "text": "Carter",
+      "confidence": 0.9741
+    },
+    {
+      "bbox": [
+        1005,
+        2585,
+        1043,
+        2699
+      ],
+      "text": "John",
+      "confidence": 0.9628
+    },
+    {
+      "bbox": [
+        1306,
+        2591,
+        1339,
+        2691
+      ],
+      "text": "Wm.",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        1145,
+        2592,
+        1175,
+        2694
+      ],
+      "text": "John",
+      "confidence": 0.9555
+    },
+    {
+      "bbox": [
+        1177,
+        2593,
+        1206,
+        2694
+      ],
+      "text": "John",
+      "confidence": 0.9725
+    },
+    {
+      "bbox": [
+        1213,
+        2593,
+        1239,
+        2693
+      ],
+      "text": "John",
+      "confidence": 0.9761
+    },
+    {
+      "bbox": [
+        1243,
+        2593,
+        1272,
+        2692
+      ],
+      "text": "John",
+      "confidence": 0.9824
+    },
+    {
+      "bbox": [
+        1075,
+        2594,
+        1107,
+        2694
+      ],
+      "text": "John",
+      "confidence": 0.9801
+    },
+    {
+      "bbox": [
+        1109,
+        2594,
+        1141,
+        2698
+      ],
+      "text": "John",
+      "confidence": 0.9764
+    },
+    {
+      "bbox": [
+        1044,
+        2596,
+        1072,
+        2694
+      ],
+      "text": "John",
+      "confidence": 0.9779
+    },
+    {
+      "bbox": [
+        302,
+        2697,
+        336,
+        2797
+      ],
+      "text": "Year",
+      "confidence": 0.9553
+    },
+    {
+      "bbox": [
+        440,
+        2713,
+        550,
+        2792
+      ],
+      "text": "1850\n1850\n1851",
+      "confidence": 0.9451
+    },
+    {
+      "bbox": [
+        540,
+        2713,
+        848,
+        2794
+      ],
+      "text": "1855\n1855\n1855\n1855\n1855\n1859\n1860",
+      "confidence": 0.9122
+    },
+    {
+      "bbox": [
+        414,
+        2717,
+        444,
+        2755
+      ],
+      "text": "18",
+      "confidence": 0.6522
+    },
+    {
+      "bbox": [
+        877,
+        2718,
+        909,
+        2790
+      ],
+      "text": "1862",
+      "confidence": 0.7875
+    },
+    {
+      "bbox": [
+        911,
+        2718,
+        941,
+        2790
+      ],
+      "text": "18633",
+      "confidence": 0.9734
+    },
+    {
+      "bbox": [
+        1006,
+        2718,
+        1041,
+        2791
+      ],
+      "text": "1866",
+      "confidence": 0.9177
+    },
+    {
+      "bbox": [
+        976,
+        2719,
+        1007,
+        2791
+      ],
+      "text": "1865",
+      "confidence": 0.8462
+    },
+    {
+      "bbox": [
+        1141,
+        2719,
+        1177,
+        2792
+      ],
+      "text": "1870",
+      "confidence": 0.9666
+    },
+    {
+      "bbox": [
+        1210,
+        2719,
+        1243,
+        2791
+      ],
+      "text": "1872",
+      "confidence": 0.9794
+    },
+    {
+      "bbox": [
+        942,
+        2720,
+        977,
+        2790
+      ],
+      "text": "1861",
+      "confidence": 0.9649
+    },
+    {
+      "bbox": [
+        1072,
+        2720,
+        1109,
+        2791
+      ],
+      "text": "1868",
+      "confidence": 0.962
+    },
+    {
+      "bbox": [
+        1242,
+        2720,
+        1274,
+        2777
+      ],
+      "text": "873",
+      "confidence": 0.9715
+    },
+    {
+      "bbox": [
+        1272,
+        2720,
+        1340,
+        2777
+      ],
+      "text": "874",
+      "confidence": 0.9388
+    },
+    {
+      "bbox": [
+        1042,
+        2721,
+        1074,
+        2792
+      ],
+      "text": "1867",
+      "confidence": 0.9319
+    },
+    {
+      "bbox": [
+        1110,
+        2721,
+        1139,
+        2777
+      ],
+      "text": "698",
+      "confidence": 0.5511
+    },
+    {
+      "bbox": [
+        842,
+        2722,
+        874,
+        2790
+      ],
+      "text": "1861",
+      "confidence": 0.72
+    },
+    {
+      "bbox": [
+        1175,
+        2722,
+        1206,
+        2792
+      ],
+      "text": "1871",
+      "confidence": 0.9801
+    },
+    {
+      "bbox": [
+        416,
+        2753,
+        444,
+        2770
+      ],
+      "text": "90",
+      "confidence": 0.5209
+    },
+    {
+      "bbox": [
+        1110,
+        2773,
+        1141,
+        2788
+      ],
+      "text": "pool",
+      "confidence": 0.3783
+    }
+  ]
+}

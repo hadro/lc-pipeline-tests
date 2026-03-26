@@ -1,0 +1,28 @@
+{
+  "image": "0012_service:mss:mss11879:mss11879-42:42001:0012.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Bill of Exchange",
+    "section_title": "Second of Exchange",
+    "year": "1893"
+  },
+  "page_context": {
+    "record_type": "Bill of Exchange",
+    "section_title": "Second of Exchange",
+    "year": "1893"
+  },
+  "entries": [
+    {
+      "date": null,
+      "description": null,
+      "amount": "131.75",
+      "transaction_type": "expense",
+      "record_type": "Bill of Exchange",
+      "section_title": "Second of Exchange",
+      "year": "1893",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0012#xywh=346,413,18,24",
+      "image": "0012_service:mss:mss11879:mss11879-42:42001:0012.jpg"
+    }
+  ]
+}

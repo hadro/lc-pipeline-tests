@@ -1,0 +1,336 @@
+{
+  "image_width": 1828,
+  "image_height": 3005,
+  "lines": [
+    {
+      "bbox": [
+        475,
+        390,
+        1307,
+        445
+      ],
+      "text": "Lodge Officers for 1904.",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        658,
+        669,
+        1130,
+        707
+      ],
+      "text": "Social Lodge, No. 1.",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        508,
+        746,
+        1278,
+        783
+      ],
+      "text": "Benjamin E. Herbert, W. Master,",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        290,
+        789,
+        1497,
+        829
+      ],
+      "text": "Ernest M. Dickerson, S. W. Reuben S. Smith, J.W.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        397,
+        833,
+        1381,
+        874
+      ],
+      "text": "Fred A. Fowler, Sec'y, 2209 14th st. N. W.",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        636,
+        893,
+        1159,
+        928
+      ],
+      "text": "Meets First Thursday.",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        658,
+        1012,
+        1125,
+        1051
+      ],
+      "text": "Felix Lodge, No. 3.",
+      "confidence": 0.9834
+    },
+    {
+      "bbox": [
+        555,
+        1090,
+        1234,
+        1129
+      ],
+      "text": "Owen E. McNeill, W. Master.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        289,
+        1137,
+        1497,
+        1173
+      ],
+      "text": "A. L. Cornish, S. W. Junius C. Cooper, J. W.",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        436,
+        1176,
+        1362,
+        1222
+      ],
+      "text": "Wm. H. Severson, Sec'y, 326 E st. S. W.",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        658,
+        1237,
+        1133,
+        1273
+      ],
+      "text": "Meets First Monday.",
+      "confidence": 0.9815
+    },
+    {
+      "bbox": [
+        641,
+        1357,
+        1142,
+        1396
+      ],
+      "text": "Hiram Lodge, No. 4.",
+      "confidence": 0.9798
+    },
+    {
+      "bbox": [
+        531,
+        1440,
+        1253,
+        1475
+      ],
+      "text": "Albert T. Newman, W. Master.",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        289,
+        1483,
+        1498,
+        1519
+      ],
+      "text": "John H. Gaskins, S. W. William H. Brown, J. W.",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        353,
+        1529,
+        1410,
+        1566
+      ],
+      "text": "Joseph N. Lawson, Sec'y, 1311 27th st. N. W.",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        641,
+        1583,
+        1140,
+        1620
+      ],
+      "text": "Meets Third Monday,",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        636,
+        1703,
+        1139,
+        1743
+      ],
+      "text": "Eureka Lodge, No. 5.",
+      "confidence": 0.9753
+    },
+    {
+      "bbox": [
+        467,
+        1783,
+        1314,
+        1820
+      ],
+      "text": "L. Gorham Fletcher, Jr., W. Master.",
+      "confidence": 0.992
+    },
+    {
+      "bbox": [
+        283,
+        1827,
+        1495,
+        1865
+      ],
+      "text": "Arthur C. Newman, S.W. Samuel W. Watson, J.W.",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        329,
+        1872,
+        1434,
+        1910
+      ],
+      "text": "Edward A. Watson, Sec'y, 1238 Joliet st. N. W.",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        632,
+        1929,
+        1150,
+        1964
+      ],
+      "text": "Meets Second Monday.",
+      "confidence": 0.9824
+    },
+    {
+      "bbox": [
+        618,
+        2048,
+        1157,
+        2087
+      ],
+      "text": "Meridian Lodge, No. 6.",
+      "confidence": 0.967
+    },
+    {
+      "bbox": [
+        549,
+        2130,
+        1224,
+        2166
+      ],
+      "text": "Joseph E. Graves, W. Master.",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        283,
+        2172,
+        1492,
+        2212
+      ],
+      "text": "Alfred H. Harvey, S. W. Benjamin Williams, J.W.",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        417,
+        2216,
+        1359,
+        2258
+      ],
+      "text": "Wm. Knox Brown, Sec'y, 205 L st. N. W.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        647,
+        2275,
+        1137,
+        2311
+      ],
+      "text": "Meets First Tuesday.",
+      "confidence": 0.98
+    },
+    {
+      "bbox": [
+        574,
+        2388,
+        1202,
+        2435
+      ],
+      "text": "Widow's Son Lodge, No. 7.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        546,
+        2472,
+        1217,
+        2512
+      ],
+      "text": "Charles H. Posey, W. Master.",
+      "confidence": 0.986
+    },
+    {
+      "bbox": [
+        281,
+        2516,
+        1489,
+        2557
+      ],
+      "text": "Charles L. Harris, S.W. Thomas N Williams, J.W.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        409,
+        2559,
+        1378,
+        2606
+      ],
+      "text": "John S. George, Sec'y, 1938 11th st. N. W.",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        604,
+        2617,
+        1179,
+        2656
+      ],
+      "text": "Meets Second Thursday.",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        850,
+        2695,
+        926,
+        2729
+      ],
+      "text": "103",
+      "confidence": 0.9778
+    },
+    {
+      "bbox": [
+        449,
+        2919,
+        557,
+        2932
+      ],
+      "text": "State State State",
+      "confidence": 0.1596
+    }
+  ]
+}

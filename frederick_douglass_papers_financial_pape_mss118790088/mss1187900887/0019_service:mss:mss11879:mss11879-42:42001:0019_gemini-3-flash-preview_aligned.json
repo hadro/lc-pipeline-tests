@@ -1,0 +1,36 @@
+{
+  "image": "0019_service:mss:mss11879:mss11879-42:42001:0019.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0019",
+  "canvas_width": 1972,
+  "canvas_height": 1642,
+  "surya_median_confidence": 0.5599,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        1020,
+        132,
+        1658,
+        340
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0019#xywh=1020,132,638,208",
+      "confidence": "line",
+      "gemini_text": "Miss Gulielma Stephens.",
+      "surya_confidence": 0.9765
+    },
+    {
+      "bbox": [
+        662,
+        1523,
+        771,
+        1586
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0019#xywh=662,1523,109,63",
+      "confidence": "line",
+      "gemini_text": "Girtups Boxford.",
+      "surya_confidence": 0.7088
+    }
+  ],
+  "unmatched_gemini": []
+}

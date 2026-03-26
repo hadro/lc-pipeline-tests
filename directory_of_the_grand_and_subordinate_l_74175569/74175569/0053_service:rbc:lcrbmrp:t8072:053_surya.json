@@ -1,0 +1,186 @@
+{
+  "image_width": 1892,
+  "image_height": 2996,
+  "lines": [
+    {
+      "bbox": [
+        324,
+        1143,
+        575,
+        1173
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        277,
+        1233,
+        577,
+        1267
+      ],
+      "text": "Tactorion les",
+      "confidence": 0.2849
+    },
+    {
+      "bbox": [
+        268,
+        1404,
+        556,
+        1444
+      ],
+      "text": "Daniel St. St.",
+      "confidence": 0.3882
+    },
+    {
+      "bbox": [
+        263,
+        1495,
+        580,
+        1534
+      ],
+      "text": "costonieno).",
+      "confidence": 0.3303
+    },
+    {
+      "bbox": [
+        261,
+        1584,
+        566,
+        1622
+      ],
+      "text": "#35 20 97 July 1",
+      "confidence": 0.1685
+    },
+    {
+      "bbox": [
+        395,
+        1747,
+        1619,
+        1797
+      ],
+      "text": "It goes into every State in the Union and in foreign lands.",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        453,
+        1815,
+        1510,
+        1891
+      ],
+      "text": "~$≈ ONLY $1.00 ≥$",
+      "confidence": 0.7968
+    },
+    {
+      "bbox": [
+        758,
+        1920,
+        1259,
+        1952
+      ],
+      "text": "PER YEAR IN ADVANCE.",
+      "confidence": 0.9877
+    },
+    {
+      "bbox": [
+        798,
+        2006,
+        1214,
+        2043
+      ],
+      "text": "SUBSCRIBE FOR THE",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        465,
+        2062,
+        1558,
+        2160
+      ],
+      "text": "\"Industrial Advocate,\"",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        401,
+        2183,
+        1630,
+        2234
+      ],
+      "text": "The only Afro-American Masonic Weekly Newspaper",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        670,
+        2240,
+        1357,
+        2286
+      ],
+      "text": "published in the United States.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        403,
+        2291,
+        1629,
+        2347
+      ],
+      "text": "Official Organ Scottish Rite Masons and Mystic Shriners.",
+      "confidence": 0.9782
+    },
+    {
+      "bbox": [
+        449,
+        2390,
+        1603,
+        2430
+      ],
+      "text": "ENDORSED BY LEADING MASONS THE COUNTRY OVER.",
+      "confidence": 0.974
+    },
+    {
+      "bbox": [
+        919,
+        2476,
+        1102,
+        2515
+      ],
+      "text": "Address",
+      "confidence": 0.9138
+    },
+    {
+      "bbox": [
+        783,
+        2537,
+        1486,
+        2599
+      ],
+      "text": "Industrial Advocate,",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        952,
+        2614,
+        1521,
+        2662
+      ],
+      "text": "627 So. St. Asaph St.,",
+      "confidence": 0.9858
+    },
+    {
+      "bbox": [
+        1190,
+        2670,
+        1573,
+        2716
+      ],
+      "text": "Alexandria, Va.",
+      "confidence": 0.9787
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "image_width": 1816,
+  "image_height": 2901,
+  "lines": [
+    {
+      "bbox": [
+        276,
+        302,
+        1410,
+        426
+      ],
+      "text": "IRVING'S HALL",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        565,
+        483,
+        1124,
+        567
+      ],
+      "text": "FOR RENT.",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        411,
+        685,
+        1286,
+        751
+      ],
+      "text": "HENRY C. IRVING, Prop.",
+      "confidence": 0.9354
+    },
+    {
+      "bbox": [
+        611,
+        877,
+        1088,
+        924
+      ],
+      "text": "410 D Street, S. E.",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        178,
+        1060,
+        1262,
+        1119
+      ],
+      "text": "Entertainments, Parties, Lectures and Suppers.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        363,
+        1161,
+        1525,
+        1203
+      ],
+      "text": "Collations and Lunches Served at Short Notice.",
+      "confidence": 0.9899
+    },
+    {
+      "bbox": [
+        455,
+        1351,
+        1251,
+        1402
+      ],
+      "text": "LODGE ROOMS FOR RENT.",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        446,
+        2451,
+        1279,
+        2504
+      ],
+      "text": "SEND FOR CATALOGUE.",
+      "confidence": 0.9784
+    },
+    {
+      "bbox": [
+        833,
+        2633,
+        895,
+        2669
+      ],
+      "text": "14",
+      "confidence": 0.9931
+    }
+  ]
+}

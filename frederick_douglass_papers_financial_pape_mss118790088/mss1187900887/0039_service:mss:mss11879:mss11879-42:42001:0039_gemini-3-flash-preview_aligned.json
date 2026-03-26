@@ -1,0 +1,653 @@
+{
+  "image": "0039_service:mss:mss11879:mss11879-42:42001:0039.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039",
+  "canvas_width": 1658,
+  "canvas_height": 1402,
+  "surya_median_confidence": 0.9986,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        234,
+        199,
+        702,
+        241
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=234,199,468,42",
+      "confidence": "line",
+      "gemini_text": "Rules Relating to Deposits.",
+      "surya_confidence": 0.8816
+    },
+    {
+      "bbox": [
+        208,
+        260,
+        761,
+        280
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=208,260,553,20",
+      "confidence": "line",
+      "gemini_text": "SECTION 1. In making the first deposit, every depositor, or his",
+      "surya_confidence": 0.9871
+    },
+    {
+      "bbox": [
+        173,
+        274,
+        761,
+        298
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=173,274,588,24",
+      "confidence": "line",
+      "gemini_text": "agent, shall comply with and be subject to the following rules and",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        175,
+        292,
+        761,
+        316
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=175,292,586,24",
+      "confidence": "line",
+      "gemini_text": "regulations of the Company, and shall be considered as bound",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        175,
+        310,
+        762,
+        332
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=175,310,587,22",
+      "confidence": "line",
+      "gemini_text": "thereby. A record will be made as a means of future identification.",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        175,
+        327,
+        762,
+        349
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=175,327,587,22",
+      "confidence": "line",
+      "gemini_text": "A numbered pass-book will be provided, in which every deposit",
+      "surya_confidence": 0.9984
+    },
+    {
+      "bbox": [
+        207,
+        360,
+        761,
+        380
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=207,360,554,20",
+      "confidence": "line",
+      "gemini_text": "Deposits of not less than five dollars will be received upon first",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        175,
+        377,
+        761,
+        397
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=175,377,586,20",
+      "confidence": "line",
+      "gemini_text": "opening an account, while sums not less than one dollar may be",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        173,
+        391,
+        762,
+        416
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=173,391,589,25",
+      "confidence": "line",
+      "gemini_text": "added thereafter: Provided, however, That the Company may limit",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        175,
+        410,
+        691,
+        430
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=175,410,516,20",
+      "confidence": "line",
+      "gemini_text": "the amounts of deposits from any person in any one month.",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        207,
+        429,
+        759,
+        446
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=207,429,552,17",
+      "confidence": "line",
+      "gemini_text": "Any application for opening a deposit account may be refused",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        175,
+        443,
+        758,
+        465
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=175,443,583,22",
+      "confidence": "line",
+      "gemini_text": "by the Company when deemed expedient, and the Company reserves",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        175,
+        460,
+        758,
+        482
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=175,460,583,22",
+      "confidence": "line",
+      "gemini_text": "the right to close an account at any time. Active business accounts",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        175,
+        479,
+        432,
+        494
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=175,479,257,15",
+      "confidence": "line",
+      "gemini_text": "will not be taken or retained.",
+      "surya_confidence": 0.9963
+    },
+    {
+      "bbox": [
+        207,
+        491,
+        757,
+        517
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=207,491,550,26",
+      "confidence": "line",
+      "gemini_text": "SEC. 2. All deposits will be held as trusts, strictly confidential",
+      "surya_confidence": 0.9958
+    },
+    {
+      "bbox": [
+        175,
+        509,
+        758,
+        533
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=175,509,583,24",
+      "confidence": "line",
+      "gemini_text": "and private. Deposits made by married women or minors are en-",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        172,
+        527,
+        758,
+        549
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=172,527,586,22",
+      "confidence": "line",
+      "gemini_text": "tirely free from the control of their husbands, parents, or guardians.",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        205,
+        544,
+        758,
+        564
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=205,544,553,20",
+      "confidence": "line",
+      "gemini_text": "Guardians may deposit for the benefit of their wards, and trus-",
+      "surya_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        172,
+        560,
+        758,
+        582
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=172,560,586,22",
+      "confidence": "line",
+      "gemini_text": "tees may deposit as such, specifying in each case the name of the",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        171,
+        577,
+        467,
+        595
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=171,577,296,18",
+      "confidence": "line",
+      "gemini_text": "party for whom it is held in trust.",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        204,
+        594,
+        758,
+        616
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=204,594,554,22",
+      "confidence": "line",
+      "gemini_text": "SEC 3. The Company may require the presentation of the pass-",
+      "surya_confidence": 0.9906
+    },
+    {
+      "bbox": [
+        169,
+        608,
+        758,
+        633
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=169,608,589,25",
+      "confidence": "line",
+      "gemini_text": "book before any check is paid or deposit received; but if a check",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        171,
+        627,
+        758,
+        649
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=171,627,587,22",
+      "confidence": "line",
+      "gemini_text": "shall at any time be paid or deposit received in the absence of the",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        168,
+        642,
+        760,
+        686
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=168,642,592,44",
+      "confidence": "line",
+      "gemini_text": "thereby waive the right to exact said requirement in further pay-",
+      "surya_confidence": 0.9827
+    },
+    {
+      "bbox": [
+        169,
+        678,
+        758,
+        700
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=169,678,589,22",
+      "confidence": "line",
+      "gemini_text": "ments or deposits. Payments of checks of depositors will be made",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        169,
+        695,
+        758,
+        715
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=169,695,589,20",
+      "confidence": "line",
+      "gemini_text": "ordinarily on demand, but should it at any time be necessary in the",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        169,
+        709,
+        758,
+        733
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=169,709,589,24",
+      "confidence": "line",
+      "gemini_text": "general interest of the patrons, the Company reserves the right to",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        169,
+        728,
+        758,
+        748
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=169,728,589,20",
+      "confidence": "line",
+      "gemini_text": "require sixty days' notice in writing from any depositor before",
+      "surya_confidence": 0.9931
+    },
+    {
+      "bbox": [
+        171,
+        745,
+        327,
+        760
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=171,745,156,15",
+      "confidence": "line",
+      "gemini_text": "making payment.",
+      "surya_confidence": 0.9887
+    },
+    {
+      "bbox": [
+        202,
+        762,
+        758,
+        782
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=202,762,556,20",
+      "confidence": "line",
+      "gemini_text": "SEC. 4. Whenever a book is lost, destroyed, or fraudulently ob-",
+      "surya_confidence": 0.9947
+    },
+    {
+      "bbox": [
+        171,
+        778,
+        758,
+        800
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=171,778,587,22",
+      "confidence": "line",
+      "gemini_text": "tained, immediate notice should be given to the Company. If it is",
+      "surya_confidence": 0.9981
+    },
+    {
+      "bbox": [
+        169,
+        793,
+        758,
+        818
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=169,793,589,25",
+      "confidence": "line",
+      "gemini_text": "not recovered within thirty days after such notice, a duplicate book",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        171,
+        810,
+        758,
+        834
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=171,810,587,24",
+      "confidence": "line",
+      "gemini_text": "will be issued, provided a satisfactory bond of indemnity is fur-",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        168,
+        825,
+        758,
+        852
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=168,825,590,27",
+      "confidence": "line",
+      "gemini_text": "nished. Possession of a pass-book shall not alone be regarded as",
+      "surya_confidence": 0.9977
+    },
+    {
+      "bbox": [
+        169,
+        844,
+        479,
+        863
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=169,844,310,19",
+      "confidence": "line",
+      "gemini_text": "evidence of ownership of the same.",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        205,
+        860,
+        757,
+        884
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=205,860,552,24",
+      "confidence": "line",
+      "gemini_text": "When an account is closed, the book must invariably be surren-",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        171,
+        879,
+        373,
+        896
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=171,879,202,17",
+      "confidence": "line",
+      "gemini_text": "dered to the Company.",
+      "surya_confidence": 0.9948
+    },
+    {
+      "bbox": [
+        201,
+        893,
+        757,
+        917
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=201,893,556,24",
+      "confidence": "line",
+      "gemini_text": "SEC. 5. Interest will be allowed on all accounts having credits",
+      "surya_confidence": 0.9973
+    },
+    {
+      "bbox": [
+        168,
+        910,
+        757,
+        934
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=168,910,589,24",
+      "confidence": "line",
+      "gemini_text": "of five dollars and upwards. No interest will be allowed when an",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        169,
+        929,
+        757,
+        951
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=169,929,588,22",
+      "confidence": "line",
+      "gemini_text": "account has not been continued with the Company for at least thirty",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        202,
+        963,
+        758,
+        985
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=202,963,556,22",
+      "confidence": "line",
+      "gemini_text": "SEC. 6. Two per cent. interest per annum will be allowed de-",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        171,
+        979,
+        758,
+        1001
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=171,979,587,22",
+      "confidence": "line",
+      "gemini_text": "positors on monthly balances. The current interest due depositors",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        169,
+        993,
+        758,
+        1019
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=169,993,589,26",
+      "confidence": "line",
+      "gemini_text": "will be added to their principal on the books of the Company on the",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        168,
+        1010,
+        758,
+        1036
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=168,1010,590,26",
+      "confidence": "line",
+      "gemini_text": "first days of January and July in each year, and such interest will be",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        168,
+        1026,
+        757,
+        1054
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=168,1026,589,28",
+      "confidence": "line",
+      "gemini_text": "entered on depositors' pass-books as soon as practicable after said",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        169,
+        1046,
+        757,
+        1068
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=169,1046,588,22",
+      "confidence": "line",
+      "gemini_text": "dates, and, when not withdrawn, will be entitled to earn interest as",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        169,
+        1065,
+        436,
+        1081
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=169,1065,267,16",
+      "confidence": "line",
+      "gemini_text": "forming part of the principal.",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        201,
+        1077,
+        757,
+        1101
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=201,1077,556,24",
+      "confidence": "line",
+      "gemini_text": "Pass-books must be handed in at least once in every three",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        169,
+        1096,
+        504,
+        1115
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=169,1096,335,19",
+      "confidence": "line",
+      "gemini_text": "months to be written up and balanced.",
+      "surya_confidence": 0.6611
+    },
+    {
+      "bbox": [
+        201,
+        1115,
+        757,
+        1135
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=201,1115,556,20",
+      "confidence": "line",
+      "gemini_text": "SEC. 7. For the collection of all notes, drafts, checks, etc., out",
+      "surya_confidence": 0.9904
+    },
+    {
+      "bbox": [
+        169,
+        1131,
+        757,
+        1151
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=169,1131,588,20",
+      "confidence": "line",
+      "gemini_text": "side of this city, The Washington Loan & Trust Co. will observe",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        168,
+        1145,
+        758,
+        1186
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=168,1145,590,41",
+      "confidence": "line",
+      "gemini_text": "not be liable in case of their failure or negligence, or for loss of such",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        169,
+        1180,
+        326,
+        1197
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0039#xywh=169,1180,157,17",
+      "confidence": "line",
+      "gemini_text": "items in the mail.",
+      "surya_confidence": 0.9987
+    }
+  ],
+  "unmatched_gemini": [
+    "shall be entered.",
+    "book, as an accommodation to a depositor, the Company does not",
+    "days.",
+    "due diligence in its endeavor to select responsible agents, but will"
+  ]
+}

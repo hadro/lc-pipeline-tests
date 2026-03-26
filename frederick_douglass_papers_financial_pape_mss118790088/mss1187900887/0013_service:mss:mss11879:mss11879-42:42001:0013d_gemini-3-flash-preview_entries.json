@@ -1,0 +1,16 @@
+{
+  "image": "0013_service:mss:mss11879:mss11879-42:42001:0013d.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Bill of Exchange",
+    "section_title": "Second of Exchange",
+    "year": "1893"
+  },
+  "page_context": {
+    "record_type": "Book Cover",
+    "section_title": null,
+    "year": null
+  },
+  "entries": []
+}

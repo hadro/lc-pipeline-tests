@@ -1,0 +1,146 @@
+{
+  "image_width": 1950,
+  "image_height": 1587,
+  "lines": [
+    {
+      "bbox": [
+        1033,
+        178,
+        1468,
+        412
+      ],
+      "text": "Je ai: Jearais\nIn as In avais\nIt ai Il avais\nMous aveous.",
+      "confidence": 0.9327
+    },
+    {
+      "bbox": [
+        1019,
+        377,
+        1624,
+        568
+      ],
+      "text": "Maraul Vous aveig\nMaraul Its avaient.",
+      "confidence": 0.6695
+    },
+    {
+      "bbox": [
+        1051,
+        553,
+        1261,
+        604
+      ],
+      "text": "Jai eu:",
+      "confidence": 0.5613
+    },
+    {
+      "bbox": [
+        1049,
+        603,
+        1256,
+        653
+      ],
+      "text": "Ju as eu.",
+      "confidence": 0.8739
+    },
+    {
+      "bbox": [
+        1051,
+        657,
+        1248,
+        697
+      ],
+      "text": "Il a eu",
+      "confidence": 0.9697
+    },
+    {
+      "bbox": [
+        1054,
+        709,
+        1327,
+        749
+      ],
+      "text": "Nous avous eu.",
+      "confidence": 0.7096
+    },
+    {
+      "bbox": [
+        1051,
+        755,
+        1340,
+        808
+      ],
+      "text": "yes vous aveg ou.",
+      "confidence": 0.606
+    },
+    {
+      "bbox": [
+        1058,
+        803,
+        1346,
+        852
+      ],
+      "text": "Ils ceres on.",
+      "confidence": 0.971
+    },
+    {
+      "bbox": [
+        1313,
+        854,
+        1575,
+        1071
+      ],
+      "text": "I vais en.",
+      "confidence": 0.907
+    },
+    {
+      "bbox": [
+        1321,
+        1057,
+        1560,
+        1104
+      ],
+      "text": "Il avait en",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        1327,
+        1115,
+        1647,
+        1156
+      ],
+      "text": "nous avious en",
+      "confidence": 0.9696
+    },
+    {
+      "bbox": [
+        1320,
+        1158,
+        1663,
+        1270
+      ],
+      "text": "Vous aviez en.",
+      "confidence": 0.9551
+    },
+    {
+      "bbox": [
+        1698,
+        1364,
+        1720,
+        1379
+      ],
+      "text": ".",
+      "confidence": 0.5158
+    },
+    {
+      "bbox": [
+        554,
+        1478,
+        581,
+        1494
+      ],
+      "text": "16",
+      "confidence": 0.6672
+    }
+  ]
+}

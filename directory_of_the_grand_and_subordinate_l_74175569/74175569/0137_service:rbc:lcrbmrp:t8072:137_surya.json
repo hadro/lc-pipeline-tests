@@ -1,0 +1,96 @@
+{
+  "image_width": 1934,
+  "image_height": 2981,
+  "lines": [
+    {
+      "bbox": [
+        675,
+        1056,
+        1635,
+        1154
+      ],
+      "text": "H. B. DARLING,",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        939,
+        1246,
+        1368,
+        1347
+      ],
+      "text": "Printer,",
+      "confidence": 0.981
+    },
+    {
+      "bbox": [
+        476,
+        1438,
+        1845,
+        1539
+      ],
+      "text": "813 E Street, Northwest,",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        675,
+        1629,
+        1639,
+        1728
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        1100,
+        1840,
+        1205,
+        1900
+      ],
+      "text": "200",
+      "confidence": 0.4013
+    },
+    {
+      "bbox": [
+        788,
+        1999,
+        1527,
+        2091
+      ],
+      "text": "Main 1273-m.",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        599,
+        2707,
+        818,
+        2779
+      ],
+      "text": "LBMy'15",
+      "confidence": 0.9835
+    },
+    {
+      "bbox": [
+        391,
+        2854,
+        646,
+        2868
+      ],
+      "text": "STATE STATES",
+      "confidence": 0.2602
+    },
+    {
+      "bbox": [
+        1731,
+        2899,
+        1808,
+        2924
+      ],
+      "text": "4",
+      "confidence": 0.3151
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "section_title": "Corrections, Additions, Etc.",
+    "organization_name": null
+  },
+  "page_context": {
+    "section_title": "Corrections, Additions, Etc.",
+    "organization_name": null
+  },
+  "entries": [
+    {
+      "name": "Green, Arnold D.",
+      "masonic_codes": "3",
+      "lodge": "Widow's Son",
+      "address": "1611 12 nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=429,490,728,47",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Green, Joseph T.",
+      "masonic_codes": "12",
+      "lodge": "St. John's",
+      "address": "330 Spruce nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=429,535,819,46",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Green, Philip H",
+      "masonic_codes": "10, G",
+      "lodge": "John F. Cook",
+      "rank": "Past Master",
+      "address": "1749 Seaton nw.",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=429,576,922,51",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Green, William",
+      "masonic_codes": "15",
+      "lodge": "Chas. Datcher",
+      "address": "51 Defrees st nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=430,620,838,52",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Grice, Geo. W.",
+      "masonic_codes": "7",
+      "lodge": "Warren",
+      "address": "104 Prospect ne.",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=430,665,818,49",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Hamilton, H. W.",
+      "masonic_codes": "12-7, C",
+      "lodge": "St. John's",
+      "chapter": "St. John's",
+      "rank": "Past Senior Grand Warden",
+      "address": "1101 T st nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=429,709,888,50",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Harris, H. C.",
+      "masonic_codes": "8-1-3, 33d-G-M-N-S",
+      "lodge": "Warren",
+      "chapter": "Mt. Vernon",
+      "commandery": "Gethsemane",
+      "rank": "Consistory of Scottish Rite Masons, Past Master, Past High Priest, Past Grand Commander, Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "1139 17 nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=427,750,1029,55",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Harris, Julia A.",
+      "address": "1139 17 nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=427,802,648,47",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Harvey, Henry A.",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "214 D nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=429,846,710,47",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Hawkins, James H.",
+      "masonic_codes": "3",
+      "lodge": "Widow's Son",
+      "address": "64 G sw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=427,890,732,48",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Hayes, Harvey B",
+      "masonic_codes": "3",
+      "lodge": "Widow's Son",
+      "address": "2307 Va. ave nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=429,932,888,52",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Hayes, James H.",
+      "address": "1235 Lindene ne",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=427,974,1021,54",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Henderson, Cordelia",
+      "address": "22 M sw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=429,1025,691,47",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Henderson, Richard",
+      "masonic_codes": "3-1-3",
+      "lodge": "Widow's Son",
+      "chapter": "Mt. Vernon",
+      "commandery": "Gethsemane",
+      "address": "1221 W nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=430,1067,872,49",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Hicks, Alex. F.",
+      "masonic_codes": "15-5-1, S",
+      "lodge": "Chas. Datcher",
+      "chapter": "Prince Hall",
+      "commandery": "Simon",
+      "rank": "Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "2435 Brightwood ave",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=429,1107,1092,55",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Hill, Rev, Jas. H.",
+      "masonic_codes": "4",
+      "lodge": "Hiram",
+      "address": "1322 4 nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=435,1160,722,47",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Hill, Samuel",
+      "masonic_codes": "3",
+      "lodge": "Widow's Son",
+      "address": "435 2 sw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=434,1206,576,41",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Hill, Wm. C.",
+      "masonic_codes": "7",
+      "lodge": "Warren",
+      "address": "916 E sw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=434,1254,585,37",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Holland, Lizzie",
+      "address": "1919 11 nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=433,1295,619,44",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Holmes, Burnett",
+      "masonic_codes": "7",
+      "lodge": "Warren",
+      "address": "49 Pierce st nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=432,1337,803,48",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Hundell, James H.",
+      "masonic_codes": "1",
+      "lodge": "Social",
+      "address": "2009.9 nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=432,1383,745,46",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Hurley, J. E.",
+      "masonic_codes": "3",
+      "lodge": "Widow's Son",
+      "address": "1221 3 sw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=434,1432,619,36",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Jackson, Louise",
+      "address": "1524 21 nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=435,1472,641,46",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Jackson, R. A.",
+      "masonic_codes": "8",
+      "lodge": "Warren",
+      "address": "1223 W nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=435,1520,668,39",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Jackson, W. H.",
+      "masonic_codes": "15",
+      "lodge": "Chas. Datcher",
+      "address": "633 F nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=435,1566,657,37",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Jackson, Wm. H.",
+      "masonic_codes": "10",
+      "lodge": "John F. Cook",
+      "address": "412 N nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=437,1608,703,41",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "James, Eugene R.",
+      "masonic_codes": "3-7",
+      "lodge": "Widow's Son",
+      "chapter": "St. John's",
+      "address": "1826 L nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=437,1652,772,42",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Jeffers, D. B.",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "306 3 se",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=437,1698,581,39",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Johnsing, William",
+      "masonic_codes": "6",
+      "lodge": "Meridian",
+      "address": "Anacostia, D. C.",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=438,1738,888,47",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Johnson, Frank D.",
+      "masonic_codes": "7",
+      "lodge": "Warren",
+      "address": "1123 15 nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=437,1786,756,41",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Johnson, Jacob A.",
+      "masonic_codes": "15",
+      "lodge": "Chas. Datcher",
+      "address": "2322 G nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=437,1830,759,42",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Johnson, Jerome A.",
+      "masonic_codes": "14-1-3, 33d G",
+      "lodge": "Prince Hall",
+      "chapter": "Mt. Vernon",
+      "commandery": "Gethsemane",
+      "rank": "Consistory of Scottish Rite Masons, Past Master",
+      "address": "1528 15 nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=438,1869,1042,49",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Johnson, Marie Letcher",
+      "address": "1816 20 nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=441,1917,815,46",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Johnson, Virginia",
+      "address": "652 Acker ne",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=440,1965,732,41",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Jones, Thos. E.",
+      "masonic_codes": "10",
+      "lodge": "John F. Cook",
+      "address": "20 Prospect st, Reno, D. C,",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=438,2004,1082,48",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Keelan, John C.",
+      "masonic_codes": "O",
+      "address": "245 Elm nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=435,2051,745,46",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Kesterson, James",
+      "masonic_codes": "7",
+      "lodge": "Warren",
+      "address": "209 2 sw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=436,2095,687,47",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Lassiter, Andrew.",
+      "masonic_codes": "8-7-4",
+      "lodge": "Warren",
+      "chapter": "St. John's",
+      "commandery": "Mt. Calvary",
+      "address": "2238 11 nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=438,2138,806,48",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Laws, Wm. H.",
+      "masonic_codes": "10",
+      "lodge": "John F. Cook",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=438,2189,431,40",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Livingston, H. L.",
+      "masonic_codes": "14-7-2, R-S",
+      "lodge": "Prince Hall",
+      "chapter": "St. John's",
+      "commandery": "Henderson",
+      "rank": "Past Eminent Commander, Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "1759 L nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=439,2226,938,51",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Mabry, Benj.",
+      "masonic_codes": "10",
+      "lodge": "John F. Cook",
+      "address": "1423 I nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=441,2276,635,44",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Marshall, Joseph",
+      "masonic_codes": "8",
+      "lodge": "Warren",
+      "address": "829 3 sw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=441,2319,687,46",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Marshall, Thomas J.",
+      "masonic_codes": "15",
+      "lodge": "Chas. Datcher",
+      "address": "812 G sw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=443,2366,787,37",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Martin, David",
+      "masonic_codes": "4",
+      "lodge": "Hiram",
+      "address": "1739 11 nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=440,2406,656,46",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Martin, Edward",
+      "masonic_codes": "4",
+      "lodge": "Hiram",
+      "address": "1739 11 st nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=441,2447,777,51",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Martin, Ernest",
+      "masonic_codes": "4",
+      "lodge": "Hiram",
+      "address": "1739 11 st nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=433,2493,729,49",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Martin, Geo. W.",
+      "masonic_codes": "7",
+      "lodge": "Warren",
+      "address": "1343 32 nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=441,2537,699,51",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "Matthews, Rev. Joseph",
+      "masonic_codes": "10, G",
+      "lodge": "John F. Cook",
+      "rank": "Past Master",
+      "address": "918 E sw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=441,2583,906,48",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "McBeth, W. A,",
+      "masonic_codes": "10-7-4, G-S",
+      "lodge": "John F. Cook",
+      "chapter": "St. John's",
+      "commandery": "Mt. Calvary",
+      "rank": "Past Master, Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "733 7 nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=439,2627,852,49",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    },
+    {
+      "name": "McCauley, Charles",
+      "masonic_codes": "15",
+      "lodge": "Chas. Datcher",
+      "address": "Brentwood P O Md.",
+      "section_title": "Corrections, Additions, Etc.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=438,2668,1002,54",
+      "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg"
+    }
+  ]
+}

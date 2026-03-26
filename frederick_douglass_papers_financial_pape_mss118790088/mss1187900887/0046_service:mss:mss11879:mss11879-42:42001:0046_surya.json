@@ -1,0 +1,676 @@
+{
+  "image_width": 1333,
+  "image_height": 1126,
+  "lines": [
+    {
+      "bbox": [
+        171,
+        104,
+        493,
+        123
+      ],
+      "text": "CAPITAL SAVINGS BANK",
+      "confidence": 0.981
+    },
+    {
+      "bbox": [
+        828,
+        107,
+        1149,
+        129
+      ],
+      "text": "CAPITAL SAVINGS BANK.",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        78,
+        108,
+        96,
+        123
+      ],
+      "text": "4",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        1233,
+        115,
+        1246,
+        133
+      ],
+      "text": "5",
+      "confidence": 0.9807
+    },
+    {
+      "bbox": [
+        75,
+        158,
+        587,
+        186
+      ],
+      "text": "ness operations, but unalterably handi-",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        739,
+        164,
+        1249,
+        188
+      ],
+      "text": "agreed to rent the place, and we assessed",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        77,
+        186,
+        586,
+        213
+      ],
+      "text": "capped by a prejudice which we could",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        739,
+        191,
+        1250,
+        216
+      ],
+      "text": "ourselves for money enough on the spot",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        77,
+        212,
+        586,
+        242
+      ],
+      "text": "neither modify nor control. We had an",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        740,
+        218,
+        1199,
+        243
+      ],
+      "text": "to pay a month's rent in advance.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        1201,
+        224,
+        1249,
+        240
+      ],
+      "text": "We",
+      "confidence": 0.9663
+    },
+    {
+      "bbox": [
+        76,
+        240,
+        587,
+        269
+      ],
+      "text": "army of salaried men and women drawing",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        740,
+        246,
+        1249,
+        271
+      ],
+      "text": "had a place then, but no business. We",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        76,
+        271,
+        585,
+        296
+      ],
+      "text": "from the government every month,",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        739,
+        273,
+        1249,
+        299
+      ],
+      "text": "hadn't a single dollar of stock sold or sub-",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        66,
+        295,
+        586,
+        326
+      ],
+      "text": "through the public schools and the de-",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        737,
+        301,
+        1249,
+        328
+      ],
+      "text": "scribed for, no deposits, no books, no",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        77,
+        326,
+        586,
+        350
+      ],
+      "text": "partmental service, hundreds of thou-",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        740,
+        330,
+        1249,
+        355
+      ],
+      "text": "tender of cash from any source, no offi-",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        77,
+        352,
+        586,
+        381
+      ],
+      "text": "sands of dollars; and a still larger army",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        740,
+        357,
+        1250,
+        382
+      ],
+      "text": "cers, no clerks-in short, no anything",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        77,
+        380,
+        587,
+        410
+      ],
+      "text": "of honest, earnest wage-earners who,",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        741,
+        384,
+        1249,
+        411
+      ],
+      "text": "but one month's rent and one year's",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        77,
+        407,
+        586,
+        437
+      ],
+      "text": "week by week, receive a large money re-",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        740,
+        413,
+        1249,
+        439
+      ],
+      "text": "pluck. A few meetings followed in quick",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        77,
+        435,
+        586,
+        461
+      ],
+      "text": "turn for their labor. There was absolute-",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        740,
+        440,
+        1249,
+        466
+      ],
+      "text": "succession, and on Wednesday morning,",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        74,
+        465,
+        587,
+        491
+      ],
+      "text": "ly no central rallying point at which the",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        740,
+        469,
+        1249,
+        494
+      ],
+      "text": "October 17, 1888, the doors of the CAPI-",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        76,
+        491,
+        586,
+        521
+      ],
+      "text": "monetary interests of the colored people",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        740,
+        495,
+        1252,
+        523
+      ],
+      "text": "TAL SAVINGS BANK were swung open at",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        77,
+        519,
+        587,
+        548
+      ],
+      "text": "could be concentrated, and through",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        741,
+        522,
+        1249,
+        552
+      ],
+      "text": "804 F Street, and the public at large",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        77,
+        549,
+        587,
+        574
+      ],
+      "text": "which we could prove to the world that",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        742,
+        552,
+        1251,
+        577
+      ],
+      "text": "were asked to give us a share of their",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        77,
+        576,
+        587,
+        602
+      ],
+      "text": "we are capable of that sort of business",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        743,
+        580,
+        1110,
+        602
+      ],
+      "text": "confidence and their business.",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        77,
+        605,
+        587,
+        631
+      ],
+      "text": "development that makes a people respec-",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        770,
+        606,
+        1249,
+        634
+      ],
+      "text": "\"In some business circles our courage",
+      "confidence": 0.9871
+    },
+    {
+      "bbox": [
+        77,
+        632,
+        325,
+        657
+      ],
+      "text": "table and respected.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        742,
+        637,
+        1250,
+        661
+      ],
+      "text": "took the form of audacity, and our bank",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        104,
+        658,
+        585,
+        688
+      ],
+      "text": "\"It was under the impulse of senti-",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        742,
+        664,
+        1185,
+        688
+      ],
+      "text": "was the quick sensation of the hour.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        76,
+        685,
+        587,
+        715
+      ],
+      "text": "ments such as these that six colored men",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        770,
+        689,
+        1250,
+        719
+      ],
+      "text": "\"A bank with a colored president, col-",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        77,
+        714,
+        587,
+        743
+      ],
+      "text": "met one October evening, in 1888, in the",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        743,
+        718,
+        1250,
+        743
+      ],
+      "text": "ored cashier, colored clerks and colored",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        77,
+        743,
+        587,
+        770
+      ],
+      "text": "library of H. P. Montgomery's residence",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        744,
+        747,
+        1249,
+        772
+      ],
+      "text": "board of directors! 'Impossible,' said",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        77,
+        772,
+        587,
+        797
+      ],
+      "text": "in this city, and discussed the project of",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        743,
+        774,
+        1188,
+        799
+      ],
+      "text": "some; 'foolish,' said some others.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        1197,
+        777,
+        1251,
+        797
+      ],
+      "text": "But",
+      "confidence": 0.9852
+    },
+    {
+      "bbox": [
+        77,
+        800,
+        585,
+        825
+      ],
+      "text": "opening a bank. They carefully weighed",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        744,
+        804,
+        1251,
+        826
+      ],
+      "text": "we meant to succeed if success were pos-",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        77,
+        828,
+        587,
+        853
+      ],
+      "text": "the arguments for and against it, and, be-",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        744,
+        829,
+        1253,
+        857
+      ],
+      "text": "sible, and we worked right along just as",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        76,
+        853,
+        586,
+        883
+      ],
+      "text": "ing filled with a purpose to do something,",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        743,
+        857,
+        1250,
+        881
+      ],
+      "text": "if we had a silent pur ther named Roths-",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        77,
+        883,
+        585,
+        908
+      ],
+      "text": "they decided then and there to do it.",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        744,
+        886,
+        1253,
+        908
+      ],
+      "text": "child. And how well have we succeeded?",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        77,
+        911,
+        586,
+        937
+      ],
+      "text": "One of the number present happened to",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        743,
+        914,
+        1195,
+        939
+      ],
+      "text": "Let's consult our books at this point.",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        76,
+        939,
+        585,
+        964
+      ],
+      "text": "know of a suitable place that could be se-",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        770,
+        941,
+        1251,
+        967
+      ],
+      "text": "\"The day we opened our doors for bu-",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        77,
+        965,
+        504,
+        989
+      ],
+      "text": "cured at once for our business.",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        743,
+        970,
+        1254,
+        995
+      ],
+      "text": "siness, our authorized capital stock was",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        539,
+        972,
+        585,
+        988
+      ],
+      "text": "We",
+      "confidence": 0.9747
+    }
+  ]
+}

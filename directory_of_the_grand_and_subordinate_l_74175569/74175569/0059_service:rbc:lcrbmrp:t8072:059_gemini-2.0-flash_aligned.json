@@ -1,0 +1,396 @@
+{
+  "image": "0059_service:rbc:lcrbmrp:t8072:059.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059",
+  "canvas_width": 1880,
+  "canvas_height": 3002,
+  "surya_median_confidence": 0.9892,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        296,
+        381,
+        657,
+        420
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=296,381,361,39",
+      "confidence": "line",
+      "gemini_text": "Albert Xander.",
+      "surya_confidence": 0.9881
+    },
+    {
+      "bbox": [
+        692,
+        445,
+        1272,
+        487
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=692,445,580,42",
+      "confidence": "line",
+      "gemini_text": "XANDER & PLUGGE, A. H. Plugge.",
+      "surya_confidence": 0.9377
+    },
+    {
+      "bbox": [
+        681,
+        512,
+        1272,
+        556
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=681,512,591,44",
+      "confidence": "line",
+      "gemini_text": "Importers and Dealers in",
+      "surya_confidence": 0.9678
+    },
+    {
+      "bbox": [
+        540,
+        560,
+        1412,
+        618
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=540,560,872,58",
+      "confidence": "line",
+      "gemini_text": "WINES, LIQUORS, CIGARS &c.,",
+      "surya_confidence": 0.9795
+    },
+    {
+      "bbox": [
+        279,
+        640,
+        1518,
+        695
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=279,640,1239,55",
+      "confidence": "line",
+      "gemini_text": "1317 Seventh Street, N. W., Washington, D. C.",
+      "surya_confidence": 0.9892
+    },
+    {
+      "bbox": [
+        787,
+        716,
+        1155,
+        756
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=787,716,368,40",
+      "confidence": "line",
+      "gemini_text": "Telephone 2055.",
+      "surya_confidence": 0.9944
+    },
+    {
+      "bbox": [
+        426,
+        788,
+        1522,
+        844
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=426,788,1096,56",
+      "confidence": "line",
+      "gemini_text": "BESSLER'S HOTEL AND RESTAURANT.",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        296,
+        869,
+        901,
+        918
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=296,869,605,49",
+      "confidence": "line",
+      "gemini_text": "922 Pennsylvania Avenue, Washington, D. C.",
+      "surya_confidence": 0.996
+    },
+    {
+      "bbox": [
+        627,
+        954,
+        1302,
+        998
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=627,954,675,44",
+      "confidence": "line",
+      "gemini_text": "Bessler's Famous 15c Lunch.",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        679,
+        1033,
+        1246,
+        1081
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=679,1033,567,48",
+      "confidence": "line",
+      "gemini_text": "Oysters In Every Style.",
+      "surya_confidence": 0.9769
+    },
+    {
+      "bbox": [
+        641,
+        1111,
+        1285,
+        1160
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=641,1111,644,49",
+      "confidence": "line",
+      "gemini_text": "Geo. J. Bessler, Proprietor.",
+      "surya_confidence": 0.9976
+    },
+    {
+      "bbox": [
+        735,
+        1189,
+        1200,
+        1229
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=735,1189,465,40",
+      "confidence": "line",
+      "gemini_text": "BROWN'S CAFE.",
+      "surya_confidence": 0.9634
+    },
+    {
+      "bbox": [
+        644,
+        1279,
+        1282,
+        1327
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=644,1279,638,48",
+      "confidence": "line",
+      "gemini_text": "1530 12th Street, Northwest.",
+      "surya_confidence": 0.9958
+    },
+    {
+      "bbox": [
+        572,
+        1356,
+        1358,
+        1404
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=572,1356,786,48",
+      "confidence": "line",
+      "gemini_text": "-MEALS AT ALL HOURS-",
+      "surya_confidence": 0.9661
+    },
+    {
+      "bbox": [
+        288,
+        1441,
+        1002,
+        1490
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=288,1441,714,49",
+      "confidence": "line",
+      "gemini_text": "All the delicacies of the season.",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        795,
+        1543,
+        1634,
+        1589
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=795,1543,839,46",
+      "confidence": "line",
+      "gemini_text": "Ladies and Gents' Parlors upstairs.",
+      "surya_confidence": 0.9927
+    },
+    {
+      "bbox": [
+        630,
+        1653,
+        1297,
+        1704
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=630,1653,667,51",
+      "confidence": "line",
+      "gemini_text": "THORNTON S. ROUNDS,",
+      "surya_confidence": 0.9668
+    },
+    {
+      "bbox": [
+        510,
+        1747,
+        1413,
+        1791
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=510,1747,903,44",
+      "confidence": "line",
+      "gemini_text": "GROCERIES AND CONFECTIONS,",
+      "surya_confidence": 0.9457
+    },
+    {
+      "bbox": [
+        279,
+        1829,
+        776,
+        1880
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=279,1829,497,51",
+      "confidence": "line",
+      "gemini_text": "Cigars and Tobaccos. Wood and Coal",
+      "surya_confidence": 0.9815
+    },
+    {
+      "bbox": [
+        660,
+        1928,
+        1252,
+        1970
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=660,1928,592,42",
+      "confidence": "line",
+      "gemini_text": "2616 P Street, Northwest.",
+      "surya_confidence": 0.978
+    },
+    {
+      "bbox": [
+        672,
+        2026,
+        1225,
+        2063
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=672,2026,553,37",
+      "confidence": "line",
+      "gemini_text": "GO TO SCHNEIDER,",
+      "surya_confidence": 0.9849
+    },
+    {
+      "bbox": [
+        391,
+        2073,
+        1518,
+        2121
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=391,2073,1127,48",
+      "confidence": "line",
+      "gemini_text": "THE ORIGINATOR OF THE CRAB FEAST.",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        671,
+        2134,
+        1228,
+        2178
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=671,2134,557,44",
+      "confidence": "line",
+      "gemini_text": "8th and L Streets, S. E.",
+      "surya_confidence": 0.9951
+    },
+    {
+      "bbox": [
+        320,
+        2184,
+        1626,
+        2241
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=320,2184,1306,57",
+      "confidence": "line",
+      "gemini_text": "Only Select Male Lynnhaven Bay Crabs Served. Soft",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        276,
+        2226,
+        1626,
+        2286
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=276,2226,1350,60",
+      "confidence": "line",
+      "gemini_text": "Shell and Deviled Crabs. Spring Chicken and All Sea",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        275,
+        2274,
+        1623,
+        2329
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=275,2274,1348,55",
+      "confidence": "line",
+      "gemini_text": "Food Delicacies. Take Your Ladies. Everything Strictly",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        271,
+        2318,
+        1260,
+        2370
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=271,2318,989,52",
+      "confidence": "line",
+      "gemini_text": "First Class. Take open car to Navy Yard.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        742,
+        2412,
+        1146,
+        2449
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=742,2412,404,37",
+      "confidence": "line",
+      "gemini_text": "C. B. HUNTER,",
+      "surya_confidence": 0.9844
+    },
+    {
+      "bbox": [
+        629,
+        2473,
+        1266,
+        2515
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=629,2473,637,42",
+      "confidence": "line",
+      "gemini_text": "Dealer in Finest Grades of",
+      "surya_confidence": 0.9524
+    },
+    {
+      "bbox": [
+        503,
+        2538,
+        1377,
+        2587
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=503,2538,874,49",
+      "confidence": "line",
+      "gemini_text": "FRESH MEATS AND PRODUCE.",
+      "surya_confidence": 0.9678
+    },
+    {
+      "bbox": [
+        268,
+        2604,
+        1620,
+        2663
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=268,2604,1352,59",
+      "confidence": "line",
+      "gemini_text": "Fish and Game In Season. Dressed Poultry a Specialty",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        616,
+        2691,
+        1280,
+        2733
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:059#xywh=616,2691,664,42",
+      "confidence": "line",
+      "gemini_text": "1351 32nd Street, Northwest.",
+      "surya_confidence": 0.9995
+    }
+  ],
+  "unmatched_gemini": []
+}

@@ -1,0 +1,519 @@
+{
+  "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "section_title": "Heroines of Jericho",
+    "organization_name": "Datcher Court, No. 3, Heroines of Jericho"
+  },
+  "page_context": {
+    "section_title": "Corrections, Additions, Etc.",
+    "organization_name": null
+  },
+  "entries": [
+    {
+      "name": "Alexander, William T.",
+      "masonic_codes": "9",
+      "lodge": "Pythagoras",
+      "address": "Station \"G\" City",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=430,543,1043,52",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Andrews, Willie B.",
+      "masonic_codes": "1",
+      "lodge": "Social",
+      "address": "77 L nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=436,594,729,42",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Armistead, H. M.",
+      "masonic_codes": "1-7, 32d G",
+      "lodge": "Social",
+      "chapter": "St. John's",
+      "rank": "Past Master",
+      "address": "1320 12th ne",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=436,635,951,47",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Arnett, Charles D.",
+      "masonic_codes": "7",
+      "lodge": "Warren",
+      "address": "1302 22d nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=436,681,787,47",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Arrington, George",
+      "masonic_codes": "5-7-4, S",
+      "lodge": "Eureka",
+      "chapter": "St. John's",
+      "commandery": "Mt. Calvary",
+      "rank": "Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "1233 9th nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=436,725,928,48",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Asbury, C. W.",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "Pension Office",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=435,769,753,49",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Becks, Simuel",
+      "masonic_codes": "7, G",
+      "lodge": "Warren",
+      "rank": "Past Master",
+      "address": "71 Defrees st nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=431,810,868,54",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Berkeley, W. E.",
+      "masonic_codes": "10",
+      "lodge": "John F. Cook",
+      "address": "1340 13th nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=434,856,776,52",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Beverly, Robert H.",
+      "masonic_codes": "1-5",
+      "lodge": "Social",
+      "chapter": "Prince Hall",
+      "address": "1908 10th nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=432,903,848,47",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Blakey. Rufus",
+      "masonic_codes": "12",
+      "lodge": "St. John's",
+      "address": "631 N nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=433,949,647,46",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Boggins, Frank K",
+      "masonic_codes": "3",
+      "lodge": "Widow's Son",
+      "address": "406 1st sw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=436,995,729,44",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Bowie, David",
+      "masonic_codes": "6",
+      "lodge": "Meridian",
+      "address": "916 21st nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=435,1039,661,46",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Bowie, W. A.",
+      "masonic_codes": "3, S",
+      "lodge": "Widow's Son",
+      "rank": "Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "1642 10th nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=435,1081,744,49",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Boyd, Isaiah T.",
+      "masonic_codes": "9-11",
+      "lodge": "Pythagoras",
+      "chapter": "Keystone",
+      "address": "1624 11 nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=435,1127,753,47",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Braxton, Edward",
+      "masonic_codes": "4",
+      "lodge": "Hiram",
+      "address": "1415 27 nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=435,1170,735,49",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Brooks, Major Arthur",
+      "masonic_codes": "10-7-3",
+      "lodge": "John F. Cook",
+      "chapter": "St. John's",
+      "commandery": "Gethsemane",
+      "address": "2212 12 nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=436,1210,931,58",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Brooks, James E.",
+      "masonic_codes": "7",
+      "lodge": "Warren",
+      "address": "Burks Station, Va.",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=436,1258,918,52",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Brooks, Phil Broome",
+      "masonic_codes": "9, S",
+      "lodge": "Pythagoras",
+      "rank": "Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "318 3d sw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=432,1304,845,48",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Browne, J. R. F.",
+      "masonic_codes": "14",
+      "lodge": "Prince Hall",
+      "address": "1107 19th nw.",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=436,1351,786,46",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Bush, A. M.",
+      "address": "2100 M nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=436,1400,559,39",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Butler, J. M.",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "816 13 ne",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=436,1440,601,47",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Butler, O. N.",
+      "masonic_codes": "4",
+      "lodge": "Hiram",
+      "address": "2708 Onw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=436,1486,645,44",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Cardozo, Francis L.",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "1811 13 st nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=438,1527,833,49",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Carter, James H",
+      "masonic_codes": "15",
+      "lodge": "Chas. Datcher",
+      "address": "816 3 se",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=439,1574,664,46",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Carter, John",
+      "masonic_codes": "4",
+      "lodge": "Hiram",
+      "address": "2540 15th nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=439,1618,668,47",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Chestnut, Olin",
+      "masonic_codes": "6",
+      "lodge": "Meridian",
+      "address": "303 L nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=441,1663,637,46",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Cole, George",
+      "masonic_codes": "1",
+      "lodge": "Social",
+      "address": "2016 Lnw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=442,1708,604,46",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Coleman, A. B.",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "416 Elm nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=442,1750,705,49",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Conn, R. T.",
+      "masonic_codes": "3",
+      "lodge": "Widow's Son",
+      "address": "502 E nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=442,1796,569,49",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Cook, Wm. H.",
+      "masonic_codes": "7",
+      "lodge": "Warren",
+      "address": "926 24 nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=442,1843,625,44",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Conway, Ewell L.",
+      "masonic_codes": "7",
+      "lodge": "Warren",
+      "address": "6 Hanover nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=441,1884,824,47",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Countee, Chas. E.",
+      "masonic_codes": "6",
+      "lodge": "Meridian",
+      "address": "38 Patterson ne",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=440,1931,866,42",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Cox, George H.",
+      "masonic_codes": "1",
+      "lodge": "Social",
+      "address": "1511 Madison nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=442,1975,818,46",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Craig, J. E.",
+      "masonic_codes": "15",
+      "lodge": "Chas. Datcher",
+      "address": "311 L nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=442,2022,598,44",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Crutchfield, Robert H.",
+      "masonic_codes": "3",
+      "lodge": "Widow's Son",
+      "address": "432 I nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=441,2066,795,44",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Davis, George",
+      "masonic_codes": "12",
+      "lodge": "St. John's",
+      "address": "308 12 nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=441,2109,654,47",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Davis, H. J.",
+      "masonic_codes": "5-7-1, G",
+      "lodge": "Eureka",
+      "chapter": "St. John's",
+      "commandery": "Simon",
+      "rank": "Past Master",
+      "address": "828 12 st ne",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=441,2151,774,50",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Davis, Lemuel R.",
+      "masonic_codes": "9",
+      "lodge": "Pythagoras",
+      "address": "Bureau of E and P",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=438,2194,919,52",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Deans, Allen L.",
+      "masonic_codes": "12",
+      "lodge": "St. John's",
+      "address": "325 T nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=441,2242,685,48",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Dorsey, Edward A.",
+      "masonic_codes": "1",
+      "lodge": "Social",
+      "address": "414 Cedar Court sw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=441,2283,1001,51",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Dorster, Edwin T.",
+      "masonic_codes": "9",
+      "lodge": "Pythagoras",
+      "address": "1205 T nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=443,2332,753,44",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Duffin, Fannie",
+      "address": "1123 23 nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=441,2376,613,46",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Evans, Chas. A.",
+      "masonic_codes": "9-11-2, S",
+      "lodge": "Pythagoras",
+      "chapter": "Keystone",
+      "commandery": "Henderson",
+      "rank": "Mecca Temple, A.E.AO.N. Mystic Shrine",
+      "address": "704 E nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=441,2418,865,49",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Evans, Sarah E. C.",
+      "address": "406 1st sw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=439,2464,716,47",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Evans, W. Bruce",
+      "masonic_codes": "1",
+      "lodge": "Social",
+      "address": "1910 Vt, ave nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=441,2508,827,47",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Foley, Robert",
+      "masonic_codes": "7",
+      "lodge": "Warren",
+      "address": "1623 10 nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=438,2552,649,48",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Freeman, Chas D.",
+      "masonic_codes": "1-5-1, 32 C-K-S",
+      "lodge": "Social",
+      "chapter": "Prince Hall",
+      "commandery": "Simon",
+      "rank": "Consistory of Scottish Rite Masons, Past Senior Grand Warden, Past Grand King, Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "1609 4 nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=435,2593,1048,54",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Fleetwood, Chr. A",
+      "masonic_codes": "O",
+      "address": "1419 Pierce Place, nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=435,2640,1047,51",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    },
+    {
+      "name": "Gooden, J. W.",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "1112 K nw",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:130#xywh=441,2688,642,47",
+      "image": "0130_service:rbc:lcrbmrp:t8072:130.jpg"
+    }
+  ]
+}

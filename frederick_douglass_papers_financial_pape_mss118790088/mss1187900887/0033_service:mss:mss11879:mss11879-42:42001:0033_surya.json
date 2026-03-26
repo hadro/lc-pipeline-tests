@@ -1,0 +1,226 @@
+{
+  "image_width": 1621,
+  "image_height": 1381,
+  "lines": [
+    {
+      "bbox": [
+        975,
+        83,
+        1474,
+        207
+      ],
+      "text": "Morrish of Columbia",
+      "confidence": 0.859
+    },
+    {
+      "bbox": [
+        976,
+        194,
+        1506,
+        304
+      ],
+      "text": "Dr Gran Ewelve hundred",
+      "confidence": 0.873
+    },
+    {
+      "bbox": [
+        984,
+        285,
+        1321,
+        435
+      ],
+      "text": "Mr Feiler",
+      "confidence": 0.9071
+    },
+    {
+      "bbox": [
+        1390,
+        315,
+        1472,
+        352
+      ],
+      "text": "1200",
+      "confidence": 0.8556
+    },
+    {
+      "bbox": [
+        1395,
+        368,
+        1467,
+        395
+      ],
+      "text": "1000",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        982,
+        394,
+        1339,
+        454
+      ],
+      "text": "Chas. R. Douglass_",
+      "confidence": 0.9839
+    },
+    {
+      "bbox": [
+        1391,
+        418,
+        1468,
+        447
+      ],
+      "text": "1300",
+      "confidence": 0.984
+    },
+    {
+      "bbox": [
+        977,
+        452,
+        1341,
+        507
+      ],
+      "text": "Deed of trust Cook",
+      "confidence": 0.9765
+    },
+    {
+      "bbox": [
+        1384,
+        466,
+        1471,
+        499
+      ],
+      "text": "5000",
+      "confidence": 0.9893
+    },
+    {
+      "bbox": [
+        985,
+        503,
+        1355,
+        565
+      ],
+      "text": "Deed of Trush Cook",
+      "confidence": 0.6949
+    },
+    {
+      "bbox": [
+        1384,
+        512,
+        1475,
+        549
+      ],
+      "text": "2000",
+      "confidence": 0.9852
+    },
+    {
+      "bbox": [
+        970,
+        549,
+        1305,
+        608
+      ],
+      "text": "Emily Johnson",
+      "confidence": 0.7101
+    },
+    {
+      "bbox": [
+        1403,
+        566,
+        1479,
+        599
+      ],
+      "text": "80",
+      "confidence": 0.983
+    },
+    {
+      "bbox": [
+        962,
+        597,
+        1340,
+        668
+      ],
+      "text": "Lewis H. Douglass.",
+      "confidence": 0.9792
+    },
+    {
+      "bbox": [
+        1392,
+        618,
+        1469,
+        651
+      ],
+      "text": "1.500",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        1153,
+        654,
+        1222,
+        714
+      ],
+      "text": "Do",
+      "confidence": 0.8997
+    },
+    {
+      "bbox": [
+        967,
+        656,
+        1162,
+        707
+      ],
+      "text": "Fred!",
+      "confidence": 0.7835
+    },
+    {
+      "bbox": [
+        1396,
+        668,
+        1471,
+        701
+      ],
+      "text": "1000",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        968,
+        707,
+        1231,
+        753
+      ],
+      "text": "Chas. Do",
+      "confidence": 0.9714
+    },
+    {
+      "bbox": [
+        1396,
+        718,
+        1472,
+        746
+      ],
+      "text": "100",
+      "confidence": 0.9795
+    },
+    {
+      "bbox": [
+        967,
+        748,
+        1360,
+        812
+      ],
+      "text": "Deposite ant Bank",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        1387,
+        765,
+        1472,
+        804
+      ],
+      "text": "2,80",
+      "confidence": 0.6234
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "image": "0011_service:mss:mss11879:mss11879-42:42001:0011.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0011",
+  "canvas_width": 1637,
+  "canvas_height": 918,
+  "surya_median_confidence": 0.9104,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        68,
+        289,
+        88,
+        452
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0011#xywh=68,289,20,163",
+      "confidence": "line",
+      "gemini_text": "2 £10,,0,,0 Sterling Washington, D.C. Jany 9th 1893.",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        70,
+        585,
+        85,
+        610
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0011#xywh=70,585,15,25",
+      "confidence": "line",
+      "gemini_text": "On Demand of this SECOND",
+      "surya_confidence": 0.4192
+    },
+    {
+      "bbox": [
+        512,
+        122,
+        698,
+        191
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0011#xywh=512,122,186,69",
+      "confidence": "line",
+      "gemini_text": "Ten pounds STERLING",
+      "surya_confidence": 0.6524
+    },
+    {
+      "bbox": [
+        1185,
+        121,
+        1318,
+        181
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0011#xywh=1185,121,133,60",
+      "confidence": "line",
+      "gemini_text": "To Messrs J. S. Morgan & Co. Riggs & Co.",
+      "surya_confidence": 0.9904
+    },
+    {
+      "bbox": [
+        1178,
+        539,
+        1285,
+        596
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0011#xywh=1178,539,107,57",
+      "confidence": "line",
+      "gemini_text": "London.",
+      "surya_confidence": 0.8417
+    }
+  ],
+  "unmatched_gemini": [
+    "of Exchange (First unpaid,) Pay to the order of",
+    "Julia G. Crofts",
+    "Value received and charge the same as advised"
+  ]
+}

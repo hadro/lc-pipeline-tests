@@ -1,0 +1,226 @@
+{
+  "image_width": 1833,
+  "image_height": 2925,
+  "lines": [
+    {
+      "bbox": [
+        264,
+        607,
+        1355,
+        712
+      ],
+      "text": "SEALS! SEALS!",
+      "confidence": 0.9845
+    },
+    {
+      "bbox": [
+        130,
+        738,
+        1483,
+        799
+      ],
+      "text": "We manufacture Seals of all descriptions, for Lodges,",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        641,
+        810,
+        965,
+        859
+      ],
+      "text": "Societies, Etc.",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        252,
+        892,
+        1367,
+        955
+      ],
+      "text": "Also Headquarters for Rubber Stamps, Stencils,",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        353,
+        960,
+        1257,
+        1021
+      ],
+      "text": "Inking Pads, Badges, Metal Signs, &c.",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        200,
+        1137,
+        1405,
+        1206
+      ],
+      "text": "HERMAN BAUMGARTEN,",
+      "confidence": 0.9663
+    },
+    {
+      "bbox": [
+        490,
+        1263,
+        1115,
+        1312
+      ],
+      "text": "Note New Address:",
+      "confidence": 0.7748
+    },
+    {
+      "bbox": [
+        128,
+        1351,
+        1479,
+        1424
+      ],
+      "text": "414 10TH ST. N. W. PHONE, MAIN 3933.",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        263,
+        1439,
+        1347,
+        1500
+      ],
+      "text": "No connection with any other firm in the city.",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        754,
+        1549,
+        1470,
+        1655
+      ],
+      "text": "NOTICE!",
+      "confidence": 0.9563
+    },
+    {
+      "bbox": [
+        806,
+        1920,
+        1361,
+        2026
+      ],
+      "text": "30 Years' Experience.",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        180,
+        2066,
+        1475,
+        2123
+      ],
+      "text": "All kinds of Sewing Machines can be Repaired, Cleaned",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        126,
+        2129,
+        1477,
+        2193
+      ],
+      "text": "and Adjusted. Old Machines taken in Exchange in part",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        127,
+        2198,
+        1475,
+        2257
+      ],
+      "text": "payment for a New One. All machines repaired by me",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        127,
+        2265,
+        1475,
+        2324
+      ],
+      "text": "are Warranted, and if I cannot make them give satisfaction",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        126,
+        2332,
+        1262,
+        2388
+      ],
+      "text": "within Thirty Days, the money will be returned.",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        179,
+        2405,
+        1475,
+        2447
+      ],
+      "text": "Copy the Address on your machine drawer, and when your ma-",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        124,
+        2438,
+        1474,
+        2482
+      ],
+      "text": "chine needs Cleaning or Repairing, I will be pleased to have you give",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        126,
+        2473,
+        1167,
+        2511
+      ],
+      "text": "me a call. All orders by mail promptly attended to.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        329,
+        2535,
+        1288,
+        2611
+      ],
+      "text": "CHAS. STEVENSON,",
+      "confidence": 0.9777
+    },
+    {
+      "bbox": [
+        127,
+        2613,
+        1470,
+        2681
+      ],
+      "text": "1612 11th St. N. W. Washington, D. C.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        775,
+        2692,
+        832,
+        2725
+      ],
+      "text": "18",
+      "confidence": 0.9836
+    }
+  ]
+}

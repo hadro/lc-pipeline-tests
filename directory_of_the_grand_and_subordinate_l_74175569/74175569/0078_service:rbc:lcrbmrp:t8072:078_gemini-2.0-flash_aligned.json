@@ -1,0 +1,242 @@
+{
+  "image": "0078_service:rbc:lcrbmrp:t8072:078.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:078",
+  "canvas_width": 1822,
+  "canvas_height": 2989,
+  "surya_median_confidence": 0.9921,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        578,
+        588,
+        1296,
+        632
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:078#xywh=578,588,718,44",
+      "confidence": "line",
+      "gemini_text": "OFFICERS AND MEMBERS",
+      "surya_confidence": 0.895
+    },
+    {
+      "bbox": [
+        365,
+        762,
+        1516,
+        842
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:078#xywh=365,762,1151,80",
+      "confidence": "line",
+      "gemini_text": "Datcher Court, No. 3, Heroines of Jericho,",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        679,
+        878,
+        1189,
+        924
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:078#xywh=679,878,510,46",
+      "confidence": "line",
+      "gemini_text": "Meets First Tuesday.",
+      "surya_confidence": 0.9934
+    },
+    {
+      "bbox": [
+        268,
+        1050,
+        1613,
+        1108
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:078#xywh=268,1050,1345,58",
+      "confidence": "line",
+      "gemini_text": "Ella Freeman...................................Most Ancient Matron",
+      "surya_confidence": 0.995
+    },
+    {
+      "bbox": [
+        269,
+        1135,
+        1612,
+        1210
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:078#xywh=269,1135,1343,75",
+      "confidence": "line",
+      "gemini_text": "Rebecca Taylor .................................................S. M.",
+      "surya_confidence": 0.9921
+    },
+    {
+      "bbox": [
+        268,
+        1231,
+        1614,
+        1289
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:078#xywh=268,1231,1346,58",
+      "confidence": "line",
+      "gemini_text": "James O. Bampfield...................................M. W. F. J.",
+      "surya_confidence": 0.9951
+    },
+    {
+      "bbox": [
+        265,
+        1316,
+        1614,
+        1377
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:078#xywh=265,1316,1349,61",
+      "confidence": "line",
+      "gemini_text": "Martha A. Weatherless .................................Treasurer",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        265,
+        1410,
+        1608,
+        1463
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:078#xywh=265,1410,1343,53",
+      "confidence": "line",
+      "gemini_text": "Mary Ida Miller..................Secretary, 321 Oak, N. W.",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        269,
+        1497,
+        1613,
+        1552
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:078#xywh=269,1497,1344,55",
+      "confidence": "line",
+      "gemini_text": "Richard H. Gleaves ....................................1st C. D.",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        268,
+        1588,
+        1614,
+        1645
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:078#xywh=268,1588,1346,57",
+      "confidence": "line",
+      "gemini_text": "O. T. Taylor................................................2d C. D.",
+      "surya_confidence": 0.9699
+    },
+    {
+      "bbox": [
+        268,
+        1677,
+        1613,
+        1736
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:078#xywh=268,1677,1345,59",
+      "confidence": "line",
+      "gemini_text": "Henry Coleman.............................................3d C. D.",
+      "surya_confidence": 0.9893
+    },
+    {
+      "bbox": [
+        267,
+        1764,
+        1611,
+        1827
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:078#xywh=267,1764,1344,63",
+      "confidence": "line",
+      "gemini_text": "Edith Burless ...............................................I. G. K.",
+      "surya_confidence": 0.997
+    },
+    {
+      "bbox": [
+        268,
+        1856,
+        1608,
+        1909
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:078#xywh=268,1856,1340,53",
+      "confidence": "line",
+      "gemini_text": "Clara Davis................................................O. G. K.",
+      "surya_confidence": 0.9841
+    },
+    {
+      "bbox": [
+        706,
+        2131,
+        1175,
+        2168
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:078#xywh=706,2131,469,37",
+      "confidence": "line",
+      "gemini_text": "PAST OFFICERS.",
+      "surya_confidence": 0.9781
+    },
+    {
+      "bbox": [
+        268,
+        2210,
+        1613,
+        2273
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:078#xywh=268,2210,1345,63",
+      "confidence": "line",
+      "gemini_text": "Nellie E. Morgan...................................P. M. A. M.",
+      "surya_confidence": 0.9921
+    },
+    {
+      "bbox": [
+        267,
+        2299,
+        1355,
+        2371
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:078#xywh=267,2299,1088,72",
+      "confidence": "line",
+      "gemini_text": "Mary Alice Parker........................................“ “",
+      "surya_confidence": 0.9928
+    },
+    {
+      "bbox": [
+        258,
+        2404,
+        1339,
+        2441
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:078#xywh=258,2404,1081,37",
+      "confidence": "line",
+      "gemini_text": "Annie Robinson.............................................“ “",
+      "surya_confidence": 0.5033
+    },
+    {
+      "bbox": [
+        268,
+        2488,
+        1339,
+        2537
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:078#xywh=268,2488,1071,49",
+      "confidence": "line",
+      "gemini_text": "Francis A. Severson........................................“ “",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        446,
+        2712,
+        1619,
+        2793
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:078#xywh=446,2712,1173,81",
+      "confidence": "line",
+      "gemini_text": "69",
+      "surya_confidence": 0.7046
+    }
+  ],
+  "unmatched_gemini": [
+    "OF"
+  ]
+}

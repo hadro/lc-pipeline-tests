@@ -1,0 +1,1087 @@
+{
+  "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "vessel_identity": "1st Class Sloop",
+    "section_title": "Tacking & Wearing",
+    "subsection": "General"
+  },
+  "page_context": {
+    "vessel_identity": "Frigate",
+    "section_title": "Watch-bill",
+    "subsection": "Forecastle"
+  },
+  "entries": [
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "Capt",
+      "value": "1",
+      "details": "Port Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "Cox",
+      "value": "1",
+      "details": "Port Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "Seamen",
+      "value": "6",
+      "details": "Port Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "OS",
+      "value": "6",
+      "details": "Port Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "Land",
+      "value": "1",
+      "details": "Port Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "Capt",
+      "value": "1",
+      "details": "Port Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "Sea",
+      "value": "7",
+      "details": "Port Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "OS",
+      "value": "6",
+      "details": "Port Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "Land",
+      "value": "1",
+      "details": "Port Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "Capt",
+      "value": "1",
+      "details": "Starboard Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "Cox",
+      "value": "1",
+      "details": "Starboard Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "Sea",
+      "value": "6",
+      "details": "Starboard Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "OS",
+      "value": "6",
+      "details": "Starboard Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "Land",
+      "value": "1",
+      "details": "Starboard Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "Capt",
+      "value": "1",
+      "details": "Starboard Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "Sea",
+      "value": "7",
+      "details": "Starboard Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "OS",
+      "value": "6",
+      "details": "Starboard Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "Land",
+      "value": "1",
+      "details": "Starboard Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Mastmen",
+      "item_label": "Seamen",
+      "value": "4",
+      "details": "2 in each watch, 1 in each part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Topmen",
+      "item_label": "Capt",
+      "value": "1",
+      "details": "Port Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Topmen",
+      "item_label": "Sea",
+      "value": "5",
+      "details": "Port Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Topmen",
+      "item_label": "OS",
+      "value": "6",
+      "details": "Port Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Topmen",
+      "item_label": "Boys",
+      "value": "2",
+      "details": "Port Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Topmen",
+      "item_label": "Cox",
+      "value": "1",
+      "details": "Port Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Topmen",
+      "item_label": "Sea",
+      "value": "6",
+      "details": "Port Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Topmen",
+      "item_label": "OS",
+      "value": "5",
+      "details": "Port Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Topmen",
+      "item_label": "Boys",
+      "value": "2",
+      "details": "Port Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Topmen",
+      "item_label": "Capt",
+      "value": "1",
+      "details": "Starboard Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Topmen",
+      "item_label": "Sea",
+      "value": "5",
+      "details": "Starboard Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Topmen",
+      "item_label": "OS",
+      "value": "6",
+      "details": "Starboard Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Topmen",
+      "item_label": "Boys",
+      "value": "2",
+      "details": "Starboard Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Topmen",
+      "item_label": "Cox",
+      "value": "1",
+      "details": "Starboard Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Topmen",
+      "item_label": "Sea",
+      "value": "6",
+      "details": "Starboard Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Topmen",
+      "item_label": "OS",
+      "value": "5",
+      "details": "Starboard Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Topmen",
+      "item_label": "Boys",
+      "value": "2",
+      "details": "Starboard Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Main Topmen",
+      "item_label": "Capt",
+      "value": "1",
+      "details": "Port Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Main Topmen",
+      "item_label": "Sea",
+      "value": "6",
+      "details": "Port Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Main Topmen",
+      "item_label": "OS",
+      "value": "6",
+      "details": "Port Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Main Topmen",
+      "item_label": "Boys",
+      "value": "2",
+      "details": "Port Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Main Topmen",
+      "item_label": "Cox",
+      "value": "1",
+      "details": "Port Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Main Topmen",
+      "item_label": "Sea",
+      "value": "6",
+      "details": "Port Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Main Topmen",
+      "item_label": "OS",
+      "value": "6",
+      "details": "Port Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Main Topmen",
+      "item_label": "Boys",
+      "value": "2",
+      "details": "Port Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Main Topmen",
+      "item_label": "Capt",
+      "value": "1",
+      "details": "Starboard Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Main Topmen",
+      "item_label": "Sea",
+      "value": "6",
+      "details": "Starboard Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Main Topmen",
+      "item_label": "OS",
+      "value": "6",
+      "details": "Starboard Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Main Topmen",
+      "item_label": "Boys",
+      "value": "2",
+      "details": "Starboard Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Main Topmen",
+      "item_label": "Cox",
+      "value": "1",
+      "details": "Starboard Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Main Topmen",
+      "item_label": "Sea",
+      "value": "6",
+      "details": "Starboard Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Main Topmen",
+      "item_label": "OS",
+      "value": "6",
+      "details": "Starboard Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Main Topmen",
+      "item_label": "Boys",
+      "value": "2",
+      "details": "Starboard Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Main Mastmen",
+      "item_label": "Main Mastmen",
+      "value": "Same as Fore Mastmen",
+      "details": "Number, rate, and disposition",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Mizen Topmen",
+      "item_label": "Capt",
+      "value": "1",
+      "details": "Port Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Mizen Topmen",
+      "item_label": "Sea",
+      "value": "3",
+      "details": "Port Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Mizen Topmen",
+      "item_label": "OS",
+      "value": "4",
+      "details": "Port Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Mizen Topmen",
+      "item_label": "Boys",
+      "value": "2",
+      "details": "Port Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Mizen Topmen",
+      "item_label": "Cox",
+      "value": "1",
+      "details": "Port Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Mizen Topmen",
+      "item_label": "Sea",
+      "value": "3",
+      "details": "Port Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Mizen Topmen",
+      "item_label": "OS",
+      "value": "4",
+      "details": "Port Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Mizen Topmen",
+      "item_label": "Boys",
+      "value": "2",
+      "details": "Port Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Mizen Topmen",
+      "item_label": "Capt",
+      "value": "1",
+      "details": "Starboard Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Mizen Topmen",
+      "item_label": "Sea",
+      "value": "3",
+      "details": "Starboard Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Mizen Topmen",
+      "item_label": "OS",
+      "value": "4",
+      "details": "Starboard Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Mizen Topmen",
+      "item_label": "Boys",
+      "value": "2",
+      "details": "Starboard Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Mizen Topmen",
+      "item_label": "Cox",
+      "value": "1",
+      "details": "Starboard Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Mizen Topmen",
+      "item_label": "Sea",
+      "value": "3",
+      "details": "Starboard Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Mizen Topmen",
+      "item_label": "OS",
+      "value": "4",
+      "details": "Starboard Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Mizen Topmen",
+      "item_label": "Boys",
+      "value": "2",
+      "details": "Starboard Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Mizen Mastmen",
+      "item_label": "Seaman",
+      "value": "2",
+      "details": "1 in the first part of each watch",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "After Guard",
+      "item_label": "Capt",
+      "value": "1",
+      "details": "Port Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "After Guard",
+      "item_label": "Sea",
+      "value": "1",
+      "details": "Port Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "After Guard",
+      "item_label": "OS",
+      "value": "6",
+      "details": "Port Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "After Guard",
+      "item_label": "Land",
+      "value": "19",
+      "details": "Port Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "After Guard",
+      "item_label": "Sea",
+      "value": "3",
+      "details": "Port Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "After Guard",
+      "item_label": "OS",
+      "value": "6",
+      "details": "Port Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "After Guard",
+      "item_label": "Land",
+      "value": "18",
+      "details": "Port Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "After Guard",
+      "item_label": "Capt",
+      "value": "1",
+      "details": "Starboard Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "After Guard",
+      "item_label": "Sea",
+      "value": "1",
+      "details": "Starboard Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "After Guard",
+      "item_label": "OS",
+      "value": "6",
+      "details": "Starboard Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "After Guard",
+      "item_label": "Land",
+      "value": "19",
+      "details": "Starboard Watch, 1st Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "After Guard",
+      "item_label": "Sea",
+      "value": "3",
+      "details": "Starboard Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "After Guard",
+      "item_label": "OS",
+      "value": "6",
+      "details": "Starboard Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "After Guard",
+      "item_label": "Land",
+      "value": "18",
+      "details": "Starboard Watch, 2d Part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Messenger & Sideboys",
+      "item_label": "Messenger & Sideboys",
+      "value": "10",
+      "details": "3 in 1st part of each watch, 2 in 2d part",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Messenger & Sideboys",
+      "item_label": "Boatswains mates",
+      "value": "4",
+      "details": "placed",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Messenger & Sideboys",
+      "item_label": "Masters",
+      "value": "1",
+      "details": "placed",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Messenger & Sideboys",
+      "item_label": "Gunners mates",
+      "value": "2",
+      "details": "placed",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Messenger & Sideboys",
+      "item_label": "Qr Gunners",
+      "value": "12",
+      "details": "placed",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Messenger & Sideboys",
+      "item_label": "Carp's mates",
+      "value": "2",
+      "details": "placed",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Messenger & Sideboys",
+      "item_label": "Sailmakers mates",
+      "value": "1",
+      "details": "placed",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Messenger & Sideboys",
+      "item_label": "Armorer",
+      "value": "1",
+      "details": "placed",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Messenger & Sideboys",
+      "item_label": "Cooper",
+      "value": "1",
+      "details": "placed",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Messenger & Sideboys",
+      "item_label": "Painter",
+      "value": "1",
+      "details": "placed",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers",
+      "item_label": "Yeo",
+      "value": "1",
+      "details": "Idlers",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers",
+      "item_label": "Ships Corporals",
+      "value": "2",
+      "details": "Idlers",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers",
+      "item_label": "Ships Steward",
+      "value": "1",
+      "details": "Idlers",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers",
+      "item_label": "Capts Stewd",
+      "value": "1",
+      "details": "Idlers",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers",
+      "item_label": "Capts Cooks",
+      "value": "2",
+      "details": "Idlers",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers",
+      "item_label": "Master Band",
+      "value": "1",
+      "details": "Idlers",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers",
+      "item_label": "Ward R Cook",
+      "value": "1",
+      "details": "Idlers",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers",
+      "item_label": "Master Arms",
+      "value": "1",
+      "details": "Idlers",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers",
+      "item_label": "Ships Cook",
+      "value": "1",
+      "details": "Idlers",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers",
+      "item_label": "W R Stewd",
+      "value": "1",
+      "details": "Idlers",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers",
+      "item_label": "Sergnt Stewd",
+      "value": "1",
+      "details": "Idlers",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers",
+      "item_label": "Capts Cook",
+      "value": "1",
+      "details": "Idlers",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers",
+      "item_label": "Bandsmen",
+      "value": "10",
+      "details": "Idlers",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    },
+    {
+      "vessel_identity": "Frigate",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers",
+      "item_label": "Sergt of Marines",
+      "value": "1",
+      "details": "Idlers",
+      "canvas_fragment": "",
+      "image": "0003_service:mss:mss23044:mss23044-022:01:0226.jpg"
+    }
+  ]
+}

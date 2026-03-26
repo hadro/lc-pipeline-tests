@@ -1,0 +1,196 @@
+{
+  "image_width": 890,
+  "image_height": 1374,
+  "lines": [
+    {
+      "bbox": [
+        163,
+        161,
+        741,
+        190
+      ],
+      "text": "Leave your Book for Settlement at least Once in",
+      "confidence": 0.9804
+    },
+    {
+      "bbox": [
+        370,
+        199,
+        540,
+        218
+      ],
+      "text": "Three Months.",
+      "confidence": 0.9467
+    },
+    {
+      "bbox": [
+        169,
+        235,
+        745,
+        262
+      ],
+      "text": "PLEASE AVOID FOLDING OR ROLLING THIS BOOK.",
+      "confidence": 0.9461
+    },
+    {
+      "bbox": [
+        162,
+        569,
+        744,
+        628
+      ],
+      "text": "The Washington Loan",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        281,
+        648,
+        630,
+        703
+      ],
+      "text": "and Trust Co.",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        326,
+        731,
+        582,
+        757
+      ],
+      "text": "WASHINGTON, D. C.",
+      "confidence": 0.7826
+    },
+    {
+      "bbox": [
+        399,
+        821,
+        509,
+        835
+      ],
+      "text": "OFFICERS.",
+      "confidence": 0.8955
+    },
+    {
+      "bbox": [
+        539,
+        845,
+        681,
+        862
+      ],
+      "text": "..... President,",
+      "confidence": 0.9193
+    },
+    {
+      "bbox": [
+        229,
+        847,
+        496,
+        863
+      ],
+      "text": "JOHN JOY EDSON .....",
+      "confidence": 0.9386
+    },
+    {
+      "bbox": [
+        230,
+        867,
+        683,
+        889
+      ],
+      "text": "JOHN A. SWOPE...... Vice-President,",
+      "confidence": 0.9548
+    },
+    {
+      "bbox": [
+        230,
+        888,
+        682,
+        910
+      ],
+      "text": "ELLIS SPEAR ..... Second Vice-President.",
+      "confidence": 0.9645
+    },
+    {
+      "bbox": [
+        230,
+        913,
+        508,
+        929
+      ],
+      "text": "ANDREW PARKER .....",
+      "confidence": 0.9821
+    },
+    {
+      "bbox": [
+        542,
+        913,
+        683,
+        927
+      ],
+      "text": "..... Treasurer.",
+      "confidence": 0.9442
+    },
+    {
+      "bbox": [
+        230,
+        934,
+        680,
+        954
+      ],
+      "text": "BRICE J. MOSES..... Assistant Treasurer.",
+      "confidence": 0.981
+    },
+    {
+      "bbox": [
+        230,
+        958,
+        680,
+        976
+      ],
+      "text": "THOMAS BRADLEY ...... Real Estate Officer.",
+      "confidence": 0.9476
+    },
+    {
+      "bbox": [
+        373,
+        1031,
+        536,
+        1048
+      ],
+      "text": "OFFICE HOURS.",
+      "confidence": 0.9047
+    },
+    {
+      "bbox": [
+        162,
+        1049,
+        747,
+        1150
+      ],
+      "text": "From 9 o'clock A. M. to 3 P. M. on all days not legal holidays, excepting on the First, Fifteenth and Last day of each month, when the office will be kept open, for the receipt of deposits only, until 4.30 P. M. but when t",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        204,
+        1143,
+        745,
+        1167
+      ],
+      "text": "Saturdays being legal half holidays, the office of this Company",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        165,
+        1164,
+        550,
+        1182
+      ],
+      "text": "will, under the law, close at 12 o'clock noon.",
+      "confidence": 0.9999
+    }
+  ]
+}

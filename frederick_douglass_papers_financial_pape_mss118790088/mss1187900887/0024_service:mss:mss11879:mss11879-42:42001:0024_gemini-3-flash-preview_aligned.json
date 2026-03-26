@@ -1,0 +1,180 @@
+{
+  "image": "0024_service:mss:mss11879:mss11879-42:42001:0024.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0024",
+  "canvas_width": 1472,
+  "canvas_height": 1267,
+  "surya_median_confidence": 0.996,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        135,
+        113,
+        635,
+        146
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0024#xywh=135,113,500,33",
+      "confidence": "line",
+      "gemini_text": "REGULATIONS CONCERNING DEPOSITS.",
+      "surya_confidence": 0.7366
+    },
+    {
+      "bbox": [
+        249,
+        158,
+        521,
+        177
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0024#xywh=249,158,272,19",
+      "confidence": "line",
+      "gemini_text": "[Extract from the By Laws.]",
+      "surya_confidence": 0.9636
+    },
+    {
+      "bbox": [
+        110,
+        221,
+        661,
+        250
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0024#xywh=110,221,551,29",
+      "confidence": "line",
+      "gemini_text": "SEC. 22. I.—The Bank shall be open daily, Sundays and holidays excepted, from 10 o'clock, a. m., to 4 o'clock, p m. On Saturdays the Bank shall be open from 6 to 8 o'clock, p. m., to receive deposits only.",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        110,
+        353,
+        663,
+        384
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0024#xywh=110,353,553,31",
+      "confidence": "line",
+      "gemini_text": "II.—Deposits of One Dollar or more may be received, either in specie, lawful money, or the equivalent of the latter.",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        112,
+        454,
+        665,
+        484
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0024#xywh=112,454,553,30",
+      "confidence": "line",
+      "gemini_text": "III.—On making the first deposit, each depositor shall be required to sign his name in the signature book of the Bank, thereby signifying assent to the By-Laws; and all additional By-Laws or alterations of the same shall be equally binding on depositors.",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        115,
+        655,
+        667,
+        683
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0024#xywh=115,655,552,28",
+      "confidence": "line",
+      "gemini_text": "IV.—Each depositor shall receive a deposit-book in which the amount of every deposit shall be entered, and which shall be presented at the Bank, if required by the officers, whenever money is deposited or withdrawn.",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        116,
+        856,
+        672,
+        883
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0024#xywh=116,856,556,27",
+      "confidence": "line",
+      "gemini_text": "V.—On the first days of January and July such dividend of interest shall be declared on all sums remaining on deposit for one calendar month, or longer, as the profits of the Bank will allow; and if at any time the profits are not sufficient to pay to depositors interest at the rate of at least four and one-half per centum per annum, then that amount shall be made good if necessary from the capital stock of the Bank. Whenever, in the judgment of the officers, the protection of the interests of the Bank or of the depositors may seem to require it, thirty or sixty days' notice of intention to withdraw the whole or any part of a deposit may be demanded; but payments may be made on demand, without thereby waiving the",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        817,
+        109,
+        1345,
+        145
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0024#xywh=817,109,528,36",
+      "confidence": "line",
+      "gemini_text": "Bestimmungen betreffend Einlagen.",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        859,
+        170,
+        1311,
+        199
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0024#xywh=859,170,452,29",
+      "confidence": "line",
+      "gemini_text": "[Auszug aus den Nebengesetzen. — 12. Abschnitt.]",
+      "surya_confidence": 0.5929
+    },
+    {
+      "bbox": [
+        806,
+        278,
+        1361,
+        307
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0024#xywh=806,278,555,29",
+      "confidence": "line",
+      "gemini_text": "I.—Die Bank ist täglich, mit Ausnahme von Sonn- und Feiertagen, geöffnet, und zwar von Morgens 10 Uhr bis Nachmittags 4 Uhr; sowie jeden Samstag Abend von 6 bis 8 Uhr, jedoch nur um Einlagen entgegenzunehmen.",
+      "surya_confidence": 0.7296
+    },
+    {
+      "bbox": [
+        808,
+        377,
+        1361,
+        409
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0024#xywh=808,377,553,32",
+      "confidence": "line",
+      "gemini_text": "II.—Einlagen werden von Einem Dollar aufwärts, in Baargeld oder anderen gesetzlichen Zahlungsmitteln gleichen Werthes, entgegengenommen.",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        808,
+        559,
+        1364,
+        591
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0024#xywh=808,559,556,32",
+      "confidence": "line",
+      "gemini_text": "III.—Bei der ersten Einlage soll jeder Einleger angehalten werden, seinen Namen in das Unterschriftsbuch der Bank einzutragen, um dadurch seine Zustimmung zu den Nebengesetzen zu erklären; nachträglich hinzugefügte Nebengesetze oder Abänderungen derselben, sind für die Einleger gleichverpflichtend.",
+      "surya_confidence": 0.9937
+    },
+    {
+      "bbox": [
+        809,
+        660,
+        1365,
+        691
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0024#xywh=809,660,556,31",
+      "confidence": "line",
+      "gemini_text": "IV.—Bei der ersten Einlage soll ein jeder Einleger ein Einlagebuch, in welchem alle Einzahlungen eingetragen werden, erhalten; dieses Einlagebuch soll, wenn Einlagen und Rückzahlungen gemacht werden, auf Verlangen der Bankbeamten, denselben vorgezeigt werden.",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        813,
+        1122,
+        1367,
+        1152
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0024#xywh=813,1122,554,30",
+      "confidence": "line",
+      "gemini_text": "V.—An jedem ersten Januar und Juli sollen die, dem Gewinne der Bank entsprechenden Zins-Dividenden auf alle Summen welche während einem Kalendermonat oder länger, deponirt gewesen, erklärt werden. Ist zu irgend einer Zeit der Bankgewinn ungenügend um den Einlegern einen Zins von wenigstens Vier und ein Halb Prozent im Jahr, zu bezahlen, so soll diese Summe im Nothfall, vom Bank-Kapital vergütet werden. Wenn zu irgend einer Zeit, je nach dem Gutachten der Bankbeamten der Schutz der Interessen der Bank oder der Einleger es zu erfordern scheint, so soll eine Kündigungsfrist von Dreißig oder Sechzig Tagen, für den Bezug der ganzen Einlage oder eines Theils derselben, verlangt werden können; auf Verlangen jedoch kön-",
+      "surya_confidence": 0.9749
+    }
+  ],
+  "unmatched_gemini": []
+}

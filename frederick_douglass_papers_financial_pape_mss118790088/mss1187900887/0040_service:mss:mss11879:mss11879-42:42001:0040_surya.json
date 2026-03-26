@@ -1,0 +1,86 @@
+{
+  "image_width": 1636,
+  "image_height": 1311,
+  "lines": [
+    {
+      "bbox": [
+        789,
+        82,
+        1497,
+        227
+      ],
+      "text": "Mrs Nelen Donglass Cr.",
+      "confidence": 0.7274
+    },
+    {
+      "bbox": [
+        125,
+        89,
+        716,
+        145
+      ],
+      "text": "The Washington Loan & Trust Co.",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        570,
+        155,
+        750,
+        192
+      ],
+      "text": "in account with",
+      "confidence": 0.9817
+    },
+    {
+      "bbox": [
+        51,
+        173,
+        673,
+        331
+      ],
+      "text": "Aler 23. Der 176",
+      "confidence": 0.5559
+    },
+    {
+      "bbox": [
+        1195,
+        210,
+        1420,
+        294
+      ],
+      "text": "5.1",
+      "confidence": 0.7978
+    },
+    {
+      "bbox": [
+        1424,
+        223,
+        1505,
+        289
+      ],
+      "text": "elle,",
+      "confidence": 0.3923
+    },
+    {
+      "bbox": [
+        680,
+        239,
+        759,
+        265
+      ],
+      "text": "CENTS",
+      "confidence": 0.979
+    },
+    {
+      "bbox": [
+        543,
+        655,
+        573,
+        675
+      ],
+      "text": "11",
+      "confidence": 0.4765
+    }
+  ]
+}

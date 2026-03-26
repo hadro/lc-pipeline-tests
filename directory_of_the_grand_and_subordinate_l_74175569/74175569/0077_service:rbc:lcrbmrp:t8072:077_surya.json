@@ -1,0 +1,156 @@
+{
+  "image_width": 1915,
+  "image_height": 3004,
+  "lines": [
+    {
+      "bbox": [
+        639,
+        355,
+        1308,
+        421
+      ],
+      "text": "TRION PRABBINARY 2938",
+      "confidence": 0.2368
+    },
+    {
+      "bbox": [
+        350,
+        462,
+        1706,
+        560
+      ],
+      "text": "The Capital Shoe Store,",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        618,
+        642,
+        1441,
+        727
+      ],
+      "text": "733 7th Street, N. W.",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        736,
+        759,
+        1262,
+        805
+      ],
+      "text": "Between G and H Sts.",
+      "confidence": 0.9078
+    },
+    {
+      "bbox": [
+        413,
+        1046,
+        1707,
+        1103
+      ],
+      "text": "OUR LATEST STYLES IN MEN'S, WOMEN'S",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        356,
+        1168,
+        1708,
+        1234
+      ],
+      "text": "AND CHILDREN'S SHOES SURPASS ANYTHING",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        352,
+        1291,
+        1709,
+        1355
+      ],
+      "text": "WE HAVE EVER SHOWN BEFORE. OUR SHOES",
+      "confidence": 0.9831
+    },
+    {
+      "bbox": [
+        357,
+        1418,
+        1712,
+        1479
+      ],
+      "text": "ARE HIGH-GRADE, AND THE PRICES SURPRIS-",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        357,
+        1549,
+        727,
+        1597
+      ],
+      "text": "INGLY LOW.",
+      "confidence": 0.9348
+    },
+    {
+      "bbox": [
+        360,
+        1788,
+        1716,
+        1860
+      ],
+      "text": "Ask to see our \"Wankwell\" $3.50",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        533,
+        1907,
+        1544,
+        1962
+      ],
+      "text": "Shoes for Men and Women.",
+      "confidence": 0.9752
+    },
+    {
+      "bbox": [
+        416,
+        2198,
+        1717,
+        2252
+      ],
+      "text": "THE DISPLAY ON OUR BARGAIN TABLE EVERY",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        363,
+        2322,
+        1661,
+        2379
+      ],
+      "text": "FRIDAY MUST BE SEEN TO BE APPRECIATED.",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        746,
+        2611,
+        1334,
+        2661
+      ],
+      "text": "Don't forget the number,",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        634,
+        2740,
+        1453,
+        2811
+      ],
+      "text": "733 7th Street, N. W.",
+      "confidence": 0.9965
+    }
+  ]
+}

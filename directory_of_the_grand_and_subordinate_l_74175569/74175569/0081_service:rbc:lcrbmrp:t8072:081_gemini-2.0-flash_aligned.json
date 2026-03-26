@@ -1,0 +1,120 @@
+{
+  "image": "0081_service:rbc:lcrbmrp:t8072:081.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:081",
+  "canvas_width": 1898,
+  "canvas_height": 3008,
+  "surya_median_confidence": 0.9894,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        558,
+        1912,
+        1445,
+        1989
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:081#xywh=558,1912,887,77",
+      "confidence": "line",
+      "gemini_text": "THOMAS WALKER,",
+      "surya_confidence": 0.9674
+    },
+    {
+      "bbox": [
+        437,
+        1995,
+        1599,
+        2085
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:081#xywh=437,1995,1162,90",
+      "confidence": "line",
+      "gemini_text": "Attorney and Counsellor at Law,",
+      "surya_confidence": 0.9911
+    },
+    {
+      "bbox": [
+        672,
+        2101,
+        1363,
+        2154
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:081#xywh=672,2101,691,53",
+      "confidence": "line",
+      "gemini_text": "No. 506 5TH ST. N. W.",
+      "surya_confidence": 0.9894
+    },
+    {
+      "bbox": [
+        403,
+        2230,
+        1384,
+        2283
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:081#xywh=403,2230,981,53",
+      "confidence": "line",
+      "gemini_text": "Practices in all the Courts of the District.",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        403,
+        2311,
+        1630,
+        2365
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:081#xywh=403,2311,1227,54",
+      "confidence": "line",
+      "gemini_text": "Will Draw Contracts and Wills and all other Legal",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        517,
+        2394,
+        700,
+        2444
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:081#xywh=517,2394,183,50",
+      "confidence": "line",
+      "gemini_text": "Papers.",
+      "surya_confidence": 0.9936
+    },
+    {
+      "bbox": [
+        401,
+        2472,
+        1190,
+        2513
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:081#xywh=401,2472,789,41",
+      "confidence": "line",
+      "gemini_text": "Will make Loans on Real Estate.",
+      "surya_confidence": 0.9963
+    },
+    {
+      "bbox": [
+        406,
+        2548,
+        1629,
+        2595
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:081#xywh=406,2548,1223,47",
+      "confidence": "line",
+      "gemini_text": "Will make Loans on Second Trust and on Personal",
+      "surya_confidence": 0.9973
+    },
+    {
+      "bbox": [
+        461,
+        2628,
+        710,
+        2675
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:081#xywh=461,2628,249,47",
+      "confidence": "line",
+      "gemini_text": "Securities.",
+      "surya_confidence": 0.9882
+    }
+  ],
+  "unmatched_gemini": []
+}

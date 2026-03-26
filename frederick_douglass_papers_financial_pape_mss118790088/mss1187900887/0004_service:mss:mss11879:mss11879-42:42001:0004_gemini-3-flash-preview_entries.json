@@ -1,0 +1,369 @@
+{
+  "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Bank Ledger",
+    "section_title": "CR",
+    "year": "1896"
+  },
+  "page_context": {
+    "record_type": "Bank Ledger",
+    "section_title": "CR",
+    "year": "1897"
+  },
+  "entries": [
+    {
+      "date": "August 25, 1897",
+      "description": "Bal. V. B.",
+      "amount": "950.15",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004#xywh=508,337,194,63",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "December 13, 1897",
+      "description": "Brooks",
+      "amount": "25.00",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004#xywh=1238,387,58,37",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "January 17, 1898",
+      "description": "Brooks",
+      "amount": "24.15",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004#xywh=769,84,114,41",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "January 17, 1898",
+      "description": "Total Amount",
+      "amount": "999.30",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "August 26, 1897",
+      "description": "Ck.",
+      "amount": "5.50",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004#xywh=784,278,85,38",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "August 27, 1897",
+      "description": "Ck.",
+      "amount": "5.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "September 17, 1897",
+      "description": "Ck.",
+      "amount": "15.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "September 17, 1897",
+      "description": "Ck.",
+      "amount": "375.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "September 18, 1897",
+      "description": "Ck.",
+      "amount": "15.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "September 30, 1897",
+      "description": "Ck.",
+      "amount": "5.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "October 4, 1897",
+      "description": "Ck.",
+      "amount": "18.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "October 6, 1897",
+      "description": "Ck.",
+      "amount": "12.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "October 7, 1897",
+      "description": "Ck.",
+      "amount": "10.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "October 13, 1897",
+      "description": "Ck.",
+      "amount": "3.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "October 15, 1897",
+      "description": "Ck.",
+      "amount": "10.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "October 16, 1897",
+      "description": "Ck.",
+      "amount": "43.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "October 16, 1897",
+      "description": "Ck.",
+      "amount": "6.50",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "October 23, 1897",
+      "description": "Ck.",
+      "amount": "7.50",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "October 27, 1897",
+      "description": "Ck.",
+      "amount": "28.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "November 1, 1897",
+      "description": "Ck.",
+      "amount": "10.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "November 2, 1897",
+      "description": "Ck.",
+      "amount": "5.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "November 3, 1897",
+      "description": "Ck.",
+      "amount": "40.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "November 4, 1897",
+      "description": "Ck.",
+      "amount": "13.30",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "November 9, 1897",
+      "description": "Ck.",
+      "amount": "2.50",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "November 9, 1897",
+      "description": "Ck.",
+      "amount": "2.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "November 12, 1897",
+      "description": "Ck.",
+      "amount": "5.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "November 12, 1897",
+      "description": "Ck.",
+      "amount": "8.75",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "November 12, 1897",
+      "description": "Ck.",
+      "amount": "12.12",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "November 16, 1897",
+      "description": "Ck.",
+      "amount": "10.50",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "November 30, 1897",
+      "description": "Ck.",
+      "amount": "50.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "November 30, 1897",
+      "description": "Ck.",
+      "amount": "5.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    },
+    {
+      "date": "November 30, 1897",
+      "description": "Total Amount",
+      "amount": "720.67",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0004#xywh=759,1100,107,27",
+      "image": "0004_service:mss:mss11879:mss11879-42:42001:0004.jpg"
+    }
+  ]
+}

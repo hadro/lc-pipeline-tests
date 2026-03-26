@@ -1,0 +1,480 @@
+{
+  "image": "0007_service:mss:mss11879:mss11879-42:42001:0007.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007",
+  "canvas_width": 1427,
+  "canvas_height": 1284,
+  "surya_median_confidence": 0.9128,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        71,
+        258,
+        368,
+        333
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=71,258,297,75",
+      "confidence": "line",
+      "gemini_text": "1898-9 Amt. 166 60",
+      "surya_confidence": 0.9612
+    },
+    {
+      "bbox": [
+        91,
+        326,
+        426,
+        398
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=91,326,335,72",
+      "confidence": "line",
+      "gemini_text": "July 22 Disct 30 00",
+      "surya_confidence": 0.4291
+    },
+    {
+      "bbox": [
+        74,
+        400,
+        377,
+        464
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=74,400,303,64",
+      "confidence": "line",
+      "gemini_text": "Aug 8 C. 30 00",
+      "surya_confidence": 0.7507
+    },
+    {
+      "bbox": [
+        79,
+        467,
+        378,
+        531
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=79,467,299,64",
+      "confidence": "line",
+      "gemini_text": "June 8/99 C 328 00",
+      "surya_confidence": 0.8146
+    },
+    {
+      "bbox": [
+        82,
+        534,
+        375,
+        591
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=82,534,293,57",
+      "confidence": "line",
+      "gemini_text": "Sept. 16 \"98 C 19 00",
+      "surya_confidence": 0.9583
+    },
+    {
+      "bbox": [
+        100,
+        600,
+        383,
+        654
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=100,600,283,54",
+      "confidence": "line",
+      "gemini_text": "\" 19 Dis 50 00",
+      "surya_confidence": 0.8291
+    },
+    {
+      "bbox": [
+        109,
+        665,
+        372,
+        714
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=109,665,263,49",
+      "confidence": "line",
+      "gemini_text": "\" 27 C 120 00",
+      "surya_confidence": 0.6543
+    },
+    {
+      "bbox": [
+        84,
+        728,
+        416,
+        778
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=84,728,332,50",
+      "confidence": "line",
+      "gemini_text": "Oct. 10 Brooks 25 00",
+      "surya_confidence": 0.9762
+    },
+    {
+      "bbox": [
+        88,
+        790,
+        389,
+        850
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=88,790,301,60",
+      "confidence": "line",
+      "gemini_text": "Nov. 7 C 25 00",
+      "surya_confidence": 0.7854
+    },
+    {
+      "bbox": [
+        121,
+        861,
+        416,
+        911
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=121,861,295,50",
+      "confidence": "line",
+      "gemini_text": "\" 14 Brooks 23 00",
+      "surya_confidence": 0.686
+    },
+    {
+      "bbox": [
+        86,
+        920,
+        365,
+        976
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=86,920,279,56",
+      "confidence": "line",
+      "gemini_text": "Feb. 2\"99 456 02",
+      "surya_confidence": 0.9146
+    },
+    {
+      "bbox": [
+        488,
+        266,
+        670,
+        318
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=488,266,182,52",
+      "confidence": "line",
+      "gemini_text": "Amt. 1272 62",
+      "surya_confidence": 0.9782
+    },
+    {
+      "bbox": [
+        495,
+        529,
+        686,
+        580
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=495,529,191,51",
+      "confidence": "line",
+      "gemini_text": "1898-9 Amt. 201 60",
+      "surya_confidence": 0.9932
+    },
+    {
+      "bbox": [
+        491,
+        789,
+        687,
+        839
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=491,789,196,50",
+      "confidence": "line",
+      "gemini_text": "Aug. 29 ck. 05 00",
+      "surya_confidence": 0.9901
+    },
+    {
+      "bbox": [
+        504,
+        854,
+        695,
+        908
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=504,854,191,54",
+      "confidence": "line",
+      "gemini_text": "\" 31 \" 7 00",
+      "surya_confidence": 0.9957
+    },
+    {
+      "bbox": [
+        721,
+        357,
+        887,
+        437
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=721,357,166,80",
+      "confidence": "line",
+      "gemini_text": "Sept. 19 \" 2 00",
+      "surya_confidence": 0.5495
+    },
+    {
+      "bbox": [
+        750,
+        420,
+        859,
+        447
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=750,420,109,27",
+      "confidence": "line",
+      "gemini_text": "\" 21 \" 10 50",
+      "surya_confidence": 0.923
+    },
+    {
+      "bbox": [
+        759,
+        447,
+        879,
+        476
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=759,447,120,29",
+      "confidence": "line",
+      "gemini_text": "\" 22 \" 50 00",
+      "surya_confidence": 0.9585
+    },
+    {
+      "bbox": [
+        736,
+        479,
+        863,
+        510
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=736,479,127,31",
+      "confidence": "line",
+      "gemini_text": "Oct. 1 \" 5 00",
+      "surya_confidence": 0.8799
+    },
+    {
+      "bbox": [
+        1197,
+        969,
+        1344,
+        996
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=1197,969,147,27",
+      "confidence": "line",
+      "gemini_text": "\" 5 \" 50",
+      "surya_confidence": 0.976
+    },
+    {
+      "bbox": [
+        1167,
+        1001,
+        1352,
+        1029
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=1167,1001,185,28",
+      "confidence": "line",
+      "gemini_text": "\" 21 \" 7 00",
+      "surya_confidence": 0.9618
+    },
+    {
+      "bbox": [
+        1205,
+        1031,
+        1346,
+        1059
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=1205,1031,141,28",
+      "confidence": "line",
+      "gemini_text": "\" 21 \" 20 00",
+      "surya_confidence": 0.9951
+    },
+    {
+      "bbox": [
+        1204,
+        1064,
+        1352,
+        1093
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=1204,1064,148,29",
+      "confidence": "line",
+      "gemini_text": "\" \" \" 12 48",
+      "surya_confidence": 0.9928
+    },
+    {
+      "bbox": [
+        1212,
+        1097,
+        1346,
+        1122
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=1212,1097,134,25",
+      "confidence": "line",
+      "gemini_text": "\" 25 \" 15 00",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        1163,
+        1141,
+        1356,
+        1179
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=1163,1141,193,38",
+      "confidence": "line",
+      "gemini_text": "Amt. 800 15",
+      "surya_confidence": 0.991
+    },
+    {
+      "bbox": [
+        1225,
+        542,
+        1349,
+        571
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=1225,542,124,29",
+      "confidence": "line",
+      "gemini_text": "\" 8 \" 7 25",
+      "surya_confidence": 0.9849
+    },
+    {
+      "bbox": [
+        1218,
+        576,
+        1352,
+        604
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=1218,576,134,28",
+      "confidence": "line",
+      "gemini_text": "\" 10 \" 2 85",
+      "surya_confidence": 0.9879
+    },
+    {
+      "bbox": [
+        1218,
+        609,
+        1344,
+        637
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=1218,609,126,28",
+      "confidence": "line",
+      "gemini_text": "\" \" \" 3 00",
+      "surya_confidence": 0.9631
+    },
+    {
+      "bbox": [
+        1221,
+        705,
+        1350,
+        740
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=1221,705,129,35",
+      "confidence": "line",
+      "gemini_text": "\" 11 \" 4 00",
+      "surya_confidence": 0.9625
+    },
+    {
+      "bbox": [
+        499,
+        721,
+        696,
+        777
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=499,721,197,56",
+      "confidence": "line",
+      "gemini_text": "\" 12 \" 25 00",
+      "surya_confidence": 0.9962
+    },
+    {
+      "bbox": [
+        1213,
+        769,
+        1352,
+        805
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=1213,769,139,36",
+      "confidence": "line",
+      "gemini_text": "\" \" \" 2 75",
+      "surya_confidence": 0.9898
+    },
+    {
+      "bbox": [
+        774,
+        813,
+        872,
+        840
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=774,813,98,27",
+      "confidence": "line",
+      "gemini_text": "\" 20 \" 7 17",
+      "surya_confidence": 0.5344
+    },
+    {
+      "bbox": [
+        747,
+        842,
+        877,
+        876
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=747,842,130,34",
+      "confidence": "line",
+      "gemini_text": "Nov. 2 \" 10 00",
+      "surya_confidence": 0.7211
+    },
+    {
+      "bbox": [
+        1199,
+        868,
+        1346,
+        901
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=1199,868,147,33",
+      "confidence": "line",
+      "gemini_text": "\" 14 \" 25 00",
+      "surya_confidence": 0.9937
+    },
+    {
+      "bbox": [
+        1201,
+        903,
+        1344,
+        930
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=1201,903,143,27",
+      "confidence": "line",
+      "gemini_text": "\" 17 \" 23 00",
+      "surya_confidence": 0.9955
+    },
+    {
+      "bbox": [
+        1204,
+        938,
+        1344,
+        965
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=1204,938,140,27",
+      "confidence": "line",
+      "gemini_text": "\" 21 \" 6 00",
+      "surya_confidence": 0.9957
+    },
+    {
+      "bbox": [
+        746,
+        941,
+        928,
+        1003
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=746,941,182,62",
+      "confidence": "line",
+      "gemini_text": "Feb. 2\"99 \" 55 00",
+      "surya_confidence": 0.7476
+    },
+    {
+      "bbox": [
+        770,
+        1039,
+        885,
+        1067
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=770,1039,115,28",
+      "confidence": "line",
+      "gemini_text": "\" 10 \" 213 05",
+      "surya_confidence": 0.9889
+    },
+    {
+      "bbox": [
+        774,
+        1078,
+        889,
+        1125
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0007#xywh=774,1078,115,47",
+      "confidence": "line",
+      "gemini_text": "\" 20 \" 15 00",
+      "surya_confidence": 0.8066
+    }
+  ],
+  "unmatched_gemini": []
+}

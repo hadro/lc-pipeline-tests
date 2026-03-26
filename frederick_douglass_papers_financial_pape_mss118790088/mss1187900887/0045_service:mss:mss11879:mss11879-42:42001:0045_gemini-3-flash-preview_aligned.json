@@ -1,0 +1,720 @@
+{
+  "image": "0045_service:mss:mss11879:mss11879-42:42001:0045.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045",
+  "canvas_width": 1366,
+  "canvas_height": 1103,
+  "surya_median_confidence": 0.9989,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        180,
+        122,
+        508,
+        142
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=180,122,328,20",
+      "confidence": "line",
+      "gemini_text": "CAPITAL SAVINGS BANK.",
+      "surya_confidence": 0.9786
+    },
+    {
+      "bbox": [
+        85,
+        178,
+        597,
+        204
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=85,178,512,26",
+      "confidence": "line",
+      "gemini_text": "tral and easily accessible by three differ-",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        88,
+        210,
+        597,
+        234
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=88,210,509,24",
+      "confidence": "line",
+      "gemini_text": "ent lines of street cars, and that our office",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        87,
+        244,
+        598,
+        270
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=87,244,511,26",
+      "confidence": "line",
+      "gemini_text": "hours are of special advantage to depart-",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        87,
+        276,
+        600,
+        306
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=87,276,513,30",
+      "confidence": "line",
+      "gemini_text": "ment employees and to the working class-",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        88,
+        313,
+        247,
+        337
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=88,313,159,24",
+      "confidence": "line",
+      "gemini_text": "es generally.",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        116,
+        344,
+        598,
+        370
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=116,344,482,26",
+      "confidence": "line",
+      "gemini_text": "At the opening of our new building in",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        88,
+        377,
+        598,
+        404
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=88,377,510,27",
+      "confidence": "line",
+      "gemini_text": "last October, a public reception was tend-",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        89,
+        407,
+        599,
+        440
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=89,407,510,33",
+      "confidence": "line",
+      "gemini_text": "ered the friends and patrons of the Bank,",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        89,
+        441,
+        600,
+        472
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=89,441,511,31",
+      "confidence": "line",
+      "gemini_text": "on which occasion the Secretary read a",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        89,
+        475,
+        601,
+        506
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=89,475,512,31",
+      "confidence": "line",
+      "gemini_text": "report containing a brief history of the",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        90,
+        509,
+        602,
+        539
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=90,509,512,30",
+      "confidence": "line",
+      "gemini_text": "organization and development of the",
+      "surya_confidence": 0.9955
+    },
+    {
+      "bbox": [
+        90,
+        542,
+        602,
+        574
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=90,542,512,32",
+      "confidence": "line",
+      "gemini_text": "Bank. The following extract from that",
+      "surya_confidence": 0.994
+    },
+    {
+      "bbox": [
+        89,
+        579,
+        416,
+        605
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=89,579,327,26",
+      "confidence": "line",
+      "gemini_text": "report is here reproduced:",
+      "surya_confidence": 0.9975
+    },
+    {
+      "bbox": [
+        120,
+        617,
+        601,
+        645
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=120,617,481,28",
+      "confidence": "line",
+      "gemini_text": "\"The history of the organization and",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        92,
+        645,
+        602,
+        671
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=92,645,510,26",
+      "confidence": "line",
+      "gemini_text": "development of this business enterprise",
+      "surya_confidence": 0.9941
+    },
+    {
+      "bbox": [
+        89,
+        673,
+        602,
+        698
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=89,673,513,25",
+      "confidence": "line",
+      "gemini_text": "is not entirely free from some of the essen-",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        93,
+        700,
+        602,
+        727
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=93,700,509,27",
+      "confidence": "line",
+      "gemini_text": "tial features of a romance. To have been",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        92,
+        730,
+        602,
+        754
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=92,730,510,24",
+      "confidence": "line",
+      "gemini_text": "born into an almost abject poverty",
+      "surya_confidence": 0.9906
+    },
+    {
+      "bbox": [
+        227,
+        757,
+        602,
+        784
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=227,757,375,27",
+      "confidence": "line",
+      "gemini_text": "and to have grown into a vig-",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        90,
+        784,
+        602,
+        813
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=90,784,512,29",
+      "confidence": "line",
+      "gemini_text": "orous prosperity, happens not often in",
+      "surya_confidence": 0.9984
+    },
+    {
+      "bbox": [
+        92,
+        811,
+        602,
+        840
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=92,811,510,29",
+      "confidence": "line",
+      "gemini_text": "the history either of individuals or",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        262,
+        840,
+        602,
+        864
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=262,840,340,24",
+      "confidence": "line",
+      "gemini_text": "institutions. Banks are a commercial",
+      "surya_confidence": 0.9852
+    },
+    {
+      "bbox": [
+        90,
+        867,
+        601,
+        896
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=90,867,511,29",
+      "confidence": "line",
+      "gemini_text": "necessity in all business centers. They",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        91,
+        896,
+        601,
+        922
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=91,896,510,26",
+      "confidence": "line",
+      "gemini_text": "are the medium through which the mon-",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        92,
+        922,
+        601,
+        952
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=92,922,509,30",
+      "confidence": "line",
+      "gemini_text": "ey property of individuals changes own-",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        90,
+        949,
+        600,
+        981
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=90,949,510,32",
+      "confidence": "line",
+      "gemini_text": "ership. They touch and control the mon-",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        89,
+        978,
+        601,
+        1008
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=89,978,512,30",
+      "confidence": "line",
+      "gemini_text": "ey pulse of a community. As a rule,",
+      "surya_confidence": 0.9975
+    },
+    {
+      "bbox": [
+        855,
+        85,
+        1179,
+        114
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=855,85,324,29",
+      "confidence": "line",
+      "gemini_text": "CAPITAL SAVINGS BANK.",
+      "surya_confidence": 0.9782
+    },
+    {
+      "bbox": [
+        762,
+        139,
+        1277,
+        178
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=762,139,515,39",
+      "confidence": "line",
+      "gemini_text": "therefore, the men who organize banks",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        763,
+        167,
+        1277,
+        204
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=763,167,514,37",
+      "confidence": "line",
+      "gemini_text": "are men of wide business experience,",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        765,
+        193,
+        1278,
+        233
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=765,193,513,40",
+      "confidence": "line",
+      "gemini_text": "with ample resources at their command,",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        766,
+        223,
+        1277,
+        260
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=766,223,511,37",
+      "confidence": "line",
+      "gemini_text": "enjoying a large share of public confi-",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        765,
+        249,
+        1277,
+        289
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=765,249,512,40",
+      "confidence": "line",
+      "gemini_text": "dence. Under ordinary circumstances,",
+      "surya_confidence": 0.9981
+    },
+    {
+      "bbox": [
+        766,
+        277,
+        1280,
+        317
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=766,277,514,40",
+      "confidence": "line",
+      "gemini_text": "when these conditions are lacking, men",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        766,
+        306,
+        1279,
+        344
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=766,306,513,38",
+      "confidence": "line",
+      "gemini_text": "either haven't the courage to try to or-",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        767,
+        333,
+        1280,
+        373
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=767,333,513,40",
+      "confidence": "line",
+      "gemini_text": "ganize a bank, or they haven't the luck",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        767,
+        360,
+        1281,
+        400
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=767,360,514,40",
+      "confidence": "line",
+      "gemini_text": "to succeed at it. It would appear from",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        767,
+        389,
+        1281,
+        427
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=767,389,514,38",
+      "confidence": "line",
+      "gemini_text": "this, therefore, that when a set of men",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        768,
+        416,
+        1281,
+        455
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=768,416,513,39",
+      "confidence": "line",
+      "gemini_text": "who have had absolutely no experience",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        767,
+        445,
+        1281,
+        483
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=767,445,514,38",
+      "confidence": "line",
+      "gemini_text": "of the sort required in successfully con-",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        770,
+        472,
+        1282,
+        512
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=770,472,512,40",
+      "confidence": "line",
+      "gemini_text": "ducting a bank, and who are lacking in",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        770,
+        499,
+        1282,
+        538
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=770,499,512,39",
+      "confidence": "line",
+      "gemini_text": "the essential resources of means and cred-",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        769,
+        528,
+        1282,
+        566
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=769,528,513,38",
+      "confidence": "line",
+      "gemini_text": "it, undertake to put in operation a busi-",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        771,
+        556,
+        1282,
+        594
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=771,556,511,38",
+      "confidence": "line",
+      "gemini_text": "ness enterprise under the pretentious",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        771,
+        582,
+        1283,
+        623
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=771,582,512,41",
+      "confidence": "line",
+      "gemini_text": "name of a bank, surely the difficulties in",
+      "surya_confidence": 0.9981
+    },
+    {
+      "bbox": [
+        771,
+        611,
+        1284,
+        651
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=771,611,513,40",
+      "confidence": "line",
+      "gemini_text": "the way of their success would appear",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        772,
+        639,
+        1285,
+        678
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=772,639,513,39",
+      "confidence": "line",
+      "gemini_text": "well nigh insurmountable. But such was",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        771,
+        668,
+        1286,
+        704
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=771,668,515,36",
+      "confidence": "line",
+      "gemini_text": "just the unfavorable condition under",
+      "surya_confidence": 0.9939
+    },
+    {
+      "bbox": [
+        773,
+        694,
+        1286,
+        734
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=773,694,513,40",
+      "confidence": "line",
+      "gemini_text": "which this present enterprise had its",
+      "surya_confidence": 0.9983
+    },
+    {
+      "bbox": [
+        773,
+        723,
+        1286,
+        761
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=773,723,513,38",
+      "confidence": "line",
+      "gemini_text": "birth. One point alone stood out promi-",
+      "surya_confidence": 0.9965
+    },
+    {
+      "bbox": [
+        772,
+        750,
+        1286,
+        790
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=772,750,514,40",
+      "confidence": "line",
+      "gemini_text": "nently as a hopeful indication in organiz-",
+      "surya_confidence": 0.9975
+    },
+    {
+      "bbox": [
+        774,
+        780,
+        1286,
+        816
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=774,780,512,36",
+      "confidence": "line",
+      "gemini_text": "ing this enterprise, and that was the",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        775,
+        807,
+        1250,
+        840
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=775,807,475,33",
+      "confidence": "line",
+      "gemini_text": "GROWING NECESSITY for its existence.",
+      "surya_confidence": 0.9642
+    },
+    {
+      "bbox": [
+        804,
+        836,
+        1289,
+        871
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=804,836,485,35",
+      "confidence": "line",
+      "gemini_text": "\"Here we were, a people strong in",
+      "surya_confidence": 0.9983
+    },
+    {
+      "bbox": [
+        779,
+        862,
+        1290,
+        901
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=779,862,511,39",
+      "confidence": "line",
+      "gemini_text": "numbers, advancing rapidly in every ed-",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        780,
+        890,
+        1290,
+        929
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=780,890,510,39",
+      "confidence": "line",
+      "gemini_text": "ucational acquirement, entering here and",
+      "surya_confidence": 0.9924
+    },
+    {
+      "bbox": [
+        781,
+        917,
+        1289,
+        953
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=781,917,508,36",
+      "confidence": "line",
+      "gemini_text": "there into the smaller business avenues,",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        782,
+        946,
+        1292,
+        984
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0045#xywh=782,946,510,38",
+      "confidence": "line",
+      "gemini_text": "and eager to widen the field of our busi-",
+      "surya_confidence": 1.0
+    }
+  ],
+  "unmatched_gemini": []
+}

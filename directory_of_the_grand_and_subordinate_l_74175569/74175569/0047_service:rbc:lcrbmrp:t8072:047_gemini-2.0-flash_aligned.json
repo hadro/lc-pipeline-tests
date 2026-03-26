@@ -1,0 +1,123 @@
+{
+  "image": "0047_service:rbc:lcrbmrp:t8072:047.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:047",
+  "canvas_width": 1875,
+  "canvas_height": 3006,
+  "surya_median_confidence": 0.982,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        494,
+        1201,
+        1387,
+        1280
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:047#xywh=494,1201,893,79",
+      "confidence": "line",
+      "gemini_text": "EMANUEL MURRAY,",
+      "surya_confidence": 0.9924
+    },
+    {
+      "bbox": [
+        671,
+        1347,
+        1203,
+        1384
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:047#xywh=671,1347,532,37",
+      "confidence": "line",
+      "gemini_text": "WHOLESALE AND RETAIL",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        324,
+        1473,
+        1544,
+        1567
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:047#xywh=324,1473,1220,94",
+      "confidence": "line",
+      "gemini_text": "Ice Cream And Confections,",
+      "surya_confidence": 0.621
+    },
+    {
+      "bbox": [
+        630,
+        1637,
+        1252,
+        1693
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:047#xywh=630,1637,622,56",
+      "confidence": "line",
+      "gemini_text": "1800 14th Street N. W.",
+      "surya_confidence": 0.9789
+    },
+    {
+      "bbox": [
+        329,
+        1860,
+        1549,
+        1957
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:047#xywh=329,1860,1220,97",
+      "confidence": "line",
+      "gemini_text": "OYSTERS IN SEASON.",
+      "surya_confidence": 0.9851
+    },
+    {
+      "bbox": [
+        331,
+        2117,
+        1557,
+        2195
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:047#xywh=331,2117,1226,78",
+      "confidence": "line",
+      "gemini_text": "Orders for Receptions and other Entertainments filled,",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        416,
+        2250,
+        1475,
+        2308
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:047#xywh=416,2250,1059,58",
+      "confidence": "line",
+      "gemini_text": "Satisfaction Guaranteed.",
+      "surya_confidence": 0.9772
+    },
+    {
+      "bbox": [
+        330,
+        2367,
+        1555,
+        2460
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:047#xywh=330,2367,1225,93",
+      "confidence": "line",
+      "gemini_text": "ICE CREAM, all flavors, a Specialty.",
+      "surya_confidence": 0.9976
+    },
+    {
+      "bbox": [
+        338,
+        2612,
+        1561,
+        2683
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:047#xywh=338,2612,1223,71",
+      "confidence": "line",
+      "gemini_text": "CAFÉ, European plan, or by day, week or month.",
+      "surya_confidence": 0.9975
+    }
+  ],
+  "unmatched_gemini": [
+    "ICE",
+    "CREAM"
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "image": "0014_service:mss:mss11879:mss11879-42:42001:0014.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Book Cover",
+    "section_title": null,
+    "year": null
+  },
+  "page_context": {
+    "record_type": "Language Exercises",
+    "section_title": null,
+    "year": null
+  },
+  "entries": [
+    {
+      "date": null,
+      "description": "Keyser gate Hor",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014#xywh=1000,135,619,227",
+      "image": "0014_service:mss:mss11879:mss11879-42:42001:0014.jpg"
+    },
+    {
+      "date": null,
+      "description": "bill 75-67",
+      "amount": "75.67",
+      "transaction_type": "expense",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014",
+      "image": "0014_service:mss:mss11879:mss11879-42:42001:0014.jpg"
+    },
+    {
+      "date": null,
+      "description": "chapel",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014",
+      "image": "0014_service:mss:mss11879:mss11879-42:42001:0014.jpg"
+    },
+    {
+      "date": null,
+      "description": "Trinity gate when [illegible]",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014#xywh=1010,350,844,149",
+      "image": "0014_service:mss:mss11879:mss11879-42:42001:0014.jpg"
+    },
+    {
+      "date": null,
+      "description": "cloches a conne",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014",
+      "image": "0014_service:mss:mss11879:mss11879-42:42001:0014.jpg"
+    },
+    {
+      "date": null,
+      "description": "Nous Dinons a la maison",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014",
+      "image": "0014_service:mss:mss11879:mss11879-42:42001:0014.jpg"
+    },
+    {
+      "date": null,
+      "description": "aujourdhui Mademoiselle",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014#xywh=1029,579,665,118",
+      "image": "0014_service:mss:mss11879:mss11879-42:42001:0014.jpg"
+    },
+    {
+      "date": null,
+      "description": "Je suis bien bien aise.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014#xywh=1148,732,548,79",
+      "image": "0014_service:mss:mss11879:mss11879-42:42001:0014.jpg"
+    },
+    {
+      "date": null,
+      "description": "ayons du beurre",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014",
+      "image": "0014_service:mss:mss11879:mss11879-42:42001:0014.jpg"
+    },
+    {
+      "date": null,
+      "description": "ayez du fromage",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014#xywh=1142,835,383,130",
+      "image": "0014_service:mss:mss11879:mss11879-42:42001:0014.jpg"
+    },
+    {
+      "date": null,
+      "description": "Nous sommes revenu i",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014#xywh=1145,985,442,58",
+      "image": "0014_service:mss:mss11879:mss11879-42:42001:0014.jpg"
+    },
+    {
+      "date": null,
+      "description": "Nous sommes revenu -",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014#xywh=1156,1098,406,41",
+      "image": "0014_service:mss:mss11879:mss11879-42:42001:0014.jpg"
+    },
+    {
+      "date": null,
+      "description": "J'ai je suis [illegible]",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014#xywh=1160,1152,337,47",
+      "image": "0014_service:mss:mss11879:mss11879-42:42001:0014.jpg"
+    },
+    {
+      "date": null,
+      "description": "Je suis revenu",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014#xywh=1145,1197,487,98",
+      "image": "0014_service:mss:mss11879:mss11879-42:42001:0014.jpg"
+    },
+    {
+      "date": null,
+      "description": "Nous sommes revenu",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014",
+      "image": "0014_service:mss:mss11879:mss11879-42:42001:0014.jpg"
+    },
+    {
+      "date": null,
+      "description": "Il ne pas encore arrive,",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0014#xywh=1011,1358,463,39",
+      "image": "0014_service:mss:mss11879:mss11879-42:42001:0014.jpg"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "section_title": "M. W. Grand Lodge Officers",
+    "organization_name": "Grand Lodge"
+  },
+  "page_context": {
+    "section_title": "Lodge Officers for 1904",
+    "organization_name": "Widow's Son Lodge, No. 7"
+  },
+  "entries": [
+    {
+      "name": "Benjamin E. Herbert",
+      "title_or_role": "W. Master",
+      "meeting_info": "Meets First Thursday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Social Lodge, No. 1",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=508,746,770,37",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "Ernest M. Dickerson",
+      "title_or_role": "S. W.",
+      "meeting_info": "Meets First Thursday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Social Lodge, No. 1",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=290,789,1207,40",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "Reuben S. Smith",
+      "title_or_role": "J.W.",
+      "meeting_info": "Meets First Thursday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Social Lodge, No. 1",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=636,893,523,35",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "Fred A. Fowler",
+      "title_or_role": "Sec'y",
+      "address": "2209 14th st. N. W.",
+      "meeting_info": "Meets First Thursday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Social Lodge, No. 1",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=397,833,984,41",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "Owen E. McNeill",
+      "title_or_role": "W. Master",
+      "meeting_info": "Meets First Monday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Felix Lodge, No. 3",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=555,1090,679,39",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "A. L. Cornish",
+      "title_or_role": "S. W.",
+      "meeting_info": "Meets First Monday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Felix Lodge, No. 3",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=289,1137,1208,36",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "Junius C. Cooper",
+      "title_or_role": "J. W.",
+      "meeting_info": "Meets First Monday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Felix Lodge, No. 3",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=658,1237,475,36",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "Wm. H. Severson",
+      "title_or_role": "Sec'y",
+      "address": "326 E st. S. W.",
+      "meeting_info": "Meets First Monday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Felix Lodge, No. 3",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=436,1176,926,46",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "Albert T. Newman",
+      "title_or_role": "W. Master",
+      "meeting_info": "Meets Third Monday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Hiram Lodge, No. 4",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=531,1440,722,35",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "John H. Gaskins",
+      "title_or_role": "S. W.",
+      "meeting_info": "Meets Third Monday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Hiram Lodge, No. 4",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=289,1483,1209,36",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "William H. Brown",
+      "title_or_role": "J. W.",
+      "meeting_info": "Meets Third Monday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Hiram Lodge, No. 4",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=641,1583,499,37",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "Joseph N. Lawson",
+      "title_or_role": "Sec'y",
+      "address": "1311 27th st. N. W.",
+      "meeting_info": "Meets Third Monday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Hiram Lodge, No. 4",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=353,1529,1057,37",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "L. Gorham Fletcher, Jr.",
+      "title_or_role": "W. Master",
+      "meeting_info": "Meets Second Monday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Eureka Lodge, No. 5",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=467,1783,847,37",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "Arthur C. Newman",
+      "title_or_role": "S.W.",
+      "meeting_info": "Meets Second Monday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Eureka Lodge, No. 5",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=283,1827,1212,38",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "Samuel W. Watson",
+      "title_or_role": "J.W.",
+      "meeting_info": "Meets Second Monday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Eureka Lodge, No. 5",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=632,1929,518,35",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "Edward A. Watson",
+      "title_or_role": "Sec'y",
+      "address": "1238 Joliet st. N. W.",
+      "meeting_info": "Meets Second Monday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Eureka Lodge, No. 5",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=329,1872,1105,38",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "Joseph E. Graves",
+      "title_or_role": "W. Master",
+      "meeting_info": "Meets First Tuesday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Meridian Lodge, No. 6",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=549,2130,675,36",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "Alfred H. Harvey",
+      "title_or_role": "S. W.",
+      "meeting_info": "Meets First Tuesday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Meridian Lodge, No. 6",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=283,2172,1209,40",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "Benjamin Williams",
+      "title_or_role": "J.W.",
+      "meeting_info": "Meets First Tuesday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Meridian Lodge, No. 6",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=647,2275,490,36",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "Wm. Knox Brown",
+      "title_or_role": "Sec'y",
+      "address": "205 L st. N. W.",
+      "meeting_info": "Meets First Tuesday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Meridian Lodge, No. 6",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=417,2216,942,42",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "Charles H. Posey",
+      "title_or_role": "W. Master",
+      "meeting_info": "Meets Second Thursday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Widow's Son Lodge, No. 7",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=546,2472,671,40",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "Charles L. Harris",
+      "title_or_role": "S. W.",
+      "meeting_info": "Meets Second Thursday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Widow's Son Lodge, No. 7",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=281,2516,1208,41",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "Thomas N Williams",
+      "title_or_role": "J.W.",
+      "meeting_info": "Meets Second Thursday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Widow's Son Lodge, No. 7",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=604,2617,575,39",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    },
+    {
+      "name": "John S. George",
+      "title_or_role": "Sec'y",
+      "address": "1938 11th st. N. W.",
+      "meeting_info": "Meets Second Thursday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "Widow's Son Lodge, No. 7",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:112#xywh=409,2559,969,47",
+      "image": "0112_service:rbc:lcrbmrp:t8072:112.jpg"
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "image": "0101_service:rbc:lcrbmrp:t8072:101.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101",
+  "canvas_width": 1912,
+  "canvas_height": 3001,
+  "surya_median_confidence": 0.9935,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        666,
+        401,
+        1342,
+        442
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=666,401,676,41",
+      "confidence": "line",
+      "gemini_text": "\"ELECTRICITY IS LIFE\"",
+      "surya_confidence": 0.9703
+    },
+    {
+      "bbox": [
+        327,
+        454,
+        1683,
+        509
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=327,454,1356,55",
+      "confidence": "line",
+      "gemini_text": "The Imparting of this Life-giving science for the Elimina-",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        722,
+        505,
+        1284,
+        546
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=722,505,562,41",
+      "confidence": "line",
+      "gemini_text": "tion of Pains and Ills by",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        767,
+        550,
+        1232,
+        590
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=767,550,465,40",
+      "confidence": "line",
+      "gemini_text": "FRED. B. PURCE,",
+      "surya_confidence": 0.9794
+    },
+    {
+      "bbox": [
+        1161,
+        600,
+        1584,
+        640
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=1161,600,423,40",
+      "confidence": "line",
+      "gemini_text": "222 D St., N. W. Washington, D C.",
+      "surya_confidence": 0.9913
+    },
+    {
+      "bbox": [
+        391,
+        630,
+        1589,
+        689
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=391,630,1198,59",
+      "confidence": "line",
+      "gemini_text": "Try my massage treatment and help is sure to come.",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        325,
+        673,
+        1680,
+        734
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=325,673,1355,61",
+      "confidence": "line",
+      "gemini_text": "Stiff joints, Rheumatism, Aches and Pains of all kinds",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        791,
+        730,
+        1206,
+        770
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=791,730,415,40",
+      "confidence": "line",
+      "gemini_text": "instantly relieved.",
+      "surya_confidence": 0.9924
+    },
+    {
+      "bbox": [
+        700,
+        816,
+        1292,
+        862
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=700,816,592,46",
+      "confidence": "line",
+      "gemini_text": "JAMES H. HUDNELL,",
+      "surya_confidence": 0.9809
+    },
+    {
+      "bbox": [
+        439,
+        869,
+        1563,
+        923
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=439,869,1124,54",
+      "confidence": "line",
+      "gemini_text": "Representing the Castelberg Diamond Importers.",
+      "surya_confidence": 0.9947
+    },
+    {
+      "bbox": [
+        321,
+        927,
+        841,
+        967
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=321,927,520,40",
+      "confidence": "line",
+      "gemini_text": "935 Pennsylvania Ave. Washington, D. C.",
+      "surya_confidence": 0.9915
+    },
+    {
+      "bbox": [
+        651,
+        986,
+        1340,
+        1030
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=651,986,689,44",
+      "confidence": "line",
+      "gemini_text": "Residence, 2009 9th St., N. W.",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        319,
+        1034,
+        1673,
+        1092
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=319,1034,1354,58",
+      "confidence": "line",
+      "gemini_text": "A postal to either address will bring my sample case to your",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        392,
+        1081,
+        1578,
+        1135
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=392,1081,1186,54",
+      "confidence": "line",
+      "gemini_text": "door. You pay a little each week, and never miss it.",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        735,
+        1206,
+        1253,
+        1254
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=735,1206,518,48",
+      "confidence": "line",
+      "gemini_text": "R. L. PENDLETON,",
+      "surya_confidence": 0.9908
+    },
+    {
+      "bbox": [
+        620,
+        1272,
+        1358,
+        1319
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=620,1272,738,47",
+      "confidence": "line",
+      "gemini_text": "Practical Book and Job Printer.",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        448,
+        1348,
+        875,
+        1387
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=448,1348,427,39",
+      "confidence": "line",
+      "gemini_text": "First-Class Work. Lowest Prices",
+      "surya_confidence": 0.9819
+    },
+    {
+      "bbox": [
+        314,
+        1401,
+        1622,
+        1462
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=314,1401,1308,61",
+      "confidence": "line",
+      "gemini_text": "Office: 524 10th (Corner F) St., N. W. Washington, D, C.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        316,
+        1459,
+        833,
+        1505
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=316,1459,517,46",
+      "confidence": "line",
+      "gemini_text": "Telephone Main 388-y. Electric Power.",
+      "surya_confidence": 0.9951
+    },
+    {
+      "bbox": [
+        1180,
+        1573,
+        1579,
+        1611
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=1180,1573,399,38",
+      "confidence": "line",
+      "gemini_text": "Telephone 3960. Established 1877.",
+      "surya_confidence": 0.9755
+    },
+    {
+      "bbox": [
+        705,
+        1655,
+        1265,
+        1696
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=705,1655,560,41",
+      "confidence": "line",
+      "gemini_text": "JOSEPH AUERBACH.",
+      "surya_confidence": 0.9366
+    },
+    {
+      "bbox": [
+        832,
+        1738,
+        1130,
+        1775
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=832,1738,298,37",
+      "confidence": "line",
+      "gemini_text": "Men's Wear.",
+      "surya_confidence": 0.995
+    },
+    {
+      "bbox": [
+        311,
+        1787,
+        596,
+        1825
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=311,1787,285,38",
+      "confidence": "line",
+      "gemini_text": "Down Town Up Town",
+      "surya_confidence": 0.964
+    },
+    {
+      "bbox": [
+        351,
+        1842,
+        1206,
+        1894
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=351,1842,855,52",
+      "confidence": "line",
+      "gemini_text": "623 Pa. Ave. Washington, D. C. 14th Cor. G.",
+      "surya_confidence": 0.9832
+    },
+    {
+      "bbox": [
+        351,
+        1930,
+        1662,
+        1991
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=351,1930,1311,61",
+      "confidence": "line",
+      "gemini_text": "Do you wish a successful career, one that will not only",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        308,
+        1977,
+        1662,
+        2034
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=308,1977,1354,57",
+      "confidence": "line",
+      "gemini_text": "enable you to make money, but develop your latent forces",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        311,
+        2023,
+        1662,
+        2077
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=311,2023,1351,54",
+      "confidence": "line",
+      "gemini_text": "and build your character into a Gibraltar of strength?",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        308,
+        2068,
+        1029,
+        2116
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=308,2068,721,48",
+      "confidence": "line",
+      "gemini_text": "Note card on page 70 Address",
+      "surya_confidence": 0.9947
+    },
+    {
+      "bbox": [
+        753,
+        2119,
+        1302,
+        2161
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=753,2119,549,42",
+      "confidence": "line",
+      "gemini_text": "DR. JOHN F. NUBEL,",
+      "surya_confidence": 0.9748
+    },
+    {
+      "bbox": [
+        306,
+        2158,
+        1659,
+        2211
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=306,2158,1353,53",
+      "confidence": "line",
+      "gemini_text": "Telephone Main 1225 Professor Massage and Electricity.",
+      "surya_confidence": 0.9917
+    },
+    {
+      "bbox": [
+        1134,
+        2211,
+        1565,
+        2253
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=1134,2211,431,42",
+      "confidence": "line",
+      "gemini_text": "1202 K St., N. W. Washington, D. C.",
+      "surya_confidence": 0.9871
+    },
+    {
+      "bbox": [
+        525,
+        2316,
+        1437,
+        2360
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=525,2316,912,44",
+      "confidence": "line",
+      "gemini_text": "Subscribe for the \"MYSTIC LIGHT.\"",
+      "surya_confidence": 0.9923
+    },
+    {
+      "bbox": [
+        351,
+        2403,
+        1657,
+        2456
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=351,2403,1306,53",
+      "confidence": "line",
+      "gemini_text": "Devoted to freemasonry throughout the world. Carefully",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        306,
+        2458,
+        1659,
+        2514
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=306,2458,1353,56",
+      "confidence": "line",
+      "gemini_text": "selected news and editorials. Agents wanted in every",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        305,
+        2515,
+        1048,
+        2563
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=305,2515,743,48",
+      "confidence": "line",
+      "gemini_text": "jurisdiction. Only 65c per year.",
+      "surya_confidence": 0.9964
+    },
+    {
+      "bbox": [
+        628,
+        2598,
+        1316,
+        2640
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=628,2598,688,42",
+      "confidence": "line",
+      "gemini_text": "HENRY E. BURRIS, Editor,",
+      "surya_confidence": 0.9172
+    },
+    {
+      "bbox": [
+        989,
+        2660,
+        1381,
+        2696
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=989,2660,392,36",
+      "confidence": "line",
+      "gemini_text": "Rock Island, I11.",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        951,
+        2713,
+        1010,
+        2746
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:101#xywh=951,2713,59,33",
+      "confidence": "line",
+      "gemini_text": "92",
+      "surya_confidence": 0.9801
+    }
+  ],
+  "unmatched_gemini": []
+}

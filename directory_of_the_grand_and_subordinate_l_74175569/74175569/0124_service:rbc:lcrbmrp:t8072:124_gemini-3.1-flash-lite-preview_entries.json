@@ -1,0 +1,99 @@
+{
+  "image": "0124_service:rbc:lcrbmrp:t8072:124.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "section_title": "GRAND CHAPTER, O. E. S.",
+    "organization_name": "Gethsemane Chapter, No. 4, O. E. S."
+  },
+  "page_context": {
+    "section_title": "GRAND CHAPTER, O. E. S.",
+    "organization_name": "Electa Chapter, No. 14, O. E. S."
+  },
+  "entries": [
+    {
+      "name": "Nellie Williams",
+      "title_or_role": "Royal Matron",
+      "address": "823 2nd st. se.",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Marian Chapter, No. 8, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=456,523,959,73",
+      "image": "0124_service:rbc:lcrbmrp:t8072:124.jpg"
+    },
+    {
+      "name": "J. H. F. Brown",
+      "title_or_role": "Royal Patron",
+      "address": "1013 18th nw.",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Marian Chapter, No. 8, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=460,591,950,72",
+      "image": "0124_service:rbc:lcrbmrp:t8072:124.jpg"
+    },
+    {
+      "name": "Matilda Payne",
+      "title_or_role": "Secretary",
+      "address": "1511 M st. nw.",
+      "meeting_info": "Meets Fourth Friday",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Marian Chapter, No. 8, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=504,671,856,69",
+      "image": "0124_service:rbc:lcrbmrp:t8072:124.jpg"
+    },
+    {
+      "name": "Amelia Montague",
+      "title_or_role": "Royal Matron",
+      "address": "1303 T st. nw.",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Prince Hall Chapter, No. 12, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=467,1355,950,78",
+      "image": "0124_service:rbc:lcrbmrp:t8072:124.jpg"
+    },
+    {
+      "name": "Walter J. Abrams",
+      "title_or_role": "Royal Patron",
+      "address": "1241 22nd st. nw.",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Prince Hall Chapter, No. 12, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=466,1480,955,74",
+      "image": "0124_service:rbc:lcrbmrp:t8072:124.jpg"
+    },
+    {
+      "name": "Eva B. Lucas",
+      "title_or_role": "Secretary",
+      "address": "461 E st. sw.",
+      "meeting_info": "Meets First Monday",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Prince Hall Chapter, No. 12, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=528,1620,800,62",
+      "image": "0124_service:rbc:lcrbmrp:t8072:124.jpg"
+    },
+    {
+      "name": "Rebecca J. Taylor",
+      "title_or_role": "Royal Matron",
+      "address": "1245 Austin st., Brookland, D. C.",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Electa Chapter, No. 14, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=472,2362,956,59",
+      "image": "0124_service:rbc:lcrbmrp:t8072:124.jpg"
+    },
+    {
+      "name": "W. A. Warfield",
+      "title_or_role": "Royal Patron",
+      "address": "1901 11th nw.",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Electa Chapter, No. 14, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=478,2486,950,59",
+      "image": "0124_service:rbc:lcrbmrp:t8072:124.jpg"
+    },
+    {
+      "name": "Ella Jones",
+      "title_or_role": "Secretary",
+      "address": "916 E st. sw.",
+      "meeting_info": "Meets Second Wednesday",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Electa Chapter, No. 14, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=586,2566,731,57",
+      "image": "0124_service:rbc:lcrbmrp:t8072:124.jpg"
+    }
+  ]
+}

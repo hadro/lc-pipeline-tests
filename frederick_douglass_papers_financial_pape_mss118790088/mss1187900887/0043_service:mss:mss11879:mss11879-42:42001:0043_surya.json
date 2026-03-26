@@ -1,0 +1,46 @@
+{
+  "image_width": 732,
+  "image_height": 1112,
+  "lines": [
+    {
+      "bbox": [
+        218,
+        143,
+        502,
+        194
+      ],
+      "text": "CAPITAL",
+      "confidence": 0.8458
+    },
+    {
+      "bbox": [
+        128,
+        219,
+        589,
+        291
+      ],
+      "text": "SAVINGS * BANK,",
+      "confidence": 0.9653
+    },
+    {
+      "bbox": [
+        141,
+        835,
+        584,
+        886
+      ],
+      "text": "NO. 609 F STREET, N W.,",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        233,
+        904,
+        493,
+        935
+      ],
+      "text": "WASHINGTON, D. C.",
+      "confidence": 0.9633
+    }
+  ]
+}

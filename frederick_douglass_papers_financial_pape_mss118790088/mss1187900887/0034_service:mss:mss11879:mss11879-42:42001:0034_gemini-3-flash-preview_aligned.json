@@ -1,0 +1,51 @@
+{
+  "image": "0034_service:mss:mss11879:mss11879-42:42001:0034.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0034",
+  "canvas_width": 1636,
+  "canvas_height": 1413,
+  "surya_median_confidence": 0.9123,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        117,
+        93,
+        809,
+        191
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0034#xywh=117,93,692,98",
+      "confidence": "line",
+      "gemini_text": "Contributions to Pamphlet fund",
+      "surya_confidence": 0.8688
+    },
+    {
+      "bbox": [
+        48,
+        200,
+        744,
+        497
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0034#xywh=48,200,696,297",
+      "confidence": "line",
+      "gemini_text": "30 By Alfred M. Rudd & Mrs. 5 00",
+      "surya_confidence": 0.9559
+    },
+    {
+      "bbox": [
+        732,
+        389,
+        781,
+        429
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0034#xywh=732,389,49,40",
+      "confidence": "line",
+      "gemini_text": "18 \" J. S. Leek, Ashtabula, O. 5 00",
+      "surya_confidence": 0.99
+    }
+  ],
+  "unmatched_gemini": [
+    "March",
+    "Apr"
+  ]
+}

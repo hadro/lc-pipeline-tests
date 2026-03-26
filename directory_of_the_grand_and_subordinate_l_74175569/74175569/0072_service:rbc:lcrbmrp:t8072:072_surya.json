@@ -1,0 +1,456 @@
+{
+  "image_width": 1822,
+  "image_height": 2988,
+  "lines": [
+    {
+      "bbox": [
+        490,
+        394,
+        1302,
+        433
+      ],
+      "text": "ELECTA CHAPTER—Continued.",
+      "confidence": 0.8249
+    },
+    {
+      "bbox": [
+        434,
+        464,
+        1105,
+        497
+      ],
+      "text": "Matthews, Josephine, 918 E sw.",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        433,
+        496,
+        1043,
+        534
+      ],
+      "text": "McKenny, Jane, 1540 5th nw.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        434,
+        533,
+        1043,
+        567
+      ],
+      "text": "Mills, Mary E., 1638 11th nw.",
+      "confidence": 0.9889
+    },
+    {
+      "bbox": [
+        433,
+        566,
+        1117,
+        600
+      ],
+      "text": "Minor, Florida, 745 Marshall nw.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        434,
+        602,
+        1114,
+        635
+      ],
+      "text": "Monroe, Emily, 716 Farragut nw.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        433,
+        631,
+        1122,
+        673
+      ],
+      "text": "Monroe, Lloyd, 716 Farragut nw.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        433,
+        661,
+        1128,
+        711
+      ],
+      "text": "Moore, Laura, 2219 Cleveland ave.",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        426,
+        704,
+        1002,
+        742
+      ],
+      "text": "Murray, Rosa, 1625 7th nw.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        434,
+        742,
+        961,
+        772
+      ],
+      "text": "Nelson, Lizzie, 951 Q nw.",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        434,
+        775,
+        1131,
+        809
+      ],
+      "text": "Norfolk, Amelia, Keyser, W. Va.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        432,
+        811,
+        1106,
+        843
+      ],
+      "text": "Parker, Lizzie, 1117 Half st. sw.",
+      "confidence": 0.959
+    },
+    {
+      "bbox": [
+        432,
+        842,
+        994,
+        882
+      ],
+      "text": "Perce, Hattie V., 222 D nw.",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        432,
+        878,
+        978,
+        915
+      ],
+      "text": "Porter, Julia, 1403 1st nw.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        434,
+        916,
+        962,
+        948
+      ],
+      "text": "Robins, Jennie, 144 C sw.",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        433,
+        949,
+        929,
+        985
+      ],
+      "text": "Sands, Lizzie, 327 H sw.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        433,
+        982,
+        1119,
+        1019
+      ],
+      "text": "Savoy, Lillian D., 1257 Wylie ne.",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        434,
+        1018,
+        956,
+        1053
+      ],
+      "text": "Scipio, Jennie, 630 T nw.",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        434,
+        1053,
+        1074,
+        1086
+      ],
+      "text": "Simmons, Mary E., 1207 R nw.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        433,
+        1086,
+        1052,
+        1125
+      ],
+      "text": "Slaughter, Mary, 1611 4th nw.",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        434,
+        1122,
+        1072,
+        1157
+      ],
+      "text": "Smith, Catharine, Rosslyn, Va.",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        434,
+        1158,
+        950,
+        1190
+      ],
+      "text": "Smith, Irene, 2331 E nw.",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        433,
+        1183,
+        1144,
+        1233
+      ],
+      "text": "Smith, Rachael A. P., 1030 3d sw.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        433,
+        1223,
+        1145,
+        1263
+      ],
+      "text": "Stillyard, Maria, 1117 Half st. sw.",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        433,
+        1259,
+        1205,
+        1298
+      ],
+      "text": "Taylor, O. T., 1245 Austin, Brookland.",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        432,
+        1294,
+        1328,
+        1331
+      ],
+      "text": "Taylor, Rebecca J., 1245 Austin, Brookland.",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        430,
+        1329,
+        1049,
+        1367
+      ],
+      "text": "Tyler, Mary, 993 Fla. ave. nw.",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        429,
+        1364,
+        1125,
+        1401
+      ],
+      "text": "Tyler, Mary V., 993 Fla. ave. nw.",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        429,
+        1401,
+        1122,
+        1434
+      ],
+      "text": "Tyler, William, 993 Fla. ave. nw.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        428,
+        1434,
+        991,
+        1469
+      ],
+      "text": "Walker, Mary T., 107 F sw.",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        427,
+        1464,
+        1105,
+        1510
+      ],
+      "text": "Warfield, Wm. A., 1901 11th nw.",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        429,
+        1504,
+        1096,
+        1538
+      ],
+      "text": "Warren, Amy, 714 Fla. ave. nw.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        423,
+        1549,
+        953,
+        1584
+      ],
+      "text": "Bailey, Florence, 400 I nw.",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        422,
+        1583,
+        1109,
+        1617
+      ],
+      "text": "Brown, Nannie B, 1316 Md. Ave. ne.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        420,
+        1618,
+        833,
+        1651
+      ],
+      "text": "Craig, Eva, 311 Lnw.",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        420,
+        1649,
+        1137,
+        1686
+      ],
+      "text": "Davis, Elnora, Fort Washakie, Wyo.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        422,
+        1687,
+        778,
+        1717
+      ],
+      "text": "Jackson, Mary L,",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        421,
+        1717,
+        871,
+        1753
+      ],
+      "text": "Wade, Alice, 311 F sw.",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        450,
+        1839,
+        1330,
+        1894
+      ],
+      "text": "JOSEPH H. STEWART,",
+      "confidence": 0.9577
+    },
+    {
+      "bbox": [
+        613,
+        1953,
+        1164,
+        2001
+      ],
+      "text": "Attorney at Law.",
+      "confidence": 0.9568
+    },
+    {
+      "bbox": [
+        323,
+        2187,
+        1454,
+        2239
+      ],
+      "text": "OFFICE, 609 F STREET, N. W., ROOM 1.",
+      "confidence": 0.9763
+    },
+    {
+      "bbox": [
+        701,
+        2318,
+        1071,
+        2360
+      ],
+      "text": "'Phone, 183-Y.",
+      "confidence": 0.8104
+    },
+    {
+      "bbox": [
+        456,
+        2501,
+        1334,
+        2554
+      ],
+      "text": "Residence, 1012 R Street, N. W.,",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        599,
+        2598,
+        1166,
+        2638
+      ],
+      "text": "WASHINGTON, D. C.",
+      "confidence": 0.9402
+    },
+    {
+      "bbox": [
+        856,
+        2715,
+        912,
+        2748
+      ],
+      "text": "63",
+      "confidence": 0.9686
+    }
+  ]
+}

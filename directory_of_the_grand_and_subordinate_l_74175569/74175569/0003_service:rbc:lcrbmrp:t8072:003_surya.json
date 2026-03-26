@@ -1,0 +1,86 @@
+{
+  "image_width": 1837,
+  "image_height": 3010,
+  "lines": [
+    {
+      "bbox": [
+        635,
+        529,
+        672,
+        546
+      ],
+      "text": "an an",
+      "confidence": 0.5435
+    },
+    {
+      "bbox": [
+        610,
+        979,
+        1299,
+        1031
+      ],
+      "text": "RARE BOOK COLLECTION",
+      "confidence": 0.9238
+    },
+    {
+      "bbox": [
+        639,
+        1607,
+        779,
+        1685
+      ],
+      "text": "Class.",
+      "confidence": 0.9405
+    },
+    {
+      "bbox": [
+        636,
+        1742,
+        765,
+        1823
+      ],
+      "text": "Book",
+      "confidence": 0.9042
+    },
+    {
+      "bbox": [
+        744,
+        1858,
+        1095,
+        1915
+      ],
+      "text": "THE BEQUEST OF",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        695,
+        1906,
+        1148,
+        1976
+      ],
+      "text": "DANIEL MURRAY",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        731,
+        1968,
+        1108,
+        2024
+      ],
+      "text": "WASHINGTON, D. C.",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        875,
+        2027,
+        967,
+        2066
+      ],
+      "text": "1925",
+      "confidence": 0.989
+    }
+  ]
+}

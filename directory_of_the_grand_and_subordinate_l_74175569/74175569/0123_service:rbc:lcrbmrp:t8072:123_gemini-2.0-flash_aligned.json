@@ -1,0 +1,636 @@
+{
+  "image": "0123_service:rbc:lcrbmrp:t8072:123.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123",
+  "canvas_width": 1895,
+  "canvas_height": 2995,
+  "surya_median_confidence": 0.9992,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        539,
+        408,
+        1334,
+        477
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=539,408,795,69",
+      "confidence": "line",
+      "gemini_text": "PROF. JOHN F. NUBEL,",
+      "surya_confidence": 0.9836
+    },
+    {
+      "bbox": [
+        350,
+        480,
+        1101,
+        522
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=350,480,751,42",
+      "confidence": "line",
+      "gemini_text": "Telephone 1225 Main. 1202 K St, N. W., Office.",
+      "surya_confidence": 0.9921
+    },
+    {
+      "bbox": [
+        413,
+        535,
+        1623,
+        584
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=413,535,1210,49",
+      "confidence": "line",
+      "gemini_text": "Scientific Massage, Medico-Gymnastics, Electricity,",
+      "surya_confidence": 0.9981
+    },
+    {
+      "bbox": [
+        784,
+        584,
+        1255,
+        617
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=784,584,471,33",
+      "confidence": "line",
+      "gemini_text": "Swedish Movements.",
+      "surya_confidence": 0.9453
+    },
+    {
+      "bbox": [
+        433,
+        637,
+        1601,
+        684
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=433,637,1168,47",
+      "confidence": "line",
+      "gemini_text": "All Facial and Scalp Affection Treated and Cured.",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        734,
+        685,
+        1291,
+        725
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=734,685,557,40",
+      "confidence": "line",
+      "gemini_text": "Hours, 9 a. m. to 6 p m.",
+      "surya_confidence": 0.9879
+    },
+    {
+      "bbox": [
+        525,
+        729,
+        1511,
+        771
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=525,729,986,42",
+      "confidence": "line",
+      "gemini_text": "Special Arrangements for Home Treatment.",
+      "surya_confidence": 0.9697
+    },
+    {
+      "bbox": [
+        429,
+        782,
+        1691,
+        828
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=429,782,1262,46",
+      "confidence": "line",
+      "gemini_text": "Having been very successful in treating the many skin",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        345,
+        825,
+        1691,
+        874
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=345,825,1346,49",
+      "confidence": "line",
+      "gemini_text": "and scalp affections that came under my care during my",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        344,
+        875,
+        1689,
+        914
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=344,875,1345,39",
+      "confidence": "line",
+      "gemini_text": "stay for the past twelve months with the John H. Woodbury",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        345,
+        916,
+        1689,
+        962
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=345,916,1344,46",
+      "confidence": "line",
+      "gemini_text": "Dermatological Institute of Washington, D. C., I have",
+      "surya_confidence": 0.9907
+    },
+    {
+      "bbox": [
+        345,
+        959,
+        1686,
+        1007
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=345,959,1341,48",
+      "confidence": "line",
+      "gemini_text": "severed my professional connections with said Institute and",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        343,
+        1003,
+        1686,
+        1051
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=343,1003,1343,48",
+      "confidence": "line",
+      "gemini_text": "established private parlors at the above address where I",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        345,
+        1049,
+        1689,
+        1095
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=345,1049,1344,46",
+      "confidence": "line",
+      "gemini_text": "will continue personally and successfully treating the",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        345,
+        1094,
+        1331,
+        1138
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=345,1094,986,44",
+      "confidence": "line",
+      "gemini_text": "varied affections skin and scalp are heir to.",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        432,
+        1140,
+        1691,
+        1184
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=432,1140,1259,44",
+      "confidence": "line",
+      "gemini_text": "My scientific facial treatment supersedes anything yet",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        345,
+        1183,
+        1691,
+        1227
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=345,1183,1346,44",
+      "confidence": "line",
+      "gemini_text": "introduced for increasing circulation, strengthening",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        343,
+        1226,
+        1691,
+        1274
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=343,1226,1348,48",
+      "confidence": "line",
+      "gemini_text": "muscles, developing tissues, removing wrinkles, whitening,",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        344,
+        1274,
+        1689,
+        1316
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=344,1274,1345,42",
+      "confidence": "line",
+      "gemini_text": "softening, healing and beautifying the complexion; protect-",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        342,
+        1316,
+        1691,
+        1362
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=342,1316,1349,46",
+      "confidence": "line",
+      "gemini_text": "ing the skin from the ill effects and sudden changes of the",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        342,
+        1363,
+        555,
+        1396
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=342,1363,213,33",
+      "confidence": "line",
+      "gemini_text": "weather.",
+      "surya_confidence": 0.9942
+    },
+    {
+      "bbox": [
+        431,
+        1408,
+        1691,
+        1448
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=431,1408,1260,40",
+      "confidence": "line",
+      "gemini_text": "The world is full of people who are afraid to examine",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        337,
+        1451,
+        1689,
+        1495
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=337,1451,1352,44",
+      "confidence": "line",
+      "gemini_text": "into their condition or are simply thoughtless and do not",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        337,
+        1496,
+        1689,
+        1538
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=337,1496,1352,42",
+      "confidence": "line",
+      "gemini_text": "realize the value of a good complexion. Take yourself for",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        337,
+        1538,
+        1702,
+        1584
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=337,1538,1365,46",
+      "confidence": "line",
+      "gemini_text": "instance. Sit down and honestly face the facts of your real-",
+      "surya_confidence": 0.9983
+    },
+    {
+      "bbox": [
+        336,
+        1583,
+        1685,
+        1629
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=336,1583,1349,46",
+      "confidence": "line",
+      "gemini_text": "condition. Soberly and sensibly stop a moment and think.",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        337,
+        1630,
+        1688,
+        1671
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=337,1630,1351,41",
+      "confidence": "line",
+      "gemini_text": "Is your complexion as good as it might be? Is your flesh",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        337,
+        1674,
+        1689,
+        1716
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=337,1674,1352,42",
+      "confidence": "line",
+      "gemini_text": "firm and sound? Do you sleep well? Are your eyes bright?",
+      "surya_confidence": 0.9971
+    },
+    {
+      "bbox": [
+        337,
+        1718,
+        1689,
+        1762
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=337,1718,1352,44",
+      "confidence": "line",
+      "gemini_text": "Does your skin bear the rosy flush of health? These are a",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        335,
+        1760,
+        1347,
+        1807
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=335,1760,1012,47",
+      "confidence": "line",
+      "gemini_text": "few of the questions you should ask yourself.",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        426,
+        1810,
+        1684,
+        1848
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=426,1810,1258,38",
+      "confidence": "line",
+      "gemini_text": "I propose to aid you in securing perfect complexion and",
+      "surya_confidence": 0.9981
+    },
+    {
+      "bbox": [
+        339,
+        1852,
+        1685,
+        1894
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=339,1852,1346,42",
+      "confidence": "line",
+      "gemini_text": "a luxuriant growth of hair. When I tell you my scientific",
+      "surya_confidence": 0.995
+    },
+    {
+      "bbox": [
+        334,
+        1900,
+        1686,
+        1937
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=334,1900,1352,37",
+      "confidence": "line",
+      "gemini_text": "treatment replaces a marred complexion with beauty-cures",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        337,
+        1940,
+        1686,
+        1986
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=337,1940,1349,46",
+      "confidence": "line",
+      "gemini_text": "and banishes from the human system Headaches, Tri-facial",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        336,
+        1984,
+        1685,
+        2031
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=336,1984,1349,47",
+      "confidence": "line",
+      "gemini_text": "Neuralgia, Nasal Catarrh, fullness and dizziness in the",
+      "surya_confidence": 0.9984
+    },
+    {
+      "bbox": [
+        334,
+        2027,
+        1683,
+        2076
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=334,2027,1349,49",
+      "confidence": "line",
+      "gemini_text": "head, Insomnia, and make weak eyes strong; I am well",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        337,
+        2074,
+        1167,
+        2116
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=337,2074,830,42",
+      "confidence": "line",
+      "gemini_text": "aware that I am making big claims.",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        419,
+        2120,
+        1685,
+        2162
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=419,2120,1266,42",
+      "confidence": "line",
+      "gemini_text": "Measure me by my works, not by my words. I offer",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        334,
+        2165,
+        1685,
+        2207
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=334,2165,1351,42",
+      "confidence": "line",
+      "gemini_text": "unprejudiced testimony not of people so obscure that their",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        331,
+        2206,
+        1682,
+        2253
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=331,2206,1351,47",
+      "confidence": "line",
+      "gemini_text": "word is valueless but of men and women whose standing in",
+      "surya_confidence": 0.9984
+    },
+    {
+      "bbox": [
+        331,
+        2251,
+        1680,
+        2298
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=331,2251,1349,47",
+      "confidence": "line",
+      "gemini_text": "the social and business world are such that they are above",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        331,
+        2296,
+        864,
+        2337
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=331,2296,533,41",
+      "confidence": "line",
+      "gemini_text": "the breath of suspicion.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        418,
+        2341,
+        1685,
+        2388
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=418,2341,1267,47",
+      "confidence": "line",
+      "gemini_text": "My system is as elastic as human need. I have no set",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        331,
+        2386,
+        1681,
+        2427
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=331,2386,1350,41",
+      "confidence": "line",
+      "gemini_text": "rules-no ironclad methods of progress. My treatment to",
+      "surya_confidence": 0.9973
+    },
+    {
+      "bbox": [
+        331,
+        2431,
+        1680,
+        2473
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=331,2431,1349,42",
+      "confidence": "line",
+      "gemini_text": "you will be measured and guided by your necessity. It",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        329,
+        2475,
+        1677,
+        2517
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=329,2475,1348,42",
+      "confidence": "line",
+      "gemini_text": "will be as individual as though you were my only patient.",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        419,
+        2520,
+        1680,
+        2562
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=419,2520,1261,42",
+      "confidence": "line",
+      "gemini_text": "I shall be pleased to have you call and consult me any",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        330,
+        2567,
+        1285,
+        2604
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=330,2567,955,37",
+      "confidence": "line",
+      "gemini_text": "time, all consultation strictly confidential.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        874,
+        2612,
+        1275,
+        2648
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=874,2612,401,36",
+      "confidence": "line",
+      "gemini_text": "Yours very truly,",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        922,
+        2655,
+        1542,
+        2691
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=922,2655,620,36",
+      "confidence": "line",
+      "gemini_text": "PROF. JOHN F. NUBEL.",
+      "surya_confidence": 0.9538
+    },
+    {
+      "bbox": [
+        413,
+        2710,
+        1681,
+        2752
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=413,2710,1268,42",
+      "confidence": "line",
+      "gemini_text": "P. S. My facial creams, lotions and tonics are pure",
+      "surya_confidence": 0.9969
+    },
+    {
+      "bbox": [
+        330,
+        2754,
+        893,
+        2787
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:123#xywh=330,2754,563,33",
+      "confidence": "line",
+      "gemini_text": "and effective and on sale.",
+      "surya_confidence": 0.9992
+    }
+  ],
+  "unmatched_gemini": []
+}

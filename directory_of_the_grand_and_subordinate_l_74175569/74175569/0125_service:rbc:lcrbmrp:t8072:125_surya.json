@@ -1,0 +1,166 @@
+{
+  "image_width": 1879,
+  "image_height": 2997,
+  "lines": [
+    {
+      "bbox": [
+        332,
+        1728,
+        1619,
+        1796
+      ],
+      "text": "REV. WILLIAM M. PATTON, Founder and",
+      "confidence": 0.8768
+    },
+    {
+      "bbox": [
+        265,
+        1795,
+        1622,
+        1864
+      ],
+      "text": "President of the Patton Novelty Company;",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        239,
+        1863,
+        1617,
+        1927
+      ],
+      "text": "Founder, Manager and Editor of the Bulletin",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        238,
+        1925,
+        1621,
+        2000
+      ],
+      "text": "Publishing Company; Founder and Right Wor-",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        242,
+        1994,
+        1621,
+        2065
+      ],
+      "text": "shipful Supreme Grand Master of the Improv-",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        259,
+        2059,
+        1621,
+        2133
+      ],
+      "text": "ed Order of Craftsmen and Princesses of",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        265,
+        2130,
+        1616,
+        2196
+      ],
+      "text": "Honor. He is also a line member and Supreme",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        259,
+        2195,
+        1621,
+        2264
+      ],
+      "text": "Representative of the Universal Brotherhood,",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        259,
+        2258,
+        1618,
+        2334
+      ],
+      "text": "the Knights and Daughters of Labor, the",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        264,
+        2326,
+        1619,
+        2396
+      ],
+      "text": "Knights and Ladies of Honor, the Knights of",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        265,
+        2390,
+        1619,
+        2456
+      ],
+      "text": "Honor of the World. He is also inventor of",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        218,
+        2464,
+        1616,
+        2528
+      ],
+      "text": "several valuable preparations which are being",
+      "confidence": 0.9575
+    },
+    {
+      "bbox": [
+        260,
+        2525,
+        1621,
+        2598
+      ],
+      "text": "widely used. The Rev. is an ordian elder of",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        251,
+        2594,
+        1608,
+        2664
+      ],
+      "text": "the C. M. E. Church, identified with the Kan-",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        262,
+        2660,
+        1610,
+        2729
+      ],
+      "text": "sas and Missouri Conference, and Station",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        258,
+        2732,
+        1316,
+        2792
+      ],
+      "text": "Pastor at Denver, Colo. \"Age 28.\"",
+      "confidence": 0.9961
+    }
+  ]
+}

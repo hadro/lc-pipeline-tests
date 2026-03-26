@@ -1,0 +1,426 @@
+{
+  "image_width": 1908,
+  "image_height": 3009,
+  "lines": [
+    {
+      "bbox": [
+        819,
+        463,
+        1186,
+        493
+      ],
+      "text": "AND AND AND THE REAL PRINCIPLE",
+      "confidence": 0.2664
+    },
+    {
+      "bbox": [
+        480,
+        500,
+        1591,
+        536
+      ],
+      "text": "THE RELIABLE EMPLOYMENT BUREAU.",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        537,
+        590,
+        1521,
+        634
+      ],
+      "text": "1211 10th St., N. W. 'Phone, Main 2272-y.",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        362,
+        681,
+        1707,
+        721
+      ],
+      "text": "Exchange for Trained Help, every capacity. City or",
+      "confidence": 0.9824
+    },
+    {
+      "bbox": [
+        470,
+        749,
+        1591,
+        788
+      ],
+      "text": "resorts. Profitable Situations. Prompt Service.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        664,
+        828,
+        1407,
+        867
+      ],
+      "text": "R. K. WASHINGTON, Prop'r,",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        860,
+        908,
+        1200,
+        941
+      ],
+      "text": "C. C. BURKE.",
+      "confidence": 0.9754
+    },
+    {
+      "bbox": [
+        710,
+        1007,
+        1356,
+        1046
+      ],
+      "text": "Antiseptic Shaving Parlors.",
+      "confidence": 0.9525
+    },
+    {
+      "bbox": [
+        802,
+        1108,
+        1259,
+        1147
+      ],
+      "text": "Expert Hair Cutter.",
+      "confidence": 0.8934
+    },
+    {
+      "bbox": [
+        403,
+        1209,
+        807,
+        1245
+      ],
+      "text": "1400 S St., N. W.",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        1232,
+        1209,
+        1656,
+        1247
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        828,
+        1288,
+        1232,
+        1323
+      ],
+      "text": "WATTS & BRO.",
+      "confidence": 0.9351
+    },
+    {
+      "bbox": [
+        760,
+        1344,
+        1230,
+        1381
+      ],
+      "text": "'Phone Main 1006-y.",
+      "confidence": 0.9311
+    },
+    {
+      "bbox": [
+        670,
+        1400,
+        1413,
+        1435
+      ],
+      "text": "Wholesale and Retail Dealers in",
+      "confidence": 0.9703
+    },
+    {
+      "bbox": [
+        783,
+        1457,
+        1283,
+        1494
+      ],
+      "text": "Coal, Wood and Coke.",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        492,
+        1512,
+        1572,
+        1551
+      ],
+      "text": "Orders received for large and small quantities.",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        577,
+        1568,
+        1494,
+        1606
+      ],
+      "text": "Delivery made to any section of the city.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        775,
+        1625,
+        1295,
+        1662
+      ],
+      "text": "Yard: 212 C St., S. W.",
+      "confidence": 0.9831
+    },
+    {
+      "bbox": [
+        761,
+        1699,
+        1302,
+        1739
+      ],
+      "text": "WILLIAM E. GRIEB.",
+      "confidence": 0.9621
+    },
+    {
+      "bbox": [
+        825,
+        1835,
+        1237,
+        1871
+      ],
+      "text": "RESTAURANT.",
+      "confidence": 0.9198
+    },
+    {
+      "bbox": [
+        391,
+        1969,
+        942,
+        2004
+      ],
+      "text": "No. 920 8th Street S. E.",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        1225,
+        1970,
+        1658,
+        2007
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9854
+    },
+    {
+      "bbox": [
+        491,
+        2047,
+        1211,
+        2084
+      ],
+      "text": "INVINCIBLE ORCHESTRA,",
+      "confidence": 0.9644
+    },
+    {
+      "bbox": [
+        650,
+        2102,
+        1369,
+        2142
+      ],
+      "text": "EDWARD AMBLER, Leader.",
+      "confidence": 0.9422
+    },
+    {
+      "bbox": [
+        1458,
+        2158,
+        1707,
+        2196
+      ],
+      "text": "(Concert.)",
+      "confidence": 0.9876
+    },
+    {
+      "bbox": [
+        847,
+        2159,
+        1215,
+        2199
+      ],
+      "text": "Incorporated.",
+      "confidence": 0.9815
+    },
+    {
+      "bbox": [
+        364,
+        2161,
+        575,
+        2197
+      ],
+      "text": "(Dance)",
+      "confidence": 0.9855
+    },
+    {
+      "bbox": [
+        542,
+        2227,
+        1106,
+        2264
+      ],
+      "text": "Office, 1403 P St., N. W.",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        670,
+        2273,
+        1314,
+        2310
+      ],
+      "text": "Residence, 1507-15 St. N. W.",
+      "confidence": 0.982
+    },
+    {
+      "bbox": [
+        449,
+        2328,
+        884,
+        2363
+      ],
+      "text": "First class service.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        1190,
+        2329,
+        1617,
+        2362
+      ],
+      "text": "Terms reasonable.",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        665,
+        2383,
+        1401,
+        2424
+      ],
+      "text": "All orders promptly attended to.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        1224,
+        2459,
+        1706,
+        2494
+      ],
+      "text": "JOHN PRIOLEAU.",
+      "confidence": 0.9655
+    },
+    {
+      "bbox": [
+        365,
+        2460,
+        715,
+        2495
+      ],
+      "text": "J. R. MOORE.",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        737,
+        2515,
+        1327,
+        2549
+      ],
+      "text": "MOORE & PRIOLEAU.",
+      "confidence": 0.9263
+    },
+    {
+      "bbox": [
+        645,
+        2570,
+        1419,
+        2604
+      ],
+      "text": "SPARTA BUFFET AND CAFE.",
+      "confidence": 0.9573
+    },
+    {
+      "bbox": [
+        359,
+        2626,
+        1706,
+        2667
+      ],
+      "text": "Fine wines, liquors and cigars. Hot free lunch every day.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        580,
+        2670,
+        1464,
+        2709
+      ],
+      "text": "Ladies will receive special attention in",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        774,
+        2717,
+        1302,
+        2755
+      ],
+      "text": "Dining-rooms upstairs.",
+      "confidence": 0.9594
+    },
+    {
+      "bbox": [
+        1227,
+        2773,
+        1655,
+        2810
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        403,
+        2776,
+        971,
+        2812
+      ],
+      "text": "1216 Penna. Ave., N. W.",
+      "confidence": 0.9766
+    },
+    {
+      "bbox": [
+        1011,
+        2820,
+        1062,
+        2850
+      ],
+      "text": "74",
+      "confidence": 0.9587
+    }
+  ]
+}

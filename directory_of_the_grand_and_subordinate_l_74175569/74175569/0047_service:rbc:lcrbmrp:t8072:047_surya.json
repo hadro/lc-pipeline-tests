@@ -1,0 +1,126 @@
+{
+  "image_width": 1875,
+  "image_height": 3006,
+  "lines": [
+    {
+      "bbox": [
+        494,
+        1201,
+        1387,
+        1280
+      ],
+      "text": "EMANUEL MURRAY,",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        671,
+        1347,
+        1203,
+        1384
+      ],
+      "text": "WHOLESALE AND RETAIL",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        324,
+        1473,
+        1544,
+        1567
+      ],
+      "text": "Ice Cream and Confections,",
+      "confidence": 0.621
+    },
+    {
+      "bbox": [
+        630,
+        1637,
+        1252,
+        1693
+      ],
+      "text": "1800 14th Street N. W.",
+      "confidence": 0.9789
+    },
+    {
+      "bbox": [
+        834,
+        1765,
+        1054,
+        1800
+      ],
+      "text": "CZERSO",
+      "confidence": 0.4091
+    },
+    {
+      "bbox": [
+        329,
+        1860,
+        1549,
+        1957
+      ],
+      "text": "OYSTERS IN SEASON;",
+      "confidence": 0.9851
+    },
+    {
+      "bbox": [
+        832,
+        2015,
+        1052,
+        2052
+      ],
+      "text": "CARE DE SO",
+      "confidence": 0.5898
+    },
+    {
+      "bbox": [
+        331,
+        2117,
+        1557,
+        2195
+      ],
+      "text": "Orders for Receptions and other Entertainments filled,",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        416,
+        2250,
+        1475,
+        2308
+      ],
+      "text": "Satisfaction Guaranteed.",
+      "confidence": 0.9772
+    },
+    {
+      "bbox": [
+        330,
+        2367,
+        1555,
+        2460
+      ],
+      "text": "ICE CREAM, all flavors, a Specialty.",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        837,
+        2506,
+        1054,
+        2547
+      ],
+      "text": "CETTE",
+      "confidence": 0.4159
+    },
+    {
+      "bbox": [
+        338,
+        2612,
+        1561,
+        2683
+      ],
+      "text": "CAFÉ, European plan, or by day, week or month.",
+      "confidence": 0.9975
+    }
+  ]
+}

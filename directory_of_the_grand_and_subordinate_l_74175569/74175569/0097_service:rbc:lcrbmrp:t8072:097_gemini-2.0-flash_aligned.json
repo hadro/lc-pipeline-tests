@@ -1,0 +1,132 @@
+{
+  "image": "0097_service:rbc:lcrbmrp:t8072:097.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:097",
+  "canvas_width": 1900,
+  "canvas_height": 2984,
+  "surya_median_confidence": 0.9978,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        582,
+        1403,
+        1372,
+        1504
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:097#xywh=582,1403,790,101",
+      "confidence": "line",
+      "gemini_text": "MME. DAVIS,",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        310,
+        1540,
+        1661,
+        1698
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:097#xywh=310,1540,1351,158",
+      "confidence": "line",
+      "gemini_text": "BORN CLAIRVOYANT & CARD READER",
+      "surya_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        444,
+        1752,
+        1533,
+        1824
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:097#xywh=444,1752,1089,72",
+      "confidence": "line",
+      "gemini_text": "Tells about Business, Removes Spells",
+      "surya_confidence": 0.9843
+    },
+    {
+      "bbox": [
+        450,
+        1862,
+        1535,
+        1937
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:097#xywh=450,1862,1085,75",
+      "confidence": "line",
+      "gemini_text": "and Evil Influences, Reunites the Sep-",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        449,
+        1965,
+        1535,
+        2048
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:097#xywh=449,1965,1086,83",
+      "confidence": "line",
+      "gemini_text": "arated and GIVES LUCK TO ALL.",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        685,
+        2213,
+        1313,
+        2279
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:097#xywh=685,2213,628,66",
+      "confidence": "line",
+      "gemini_text": "1228 25th St. N. W.,",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        687,
+        2318,
+        1219,
+        2381
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:097#xywh=687,2318,532,63",
+      "confidence": "line",
+      "gemini_text": "Washington, D. C.",
+      "surya_confidence": 0.9939
+    },
+    {
+      "bbox": [
+        322,
+        2536,
+        1673,
+        2606
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:097#xywh=322,2536,1351,70",
+      "confidence": "line",
+      "gemini_text": "No letters answered unless accompanied by",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        907,
+        2614,
+        1100,
+        2668
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:097#xywh=907,2614,193,54",
+      "confidence": "line",
+      "gemini_text": "stamp.",
+      "surya_confidence": 0.9978
+    },
+    {
+      "bbox": [
+        969,
+        2688,
+        1030,
+        2724
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:097#xywh=969,2688,61,36",
+      "confidence": "line",
+      "gemini_text": "88",
+      "surya_confidence": 0.9852
+    }
+  ],
+  "unmatched_gemini": []
+}

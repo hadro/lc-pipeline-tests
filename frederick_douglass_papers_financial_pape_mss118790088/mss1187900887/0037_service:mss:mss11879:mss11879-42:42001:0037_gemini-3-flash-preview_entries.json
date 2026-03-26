@@ -1,0 +1,28 @@
+{
+  "image": "0037_service:mss:mss11879:mss11879-42:42001:0037.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Loan Record",
+    "section_title": "Promissory Note",
+    "year": "1869"
+  },
+  "page_context": {
+    "record_type": "Loan Record",
+    "section_title": "Promissory Note",
+    "year": "1869"
+  },
+  "entries": [
+    {
+      "date": null,
+      "description": "Charles Douglass",
+      "amount": null,
+      "transaction_type": "loan_record",
+      "record_type": "Loan Record",
+      "section_title": "Promissory Note",
+      "year": "1869",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0037#xywh=184,208,456,121",
+      "image": "0037_service:mss:mss11879:mss11879-42:42001:0037.jpg"
+    }
+  ]
+}

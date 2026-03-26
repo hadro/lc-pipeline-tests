@@ -1,0 +1,338 @@
+{
+  "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031",
+  "canvas_width": 1636,
+  "canvas_height": 1380,
+  "surya_median_confidence": 0.9016,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        109,
+        155,
+        502,
+        216
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=109,155,393,61",
+      "confidence": "line",
+      "gemini_text": "1856 Amt. ford. 2485",
+      "surya_confidence": 0.4926
+    },
+    {
+      "bbox": [
+        111,
+        208,
+        540,
+        263
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=111,208,429,55",
+      "confidence": "line",
+      "gemini_text": "June 30 Interest 32 96",
+      "surya_confidence": 0.822
+    },
+    {
+      "bbox": [
+        109,
+        326,
+        224,
+        363
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=109,326,115,37",
+      "confidence": "line",
+      "gemini_text": "Sept 10 388",
+      "surya_confidence": 0.6149
+    },
+    {
+      "bbox": [
+        111,
+        375,
+        220,
+        412
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=111,375,109,37",
+      "confidence": "line",
+      "gemini_text": "1856 2905 96",
+      "surya_confidence": 0.9944
+    },
+    {
+      "bbox": [
+        100,
+        420,
+        549,
+        467
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=100,420,449,47",
+      "confidence": "line",
+      "gemini_text": "Novbr 25 To Balance 1087 51",
+      "surya_confidence": 0.6808
+    },
+    {
+      "bbox": [
+        100,
+        478,
+        209,
+        512
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=100,478,109,34",
+      "confidence": "line",
+      "gemini_text": "Dec 13 20 £ 96 89",
+      "surya_confidence": 0.9384
+    },
+    {
+      "bbox": [
+        133,
+        534,
+        211,
+        617
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=133,534,78,83",
+      "confidence": "line",
+      "gemini_text": "\" 19 50 £ 241 67",
+      "surya_confidence": 0.837
+    },
+    {
+      "bbox": [
+        303,
+        579,
+        635,
+        625
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=303,579,332,46",
+      "confidence": "line",
+      "gemini_text": "\" 20 Miller. V. M. 45 27",
+      "surya_confidence": 0.9794
+    },
+    {
+      "bbox": [
+        316,
+        632,
+        530,
+        669
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=316,632,214,37",
+      "confidence": "line",
+      "gemini_text": "\" 31 Interest 51 15",
+      "surya_confidence": 0.8292
+    },
+    {
+      "bbox": [
+        114,
+        684,
+        205,
+        718
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=114,684,91,34",
+      "confidence": "line",
+      "gemini_text": "1857 1522 49",
+      "surya_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        95,
+        778,
+        201,
+        816
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=95,778,106,38",
+      "confidence": "line",
+      "gemini_text": "Jan. 13 253 66",
+      "surya_confidence": 0.8833
+    },
+    {
+      "bbox": [
+        661,
+        189,
+        815,
+        272
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=661,189,154,83",
+      "confidence": "line",
+      "gemini_text": "\" 31 20 £ 96 33",
+      "surya_confidence": 0.9229
+    },
+    {
+      "bbox": [
+        650,
+        583,
+        811,
+        676
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=650,583,161,93",
+      "confidence": "line",
+      "gemini_text": "Feb. 25 10 £ 48 22",
+      "surya_confidence": 0.4792
+    },
+    {
+      "bbox": [
+        641,
+        884,
+        807,
+        959
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=641,884,166,75",
+      "confidence": "line",
+      "gemini_text": "1519 45",
+      "surya_confidence": 0.6832
+    },
+    {
+      "bbox": [
+        654,
+        951,
+        816,
+        988
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=654,951,162,37",
+      "confidence": "line",
+      "gemini_text": "Balance 1152 03",
+      "surya_confidence": 0.9871
+    },
+    {
+      "bbox": [
+        642,
+        992,
+        812,
+        1029
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=642,992,170,37",
+      "confidence": "line",
+      "gemini_text": "Interest 12 95",
+      "surya_confidence": 0.9766
+    },
+    {
+      "bbox": [
+        653,
+        1051,
+        828,
+        1104
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=653,1051,175,53",
+      "confidence": "line",
+      "gemini_text": "1164 98",
+      "surya_confidence": 0.9141
+    },
+    {
+      "bbox": [
+        852,
+        152,
+        1565,
+        303
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=852,152,713,151",
+      "confidence": "line",
+      "gemini_text": "1856 Amt forward 1818 45",
+      "surya_confidence": 0.9227
+    },
+    {
+      "bbox": [
+        1036,
+        513,
+        1336,
+        594
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=1036,513,300,81",
+      "confidence": "line",
+      "gemini_text": "Balance 1087 51",
+      "surya_confidence": 0.9345
+    },
+    {
+      "bbox": [
+        843,
+        727,
+        972,
+        781
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=843,727,129,54",
+      "confidence": "line",
+      "gemini_text": "7 Vouchers Returned 2905 96",
+      "surya_confidence": 0.4091
+    },
+    {
+      "bbox": [
+        1370,
+        383,
+        1538,
+        440
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=1370,383,168,57",
+      "confidence": "line",
+      "gemini_text": "251 25",
+      "surya_confidence": 0.9519
+    },
+    {
+      "bbox": [
+        1378,
+        447,
+        1548,
+        479
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=1378,447,170,32",
+      "confidence": "line",
+      "gemini_text": "150",
+      "surya_confidence": 0.7235
+    },
+    {
+      "bbox": [
+        1381,
+        514,
+        1545,
+        593
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=1381,514,164,79",
+      "confidence": "line",
+      "gemini_text": "Balance 1070 24",
+      "surya_confidence": 0.9205
+    },
+    {
+      "bbox": [
+        1390,
+        694,
+        1532,
+        732
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=1390,694,142,38",
+      "confidence": "line",
+      "gemini_text": "1857 V. R. 1522 49",
+      "surya_confidence": 0.9821
+    },
+    {
+      "bbox": [
+        1405,
+        743,
+        1541,
+        774
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=1405,743,136,31",
+      "confidence": "line",
+      "gemini_text": "Feby 4 By Balance 367 42",
+      "surya_confidence": 0.9926
+    },
+    {
+      "bbox": [
+        1398,
+        794,
+        1533,
+        824
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=1398,794,135,30",
+      "confidence": "line",
+      "gemini_text": "\" Balance 1152 03",
+      "surya_confidence": 0.989
+    },
+    {
+      "bbox": [
+        1401,
+        947,
+        1536,
+        980
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=1401,947,135,33",
+      "confidence": "line",
+      "gemini_text": "V. R. 1519 45",
+      "surya_confidence": 0.9794
+    }
+  ],
+  "unmatched_gemini": [
+    "March 11 1164 98"
+  ]
+}

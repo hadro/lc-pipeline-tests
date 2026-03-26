@@ -1,0 +1,226 @@
+{
+  "image": "0025_service:mss:mss11879:mss11879-42:42001:0025.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Expense List",
+    "section_title": "For clothes & sundries",
+    "year": "1887"
+  },
+  "page_context": {
+    "record_type": "Bank Ledger",
+    "section_title": "Dr.",
+    "year": "1877"
+  },
+  "entries": [
+    {
+      "date": "March 13, 1876",
+      "description": "Dep",
+      "amount": "1150.00",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "Dr.",
+      "year": "1876",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025#xywh=327,189,372,27",
+      "image": "0025_service:mss:mss11879:mss11879-42:42001:0025.jpg"
+    },
+    {
+      "date": "March 14, 1876",
+      "description": "Dep",
+      "amount": "342.00",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "Dr.",
+      "year": "1876",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025",
+      "image": "0025_service:mss:mss11879:mss11879-42:42001:0025.jpg"
+    },
+    {
+      "date": "May 1, 1876",
+      "description": "Dep",
+      "amount": "10.00",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "Dr.",
+      "year": "1876",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025",
+      "image": "0025_service:mss:mss11879:mss11879-42:42001:0025.jpg"
+    },
+    {
+      "date": "May 3, 1876",
+      "description": "by",
+      "amount": "1500.00",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "Dr.",
+      "year": "1876",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025",
+      "image": "0025_service:mss:mss11879:mss11879-42:42001:0025.jpg"
+    },
+    {
+      "date": "May 20, 1876",
+      "description": "by",
+      "amount": "275.00",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "Dr.",
+      "year": "1876",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025",
+      "image": "0025_service:mss:mss11879:mss11879-42:42001:0025.jpg"
+    },
+    {
+      "date": "July 1, 1876",
+      "description": "Int",
+      "amount": "12.49",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "Dr.",
+      "year": "1876",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025",
+      "image": "0025_service:mss:mss11879:mss11879-42:42001:0025.jpg"
+    },
+    {
+      "date": "January 1, 1877",
+      "description": "Int",
+      "amount": "2.27",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "Dr.",
+      "year": "1877",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025#xywh=561,678,137,39",
+      "image": "0025_service:mss:mss11879:mss11879-42:42001:0025.jpg"
+    },
+    {
+      "date": "March 30, 1877",
+      "description": "Dep",
+      "amount": "705.00",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "Dr.",
+      "year": "1877",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025#xywh=1106,110,281,76",
+      "image": "0025_service:mss:mss11879:mss11879-42:42001:0025.jpg"
+    },
+    {
+      "date": null,
+      "description": "Total Amount",
+      "amount": "3994.76",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "Dr.",
+      "year": "1877",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025",
+      "image": "0025_service:mss:mss11879:mss11879-42:42001:0025.jpg"
+    },
+    {
+      "date": "April 2, 1877",
+      "description": "Balance",
+      "amount": "717.22",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "Dr.",
+      "year": "1877",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025#xywh=527,675,29,35",
+      "image": "0025_service:mss:mss11879:mss11879-42:42001:0025.jpg"
+    },
+    {
+      "date": "April 21, 1877",
+      "description": "Dep",
+      "amount": "300.00",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "Dr.",
+      "year": "1877",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025",
+      "image": "0025_service:mss:mss11879:mss11879-42:42001:0025.jpg"
+    },
+    {
+      "date": "June 30, 1877",
+      "description": "by",
+      "amount": "325.00",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "Dr.",
+      "year": "1877",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025",
+      "image": "0025_service:mss:mss11879:mss11879-42:42001:0025.jpg"
+    },
+    {
+      "date": "May 3, 1876",
+      "description": "C. ck.",
+      "amount": "1500.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "Cr.",
+      "year": "1876",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025#xywh=525,255,592,75",
+      "image": "0025_service:mss:mss11879:mss11879-42:42001:0025.jpg"
+    },
+    {
+      "date": "June 3, 1876",
+      "description": "C. ck.",
+      "amount": "25.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "Cr.",
+      "year": "1876",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025",
+      "image": "0025_service:mss:mss11879:mss11879-42:42001:0025.jpg"
+    },
+    {
+      "date": "June 5, 1876",
+      "description": "C. ck.",
+      "amount": "1750.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "Cr.",
+      "year": "1876",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025",
+      "image": "0025_service:mss:mss11879:mss11879-42:42001:0025.jpg"
+    },
+    {
+      "date": "July 19, 1876",
+      "description": "R. Jackson",
+      "amount": "50.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "Cr.",
+      "year": "1876",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025#xywh=750,418,161,50",
+      "image": "0025_service:mss:mss11879:mss11879-42:42001:0025.jpg"
+    },
+    {
+      "date": "September 21, 1876",
+      "description": "Costs Dft. prot.",
+      "amount": "1.99",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "Cr.",
+      "year": "1876",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025#xywh=742,465,456,112",
+      "image": "0025_service:mss:mss11879:mss11879-42:42001:0025.jpg"
+    },
+    {
+      "date": null,
+      "description": "Balance",
+      "amount": "717.22",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "Cr.",
+      "year": "1876",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025",
+      "image": "0025_service:mss:mss11879:mss11879-42:42001:0025.jpg"
+    },
+    {
+      "date": null,
+      "description": "Total Amount",
+      "amount": "3994.76",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "Cr.",
+      "year": "1876",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025",
+      "image": "0025_service:mss:mss11879:mss11879-42:42001:0025.jpg"
+    }
+  ]
+}

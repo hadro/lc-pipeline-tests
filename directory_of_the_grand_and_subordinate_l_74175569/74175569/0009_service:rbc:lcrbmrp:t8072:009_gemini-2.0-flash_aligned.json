@@ -1,0 +1,38 @@
+{
+  "image": "0009_service:rbc:lcrbmrp:t8072:009.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:009",
+  "canvas_width": 1708,
+  "canvas_height": 2812,
+  "surya_median_confidence": 0.9914,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        610,
+        2218,
+        1253,
+        2279
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:009#xywh=610,2218,643,61",
+      "confidence": "line",
+      "gemini_text": "WM. H. JUDD MALVIN,",
+      "surya_confidence": 0.9914
+    },
+    {
+      "bbox": [
+        651,
+        2383,
+        1119,
+        2432
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:009#xywh=651,2383,468,49",
+      "confidence": "line",
+      "gemini_text": "COLUMBIA.",
+      "surya_confidence": 0.983
+    }
+  ],
+  "unmatched_gemini": [
+    "GRAND MASTER OF MASONS, FOR THE DISTRICT OF"
+  ]
+}

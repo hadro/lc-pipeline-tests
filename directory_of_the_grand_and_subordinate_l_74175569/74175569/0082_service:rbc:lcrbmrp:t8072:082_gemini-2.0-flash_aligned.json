@@ -1,0 +1,507 @@
+{
+  "image": "0082_service:rbc:lcrbmrp:t8072:082.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082",
+  "canvas_width": 1816,
+  "canvas_height": 2986,
+  "surya_median_confidence": 0.9751,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        302,
+        665,
+        1601,
+        702
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=302,665,1299,37",
+      "confidence": "line",
+      "gemini_text": "The names of the members of the craft are arranged",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        256,
+        717,
+        1602,
+        764
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=256,717,1346,47",
+      "confidence": "line",
+      "gemini_text": "alphabetically, and the following key will guide you to a",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        252,
+        779,
+        1138,
+        817
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=252,779,886,38",
+      "confidence": "line",
+      "gemini_text": "complete understanding of the scheme.",
+      "surya_confidence": 0.9971
+    },
+    {
+      "bbox": [
+        470,
+        844,
+        938,
+        878
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=470,844,468,34",
+      "confidence": "line",
+      "gemini_text": "A Past Grand Master.",
+      "surya_confidence": 0.9652
+    },
+    {
+      "bbox": [
+        465,
+        886,
+        1111,
+        928
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=465,886,646,42",
+      "confidence": "line",
+      "gemini_text": "B Past Deputy Grand Master.",
+      "surya_confidence": 0.9866
+    },
+    {
+      "bbox": [
+        432,
+        931,
+        1120,
+        969
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=432,931,688,38",
+      "confidence": "line",
+      "gemini_text": "C Past Senior Grand Warden.",
+      "surya_confidence": 0.9916
+    },
+    {
+      "bbox": [
+        388,
+        976,
+        1124,
+        1013
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=388,976,736,37",
+      "confidence": "line",
+      "gemini_text": "D Past Junior Grand Warden.",
+      "surya_confidence": 0.9516
+    },
+    {
+      "bbox": [
+        388,
+        1023,
+        1013,
+        1057
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=388,1023,625,34",
+      "confidence": "line",
+      "gemini_text": "E Past Grand Treasurer.",
+      "surya_confidence": 0.8754
+    },
+    {
+      "bbox": [
+        385,
+        1067,
+        1000,
+        1106
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=385,1067,615,39",
+      "confidence": "line",
+      "gemini_text": "F Past Grand Secretary.",
+      "surya_confidence": 0.9794
+    },
+    {
+      "bbox": [
+        385,
+        1113,
+        782,
+        1147
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=385,1113,397,34",
+      "confidence": "line",
+      "gemini_text": "G Past Master.",
+      "surya_confidence": 0.93
+    },
+    {
+      "bbox": [
+        473,
+        1157,
+        1062,
+        1195
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=473,1157,589,38",
+      "confidence": "line",
+      "gemini_text": "H Past Grand High Priest.",
+      "surya_confidence": 0.9836
+    },
+    {
+      "bbox": [
+        385,
+        1197,
+        1241,
+        1243
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=385,1197,856,46",
+      "confidence": "line",
+      "gemini_text": "I Past Deputy Grand High Priest.",
+      "surya_confidence": 0.9718
+    },
+    {
+      "bbox": [
+        384,
+        1247,
+        908,
+        1284
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=384,1247,524,37",
+      "confidence": "line",
+      "gemini_text": "K Past Grand King.",
+      "surya_confidence": 0.9202
+    },
+    {
+      "bbox": [
+        385,
+        1290,
+        930,
+        1326
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=385,1290,545,36",
+      "confidence": "line",
+      "gemini_text": "L Past Grand Scribe.",
+      "surya_confidence": 0.9804
+    },
+    {
+      "bbox": [
+        384,
+        1336,
+        889,
+        1374
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=384,1336,505,38",
+      "confidence": "line",
+      "gemini_text": "M Past High Priest.",
+      "surya_confidence": 0.9755
+    },
+    {
+      "bbox": [
+        384,
+        1377,
+        1044,
+        1415
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=384,1377,660,38",
+      "confidence": "line",
+      "gemini_text": "N Past Grand Commander.",
+      "surya_confidence": 0.9695
+    },
+    {
+      "bbox": [
+        384,
+        1422,
+        1216,
+        1462
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=384,1422,832,40",
+      "confidence": "line",
+      "gemini_text": "O Past Deputy Grand Commander.",
+      "surya_confidence": 0.952
+    },
+    {
+      "bbox": [
+        382,
+        1468,
+        1104,
+        1504
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=382,1468,722,36",
+      "confidence": "line",
+      "gemini_text": "P Past Grand Generalissimo.",
+      "surya_confidence": 0.9838
+    },
+    {
+      "bbox": [
+        381,
+        1508,
+        1163,
+        1594
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=381,1508,782,86",
+      "confidence": "line",
+      "gemini_text": "Q Past Grand Captain General.",
+      "surya_confidence": 0.7519
+    },
+    {
+      "bbox": [
+        379,
+        1599,
+        1516,
+        1640
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=379,1599,1137,41",
+      "confidence": "line",
+      "gemini_text": "S Mecca Temple, A. E. A. O. N. Mystic Shrine.",
+      "surya_confidence": 0.9841
+    },
+    {
+      "bbox": [
+        375,
+        1643,
+        1407,
+        1687
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=375,1643,1032,44",
+      "confidence": "line",
+      "gemini_text": "T Past Grand Patron, Order Eastern Star.",
+      "surya_confidence": 0.974
+    },
+    {
+      "bbox": [
+        375,
+        1690,
+        1156,
+        1728
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=375,1690,781,38",
+      "confidence": "line",
+      "gemini_text": "U Past Grand Matron, O. E. S.",
+      "surya_confidence": 0.9638
+    },
+    {
+      "bbox": [
+        355,
+        1734,
+        985,
+        1774
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=355,1734,630,40",
+      "confidence": "line",
+      "gemini_text": "V Past Patron, O. E. S.",
+      "surya_confidence": 0.9506
+    },
+    {
+      "bbox": [
+        379,
+        1781,
+        991,
+        1817
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=379,1781,612,36",
+      "confidence": "line",
+      "gemini_text": "W Past Matron, O. E. S.",
+      "surya_confidence": 0.9885
+    },
+    {
+      "bbox": [
+        384,
+        1821,
+        1286,
+        1865
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=384,1821,902,44",
+      "confidence": "line",
+      "gemini_text": "32° Consistory of Scottish Rite Masons.",
+      "surya_confidence": 0.9905
+    },
+    {
+      "bbox": [
+        382,
+        1866,
+        1424,
+        1910
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=382,1866,1042,44",
+      "confidence": "line",
+      "gemini_text": "33° Supreme Council of Scottish Rite Masons.",
+      "surya_confidence": 0.9841
+    },
+    {
+      "bbox": [
+        293,
+        1945,
+        1536,
+        1987
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=293,1945,1243,42",
+      "confidence": "line",
+      "gemini_text": "The first number after a name denotes Lodge, namely:",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        682,
+        2012,
+        1525,
+        2052
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=682,2012,843,40",
+      "confidence": "line",
+      "gemini_text": "1 Social. 6 Meridian. 10 John F. Cook.",
+      "surya_confidence": 0.9737
+    },
+    {
+      "bbox": [
+        647,
+        2051,
+        1469,
+        2100
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=647,2051,822,49",
+      "confidence": "line",
+      "gemini_text": "3 Felix. 7 Widow's Son. 12 St. John's.",
+      "surya_confidence": 0.9883
+    },
+    {
+      "bbox": [
+        638,
+        2100,
+        1510,
+        2138
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=638,2100,872,38",
+      "confidence": "line",
+      "gemini_text": "4 Hiram. 8 Warren. 14 Prince Hall.",
+      "surya_confidence": 0.9691
+    },
+    {
+      "bbox": [
+        708,
+        2143,
+        1560,
+        2185
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=708,2143,852,42",
+      "confidence": "line",
+      "gemini_text": "5 Eureka. 9 Pythagoras. 15 Chas. Datcher.",
+      "surya_confidence": 0.9661
+    },
+    {
+      "bbox": [
+        293,
+        2226,
+        1598,
+        2264
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=293,2226,1305,38",
+      "confidence": "line",
+      "gemini_text": "The second number after a name denotes Chapter, namely:",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        269,
+        2293,
+        1434,
+        2330
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=269,2293,1165,37",
+      "confidence": "line",
+      "gemini_text": "1 Mt. Vernon. 5 Prince Hall. 11 Keystone.",
+      "surya_confidence": 0.9628
+    },
+    {
+      "bbox": [
+        665,
+        2338,
+        1003,
+        2373
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=665,2338,338,35",
+      "confidence": "line",
+      "gemini_text": "2 Union. 7 St. John's",
+      "surya_confidence": 0.9819
+    },
+    {
+      "bbox": [
+        293,
+        2416,
+        1592,
+        2452
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=293,2416,1299,36",
+      "confidence": "line",
+      "gemini_text": "The third number after a name denotes Commandery,",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        245,
+        2474,
+        435,
+        2509
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=245,2474,190,35",
+      "confidence": "line",
+      "gemini_text": "namely:",
+      "surya_confidence": 0.9952
+    },
+    {
+      "bbox": [
+        1019,
+        2538,
+        1361,
+        2572
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=1019,2538,342,34",
+      "confidence": "line",
+      "gemini_text": "1 Simon. 3 Gethsemane.",
+      "surya_confidence": 0.9748
+    },
+    {
+      "bbox": [
+        1024,
+        2582,
+        1365,
+        2622
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=1024,2582,341,40",
+      "confidence": "line",
+      "gemini_text": "2 Henderson 4 Mt. Calvary.",
+      "surya_confidence": 0.9888
+    },
+    {
+      "bbox": [
+        289,
+        2650,
+        1595,
+        2690
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=289,2650,1306,40",
+      "confidence": "line",
+      "gemini_text": "The \"O\" denotes not belonging to Lodge, Chapter or",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        245,
+        2696,
+        1032,
+        2734
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=245,2696,787,38",
+      "confidence": "line",
+      "gemini_text": "Commandery, in this jurisdiction.",
+      "surya_confidence": 0.9866
+    },
+    {
+      "bbox": [
+        894,
+        2785,
+        948,
+        2818
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:082#xywh=894,2785,54,33",
+      "confidence": "line",
+      "gemini_text": "73",
+      "surya_confidence": 0.9525
+    }
+  ],
+  "unmatched_gemini": [
+    "Key to Directory.",
+    "R Past Eminent Commander."
+  ]
+}

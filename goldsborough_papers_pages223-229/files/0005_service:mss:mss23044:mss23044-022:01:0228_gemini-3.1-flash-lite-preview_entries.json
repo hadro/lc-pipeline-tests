@@ -1,0 +1,507 @@
+{
+  "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "vessel_identity": "St. Lawrence",
+    "section_title": "Armament",
+    "subsection": "Main Deck"
+  },
+  "page_context": {
+    "vessel_identity": "Razee Sloop",
+    "section_title": "Watch-bill",
+    "subsection": "Forecastle"
+  },
+  "entries": [
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "Capt",
+      "value": "2",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "Cox",
+      "value": "2",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "Sea",
+      "value": "14",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "OS",
+      "value": "14",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Forecastle",
+      "item_label": "Lands",
+      "value": "8",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Mastmen",
+      "item_label": "Sea",
+      "value": "2",
+      "details": "1 in 1st part of each Watch",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Topmen",
+      "item_label": "Captn",
+      "value": "2",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Topmen",
+      "item_label": "Cox",
+      "value": "2",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Topmen",
+      "item_label": "Sea",
+      "value": "10",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Topmen",
+      "item_label": "OS",
+      "value": "16",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Topmen",
+      "item_label": "Lands",
+      "value": "2",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Fore Topmen",
+      "item_label": "Boys",
+      "value": "4",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Main Topmen",
+      "item_label": "Capt",
+      "value": "2",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Main Topmen",
+      "item_label": "Cox",
+      "value": "2",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Main Topmen",
+      "item_label": "Sea",
+      "value": "10",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Main Topmen",
+      "item_label": "OS",
+      "value": "18",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Main Topmen",
+      "item_label": "Lands",
+      "value": "2",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Main Topmen",
+      "item_label": "Boys",
+      "value": "4",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Main Mastmen",
+      "item_label": "Sea",
+      "value": "2",
+      "details": "1 in 1st Part of each Watch",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Mizen Topmen",
+      "item_label": "Captn",
+      "value": "2",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Mizen Topmen",
+      "item_label": "Cox",
+      "value": "1",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Mizen Topmen",
+      "item_label": "Sea",
+      "value": "5",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Mizen Topmen",
+      "item_label": "OS",
+      "value": "12",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Mizen Topmen",
+      "item_label": "Boys",
+      "value": "8",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "After Guard",
+      "item_label": "Captn",
+      "value": "2",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "After Guard",
+      "item_label": "Sea",
+      "value": "5",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "After Guard",
+      "item_label": "OS",
+      "value": "12",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "After Guard",
+      "item_label": "Lands",
+      "value": "31",
+      "details": "Total",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Messenger & Sideboys",
+      "item_label": "Messenger & Sideboys",
+      "value": "6",
+      "details": "2 in 1st part, & 1 in ea 2d part",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Petty Officers",
+      "item_label": "Boatsmates",
+      "value": "3",
+      "details": "placed",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Petty Officers",
+      "item_label": "Qr Masters",
+      "value": "6",
+      "details": "placed",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Petty Officers",
+      "item_label": "Gunr Mate",
+      "value": "1",
+      "details": "placed",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Petty Officers",
+      "item_label": "Qr Gunners",
+      "value": "6",
+      "details": "placed",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Petty Officers",
+      "item_label": "Capts mate",
+      "value": "1",
+      "details": "placed",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Petty Officers",
+      "item_label": "Armorer",
+      "value": "1",
+      "details": "placed",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Petty Officers",
+      "item_label": "Sailmakers mate",
+      "value": "1",
+      "details": "placed",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Petty Officers",
+      "item_label": "Cooper",
+      "value": "1",
+      "details": "placed",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers - Petty Officers",
+      "item_label": "Ships Stewd",
+      "value": "1",
+      "details": "Idler",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers - Petty Officers",
+      "item_label": "MR Stewd",
+      "value": "1",
+      "details": "Idler",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers - Petty Officers",
+      "item_label": "Ships Corpls",
+      "value": "2",
+      "details": "Idler",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers - Petty Officers",
+      "item_label": "Ships Cook",
+      "value": "1",
+      "details": "Idler",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers - Petty Officers",
+      "item_label": "Capts Cook",
+      "value": "1",
+      "details": "Idler",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers - Petty Officers",
+      "item_label": "Mast Arms",
+      "value": "1",
+      "details": "Idler",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers - Petty Officers",
+      "item_label": "Yeoman",
+      "value": "1",
+      "details": "Idler",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers - Petty Officers",
+      "item_label": "Capts Stewd",
+      "value": "1",
+      "details": "Idler",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers - Petty Officers",
+      "item_label": "Sergt Stewd",
+      "value": "1",
+      "details": "Idler",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers - Petty Officers",
+      "item_label": "MR Cook",
+      "value": "1",
+      "details": "Idler",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers - Petty Officers",
+      "item_label": "Capt Hold",
+      "value": "1",
+      "details": "Idler",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Watch-bill",
+      "subsection": "Idlers - Petty Officers",
+      "item_label": "ordy Sergt of Marines",
+      "value": "1",
+      "details": "Idler",
+      "canvas_fragment": "",
+      "image": "0005_service:mss:mss23044:mss23044-022:01:0228.jpg"
+    }
+  ]
+}

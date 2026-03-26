@@ -1,0 +1,696 @@
+{
+  "image_width": 1810,
+  "image_height": 2993,
+  "lines": [
+    {
+      "bbox": [
+        600,
+        460,
+        1229,
+        499
+      ],
+      "text": "DIRECTORY-Continued.",
+      "confidence": 0.966
+    },
+    {
+      "bbox": [
+        454,
+        554,
+        1024,
+        586
+      ],
+      "text": "Chase, B. S., 5, 1508 M nw.",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        453,
+        585,
+        1227,
+        622
+      ],
+      "text": "Chase, David W., 7-7-1, S, 1421 F nw.",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        455,
+        621,
+        1190,
+        656
+      ],
+      "text": "Chase, Edward, 3-1-1, S, 915 G sw.",
+      "confidence": 0.9858
+    },
+    {
+      "bbox": [
+        455,
+        655,
+        1327,
+        691
+      ],
+      "text": "Cheatham, H. P., 9, 32d G, Tarboro, N. C.",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        455,
+        692,
+        1108,
+        725
+      ],
+      "text": "Cheek, John S.; 6, 1501 7th nw.",
+      "confidence": 0.9837
+    },
+    {
+      "bbox": [
+        455,
+        728,
+        1248,
+        758
+      ],
+      "text": "Chichester, Douglas, 1, 751 Stuben nw.",
+      "confidence": 0.9821
+    },
+    {
+      "bbox": [
+        455,
+        763,
+        1128,
+        795
+      ],
+      "text": "Childs, C. W., 5, 32d 513 3d sw.",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        455,
+        795,
+        1267,
+        831
+      ],
+      "text": "Clair, Rev. M. W., 10-7-4, 1914 11th nw.",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        455,
+        829,
+        1101,
+        866
+      ],
+      "text": "Clark, A. F., 1-7, 612 14th nw.",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        456,
+        862,
+        1107,
+        904
+      ],
+      "text": "Clark, A. T., 0-7, 1306 27th nw.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        455,
+        897,
+        1330,
+        937
+      ],
+      "text": "Clark, Freemont, 1, 823 Springman Ct. sw.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        455,
+        933,
+        1127,
+        972
+      ],
+      "text": "Clark, J. B., 5, 32d 1726 8th nw.",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        455,
+        968,
+        1232,
+        1006
+      ],
+      "text": "Clark, Wm. A., 8-2-3, G, 1300 22d nw.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        455,
+        1005,
+        1131,
+        1040
+      ],
+      "text": "Clark, Wm. H., 9, G, 1823 S nw.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        457,
+        1040,
+        1149,
+        1077
+      ],
+      "text": "Clatterbuck, Wm., 15-5, 144 C sw.",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        456,
+        1073,
+        1075,
+        1113
+      ],
+      "text": "Clinton, W. T., 3, 218 13th ne.",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        456,
+        1108,
+        1122,
+        1146
+      ],
+      "text": "Cobb, W. E., 14-7, 325 Elm nw.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        458,
+        1144,
+        1069,
+        1182
+      ],
+      "text": "Cohen, Edw., 5, 1010 16th nw.",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        459,
+        1176,
+        1078,
+        1218
+      ],
+      "text": "Cole, George, 1, 1150 21st nw.",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        459,
+        1213,
+        1353,
+        1249
+      ],
+      "text": "Cole, J. Wm., 14-7-4, 32d G-S, 1412 17th nw.",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        459,
+        1247,
+        1394,
+        1287
+      ],
+      "text": "Coleman, Henry, 1-5-1, 33d A-I-R-S-T, 1112",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        497,
+        1291,
+        799,
+        1318
+      ],
+      "text": "N. J. ave. nw.",
+      "confidence": 0.986
+    },
+    {
+      "bbox": [
+        461,
+        1318,
+        1354,
+        1355
+      ],
+      "text": "Coleman, L. C., 9-1-3, M, rear of 1602 L nw.",
+      "confidence": 0.9889
+    },
+    {
+      "bbox": [
+        0,
+        1338,
+        18,
+        1371
+      ],
+      "text": "0",
+      "confidence": 0.5238
+    },
+    {
+      "bbox": [
+        461,
+        1357,
+        1076,
+        1389
+      ],
+      "text": "Coleman, W. H., 3, 1509 C se.",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        0,
+        1383,
+        19,
+        1409
+      ],
+      "text": "n",
+      "confidence": 0.7157
+    },
+    {
+      "bbox": [
+        461,
+        1391,
+        1111,
+        1424
+      ],
+      "text": "Collier, A. W. H., 9, 903 U nw.",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        462,
+        1420,
+        1271,
+        1461
+      ],
+      "text": "Collins, Carter E., 15, 607 La. ave. nw.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        462,
+        1458,
+        1212,
+        1494
+      ],
+      "text": "Collins, Thomas N., 15-5, Phila., Pa.",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        0,
+        1465,
+        19,
+        1497
+      ],
+      "text": "d",
+      "confidence": 0.8723
+    },
+    {
+      "bbox": [
+        461,
+        1491,
+        1234,
+        1531
+      ],
+      "text": "Cook, Geo. W., 9, Howard University.",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        461,
+        1527,
+        1235,
+        1566
+      ],
+      "text": "Cook, John F., 5-5-3, A, 1118 16th nw.",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        463,
+        1564,
+        1194,
+        1599
+      ],
+      "text": "Cook, Wm. H., 7, 7 Fussels Ct. nw.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        463,
+        1596,
+        1048,
+        1634
+      ],
+      "text": "Cooper, J. C., 3, 443 8th sw.",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        463,
+        1636,
+        1113,
+        1669
+      ],
+      "text": "Cooper, Nelson T., 9, 126 F sw.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        463,
+        1666,
+        1110,
+        1708
+      ],
+      "text": "Cornish, A. L., 3, 311 Elm nw.",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        465,
+        1702,
+        1191,
+        1740
+      ],
+      "text": "Costley, Louis P., 14, 1825 Vt. ave.",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        465,
+        1734,
+        1398,
+        1775
+      ],
+      "text": "Cozzens, Frank H., 10-7-4, 32d D-H-R-S, 2111",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        499,
+        1777,
+        660,
+        1805
+      ],
+      "text": "9th nw.",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        467,
+        1805,
+        1281,
+        1847
+      ],
+      "text": "Craig, Samuel T., 15-5-1, G-S, 311 L nw.",
+      "confidence": 0.9858
+    },
+    {
+      "bbox": [
+        467,
+        1840,
+        1278,
+        1880
+      ],
+      "text": "Cromwell, J. W., 7, 1439 Pierce Pl. nw.",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        465,
+        1874,
+        1193,
+        1915
+      ],
+      "text": "Crusor, C. B., 7-11-2, 1331 28th nw.",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        465,
+        1911,
+        1199,
+        1949
+      ],
+      "text": "Cunningham, Chas. F., 15, 73 G sw.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        466,
+        1944,
+        1079,
+        1988
+      ],
+      "text": "Curry, J. C., 5, 1725 10th nw.",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        466,
+        1975,
+        1178,
+        2024
+      ],
+      "text": "Curtis, Austin M, 1, 1535 14th nw.",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        467,
+        2016,
+        1119,
+        2056
+      ],
+      "text": "Dabney, Chas., 4, 1409 28th nw.",
+      "confidence": 0.972
+    },
+    {
+      "bbox": [
+        467,
+        2049,
+        1196,
+        2090
+      ],
+      "text": "Dabney, Jas. H., 8-1-3, 1132 3d nw.",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        0,
+        2070,
+        19,
+        2088
+      ],
+      "text": "--",
+      "confidence": 0.8199
+    },
+    {
+      "bbox": [
+        467,
+        2084,
+        1143,
+        2125
+      ],
+      "text": "Dade, Henry, Jr., 4, 610 21st nw.",
+      "confidence": 0.9829
+    },
+    {
+      "bbox": [
+        467,
+        2118,
+        1403,
+        2158
+      ],
+      "text": "Dailey, Benj. F., 7-11-2, 32d C-O-S, 1147 20th",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        467,
+        2151,
+        1403,
+        2193
+      ],
+      "text": "Davenport, J. W., 7-2-2, 33d F-R, 2813 Dum-",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        508,
+        2198,
+        737,
+        2224
+      ],
+      "text": "barton ave.",
+      "confidence": 0.9492
+    },
+    {
+      "bbox": [
+        467,
+        2225,
+        1063,
+        2263
+      ],
+      "text": "Davis, Geo. W., 9, 421 L nw.",
+      "confidence": 0.9806
+    },
+    {
+      "bbox": [
+        468,
+        2258,
+        1204,
+        2299
+      ],
+      "text": "Davis, H. J., 5-7, G, 1251 Wylie ne.",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        470,
+        2294,
+        1305,
+        2333
+      ],
+      "text": "Davis, John H., 5-1-1, G-R-S, 1514 O nw.",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        472,
+        2332,
+        1200,
+        2366
+      ],
+      "text": "Davis, John P., 1, Gov. Ptg. Office.",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        473,
+        2366,
+        1203,
+        2403
+      ],
+      "text": "Davis, J. W., 9, 1734 N. Y. ave. nw.",
+      "confidence": 0.9828
+    },
+    {
+      "bbox": [
+        471,
+        2394,
+        1138,
+        2435
+      ],
+      "text": "Davis, Wm. L., 1, 1228 25th nw.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        473,
+        2434,
+        1107,
+        2469
+      ],
+      "text": "Dean, Robt. H., 15, 717 2d sw.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        471,
+        2462,
+        1407,
+        2508
+      ],
+      "text": "Deans. C. H., 12-1-2, 32d B-M-S, 2403 Bright-",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        508,
+        2508,
+        719,
+        2536
+      ],
+      "text": "wood ave.",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        471,
+        2535,
+        1118,
+        2577
+      ],
+      "text": "DeLong, Wm., 9, 2208 12th nw.",
+      "confidence": 0.984
+    },
+    {
+      "bbox": [
+        466,
+        2561,
+        1230,
+        2658
+      ],
+      "text": "Dickerson, E. A., 14-7, 2206 8th nw. Dickerson, E. M., 1-7, 1711 11th nw.",
+      "confidence": 0.9435
+    },
+    {
+      "bbox": [
+        473,
+        2636,
+        1433,
+        2683
+      ],
+      "text": "Dickerson, Fred., 14, 34 School st., Boston,",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        471,
+        2674,
+        1067,
+        2720
+      ],
+      "text": "Diggs, M. S., 3, 2237 7th nw.",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        472,
+        2708,
+        1059,
+        2756
+      ],
+      "text": "Dodson, B. C., 5, 443 S nw.",
+      "confidence": 0.9788
+    },
+    {
+      "bbox": [
+        914,
+        2796,
+        965,
+        2828
+      ],
+      "text": "79",
+      "confidence": 0.9376
+    },
+    {
+      "bbox": [
+        432,
+        2909,
+        550,
+        2922
+      ],
+      "text": "and the same of the same",
+      "confidence": 0.1167
+    }
+  ]
+}

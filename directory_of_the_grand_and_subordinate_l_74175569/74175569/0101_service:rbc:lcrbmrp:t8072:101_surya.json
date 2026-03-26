@@ -1,0 +1,466 @@
+{
+  "image_width": 1912,
+  "image_height": 3001,
+  "lines": [
+    {
+      "bbox": [
+        666,
+        401,
+        1342,
+        442
+      ],
+      "text": "\"ELECTRICITY IS LIFE\"",
+      "confidence": 0.9703
+    },
+    {
+      "bbox": [
+        327,
+        454,
+        1683,
+        509
+      ],
+      "text": "The Imparting of this Life-giving science for the Elimina-",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        722,
+        505,
+        1284,
+        546
+      ],
+      "text": "tion of Pains and Ills by",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        767,
+        550,
+        1232,
+        590
+      ],
+      "text": "FRED. B. PURCE,",
+      "confidence": 0.9794
+    },
+    {
+      "bbox": [
+        325,
+        585,
+        703,
+        631
+      ],
+      "text": "222 D St., N. W.",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        1161,
+        600,
+        1584,
+        640
+      ],
+      "text": "Washington, D C.",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        391,
+        630,
+        1589,
+        689
+      ],
+      "text": "Try my massage treatment and help is sure to come.",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        325,
+        673,
+        1680,
+        734
+      ],
+      "text": "Stiff joints, Rheumatism, Aches and Pains of all kinds",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        791,
+        730,
+        1206,
+        770
+      ],
+      "text": "instantly relieved.",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        700,
+        816,
+        1292,
+        862
+      ],
+      "text": "JAMES H. HUDNELL,",
+      "confidence": 0.9809
+    },
+    {
+      "bbox": [
+        439,
+        869,
+        1563,
+        923
+      ],
+      "text": "Representing the Castelberg Diamond Importers.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        321,
+        927,
+        841,
+        967
+      ],
+      "text": "935 Pennsylvania Ave.",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        1135,
+        935,
+        1578,
+        977
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        651,
+        986,
+        1340,
+        1030
+      ],
+      "text": "Residence, 2009 9th St., N. W.",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        319,
+        1034,
+        1673,
+        1092
+      ],
+      "text": "A postal to either address will bring my sample case to your",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        392,
+        1081,
+        1578,
+        1135
+      ],
+      "text": "door. You pay a little each week, and never miss it.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        735,
+        1206,
+        1253,
+        1254
+      ],
+      "text": "R. L. PENDLETON,",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        620,
+        1272,
+        1358,
+        1319
+      ],
+      "text": "Practical Book and Job Printer.",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        448,
+        1348,
+        875,
+        1387
+      ],
+      "text": "First-Class Work.",
+      "confidence": 0.9819
+    },
+    {
+      "bbox": [
+        886,
+        1355,
+        1535,
+        1397
+      ],
+      "text": "Lowest Prices",
+      "confidence": 0.9772
+    },
+    {
+      "bbox": [
+        314,
+        1401,
+        1622,
+        1462
+      ],
+      "text": "Office: 524 10th (Corner F) St., N. W. Washington, D. C.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        316,
+        1459,
+        833,
+        1505
+      ],
+      "text": "Telephone Main 388-y.",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        1300,
+        1470,
+        1666,
+        1511
+      ],
+      "text": "Electric Power.",
+      "confidence": 0.9657
+    },
+    {
+      "bbox": [
+        404,
+        1566,
+        760,
+        1603
+      ],
+      "text": "Telephone 3960.",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        1180,
+        1573,
+        1579,
+        1611
+      ],
+      "text": "Established 1877.",
+      "confidence": 0.9755
+    },
+    {
+      "bbox": [
+        705,
+        1655,
+        1265,
+        1696
+      ],
+      "text": "JOSEPH AUERBACH.",
+      "confidence": 0.9366
+    },
+    {
+      "bbox": [
+        832,
+        1738,
+        1130,
+        1775
+      ],
+      "text": "Men's Wear.",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        311,
+        1787,
+        596,
+        1825
+      ],
+      "text": "Down Town",
+      "confidence": 0.964
+    },
+    {
+      "bbox": [
+        1354,
+        1802,
+        1577,
+        1840
+      ],
+      "text": "Up Town",
+      "confidence": 0.9334
+    },
+    {
+      "bbox": [
+        351,
+        1842,
+        1206,
+        1894
+      ],
+      "text": "623 Pa. Ave. Washington, D. C.",
+      "confidence": 0.9832
+    },
+    {
+      "bbox": [
+        1383,
+        1858,
+        1660,
+        1892
+      ],
+      "text": "14th Cor. G.",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        351,
+        1930,
+        1662,
+        1991
+      ],
+      "text": "Do you wish a successful career, one that will not only",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        308,
+        1977,
+        1662,
+        2034
+      ],
+      "text": "enable you to make money, but develop your latent forces",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        311,
+        2023,
+        1662,
+        2077
+      ],
+      "text": "and build your character into a Gibraltar of strength?",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        308,
+        2068,
+        1029,
+        2116
+      ],
+      "text": "Note card on page 70 Address",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        753,
+        2119,
+        1302,
+        2161
+      ],
+      "text": "DR. JOHN F. NUBEL,",
+      "confidence": 0.9748
+    },
+    {
+      "bbox": [
+        306,
+        2158,
+        1659,
+        2211
+      ],
+      "text": "Telephone Main 1225 Professor Massage and Electricity.",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        394,
+        2204,
+        800,
+        2245
+      ],
+      "text": "1202 K St., N. W.",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        1134,
+        2211,
+        1565,
+        2253
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9871
+    },
+    {
+      "bbox": [
+        525,
+        2316,
+        1437,
+        2360
+      ],
+      "text": "Subscribe for the \"MYSTIC LIGHT.\"",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        351,
+        2403,
+        1657,
+        2456
+      ],
+      "text": "Devoted to freemasonry throughout the world. Carefully",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        306,
+        2458,
+        1659,
+        2514
+      ],
+      "text": "selected news and editorials. Agents wanted in every",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        305,
+        2515,
+        1048,
+        2563
+      ],
+      "text": "jurisdiction. Only 65c per year.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        628,
+        2598,
+        1316,
+        2640
+      ],
+      "text": "HENRY E. BURRIS, Editor,",
+      "confidence": 0.9172
+    },
+    {
+      "bbox": [
+        989,
+        2660,
+        1381,
+        2696
+      ],
+      "text": "Rock Island, Ill.",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        951,
+        2713,
+        1010,
+        2746
+      ],
+      "text": "92",
+      "confidence": 0.9801
+    }
+  ]
+}

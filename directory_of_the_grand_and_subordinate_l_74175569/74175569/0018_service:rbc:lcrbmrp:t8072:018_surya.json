@@ -1,0 +1,476 @@
+{
+  "image_width": 1837,
+  "image_height": 2905,
+  "lines": [
+    {
+      "bbox": [
+        415,
+        264,
+        1768,
+        339
+      ],
+      "text": "OFFICIAL HISTORY OF FREE",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        877,
+        351,
+        1314,
+        406
+      ],
+      "text": "MASONRY",
+      "confidence": 0.7927
+    },
+    {
+      "bbox": [
+        601,
+        440,
+        1580,
+        508
+      ],
+      "text": "Among the Colored People",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        740,
+        515,
+        1404,
+        578
+      ],
+      "text": "in North America.",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        534,
+        610,
+        1634,
+        667
+      ],
+      "text": "By W. H. GRIMSHAW, of the Library of Congress.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        872,
+        711,
+        1310,
+        748
+      ],
+      "text": "ILLUSTRATED.",
+      "confidence": 0.9573
+    },
+    {
+      "bbox": [
+        769,
+        756,
+        1414,
+        796
+      ],
+      "text": "WITH AN INTRODUCTION BY",
+      "confidence": 0.9797
+    },
+    {
+      "bbox": [
+        707,
+        809,
+        1475,
+        848
+      ],
+      "text": "JOSEPH TYLER BUTTS.",
+      "confidence": 0.9688
+    },
+    {
+      "bbox": [
+        460,
+        896,
+        1760,
+        944
+      ],
+      "text": "This is a history of Colored Freemasonry, published in",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        414,
+        945,
+        1301,
+        989
+      ],
+      "text": "one volume, now ready for distribution.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        457,
+        986,
+        1762,
+        1032
+      ],
+      "text": "It begins with the Mother Grand Lodge, London, Eng-",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        415,
+        1027,
+        1762,
+        1081
+      ],
+      "text": "land, 1717, and traces the growth of Masonry (especially",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        419,
+        1073,
+        1762,
+        1124
+      ],
+      "text": "among Colored men) down to the present day. It gives an",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        417,
+        1115,
+        1765,
+        1169
+      ],
+      "text": "account of the introduction of Freemasonry into America;",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        417,
+        1161,
+        1765,
+        1215
+      ],
+      "text": "its origin and practice among Negroes, and indicates where",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        417,
+        1206,
+        1607,
+        1260
+      ],
+      "text": "Colored Masons are recognized throughout the world.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        460,
+        1251,
+        1765,
+        1302
+      ],
+      "text": "The history of Freemasonry among Colored Men in each",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        419,
+        1298,
+        1763,
+        1345
+      ],
+      "text": "State is briefly and officially treated, and the book will be",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        420,
+        1346,
+        1149,
+        1385
+      ],
+      "text": "an official reference for all time.",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        461,
+        1384,
+        1765,
+        1434
+      ],
+      "text": "Many curious incidents are mentioned—such as initiation",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        417,
+        1428,
+        1764,
+        1482
+      ],
+      "text": "of whites into colored lodges and colored men into white",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        418,
+        1474,
+        1681,
+        1524
+      ],
+      "text": "lodges, also the number of Masons in the United States.",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        460,
+        1520,
+        1762,
+        1568
+      ],
+      "text": "The official seal of approval is set on the book by the fol-",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        417,
+        1570,
+        941,
+        1612
+      ],
+      "text": "lowing communication:",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        575,
+        1622,
+        1610,
+        1663
+      ],
+      "text": "OFFICE OF THE GRAND SECRETARY,",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        854,
+        1669,
+        1328,
+        1707
+      ],
+      "text": "604 D Street, N. W.,",
+      "confidence": 0.9774
+    },
+    {
+      "bbox": [
+        549,
+        1712,
+        1716,
+        1756
+      ],
+      "text": "Washington, D. C., April 3, A. L. 5901, A. D. 1901.",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        415,
+        1759,
+        1007,
+        1799
+      ],
+      "text": "M W. SIR AND BROTHER:",
+      "confidence": 0.9747
+    },
+    {
+      "bbox": [
+        457,
+        1795,
+        1760,
+        1846
+      ],
+      "text": "We take great pleasure in recommending to your favora-",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        418,
+        1839,
+        1762,
+        1893
+      ],
+      "text": "ble consideration our esteemed Bro., W. H. Grimshaw, of the",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        417,
+        1883,
+        1760,
+        1936
+      ],
+      "text": "Library of Congress, who is a P D G. M. of this jurisdic-",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        417,
+        1929,
+        1760,
+        1980
+      ],
+      "text": "tion, and who is highly respected by the Craft. You will",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        418,
+        1974,
+        1760,
+        2026
+      ],
+      "text": "see that the work he is engaged in is one that concerns the",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        416,
+        2019,
+        1760,
+        2068
+      ],
+      "text": "whole Fraternity, therefore we request for him full and free",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        415,
+        2062,
+        1759,
+        2115
+      ],
+      "text": "information in all matters pertaining to the history of Free-",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        418,
+        2106,
+        1757,
+        2159
+      ],
+      "text": "masonry in your State. The M. W. G. M., Robert H. Ter-",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        418,
+        2154,
+        1358,
+        2203
+      ],
+      "text": "rell, joins me in thanking you in advance.",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        858,
+        2205,
+        1288,
+        2241
+      ],
+      "text": "Fraternally yours,",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        1075,
+        2244,
+        1517,
+        2285
+      ],
+      "text": "WM. H. MYERS,",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        548,
+        2255,
+        763,
+        2284
+      ],
+      "text": "ATTEST:",
+      "confidence": 0.9792
+    },
+    {
+      "bbox": [
+        680,
+        2284,
+        1753,
+        2332
+      ],
+      "text": "(Seal) Grand Secretary of the M. W. G. L.",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        1037,
+        2330,
+        1659,
+        2372
+      ],
+      "text": "of the District of Columbia.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        504,
+        2381,
+        1474,
+        2433
+      ],
+      "text": "Sent postpaid on receipt of price, $1.50,",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        602,
+        2443,
+        1567,
+        2487
+      ],
+      "text": "By E. TENNYSON NEELY, Publisher,",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        1392,
+        2487,
+        1747,
+        2527
+      ],
+      "text": "New York City.",
+      "confidence": 0.9403
+    },
+    {
+      "bbox": [
+        416,
+        2494,
+        872,
+        2530
+      ],
+      "text": "40 West 34th Street,",
+      "confidence": 0.9803
+    },
+    {
+      "bbox": [
+        471,
+        2546,
+        1705,
+        2584
+      ],
+      "text": "or, W. H. GRIMSHAW, 247 10th St. N. E., Wash., D. C.",
+      "confidence": 0.99
+    }
+  ]
+}

@@ -1,0 +1,646 @@
+{
+  "image_width": 1472,
+  "image_height": 1267,
+  "lines": [
+    {
+      "bbox": [
+        817,
+        109,
+        1345,
+        145
+      ],
+      "text": "Bestimmungen betreffend Ginlagen.",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        135,
+        113,
+        635,
+        146
+      ],
+      "text": "REGULATIONS CONCERNING DEPOSITS.",
+      "confidence": 0.7366
+    },
+    {
+      "bbox": [
+        249,
+        158,
+        521,
+        177
+      ],
+      "text": "[Extract from the By Laws.]",
+      "confidence": 0.9636
+    },
+    {
+      "bbox": [
+        859,
+        170,
+        1311,
+        199
+      ],
+      "text": "[ Auszug aus ben Rebengefegen. - 12, Abichnitt. ]",
+      "confidence": 0.5929
+    },
+    {
+      "bbox": [
+        131,
+        188,
+        660,
+        217
+      ],
+      "text": "SEC. 22. I .- The Bank shall be open daily, Sundays",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        110,
+        221,
+        661,
+        250
+      ],
+      "text": "and holidays excepted, from 10 o'clock, a. m., to 4 o'clock,",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        827,
+        223,
+        1361,
+        251
+      ],
+      "text": "I .- Die Bant ift täglich, mit Musnahme von Gonn: und",
+      "confidence": 0.8637
+    },
+    {
+      "bbox": [
+        806,
+        249,
+        1361,
+        280
+      ],
+      "text": "Reiertagen, geöffnet, und gwar von Morgens 10 Uhr bis",
+      "confidence": 0.3769
+    },
+    {
+      "bbox": [
+        110,
+        255,
+        662,
+        283
+      ],
+      "text": "p m. On Saturdays the Bank shall be open from 6 to 8",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        806,
+        278,
+        1361,
+        307
+      ],
+      "text": "Rachmittage 4 Uhr; fowie jeden Camftag Abend von 6 bis",
+      "confidence": 0.7296
+    },
+    {
+      "bbox": [
+        110,
+        290,
+        490,
+        317
+      ],
+      "text": "o'clock, p. m., to receive deposits only.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        807,
+        309,
+        1286,
+        333
+      ],
+      "text": "8 Ubr, jedoch nur um Ginlagen entgegenzunehmen,",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        132,
+        321,
+        661,
+        351
+      ],
+      "text": "II .- Deposits of One Dollar or more may be received,",
+      "confidence": 0.8117
+    },
+    {
+      "bbox": [
+        830,
+        349,
+        1361,
+        380
+      ],
+      "text": "II - Ginlagen werben von Ginem Dollar aufwarts, in",
+      "confidence": 0.933
+    },
+    {
+      "bbox": [
+        110,
+        353,
+        663,
+        384
+      ],
+      "text": "either in specie, lawful money, or the equivalent of the",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        808,
+        377,
+        1361,
+        409
+      ],
+      "text": "Baargelb ober anderen gefetlichen Zahlungemitteln gleichen",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        111,
+        397,
+        177,
+        413
+      ],
+      "text": "latter.",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        808,
+        412,
+        1083,
+        434
+      ],
+      "text": "Berthes, entgegengenommen.",
+      "confidence": 0.5869
+    },
+    {
+      "bbox": [
+        131,
+        420,
+        663,
+        450
+      ],
+      "text": "III .- On making the first deposit, each depositor shall",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        830,
+        450,
+        1363,
+        479
+      ],
+      "text": "III.-Bei ber erften Ginlage foll jeber Ginleger angehalten",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        112,
+        454,
+        665,
+        484
+      ],
+      "text": "be required to sign his name in the signature book of the",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        806,
+        476,
+        1363,
+        508
+      ],
+      "text": "werben, feinen Ramen in bas Unterschriftsbuch ber Bant",
+      "confidence": 0.9082
+    },
+    {
+      "bbox": [
+        111,
+        489,
+        667,
+        516
+      ],
+      "text": "Bank, thereby signifying assent to the By-Laws; and all",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        806,
+        504,
+        1363,
+        536
+      ],
+      "text": "einzutragen, um baburch feine Buftimmung gu ben Reben=",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        113,
+        521,
+        666,
+        551
+      ],
+      "text": "additional By-Laws or alterations of the same shall be",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        806,
+        533,
+        1364,
+        563
+      ],
+      "text": "gefeben zu erflaren; nachträglich bingugefügte Rebengefebe",
+      "confidence": 0.5905
+    },
+    {
+      "bbox": [
+        808,
+        559,
+        1364,
+        591
+      ],
+      "text": "ober Abanderungen berfelben, find für die Ginleger gleich=",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        114,
+        560,
+        408,
+        582
+      ],
+      "text": "equally binding on depositors.",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        134,
+        587,
+        666,
+        617
+      ],
+      "text": "IV .- Each depositor shall receive a deposit-book in",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        808,
+        596,
+        938,
+        618
+      ],
+      "text": "verpflichteub.",
+      "confidence": 0.7802
+    },
+    {
+      "bbox": [
+        115,
+        624,
+        667,
+        648
+      ],
+      "text": "which the amount of every deposit shall be entered, and",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        827,
+        632,
+        1365,
+        662
+      ],
+      "text": "IV. - Bei ber erften Ginlage foll ein jeder Ginleger ein Gin=",
+      "confidence": 0.9854
+    },
+    {
+      "bbox": [
+        115,
+        655,
+        667,
+        683
+      ],
+      "text": "which shall be presented at the Bank, if required by the",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        809,
+        660,
+        1365,
+        691
+      ],
+      "text": "lagebuch, in welchem alle Gingablungen eingetragen wer=",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        809,
+        687,
+        1365,
+        720
+      ],
+      "text": "ben, erhalten; biefes Ginlagebuch foll, wenn Ginlagen",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        115,
+        692,
+        624,
+        714
+      ],
+      "text": "officers, whenever money is deposited or withdrawn.",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        808,
+        717,
+        1365,
+        747
+      ],
+      "text": "und Rudgablungen gemacht werben, auf Berlangen ber",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        136,
+        722,
+        668,
+        750
+      ],
+      "text": "V .- On the first days of January and July such divi-",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        810,
+        748,
+        1213,
+        772
+      ],
+      "text": "Bantbeamten, benfelben vorgezeigt werben.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        115,
+        756,
+        668,
+        782
+      ],
+      "text": "dend of interest shall be declared on all sums remaining",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        115,
+        790,
+        668,
+        816
+      ],
+      "text": "on deposit for one calendar month, or longer, as the pro-",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        832,
+        791,
+        1365,
+        816
+      ],
+      "text": "V .- Un jedem erften Januar und Juli follen die, dem Be=",
+      "confidence": 0.9803
+    },
+    {
+      "bbox": [
+        810,
+        817,
+        1365,
+        846
+      ],
+      "text": "winne ber Bant entsprechenden Bind Dividenden auf all",
+      "confidence": 0.7024
+    },
+    {
+      "bbox": [
+        116,
+        822,
+        668,
+        850
+      ],
+      "text": "fits of the Bank will allow; and if at any time the profits",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        811,
+        843,
+        1366,
+        875
+      ],
+      "text": "Summen welche mabrend einem Ralenbermonat ober langer,",
+      "confidence": 0.8913
+    },
+    {
+      "bbox": [
+        116,
+        856,
+        672,
+        883
+      ],
+      "text": "are not sufficient to pay to depositors interest at the rate of",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        811,
+        872,
+        1367,
+        902
+      ],
+      "text": "beponirt gemejen, erflart werben. Ift gu irgend einer Beit",
+      "confidence": 0.8898
+    },
+    {
+      "bbox": [
+        116,
+        890,
+        669,
+        917
+      ],
+      "text": "at least four and one-half per centum per annum, then",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        811,
+        899,
+        1365,
+        931
+      ],
+      "text": "ber Banfgewinn ungenügend um ben Ginlegern einen Bins",
+      "confidence": 0.967
+    },
+    {
+      "bbox": [
+        118,
+        921,
+        671,
+        951
+      ],
+      "text": "that amount shall be made good if necessary from the",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        811,
+        927,
+        1366,
+        958
+      ],
+      "text": "bon wenigstens Bier und ein Salb Brogent im Jahr, gu be-",
+      "confidence": 0.7363
+    },
+    {
+      "bbox": [
+        811,
+        954,
+        1366,
+        986
+      ],
+      "text": "gablen, fo foll biefe Summe im Rothfall, vom Bant-Rapi=",
+      "confidence": 0.6156
+    },
+    {
+      "bbox": [
+        118,
+        955,
+        672,
+        984
+      ],
+      "text": "capital stock of the Bank. Whenever, in the judgment",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        811,
+        983,
+        1369,
+        1014
+      ],
+      "text": "tal vergütet werben. Wenn ju irgend einer Beit, je nach",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        118,
+        987,
+        672,
+        1017
+      ],
+      "text": "of the officers, the protection of the interests of the Bank",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        811,
+        1009,
+        1369,
+        1041
+      ],
+      "text": "bem Gutachten ber Bantbeamten ber Schut ber Intereffen",
+      "confidence": 0.9727
+    },
+    {
+      "bbox": [
+        118,
+        1020,
+        672,
+        1050
+      ],
+      "text": "or of the depositors may seem to require it, thirty or",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        811,
+        1038,
+        1369,
+        1069
+      ],
+      "text": "ber Bant ober ber Ginleger es ju erforbern icheint, jo foll",
+      "confidence": 0.8547
+    },
+    {
+      "bbox": [
+        118,
+        1055,
+        673,
+        1084
+      ],
+      "text": "sixty days' notice of intention to withdraw the whole or",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        811,
+        1065,
+        1367,
+        1097
+      ],
+      "text": "eine Ründigungöfrift von Dreißig ober Gechozig Tagen,",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        120,
+        1089,
+        673,
+        1117
+      ],
+      "text": "any part of a deposit may be demanded; but payments",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        813,
+        1093,
+        1367,
+        1124
+      ],
+      "text": "für ben Bezug ber gangen Ginlage ober eines Theils ber-",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        121,
+        1121,
+        673,
+        1151
+      ],
+      "text": "may be made on demand, without thereby waiving the",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        813,
+        1122,
+        1367,
+        1152
+      ],
+      "text": "felben, verlangt werben fonnen; auf Berlangen jedoch fon:",
+      "confidence": 0.9749
+    }
+  ]
+}

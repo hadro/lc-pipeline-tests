@@ -1,0 +1,306 @@
+{
+  "image_width": 1862,
+  "image_height": 2986,
+  "lines": [
+    {
+      "bbox": [
+        1059,
+        945,
+        1349,
+        1090
+      ],
+      "text": "UOR5",
+      "confidence": 0.57
+    },
+    {
+      "bbox": [
+        943,
+        1198,
+        1277,
+        1212
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        623,
+        1256,
+        1314,
+        1311
+      ],
+      "text": "WILEY JONES.",
+      "confidence": 0.935
+    },
+    {
+      "bbox": [
+        693,
+        1328,
+        1249,
+        1369
+      ],
+      "text": "(Eastern Light Lodge, No. 6.)",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        226,
+        1383,
+        248,
+        1418
+      ],
+      "text": "9",
+      "confidence": 0.4044
+    },
+    {
+      "bbox": [
+        289,
+        1384,
+        1646,
+        1439
+      ],
+      "text": "Wholesale and Retail Dealer in Liquors, Cigars, Tobacco,",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        600,
+        1458,
+        1330,
+        1500
+      ],
+      "text": "207 Main St., Pine Bluff, Ark.",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        652,
+        1525,
+        1282,
+        1567
+      ],
+      "text": "\"Case Goods a Specialty.\"",
+      "confidence": 0.9782
+    },
+    {
+      "bbox": [
+        488,
+        1598,
+        1437,
+        1644
+      ],
+      "text": "THE FOLLOWING FINE BRANDS OF",
+      "confidence": 0.9705
+    },
+    {
+      "bbox": [
+        623,
+        1648,
+        1308,
+        1689
+      ],
+      "text": "LIQUORS NOW ON HAND.",
+      "confidence": 0.9671
+    },
+    {
+      "bbox": [
+        1135,
+        1735,
+        1436,
+        1763
+      ],
+      "text": "PER GALLON.",
+      "confidence": 0.9877
+    },
+    {
+      "bbox": [
+        488,
+        1763,
+        1445,
+        1819
+      ],
+      "text": "Golden Wedding......$4 00 to $5.00",
+      "confidence": 0.9888
+    },
+    {
+      "bbox": [
+        488,
+        1812,
+        1441,
+        1860
+      ],
+      "text": "Guckenheimer..... 4.00 to 5.00",
+      "confidence": 0.9808
+    },
+    {
+      "bbox": [
+        478,
+        1856,
+        1440,
+        1907
+      ],
+      "text": "Live Oak ...... 4 00 to 5.00",
+      "confidence": 0.9711
+    },
+    {
+      "bbox": [
+        486,
+        1904,
+        1440,
+        1948
+      ],
+      "text": "Belle of Nelson..... 4.00 to 5 00",
+      "confidence": 0.9818
+    },
+    {
+      "bbox": [
+        488,
+        1947,
+        1438,
+        1993
+      ],
+      "text": "Old Barbee ...... 400 to 5.00",
+      "confidence": 0.9734
+    },
+    {
+      "bbox": [
+        485,
+        1992,
+        1440,
+        2041
+      ],
+      "text": "Mayflower ..... 3 00 to 3.50",
+      "confidence": 0.9808
+    },
+    {
+      "bbox": [
+        489,
+        2038,
+        1438,
+        2082
+      ],
+      "text": "Owenboro ..... 3.00 to 3 50",
+      "confidence": 0.9769
+    },
+    {
+      "bbox": [
+        485,
+        2080,
+        1438,
+        2130
+      ],
+      "text": "Imperial Crown...... 2.00 to 2.50",
+      "confidence": 0.978
+    },
+    {
+      "bbox": [
+        486,
+        2127,
+        1438,
+        2173
+      ],
+      "text": "Newsboy ...... 1.75 to 2.00",
+      "confidence": 0.9633
+    },
+    {
+      "bbox": [
+        486,
+        2170,
+        1437,
+        2217
+      ],
+      "text": "Corn Whiskey ...... 2 00 to 3.00",
+      "confidence": 0.9731
+    },
+    {
+      "bbox": [
+        705,
+        2247,
+        1200,
+        2294
+      ],
+      "text": "Alcohol, $3 per gallon",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        859,
+        2330,
+        1067,
+        2363
+      ],
+      "text": "WINES.",
+      "confidence": 0.9811
+    },
+    {
+      "bbox": [
+        490,
+        2370,
+        1434,
+        2417
+      ],
+      "text": "All kinds from $1 00 to $3.00 per gallon.",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        872,
+        2429,
+        1030,
+        2463
+      ],
+      "text": "GINS.",
+      "confidence": 0.9795
+    },
+    {
+      "bbox": [
+        486,
+        2470,
+        1434,
+        2516
+      ],
+      "text": "Domestic and Imported from $1.50 to $3.50",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        817,
+        2520,
+        1070,
+        2558
+      ],
+      "text": "per gallon.",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        674,
+        2595,
+        1238,
+        2637
+      ],
+      "text": "Fine Brandy, Rum, Etc.",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        484,
+        2670,
+        1432,
+        2705
+      ],
+      "text": "Money sent by Express or P.O. Order will have",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        777,
+        2717,
+        1126,
+        2751
+      ],
+      "text": "prompt attention.",
+      "confidence": 0.9852
+    }
+  ]
+}

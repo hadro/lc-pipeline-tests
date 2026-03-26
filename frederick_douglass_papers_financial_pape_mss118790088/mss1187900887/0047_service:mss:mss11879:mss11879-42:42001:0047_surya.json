@@ -1,0 +1,646 @@
+{
+  "image_width": 1383,
+  "image_height": 1125,
+  "lines": [
+    {
+      "bbox": [
+        227,
+        85,
+        548,
+        110
+      ],
+      "text": "CAPITAL SAVINGS BANK.",
+      "confidence": 0.9871
+    },
+    {
+      "bbox": [
+        135,
+        87,
+        155,
+        104
+      ],
+      "text": "6",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        857,
+        113,
+        1181,
+        140
+      ],
+      "text": "CAPITAL SAVINGS BANK.",
+      "confidence": 0.9859
+    },
+    {
+      "bbox": [
+        1258,
+        125,
+        1273,
+        142
+      ],
+      "text": "7",
+      "confidence": 0.9779
+    },
+    {
+      "bbox": [
+        132,
+        140,
+        642,
+        171
+      ],
+      "text": "$6,000, though less than 16 of that",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        132,
+        167,
+        639,
+        199
+      ],
+      "text": "amount had been paid in in actual cash.",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        794,
+        167,
+        1276,
+        201
+      ],
+      "text": "\"Our business has been conducted, as",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        132,
+        196,
+        642,
+        226
+      ],
+      "text": "And after having paid some expenses in-",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        766,
+        199,
+        1276,
+        225
+      ],
+      "text": "nearly as we knew how, along the line of",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        131,
+        224,
+        639,
+        254
+      ],
+      "text": "cident to getting into shape for business,",
+      "confidence": 0.9783
+    },
+    {
+      "bbox": [
+        767,
+        227,
+        1273,
+        253
+      ],
+      "text": "a general banking business, receiving de-",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        131,
+        251,
+        641,
+        282
+      ],
+      "text": "we started out with less than $500 in cash",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        762,
+        253,
+        1273,
+        282
+      ],
+      "text": "posits, both as 'call' deposits and 'time'",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        131,
+        280,
+        638,
+        311
+      ],
+      "text": "in the drawer with which to do a 'gener-",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        763,
+        281,
+        1273,
+        310
+      ],
+      "text": "deposits; making loans both on real es-",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        131,
+        307,
+        637,
+        338
+      ],
+      "text": "al banking business.' Within 21/2",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        765,
+        308,
+        1273,
+        337
+      ],
+      "text": "tate and collateral securities, and on en-",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        131,
+        336,
+        637,
+        365
+      ],
+      "text": "months after we started, the deposits had",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        763,
+        337,
+        1273,
+        365
+      ],
+      "text": "dorsed notes where the endorsements ap-",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        131,
+        364,
+        638,
+        394
+      ],
+      "text": "run up to $13,933. During the next year,",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        763,
+        365,
+        1273,
+        393
+      ],
+      "text": "peared safe and satisfactory. In this",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        132,
+        392,
+        638,
+        421
+      ],
+      "text": "1889, our deposits aggregated $117,136;",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        763,
+        392,
+        1272,
+        422
+      ],
+      "text": "way, counting our deposits, checks, loans",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        130,
+        419,
+        637,
+        449
+      ],
+      "text": "in 1890, they amounted to $210,449; in",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        763,
+        420,
+        1272,
+        450
+      ],
+      "text": "made and bills receivable paid, the total",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        131,
+        447,
+        637,
+        476
+      ],
+      "text": "1891, $247,224; and for the ten months of",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        763,
+        447,
+        1272,
+        478
+      ],
+      "text": "bulk of our business transactions since",
+      "confidence": 0.9775
+    },
+    {
+      "bbox": [
+        131,
+        474,
+        637,
+        506
+      ],
+      "text": "the present year the deposits reached the",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        762,
+        475,
+        1271,
+        506
+      ],
+      "text": "our organization, nearly four years ago,",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        762,
+        503,
+        1271,
+        533
+      ],
+      "text": "has amounted to nearly two millions of",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        127,
+        506,
+        638,
+        531
+      ],
+      "text": "aggregate sum of $306,855--more than",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        128,
+        530,
+        637,
+        561
+      ],
+      "text": "$30,000 a month, and a total of deposits,",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        762,
+        533,
+        858,
+        552
+      ],
+      "text": "dollars.",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        127,
+        556,
+        637,
+        591
+      ],
+      "text": "up to the close of the present year, of",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        790,
+        559,
+        1270,
+        590
+      ],
+      "text": "\"This statement may perhaps startle",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        761,
+        587,
+        1269,
+        617
+      ],
+      "text": "some as it startled us, but our books will",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        127,
+        589,
+        637,
+        615
+      ],
+      "text": "more than $950,000. This magnificent",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        126,
+        614,
+        636,
+        644
+      ],
+      "text": "sum represents in some degree the meas-",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        761,
+        616,
+        1270,
+        644
+      ],
+      "text": "show that we have handled just that",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        126,
+        642,
+        635,
+        670
+      ],
+      "text": "ure of confidence which the business pub-",
+      "confidence": 0.9798
+    },
+    {
+      "bbox": [
+        760,
+        643,
+        1270,
+        670
+      ],
+      "text": "amount of business over our counter in",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        759,
+        671,
+        1270,
+        700
+      ],
+      "text": "receiving and paying out money. Our",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        126,
+        672,
+        635,
+        697
+      ],
+      "text": "lie has given us. The net results of our",
+      "confidence": 0.8657
+    },
+    {
+      "bbox": [
+        126,
+        697,
+        633,
+        728
+      ],
+      "text": "business transactions have been equally",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        759,
+        699,
+        1269,
+        728
+      ],
+      "text": "capital stock in the meantime has grown",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        126,
+        726,
+        632,
+        755
+      ],
+      "text": "satisfactory and gratifying. With no ex-",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        759,
+        726,
+        1269,
+        757
+      ],
+      "text": "from $6,000 to $50,000, and the amount",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        127,
+        753,
+        631,
+        784
+      ],
+      "text": "perience to guide us in the beginning,",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        759,
+        755,
+        1269,
+        784
+      ],
+      "text": "actually paid in has grown from $1,000",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        126,
+        781,
+        632,
+        811
+      ],
+      "text": "and having often to combat the antago-",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        758,
+        784,
+        895,
+        808
+      ],
+      "text": "to $33,000.",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        126,
+        809,
+        631,
+        840
+      ],
+      "text": "nisms and meet the prejudices of un-",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        786,
+        810,
+        1269,
+        840
+      ],
+      "text": "\"We are proud to number among our",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        126,
+        836,
+        632,
+        867
+      ],
+      "text": "friendly rivals in the same line of busi-",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        758,
+        838,
+        1269,
+        868
+      ],
+      "text": "stockholders and depositors many of our",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        125,
+        865,
+        631,
+        893
+      ],
+      "text": "ness, it is not to be wondered at that we",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        758,
+        866,
+        1267,
+        895
+      ],
+      "text": "foremost business men and women, who",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        126,
+        892,
+        630,
+        921
+      ],
+      "text": "made some mistakes and sustained some",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        758,
+        894,
+        1267,
+        923
+      ],
+      "text": "seem willing to lend the aid of their means",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        125,
+        921,
+        629,
+        951
+      ],
+      "text": "losses, but these have been comparative-",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        758,
+        921,
+        1266,
+        952
+      ],
+      "text": "and reputation in this effort to establish",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        758,
+        949,
+        1265,
+        979
+      ],
+      "text": "and maintain here at the National Capi-",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        125,
+        951,
+        212,
+        973
+      ],
+      "text": "ly few.",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        758,
+        977,
+        1264,
+        1005
+      ],
+      "text": "tal a business institution that shall re-",
+      "confidence": 0.9995
+    }
+  ]
+}

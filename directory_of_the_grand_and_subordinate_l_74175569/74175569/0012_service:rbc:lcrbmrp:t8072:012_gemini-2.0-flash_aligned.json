@@ -1,0 +1,257 @@
+{
+  "image": "0012_service:rbc:lcrbmrp:t8072:012.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:012",
+  "canvas_width": 1669,
+  "canvas_height": 2885,
+  "surya_median_confidence": 0.9954,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        459,
+        866,
+        741,
+        925
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:012#xywh=459,866,282,59",
+      "confidence": "line",
+      "gemini_text": "\"Lilley\"",
+      "surya_confidence": 0.9745
+    },
+    {
+      "bbox": [
+        426,
+        922,
+        803,
+        982
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:012#xywh=426,922,377,60",
+      "confidence": "line",
+      "gemini_text": "UNIFORMS",
+      "surya_confidence": 0.7953
+    },
+    {
+      "bbox": [
+        507,
+        992,
+        698,
+        1033
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:012#xywh=507,992,191,41",
+      "confidence": "line",
+      "gemini_text": "-FOR-",
+      "surya_confidence": 0.8826
+    },
+    {
+      "bbox": [
+        420,
+        1040,
+        706,
+        1093
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:012#xywh=420,1040,286,53",
+      "confidence": "line",
+      "gemini_text": "KNIGHTS",
+      "surya_confidence": 0.6334
+    },
+    {
+      "bbox": [
+        515,
+        1095,
+        806,
+        1149
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:012#xywh=515,1095,291,54",
+      "confidence": "line",
+      "gemini_text": "TEMPLAR",
+      "surya_confidence": 0.6745
+    },
+    {
+      "bbox": [
+        397,
+        1162,
+        806,
+        1203
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:012#xywh=397,1162,409,41",
+      "confidence": "line",
+      "gemini_text": "are absolutely the",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        395,
+        1200,
+        807,
+        1253
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:012#xywh=395,1200,412,53",
+      "confidence": "line",
+      "gemini_text": "best K. T. UNIFORMS",
+      "surya_confidence": 0.9766
+    },
+    {
+      "bbox": [
+        395,
+        1241,
+        811,
+        1300
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:012#xywh=395,1241,416,59",
+      "confidence": "line",
+      "gemini_text": "produced, because",
+      "surya_confidence": 0.9955
+    },
+    {
+      "bbox": [
+        393,
+        1291,
+        815,
+        1342
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:012#xywh=393,1291,422,51",
+      "confidence": "line",
+      "gemini_text": "of the high quality",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        392,
+        1334,
+        815,
+        1433
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:012#xywh=392,1334,423,99",
+      "confidence": "line",
+      "gemini_text": "fit, fine workman-",
+      "surya_confidence": 0.9957
+    },
+    {
+      "bbox": [
+        394,
+        1422,
+        805,
+        1473
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:012#xywh=394,1422,411,51",
+      "confidence": "line",
+      "gemini_text": "ship and low price.",
+      "surya_confidence": 0.9958
+    },
+    {
+      "bbox": [
+        401,
+        1476,
+        812,
+        1555
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:012#xywh=401,1476,411,79",
+      "confidence": "line",
+      "gemini_text": "the Commanderies",
+      "surya_confidence": 0.9653
+    },
+    {
+      "bbox": [
+        399,
+        1542,
+        808,
+        1620
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:012#xywh=399,1542,409,78",
+      "confidence": "line",
+      "gemini_text": "throughout America",
+      "surya_confidence": 0.9732
+    },
+    {
+      "bbox": [
+        415,
+        1621,
+        793,
+        1668
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:012#xywh=415,1621,378,47",
+      "confidence": "line",
+      "gemini_text": "Write for CATALOG",
+      "surya_confidence": 0.9745
+    },
+    {
+      "bbox": [
+        480,
+        1657,
+        726,
+        1697
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:012#xywh=480,1657,246,40",
+      "confidence": "line",
+      "gemini_text": "and PRICES.",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        557,
+        1707,
+        659,
+        1743
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:012#xywh=557,1707,102,36",
+      "confidence": "line",
+      "gemini_text": "THE",
+      "surya_confidence": 0.996
+    },
+    {
+      "bbox": [
+        415,
+        1748,
+        805,
+        1804
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:012#xywh=415,1748,390,56",
+      "confidence": "line",
+      "gemini_text": "M. C. LILLEY & CO.",
+      "surya_confidence": 0.9958
+    },
+    {
+      "bbox": [
+        445,
+        1797,
+        760,
+        1851
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:012#xywh=445,1797,315,54",
+      "confidence": "line",
+      "gemini_text": "COLUMBUS, O.",
+      "surya_confidence": 0.9953
+    },
+    {
+      "bbox": [
+        408,
+        1838,
+        810,
+        1958
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:012#xywh=408,1838,402,120",
+      "confidence": "line",
+      "gemini_text": "Largest UNIFORM and REGA-",
+      "surya_confidence": 0.9929
+    },
+    {
+      "bbox": [
+        446,
+        1970,
+        1171,
+        2006
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:012#xywh=446,1970,725,36",
+      "confidence": "line",
+      "gemini_text": "in the WORLD.",
+      "surya_confidence": 1.0
+    }
+  ],
+  "unmatched_gemini": [
+    "of cloth, perfect",
+    "The majority of",
+    "wear them.",
+    "LIA Mail Order HOUSE"
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "image_width": 1883,
+  "image_height": 2989,
+  "lines": [
+    {
+      "bbox": [
+        238,
+        323,
+        1546,
+        431
+      ],
+      "text": "1. S. LOWERY & @",
+      "confidence": 0.9752
+    },
+    {
+      "bbox": [
+        669,
+        461,
+        1061,
+        501
+      ],
+      "text": "SERVE BETTER",
+      "confidence": 0.918
+    },
+    {
+      "bbox": [
+        237,
+        528,
+        1546,
+        609
+      ],
+      "text": "CE CREAM AND ICES",
+      "confidence": 0.9383
+    },
+    {
+      "bbox": [
+        241,
+        625,
+        1522,
+        679
+      ],
+      "text": "t Weddings, Churches, Excursions and Private Dwellings",
+      "confidence": 0.2993
+    },
+    {
+      "bbox": [
+        511,
+        683,
+        1232,
+        732
+      ],
+      "text": "than any other dealer in the city.",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        239,
+        765,
+        1541,
+        828
+      ],
+      "text": "UR FRENCH AND AMERICAN CREAMS",
+      "confidence": 0.9712
+    },
+    {
+      "bbox": [
+        577,
+        864,
+        1148,
+        906
+      ],
+      "text": "ARE THE STANDARDS.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        459,
+        932,
+        1285,
+        1004
+      ],
+      "text": "M. S. LOWERY & CO.,",
+      "confidence": 0.9547
+    },
+    {
+      "bbox": [
+        247,
+        1021,
+        1489,
+        1076
+      ],
+      "text": "1002 18th St. N. W. Phone, Main 2721Y",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        652,
+        1308,
+        1442,
+        1374
+      ],
+      "text": "GEO. W. MURRAY,",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        720,
+        1461,
+        1388,
+        1555
+      ],
+      "text": "DRUGGIST,",
+      "confidence": 0.9129
+    },
+    {
+      "bbox": [
+        246,
+        1677,
+        1498,
+        1725
+      ],
+      "text": "SECOND AND D STS. S. W., WASHINGTON, D. C.",
+      "confidence": 0.5177
+    },
+    {
+      "bbox": [
+        520,
+        1907,
+        1514,
+        2010
+      ],
+      "text": "REDDING & CO.,",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        749,
+        2059,
+        1271,
+        2142
+      ],
+      "text": "STANDARD",
+      "confidence": 0.9121
+    },
+    {
+      "bbox": [
+        243,
+        2208,
+        1514,
+        2306
+      ],
+      "text": "MASONIC BOOKS",
+      "confidence": 0.9275
+    },
+    {
+      "bbox": [
+        585,
+        2362,
+        1167,
+        2417
+      ],
+      "text": "AND GOODS,",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        284,
+        2436,
+        1454,
+        2475
+      ],
+      "text": "Regalia, Jewels, Badges, Buttons, Pins, Charms, and",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        440,
+        2492,
+        1297,
+        2532
+      ],
+      "text": "Lodge Supplies, Wholesale and Retail.",
+      "confidence": 0.9815
+    },
+    {
+      "bbox": [
+        222,
+        2561,
+        1520,
+        2610
+      ],
+      "text": "No. 212 Broadway, Corner Fulton St., New York.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        641,
+        2638,
+        1101,
+        2676
+      ],
+      "text": "Write for Catalogue.",
+      "confidence": 0.9797
+    }
+  ]
+}

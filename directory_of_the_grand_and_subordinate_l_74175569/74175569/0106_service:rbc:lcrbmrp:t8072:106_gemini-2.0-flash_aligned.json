@@ -1,0 +1,789 @@
+{
+  "image": "0106_service:rbc:lcrbmrp:t8072:106.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106",
+  "canvas_width": 1822,
+  "canvas_height": 3008,
+  "surya_median_confidence": 0.9947,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        420,
+        434,
+        1101,
+        471
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=420,434,681,37",
+      "confidence": "line",
+      "gemini_text": "Tignor, Wm. L., 9, G, 316 3d sw.",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        421,
+        469,
+        1090,
+        506
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=421,469,669,37",
+      "confidence": "line",
+      "gemini_text": "Tinker, Geo. F., 15-5, Anacostia.",
+      "surya_confidence": 0.9973
+    },
+    {
+      "bbox": [
+        421,
+        500,
+        1146,
+        540
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=421,500,725,40",
+      "confidence": "line",
+      "gemini_text": "Todd, Ira V., 1, 1426 Pierce Pl. nw.",
+      "surya_confidence": 0.9962
+    },
+    {
+      "bbox": [
+        422,
+        537,
+        1047,
+        570
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=422,537,625,33",
+      "confidence": "line",
+      "gemini_text": "Toler, David, 7, 1410 34th nw.",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        421,
+        567,
+        1241,
+        609
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=421,567,820,42",
+      "confidence": "line",
+      "gemini_text": "Tompkins, Jeff. F., 15-7-1, 1704 10th nw.",
+      "surya_confidence": 0.9983
+    },
+    {
+      "bbox": [
+        421,
+        600,
+        1362,
+        641
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=421,600,941,41",
+      "confidence": "line",
+      "gemini_text": "Tompkins, Richard W., 1-1-3, G-M-R, 1341 V",
+      "surya_confidence": 0.9943
+    },
+    {
+      "bbox": [
+        421,
+        630,
+        1283,
+        683
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=421,630,862,53",
+      "confidence": "line",
+      "gemini_text": "Towles, Edw. E., 6-7-4, C-S, 1608 10th nw.",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        421,
+        665,
+        1182,
+        716
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=421,665,761,51",
+      "confidence": "line",
+      "gemini_text": "Tucker, Jos. W., 5, 1520 Madison nw.",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        421,
+        699,
+        1263,
+        748
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=421,699,842,49",
+      "confidence": "line",
+      "gemini_text": "Turner, C. H. P., 1-5, 461 N. Y. ave. nw.",
+      "surya_confidence": 0.997
+    },
+    {
+      "bbox": [
+        421,
+        733,
+        1360,
+        780
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=421,733,939,47",
+      "confidence": "line",
+      "gemini_text": "Turner, Geo. W., 9-11-2, S, 1532 Columbia nw.",
+      "surya_confidence": 0.9902
+    },
+    {
+      "bbox": [
+        421,
+        769,
+        1156,
+        816
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=421,769,735,47",
+      "confidence": "line",
+      "gemini_text": "Turner, I. H., 14, Indianapolis, Ind.",
+      "surya_confidence": 0.9974
+    },
+    {
+      "bbox": [
+        421,
+        805,
+        1362,
+        847
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=421,805,941,42",
+      "confidence": "line",
+      "gemini_text": "Turner, John P., 5-7-4, 33d C-M-R-S, Pine Bluff,",
+      "surya_confidence": 0.9983
+    },
+    {
+      "bbox": [
+        422,
+        843,
+        1299,
+        881
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=422,843,877,38",
+      "confidence": "line",
+      "gemini_text": "Turner, John T., 7-11-2, D-O, 926 25th nw.",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        421,
+        868,
+        1163,
+        922
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=421,868,742,54",
+      "confidence": "line",
+      "gemini_text": "Turner, Richard W., 7, 326 Elm nw.",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        421,
+        912,
+        925,
+        953
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=421,912,504,41",
+      "confidence": "line",
+      "gemini_text": "Tyler, John, 3, 51 C se.",
+      "surya_confidence": 0.9977
+    },
+    {
+      "bbox": [
+        421,
+        941,
+        1165,
+        988
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=421,941,744,47",
+      "confidence": "line",
+      "gemini_text": "Tyler, Wm., 8, G, 997 Fla. ave. nw.",
+      "surya_confidence": 0.9885
+    },
+    {
+      "bbox": [
+        421,
+        978,
+        1048,
+        1020
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=421,978,627,42",
+      "confidence": "line",
+      "gemini_text": "Tymms, Wm., 15, 413 1st sw.",
+      "surya_confidence": 0.9926
+    },
+    {
+      "bbox": [
+        421,
+        1011,
+        1143,
+        1055
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=421,1011,722,44",
+      "confidence": "line",
+      "gemini_text": "Uncles, Isaac H., 10, G, 1118 K nw.",
+      "surya_confidence": 0.9838
+    },
+    {
+      "bbox": [
+        422,
+        1041,
+        1139,
+        1093
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=422,1041,717,52",
+      "confidence": "line",
+      "gemini_text": "Underwood, Stephen, 8, 705 2d sw.",
+      "surya_confidence": 0.9827
+    },
+    {
+      "bbox": [
+        424,
+        1079,
+        1219,
+        1121
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=424,1079,795,42",
+      "confidence": "line",
+      "gemini_text": "Underwood, Wm. H., 3-5-1, G, 5 E sw.",
+      "surya_confidence": 0.988
+    },
+    {
+      "bbox": [
+        422,
+        1107,
+        1085,
+        1165
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=422,1107,663,58",
+      "confidence": "line",
+      "gemini_text": "Upshur, Albert, 8, 1628 11th nw.",
+      "surya_confidence": 0.9955
+    },
+    {
+      "bbox": [
+        425,
+        1142,
+        1144,
+        1194
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=425,1142,719,52",
+      "confidence": "line",
+      "gemini_text": "Walker, Alex., 1-1-3, S, 1420 3d nw.",
+      "surya_confidence": 0.9955
+    },
+    {
+      "bbox": [
+        424,
+        1179,
+        1142,
+        1225
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=424,1179,718,46",
+      "confidence": "line",
+      "gemini_text": "Walker, James E., 5, 1809 13th nw.",
+      "surya_confidence": 0.9862
+    },
+    {
+      "bbox": [
+        425,
+        1216,
+        1083,
+        1263
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=425,1216,658,47",
+      "confidence": "line",
+      "gemini_text": "Walker, Peter, 5, G, 1912 L nw.",
+      "surya_confidence": 0.9926
+    },
+    {
+      "bbox": [
+        425,
+        1247,
+        1282,
+        1296
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=425,1247,857,49",
+      "confidence": "line",
+      "gemini_text": "Walker, Wm. W., 7-11-2, S, 1242 20th nw.",
+      "surya_confidence": 0.9952
+    },
+    {
+      "bbox": [
+        424,
+        1280,
+        1365,
+        1330
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=424,1280,941,50",
+      "confidence": "line",
+      "gemini_text": "Waller, Rev. O. M., 14-11, 33d 1411 Corcoran",
+      "surya_confidence": 0.9931
+    },
+    {
+      "bbox": [
+        425,
+        1320,
+        1033,
+        1364
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=425,1320,608,44",
+      "confidence": "line",
+      "gemini_text": "Ward, John H., 15, 221 H sw.",
+      "surya_confidence": 0.9936
+    },
+    {
+      "bbox": [
+        422,
+        1346,
+        1365,
+        1399
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=422,1346,943,53",
+      "confidence": "line",
+      "gemini_text": "Warfield, Wm. A., 14-7-4, 32d G-S, 1901 11th",
+      "surya_confidence": 0.9965
+    },
+    {
+      "bbox": [
+        424,
+        1384,
+        1096,
+        1430
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=424,1384,672,46",
+      "confidence": "line",
+      "gemini_text": "Warren, Edw., 15, Tennallytown.",
+      "surya_confidence": 0.9983
+    },
+    {
+      "bbox": [
+        422,
+        1416,
+        1304,
+        1467
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=422,1416,882,51",
+      "confidence": "line",
+      "gemini_text": "Warren, Julius, 6-1-3, 32d G-S, 1017 3d nw.",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        422,
+        1454,
+        1147,
+        1501
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=422,1454,725,47",
+      "confidence": "line",
+      "gemini_text": "Washington, Benj., 5, 1114 21st nw.",
+      "surya_confidence": 0.996
+    },
+    {
+      "bbox": [
+        422,
+        1487,
+        1242,
+        1534
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=422,1487,820,47",
+      "confidence": "line",
+      "gemini_text": "Washington, Chas., 1, 70 Logan Pl. nw.",
+      "surya_confidence": 0.9983
+    },
+    {
+      "bbox": [
+        422,
+        1524,
+        1142,
+        1568
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=422,1524,720,44",
+      "confidence": "line",
+      "gemini_text": "Washington, G. W., 15, 1541 M nw.",
+      "surya_confidence": 0.9889
+    },
+    {
+      "bbox": [
+        422,
+        1552,
+        1303,
+        1603
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=422,1552,881,51",
+      "confidence": "line",
+      "gemini_text": "Washington, Jas. H, 1, 1526 Pierce Pl. nw.",
+      "surya_confidence": 0.9983
+    },
+    {
+      "bbox": [
+        418,
+        1585,
+        1285,
+        1676
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=418,1585,867,91",
+      "confidence": "line",
+      "gemini_text": "Washington, Wm., 4-11, G, 1332 29th nw.",
+      "surya_confidence": 0.9752
+    },
+    {
+      "bbox": [
+        420,
+        1644,
+        1367,
+        1718
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=420,1644,947,74",
+      "confidence": "line",
+      "gemini_text": "Watson, E. A., 5, F, 1238 Joliet st. Brookland.",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        424,
+        1695,
+        1222,
+        1735
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=424,1695,798,40",
+      "confidence": "line",
+      "gemini_text": "Watson, Samuel W., 5, 1208 Linden ne.",
+      "surya_confidence": 0.9984
+    },
+    {
+      "bbox": [
+        424,
+        1726,
+        1323,
+        1772
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=424,1726,899,46",
+      "confidence": "line",
+      "gemini_text": "Watts, S. Roger, 5-7-4, 33d A-N-S, 1343 V nw.",
+      "surya_confidence": 0.9904
+    },
+    {
+      "bbox": [
+        425,
+        1758,
+        1364,
+        1808
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=425,1758,939,50",
+      "confidence": "line",
+      "gemini_text": "Wayne, Louis H., 3-5-1, 32d D-M-N-S, 315 E.",
+      "surya_confidence": 0.9947
+    },
+    {
+      "bbox": [
+        464,
+        1808,
+        624,
+        1836
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=464,1808,160,28",
+      "confidence": "line",
+      "gemini_text": "Capitol.",
+      "surya_confidence": 0.9835
+    },
+    {
+      "bbox": [
+        427,
+        1828,
+        1365,
+        1874
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=427,1828,938,46",
+      "confidence": "line",
+      "gemini_text": "Weatherless, Nelson E., 9-11-2, 33d G-S, 2402",
+      "surya_confidence": 0.9908
+    },
+    {
+      "bbox": [
+        464,
+        1874,
+        801,
+        1903
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=464,1874,337,29",
+      "confidence": "line",
+      "gemini_text": "Brightwood ave.",
+      "surya_confidence": 0.9413
+    },
+    {
+      "bbox": [
+        425,
+        1898,
+        1138,
+        1948
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=425,1898,713,50",
+      "confidence": "line",
+      "gemini_text": "Webster, Geo. M., 1, G, 320 E sw.",
+      "surya_confidence": 0.9912
+    },
+    {
+      "bbox": [
+        427,
+        1928,
+        1126,
+        1982
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=427,1928,699,54",
+      "confidence": "line",
+      "gemini_text": "Webster, Edw. L., 5, 323 Elm nw.",
+      "surya_confidence": 0.9971
+    },
+    {
+      "bbox": [
+        427,
+        1968,
+        1200,
+        2010
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=427,1968,773,42",
+      "confidence": "line",
+      "gemini_text": "Welch, Thomas, 5, C, 332 Spruce nw.",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        427,
+        2003,
+        1034,
+        2045
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=427,2003,607,42",
+      "confidence": "line",
+      "gemini_text": "Wells, Wm. A., 5, 255 3d sw.",
+      "surya_confidence": 0.9892
+    },
+    {
+      "bbox": [
+        426,
+        2038,
+        1143,
+        2077
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=426,2038,717,39",
+      "confidence": "line",
+      "gemini_text": "Wells, Wm. A. Sr., 9, 1719 8th nw.",
+      "surya_confidence": 0.9939
+    },
+    {
+      "bbox": [
+        427,
+        2066,
+        1364,
+        2113
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=427,2066,937,47",
+      "confidence": "line",
+      "gemini_text": "West, Samuel H., 3-5-3, 32d C-H-N-S, 1116 N. J.",
+      "surya_confidence": 0.9942
+    },
+    {
+      "bbox": [
+        462,
+        2113,
+        653,
+        2144
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=462,2113,191,31",
+      "confidence": "line",
+      "gemini_text": "ave. aw.",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        425,
+        2134,
+        1048,
+        2189
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=425,2134,623,55",
+      "confidence": "line",
+      "gemini_text": "White, Alger, 6, 531 19th nw.",
+      "surya_confidence": 0.9924
+    },
+    {
+      "bbox": [
+        424,
+        2176,
+        981,
+        2213
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=424,2176,557,37",
+      "confidence": "line",
+      "gemini_text": "White, B. H., 3, 120 M se.",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        424,
+        2205,
+        1163,
+        2251
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=424,2205,739,46",
+      "confidence": "line",
+      "gemini_text": "White, H. W., 9-11, 600 Spruce nw.",
+      "surya_confidence": 0.9889
+    },
+    {
+      "bbox": [
+        426,
+        2243,
+        1093,
+        2284
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=426,2243,667,41",
+      "confidence": "line",
+      "gemini_text": "White, Rev. J. R., 15, 1350 B ne.",
+      "surya_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        427,
+        2277,
+        1122,
+        2318
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=427,2277,695,41",
+      "confidence": "line",
+      "gemini_text": "Whiting, Geo. A., 8, 1639 6th nw.",
+      "surya_confidence": 0.9835
+    },
+    {
+      "bbox": [
+        426,
+        2311,
+        985,
+        2352
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=426,2311,559,41",
+      "confidence": "line",
+      "gemini_text": "Wilder, J. R., 14, 412 B se.",
+      "surya_confidence": 0.9947
+    },
+    {
+      "bbox": [
+        429,
+        2349,
+        1040,
+        2382
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=429,2349,611,33",
+      "confidence": "line",
+      "gemini_text": "Wilkes, W. H., 15, Anacostia.",
+      "surya_confidence": 0.991
+    },
+    {
+      "bbox": [
+        427,
+        2375,
+        1325,
+        2419
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=427,2375,898,44",
+      "confidence": "line",
+      "gemini_text": "Wilkinson, J. F. N., 3-5-1, 33d F-N, 901 E sw.",
+      "surya_confidence": 0.997
+    },
+    {
+      "bbox": [
+        425,
+        2406,
+        1330,
+        2524
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=425,2406,905,118",
+      "confidence": "line",
+      "gemini_text": "Williams, Benj., 7, D, 2911 Dumbarton ave.",
+      "surya_confidence": 0.9912
+    },
+    {
+      "bbox": [
+        427,
+        2514,
+        1092,
+        2555
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=427,2514,665,41",
+      "confidence": "line",
+      "gemini_text": "Williams, Benj., 6-2, 1115 1st nw.",
+      "surya_confidence": 0.9919
+    },
+    {
+      "bbox": [
+        429,
+        2548,
+        1034,
+        2588
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=429,2548,605,40",
+      "confidence": "line",
+      "gemini_text": "Williams, Esau, 7, 823 2d se.",
+      "surya_confidence": 0.9962
+    },
+    {
+      "bbox": [
+        429,
+        2582,
+        1142,
+        2624
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=429,2582,713,42",
+      "confidence": "line",
+      "gemini_text": "Williams, J. H., 12, G, 1448 P nw.",
+      "surya_confidence": 0.996
+    },
+    {
+      "bbox": [
+        816,
+        2653,
+        916,
+        2686
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=816,2653,100,33",
+      "confidence": "line",
+      "gemini_text": "97",
+      "surya_confidence": 0.949
+    },
+    {
+      "bbox": [
+        406,
+        1626,
+        1206,
+        1665
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=406,1626,800,39",
+      "confidence": "manual",
+      "gemini_text": "Watkins, Geo. R., 10, G, 457 N nw."
+    },
+    {
+      "bbox": [
+        417,
+        2408,
+        1226,
+        2452
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=417,2408,809,44",
+      "confidence": "manual",
+      "gemini_text": "Wilkinson, J. W., 9-11-2, G, Anacostia."
+    },
+    {
+      "bbox": [
+        417,
+        2446,
+        1206,
+        2484
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:106#xywh=417,2446,789,38",
+      "confidence": "manual",
+      "gemini_text": "Wilkinson, W. L. D., 14, 1712 P nw."
+    }
+  ],
+  "unmatched_gemini": []
+}

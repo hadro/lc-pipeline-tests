@@ -1,0 +1,384 @@
+{
+  "image": "0065_service:rbc:lcrbmrp:t8072:065.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065",
+  "canvas_width": 1892,
+  "canvas_height": 3012,
+  "surya_median_confidence": 0.9813,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        428,
+        366,
+        581,
+        400
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=428,366,153,34",
+      "confidence": "line",
+      "gemini_text": "Office: Stand:",
+      "surya_confidence": 0.9692
+    },
+    {
+      "bbox": [
+        312,
+        411,
+        700,
+        450
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=312,411,388,39",
+      "confidence": "line",
+      "gemini_text": "211 K St, N. W. 7th and K Sts., N. W.",
+      "surya_confidence": 0.9956
+    },
+    {
+      "bbox": [
+        715,
+        501,
+        1264,
+        536
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=715,501,549,35",
+      "confidence": "line",
+      "gemini_text": "ROBERT HERBERT.",
+      "surya_confidence": 0.9652
+    },
+    {
+      "bbox": [
+        501,
+        589,
+        1513,
+        624
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=501,589,1012,35",
+      "confidence": "line",
+      "gemini_text": "Furniture and Pianos moved with care to all",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        794,
+        646,
+        1180,
+        684
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=794,646,386,38",
+      "confidence": "line",
+      "gemini_text": "parts of the city.",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        558,
+        714,
+        1420,
+        753
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=558,714,862,39",
+      "confidence": "line",
+      "gemini_text": "Orders by mail promptly attended to.",
+      "surya_confidence": 0.9963
+    },
+    {
+      "bbox": [
+        804,
+        797,
+        1174,
+        831
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=804,797,370,34",
+      "confidence": "line",
+      "gemini_text": "THE BRANCH",
+      "surya_confidence": 0.9705
+    },
+    {
+      "bbox": [
+        567,
+        864,
+        1404,
+        903
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=567,864,837,39",
+      "confidence": "line",
+      "gemini_text": "BALTIMORE SHIRT FACTORY,",
+      "surya_confidence": 0.9334
+    },
+    {
+      "bbox": [
+        660,
+        933,
+        1316,
+        970
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=660,933,656,37",
+      "confidence": "line",
+      "gemini_text": "931 Ninth Street, Northwest,",
+      "surya_confidence": 0.9941
+    },
+    {
+      "bbox": [
+        774,
+        1000,
+        1199,
+        1037
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=774,1000,425,37",
+      "confidence": "line",
+      "gemini_text": "Washington, D. C.",
+      "surya_confidence": 0.985
+    },
+    {
+      "bbox": [
+        310,
+        1085,
+        720,
+        1120
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=310,1085,410,35",
+      "confidence": "line",
+      "gemini_text": "S. B. ELLERY. Shirts to Order a Specialty.",
+      "surya_confidence": 0.9908
+    },
+    {
+      "bbox": [
+        811,
+        1183,
+        1160,
+        1221
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=811,1183,349,38",
+      "confidence": "line",
+      "gemini_text": "DR. PHILES,",
+      "surya_confidence": 0.9718
+    },
+    {
+      "bbox": [
+        610,
+        1261,
+        1371,
+        1298
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=610,1261,761,37",
+      "confidence": "line",
+      "gemini_text": "PHYSICIAN AND SURGEON.",
+      "surya_confidence": 0.9544
+    },
+    {
+      "bbox": [
+        854,
+        1340,
+        1121,
+        1379
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=854,1340,267,39",
+      "confidence": "line",
+      "gemini_text": "(Specialist)",
+      "surya_confidence": 0.9813
+    },
+    {
+      "bbox": [
+        309,
+        1420,
+        652,
+        1458
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=309,1420,343,38",
+      "confidence": "line",
+      "gemini_text": "1202 K st., nw. 'Phone, Main 1225.",
+      "surya_confidence": 0.9941
+    },
+    {
+      "bbox": [
+        387,
+        1477,
+        1582,
+        1515
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=387,1477,1195,38",
+      "confidence": "line",
+      "gemini_text": "Office Hours: 8 to 9 A. M., 12 to 1 P. M., 6 to 8 Р. М.",
+      "surya_confidence": 0.9944
+    },
+    {
+      "bbox": [
+        696,
+        1560,
+        1286,
+        1598
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=696,1560,590,38",
+      "confidence": "line",
+      "gemini_text": "SOLOMON PHILLIPS,",
+      "surya_confidence": 0.9442
+    },
+    {
+      "bbox": [
+        723,
+        1628,
+        1236,
+        1666
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=723,1628,513,38",
+      "confidence": "line",
+      "gemini_text": "(Warren Lodge No. 8.)",
+      "surya_confidence": 0.9853
+    },
+    {
+      "bbox": [
+        661,
+        1702,
+        1297,
+        1748
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=661,1702,636,46",
+      "confidence": "line",
+      "gemini_text": "COAL, WOOD AND ICE.",
+      "surya_confidence": 0.9882
+    },
+    {
+      "bbox": [
+        761,
+        1796,
+        1202,
+        1834
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=761,1796,441,38",
+      "confidence": "line",
+      "gemini_text": "343 Oak St., N. W.",
+      "surya_confidence": 0.9949
+    },
+    {
+      "bbox": [
+        813,
+        1884,
+        1157,
+        1919
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=813,1884,344,35",
+      "confidence": "line",
+      "gemini_text": "Le Droit Park",
+      "surya_confidence": 0.9734
+    },
+    {
+      "bbox": [
+        793,
+        1991,
+        1163,
+        2028
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=793,1991,370,37",
+      "confidence": "line",
+      "gemini_text": "H. T. SWANN,",
+      "surya_confidence": 0.9806
+    },
+    {
+      "bbox": [
+        558,
+        2078,
+        1415,
+        2113
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=558,2078,857,35",
+      "confidence": "line",
+      "gemini_text": "GROCERIES AND PROVISIONS.",
+      "surya_confidence": 0.8813
+    },
+    {
+      "bbox": [
+        394,
+        2169,
+        1565,
+        2209
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=394,2169,1171,40",
+      "confidence": "line",
+      "gemini_text": "Corner 4th and Oak Streets, N. W., Le Droit Park.",
+      "surya_confidence": 0.9966
+    },
+    {
+      "bbox": [
+        312,
+        2223,
+        595,
+        2258
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=312,2223,283,35",
+      "confidence": "line",
+      "gemini_text": "Low Prices. Polite Service.",
+      "surya_confidence": 0.9795
+    },
+    {
+      "bbox": [
+        526,
+        2281,
+        1442,
+        2319
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=526,2281,916,38",
+      "confidence": "line",
+      "gemini_text": "Vegetables and Fruits Always on Sale.",
+      "surya_confidence": 0.9946
+    },
+    {
+      "bbox": [
+        709,
+        2386,
+        1259,
+        2427
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=709,2386,550,41",
+      "confidence": "line",
+      "gemini_text": "CARTER L. JONES,",
+      "surya_confidence": 0.9782
+    },
+    {
+      "bbox": [
+        449,
+        2479,
+        1508,
+        2518
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=449,2479,1059,39",
+      "confidence": "line",
+      "gemini_text": "(Roman Eagle Lodge No. 77, Lynchburg, Va.)",
+      "surya_confidence": 0.9944
+    },
+    {
+      "bbox": [
+        693,
+        2565,
+        1281,
+        2601
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=693,2565,588,36",
+      "confidence": "line",
+      "gemini_text": "TONSORIAL ARTIST.",
+      "surya_confidence": 0.9703
+    },
+    {
+      "bbox": [
+        305,
+        2655,
+        641,
+        2690
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=305,2655,336,35",
+      "confidence": "line",
+      "gemini_text": "Polite Service. Convenient Location.",
+      "surya_confidence": 0.9706
+    },
+    {
+      "bbox": [
+        789,
+        2703,
+        1163,
+        2740
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:065#xywh=789,2703,374,37",
+      "confidence": "line",
+      "gemini_text": "2111 7th st., nw.",
+      "surya_confidence": 0.9951
+    }
+  ],
+  "unmatched_gemini": []
+}

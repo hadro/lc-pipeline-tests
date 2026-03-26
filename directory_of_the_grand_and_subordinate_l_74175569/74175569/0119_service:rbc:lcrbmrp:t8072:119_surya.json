@@ -1,0 +1,326 @@
+{
+  "image_width": 1894,
+  "image_height": 3001,
+  "lines": [
+    {
+      "bbox": [
+        703,
+        446,
+        1349,
+        492
+      ],
+      "text": "GRAND COMMANDERY",
+      "confidence": 0.6645
+    },
+    {
+      "bbox": [
+        1000,
+        530,
+        1062,
+        557
+      ],
+      "text": "OF",
+      "confidence": 0.9347
+    },
+    {
+      "bbox": [
+        585,
+        609,
+        1466,
+        658
+      ],
+      "text": "KNIGHTS TEMPLAR",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        710,
+        700,
+        1344,
+        741
+      ],
+      "text": "Of the District of Columbia",
+      "confidence": 0.9756
+    },
+    {
+      "bbox": [
+        828,
+        769,
+        1213,
+        808
+      ],
+      "text": "and Jurisdiction,",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        549,
+        894,
+        1499,
+        945
+      ],
+      "text": "Annual Meeting, 2d Monday in October.",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        682,
+        1008,
+        1373,
+        1062
+      ],
+      "text": "Officers for 1903 and 1904.",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        550,
+        1114,
+        1196,
+        1154
+      ],
+      "text": "R. Em. Sir George S. Newman,",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        1112,
+        1171,
+        1499,
+        1206
+      ],
+      "text": "Grand Commander",
+      "confidence": 0.8856
+    },
+    {
+      "bbox": [
+        899,
+        1226,
+        1164,
+        1261
+      ],
+      "text": "146 C st. sw.",
+      "confidence": 0.9487
+    },
+    {
+      "bbox": [
+        247,
+        1295,
+        273,
+        1397
+      ],
+      "text": "AND SHAPE",
+      "confidence": 0.2073
+    },
+    {
+      "bbox": [
+        550,
+        1305,
+        1180,
+        1343
+      ],
+      "text": "Em. Sir Wm. H. Judd Malvin,",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        827,
+        1360,
+        1496,
+        1400
+      ],
+      "text": "V. Em. Dep. Grand Commander",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        626,
+        1417,
+        1411,
+        1456
+      ],
+      "text": "1018 R st. nw. Phone, North 1832-M.",
+      "confidence": 0.9214
+    },
+    {
+      "bbox": [
+        549,
+        1496,
+        1502,
+        1535
+      ],
+      "text": "Em. Sir H. L. Livingston . . Gr. Generalissimo",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        546,
+        1574,
+        1500,
+        1613
+      ],
+      "text": "Em. Sir Jos. W. Hutchinson Gr. Capt. General",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        546,
+        1651,
+        1500,
+        1691
+      ],
+      "text": "Em. Sir J. F. N. Wilkinson ... Grand Prelate",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        547,
+        1730,
+        1499,
+        1770
+      ],
+      "text": "Em. Sir Joseph R. Pryor...Gr. Sen. Warden",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        545,
+        1807,
+        1494,
+        1849
+      ],
+      "text": "Em. Sir A. H. Stevens . . . . . Gr. Jun. Warden",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        546,
+        1886,
+        1500,
+        1925
+      ],
+      "text": "Em. Sir Michael H. Robinson ... Gr. Treasurer",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        545,
+        1963,
+        1498,
+        2007
+      ],
+      "text": "Em. Sir James O. Bampfield.....Gr. Recorder",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        877,
+        2013,
+        1177,
+        2048
+      ],
+      "text": "1119 V st. nw.",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        547,
+        2087,
+        1051,
+        2126
+      ],
+      "text": "Em. Sir John N. Dorster",
+      "confidence": 0.9859
+    },
+    {
+      "bbox": [
+        981,
+        2135,
+        1496,
+        2174
+      ],
+      "text": "Grand Inspector General",
+      "confidence": 0.8532
+    },
+    {
+      "bbox": [
+        546,
+        2212,
+        1505,
+        2254
+      ],
+      "text": "Em. Sir Solomon Phillips...Gr. Sword Bearer",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        544,
+        2291,
+        1251,
+        2329
+      ],
+      "text": "Em. Sir Richard L. Gaines, M. D.,",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        1019,
+        2333,
+        1496,
+        2370
+      ],
+      "text": "Grand Standard Bearer",
+      "confidence": 0.8493
+    },
+    {
+      "bbox": [
+        541,
+        2411,
+        1497,
+        2453
+      ],
+      "text": "Em. Sir Henry C. Irving..... Grand Warder",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        541,
+        2488,
+        1493,
+        2529
+      ],
+      "text": "Em. Sir Robt. H. Ford......Grand Guard",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        541,
+        2565,
+        1498,
+        2609
+      ],
+      "text": "Em. Sir N. E. Lewis. D. D. Gr. Commander",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        853,
+        2614,
+        1175,
+        2652
+      ],
+      "text": "Columbia, S. C.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        973,
+        2694,
+        1051,
+        2730
+      ],
+      "text": "110",
+      "confidence": 0.9881
+    }
+  ]
+}

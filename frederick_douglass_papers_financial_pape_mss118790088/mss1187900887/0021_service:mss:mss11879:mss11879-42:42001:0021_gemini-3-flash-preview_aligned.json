@@ -1,0 +1,324 @@
+{
+  "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021",
+  "canvas_width": 1952,
+  "canvas_height": 1625,
+  "surya_median_confidence": 0.83,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        194,
+        189,
+        396,
+        243
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=194,189,202,54",
+      "confidence": "line",
+      "gemini_text": "J'eus eu",
+      "surya_confidence": 0.83
+    },
+    {
+      "bbox": [
+        196,
+        245,
+        411,
+        289
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=196,245,215,44",
+      "confidence": "line",
+      "gemini_text": "Tu eus eu",
+      "surya_confidence": 0.8088
+    },
+    {
+      "bbox": [
+        194,
+        291,
+        410,
+        338
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=194,291,216,47",
+      "confidence": "line",
+      "gemini_text": "Il eut eu",
+      "surya_confidence": 0.9943
+    },
+    {
+      "bbox": [
+        180,
+        345,
+        513,
+        389
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=180,345,333,44",
+      "confidence": "line",
+      "gemini_text": "Nous eûmes eu",
+      "surya_confidence": 0.9912
+    },
+    {
+      "bbox": [
+        177,
+        392,
+        473,
+        441
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=177,392,296,49",
+      "confidence": "line",
+      "gemini_text": "Vous eûtes eu",
+      "surya_confidence": 0.4645
+    },
+    {
+      "bbox": [
+        177,
+        446,
+        461,
+        490
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=177,446,284,44",
+      "confidence": "line",
+      "gemini_text": "Ils eurent eu.",
+      "surya_confidence": 0.9349
+    },
+    {
+      "bbox": [
+        437,
+        549,
+        697,
+        605
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=437,549,260,56",
+      "confidence": "line",
+      "gemini_text": "J'aurai. | J'aurai eu",
+      "surya_confidence": 0.6218
+    },
+    {
+      "bbox": [
+        165,
+        599,
+        400,
+        638
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=165,599,235,39",
+      "confidence": "line",
+      "gemini_text": "Tu auras | Tu auras eu",
+      "surya_confidence": 0.8318
+    },
+    {
+      "bbox": [
+        158,
+        641,
+        720,
+        699
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=158,641,562,58",
+      "confidence": "line",
+      "gemini_text": "Il aura | Il aura eu",
+      "surya_confidence": 0.9552
+    },
+    {
+      "bbox": [
+        156,
+        693,
+        767,
+        752
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=156,693,611,59",
+      "confidence": "line",
+      "gemini_text": "Nous aurons | Nous aurons eu",
+      "surya_confidence": 0.8679
+    },
+    {
+      "bbox": [
+        156,
+        748,
+        765,
+        806
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=156,748,609,58",
+      "confidence": "line",
+      "gemini_text": "Vous aurez | Vous aurez eu",
+      "surya_confidence": 0.9715
+    },
+    {
+      "bbox": [
+        404,
+        801,
+        763,
+        853
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=404,801,359,52",
+      "confidence": "line",
+      "gemini_text": "Ils auront | Ils auront eu",
+      "surya_confidence": 0.5832
+    },
+    {
+      "bbox": [
+        297,
+        910,
+        537,
+        947
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=297,910,240,37",
+      "confidence": "line",
+      "gemini_text": "Conditional",
+      "surya_confidence": 0.939
+    },
+    {
+      "bbox": [
+        304,
+        1005,
+        536,
+        1054
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=304,1005,232,49",
+      "confidence": "line",
+      "gemini_text": "J'avais",
+      "surya_confidence": 0.5356
+    },
+    {
+      "bbox": [
+        293,
+        1052,
+        539,
+        1103
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=293,1052,246,51",
+      "confidence": "line",
+      "gemini_text": "J'aurais.",
+      "surya_confidence": 0.5272
+    },
+    {
+      "bbox": [
+        1187,
+        257,
+        1475,
+        296
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=1187,257,288,39",
+      "confidence": "line",
+      "gemini_text": "Tu aurais",
+      "surya_confidence": 0.5823
+    },
+    {
+      "bbox": [
+        1198,
+        306,
+        1492,
+        347
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=1198,306,294,41",
+      "confidence": "line",
+      "gemini_text": "Il aurait",
+      "surya_confidence": 0.9797
+    },
+    {
+      "bbox": [
+        1191,
+        356,
+        1554,
+        400
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=1191,356,363,44",
+      "confidence": "line",
+      "gemini_text": "Nous aurions eu.",
+      "surya_confidence": 0.9131
+    },
+    {
+      "bbox": [
+        1189,
+        403,
+        1541,
+        457
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=1189,403,352,54",
+      "confidence": "line",
+      "gemini_text": "Vous auriez eu.",
+      "surya_confidence": 0.9586
+    },
+    {
+      "bbox": [
+        1194,
+        454,
+        1531,
+        502
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=1194,454,337,48",
+      "confidence": "line",
+      "gemini_text": "Ils auraient eu.",
+      "surya_confidence": 0.9775
+    },
+    {
+      "bbox": [
+        1180,
+        202,
+        1467,
+        250
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=1180,202,287,48",
+      "confidence": "line",
+      "gemini_text": "Nous aurions",
+      "surya_confidence": 0.4606
+    },
+    {
+      "bbox": [
+        168,
+        542,
+        426,
+        598
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=168,542,258,56",
+      "confidence": "line",
+      "gemini_text": "Vous auriez",
+      "surya_confidence": 0.4245
+    },
+    {
+      "bbox": [
+        396,
+        601,
+        729,
+        648
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=396,601,333,47",
+      "confidence": "line",
+      "gemini_text": "Ils auraient",
+      "surya_confidence": 0.6304
+    },
+    {
+      "bbox": [
+        157,
+        800,
+        399,
+        842
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=157,800,242,42",
+      "confidence": "line",
+      "gemini_text": "J'aurais eu.",
+      "surya_confidence": 0.9539
+    },
+    {
+      "bbox": [
+        304,
+        957,
+        525,
+        1008
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=304,957,221,51",
+      "confidence": "line",
+      "gemini_text": "Tu aurais eu.",
+      "surya_confidence": 0.5804
+    },
+    {
+      "bbox": [
+        299,
+        1094,
+        540,
+        1155
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=299,1094,241,61",
+      "confidence": "line",
+      "gemini_text": "Il aurait eu.",
+      "surya_confidence": 0.9823
+    }
+  ],
+  "unmatched_gemini": []
+}

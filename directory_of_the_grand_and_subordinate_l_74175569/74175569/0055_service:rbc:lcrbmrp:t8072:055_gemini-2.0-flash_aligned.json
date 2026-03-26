@@ -1,0 +1,120 @@
+{
+  "image": "0055_service:rbc:lcrbmrp:t8072:055.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:055",
+  "canvas_width": 1888,
+  "canvas_height": 2999,
+  "surya_median_confidence": 0.9964,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        427,
+        1196,
+        1535,
+        1231
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:055#xywh=427,1196,1108,35",
+      "confidence": "line",
+      "gemini_text": "BENNETT B. SLADE,",
+      "surya_confidence": 0.7606
+    },
+    {
+      "bbox": [
+        369,
+        1272,
+        1589,
+        1394
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:055#xywh=369,1272,1220,122",
+      "confidence": "line",
+      "gemini_text": "Washington's Leading Colored Tailor,",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        677,
+        1446,
+        1255,
+        1531
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:055#xywh=677,1446,578,85",
+      "confidence": "line",
+      "gemini_text": "1202 E St. N. W.",
+      "surya_confidence": 0.9913
+    },
+    {
+      "bbox": [
+        737,
+        1540,
+        1200,
+        1591
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:055#xywh=737,1540,463,51",
+      "confidence": "line",
+      "gemini_text": "Phone, Main 1486-Y.",
+      "surya_confidence": 0.9969
+    },
+    {
+      "bbox": [
+        359,
+        1610,
+        1578,
+        1667
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:055#xywh=359,1610,1219,57",
+      "confidence": "line",
+      "gemini_text": "Suits made to order; fit and workmanship guaranteed.",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        464,
+        1671,
+        1489,
+        1734
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:055#xywh=464,1671,1025,63",
+      "confidence": "line",
+      "gemini_text": "CLEANING, ALTERING AND REPAIRING.",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        364,
+        1754,
+        1175,
+        1804
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:055#xywh=364,1754,811,50",
+      "confidence": "line",
+      "gemini_text": "Goods called for and delivered. Give me a trial",
+      "surya_confidence": 0.9975
+    },
+    {
+      "bbox": [
+        1170,
+        1763,
+        1564,
+        1807
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:055#xywh=1170,1763,394,44",
+      "confidence": "line",
+      "gemini_text": "We Study to Please",
+      "surya_confidence": 0.9955
+    },
+    {
+      "bbox": [
+        553,
+        2595,
+        1374,
+        2650
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:055#xywh=553,2595,821,55",
+      "confidence": "line",
+      "gemini_text": "Orders by Mail promptly attended to.",
+      "surya_confidence": 0.9964
+    }
+  ],
+  "unmatched_gemini": []
+}

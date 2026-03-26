@@ -1,0 +1,116 @@
+{
+  "image_width": 1888,
+  "image_height": 2999,
+  "lines": [
+    {
+      "bbox": [
+        427,
+        1196,
+        1535,
+        1231
+      ],
+      "text": "DEMINICITED. SCAUL,",
+      "confidence": 0.7606
+    },
+    {
+      "bbox": [
+        369,
+        1272,
+        1589,
+        1394
+      ],
+      "text": "Washington's Leading Colored Pailor,",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        677,
+        1446,
+        1255,
+        1531
+      ],
+      "text": "1202 E St. N. W.",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        737,
+        1540,
+        1200,
+        1591
+      ],
+      "text": "Phone, Main 1486-Y.",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        359,
+        1610,
+        1578,
+        1667
+      ],
+      "text": "Suits made to order; fit and workmanship guaranteed.",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        464,
+        1671,
+        1489,
+        1734
+      ],
+      "text": "CLEANING, ALTERING AND REPAIRING.",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        364,
+        1754,
+        1175,
+        1804
+      ],
+      "text": "Goods called for and delivered.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        1170,
+        1763,
+        1564,
+        1807
+      ],
+      "text": "Give me a trial",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        925,
+        2379,
+        1423,
+        2546
+      ],
+      "text": "ट्रिंग्रे निष्विहि",
+      "confidence": 0.495
+    },
+    {
+      "bbox": [
+        585,
+        2409,
+        782,
+        2512
+      ],
+      "text": "006",
+      "confidence": 0.6854
+    },
+    {
+      "bbox": [
+        553,
+        2595,
+        1374,
+        2650
+      ],
+      "text": "Orders by Mail promptly attended to.",
+      "confidence": 0.9964
+    }
+  ]
+}

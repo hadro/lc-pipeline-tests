@@ -1,0 +1,168 @@
+{
+  "image": "0010_service:rbc:lcrbmrp:t8072:010.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:010",
+  "canvas_width": 1660,
+  "canvas_height": 2781,
+  "surya_median_confidence": 0.4618,
+  "needs_review": true,
+  "lines": [
+    {
+      "bbox": [
+        454,
+        367,
+        1232,
+        439
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:010#xywh=454,367,778,72",
+      "confidence": "line",
+      "gemini_text": "1903 DIRECTORY 1903",
+      "surya_confidence": 0.9882
+    },
+    {
+      "bbox": [
+        753,
+        538,
+        895,
+        565
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:010#xywh=753,538,142,27",
+      "confidence": "line",
+      "gemini_text": "OF THE",
+      "surya_confidence": 0.9469
+    },
+    {
+      "bbox": [
+        277,
+        659,
+        1376,
+        716
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:010#xywh=277,659,1099,57",
+      "confidence": "line",
+      "gemini_text": "GRAND AND SUBORDINATE LODGES,",
+      "surya_confidence": 0.9969
+    },
+    {
+      "bbox": [
+        218,
+        1002,
+        473,
+        1097
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:010#xywh=218,1002,255,95",
+      "confidence": "line",
+      "gemini_text": "F. A. A.M.",
+      "surya_confidence": 0.974
+    },
+    {
+      "bbox": [
+        423,
+        1378,
+        1236,
+        1415
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:010#xywh=423,1378,813,37",
+      "confidence": "line",
+      "gemini_text": "OF THE DISTRICT OF COLUMBIA,",
+      "surya_confidence": 0.9614
+    },
+    {
+      "bbox": [
+        629,
+        1521,
+        1026,
+        1547
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:010#xywh=629,1521,397,26",
+      "confidence": "line",
+      "gemini_text": "ALSO A LIST OF THE",
+      "surya_confidence": 0.9418
+    },
+    {
+      "bbox": [
+        394,
+        1653,
+        1265,
+        1701
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:010#xywh=394,1653,871,48",
+      "confidence": "line",
+      "gemini_text": "ROYAL ARCH CHAPTERS,",
+      "surya_confidence": 0.8725
+    },
+    {
+      "bbox": [
+        283,
+        1794,
+        1375,
+        1846
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:010#xywh=283,1794,1092,52",
+      "confidence": "line",
+      "gemini_text": "KNIGHTS TEMPLAR COMMANDERIES,",
+      "surya_confidence": 0.9931
+    },
+    {
+      "bbox": [
+        327,
+        1936,
+        1336,
+        1991
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:010#xywh=327,1936,1009,55",
+      "confidence": "line",
+      "gemini_text": "SUPREME COUNCIL, A. A. S. R.,",
+      "surya_confidence": 0.9978
+    },
+    {
+      "bbox": [
+        521,
+        2070,
+        1155,
+        2110
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:010#xywh=521,2070,634,40",
+      "confidence": "line",
+      "gemini_text": "SOUTHERN JURISDICTION,",
+      "surya_confidence": 0.8681
+    },
+    {
+      "bbox": [
+        260,
+        2218,
+        1415,
+        2266
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:010#xywh=260,2218,1155,48",
+      "confidence": "line",
+      "gemini_text": "ORDER OF EASTERN STAR CHAPTERS,",
+      "surya_confidence": 0.9951
+    },
+    {
+      "bbox": [
+        743,
+        2369,
+        918,
+        2395
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:010#xywh=743,2369,175,26",
+      "confidence": "line",
+      "gemini_text": "AND THE",
+      "surya_confidence": 0.9785
+    },
+    {
+      "bbox": [
+        384,
+        2490,
+        1286,
+        2528
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:010#xywh=384,2490,902,38",
+      "confidence": "line",
+      "gemini_text": "COURTS OF HEROINES OF JERICHO.",
+      "surya_confidence": 0.9053
+    }
+  ],
+  "unmatched_gemini": []
+}

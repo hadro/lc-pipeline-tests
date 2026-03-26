@@ -1,0 +1,324 @@
+{
+  "image": "0037_service:rbc:lcrbmrp:t8072:037.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037",
+  "canvas_width": 1859,
+  "canvas_height": 3004,
+  "surya_median_confidence": 0.9892,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        368,
+        435,
+        1487,
+        511
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=368,435,1119,76",
+      "confidence": "line",
+      "gemini_text": "GEORGE A. ROBINSON,",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        595,
+        549,
+        1249,
+        641
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=595,549,654,92",
+      "confidence": "line",
+      "gemini_text": "Consorial Parlor,",
+      "surya_confidence": 0.8901
+    },
+    {
+      "bbox": [
+        249,
+        697,
+        1185,
+        748
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=249,697,936,51",
+      "confidence": "line",
+      "gemini_text": "First-Class Shaving and Hair Cutting.",
+      "surya_confidence": 0.9922
+    },
+    {
+      "bbox": [
+        891,
+        795,
+        1602,
+        848
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=891,795,711,53",
+      "confidence": "line",
+      "gemini_text": "First-Class Artists Employed.",
+      "surya_confidence": 0.9829
+    },
+    {
+      "bbox": [
+        257,
+        985,
+        1477,
+        1035
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=257,985,1220,50",
+      "confidence": "line",
+      "gemini_text": "Sixth St. and Missouri Ave., N. W.",
+      "surya_confidence": 0.61
+    },
+    {
+      "bbox": [
+        659,
+        1045,
+        1194,
+        1087
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=659,1045,535,42",
+      "confidence": "line",
+      "gemini_text": "Opp. Penna. R. R. Station.",
+      "surya_confidence": 0.9904
+    },
+    {
+      "bbox": [
+        254,
+        1145,
+        486,
+        1187
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=254,1145,232,42",
+      "confidence": "line",
+      "gemini_text": "CIGARS.",
+      "surya_confidence": 0.9165
+    },
+    {
+      "bbox": [
+        1293,
+        1147,
+        1595,
+        1185
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=1293,1147,302,38",
+      "confidence": "line",
+      "gemini_text": "TOBACCO.",
+      "surya_confidence": 0.941
+    },
+    {
+      "bbox": [
+        757,
+        1251,
+        1098,
+        1293
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=757,1251,341,42",
+      "confidence": "line",
+      "gemini_text": "Phone, 1733-Y.",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        390,
+        1345,
+        1471,
+        1431
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=390,1345,1081,86",
+      "confidence": "line",
+      "gemini_text": "The Porters' Exchange Hotel,",
+      "surya_confidence": 0.9956
+    },
+    {
+      "bbox": [
+        605,
+        1499,
+        1259,
+        1536
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=605,1499,654,37",
+      "confidence": "line",
+      "gemini_text": "BROWN & SMITH, Props.",
+      "surya_confidence": 0.9136
+    },
+    {
+      "bbox": [
+        427,
+        1600,
+        1420,
+        1637
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=427,1600,993,37",
+      "confidence": "line",
+      "gemini_text": "Newly Rebuilt and Elegantly Refurnished.",
+      "surya_confidence": 0.9916
+    },
+    {
+      "bbox": [
+        249,
+        1643,
+        1598,
+        1683
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=249,1643,1349,40",
+      "confidence": "line",
+      "gemini_text": "Meals at All Hours. High-grade Wines, Liquors & Cigars.",
+      "surya_confidence": 0.9963
+    },
+    {
+      "bbox": [
+        566,
+        1687,
+        1279,
+        1726
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=566,1687,713,39",
+      "confidence": "line",
+      "gemini_text": "Handsome Rooms, $1.00 and up.",
+      "surya_confidence": 0.9941
+    },
+    {
+      "bbox": [
+        414,
+        1773,
+        1435,
+        1830
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=414,1773,1021,57",
+      "confidence": "line",
+      "gemini_text": "103 and 105 Sixth Street, N. W.",
+      "surya_confidence": 0.995
+    },
+    {
+      "bbox": [
+        659,
+        1877,
+        1190,
+        1917
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=659,1877,531,40",
+      "confidence": "line",
+      "gemini_text": "Barber Shop Attached.",
+      "surya_confidence": 0.978
+    },
+    {
+      "bbox": [
+        255,
+        1995,
+        1603,
+        2052
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=255,1995,1348,57",
+      "confidence": "line",
+      "gemini_text": "Have Your Hair Cut or Get an Easy",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        819,
+        2076,
+        1037,
+        2125
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=819,2076,218,49",
+      "confidence": "line",
+      "gemini_text": "Shave",
+      "surya_confidence": 0.8595
+    },
+    {
+      "bbox": [
+        886,
+        2188,
+        972,
+        2220
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=886,2188,86,32",
+      "confidence": "line",
+      "gemini_text": "AT",
+      "surya_confidence": 0.9371
+    },
+    {
+      "bbox": [
+        309,
+        2271,
+        1540,
+        2370
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=309,2271,1231,99",
+      "confidence": "line",
+      "gemini_text": "Chas. Johnson's Shaving Parlor,",
+      "surya_confidence": 0.8795
+    },
+    {
+      "bbox": [
+        453,
+        2417,
+        1391,
+        2475
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=453,2417,938,58",
+      "confidence": "line",
+      "gemini_text": "COR. VERMONT AVE, AND R ST., N. W.",
+      "surya_confidence": 0.9881
+    },
+    {
+      "bbox": [
+        1003,
+        2522,
+        1606,
+        2571
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=1003,2522,603,49",
+      "confidence": "line",
+      "gemini_text": "Shave, 10 cents. Hair Cut, 15c, (clippers).",
+      "surya_confidence": 0.9953
+    },
+    {
+      "bbox": [
+        359,
+        2578,
+        1488,
+        2629
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=359,2578,1129,51",
+      "confidence": "line",
+      "gemini_text": "Hair Cut, 20c, (scissors). Shampoo, 20c.",
+      "surya_confidence": 0.9941
+    },
+    {
+      "bbox": [
+        694,
+        2636,
+        1158,
+        2683
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=694,2636,464,47",
+      "confidence": "line",
+      "gemini_text": "Razors Honed, 25c.",
+      "surya_confidence": 0.9892
+    },
+    {
+      "bbox": [
+        535,
+        2709,
+        1310,
+        2747
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=535,2709,775,38",
+      "confidence": "line",
+      "gemini_text": "FIRST-CLASS WORK ONLY.",
+      "surya_confidence": 0.9333
+    },
+    {
+      "bbox": [
+        900,
+        2781,
+        955,
+        2813
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:037#xywh=900,2781,55,32",
+      "confidence": "line",
+      "gemini_text": "28",
+      "surya_confidence": 0.9648
+    }
+  ],
+  "unmatched_gemini": []
+}

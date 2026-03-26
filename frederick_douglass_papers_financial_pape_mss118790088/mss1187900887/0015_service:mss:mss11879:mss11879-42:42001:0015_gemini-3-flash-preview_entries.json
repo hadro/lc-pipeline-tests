@@ -1,0 +1,226 @@
+{
+  "image": "0015_service:mss:mss11879:mss11879-42:42001:0015.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Language Exercises",
+    "section_title": null,
+    "year": null
+  },
+  "page_context": {
+    "record_type": "Language Exercises",
+    "section_title": "Future",
+    "year": null
+  },
+  "entries": [
+    {
+      "date": null,
+      "description": "J'ai eu. Tu as eu. Il a eu. Nous avons eu. Vous avez eu, Ils ont eu.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=89,185,809,54",
+      "image": "0015_service:mss:mss11879:mss11879-42:42001:0015.jpg"
+    },
+    {
+      "date": null,
+      "description": "J'ai vais eu. Tu vais eu",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=105,394,594,42",
+      "image": "0015_service:mss:mss11879:mss11879-42:42001:0015.jpg"
+    },
+    {
+      "date": null,
+      "description": "J'vais eu. Tu vais eu: Il avait eu, nous avions eu. Vous aviez eu: Ils avaient eu.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015",
+      "image": "0015_service:mss:mss11879:mss11879-42:42001:0015.jpg"
+    },
+    {
+      "date": null,
+      "description": "J'eus eu. Tu eus eu. Il eut eu. Nous eûmes eu. Vous eûtes eu. Ils eurent eu.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015",
+      "image": "0015_service:mss:mss11879:mss11879-42:42001:0015.jpg"
+    },
+    {
+      "date": null,
+      "description": "Le prise de la Bastille",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=92,998,497,61",
+      "image": "0015_service:mss:mss11879:mss11879-42:42001:0015.jpg"
+    },
+    {
+      "date": null,
+      "description": "Seulement pour voir",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=104,1103,494,50",
+      "image": "0015_service:mss:mss11879:mss11879-42:42001:0015.jpg"
+    },
+    {
+      "date": null,
+      "description": "Seulement pour voir.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=120,1161,467,37",
+      "image": "0015_service:mss:mss11879:mss11879-42:42001:0015.jpg"
+    },
+    {
+      "date": null,
+      "description": "Seulement pour voir.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015",
+      "image": "0015_service:mss:mss11879:mss11879-42:42001:0015.jpg"
+    },
+    {
+      "date": null,
+      "description": "Il faisait mauvais temps ce matin.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": null,
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1029,193,705,52",
+      "image": "0015_service:mss:mss11879:mss11879-42:42001:0015.jpg"
+    },
+    {
+      "date": null,
+      "description": "J'ai eu. Tu as eu, Il avait eu, nous avons eu, Vous avez eu, Ils ont eu.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Imperfect Past Definite",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1031,346,817,51",
+      "image": "0015_service:mss:mss11879:mss11879-42:42001:0015.jpg"
+    },
+    {
+      "date": null,
+      "description": "J'ai eu, Tu as eu, Il avait eu, Nous avons",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Past definite",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1007,484,829,128",
+      "image": "0015_service:mss:mss11879:mss11879-42:42001:0015.jpg"
+    },
+    {
+      "date": null,
+      "description": "on avait eu, Nous avions eu, Vous aviez",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Pluperfect",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1038,695,777,114",
+      "image": "0015_service:mss:mss11879:mss11879-42:42001:0015.jpg"
+    },
+    {
+      "date": null,
+      "description": "eu, Ils avaient eu.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Pluperfect",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1043,801,450,51",
+      "image": "0015_service:mss:mss11879:mss11879-42:42001:0015.jpg"
+    },
+    {
+      "date": null,
+      "description": "J'eus eu, Tu eus eu, Il eut eu",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Past anterior",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1009,952,737,59",
+      "image": "0015_service:mss:mss11879:mss11879-42:42001:0015.jpg"
+    },
+    {
+      "date": null,
+      "description": "nous eûmes eu. Vous eûtes eu,",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Past anterior",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1010,1004,708,52",
+      "image": "0015_service:mss:mss11879:mss11879-42:42001:0015.jpg"
+    },
+    {
+      "date": null,
+      "description": "Ils eurent eu.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Past anterior",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=116,909,561,38",
+      "image": "0015_service:mss:mss11879:mss11879-42:42001:0015.jpg"
+    },
+    {
+      "date": null,
+      "description": "x x x",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Future",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=214,312,383,40",
+      "image": "0015_service:mss:mss11879:mss11879-42:42001:0015.jpg"
+    },
+    {
+      "date": null,
+      "description": "eu, Vous avez eu, Ils ont eu.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Future",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1225,1156,259,48",
+      "image": "0015_service:mss:mss11879:mss11879-42:42001:0015.jpg"
+    },
+    {
+      "date": null,
+      "description": "J'avais eu, Tu avais eu. Il avait eu,",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Future",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1029,295,726,54",
+      "image": "0015_service:mss:mss11879:mss11879-42:42001:0015.jpg"
+    }
+  ]
+}

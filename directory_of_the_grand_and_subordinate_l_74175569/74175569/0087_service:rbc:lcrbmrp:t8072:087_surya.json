@@ -1,0 +1,426 @@
+{
+  "image_width": 1904,
+  "image_height": 2999,
+  "lines": [
+    {
+      "bbox": [
+        739,
+        439,
+        1350,
+        477
+      ],
+      "text": "JOHN W. PATTERSON,",
+      "confidence": 0.9612
+    },
+    {
+      "bbox": [
+        764,
+        502,
+        1337,
+        541
+      ],
+      "text": "ATTORNEY-AT-LAW.",
+      "confidence": 0.9661
+    },
+    {
+      "bbox": [
+        1345,
+        571,
+        1578,
+        605
+      ],
+      "text": "Pensions.",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        842,
+        574,
+        1177,
+        608
+      ],
+      "text": "Real Estate.",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        504,
+        576,
+        633,
+        611
+      ],
+      "text": "Law.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        764,
+        629,
+        1337,
+        663
+      ],
+      "text": "407 Seventh Street N. W.",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        771,
+        686,
+        1342,
+        725
+      ],
+      "text": "Rooms 5, 6, 7, 8, 9, 10, 11.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        808,
+        741,
+        1274,
+        782
+      ],
+      "text": "Telephone, East 352.",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        788,
+        869,
+        1301,
+        905
+      ],
+      "text": "MAY B WILLIAMS,",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        796,
+        946,
+        1299,
+        980
+      ],
+      "text": "Graduated Mid-Wife.",
+      "confidence": 0.9605
+    },
+    {
+      "bbox": [
+        628,
+        1020,
+        1457,
+        1067
+      ],
+      "text": "\"Calls attended without physician\"",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        1156,
+        1102,
+        1680,
+        1138
+      ],
+      "text": "1919 11th Street, N. W.",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        422,
+        1107,
+        752,
+        1140
+      ],
+      "text": "'Phone 1408 F.",
+      "confidence": 0.9163
+    },
+    {
+      "bbox": [
+        840,
+        1226,
+        1258,
+        1260
+      ],
+      "text": "J. T. JOHNSON.",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        810,
+        1283,
+        1286,
+        1319
+      ],
+      "text": "1403 P Street, N. W.",
+      "confidence": 0.9787
+    },
+    {
+      "bbox": [
+        421,
+        1334,
+        1724,
+        1382
+      ],
+      "text": "Still at the same old stand, doing first-class hair cutting",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        378,
+        1378,
+        1723,
+        1424
+      ],
+      "text": "and shaving. Tonics, hair dye, and \"Tionia\" always on",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        371,
+        1425,
+        1594,
+        1469
+      ],
+      "text": "hand. Shampooing done at Residence, 1423 P Street.",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        416,
+        1465,
+        1718,
+        1516
+      ],
+      "text": "I am also in the Jewelry business, repairing watches and",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        374,
+        1515,
+        1521,
+        1557
+      ],
+      "text": "jewelry. Watches cleaned, main springs, $1 each.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        485,
+        1557,
+        1609,
+        1604
+      ],
+      "text": "Diamonds, Elgin and Waltham watches for sale.",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        523,
+        1603,
+        1569,
+        1647
+      ],
+      "text": "Jewelry and watches called for and delivered.",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        786,
+        1728,
+        1299,
+        1765
+      ],
+      "text": "EZEKIEL TIGNOR,",
+      "confidence": 0.9553
+    },
+    {
+      "bbox": [
+        692,
+        1790,
+        1413,
+        1831
+      ],
+      "text": "CENTRAL DINING ROOMS.",
+      "confidence": 0.9219
+    },
+    {
+      "bbox": [
+        831,
+        1863,
+        1270,
+        1897
+      ],
+      "text": "Meals at all hours.",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        1253,
+        1927,
+        1677,
+        1968
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        418,
+        1934,
+        898,
+        1971
+      ],
+      "text": "1213 E Street, N. W.",
+      "confidence": 0.9772
+    },
+    {
+      "bbox": [
+        731,
+        1999,
+        1369,
+        2036
+      ],
+      "text": "Residence, 324 G St., S. W.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        1158,
+        2113,
+        1740,
+        2152
+      ],
+      "text": "THOMAS H. WILKINS",
+      "confidence": 0.9798
+    },
+    {
+      "bbox": [
+        379,
+        2124,
+        766,
+        2158
+      ],
+      "text": "JOHN SWANN.",
+      "confidence": 0.9606
+    },
+    {
+      "bbox": [
+        780,
+        2211,
+        1329,
+        2248
+      ],
+      "text": "SWANN & WILKINS,",
+      "confidence": 0.9423
+    },
+    {
+      "bbox": [
+        626,
+        2276,
+        1485,
+        2318
+      ],
+      "text": "Registered Plumbers and Gas-fitters.",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        1258,
+        2346,
+        1681,
+        2382
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9822
+    },
+    {
+      "bbox": [
+        425,
+        2349,
+        877,
+        2386
+      ],
+      "text": "1115 Q Street N. W.",
+      "confidence": 0.9821
+    },
+    {
+      "bbox": [
+        645,
+        2468,
+        1464,
+        2508
+      ],
+      "text": "DANIEL FREEMAN'S STUDIO,",
+      "confidence": 0.9625
+    },
+    {
+      "bbox": [
+        599,
+        2525,
+        1507,
+        2563
+      ],
+      "text": "Fine photographs, crayons and pastels,",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        780,
+        2569,
+        1315,
+        2608
+      ],
+      "text": "Any size and all kinds.",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        520,
+        2611,
+        1567,
+        2648
+      ],
+      "text": "All work first-class. Guaranteed not to fade.",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        588,
+        2657,
+        1482,
+        2698
+      ],
+      "text": "Picture frames, Bicycles and Sundries.",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        1251,
+        2714,
+        1681,
+        2751
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9874
+    },
+    {
+      "bbox": [
+        420,
+        2716,
+        881,
+        2756
+      ],
+      "text": "1516 14th St., N. W.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        1034,
+        2771,
+        1090,
+        2803
+      ],
+      "text": "78",
+      "confidence": 0.9331
+    }
+  ]
+}

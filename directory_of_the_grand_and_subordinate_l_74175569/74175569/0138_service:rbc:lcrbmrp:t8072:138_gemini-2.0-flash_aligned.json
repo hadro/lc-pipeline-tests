@@ -1,0 +1,144 @@
+{
+  "image": "0138_service:rbc:lcrbmrp:t8072:138.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:138",
+  "canvas_width": 1716,
+  "canvas_height": 3002,
+  "surya_median_confidence": 0.9929,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        348,
+        361,
+        1320,
+        477
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:138#xywh=348,361,972,116",
+      "confidence": "line",
+      "gemini_text": "Life - Fire - Health - Accident.",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        155,
+        884,
+        1512,
+        982
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:138#xywh=155,884,1357,98",
+      "confidence": "line",
+      "gemini_text": "LOUIS H. STABLER,",
+      "surya_confidence": 0.9918
+    },
+    {
+      "bbox": [
+        363,
+        1070,
+        1322,
+        1221
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:138#xywh=363,1070,959,151",
+      "confidence": "line",
+      "gemini_text": "General Insurance,",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        445,
+        1305,
+        1230,
+        1360
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:138#xywh=445,1305,785,55",
+      "confidence": "line",
+      "gemini_text": "1319 F STREET, N. W.",
+      "surya_confidence": 0.9838
+    },
+    {
+      "bbox": [
+        527,
+        1455,
+        1145,
+        1505
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:138#xywh=527,1455,618,50",
+      "confidence": "line",
+      "gemini_text": "WASHINGTON, D. C.",
+      "surya_confidence": 0.9511
+    },
+    {
+      "bbox": [
+        604,
+        1841,
+        1069,
+        1873
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:138#xywh=604,1841,465,32",
+      "confidence": "line",
+      "gemini_text": "REPRESENTING THE",
+      "surya_confidence": 0.9577
+    },
+    {
+      "bbox": [
+        384,
+        1935,
+        1277,
+        1993
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:138#xywh=384,1935,893,58",
+      "confidence": "line",
+      "gemini_text": "Penn Mutual Life Ins. Co., of Phila.",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        384,
+        2014,
+        1170,
+        2070
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:138#xywh=384,2014,786,56",
+      "confidence": "line",
+      "gemini_text": "Delaware Fire Ins. Co., of Phila.",
+      "surya_confidence": 0.9936
+    },
+    {
+      "bbox": [
+        385,
+        2093,
+        1240,
+        2150
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:138#xywh=385,2093,855,57",
+      "confidence": "line",
+      "gemini_text": "General Accident Ins. Co., of Phila.",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        382,
+        2173,
+        1283,
+        2225
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:138#xywh=382,2173,901,52",
+      "confidence": "line",
+      "gemini_text": "Massachusetts Mutual Accident Ass'n.",
+      "surya_confidence": 0.9929
+    },
+    {
+      "bbox": [
+        548,
+        2651,
+        1121,
+        2706
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:138#xywh=548,2651,573,55",
+      "confidence": "line",
+      "gemini_text": "'PHONE, MAIN 1849.",
+      "surya_confidence": 0.8496
+    }
+  ],
+  "unmatched_gemini": []
+}

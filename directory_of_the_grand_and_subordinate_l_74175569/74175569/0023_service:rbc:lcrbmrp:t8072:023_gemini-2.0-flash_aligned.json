@@ -1,0 +1,144 @@
+{
+  "image": "0023_service:rbc:lcrbmrp:t8072:023.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:023",
+  "canvas_width": 1816,
+  "canvas_height": 2901,
+  "surya_median_confidence": 0.9931,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        276,
+        302,
+        1410,
+        426
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:023#xywh=276,302,1134,124",
+      "confidence": "line",
+      "gemini_text": "IRVING'S HALL",
+      "surya_confidence": 0.9983
+    },
+    {
+      "bbox": [
+        565,
+        483,
+        1124,
+        567
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:023#xywh=565,483,559,84",
+      "confidence": "line",
+      "gemini_text": "FOR RENT.",
+      "surya_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        411,
+        685,
+        1286,
+        751
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:023#xywh=411,685,875,66",
+      "confidence": "line",
+      "gemini_text": "HENRY C. IRVING, Prop.",
+      "surya_confidence": 0.9354
+    },
+    {
+      "bbox": [
+        611,
+        877,
+        1088,
+        924
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:023#xywh=611,877,477,47",
+      "confidence": "line",
+      "gemini_text": "410 D Street, S. E.",
+      "surya_confidence": 0.99
+    },
+    {
+      "bbox": [
+        178,
+        1060,
+        1262,
+        1119
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:023#xywh=178,1060,1084,59",
+      "confidence": "line",
+      "gemini_text": "Entertainments, Parties, Lectures and Suppers.",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        363,
+        1161,
+        1525,
+        1203
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:023#xywh=363,1161,1162,42",
+      "confidence": "line",
+      "gemini_text": "Collations and Lunches Served at Short Notice.",
+      "surya_confidence": 0.9899
+    },
+    {
+      "bbox": [
+        455,
+        1351,
+        1251,
+        1402
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:023#xywh=455,1351,796,51",
+      "confidence": "line",
+      "gemini_text": "LODGE ROOMS FOR RENT.",
+      "surya_confidence": 0.9945
+    },
+    {
+      "bbox": [
+        446,
+        2451,
+        1279,
+        2504
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:023#xywh=446,2451,833,53",
+      "confidence": "line",
+      "gemini_text": "SEND FOR CATALOGUE.",
+      "surya_confidence": 0.9784
+    },
+    {
+      "bbox": [
+        833,
+        2633,
+        895,
+        2669
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:023#xywh=833,2633,62,36",
+      "confidence": "line",
+      "gemini_text": "14",
+      "surya_confidence": 0.9931
+    }
+  ],
+  "unmatched_gemini": [
+    "MACOY PUBLISHING",
+    "AND",
+    "MASONIC",
+    "SUPPLY CO.",
+    "BOOKS,",
+    "MONITORS.",
+    "HISTORIES,",
+    "MUSIC,",
+    "CERTIFICATES",
+    "DIPLOMAS,",
+    "ENGRAVINGS",
+    "PRINTING",
+    "BLANKS,",
+    "ENGROSSING",
+    "JEWELRY",
+    "& GENERAL",
+    "SUPPLIES",
+    "SEND FOR",
+    "LIST.",
+    "OPPOSITE POST OFFICE",
+    "34 PARK ROW,",
+    "SHOWROOMS 4th FLOOR",
+    "N.Y. COR. OF BEEKMAN ST."
+  ]
+}

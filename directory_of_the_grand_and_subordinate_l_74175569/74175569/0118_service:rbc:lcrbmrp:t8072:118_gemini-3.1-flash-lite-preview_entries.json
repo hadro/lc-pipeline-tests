@@ -1,0 +1,236 @@
+{
+  "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "section_title": "Lodge Officers for 1904",
+    "organization_name": "James H. Hill Lodge, No 16"
+  },
+  "page_context": {
+    "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+    "organization_name": "Keystone Chapter, No. 11, R. A. M."
+  },
+  "entries": [
+    {
+      "name": "Frank H. Cozzens",
+      "title_or_role": "Gr. High Priest",
+      "address": "2111 9th st. nw.",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=308,513,948,49",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "ArthurSimmons",
+      "title_or_role": "D. Gr. High Priest",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=308,599,948,56",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "Charles D. Freeman",
+      "title_or_role": "Grand King",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=310,647,946,49",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "Wm. Knox Brown",
+      "title_or_role": "Grand Scribe",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=313,691,943,52",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "Benjamin F. Dailey",
+      "title_or_role": "Gr. Treasurer",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=313,736,945,51",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "James O. Bampfield",
+      "title_or_role": "Grand Sec'y",
+      "address": "1119 V st. nw.",
+      "meeting_info": "Annual Meeting, Tuesday, Nov. 22, 1904.",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=311,780,944,51",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "Robert H. Beverly",
+      "title_or_role": "High Priest",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "Mt. Vernon Chapter, No. 1, R. A. M.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=313,1004,948,54",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "Benj. F. Pope",
+      "title_or_role": "King",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "Mt. Vernon Chapter, No. 1, R. A. M.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=317,1051,941,54",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "Longstreet Bradford",
+      "title_or_role": "Scribe",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "Mt. Vernon Chapter, No. 1, R. A. M.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=317,1096,944,51",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "Primus H. Simmons",
+      "title_or_role": "Secretary",
+      "address": "1020 20th st. nw.",
+      "meeting_info": "Meets First Friday.",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "Mt. Vernon Chapter, No. 1, R. A. M.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=314,1143,945,46",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "Wm. A. Clark",
+      "title_or_role": "High Priest",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "Union Chapter, No. 2, R. A. M.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=317,1362,947,54",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "Amasa W. Scott",
+      "title_or_role": "King",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "Union Chapter, No. 2, R. A. M.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=317,1408,947,50",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "Gilbert Redding",
+      "title_or_role": "Scribe",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "Union Chapter, No. 2, R. A. M.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=317,1452,947,53",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "William Anderson",
+      "title_or_role": "Secretary",
+      "address": "163 Pierce st nw.",
+      "meeting_info": "Meets Third Wednesday.",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "Union Chapter, No. 2, R. A. M.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=322,1499,943,49",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "John D. Howard",
+      "title_or_role": "High Priest",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "Prince Hall Chapter, No. 5, R. A. M.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=322,1722,948,49",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "Alex. F. Hicks",
+      "title_or_role": "King",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "Prince Hall Chapter, No. 5, R. A. M.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=322,1767,946,49",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "Moses Lewis",
+      "title_or_role": "Scribe",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "Prince Hall Chapter, No. 5, R. A. M.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=325,1814,945,44",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "John F. N. Wilkinson",
+      "title_or_role": "Secretary",
+      "address": "901 E st. sw.",
+      "meeting_info": "Meets First Wednesday.",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "Prince Hall Chapter, No. 5, R. A. M.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=325,1859,943,40",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "Wm. H. Judd Malvin",
+      "title_or_role": "High Priest",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "St. John's Chapter, No. 7, R. A. M.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=325,2078,949,50",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "Fred. D. Henry",
+      "title_or_role": "King",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "St. John's Chapter, No. 7, R. A. M.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=325,2125,949,49",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "Dr. A. H. Stevens",
+      "title_or_role": "Scribe",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "St. John's Chapter, No. 7, R. A. M.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=330,2170,944,46",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "Wm. H. Severson",
+      "title_or_role": "Secretary",
+      "address": "326 E st. sw.",
+      "meeting_info": "Meets Second Thursday.",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "St. John's Chapter, No. 7, R. A. M.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=330,2216,943,46",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "George W. Jones",
+      "title_or_role": "High Priest",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "Keystone Chapter, No. 11, R. A. M.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=325,2434,952,53",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "John S. George",
+      "title_or_role": "King",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "Keystone Chapter, No. 11, R. A. M.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=316,2481,959,50",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "N. E. Weatherless",
+      "title_or_role": "Scribe",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "Keystone Chapter, No. 11, R. A. M.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=327,2526,950,44",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    },
+    {
+      "name": "Louis N. Harris",
+      "title_or_role": "Secretary",
+      "address": "2453 P st. nw.",
+      "meeting_info": "Meets Fourth Tuesday.",
+      "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "organization_name": "Keystone Chapter, No. 11, R. A. M.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=330,2569,946,49",
+      "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg"
+    }
+  ]
+}

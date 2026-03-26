@@ -1,0 +1,36 @@
+{
+  "image_width": 1185,
+  "image_height": 1730,
+  "lines": [
+    {
+      "bbox": [
+        184,
+        208,
+        640,
+        329
+      ],
+      "text": "Charles Douglass",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        107,
+        1515,
+        127,
+        1535
+      ],
+      "text": "da.",
+      "confidence": 0.4152
+    },
+    {
+      "bbox": [
+        962,
+        1572,
+        993,
+        1600
+      ],
+      "text": "Œ",
+      "confidence": 0.3566
+    }
+  ]
+}

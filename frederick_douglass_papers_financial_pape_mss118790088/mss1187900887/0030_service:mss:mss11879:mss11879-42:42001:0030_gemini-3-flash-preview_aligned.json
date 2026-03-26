@@ -1,0 +1,124 @@
+{
+  "image": "0030_service:mss:mss11879:mss11879-42:42001:0030.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0030",
+  "canvas_width": 1615,
+  "canvas_height": 1372,
+  "surya_median_confidence": 0.9172,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        75,
+        233,
+        126,
+        262
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0030#xywh=75,233,51,29",
+      "confidence": "line",
+      "gemini_text": "1855",
+      "surya_confidence": 0.9835
+    },
+    {
+      "bbox": [
+        83,
+        382,
+        183,
+        428
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0030#xywh=83,382,100,46",
+      "confidence": "line",
+      "gemini_text": "July 13 \" \" 49 06",
+      "surya_confidence": 0.5369
+    },
+    {
+      "bbox": [
+        655,
+        432,
+        709,
+        465
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0030#xywh=655,432,54,33",
+      "confidence": "line",
+      "gemini_text": "\" \" \" 24 38",
+      "surya_confidence": 0.9532
+    },
+    {
+      "bbox": [
+        640,
+        481,
+        714,
+        529
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0030#xywh=640,481,74,48",
+      "confidence": "line",
+      "gemini_text": "1856",
+      "surya_confidence": 0.9747
+    },
+    {
+      "bbox": [
+        718,
+        481,
+        784,
+        530
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0030#xywh=718,481,66,49",
+      "confidence": "line",
+      "gemini_text": "Mar 8 \" Miller O & M 551 47",
+      "surya_confidence": 0.9948
+    },
+    {
+      "bbox": [
+        644,
+        531,
+        713,
+        567
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0030#xywh=644,531,69,36",
+      "confidence": "line",
+      "gemini_text": "\" 20 \" \" 3 20",
+      "surya_confidence": 0.739
+    },
+    {
+      "bbox": [
+        948,
+        235,
+        1018,
+        268
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0030#xywh=948,235,70,33",
+      "confidence": "line",
+      "gemini_text": "By 50. 30. 80. 50",
+      "surya_confidence": 0.8596
+    },
+    {
+      "bbox": [
+        1102,
+        266,
+        1266,
+        367
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0030#xywh=1102,266,164,101",
+      "confidence": "line",
+      "gemini_text": "100. 50. 69 130",
+      "surya_confidence": 0.4219
+    },
+    {
+      "bbox": [
+        1019,
+        317,
+        1095,
+        370
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0030#xywh=1019,317,76,53",
+      "confidence": "line",
+      "gemini_text": "28. 60. 121 26",
+      "surya_confidence": 0.927
+    }
+  ],
+  "unmatched_gemini": [
+    "A Karnes in a/c with Fred Douglass",
+    "Jan'y 1 To Balance 649 01",
+    "\" \" Interest 15 81"
+  ]
+}

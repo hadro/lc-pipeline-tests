@@ -1,0 +1,28 @@
+{
+  "image": "0036_service:mss:mss11879:mss11879-42:42001:0036.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Loan Record",
+    "section_title": "Recd for collection",
+    "year": "1873"
+  },
+  "page_context": {
+    "record_type": "Loan Record",
+    "section_title": "Promissory Note",
+    "year": "1869"
+  },
+  "entries": [
+    {
+      "date": "April 13, 1869",
+      "description": "Washington D. C. For value received I promise to pay to Frederick Douglass, the sum of One Hundred Dollars, one year after date. Charles R. Douglass",
+      "amount": "100.00",
+      "transaction_type": "loan_given",
+      "record_type": "Loan Record",
+      "section_title": "Promissory Note",
+      "year": "1869",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0036",
+      "image": "0036_service:mss:mss11879:mss11879-42:42001:0036.jpg"
+    }
+  ]
+}

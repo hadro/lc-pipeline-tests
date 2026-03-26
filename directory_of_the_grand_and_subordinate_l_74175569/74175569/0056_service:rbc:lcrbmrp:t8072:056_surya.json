@@ -1,0 +1,606 @@
+{
+  "image_width": 1832,
+  "image_height": 2994,
+  "lines": [
+    {
+      "bbox": [
+        398,
+        332,
+        1427,
+        370
+      ],
+      "text": "QUEEN ESTHER CHAPTER-Continued.",
+      "confidence": 0.7845
+    },
+    {
+      "bbox": [
+        445,
+        434,
+        1015,
+        468
+      ],
+      "text": "Irving, Henry C., 410 D se.",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        447,
+        468,
+        1007,
+        503
+      ],
+      "text": "Irving, Priscilla, 410 D se.",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        448,
+        505,
+        1051,
+        534
+      ],
+      "text": "Irving, Rebecca B., 410 D se.",
+      "confidence": 0.9748
+    },
+    {
+      "bbox": [
+        444,
+        539,
+        999,
+        569
+      ],
+      "text": "Jackson, Rosa, 123 4th se.",
+      "confidence": 0.9893
+    },
+    {
+      "bbox": [
+        445,
+        570,
+        977,
+        606
+      ],
+      "text": "Jeffries, Susan, 308 3d se.",
+      "confidence": 0.9893
+    },
+    {
+      "bbox": [
+        448,
+        606,
+        1053,
+        639
+      ],
+      "text": "Jennings, Louisa, 450 1st sw.",
+      "confidence": 0.9774
+    },
+    {
+      "bbox": [
+        446,
+        638,
+        1104,
+        678
+      ],
+      "text": "Lee, Estelle, 1518 Pierce Pl. nw.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        446,
+        674,
+        1099,
+        711
+      ],
+      "text": "Lee, Lizzie, 1518 Pierce Pl. nw.",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        447,
+        712,
+        902,
+        744
+      ],
+      "text": "Lee, Mary, 921 1st sw.",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        445,
+        743,
+        1097,
+        779
+      ],
+      "text": "Marshall, Ophelia, 1539 4th nw.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        445,
+        780,
+        1256,
+        813
+      ],
+      "text": "McCoy, Elizabeth, 409 Washington nw.",
+      "confidence": 0.9876
+    },
+    {
+      "bbox": [
+        446,
+        806,
+        1090,
+        857
+      ],
+      "text": "Miller, Mary Ida, 321 Oak nw.",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        447,
+        849,
+        1341,
+        882
+      ],
+      "text": "Mills, Emma, 607 High St., Portsmouth, Va.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        447,
+        883,
+        1108,
+        918
+      ],
+      "text": "Morgan, Nellie E., 918 11th nw.",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        447,
+        920,
+        1019,
+        950
+      ],
+      "text": "Owens, Rachael, 2523 O nw.",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        447,
+        955,
+        1083,
+        987
+      ],
+      "text": "Parker, Mary Alice, 212 E sw.",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        448,
+        989,
+        1099,
+        1023
+      ],
+      "text": "Pryor, Olivia, 1616 Vt. ave. nw.",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        447,
+        1021,
+        1023,
+        1059
+      ],
+      "text": "Reed, Maria, 1664 Erie nw.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        448,
+        1059,
+        1053,
+        1091
+      ],
+      "text": "Richardson, Ida, 309 11th ne.",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        447,
+        1093,
+        977,
+        1123
+      ],
+      "text": "Robinson, Annie, 41 D se.",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        448,
+        1128,
+        1064,
+        1158
+      ],
+      "text": "Scipio, Martha M., 456 1st sw.",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        448,
+        1162,
+        1018,
+        1196
+      ],
+      "text": "Scott, Homozell, 438 2d sw.",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        447,
+        1196,
+        1035,
+        1230
+      ],
+      "text": "Severson, Francis, 326 E sw.",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        447,
+        1230,
+        1094,
+        1268
+      ],
+      "text": "Sewell, Catharine, 338 Elm nw.",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        447,
+        1264,
+        1018,
+        1300
+      ],
+      "text": "Simmons, Alice, 1739 L nw.",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        448,
+        1300,
+        1076,
+        1332
+      ],
+      "text": "Simmons, Hannah, 1739 L nw.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        448,
+        1337,
+        1198,
+        1367
+      ],
+      "text": "Simms, Estella, 1918 N. Y. ave. nw.",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        447,
+        1371,
+        1009,
+        1403
+      ],
+      "text": "Smith, Maria, 526 20th nw.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        447,
+        1405,
+        1091,
+        1438
+      ],
+      "text": "Stevenson, Ellen K., 308 3d se.",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        445,
+        1439,
+        1032,
+        1471
+      ],
+      "text": "Stewart, Lucy, 1614 4th nw.",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        444,
+        1473,
+        1078,
+        1507
+      ],
+      "text": "Stewart, Mamie, 1614 4th nw.",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        442,
+        1507,
+        1216,
+        1542
+      ],
+      "text": "Thomas, Georgiana, 1617 Madison nw.",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        442,
+        1544,
+        1152,
+        1576
+      ],
+      "text": "Thomas, Nellie, 1617 Madison nw.",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        442,
+        1579,
+        946,
+        1612
+      ],
+      "text": "Thorn, Mary, 129 L nw.",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        438,
+        1613,
+        937,
+        1643
+      ],
+      "text": "Tibbs, Josephine, 212 C se",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        440,
+        1642,
+        1189,
+        1719
+      ],
+      "text": "Turner, Hortense, 1532 Columbia nw. Turner, Jessie C., 525 3d se.",
+      "confidence": 0.9793
+    },
+    {
+      "bbox": [
+        444,
+        1716,
+        1067,
+        1748
+      ],
+      "text": "Vulgem, Phoebe, Olean, N. Y.",
+      "confidence": 0.9767
+    },
+    {
+      "bbox": [
+        444,
+        1751,
+        970,
+        1781
+      ],
+      "text": "Watts, Mary, 1343 V nw.",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        445,
+        1783,
+        1053,
+        1818
+      ],
+      "text": "Wayne, Ellen, 315 E. Capitol.",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        447,
+        1818,
+        1116,
+        1853
+      ],
+      "text": "Wayne, Mary J., 315 E. Capitol.",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        445,
+        1853,
+        1340,
+        1887
+      ],
+      "text": "Weatherless, Martha, 2402 Brightwood ave.",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        444,
+        1888,
+        1025,
+        1922
+      ],
+      "text": "White, Harriet, 2120 F nw.",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        442,
+        1924,
+        1128,
+        1956
+      ],
+      "text": "Williams, Emma J., 2517 P nw.",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        444,
+        1957,
+        1099,
+        1991
+      ],
+      "text": "Williams, Emma P., 2517 P nw.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        444,
+        1992,
+        1274,
+        2025
+      ],
+      "text": "Williams, Lavinia, 2911 Dumbarton ave.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        443,
+        2023,
+        1261,
+        2063
+      ],
+      "text": "Williams, Mamie, 2911 Dumbarton ave.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        444,
+        2061,
+        1322,
+        2096
+      ],
+      "text": "Williams, Nellie H., 2437 Brightwood ave.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        444,
+        2093,
+        1137,
+        2131
+      ],
+      "text": "Williams, Rebecca F., 2517 P nw.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        442,
+        2131,
+        1067,
+        2163
+      ],
+      "text": "Wright, Rebecca, 920 20th nw.",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        445,
+        2163,
+        1043,
+        2201
+      ],
+      "text": "Young, Sarah, 1343 28th nw.",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        651,
+        2283,
+        1163,
+        2319
+      ],
+      "text": "McKENZIE SCOTT,",
+      "confidence": 0.9724
+    },
+    {
+      "bbox": [
+        457,
+        2360,
+        1349,
+        2395
+      ],
+      "text": "UNDERTAKER AND EMBALMER,",
+      "confidence": 0.9444
+    },
+    {
+      "bbox": [
+        1193,
+        2438,
+        1578,
+        2471
+      ],
+      "text": "1826 L St. N. W.",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        233,
+        2439,
+        607,
+        2473
+      ],
+      "text": "438 2d St. S. W.",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        1158,
+        2517,
+        1378,
+        2550
+      ],
+      "text": "Tel. 1859.",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        436,
+        2518,
+        714,
+        2551
+      ],
+      "text": "Tel. 1313-Y.",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        545,
+        2607,
+        1268,
+        2645
+      ],
+      "text": "Everything Strictly First-class.",
+      "confidence": 0.8857
+    },
+    {
+      "bbox": [
+        882,
+        2673,
+        937,
+        2707
+      ],
+      "text": "47",
+      "confidence": 0.9832
+    },
+    {
+      "bbox": [
+        445,
+        2910,
+        561,
+        2923
+      ],
+      "text": "Company of the Park",
+      "confidence": 0.1475
+    }
+  ]
+}

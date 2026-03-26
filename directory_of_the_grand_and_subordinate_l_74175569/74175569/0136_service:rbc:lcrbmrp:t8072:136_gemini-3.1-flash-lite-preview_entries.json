@@ -1,0 +1,283 @@
+{
+  "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "section_title": "Grand Masonic Charity Reception",
+    "organization_name": "Grand Masonic Charity Reception Committee"
+  },
+  "page_context": {
+    "section_title": "Grand Chapter, O. E. S.",
+    "organization_name": "Grand Chapter, O. E. S."
+  },
+  "entries": [
+    {
+      "name": "Washington, Charles",
+      "masonic_codes": "1",
+      "lodge": "Social",
+      "address": "National Museum",
+      "section_title": "Corrections, Additions, Etc.",
+      "organization_name": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=412,523,996,42",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Watson, Hughes",
+      "masonic_codes": "10",
+      "lodge": "John F. Cook",
+      "address": "1745 R I. ave nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "organization_name": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=413,567,858,44",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Watson, Reddick",
+      "masonic_codes": "12",
+      "lodge": "St. John's",
+      "address": "410 Elm st nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "organization_name": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=414,615,816,37",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Wells, Frank",
+      "masonic_codes": "6",
+      "lodge": "Meridian",
+      "address": "924 4 nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "organization_name": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=413,658,589,40",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Webster, Fred T.",
+      "masonic_codes": "1",
+      "lodge": "Social",
+      "address": "18 Defrees nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "organization_name": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=413,698,794,47",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Weston, Wm. J.",
+      "masonic_codes": "1",
+      "lodge": "Social",
+      "address": "319 Oak nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "organization_name": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=415,746,705,41",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "White, Algier",
+      "masonic_codes": "6",
+      "lodge": "Meridian",
+      "address": "419 L nw.",
+      "section_title": "Corrections, Additions, Etc.",
+      "organization_name": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=416,790,624,42",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "White, B H.",
+      "masonic_codes": "3",
+      "lodge": "Widow's Son",
+      "address": "120 M se",
+      "section_title": "Corrections, Additions, Etc.",
+      "organization_name": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=416,835,561,41",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Wilcox, Sergt. Mitchell",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "214 D nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "organization_name": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=415,873,802,52",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Wilkinson, Garnet C",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "Anacostia, D. C.",
+      "section_title": "Corrections, Additions, Etc.",
+      "organization_name": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=416,920,948,46",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Williams, Edward",
+      "masonic_codes": "4",
+      "lodge": "Hiram",
+      "address": "2815 Dumbarton nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "organization_name": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=415,965,941,47",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Williams, John",
+      "masonic_codes": "4",
+      "lodge": "Hiram",
+      "address": "814 17 nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "organization_name": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=416,1012,662,44",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Williams, Philip B",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "1029 17 nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "organization_name": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=416,1056,779,44",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Williams, Thomas N",
+      "masonic_codes": "7-11-2",
+      "lodge": "Warren",
+      "chapter": "Keystone",
+      "commandery": "Henderson",
+      "address": "2121 11 nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "organization_name": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=416,1097,922,50",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Willis, G. W",
+      "masonic_codes": "3",
+      "lodge": "Widow's Son",
+      "address": "332 C sw",
+      "section_title": "Corrections, Additions, Etc.",
+      "organization_name": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=418,1147,578,42",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Wilson, Jennie Stewart",
+      "address": "Oregon ave nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "organization_name": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=423,1196,895,36",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Wilson, Lemuel A.",
+      "masonic_codes": "1",
+      "lodge": "Social",
+      "address": "997 Fla. ave nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "organization_name": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=418,1231,866,49",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Wood, James W",
+      "masonic_codes": "12",
+      "lodge": "St. John's",
+      "address": "826 10 ne",
+      "section_title": "Corrections, Additions, Etc.",
+      "organization_name": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=418,1280,689,44",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Wormley. C. K.",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "1801 8 nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "organization_name": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=416,1323,659,47",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Wright, Charles H.",
+      "masonic_codes": "3",
+      "lodge": "Widow's Son",
+      "address": "1826 Riggs st nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "organization_name": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=419,1364,913,51",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Young, James E.",
+      "masonic_codes": "6",
+      "lodge": "Meridian",
+      "address": "35 Hanover nw",
+      "section_title": "Corrections, Additions, Etc.",
+      "organization_name": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=419,1410,816,51",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "James O. Bampfield",
+      "title_or_role": "Grand Royal Patron",
+      "address": "1119 V street nw.",
+      "meeting_info": "Annual Meeting, Tuesday, May 25, 1905.",
+      "section_title": "Grand Chapter, O. E. S.",
+      "organization_name": "Grand Chapter, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=422,1932,1085,48",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Hattie E. Lee",
+      "title_or_role": "Grand Royal Matron",
+      "address": "2908 M street nw",
+      "meeting_info": "Annual Meeting, Tuesday, May 25, 1905.",
+      "section_title": "Grand Chapter, O. E. S.",
+      "organization_name": "Grand Chapter, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=421,2072,1084,38",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Wm. A. Baltimore",
+      "title_or_role": "Asso. Grand Royal Patron",
+      "meeting_info": "Annual Meeting, Tuesday, May 25, 1905.",
+      "section_title": "Grand Chapter, O. E. S.",
+      "organization_name": "Grand Chapter, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=423,2206,1084,37",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Matilda Payne",
+      "title_or_role": "Asso. Grand Royal Matron",
+      "meeting_info": "Annual Meeting, Tuesday, May 25, 1905.",
+      "section_title": "Grand Chapter, O. E. S.",
+      "organization_name": "Grand Chapter, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=423,2282,1084,40",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Sarah P. Alexander",
+      "title_or_role": "Grand Treasurer",
+      "address": "1015 Q street nw",
+      "meeting_info": "Annual Meeting, Tuesday, May 25, 1905.",
+      "section_title": "Grand Chapter, O. E. S.",
+      "organization_name": "Grand Chapter, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=427,2360,1083,41",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    },
+    {
+      "name": "Ellen L. Wayne",
+      "title_or_role": "Grand Secretary",
+      "address": "315 East Capitol street",
+      "meeting_info": "Annual Meeting, Tuesday, May 25, 1905.",
+      "section_title": "Grand Chapter, O. E. S.",
+      "organization_name": "Grand Chapter, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:136#xywh=423,2495,1085,40",
+      "image": "0136_service:rbc:lcrbmrp:t8072:136.jpg"
+    }
+  ]
+}

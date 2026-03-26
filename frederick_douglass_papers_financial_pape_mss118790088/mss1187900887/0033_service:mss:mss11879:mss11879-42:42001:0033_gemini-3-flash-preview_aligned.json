@@ -1,0 +1,148 @@
+{
+  "image": "0033_service:mss:mss11879:mss11879-42:42001:0033.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0033",
+  "canvas_width": 1621,
+  "canvas_height": 1381,
+  "surya_median_confidence": 0.9778,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        975,
+        83,
+        1474,
+        207
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0033#xywh=975,83,499,124",
+      "confidence": "line",
+      "gemini_text": "District of Columbia",
+      "surya_confidence": 0.859
+    },
+    {
+      "bbox": [
+        976,
+        194,
+        1506,
+        304
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0033#xywh=976,194,530,110",
+      "confidence": "line",
+      "gemini_text": "Dr Green. Twelve hundred",
+      "surya_confidence": 0.873
+    },
+    {
+      "bbox": [
+        984,
+        285,
+        1321,
+        435
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0033#xywh=984,285,337,150",
+      "confidence": "line",
+      "gemini_text": "Mr Feiler 1000",
+      "surya_confidence": 0.9071
+    },
+    {
+      "bbox": [
+        982,
+        394,
+        1339,
+        454
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0033#xywh=982,394,357,60",
+      "confidence": "line",
+      "gemini_text": "Chas. R. Douglass 1300",
+      "surya_confidence": 0.9839
+    },
+    {
+      "bbox": [
+        977,
+        452,
+        1341,
+        507
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0033#xywh=977,452,364,55",
+      "confidence": "line",
+      "gemini_text": "Deed of trust. Cook 5000",
+      "surya_confidence": 0.9765
+    },
+    {
+      "bbox": [
+        985,
+        503,
+        1355,
+        565
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0033#xywh=985,503,370,62",
+      "confidence": "line",
+      "gemini_text": "Deed of Trust. Cook 2000",
+      "surya_confidence": 0.6949
+    },
+    {
+      "bbox": [
+        970,
+        549,
+        1305,
+        608
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0033#xywh=970,549,335,59",
+      "confidence": "line",
+      "gemini_text": "Emily Johnson 80",
+      "surya_confidence": 0.7101
+    },
+    {
+      "bbox": [
+        962,
+        597,
+        1340,
+        668
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0033#xywh=962,597,378,71",
+      "confidence": "line",
+      "gemini_text": "Lewis H. Douglass 1500",
+      "surya_confidence": 0.9792
+    },
+    {
+      "bbox": [
+        967,
+        656,
+        1162,
+        707
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0033#xywh=967,656,195,51",
+      "confidence": "line",
+      "gemini_text": "Fredk Do 1000",
+      "surya_confidence": 0.7835
+    },
+    {
+      "bbox": [
+        968,
+        707,
+        1231,
+        753
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0033#xywh=968,707,263,46",
+      "confidence": "line",
+      "gemini_text": "Chas. Do 1000",
+      "surya_confidence": 0.9714
+    },
+    {
+      "bbox": [
+        967,
+        748,
+        1360,
+        812
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0033#xywh=967,748,393,64",
+      "confidence": "line",
+      "gemini_text": "Deposit At F Bank 3,80.",
+      "surya_confidence": 0.9921
+    }
+  ],
+  "unmatched_gemini": [
+    "Money loaned in the",
+    "Up to date. Oct. 28. 1873.",
+    "Dollars 1200"
+  ]
+}

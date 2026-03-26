@@ -1,0 +1,302 @@
+{
+  "image": "0052_service:rbc:lcrbmrp:t8072:052.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052",
+  "canvas_width": 1833,
+  "canvas_height": 2995,
+  "surya_median_confidence": 0.9941,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        228,
+        641,
+        1591,
+        685
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=228,641,1363,44",
+      "confidence": "line",
+      "gemini_text": "James O. Bampfield................Grand Royal Patron",
+      "surya_confidence": 0.9933
+    },
+    {
+      "bbox": [
+        737,
+        712,
+        1087,
+        747
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=737,712,350,35",
+      "confidence": "line",
+      "gemini_text": "1119 V st., nw.",
+      "surya_confidence": 0.9909
+    },
+    {
+      "bbox": [
+        759,
+        869,
+        1099,
+        904
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=759,869,340,35",
+      "confidence": "line",
+      "gemini_text": "1203 K st., nw.",
+      "surya_confidence": 0.9884
+    },
+    {
+      "bbox": [
+        693,
+        1303,
+        1142,
+        1339
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=693,1303,449,36",
+      "confidence": "line",
+      "gemini_text": "315 East Capitol st.",
+      "surya_confidence": 0.9821
+    },
+    {
+      "bbox": [
+        698,
+        2573,
+        1086,
+        2611
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=698,2573,388,38",
+      "confidence": "line",
+      "gemini_text": "918 11th st., nw.",
+      "surya_confidence": 0.9944
+    },
+    {
+      "bbox": [
+        875,
+        2673,
+        933,
+        2708
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=875,2673,58,35",
+      "confidence": "line",
+      "gemini_text": "43",
+      "surya_confidence": 0.9843
+    },
+    {
+      "bbox": [
+        232,
+        797,
+        1590,
+        838
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=232,797,1358,41",
+      "confidence": "line",
+      "gemini_text": "Elizabeth W. Marshall...............Grand Royal Matron",
+      "surya_confidence": 0.9881
+    },
+    {
+      "bbox": [
+        230,
+        968,
+        1587,
+        1005
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=230,968,1357,37",
+      "confidence": "line",
+      "gemini_text": "Wm. A. Baltimore . . . . . .Associate Grand Royal Patron",
+      "surya_confidence": 0.9906
+    },
+    {
+      "bbox": [
+        229,
+        1057,
+        1585,
+        1095
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=229,1057,1356,38",
+      "confidence": "line",
+      "gemini_text": "Hattie E. Lee................Associate Grand Royal Matron",
+      "surya_confidence": 0.9867
+    },
+    {
+      "bbox": [
+        230,
+        1140,
+        1585,
+        1190
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=230,1140,1355,50",
+      "confidence": "line",
+      "gemini_text": "Martha A. Ferguson................Grand Treasurer",
+      "surya_confidence": 0.9941
+    },
+    {
+      "bbox": [
+        229,
+        1235,
+        1593,
+        1275
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=229,1235,1364,40",
+      "confidence": "line",
+      "gemini_text": "Ellen L. Wayne................Grand Secretary",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        226,
+        1414,
+        1587,
+        1455
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=226,1414,1361,41",
+      "confidence": "line",
+      "gemini_text": "Julia M. Taylor .................Grand Conductress",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        229,
+        1503,
+        1585,
+        1542
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=229,1503,1356,39",
+      "confidence": "line",
+      "gemini_text": "Matilda Payne................Associate Grand Conductress",
+      "surya_confidence": 0.9681
+    },
+    {
+      "bbox": [
+        230,
+        1582,
+        1585,
+        1636
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=230,1582,1355,54",
+      "confidence": "line",
+      "gemini_text": "Emma Evans................Grand Warder",
+      "surya_confidence": 0.9857
+    },
+    {
+      "bbox": [
+        227,
+        1668,
+        1577,
+        1718
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=227,1668,1350,50",
+      "confidence": "line",
+      "gemini_text": "Walter J. Abrams ................Grand Marshal",
+      "surya_confidence": 0.9964
+    },
+    {
+      "bbox": [
+        224,
+        1769,
+        1582,
+        1810
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=224,1769,1358,41",
+      "confidence": "line",
+      "gemini_text": "Robert A. Payne ................Grand Chaplain",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        224,
+        1857,
+        1582,
+        1899
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=224,1857,1358,42",
+      "confidence": "line",
+      "gemini_text": "Lelia L. Pendleton................Hon. Grand Lady Truth",
+      "surya_confidence": 0.9942
+    },
+    {
+      "bbox": [
+        222,
+        1944,
+        1582,
+        1990
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=222,1944,1360,46",
+      "confidence": "line",
+      "gemini_text": "Annie V. Moore................Hon. Grand Lady Faith",
+      "surya_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        222,
+        2032,
+        1581,
+        2079
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=222,2032,1359,47",
+      "confidence": "line",
+      "gemini_text": "Lottie R. Crusoe................Hon. Grand Lady Wisdom",
+      "surya_confidence": 0.9951
+    },
+    {
+      "bbox": [
+        222,
+        2119,
+        1582,
+        2169
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=222,2119,1360,50",
+      "confidence": "line",
+      "gemini_text": "Jennie Stewart ................Hon. Grand Lady Charity",
+      "surya_confidence": 0.995
+    },
+    {
+      "bbox": [
+        219,
+        2213,
+        1577,
+        2259
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=219,2213,1358,46",
+      "confidence": "line",
+      "gemini_text": "Emma G. Dandridge................Hon. Grand Herald",
+      "surya_confidence": 0.9921
+    },
+    {
+      "bbox": [
+        222,
+        2302,
+        1581,
+        2349
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=222,2302,1359,47",
+      "confidence": "line",
+      "gemini_text": "Julia A. Taylor................Hon. Grand Organist",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        219,
+        2384,
+        1575,
+        2435
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=219,2384,1356,51",
+      "confidence": "line",
+      "gemini_text": "Robt. H. Ford................Hon. Grand Sentinel",
+      "surya_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        213,
+        2480,
+        1573,
+        2527
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:052#xywh=213,2480,1360,47",
+      "confidence": "line",
+      "gemini_text": "Nellie E. Morgan................Chairman Committee, F. C.",
+      "surya_confidence": 0.9949
+    }
+  ],
+  "unmatched_gemini": [
+    "Roster Grand Chapter O. E. S."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "image": "0001_service:mss:mss11879:mss11879-42:42001:0001d.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {},
+  "page_context": {
+    "record_type": "Bank Ledger",
+    "section_title": "Cover",
+    "year": null
+  },
+  "entries": [
+    {
+      "date": null,
+      "description": "No. 1801",
+      "amount": null,
+      "transaction_type": "account_info",
+      "record_type": "Bank Ledger",
+      "section_title": "Cover",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0001d",
+      "image": "0001_service:mss:mss11879:mss11879-42:42001:0001d.jpg"
+    },
+    {
+      "date": null,
+      "description": "Folio 413 L - 2",
+      "amount": null,
+      "transaction_type": "account_info",
+      "record_type": "Bank Ledger",
+      "section_title": "Cover",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0001d",
+      "image": "0001_service:mss:mss11879:mss11879-42:42001:0001d.jpg"
+    },
+    {
+      "date": null,
+      "description": "Capital Savings Bank, Washington, D. C. in account with Helen Douglass",
+      "amount": null,
+      "transaction_type": "account_info",
+      "record_type": "Bank Ledger",
+      "section_title": "Cover",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0001d",
+      "image": "0001_service:mss:mss11879:mss11879-42:42001:0001d.jpg"
+    }
+  ]
+}

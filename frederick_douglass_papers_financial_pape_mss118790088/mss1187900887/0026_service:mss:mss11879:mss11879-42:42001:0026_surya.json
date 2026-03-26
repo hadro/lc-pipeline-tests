@@ -1,0 +1,666 @@
+{
+  "image_width": 1503,
+  "image_height": 1291,
+  "lines": [
+    {
+      "bbox": [
+        158,
+        123,
+        715,
+        152
+      ],
+      "text": "right to this notice. Deposits made on or before the third",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        841,
+        128,
+        1394,
+        150
+      ],
+      "text": "nen Bahlungen geleiftet werben, ohne biefem Rünbigungs:",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        841,
+        153,
+        1395,
+        180
+      ],
+      "text": "rechte Ginbruch zu thun. Alle, am ober bor bem britten",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        159,
+        161,
+        716,
+        183
+      ],
+      "text": "day of any month shall draw interest from the first day",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        844,
+        181,
+        1394,
+        206
+      ],
+      "text": "Tage jebes Monats geleifteten Ginlagen, find bom erften",
+      "confidence": 0.9636
+    },
+    {
+      "bbox": [
+        159,
+        193,
+        715,
+        217
+      ],
+      "text": "of that-month. - All interest shall be credited to deposi-",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        844,
+        209,
+        1394,
+        234
+      ],
+      "text": "Tage an beffelben Monats, ginstragenb. Binfen follen",
+      "confidence": 0.9234
+    },
+    {
+      "bbox": [
+        158,
+        224,
+        716,
+        253
+      ],
+      "text": "tors' accounts half yearly on or before the 20th days of",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        844,
+        236,
+        1394,
+        261
+      ],
+      "text": "am, ober bor bem 20ten Januar und Juli bem Rapital",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        157,
+        259,
+        712,
+        286
+      ],
+      "text": "January and July, and shall draw interest like the prin-",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        842,
+        264,
+        1394,
+        289
+      ],
+      "text": "bes betreffenben Ginlegers beigefügt werben und gleich bem=",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        844,
+        292,
+        1394,
+        316
+      ],
+      "text": "felben, bom erften bes entsprechenben Monats, ginstragenb",
+      "confidence": 0.9351
+    },
+    {
+      "bbox": [
+        157,
+        294,
+        713,
+        318
+      ],
+      "text": "cipal, from the first days of those months. When an ac-",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        842,
+        320,
+        1394,
+        344
+      ],
+      "text": "fein. Beim Rechnungsabichlug mit Ginlegern, foll Bins:",
+      "confidence": 0.9824
+    },
+    {
+      "bbox": [
+        157,
+        326,
+        714,
+        354
+      ],
+      "text": "count is closed, interest will be computed and paid to the",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        840,
+        347,
+        1394,
+        372
+      ],
+      "text": "vergütung bis und mit bem letten Tage bes borbergebenben",
+      "confidence": 0.6804
+    },
+    {
+      "bbox": [
+        157,
+        359,
+        712,
+        388
+      ],
+      "text": "last day of the preceding month; inclusive, but no inter-",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        841,
+        375,
+        1394,
+        399
+      ],
+      "text": "Monats ftattfinben; für Bruchtheile eines Dollars, und",
+      "confidence": 0.9742
+    },
+    {
+      "bbox": [
+        157,
+        393,
+        717,
+        422
+      ],
+      "text": "est will be paid on fractional parts of a dollar, or for",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        830,
+        402,
+        1397,
+        427
+      ],
+      "text": ". für die theilweise Zeit eines Kalenbermonats werben feine",
+      "confidence": 0.528
+    },
+    {
+      "bbox": [
+        841,
+        428,
+        999,
+        456
+      ],
+      "text": "Binfen vergütet.",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        159,
+        431,
+        537,
+        450
+      ],
+      "text": "fractional parts of a calendar month. .",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        177,
+        460,
+        712,
+        490
+      ],
+      "text": "VI. - The Bank shall have the right at any time to close",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        860,
+        468,
+        1394,
+        496
+      ],
+      "text": "VI .- Die Bantverwaltung behält fich bas Recht vor, guir:",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        156,
+        495,
+        712,
+        523
+      ],
+      "text": "an account with a depositor, or to refuse to receive the",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        840,
+        497,
+        1394,
+        521
+      ],
+      "text": "gend einer Beit Rechnungsabichluß mit einem Ginleger an-",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        840,
+        525,
+        1394,
+        549
+      ],
+      "text": "guordnen, fowie gange ober theilmeife Ginlagen gurudgus",
+      "confidence": 0.5795
+    },
+    {
+      "bbox": [
+        157,
+        528,
+        534,
+        555
+      ],
+      "text": "whole or any part of a deposit offered.",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        840,
+        556,
+        913,
+        575
+      ],
+      "text": "weisen.",
+      "confidence": 0.9287
+    },
+    {
+      "bbox": [
+        177,
+        561,
+        711,
+        590
+      ],
+      "text": "VII .- All advertisements ordered by the Bank affect-",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        153,
+        593,
+        711,
+        624
+      ],
+      "text": "ing depositors or deposits, must be published in two",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        861,
+        595,
+        1394,
+        614
+      ],
+      "text": "VII.-Alle Befanntmachungen welche Ginleger ober Ginla:",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        840,
+        619,
+        1394,
+        643
+      ],
+      "text": "gen betreffen, und von ber Bankverwaltung beschloffen wer-",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        152,
+        628,
+        712,
+        656
+      ],
+      "text": "newspapers of the City, one of which shall be in the Ger-",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        840,
+        647,
+        1392,
+        671
+      ],
+      "text": "beu, follen in zwei biefigen Beitungen, worunter eine in ber",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        153,
+        661,
+        711,
+        690
+      ],
+      "text": "man language, and shall then constitute legal notice to",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        840,
+        674,
+        1395,
+        699
+      ],
+      "text": "beutschen Sprache, veröffentlicht werben, und find folche",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        155,
+        699,
+        315,
+        718
+      ],
+      "text": "every depositor.",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        840,
+        702,
+        1394,
+        727
+      ],
+      "text": "Beröffentlichungen als gesetlich maßgebend für die Ginleger",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        175,
+        728,
+        711,
+        757
+      ],
+      "text": "VIII.-Depositors who have made no deposits and re-",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        841,
+        732,
+        973,
+        752
+      ],
+      "text": "au betrachten.",
+      "confidence": 0.3764
+    },
+    {
+      "bbox": [
+        152,
+        762,
+        710,
+        790
+      ],
+      "text": "ceived no payments for seven years, shall thereafter have",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        861,
+        770,
+        1394,
+        792
+      ],
+      "text": "VIII - Für Ginlagen, welche unverändert und ohne Rinfen=",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        152,
+        797,
+        611,
+        823
+      ],
+      "text": "no further claim for interest on their deposits.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        840,
+        798,
+        1392,
+        820
+      ],
+      "text": "Bezug, fieben Jahre ununterbrochen in ber Bant berbleiben,",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        839,
+        825,
+        1315,
+        849
+      ],
+      "text": "werben nach biefer Beit feine Binfen mehr bergutet.",
+      "confidence": 0.9243
+    },
+    {
+      "bbox": [
+        173,
+        830,
+        710,
+        857
+      ],
+      "text": "IX.-In case of the loss of a deposit-book, the deposi-",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        153,
+        863,
+        709,
+        891
+      ],
+      "text": "tor shall give immediate notice thereof to the Bank,",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        862,
+        863,
+        1394,
+        889
+      ],
+      "text": "'X .- 3m Falle bes Berluftes eines Ginlagebuches foll",
+      "confidence": 0.3497
+    },
+    {
+      "bbox": [
+        839,
+        892,
+        1394,
+        916
+      ],
+      "text": "bie Bant fogleich bavon in Kenntniß gefest werben, uub",
+      "confidence": 0.8324
+    },
+    {
+      "bbox": [
+        153,
+        896,
+        710,
+        924
+      ],
+      "text": "which may in its discretion issue a duplicate; but the",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        839,
+        922,
+        1394,
+        944
+      ],
+      "text": "fann biefelbe nad, Gutachten ber Beamten ein Duplifat",
+      "confidence": 0.5151
+    },
+    {
+      "bbox": [
+        152,
+        931,
+        710,
+        958
+      ],
+      "text": "deposit can be returned only on a valid receipt of the",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        839,
+        947,
+        1392,
+        972
+      ],
+      "text": "ausfertigen laffen : bie Rudgablung ber Ginlage fann je=",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        152,
+        967,
+        708,
+        989
+      ],
+      "text": "depositor, or of his legal representatives, duly proved to",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        839,
+        975,
+        1394,
+        1000
+      ],
+      "text": "boch bloß gegen eine vollgültige Quittung bes Ginlegers",
+      "confidence": 0.9668
+    },
+    {
+      "bbox": [
+        152,
+        997,
+        709,
+        1024
+      ],
+      "text": "be such; in proper cases adequate security may also",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        839,
+        1003,
+        1389,
+        1028
+      ],
+      "text": "ober feines geborig legitimirten Bevollmächtigten erfolgen;",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        839,
+        1031,
+        1389,
+        1056
+      ],
+      "text": "eintretenben Falles fann auch genügenbe Burgichaft gefor=",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        153,
+        1032,
+        292,
+        1054
+      ],
+      "text": "be demanded.",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        840,
+        1062,
+        958,
+        1082
+      ],
+      "text": "bert werben.",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        172,
+        1064,
+        707,
+        1091
+      ],
+      "text": "X -In case of the death of a depositor, the amount",
+      "confidence": 0.96
+    },
+    {
+      "bbox": [
+        152,
+        1097,
+        709,
+        1125
+      ],
+      "text": "due to him by the Bank will be paid to his legal repre-",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        859,
+        1099,
+        1392,
+        1123
+      ],
+      "text": "X .- Beim Ableben eines Ginlegers, treten beffen gefetlich",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        839,
+        1127,
+        1333,
+        1152
+      ],
+      "text": "anerkannte Erben in die Rechte bes Berftorbenen ein.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        154,
+        1134,
+        258,
+        1151
+      ],
+      "text": "sentatives.",
+      "confidence": 0.9945
+    }
+  ]
+}

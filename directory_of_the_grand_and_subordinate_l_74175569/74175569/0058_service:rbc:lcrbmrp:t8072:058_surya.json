@@ -1,0 +1,506 @@
+{
+  "image_width": 1814,
+  "image_height": 2998,
+  "lines": [
+    {
+      "bbox": [
+        453,
+        343,
+        1321,
+        399
+      ],
+      "text": "Queen of Sheba Chapter, No. 3, O. E. S.",
+      "confidence": 0.9826
+    },
+    {
+      "bbox": [
+        625,
+        435,
+        1132,
+        472
+      ],
+      "text": "Meets Third Monday.",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        206,
+        548,
+        1560,
+        599
+      ],
+      "text": "Miss Emma Dandridge......Royal Matron",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        710,
+        603,
+        1040,
+        637
+      ],
+      "text": "419 N st., nw.",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        206,
+        664,
+        1561,
+        712
+      ],
+      "text": "Sir William A. Baltimore. ...................................",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        513,
+        713,
+        1244,
+        750
+      ],
+      "text": "War Department, R. and P. O.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        207,
+        779,
+        1564,
+        818
+      ],
+      "text": "Miss Sadie A. Gaskins ..... Secretary",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        603,
+        826,
+        1162,
+        858
+      ],
+      "text": "2804 Dumbarton Avenue.",
+      "confidence": 0.9682
+    },
+    {
+      "bbox": [
+        416,
+        1002,
+        1123,
+        1076
+      ],
+      "text": "Alexander, Sarah P., 1015 Q nw.",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        423,
+        1059,
+        955,
+        1096
+      ],
+      "text": "Ashton, Lectsy, 313 A se.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        414,
+        1092,
+        928,
+        1125
+      ],
+      "text": "Adams, Mary J, 519 2d sw.",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        411,
+        1127,
+        1174,
+        1159
+      ],
+      "text": "Atkins, Lucrieta, 1932 11th nw.",
+      "confidence": 0.9693
+    },
+    {
+      "bbox": [
+        414,
+        1160,
+        1043,
+        1192
+      ],
+      "text": "Baltimore, Gertrude L, 71 G sw.",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        1052,
+        1163,
+        1402,
+        1187
+      ],
+      "text": "the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of t",
+      "confidence": 0.0905
+    },
+    {
+      "bbox": [
+        414,
+        1196,
+        1024,
+        1224
+      ],
+      "text": "Baltimore, Therese A, 71 G sw.",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        414,
+        1228,
+        946,
+        1258
+      ],
+      "text": "Boggins, Frank, 406 1st sw.",
+      "confidence": 0.9666
+    },
+    {
+      "bbox": [
+        414,
+        1262,
+        962,
+        1292
+      ],
+      "text": "Boggins. Irene C, 406 1st sw.",
+      "confidence": 0.9843
+    },
+    {
+      "bbox": [
+        413,
+        1286,
+        1261,
+        1336
+      ],
+      "text": "Branch, Geo. W, 2125 Ward Place, nw.",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        412,
+        1329,
+        1176,
+        1359
+      ],
+      "text": "Branch, Marie, 2125 Ward Place. nw.",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        413,
+        1360,
+        1008,
+        1397
+      ],
+      "text": "Browne, Mary M, 1013 18th nw",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        413,
+        1395,
+        911,
+        1427
+      ],
+      "text": "Bush, Laura. 2010 M nw.",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        415,
+        1421,
+        1359,
+        1465
+      ],
+      "text": "Baker, Emily, 1344 28th nw.",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        405,
+        1448,
+        1539,
+        1652
+      ],
+      "text": "Baltimore, Wm. A., 71 G sw.\nBrown, Hattie L., 105 6th nw.\nBrown, Lucinda, Anacostia.\nBrown, Mary S., 105 6th nw.\nCooper, Mary L. D., 1826 E nw.",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        409,
+        1635,
+        1144,
+        1671
+      ],
+      "text": "Cushinberry, Emma, 4th and Q nw.",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        409,
+        1672,
+        968,
+        1702
+      ],
+      "text": "Corum, Fannie, 1907 11th nw",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        410,
+        1703,
+        929,
+        1738
+      ],
+      "text": "Dabney, Ruth, 1132 3d nw.",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        412,
+        1737,
+        893,
+        1771
+      ],
+      "text": "Dade, Emma, 2141 F nw.",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        413,
+        1768,
+        1046,
+        1805
+      ],
+      "text": "Duffin, Fannie, 1123 23rd nw.",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        418,
+        1803,
+        1199,
+        1841
+      ],
+      "text": "Dandridge, Elizabeth H., 419 N nw.",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        418,
+        1838,
+        1056,
+        1877
+      ],
+      "text": "Dandridge, Emma, 419 N nw.",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        417,
+        1850,
+        1294,
+        1927
+      ],
+      "text": "Dandridge, Hattie M., 419 N nw.",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        415,
+        1909,
+        872,
+        1941
+      ],
+      "text": "Evans, Eliza, 1210 R nw",
+      "confidence": 0.9839
+    },
+    {
+      "bbox": [
+        421,
+        1932,
+        1364,
+        1988
+      ],
+      "text": "Evans, Sarah, 817 Cottage Hill ne.",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        418,
+        1971,
+        1366,
+        2045
+      ],
+      "text": "Foreman, Susie, 2223 Cleveland ave. nw. Gaskins, Isabelle, 1114 20th nw.",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        420,
+        2010,
+        1082,
+        2046
+      ],
+      "text": "Gaskins, Isabelle, 1114 20th nw.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        420,
+        2044,
+        1279,
+        2081
+      ],
+      "text": "Gaskins, Sadie A., 2804 Dumbarton ave.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        414,
+        2064,
+        1402,
+        2169
+      ],
+      "text": "Goings, Louisa, 1303 27th nw.\nHammond, Mary A., 1634 11th nw.",
+      "confidence": 0.9877
+    },
+    {
+      "bbox": [
+        421,
+        2150,
+        1037,
+        2187
+      ],
+      "text": "Harris, Henry C., 1515 M nw.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        416,
+        2173,
+        1388,
+        2296
+      ],
+      "text": "Henderson, Cordelia, 1347 Princeton nw.\nHill, Amanda. 652 Acker no",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        419,
+        2249,
+        1392,
+        2293
+      ],
+      "text": "Hill, Amanda, 652 Acker ne.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        417,
+        2279,
+        1237,
+        2364
+      ],
+      "text": "Howard, Martha, 1243 22d nw.\nHutchinson, John M., 1701 11th nw.",
+      "confidence": 0.9743
+    },
+    {
+      "bbox": [
+        415,
+        2358,
+        937,
+        2395
+      ],
+      "text": "Harris, Celestine, 322 E sw.",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        415,
+        2388,
+        862,
+        2428
+      ],
+      "text": "Harris, Eliza, 322 E sw.",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        415,
+        2422,
+        984,
+        2459
+      ],
+      "text": "Hawkins. Martha, 2141 F nw.",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        413,
+        2457,
+        995,
+        2494
+      ],
+      "text": "Holland, Lizzie, 1932 11th nw.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        413,
+        2490,
+        989,
+        2530
+      ],
+      "text": "Jackson, Louise, 332 Elm nw.",
+      "confidence": 0.9874
+    },
+    {
+      "bbox": [
+        415,
+        2522,
+        1262,
+        2560
+      ],
+      "text": "Johnson, Marie Letcher, 2120 Fla. Ave. nw.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        418,
+        2555,
+        1114,
+        2630
+      ],
+      "text": "Jackson, Annie, 1407 E. Capitol.\nJohnson, Frederick, 1522 21st nw.",
+      "confidence": 0.9806
+    },
+    {
+      "bbox": [
+        421,
+        2629,
+        1073,
+        2664
+      ],
+      "text": "Johnson, Mildred, 1522 21st nw.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        867,
+        2690,
+        917,
+        2720
+      ],
+      "text": "49",
+      "confidence": 0.9872
+    }
+  ]
+}

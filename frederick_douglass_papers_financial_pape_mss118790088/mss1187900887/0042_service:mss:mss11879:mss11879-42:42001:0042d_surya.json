@@ -1,0 +1,246 @@
+{
+  "image_width": 863,
+  "image_height": 1288,
+  "lines": [
+    {
+      "bbox": [
+        142,
+        71,
+        722,
+        128
+      ],
+      "text": "THE WASHINGTON LOAN & TRUST CO.",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        242,
+        122,
+        620,
+        154
+      ],
+      "text": "PAID UP CAPITAL, $1,000,000.",
+      "confidence": 0.7906
+    },
+    {
+      "bbox": [
+        142,
+        154,
+        725,
+        205
+      ],
+      "text": "Organized under Act of Congress, and subject to the supervision and inspection of the United States Treasury Officials.",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        202,
+        968,
+        676,
+        996
+      ],
+      "text": "Granite Building, Cor. 9th and F Sts., N. W.",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        376,
+        1000,
+        503,
+        1015
+      ],
+      "text": "DIRECTORS.",
+      "confidence": 0.9567
+    },
+    {
+      "bbox": [
+        344,
+        1015,
+        504,
+        1039
+      ],
+      "text": "Martin A. Knapp,",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        548,
+        1015,
+        714,
+        1032
+      ],
+      "text": "Thomas W. Smith,",
+      "confidence": 0.9851
+    },
+    {
+      "bbox": [
+        150,
+        1021,
+        304,
+        1037
+      ],
+      "text": "Charles B. Bailey",
+      "confidence": 0.9486
+    },
+    {
+      "bbox": [
+        548,
+        1031,
+        686,
+        1049
+      ],
+      "text": "John A. Swope,",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        150,
+        1033,
+        312,
+        1110
+      ],
+      "text": "A. L. Barber,\nWm. E. Barker,\nJohn R. Carmody,\nJohn M. Clapp,",
+      "confidence": 0.9828
+    },
+    {
+      "bbox": [
+        344,
+        1034,
+        481,
+        1054
+      ],
+      "text": "John B. Larner,",
+      "confidence": 0.9874
+    },
+    {
+      "bbox": [
+        541,
+        1037,
+        735,
+        1142
+      ],
+      "text": "Louis P. Shoemaker,\nGeorge Truesdell,\nB. H. Warner,\nH. K. Willard\nA. A. Wilson",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        341,
+        1050,
+        521,
+        1087
+      ],
+      "text": "H. D. Mirick,\nTheodore W. Noyes,",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        341,
+        1085,
+        501,
+        1103
+      ],
+      "text": "Allison Nailor, Jr.",
+      "confidence": 0.9832
+    },
+    {
+      "bbox": [
+        342,
+        1103,
+        507,
+        1121
+      ],
+      "text": "Watson J. Newton,",
+      "confidence": 0.9713
+    },
+    {
+      "bbox": [
+        152,
+        1104,
+        327,
+        1122
+      ],
+      "text": "Augustus Crane, Jr.,",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        341,
+        1116,
+        497,
+        1141
+      ],
+      "text": "Sam'l L. Phillips,",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        155,
+        1121,
+        297,
+        1139
+      ],
+      "text": "J. J. Darlington,",
+      "confidence": 0.9123
+    },
+    {
+      "bbox": [
+        541,
+        1127,
+        712,
+        1188
+      ],
+      "text": "Louis D. Wine,\nS. W. Woodward,\nA. S. Worthington,",
+      "confidence": 0.9789
+    },
+    {
+      "bbox": [
+        151,
+        1133,
+        297,
+        1177
+      ],
+      "text": "John Joy Edson,\nA. P. Fardon,",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        340,
+        1137,
+        463,
+        1152
+      ],
+      "text": "Isadore Saks,",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        341,
+        1153,
+        447,
+        1169
+      ],
+      "text": "N. H. Shea,",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        339,
+        1171,
+        445,
+        1187
+      ],
+      "text": "Ellis Spear,",
+      "confidence": 0.982
+    },
+    {
+      "bbox": [
+        151,
+        1173,
+        314,
+        1190
+      ],
+      "text": "John A. Hamilton,",
+      "confidence": 0.9828
+    }
+  ]
+}

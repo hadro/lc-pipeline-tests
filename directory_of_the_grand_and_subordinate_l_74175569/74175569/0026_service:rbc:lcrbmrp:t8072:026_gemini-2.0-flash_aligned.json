@@ -1,0 +1,372 @@
+{
+  "image": "0026_service:rbc:lcrbmrp:t8072:026.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026",
+  "canvas_width": 1817,
+  "canvas_height": 2914,
+  "surya_median_confidence": 0.9941,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        681,
+        298,
+        1409,
+        340
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=681,298,728,42",
+      "confidence": "line",
+      "gemini_text": "Prince Hall Lodge, No. 14.",
+      "surya_confidence": 0.9739
+    },
+    {
+      "bbox": [
+        712,
+        393,
+        1426,
+        440
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=712,393,714,47",
+      "confidence": "line",
+      "gemini_text": "Wm. A. Warfield, W. Master.",
+      "surya_confidence": 0.9955
+    },
+    {
+      "bbox": [
+        916,
+        449,
+        1726,
+        489
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=916,449,810,40",
+      "confidence": "line",
+      "gemini_text": "Wm. H. Haynes, S. W. Edw. H. Hunter, J. W..",
+      "surya_confidence": 0.9937
+    },
+    {
+      "bbox": [
+        544,
+        506,
+        1568,
+        552
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=544,506,1024,46",
+      "confidence": "line",
+      "gemini_text": "Wm. T Ferguson, Sec'y, 1420 Pierce Place.",
+      "surya_confidence": 0.997
+    },
+    {
+      "bbox": [
+        773,
+        565,
+        1311,
+        603
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=773,565,538,38",
+      "confidence": "line",
+      "gemini_text": "Meets Third Thursday.",
+      "surya_confidence": 0.9725
+    },
+    {
+      "bbox": [
+        622,
+        740,
+        1473,
+        787
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=622,740,851,47",
+      "confidence": "line",
+      "gemini_text": "Charles Datcher Lodge, No. 15.",
+      "surya_confidence": 0.9685
+    },
+    {
+      "bbox": [
+        711,
+        844,
+        1382,
+        882
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=711,844,671,38",
+      "confidence": "line",
+      "gemini_text": "Matt. M. Taylor, W. Master.",
+      "surya_confidence": 0.9922
+    },
+    {
+      "bbox": [
+        370,
+        893,
+        1721,
+        942
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=370,893,1351,49",
+      "confidence": "line",
+      "gemini_text": "J. D. Howard, S W. Charles H. Young, J. W.",
+      "surya_confidence": 0.9941
+    },
+    {
+      "bbox": [
+        553,
+        949,
+        1541,
+        998
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=553,949,988,49",
+      "confidence": "line",
+      "gemini_text": "Alex. T. Hicks, Sec'y, 29 Defrees St. N. W.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        753,
+        1009,
+        1325,
+        1050
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=753,1009,572,41",
+      "confidence": "line",
+      "gemini_text": "Meets Third Wednesday.",
+      "surya_confidence": 0.9894
+    },
+    {
+      "bbox": [
+        709,
+        1186,
+        1397,
+        1230
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=709,1186,688,44",
+      "confidence": "line",
+      "gemini_text": "Brightwood Lodge, U. D.",
+      "surya_confidence": 0.9583
+    },
+    {
+      "bbox": [
+        734,
+        1283,
+        1352,
+        1329
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=734,1283,618,46",
+      "confidence": "line",
+      "gemini_text": "Fred D. Henry, W. Master.",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        376,
+        1333,
+        1729,
+        1389
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=376,1333,1353,56",
+      "confidence": "line",
+      "gemini_text": "Charles D. Freeman, S. W. Wm. H. Underwood, J. W.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        754,
+        1399,
+        1347,
+        1437
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=754,1399,593,38",
+      "confidence": "line",
+      "gemini_text": "James H. Hill, Treasurer.",
+      "surya_confidence": 0.9919
+    },
+    {
+      "bbox": [
+        555,
+        1449,
+        1543,
+        1498
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=555,1449,988,49",
+      "confidence": "line",
+      "gemini_text": "George M. Webster, Sec'y, 320 E St. S. W.",
+      "surya_confidence": 0.9984
+    },
+    {
+      "bbox": [
+        823,
+        1507,
+        1278,
+        1551
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=823,1507,455,44",
+      "confidence": "line",
+      "gemini_text": "Meets First Friday.",
+      "surya_confidence": 0.9882
+    },
+    {
+      "bbox": [
+        514,
+        1626,
+        1587,
+        1718
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=514,1626,1073,92",
+      "confidence": "line",
+      "gemini_text": "Masonic Relief Association.",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        712,
+        1764,
+        1390,
+        1812
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=712,1764,678,48",
+      "confidence": "line",
+      "gemini_text": "MEETS FIRST MONDAY.",
+      "surya_confidence": 0.972
+    },
+    {
+      "bbox": [
+        376,
+        1847,
+        1732,
+        1911
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=376,1847,1356,64",
+      "confidence": "line",
+      "gemini_text": "Henry Coleman................................President",
+      "surya_confidence": 0.9956
+    },
+    {
+      "bbox": [
+        756,
+        1903,
+        1347,
+        1943
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=756,1903,591,40",
+      "confidence": "line",
+      "gemini_text": "1112 N. J. Avenue, N. W.",
+      "surya_confidence": 0.9907
+    },
+    {
+      "bbox": [
+        379,
+        1986,
+        1732,
+        2037
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=379,1986,1353,51",
+      "confidence": "line",
+      "gemini_text": "Wm. H. Grimshaw........................Vice-President",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        800,
+        2038,
+        1305,
+        2075
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=800,2038,505,37",
+      "confidence": "line",
+      "gemini_text": "247 10th Street, N. E.",
+      "surya_confidence": 0.9768
+    },
+    {
+      "bbox": [
+        384,
+        2117,
+        1729,
+        2170
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=384,2117,1345,53",
+      "confidence": "line",
+      "gemini_text": "James Saunders................................Treasurer",
+      "surya_confidence": 0.9945
+    },
+    {
+      "bbox": [
+        382,
+        2211,
+        1730,
+        2255
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=382,2211,1348,44",
+      "confidence": "line",
+      "gemini_text": "Richard H. Gleaves................................Secretary",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        773,
+        2260,
+        1333,
+        2296
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=773,2260,560,36",
+      "confidence": "line",
+      "gemini_text": "126 Carroll Street, S. E.",
+      "surya_confidence": 0.9942
+    },
+    {
+      "bbox": [
+        384,
+        2344,
+        1730,
+        2391
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=384,2344,1346,47",
+      "confidence": "line",
+      "gemini_text": "Nathaniel Robinson........................Assistant Secretary",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        717,
+        2435,
+        1390,
+        2472
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=717,2435,673,37",
+      "confidence": "line",
+      "gemini_text": "BOARD OF DIRECTORS:",
+      "surya_confidence": 0.6715
+    },
+    {
+      "bbox": [
+        861,
+        2527,
+        1280,
+        2564
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=861,2527,419,37",
+      "confidence": "line",
+      "gemini_text": "John H. Brooks, Henry C. Irving, Wm. H. Harris,",
+      "surya_confidence": 0.9944
+    },
+    {
+      "bbox": [
+        1153,
+        2568,
+        1548,
+        2602
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=1153,2568,395,34",
+      "confidence": "line",
+      "gemini_text": "Alfred Pope, Samuel H. West.",
+      "surya_confidence": 0.9945
+    },
+    {
+      "bbox": [
+        1031,
+        2612,
+        1079,
+        2647
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:026#xywh=1031,2612,48,35",
+      "confidence": "line",
+      "gemini_text": "17",
+      "surya_confidence": 0.9945
+    }
+  ],
+  "unmatched_gemini": []
+}

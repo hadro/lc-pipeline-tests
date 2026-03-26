@@ -1,0 +1,216 @@
+{
+  "image_width": 1889,
+  "image_height": 2991,
+  "lines": [
+    {
+      "bbox": [
+        301,
+        387,
+        988,
+        481
+      ],
+      "text": "\"At Droops\"",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        805,
+        557,
+        1652,
+        618
+      ],
+      "text": "Is the phrase which for the",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        804,
+        635,
+        1656,
+        695
+      ],
+      "text": "last forty-five years has meant",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        436,
+        769,
+        1169,
+        820
+      ],
+      "text": "THE PLACE WHERE",
+      "confidence": 0.9791
+    },
+    {
+      "bbox": [
+        437,
+        847,
+        1350,
+        900
+      ],
+      "text": "HONESTLY MADE GOODS",
+      "confidence": 0.9829
+    },
+    {
+      "bbox": [
+        437,
+        920,
+        1571,
+        979
+      ],
+      "text": "ARE SOLD AT HONEST PRICES.",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        306,
+        1154,
+        1658,
+        1224
+      ],
+      "text": "We have just opened a New Department of",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        304,
+        1234,
+        1654,
+        1297
+      ],
+      "text": "VICTOR TALKING MACHINES AND RECORDS, and",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        305,
+        1313,
+        1657,
+        1376
+      ],
+      "text": "our Liberal System of Time Payments brings",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        303,
+        1390,
+        1658,
+        1458
+      ],
+      "text": "this most wonderful discovery of the 20th Cen-",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        304,
+        1466,
+        1658,
+        1535
+      ],
+      "text": "tury within the reach of the narrowest purse.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        391,
+        1606,
+        1564,
+        1667
+      ],
+      "text": "Graphophones from $3.50 to $60.",
+      "confidence": 0.9749
+    },
+    {
+      "bbox": [
+        313,
+        1725,
+        1652,
+        1822
+      ],
+      "text": "DROOPS' MUSIC STORE,",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        653,
+        1895,
+        1306,
+        1975
+      ],
+      "text": "925 Pa. Ave.",
+      "confidence": 0.9631
+    },
+    {
+      "bbox": [
+        309,
+        2036,
+        1661,
+        2106
+      ],
+      "text": "Steinway Pianos—The Cecilian—The Regina",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        308,
+        2119,
+        1659,
+        2180
+      ],
+      "text": "Music Box—The Victor Talking Machine—The",
+      "confidence": 0.9759
+    },
+    {
+      "bbox": [
+        308,
+        2193,
+        1661,
+        2263
+      ],
+      "text": "Columbia Graphophone—The Washburn Man-",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        308,
+        2272,
+        1659,
+        2343
+      ],
+      "text": "dolin, Guitar, and Banjo, Etc. . Etc. . Etc.",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        309,
+        2517,
+        1661,
+        2590
+      ],
+      "text": "Complete Stock of Foreign and Domestic Sheet",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        439,
+        2594,
+        1524,
+        2668
+      ],
+      "text": "Music and Books—Special Discounts.",
+      "confidence": 0.9825
+    },
+    {
+      "bbox": [
+        946,
+        2707,
+        1023,
+        2741
+      ],
+      "text": "100",
+      "confidence": 0.9888
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Bank Ledger",
+    "section_title": "DR",
+    "year": "1898"
+  },
+  "page_context": {
+    "record_type": "Bank Ledger",
+    "section_title": "CR",
+    "year": "1899"
+  },
+  "entries": [
+    {
+      "date": "1899",
+      "description": "Amt.",
+      "amount": "1272.62",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008#xywh=747,267,118,38",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "1899",
+      "description": "Amt.",
+      "amount": "800.15",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008#xywh=475,252,234,47",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "March 18, 1899",
+      "description": "ck.",
+      "amount": "5.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "March 25, 1899",
+      "description": "ck.",
+      "amount": "5.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "April 8, 1899",
+      "description": "ck.",
+      "amount": "1.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "April 10, 1899",
+      "description": "ck.",
+      "amount": "13.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "April 21, 1899",
+      "description": "ck.",
+      "amount": "10.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "April 28, 1899",
+      "description": "ck.",
+      "amount": "5.75",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "May 5, 1899",
+      "description": "ck.",
+      "amount": "2.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "May 8, 1899",
+      "description": "ck.",
+      "amount": "2.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "May 9, 1899",
+      "description": "ck.",
+      "amount": "18.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "February 10, 1899",
+      "description": "ck.",
+      "amount": "5.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "May 25, 1899",
+      "description": "ck.",
+      "amount": "10.75",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008#xywh=742,636,162,76",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "June 10, 1899",
+      "description": "ck.",
+      "amount": "163.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "July 13, 1899",
+      "description": "ck.",
+      "amount": "35.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "July 22, 1899",
+      "description": "ck.",
+      "amount": "6.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "July 22, 1899",
+      "description": "ck.",
+      "amount": "35.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "July 24, 1899",
+      "description": "ck.",
+      "amount": "5.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "July 26, 1899",
+      "description": "ck.",
+      "amount": "1.69",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "August 22, 1899",
+      "description": "ck.",
+      "amount": "7.50",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "August 22, 1899",
+      "description": "ck.",
+      "amount": "10.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "September 7, 1899",
+      "description": "Balance",
+      "amount": "131.78",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008#xywh=1194,954,50,18",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "1899",
+      "description": "Total Amount",
+      "amount": "1272.62",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008#xywh=1127,996,210,37",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "September 7, 1899",
+      "description": "Bal. V.R.",
+      "amount": "131.78",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "1899",
+      "description": "Amt.",
+      "amount": "131.78",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "September 22, 1899",
+      "description": "ck.",
+      "amount": "10.50",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "September 30, 1899",
+      "description": "ck.",
+      "amount": "15.15",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    },
+    {
+      "date": "1899",
+      "description": "Amt",
+      "amount": "25.65",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1899",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0008",
+      "image": "0008_service:mss:mss11879:mss11879-42:42001:0008.jpg"
+    }
+  ]
+}

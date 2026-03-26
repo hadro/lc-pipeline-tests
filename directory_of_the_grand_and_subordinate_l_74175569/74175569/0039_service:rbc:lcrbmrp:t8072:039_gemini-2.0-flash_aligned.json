@@ -1,0 +1,216 @@
+{
+  "image": "0039_service:rbc:lcrbmrp:t8072:039.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:039",
+  "canvas_width": 1890,
+  "canvas_height": 2996,
+  "surya_median_confidence": 0.965,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        264,
+        406,
+        1625,
+        459
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:039#xywh=264,406,1361,53",
+      "confidence": "line",
+      "gemini_text": "Fine Wines. Old Whiskies and Brandies. Liquors of",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        612,
+        507,
+        1263,
+        560
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:039#xywh=612,507,651,53",
+      "confidence": "line",
+      "gemini_text": "all Kinds. Choice Cigars.",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        264,
+        785,
+        1612,
+        871
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:039#xywh=264,785,1348,86",
+      "confidence": "line",
+      "gemini_text": "PHILADELPHIA HOUSE,",
+      "surya_confidence": 0.965
+    },
+    {
+      "bbox": [
+        611,
+        977,
+        1237,
+        1029
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:039#xywh=611,977,626,52",
+      "confidence": "line",
+      "gemini_text": "M. F. CARROLL, Prop.",
+      "surya_confidence": 0.9943
+    },
+    {
+      "bbox": [
+        499,
+        1123,
+        1370,
+        1215
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:039#xywh=499,1123,871,92",
+      "confidence": "line",
+      "gemini_text": "Restaurant and Saloon,",
+      "surya_confidence": 0.9748
+    },
+    {
+      "bbox": [
+        322,
+        1310,
+        1548,
+        1372
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:039#xywh=322,1310,1226,62",
+      "confidence": "line",
+      "gemini_text": "348 Pennsylvania Avenue, N. W.",
+      "surya_confidence": 0.9907
+    },
+    {
+      "bbox": [
+        639,
+        1465,
+        1232,
+        1522
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:039#xywh=639,1465,593,57",
+      "confidence": "line",
+      "gemini_text": "WASHINGTON, D. C.",
+      "surya_confidence": 0.9394
+    },
+    {
+      "bbox": [
+        264,
+        1747,
+        661,
+        1795
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:039#xywh=264,1747,397,48",
+      "confidence": "line",
+      "gemini_text": "Meals to Order. Everything First-Class.",
+      "surya_confidence": 0.9925
+    },
+    {
+      "bbox": [
+        500,
+        2028,
+        1376,
+        2077
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:039#xywh=500,2028,876,49",
+      "confidence": "line",
+      "gemini_text": "Billiard and Pool Parlors Attached.",
+      "surya_confidence": 0.9801
+    },
+    {
+      "bbox": [
+        314,
+        2158,
+        947,
+        2222
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:039#xywh=314,2158,633,64",
+      "confidence": "line",
+      "gemini_text": "GEORGE W. MORGAN,",
+      "surya_confidence": 0.9884
+    },
+    {
+      "bbox": [
+        615,
+        2263,
+        1260,
+        2314
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:039#xywh=615,2263,645,51",
+      "confidence": "line",
+      "gemini_text": "Undertaker and Embalmer,",
+      "surya_confidence": 0.9525
+    },
+    {
+      "bbox": [
+        530,
+        2360,
+        1348,
+        2402
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:039#xywh=530,2360,818,42",
+      "confidence": "line",
+      "gemini_text": "Main Office, 2d and F Streets S. W.",
+      "surya_confidence": 0.9978
+    },
+    {
+      "bbox": [
+        526,
+        2407,
+        1348,
+        2446
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:039#xywh=526,2407,822,39",
+      "confidence": "line",
+      "gemini_text": "Branch Office, 807 13th Street N. E.",
+      "surya_confidence": 0.9922
+    },
+    {
+      "bbox": [
+        355,
+        2501,
+        1526,
+        2551
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:039#xywh=355,2501,1171,50",
+      "confidence": "line",
+      "gemini_text": "Rubber-Tire Carriages For Hire on All Occasions.",
+      "surya_confidence": 0.9873
+    },
+    {
+      "bbox": [
+        431,
+        2599,
+        1439,
+        2637
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:039#xywh=431,2599,1008,38",
+      "confidence": "line",
+      "gemini_text": "Orders Promptly Attended to, Day or Night.",
+      "surya_confidence": 0.9725
+    },
+    {
+      "bbox": [
+        267,
+        2642,
+        711,
+        2676
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:039#xywh=267,2642,444,34",
+      "confidence": "line",
+      "gemini_text": "Prices Reasonable. 'Phone, Main 816-3.",
+      "surya_confidence": 0.9594
+    },
+    {
+      "bbox": [
+        910,
+        2732,
+        967,
+        2767
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:039#xywh=910,2732,57,35",
+      "confidence": "line",
+      "gemini_text": "30",
+      "surya_confidence": 0.9894
+    }
+  ],
+  "unmatched_gemini": []
+}

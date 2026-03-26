@@ -1,0 +1,756 @@
+{
+  "image": "0046_service:mss:mss11879:mss11879-42:42001:0046.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046",
+  "canvas_width": 1333,
+  "canvas_height": 1126,
+  "surya_median_confidence": 0.9988,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        171,
+        104,
+        493,
+        123
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=171,104,322,19",
+      "confidence": "line",
+      "gemini_text": "CAPITAL SAVINGS BANK.",
+      "surya_confidence": 0.981
+    },
+    {
+      "bbox": [
+        75,
+        158,
+        587,
+        186
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=75,158,512,28",
+      "confidence": "line",
+      "gemini_text": "ness operations, but unalterably handi-",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        77,
+        186,
+        586,
+        213
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=77,186,509,27",
+      "confidence": "line",
+      "gemini_text": "capped by a prejudice which we could",
+      "surya_confidence": 0.9981
+    },
+    {
+      "bbox": [
+        77,
+        212,
+        586,
+        242
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=77,212,509,30",
+      "confidence": "line",
+      "gemini_text": "neither modify nor control. We had an",
+      "surya_confidence": 0.996
+    },
+    {
+      "bbox": [
+        76,
+        240,
+        587,
+        269
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=76,240,511,29",
+      "confidence": "line",
+      "gemini_text": "army of salaried men and women drawing",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        76,
+        271,
+        585,
+        296
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=76,271,509,25",
+      "confidence": "line",
+      "gemini_text": "from the government every month,",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        66,
+        295,
+        586,
+        326
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=66,295,520,31",
+      "confidence": "line",
+      "gemini_text": "through the public schools and the de-",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        77,
+        326,
+        586,
+        350
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=77,326,509,24",
+      "confidence": "line",
+      "gemini_text": "partmental service, hundreds of thou-",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        77,
+        352,
+        586,
+        381
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=77,352,509,29",
+      "confidence": "line",
+      "gemini_text": "sands of dollars; and a still larger army",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        77,
+        380,
+        587,
+        410
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=77,380,510,30",
+      "confidence": "line",
+      "gemini_text": "of honest, earnest wage-earners who,",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        77,
+        407,
+        586,
+        437
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=77,407,509,30",
+      "confidence": "line",
+      "gemini_text": "week by week, receive a large money re-",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        77,
+        435,
+        586,
+        461
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=77,435,509,26",
+      "confidence": "line",
+      "gemini_text": "turn for their labor. There was absolute-",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        74,
+        465,
+        587,
+        491
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=74,465,513,26",
+      "confidence": "line",
+      "gemini_text": "ly no central rallying point at which the",
+      "surya_confidence": 0.9975
+    },
+    {
+      "bbox": [
+        76,
+        491,
+        586,
+        521
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=76,491,510,30",
+      "confidence": "line",
+      "gemini_text": "monetary interests of the colored people",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        77,
+        519,
+        587,
+        548
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=77,519,510,29",
+      "confidence": "line",
+      "gemini_text": "could be concentrated, and through",
+      "surya_confidence": 0.9882
+    },
+    {
+      "bbox": [
+        77,
+        549,
+        587,
+        574
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=77,549,510,25",
+      "confidence": "line",
+      "gemini_text": "which we could prove to the world that",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        77,
+        576,
+        587,
+        602
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=77,576,510,26",
+      "confidence": "line",
+      "gemini_text": "we are capable of that sort of business",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        77,
+        605,
+        587,
+        631
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=77,605,510,26",
+      "confidence": "line",
+      "gemini_text": "development that makes a people respec-",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        77,
+        632,
+        325,
+        657
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=77,632,248,25",
+      "confidence": "line",
+      "gemini_text": "table and respected.",
+      "surya_confidence": 0.9975
+    },
+    {
+      "bbox": [
+        104,
+        658,
+        585,
+        688
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=104,658,481,30",
+      "confidence": "line",
+      "gemini_text": "\"It was under the impulse of senti-",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        76,
+        685,
+        587,
+        715
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=76,685,511,30",
+      "confidence": "line",
+      "gemini_text": "ments such as these that six colored men",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        77,
+        714,
+        587,
+        743
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=77,714,510,29",
+      "confidence": "line",
+      "gemini_text": "met one October evening, in 1888, in the",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        77,
+        743,
+        587,
+        770
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=77,743,510,27",
+      "confidence": "line",
+      "gemini_text": "library of H. P. Montgomery's residence",
+      "surya_confidence": 0.9974
+    },
+    {
+      "bbox": [
+        77,
+        772,
+        587,
+        797
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=77,772,510,25",
+      "confidence": "line",
+      "gemini_text": "in this city, and discussed the project of",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        77,
+        800,
+        585,
+        825
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=77,800,508,25",
+      "confidence": "line",
+      "gemini_text": "opening a bank. They carefully weighed",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        77,
+        828,
+        587,
+        853
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=77,828,510,25",
+      "confidence": "line",
+      "gemini_text": "the arguments for and against it, and, be-",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        76,
+        853,
+        586,
+        883
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=76,853,510,30",
+      "confidence": "line",
+      "gemini_text": "ing filled with a purpose to do something,",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        77,
+        883,
+        585,
+        908
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=77,883,508,25",
+      "confidence": "line",
+      "gemini_text": "they decided then and there to do it.",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        77,
+        911,
+        586,
+        937
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=77,911,509,26",
+      "confidence": "line",
+      "gemini_text": "One of the number present happened to",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        76,
+        939,
+        585,
+        964
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=76,939,509,25",
+      "confidence": "line",
+      "gemini_text": "know of a suitable place that could be se-",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        77,
+        965,
+        504,
+        989
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=77,965,427,24",
+      "confidence": "line",
+      "gemini_text": "cured at once for our business. We",
+      "surya_confidence": 0.9929
+    },
+    {
+      "bbox": [
+        828,
+        107,
+        1149,
+        129
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=828,107,321,22",
+      "confidence": "line",
+      "gemini_text": "CAPITAL SAVINGS BANK.",
+      "surya_confidence": 0.9848
+    },
+    {
+      "bbox": [
+        739,
+        164,
+        1249,
+        188
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=739,164,510,24",
+      "confidence": "line",
+      "gemini_text": "agreed to rent the place, and we assessed",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        739,
+        191,
+        1250,
+        216
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=739,191,511,25",
+      "confidence": "line",
+      "gemini_text": "ourselves for money enough on the spot",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        740,
+        218,
+        1199,
+        243
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=740,218,459,25",
+      "confidence": "line",
+      "gemini_text": "to pay a month's rent in advance. We",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        740,
+        246,
+        1249,
+        271
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=740,246,509,25",
+      "confidence": "line",
+      "gemini_text": "had a place then, but no business. We",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        739,
+        273,
+        1249,
+        299
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=739,273,510,26",
+      "confidence": "line",
+      "gemini_text": "hadn't a single dollar of stock sold or sub-",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        737,
+        301,
+        1249,
+        328
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=737,301,512,27",
+      "confidence": "line",
+      "gemini_text": "scribed for, no deposits, no books, no",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        740,
+        330,
+        1249,
+        355
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=740,330,509,25",
+      "confidence": "line",
+      "gemini_text": "tender of cash from any source, no offi-",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        740,
+        357,
+        1250,
+        382
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=740,357,510,25",
+      "confidence": "line",
+      "gemini_text": "cers, no clerks—in short, no anything",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        741,
+        384,
+        1249,
+        411
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=741,384,508,27",
+      "confidence": "line",
+      "gemini_text": "but one month's rent and one year's",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        740,
+        413,
+        1249,
+        439
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=740,413,509,26",
+      "confidence": "line",
+      "gemini_text": "pluck. A few meetings followed in quick",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        740,
+        440,
+        1249,
+        466
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=740,440,509,26",
+      "confidence": "line",
+      "gemini_text": "succession, and on Wednesday morning,",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        740,
+        469,
+        1249,
+        494
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=740,469,509,25",
+      "confidence": "line",
+      "gemini_text": "October 17, 1888, the doors of the CAPI-",
+      "surya_confidence": 0.9976
+    },
+    {
+      "bbox": [
+        740,
+        495,
+        1252,
+        523
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=740,495,512,28",
+      "confidence": "line",
+      "gemini_text": "TAL SAVINGS BANK were swung open at",
+      "surya_confidence": 0.9946
+    },
+    {
+      "bbox": [
+        741,
+        522,
+        1249,
+        552
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=741,522,508,30",
+      "confidence": "line",
+      "gemini_text": "804 F Street, and the public at large",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        742,
+        552,
+        1251,
+        577
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=742,552,509,25",
+      "confidence": "line",
+      "gemini_text": "were asked to give us a share of their",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        743,
+        580,
+        1110,
+        602
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=743,580,367,22",
+      "confidence": "line",
+      "gemini_text": "confidence and their business.",
+      "surya_confidence": 0.9948
+    },
+    {
+      "bbox": [
+        770,
+        606,
+        1249,
+        634
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=770,606,479,28",
+      "confidence": "line",
+      "gemini_text": "\"In some business circles our courage",
+      "surya_confidence": 0.9871
+    },
+    {
+      "bbox": [
+        742,
+        637,
+        1250,
+        661
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=742,637,508,24",
+      "confidence": "line",
+      "gemini_text": "took the form of audacity, and our bank",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        742,
+        664,
+        1185,
+        688
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=742,664,443,24",
+      "confidence": "line",
+      "gemini_text": "was the quick sensation of the hour.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        770,
+        689,
+        1250,
+        719
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=770,689,480,30",
+      "confidence": "line",
+      "gemini_text": "\"A bank with a colored president, col-",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        743,
+        718,
+        1250,
+        743
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=743,718,507,25",
+      "confidence": "line",
+      "gemini_text": "ored cashier, colored clerks and colored",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        744,
+        747,
+        1249,
+        772
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=744,747,505,25",
+      "confidence": "line",
+      "gemini_text": "board of directors! 'Impossible,' said",
+      "surya_confidence": 0.9927
+    },
+    {
+      "bbox": [
+        743,
+        774,
+        1188,
+        799
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=743,774,445,25",
+      "confidence": "line",
+      "gemini_text": "some; 'foolish,' said some others. But",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        744,
+        804,
+        1251,
+        826
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=744,804,507,22",
+      "confidence": "line",
+      "gemini_text": "we meant to succeed if success were pos-",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        744,
+        829,
+        1253,
+        857
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=744,829,509,28",
+      "confidence": "line",
+      "gemini_text": "sible, and we worked right along just as",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        743,
+        857,
+        1250,
+        881
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=743,857,507,24",
+      "confidence": "line",
+      "gemini_text": "if we had a silent partner named Roths-",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        744,
+        886,
+        1253,
+        908
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=744,886,509,22",
+      "confidence": "line",
+      "gemini_text": "child. And how well have we succeeded?",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        743,
+        914,
+        1195,
+        939
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=743,914,452,25",
+      "confidence": "line",
+      "gemini_text": "Let's consult our books at this point.",
+      "surya_confidence": 0.9978
+    },
+    {
+      "bbox": [
+        770,
+        941,
+        1251,
+        967
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=770,941,481,26",
+      "confidence": "line",
+      "gemini_text": "\"The day we opened our doors for bu-",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        743,
+        970,
+        1254,
+        995
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0046#xywh=743,970,511,25",
+      "confidence": "line",
+      "gemini_text": "siness, our authorized capital stock was",
+      "surya_confidence": 0.9999
+    }
+  ],
+  "unmatched_gemini": []
+}

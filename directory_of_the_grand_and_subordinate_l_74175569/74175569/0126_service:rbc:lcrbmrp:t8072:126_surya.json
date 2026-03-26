@@ -1,0 +1,436 @@
+{
+  "image_width": 1838,
+  "image_height": 2993,
+  "lines": [
+    {
+      "bbox": [
+        486,
+        433,
+        1278,
+        490
+      ],
+      "text": "Datcher Chapter, U. D., O. E. S.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        405,
+        537,
+        1350,
+        593
+      ],
+      "text": "Maria Scott .... Royal Matron, 1644 4th nw.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        405,
+        639,
+        1351,
+        692
+      ],
+      "text": "John D. Howard ......Royal Patron",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        707,
+        711,
+        1054,
+        750
+      ],
+      "text": "108 Canal st. sw.",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        458,
+        816,
+        1298,
+        871
+      ],
+      "text": "Susie Edwards, Secretary, 1906 11th nw.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        644,
+        901,
+        1114,
+        945
+      ],
+      "text": "Meets Second Tuesday.",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        340,
+        1116,
+        910,
+        1162
+      ],
+      "text": "Battels, Hattie, 213 G sw",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        346,
+        1165,
+        946,
+        1203
+      ],
+      "text": "Berry, Edmona, 247 3d sw",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        342,
+        1203,
+        858,
+        1254
+      ],
+      "text": "Berry, Ella, 247 3d sw",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        345,
+        1246,
+        1028,
+        1298
+      ],
+      "text": "Bowie, Bertie, 108 Canal stsw",
+      "confidence": 0.992
+    },
+    {
+      "bbox": [
+        345,
+        1293,
+        1034,
+        1341
+      ],
+      "text": "Brown, A. L., 106 Canal st sw",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        345,
+        1335,
+        1149,
+        1386
+      ],
+      "text": "Brown, Josephine, 71 Defrees st nw",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        345,
+        1382,
+        996,
+        1431
+      ],
+      "text": "Cunningham, C. F., 73 G sw",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        343,
+        1426,
+        1069,
+        1476
+      ],
+      "text": "Cunningham, Florence, 73 G sw",
+      "confidence": 0.9833
+    },
+    {
+      "bbox": [
+        342,
+        1471,
+        1019,
+        1520
+      ],
+      "text": "Dean, Mary Lizzie, 615 1st sw",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        343,
+        1515,
+        1163,
+        1563
+      ],
+      "text": "Dean, Rachel, 626 Delaware ave sw",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        345,
+        1561,
+        1013,
+        1609
+      ],
+      "text": "Edwards, Lizzie, 452 D st nw",
+      "confidence": 0.985
+    },
+    {
+      "bbox": [
+        344,
+        1606,
+        1034,
+        1653
+      ],
+      "text": "Edwards, Susie, 1906 11 st nw",
+      "confidence": 0.9889
+    },
+    {
+      "bbox": [
+        345,
+        1651,
+        1005,
+        1698
+      ],
+      "text": "Fulton, Susie, 2221 8th st nw",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        345,
+        1692,
+        1166,
+        1743
+      ],
+      "text": "Gutridge, Lucindia, 1142 N Cap. st",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        345,
+        1742,
+        1026,
+        1786
+      ],
+      "text": "Hawkins, Charity, 64 G st sw",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        345,
+        1785,
+        991,
+        1831
+      ],
+      "text": "Hawkins, Emma, 64 G st sw",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        345,
+        1827,
+        1118,
+        1877
+      ],
+      "text": "Henderson, Blanche, 423 2d st sw",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        345,
+        1872,
+        1083,
+        1921
+      ],
+      "text": "Henson, Mollie F., 1218 3d st sw",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        345,
+        1921,
+        899,
+        1963
+      ],
+      "text": "Holt, Amelia, 3 E st sw",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        345,
+        1961,
+        1065,
+        2011
+      ],
+      "text": "Howard, J. D., 108 Canal st sw",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        346,
+        2006,
+        1059,
+        2057
+      ],
+      "text": "Lockett, Maggie, 1612 M st nw.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        345,
+        2051,
+        1092,
+        2099
+      ],
+      "text": "Marshall, Florence, 119 5th st se",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        345,
+        2095,
+        1094,
+        2144
+      ],
+      "text": "Matthews, Octavia, 1828 E st nw",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        348,
+        2141,
+        988,
+        2188
+      ],
+      "text": "Mitchell, Hattie, 25 D st sw",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        348,
+        2186,
+        1031,
+        2232
+      ],
+      "text": "Scott, Estella, 607 Va. ave se",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        348,
+        2228,
+        1011,
+        2279
+      ],
+      "text": "Scott, Maria, 1644 4th st nw",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        347,
+        2274,
+        1042,
+        2322
+      ],
+      "text": "Scott, William, 1644 4th st nw",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        350,
+        2320,
+        951,
+        2367
+      ],
+      "text": "Smith, Annie, 1648 B st se",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        350,
+        2364,
+        951,
+        2411
+      ],
+      "text": "Smith, Lula, 926 1st st sw",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        349,
+        2407,
+        1014,
+        2456
+      ],
+      "text": "Snowden Eva, 607 V.a. ave se",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        349,
+        2452,
+        1022,
+        2503
+      ],
+      "text": "Stoddard, Susie, 413 2d st sw",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        348,
+        2499,
+        990,
+        2545
+      ],
+      "text": "Thomas, Annie, 207 G st sw",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        349,
+        2540,
+        1065,
+        2592
+      ],
+      "text": "Tinker, Anna, 1214 Vt ave nw",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        346,
+        2585,
+        1081,
+        2636
+      ],
+      "text": "Tinker, G. F., Anacostia, D. C.",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        348,
+        2629,
+        1062,
+        2682
+      ],
+      "text": "Tinney, Ellen, 108 Canal st sw",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        350,
+        2677,
+        991,
+        2726
+      ],
+      "text": "Young, Emma, 1117 2d st se",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        856,
+        2758,
+        932,
+        2792
+      ],
+      "text": "117",
+      "confidence": 0.989
+    }
+  ]
+}

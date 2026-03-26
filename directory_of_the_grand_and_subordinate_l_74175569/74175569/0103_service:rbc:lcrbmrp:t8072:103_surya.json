@@ -1,0 +1,336 @@
+{
+  "image_width": 1895,
+  "image_height": 2998,
+  "lines": [
+    {
+      "bbox": [
+        731,
+        390,
+        1258,
+        428
+      ],
+      "text": "OWEN E. MCNEILL,",
+      "confidence": 0.9766
+    },
+    {
+      "bbox": [
+        944,
+        525,
+        1384,
+        558
+      ],
+      "text": "Counsellor-at-Law.",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        315,
+        657,
+        914,
+        694
+      ],
+      "text": "831 Delaware Ave., S. W.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        1146,
+        659,
+        1574,
+        698
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9895
+    },
+    {
+      "bbox": [
+        754,
+        805,
+        1230,
+        841
+      ],
+      "text": "JAMES F. BUNDY,",
+      "confidence": 0.9587
+    },
+    {
+      "bbox": [
+        448,
+        939,
+        1530,
+        976
+      ],
+      "text": "Attorney and Counsellor-at-law, Notary Public.",
+      "confidence": 0.9794
+    },
+    {
+      "bbox": [
+        404,
+        1070,
+        1032,
+        1108
+      ],
+      "text": "Office: 420 5th St., N. W.",
+      "confidence": 0.986
+    },
+    {
+      "bbox": [
+        1138,
+        1074,
+        1571,
+        1111
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9831
+    },
+    {
+      "bbox": [
+        314,
+        1114,
+        953,
+        1152
+      ],
+      "text": "Residence: 403 O St., N. W.",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        775,
+        1206,
+        1206,
+        1245
+      ],
+      "text": "WM. C. MARTIN,",
+      "confidence": 0.9817
+    },
+    {
+      "bbox": [
+        617,
+        1296,
+        1353,
+        1334
+      ],
+      "text": "Attorney and Counsellor-at-law.",
+      "confidence": 0.9765
+    },
+    {
+      "bbox": [
+        312,
+        1382,
+        915,
+        1421
+      ],
+      "text": "Office: 503½ D St., N. W.",
+      "confidence": 0.9806
+    },
+    {
+      "bbox": [
+        1225,
+        1385,
+        1660,
+        1425
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        481,
+        1430,
+        1493,
+        1468
+      ],
+      "text": "Webster Law Building Annex, Second Floor",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        310,
+        1481,
+        1658,
+        1523
+      ],
+      "text": "Practices in all the courts of the District of Columbia and",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        663,
+        1532,
+        1304,
+        1568
+      ],
+      "text": "the Executive Departments.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        721,
+        1620,
+        1260,
+        1657
+      ],
+      "text": "R. L. GAINES, M. D.",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        462,
+        1710,
+        1498,
+        1748
+      ],
+      "text": "Hours: 8 to 10 a. m.; 2 to 4 p. m.; 6 to 8 p. m..",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        303,
+        1796,
+        810,
+        1834
+      ],
+      "text": "2243 BriShtwood Ave.,",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        1220,
+        1802,
+        1656,
+        1839
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.984
+    },
+    {
+      "bbox": [
+        639,
+        1888,
+        1317,
+        1926
+      ],
+      "text": "Telephone Call, Main 3913-A.",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        609,
+        2008,
+        1348,
+        2052
+      ],
+      "text": "DR. C. SUMNER WORMLEY,",
+      "confidence": 0.9747
+    },
+    {
+      "bbox": [
+        786,
+        2145,
+        1167,
+        2183
+      ],
+      "text": "Surgeon Dentist.",
+      "confidence": 0.9663
+    },
+    {
+      "bbox": [
+        301,
+        2278,
+        761,
+        2315
+      ],
+      "text": "1531 14th St., N. W.",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        1133,
+        2279,
+        1562,
+        2321
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        628,
+        2355,
+        1322,
+        2397
+      ],
+      "text": "DR. HAMILTON S. SMITH,",
+      "confidence": 0.9617
+    },
+    {
+      "bbox": [
+        791,
+        2414,
+        1162,
+        2451
+      ],
+      "text": "Dental Surgeon.",
+      "confidence": 0.9744
+    },
+    {
+      "bbox": [
+        301,
+        2463,
+        1653,
+        2510
+      ],
+      "text": "(Late Demonstrator and Professor in Howard University",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        742,
+        2513,
+        1219,
+        2551
+      ],
+      "text": "Dental Department.)",
+      "confidence": 0.9501
+    },
+    {
+      "bbox": [
+        299,
+        2566,
+        1558,
+        2612
+      ],
+      "text": "1524 Pierce Place, N. W. Washington, D. C.",
+      "confidence": 0.979
+    },
+    {
+      "bbox": [
+        298,
+        2621,
+        1650,
+        2667
+      ],
+      "text": "Fourteen years' practice, Good Work, Best Material and",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        298,
+        2664,
+        1652,
+        2712
+      ],
+      "text": "fair prices. Examination free. Sunday work if desired.",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        949,
+        2716,
+        1004,
+        2746
+      ],
+      "text": "94",
+      "confidence": 0.9823
+    }
+  ]
+}

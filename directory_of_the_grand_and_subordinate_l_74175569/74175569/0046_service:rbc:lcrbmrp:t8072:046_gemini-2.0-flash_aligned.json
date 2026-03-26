@@ -1,0 +1,326 @@
+{
+  "image": "0046_service:rbc:lcrbmrp:t8072:046.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046",
+  "canvas_width": 1841,
+  "canvas_height": 2985,
+  "surya_median_confidence": 0.9948,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        346,
+        510,
+        1440,
+        548
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=346,510,1094,38",
+      "confidence": "line",
+      "gemini_text": "A. E. A. O. N. OF THE MYSTIC SHRINE,",
+      "surya_confidence": 0.9944
+    },
+    {
+      "bbox": [
+        217,
+        600,
+        1569,
+        638
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=217,600,1352,38",
+      "confidence": "line",
+      "gemini_text": "Meets on Third Thursday in May, August, November and",
+      "surya_confidence": 0.9978
+    },
+    {
+      "bbox": [
+        777,
+        658,
+        1015,
+        694
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=777,658,238,36",
+      "confidence": "line",
+      "gemini_text": "February.",
+      "surya_confidence": 0.9907
+    },
+    {
+      "bbox": [
+        518,
+        833,
+        1279,
+        872
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=518,833,761,39",
+      "confidence": "line",
+      "gemini_text": "Official Divan for 1903 and 1904.",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        711,
+        979,
+        1089,
+        1014
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=711,979,378,35",
+      "confidence": "line",
+      "gemini_text": "1018 R St. N. W.",
+      "surya_confidence": 0.991
+    },
+    {
+      "bbox": [
+        690,
+        1636,
+        1111,
+        1673
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=690,1636,421,37",
+      "confidence": "line",
+      "gemini_text": "2111 9th St. N. W.",
+      "surya_confidence": 0.9957
+    },
+    {
+      "bbox": [
+        968,
+        2442,
+        1488,
+        2478
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=968,2442,520,36",
+      "confidence": "line",
+      "gemini_text": "Nelson E. Weatherless",
+      "surya_confidence": 0.956
+    },
+    {
+      "bbox": [
+        964,
+        2480,
+        1359,
+        2528
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=964,2480,395,48",
+      "confidence": "line",
+      "gemini_text": "Reuben S. Smith",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        972,
+        2527,
+        1580,
+        2569
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=972,2527,608,42",
+      "confidence": "line",
+      "gemini_text": "Richard L. Gaines, M. D.",
+      "surya_confidence": 0.9962
+    },
+    {
+      "bbox": [
+        880,
+        2634,
+        931,
+        2666
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=880,2634,51,32",
+      "confidence": "line",
+      "gemini_text": "37",
+      "surya_confidence": 0.9816
+    },
+    {
+      "bbox": [
+        653,
+        401,
+        1133,
+        458
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=653,401,480,57",
+      "confidence": "line",
+      "gemini_text": "•Mecca Temple•",
+      "surya_confidence": 0.7156
+    },
+    {
+      "bbox": [
+        225,
+        923,
+        1572,
+        961
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=225,923,1347,38",
+      "confidence": "line",
+      "gemini_text": "Ill. Grand Potentate................Wm H. Judd Malvin",
+      "surya_confidence": 0.9805
+    },
+    {
+      "bbox": [
+        225,
+        1077,
+        1574,
+        1116
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=225,1077,1349,39",
+      "confidence": "line",
+      "gemini_text": "Ill. Chief Rabban................Arthur Simmons",
+      "surya_confidence": 0.9938
+    },
+    {
+      "bbox": [
+        226,
+        1178,
+        1578,
+        1219
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=226,1178,1352,41",
+      "confidence": "line",
+      "gemini_text": "Ill. Assistant Rabban................ Charles D. Freeman",
+      "surya_confidence": 0.9953
+    },
+    {
+      "bbox": [
+        223,
+        1276,
+        1577,
+        1324
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=223,1276,1354,48",
+      "confidence": "line",
+      "gemini_text": "High Priest and Prophet................Rev. L. S. Flagg",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        228,
+        1377,
+        1574,
+        1419
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=228,1377,1346,42",
+      "confidence": "line",
+      "gemini_text": "Oriental Guide................Nathaniel Robinson",
+      "surya_confidence": 0.9914
+    },
+    {
+      "bbox": [
+        225,
+        1476,
+        1575,
+        1525
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=225,1476,1350,49",
+      "confidence": "line",
+      "gemini_text": "Treasurer................Joseph D. Jones",
+      "surya_confidence": 0.9948
+    },
+    {
+      "bbox": [
+        225,
+        1581,
+        1578,
+        1619
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=225,1581,1353,38",
+      "confidence": "line",
+      "gemini_text": "Recorder................Frank H. Cozzens",
+      "surya_confidence": 0.9931
+    },
+    {
+      "bbox": [
+        227,
+        1736,
+        1580,
+        1777
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=227,1736,1353,41",
+      "confidence": "line",
+      "gemini_text": "First Ceremonial Master................Samuel T. Craig",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        228,
+        1832,
+        1579,
+        1883
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=228,1832,1351,51",
+      "confidence": "line",
+      "gemini_text": "Second Ceremonial Master................Benj. F. Pope",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        223,
+        1938,
+        1577,
+        1980
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=223,1938,1354,42",
+      "confidence": "line",
+      "gemini_text": "Director................ George S. Newman",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        222,
+        2030,
+        1577,
+        2079
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=222,2030,1355,49",
+      "confidence": "line",
+      "gemini_text": "Marshal................Richard H. Jones",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        223,
+        2128,
+        1577,
+        2184
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=223,2128,1354,56",
+      "confidence": "line",
+      "gemini_text": "Organist................David L. Stewart",
+      "surya_confidence": 0.9916
+    },
+    {
+      "bbox": [
+        228,
+        2240,
+        1580,
+        2281
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=228,2240,1352,41",
+      "confidence": "line",
+      "gemini_text": "Captain of the Guard................Horace M. Bailey",
+      "surya_confidence": 0.995
+    },
+    {
+      "bbox": [
+        230,
+        2338,
+        1581,
+        2379
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=230,2338,1351,41",
+      "confidence": "line",
+      "gemini_text": "Outer Guard................Julius Warren",
+      "surya_confidence": 0.9949
+    },
+    {
+      "bbox": [
+        223,
+        2485,
+        906,
+        2525
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:046#xywh=223,2485,683,40",
+      "confidence": "line",
+      "gemini_text": "Finance Committee................",
+      "surya_confidence": 0.9833
+    }
+  ],
+  "unmatched_gemini": [
+    "{"
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Language Exercises",
+    "section_title": "Future",
+    "year": null
+  },
+  "page_context": {
+    "record_type": "Language Exercises",
+    "section_title": "French Phrases",
+    "year": null
+  },
+  "entries": [
+    {
+      "date": null,
+      "description": "Je vais bien - I am well",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "French Phrases",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=268,181,378,57",
+      "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg"
+    },
+    {
+      "date": null,
+      "description": "Je ne vais pas bien - I am unwell",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "French Phrases",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=242,247,568,42",
+      "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg"
+    },
+    {
+      "date": null,
+      "description": "Mme Douglass va bien - Mme D. is well",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "French Phrases",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017",
+      "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg"
+    },
+    {
+      "date": null,
+      "description": "Nous allons bien - We are well",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "French Phrases",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=261,347,422,47",
+      "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg"
+    },
+    {
+      "date": null,
+      "description": "Conduisez moi au Palais Bourbon - Conduct me to the Pais Bourbon",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "French Phrases",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=265,399,731,44",
+      "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg"
+    },
+    {
+      "date": null,
+      "description": "Dépêchez-vous - Depêchez vous.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "French Phrases",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1101,451,249,39",
+      "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg"
+    },
+    {
+      "date": null,
+      "description": "Je vous prends à l'heure - I take you by the hour",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "French Phrases",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=269,498,554,50",
+      "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg"
+    },
+    {
+      "date": null,
+      "description": "Où sommes nous - Where are we",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "French Phrases",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=274,550,522,46",
+      "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg"
+    },
+    {
+      "date": null,
+      "description": "Combien d'arrêt or combien de minutes d'arrêt? - How long do you stop there?",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "French Phrases",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017",
+      "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg"
+    },
+    {
+      "date": null,
+      "description": "Quelle heure est-il? - What o'clock is it",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "French Phrases",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=271,697,622,54",
+      "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg"
+    },
+    {
+      "date": null,
+      "description": "Quand part le train? - When is the train going?",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "French Phrases",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1115,738,733,59",
+      "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg"
+    },
+    {
+      "date": null,
+      "description": "Quel est le meilleur hotel? - What is the best hotel?",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "French Phrases",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=289,798,696,55",
+      "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg"
+    },
+    {
+      "date": null,
+      "description": "Avez vous une chambre à deux lits? - Have you a room with two beds?",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "French Phrases",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017",
+      "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg"
+    },
+    {
+      "date": null,
+      "description": "Combien? - How much?",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "French Phrases",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1095,957,367,34",
+      "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg"
+    },
+    {
+      "date": null,
+      "description": "Quel est le prix de pension? - What is the price of boarding",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "French Phrases",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1098,999,777,66",
+      "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg"
+    },
+    {
+      "date": null,
+      "description": "par jour? - by day",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "French Phrases",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=273,1059,298,49",
+      "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg"
+    },
+    {
+      "date": null,
+      "description": "par semaine - by week",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "French Phrases",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=285,1110,322,48",
+      "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg"
+    },
+    {
+      "date": null,
+      "description": "par mois? - by month",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "French Phrases",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=298,1165,316,38",
+      "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg"
+    },
+    {
+      "date": null,
+      "description": "Nous partirons demain matin - We shall leave to morrow morning",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "French Phrases",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1069,1211,816,40",
+      "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg"
+    },
+    {
+      "date": null,
+      "description": "Donnez nous la note - Give us the bill",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "French Phrases",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=283,1270,683,42",
+      "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg"
+    },
+    {
+      "date": null,
+      "description": "Tout compris - Everything included",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "French Phrases",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=1057,1301,530,58",
+      "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg"
+    },
+    {
+      "date": null,
+      "description": "A quelle distance? - How far",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "French Phrases",
+      "year": null,
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0017#xywh=296,1364,472,54",
+      "image": "0017_service:mss:mss11879:mss11879-42:42001:0017.jpg"
+    }
+  ]
+}

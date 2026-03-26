@@ -1,0 +1,336 @@
+{
+  "image": "0069_service:rbc:lcrbmrp:t8072:069.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069",
+  "canvas_width": 1894,
+  "canvas_height": 3005,
+  "surya_median_confidence": 0.986,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        678,
+        386,
+        1273,
+        424
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=678,386,595,38",
+      "confidence": "line",
+      "gemini_text": "JOSEPH T. NEWMAN,",
+      "surya_confidence": 0.9475
+    },
+    {
+      "bbox": [
+        834,
+        474,
+        1123,
+        512
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=834,474,289,38",
+      "confidence": "line",
+      "gemini_text": "Hair Cutter.",
+      "surya_confidence": 0.9842
+    },
+    {
+      "bbox": [
+        299,
+        562,
+        754,
+        601
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=299,562,455,39",
+      "confidence": "line",
+      "gemini_text": "Service Up-to-Date.\t\tAppointments First-Class.",
+      "surya_confidence": 0.9928
+    },
+    {
+      "bbox": [
+        634,
+        652,
+        1292,
+        693
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=634,652,658,41",
+      "confidence": "line",
+      "gemini_text": "400 Third Street, Southwest.",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        760,
+        794,
+        1179,
+        834
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=760,794,419,40",
+      "confidence": "line",
+      "gemini_text": "A. S. HOWARD,",
+      "surya_confidence": 0.9936
+    },
+    {
+      "bbox": [
+        675,
+        885,
+        1254,
+        923
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=675,885,579,38",
+      "confidence": "line",
+      "gemini_text": "First-Class Barber Shop,",
+      "surya_confidence": 0.9696
+    },
+    {
+      "bbox": [
+        527,
+        974,
+        1404,
+        1013
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=527,974,877,39",
+      "confidence": "line",
+      "gemini_text": "624 Pennsylvania Avenue, Northwest,",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        295,
+        1060,
+        768,
+        1096
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=295,1060,473,36",
+      "confidence": "line",
+      "gemini_text": "Hot and Cold Baths.\t\tWashington, D. C.",
+      "surya_confidence": 0.9892
+    },
+    {
+      "bbox": [
+        672,
+        1136,
+        1257,
+        1174
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=672,1136,585,38",
+      "confidence": "line",
+      "gemini_text": "JAMES H. WINSLOW,",
+      "surya_confidence": 0.9769
+    },
+    {
+      "bbox": [
+        754,
+        1225,
+        1179,
+        1263
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=754,1225,425,38",
+      "confidence": "line",
+      "gemini_text": "1206 R St., N. W.",
+      "surya_confidence": 0.9836
+    },
+    {
+      "bbox": [
+        354,
+        1310,
+        1589,
+        1352
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=354,1310,1235,42",
+      "confidence": "line",
+      "gemini_text": "UNDERTAKER AND PRACTICAL EMBALMER,",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        469,
+        1399,
+        1455,
+        1448
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=469,1399,986,49",
+      "confidence": "line",
+      "gemini_text": "All Work First Class: Terms Reasonable.",
+      "surya_confidence": 0.9973
+    },
+    {
+      "bbox": [
+        293,
+        1486,
+        560,
+        1522
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=293,1486,267,36",
+      "confidence": "line",
+      "gemini_text": "Phone 2322\t\tResidence Next Door.",
+      "surya_confidence": 0.9839
+    },
+    {
+      "bbox": [
+        348,
+        1573,
+        1583,
+        1622
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=348,1573,1235,49",
+      "confidence": "line",
+      "gemini_text": "Porcelain Inlay, Crown and Bridge Work a Specialty.",
+      "surya_confidence": 0.9962
+    },
+    {
+      "bbox": [
+        620,
+        1646,
+        1316,
+        1685
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=620,1646,696,39",
+      "confidence": "line",
+      "gemini_text": "Dr. WILLIAM S. LOFTON,",
+      "surya_confidence": 0.9803
+    },
+    {
+      "bbox": [
+        842,
+        1712,
+        1115,
+        1747
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=842,1712,273,35",
+      "confidence": "line",
+      "gemini_text": "DENTIST.",
+      "surya_confidence": 0.9486
+    },
+    {
+      "bbox": [
+        288,
+        1774,
+        895,
+        1821
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=288,1774,607,47",
+      "confidence": "line",
+      "gemini_text": "1543 M Street, Northwest,\t\tWashington, D. C.",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        375,
+        1863,
+        1545,
+        1912
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=375,1863,1170,49",
+      "confidence": "line",
+      "gemini_text": "Hours: 9 A. M. to 5 Р. М.\t\tPhone, Main 929-A.",
+      "surya_confidence": 0.9849
+    },
+    {
+      "bbox": [
+        686,
+        1970,
+        1209,
+        2008
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=686,1970,523,38",
+      "confidence": "line",
+      "gemini_text": "GRAY & COSTLEY,",
+      "surya_confidence": 0.8986
+    },
+    {
+      "bbox": [
+        526,
+        2054,
+        1398,
+        2104
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=526,2054,872,50",
+      "confidence": "line",
+      "gemini_text": "WINES, LIQUORS AND CIGARS.",
+      "surya_confidence": 0.9772
+    },
+    {
+      "bbox": [
+        481,
+        2149,
+        1434,
+        2190
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=481,2149,953,41",
+      "confidence": "line",
+      "gemini_text": "Ladies and Gentlemen's Cafe upstairs.",
+      "surya_confidence": 0.9951
+    },
+    {
+      "bbox": [
+        285,
+        2235,
+        1139,
+        2279
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=285,2235,854,44",
+      "confidence": "line",
+      "gemini_text": "No 1313 E Street, Northwest,\t\tWashington, D. C.",
+      "surya_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        654,
+        2326,
+        1248,
+        2364
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=654,2326,594,38",
+      "confidence": "line",
+      "gemini_text": "Next to National Theatre.",
+      "surya_confidence": 0.9714
+    },
+    {
+      "bbox": [
+        770,
+        2442,
+        1131,
+        2479
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=770,2442,361,37",
+      "confidence": "line",
+      "gemini_text": "L. S. JONES,",
+      "surya_confidence": 0.9908
+    },
+    {
+      "bbox": [
+        681,
+        2529,
+        1237,
+        2565
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=681,2529,556,36",
+      "confidence": "line",
+      "gemini_text": "PRODUCE DEALER.",
+      "surya_confidence": 0.9665
+    },
+    {
+      "bbox": [
+        478,
+        2620,
+        1428,
+        2657
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=478,2620,950,37",
+      "confidence": "line",
+      "gemini_text": "B street, Near Ninth Street South Side.",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        607,
+        2706,
+        1292,
+        2744
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:069#xywh=607,2706,685,38",
+      "confidence": "line",
+      "gemini_text": "Residence 1836 11th St N W.",
+      "surya_confidence": 0.997
+    }
+  ],
+  "unmatched_gemini": []
+}

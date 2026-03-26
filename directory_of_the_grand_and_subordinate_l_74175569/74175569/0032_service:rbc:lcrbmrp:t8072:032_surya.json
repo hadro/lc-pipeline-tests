@@ -1,0 +1,266 @@
+{
+  "image_width": 1851,
+  "image_height": 2986,
+  "lines": [
+    {
+      "bbox": [
+        209,
+        404,
+        1562,
+        466
+      ],
+      "text": "M. Ex. Grand Royal Arch Chapter of the",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        583,
+        505,
+        1190,
+        565
+      ],
+      "text": "District of Columbia.",
+      "confidence": 0.9098
+    },
+    {
+      "bbox": [
+        745,
+        705,
+        1039,
+        739
+      ],
+      "text": "OFFICERS.",
+      "confidence": 0.9188
+    },
+    {
+      "bbox": [
+        214,
+        793,
+        1570,
+        833
+      ],
+      "text": "M. Ex. Comp. Frank H. Cozzens.....Grand High Priest",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        215,
+        883,
+        1570,
+        922
+      ],
+      "text": "Ex. Comp. Henry Coleman.... Deputy Grand High Priest",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        217,
+        971,
+        1570,
+        1011
+      ],
+      "text": "Ex. Comp. Henry C. Harris......Grand King",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        217,
+        1061,
+        1565,
+        1103
+      ],
+      "text": "Ex. Comp. Henry C. Irving......Grand Scribe",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        206,
+        1151,
+        1565,
+        1190
+      ],
+      "text": "Ex. Comp. Benjamin F. Dailey......Grand Treasurer",
+      "confidence": 0.9832
+    },
+    {
+      "bbox": [
+        218,
+        1238,
+        1568,
+        1279
+      ],
+      "text": "Ex. Comp. James O. Bampfield.... Grand Secretary",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        220,
+        1326,
+        1570,
+        1368
+      ],
+      "text": "Ex. Comp. Rev. James H. Hill......Grand Chaplain",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        220,
+        1417,
+        1570,
+        1457
+      ],
+      "text": "Ex. Comp. Richard Gates....................................",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        220,
+        1505,
+        1570,
+        1546
+      ],
+      "text": "Ex. Comp. Wilson Smith ..... Grand Prin. Sojourner",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        222,
+        1595,
+        1567,
+        1634
+      ],
+      "text": "Ex. Comp. N. Robinson......Grand R. A. Capt.",
+      "confidence": 0.9844
+    },
+    {
+      "bbox": [
+        218,
+        1684,
+        1567,
+        1725
+      ],
+      "text": "Ex. Comp. Geo. S. Newman. ... Grand Master of 3d Vail",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        220,
+        1774,
+        1570,
+        1812
+      ],
+      "text": "Ex. Comp. Wm. H. Hutchinson.....Grand Master 2d Vail",
+      "confidence": 0.9857
+    },
+    {
+      "bbox": [
+        220,
+        1861,
+        1570,
+        1903
+      ],
+      "text": "Ex. Comp. Frank Hall......Grand Master 1st Vail",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        220,
+        1950,
+        1568,
+        1990
+      ],
+      "text": "Ex. Comp. Robert H. Ford......Grand Guard",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        285,
+        2184,
+        1500,
+        2220
+      ],
+      "text": "DISTRICT DEPUTY GRAND HIGH PRIESTS.",
+      "confidence": 0.9455
+    },
+    {
+      "bbox": [
+        219,
+        2276,
+        1576,
+        2315
+      ],
+      "text": "Comp. Walker F. Williams..... State of North Carolina",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        660,
+        2344,
+        1122,
+        2381
+      ],
+      "text": "West Raleigh, N. C.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        220,
+        2421,
+        1570,
+        2460
+      ],
+      "text": "Comp. Jesse Robinson......State of Georgia",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        761,
+        2490,
+        1033,
+        2525
+      ],
+      "text": "Macon, Ga.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        218,
+        2566,
+        1571,
+        2606
+      ],
+      "text": "Comp. N. E. Lewis..... State of South Carolina",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        712,
+        2634,
+        1076,
+        2670
+      ],
+      "text": "Columbia, S. C.",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        863,
+        2724,
+        922,
+        2757
+      ],
+      "text": "23",
+      "confidence": 0.9746
+    },
+    {
+      "bbox": [
+        456,
+        2905,
+        590,
+        2919
+      ],
+      "text": "A STATE OF STATE OF",
+      "confidence": 0.1487
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "image_width": 1915,
+  "image_height": 1597,
+  "lines": [
+    {
+      "bbox": [
+        1000,
+        135,
+        1619,
+        362
+      ],
+      "text": "Reyor gate Av\nOnet 15-67\nChapil",
+      "confidence": 0.6774
+    },
+    {
+      "bbox": [
+        1010,
+        350,
+        1854,
+        499
+      ],
+      "text": "South quie when Dun to",
+      "confidence": 0.7905
+    },
+    {
+      "bbox": [
+        1029,
+        579,
+        1694,
+        697
+      ],
+      "text": "Artes Denous a la maison adquirdui. Madamemorelle",
+      "confidence": 0.9501
+    },
+    {
+      "bbox": [
+        1148,
+        732,
+        1696,
+        811
+      ],
+      "text": "Je luis beau bien aire.",
+      "confidence": 0.4415
+    },
+    {
+      "bbox": [
+        1142,
+        835,
+        1525,
+        965
+      ],
+      "text": "ages he fromages",
+      "confidence": 0.5481
+    },
+    {
+      "bbox": [
+        1145,
+        985,
+        1587,
+        1043
+      ],
+      "text": "hour Munes nevenie i",
+      "confidence": 0.5207
+    },
+    {
+      "bbox": [
+        1156,
+        1098,
+        1562,
+        1139
+      ],
+      "text": "hour summer revenue",
+      "confidence": 0.6384
+    },
+    {
+      "bbox": [
+        1160,
+        1152,
+        1497,
+        1199
+      ],
+      "text": "fair le tou le",
+      "confidence": 0.8342
+    },
+    {
+      "bbox": [
+        1145,
+        1197,
+        1632,
+        1295
+      ],
+      "text": "Je suis Revene\nMous summes reveni",
+      "confidence": 0.4506
+    },
+    {
+      "bbox": [
+        1011,
+        1358,
+        1474,
+        1397
+      ],
+      "text": "Il he pas encore arrive",
+      "confidence": 0.8122
+    }
+  ]
+}

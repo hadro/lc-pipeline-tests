@@ -1,0 +1,528 @@
+{
+  "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126",
+  "canvas_width": 1838,
+  "canvas_height": 2993,
+  "surya_median_confidence": 0.9964,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        486,
+        433,
+        1278,
+        490
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=486,433,792,57",
+      "confidence": "line",
+      "gemini_text": "Datcher Chapter, U. D., O. E. S.",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        405,
+        537,
+        1350,
+        593
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=405,537,945,56",
+      "confidence": "line",
+      "gemini_text": "Maria Scott.....Royal Matron, 1644 4th nw.",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        405,
+        639,
+        1351,
+        692
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=405,639,946,53",
+      "confidence": "line",
+      "gemini_text": "John D. Howard . . . . . . . . . . Royal Patron",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        707,
+        711,
+        1054,
+        750
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=707,711,347,39",
+      "confidence": "line",
+      "gemini_text": "108 Canal st. sw.",
+      "surya_confidence": 0.9976
+    },
+    {
+      "bbox": [
+        458,
+        816,
+        1298,
+        871
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=458,816,840,55",
+      "confidence": "line",
+      "gemini_text": "Susie Edwards, Secretary, 1906 11th nw.",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        644,
+        901,
+        1114,
+        945
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=644,901,470,44",
+      "confidence": "line",
+      "gemini_text": "Meets Second Tuesday.",
+      "surya_confidence": 0.9925
+    },
+    {
+      "bbox": [
+        340,
+        1116,
+        910,
+        1162
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=340,1116,570,46",
+      "confidence": "line",
+      "gemini_text": "Battels, Hattie, 213 G sw",
+      "surya_confidence": 0.9887
+    },
+    {
+      "bbox": [
+        346,
+        1165,
+        946,
+        1203
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=346,1165,600,38",
+      "confidence": "line",
+      "gemini_text": "Berry, Edmona, 247 3d sw",
+      "surya_confidence": 0.9955
+    },
+    {
+      "bbox": [
+        342,
+        1203,
+        858,
+        1254
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=342,1203,516,51",
+      "confidence": "line",
+      "gemini_text": "Berry, Ella, 247 3d sw",
+      "surya_confidence": 0.9942
+    },
+    {
+      "bbox": [
+        345,
+        1246,
+        1028,
+        1298
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1246,683,52",
+      "confidence": "line",
+      "gemini_text": "Bowie, Bertie, 108 Canal st sw",
+      "surya_confidence": 0.992
+    },
+    {
+      "bbox": [
+        345,
+        1293,
+        1034,
+        1341
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1293,689,48",
+      "confidence": "line",
+      "gemini_text": "Brown, A. L., 106 Canal st sw",
+      "surya_confidence": 0.9973
+    },
+    {
+      "bbox": [
+        345,
+        1335,
+        1149,
+        1386
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1335,804,51",
+      "confidence": "line",
+      "gemini_text": "Brown, Josephine, 71 Defrees st nw",
+      "surya_confidence": 0.9942
+    },
+    {
+      "bbox": [
+        345,
+        1382,
+        996,
+        1431
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1382,651,49",
+      "confidence": "line",
+      "gemini_text": "Cunningham, C. F., 73 G sw",
+      "surya_confidence": 0.9866
+    },
+    {
+      "bbox": [
+        343,
+        1426,
+        1069,
+        1476
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=343,1426,726,50",
+      "confidence": "line",
+      "gemini_text": "Cunningham, Florence, 73 G sw",
+      "surya_confidence": 0.9833
+    },
+    {
+      "bbox": [
+        342,
+        1471,
+        1019,
+        1520
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=342,1471,677,49",
+      "confidence": "line",
+      "gemini_text": "Dean, Mary Lizzie, 615 1st sw",
+      "surya_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        343,
+        1515,
+        1163,
+        1563
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=343,1515,820,48",
+      "confidence": "line",
+      "gemini_text": "Dean, Rachel, 626 Delaware ave sw",
+      "surya_confidence": 0.9976
+    },
+    {
+      "bbox": [
+        345,
+        1561,
+        1013,
+        1609
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1561,668,48",
+      "confidence": "line",
+      "gemini_text": "Edwards, Lizzie, 452 D st nw",
+      "surya_confidence": 0.985
+    },
+    {
+      "bbox": [
+        344,
+        1606,
+        1034,
+        1653
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=344,1606,690,47",
+      "confidence": "line",
+      "gemini_text": "Edwards, Susie, 1906 11 st nw",
+      "surya_confidence": 0.9889
+    },
+    {
+      "bbox": [
+        345,
+        1651,
+        1005,
+        1698
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1651,660,47",
+      "confidence": "line",
+      "gemini_text": "Fulton, Susie, 2221 8th st nw",
+      "surya_confidence": 0.9966
+    },
+    {
+      "bbox": [
+        345,
+        1692,
+        1166,
+        1743
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1692,821,51",
+      "confidence": "line",
+      "gemini_text": "Gutridge, Lucindia, 1142 N Cap. st",
+      "surya_confidence": 0.9977
+    },
+    {
+      "bbox": [
+        345,
+        1742,
+        1026,
+        1786
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1742,681,44",
+      "confidence": "line",
+      "gemini_text": "Hawkins, Charity, 64 G st sw",
+      "surya_confidence": 0.9883
+    },
+    {
+      "bbox": [
+        345,
+        1785,
+        991,
+        1831
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1785,646,46",
+      "confidence": "line",
+      "gemini_text": "Hawkins, Emma, 64 G st sw",
+      "surya_confidence": 0.991
+    },
+    {
+      "bbox": [
+        345,
+        1827,
+        1118,
+        1877
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1827,773,50",
+      "confidence": "line",
+      "gemini_text": "Henderson, Blanche, 423 2d st sw",
+      "surya_confidence": 0.9928
+    },
+    {
+      "bbox": [
+        345,
+        1872,
+        1083,
+        1921
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1872,738,49",
+      "confidence": "line",
+      "gemini_text": "Henson, Mollie F., 1218 3d st sw",
+      "surya_confidence": 0.9966
+    },
+    {
+      "bbox": [
+        345,
+        1921,
+        899,
+        1963
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1921,554,42",
+      "confidence": "line",
+      "gemini_text": "Holt, Amelia, 3 E st sw",
+      "surya_confidence": 0.9933
+    },
+    {
+      "bbox": [
+        345,
+        1961,
+        1065,
+        2011
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1961,720,50",
+      "confidence": "line",
+      "gemini_text": "Howard, J. D., 108 Canal st sw",
+      "surya_confidence": 0.9971
+    },
+    {
+      "bbox": [
+        346,
+        2006,
+        1059,
+        2057
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=346,2006,713,51",
+      "confidence": "line",
+      "gemini_text": "Lockett, Maggie, 1612 M st nw",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        345,
+        2051,
+        1092,
+        2099
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,2051,747,48",
+      "confidence": "line",
+      "gemini_text": "Marshall, Florence, 119 5th st se",
+      "surya_confidence": 0.9964
+    },
+    {
+      "bbox": [
+        345,
+        2095,
+        1094,
+        2144
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,2095,749,49",
+      "confidence": "line",
+      "gemini_text": "Matthews, Octavia, 1828 E st nw",
+      "surya_confidence": 0.9928
+    },
+    {
+      "bbox": [
+        348,
+        2141,
+        988,
+        2188
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=348,2141,640,47",
+      "confidence": "line",
+      "gemini_text": "Mitchell, Hattie, 25 D st sw",
+      "surya_confidence": 0.9962
+    },
+    {
+      "bbox": [
+        348,
+        2186,
+        1031,
+        2232
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=348,2186,683,46",
+      "confidence": "line",
+      "gemini_text": "Scott, Estella, 607 Va. ave se",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        348,
+        2228,
+        1011,
+        2279
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=348,2228,663,51",
+      "confidence": "line",
+      "gemini_text": "Scott, Maria, 1644 4th st nw",
+      "surya_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        347,
+        2274,
+        1042,
+        2322
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=347,2274,695,48",
+      "confidence": "line",
+      "gemini_text": "Scott, William, 1644 4th st nw",
+      "surya_confidence": 0.9981
+    },
+    {
+      "bbox": [
+        350,
+        2320,
+        951,
+        2367
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=350,2320,601,47",
+      "confidence": "line",
+      "gemini_text": "Smith, Annie, 1648 B st se",
+      "surya_confidence": 0.9963
+    },
+    {
+      "bbox": [
+        350,
+        2364,
+        951,
+        2411
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=350,2364,601,47",
+      "confidence": "line",
+      "gemini_text": "Smith, Lula, 926 1st st sw",
+      "surya_confidence": 0.9969
+    },
+    {
+      "bbox": [
+        349,
+        2407,
+        1014,
+        2456
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=349,2407,665,49",
+      "confidence": "line",
+      "gemini_text": "Snowden Eva, 607 Va. ave se",
+      "surya_confidence": 0.9981
+    },
+    {
+      "bbox": [
+        349,
+        2452,
+        1022,
+        2503
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=349,2452,673,51",
+      "confidence": "line",
+      "gemini_text": "Stoddard, Susie, 413 2d st sw",
+      "surya_confidence": 0.9935
+    },
+    {
+      "bbox": [
+        348,
+        2499,
+        990,
+        2545
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=348,2499,642,46",
+      "confidence": "line",
+      "gemini_text": "Thomas, Annie, 207 G st sw",
+      "surya_confidence": 0.9943
+    },
+    {
+      "bbox": [
+        349,
+        2540,
+        1065,
+        2592
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=349,2540,716,52",
+      "confidence": "line",
+      "gemini_text": "Tinker, Anna, 1214 Vt ave nw",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        346,
+        2585,
+        1081,
+        2636
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=346,2585,735,51",
+      "confidence": "line",
+      "gemini_text": "Tinker, G. F., Anacostia, D. C.",
+      "surya_confidence": 0.9981
+    },
+    {
+      "bbox": [
+        348,
+        2629,
+        1062,
+        2682
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=348,2629,714,53",
+      "confidence": "line",
+      "gemini_text": "Tinney, Ellen, 108 Canal st sw",
+      "surya_confidence": 0.9969
+    },
+    {
+      "bbox": [
+        350,
+        2677,
+        991,
+        2726
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=350,2677,641,49",
+      "confidence": "line",
+      "gemini_text": "Young, Emma, 1117 2d st se",
+      "surya_confidence": 0.9966
+    },
+    {
+      "bbox": [
+        856,
+        2758,
+        932,
+        2792
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=856,2758,76,34",
+      "confidence": "line",
+      "gemini_text": "117",
+      "surya_confidence": 0.989
+    }
+  ],
+  "unmatched_gemini": []
+}

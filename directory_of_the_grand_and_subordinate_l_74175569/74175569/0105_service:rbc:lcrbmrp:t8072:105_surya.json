@@ -1,0 +1,336 @@
+{
+  "image_width": 1909,
+  "image_height": 2991,
+  "lines": [
+    {
+      "bbox": [
+        741,
+        387,
+        1258,
+        420
+      ],
+      "text": "Hot and Cold Baths at",
+      "confidence": 0.9643
+    },
+    {
+      "bbox": [
+        594,
+        439,
+        1412,
+        479
+      ],
+      "text": "CIVIL RIGHTS BARBER SHOP.",
+      "confidence": 0.9369
+    },
+    {
+      "bbox": [
+        327,
+        498,
+        766,
+        535
+      ],
+      "text": "1144 15th St, N. W.",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        1158,
+        500,
+        1586,
+        537
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9859
+    },
+    {
+      "bbox": [
+        372,
+        552,
+        1678,
+        596
+      ],
+      "text": "Hair Cutting, Shaving and Shampooing done in the",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        329,
+        593,
+        1676,
+        640
+      ],
+      "text": "Finest Style. Special Attention Paid to Children's Hair",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        330,
+        643,
+        1678,
+        682
+      ],
+      "text": "Cutting. The patronage of the public is respectfully solicited.",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        460,
+        708,
+        857,
+        746
+      ],
+      "text": "'Phone 3789-m,",
+      "confidence": 0.8528
+    },
+    {
+      "bbox": [
+        1013,
+        712,
+        1522,
+        750
+      ],
+      "text": "W. P. GRAY, Prop'r",
+      "confidence": 0.992
+    },
+    {
+      "bbox": [
+        610,
+        812,
+        1404,
+        850
+      ],
+      "text": "CHAS. E. GORDON'S BUFFET,",
+      "confidence": 0.9684
+    },
+    {
+      "bbox": [
+        1011,
+        905,
+        1364,
+        942
+      ],
+      "text": "Imperial Hotel.",
+      "confidence": 0.9521
+    },
+    {
+      "bbox": [
+        1236,
+        996,
+        1581,
+        1032
+      ],
+      "text": "237 Seneca St.,",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        531,
+        1082,
+        1467,
+        1123
+      ],
+      "text": "Recollections of Richards, McKean & Co.",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        373,
+        1196,
+        1676,
+        1234
+      ],
+      "text": "The most intelligently selected, and south of New York the",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        327,
+        1250,
+        1675,
+        1290
+      ],
+      "text": "largest stock of Wines and Distillates, (302 different kinds,)",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        326,
+        1306,
+        542,
+        1341
+      ],
+      "text": "is that of",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        766,
+        1384,
+        1236,
+        1425
+      ],
+      "text": "CHRIS. XANDER,",
+      "confidence": 0.98
+    },
+    {
+      "bbox": [
+        327,
+        1462,
+        1673,
+        1502
+      ],
+      "text": "The Quality House. 909 7th St. Phone E 865.",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        742,
+        1564,
+        1253,
+        1601
+      ],
+      "text": "JOHN A. GRAY, SR.",
+      "confidence": 0.9729
+    },
+    {
+      "bbox": [
+        653,
+        1678,
+        1345,
+        1717
+      ],
+      "text": "Baggage and Parcel Express.",
+      "confidence": 0.9717
+    },
+    {
+      "bbox": [
+        416,
+        1790,
+        1153,
+        1828
+      ],
+      "text": "All orders promptly attended to.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        1145,
+        1870,
+        1562,
+        1908
+      ],
+      "text": "Wa hington, D. C.",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        324,
+        1875,
+        736,
+        1912
+      ],
+      "text": "1505 M St., N. W.",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        652,
+        2010,
+        1355,
+        2046
+      ],
+      "text": "MRS. NATHANIEL BOWIE.",
+      "confidence": 0.9684
+    },
+    {
+      "bbox": [
+        435,
+        2112,
+        1566,
+        2147
+      ],
+      "text": "Furnished Rooms and Board. Terms reasonable.",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        1143,
+        2212,
+        1571,
+        2250
+      ],
+      "text": "Washington. D. C.",
+      "confidence": 0.9855
+    },
+    {
+      "bbox": [
+        322,
+        2213,
+        781,
+        2250
+      ],
+      "text": "1642 10th St., N W.",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        587,
+        2370,
+        1409,
+        2403
+      ],
+      "text": "Visit THE GLOUCESTER CAFE.",
+      "confidence": 0.9773
+    },
+    {
+      "bbox": [
+        429,
+        2457,
+        1581,
+        2498
+      ],
+      "text": "Meals served at all hours. Oysters in every style.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        706,
+        2547,
+        1264,
+        2585
+      ],
+      "text": "C. J. TABB, Proprietor.",
+      "confidence": 0.9831
+    },
+    {
+      "bbox": [
+        1143,
+        2637,
+        1574,
+        2675
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        321,
+        2638,
+        909,
+        2675
+      ],
+      "text": "806 and 808 4th St., N. W.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        973,
+        2704,
+        1032,
+        2738
+      ],
+      "text": "96",
+      "confidence": 0.9808
+    }
+  ]
+}

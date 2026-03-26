@@ -1,0 +1,466 @@
+{
+  "image_width": 1828,
+  "image_height": 2989,
+  "lines": [
+    {
+      "bbox": [
+        336,
+        371,
+        1461,
+        435
+      ],
+      "text": "United Supreme Council A. A. S. Rite,",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        222,
+        467,
+        1575,
+        515
+      ],
+      "text": "Sovereign Grand Inspector-Generals of the 33d and last",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        295,
+        512,
+        1502,
+        559
+      ],
+      "text": "degree of the A. and A S. Rite of Free-Masonry,",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        333,
+        556,
+        1461,
+        600
+      ],
+      "text": "for the Southern Jurisdiction of the United States",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        397,
+        607,
+        1393,
+        643
+      ],
+      "text": "of America, meets in Annual Session on",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        516,
+        650,
+        1272,
+        690
+      ],
+      "text": "the Third Monday in October.",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        754,
+        739,
+        1046,
+        774
+      ],
+      "text": "OFFICERS.",
+      "confidence": 0.9197
+    },
+    {
+      "bbox": [
+        222,
+        828,
+        1575,
+        866
+      ],
+      "text": "III. Thornton A. Jackson ..... M. P. S. Grand Commander",
+      "confidence": 0.9899
+    },
+    {
+      "bbox": [
+        680,
+        873,
+        1109,
+        913
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        222,
+        927,
+        1575,
+        968
+      ],
+      "text": "Ill. J. L. H. Smith.......M. P. Lieut. Grand Commander",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        726,
+        976,
+        1070,
+        1012
+      ],
+      "text": "Baltimore, Md.",
+      "confidence": 0.9803
+    },
+    {
+      "bbox": [
+        220,
+        1027,
+        1578,
+        1069
+      ],
+      "text": "Ill. James H. Hill.....Grand Prior",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        717,
+        1076,
+        1070,
+        1111
+      ],
+      "text": "Richmond, Va.",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        220,
+        1125,
+        1575,
+        1175
+      ],
+      "text": "III. D. R. Stokes..... Grand Chancellor",
+      "confidence": 0.9877
+    },
+    {
+      "bbox": [
+        719,
+        1178,
+        1070,
+        1214
+      ],
+      "text": "Dallas, Texas.",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        226,
+        1226,
+        1580,
+        1274
+      ],
+      "text": "Ill. A. W. Tancil..... Grand Minister of State",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        683,
+        1279,
+        1112,
+        1316
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9899
+    },
+    {
+      "bbox": [
+        223,
+        1330,
+        1584,
+        1371
+      ],
+      "text": "Ill. J. P. Evans......Grand Treasurer General",
+      "confidence": 0.9389
+    },
+    {
+      "bbox": [
+        720,
+        1379,
+        1076,
+        1415
+      ],
+      "text": "Baltimore, Md.",
+      "confidence": 0.9804
+    },
+    {
+      "bbox": [
+        222,
+        1430,
+        1576,
+        1477
+      ],
+      "text": "Ill. James O. Bampfield ...... Grand Secretary General",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        682,
+        1479,
+        1115,
+        1515
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        223,
+        1529,
+        1577,
+        1578
+      ],
+      "text": "Ill. Major D. Meekins......Grand Almoner",
+      "confidence": 0.9234
+    },
+    {
+      "bbox": [
+        752,
+        1581,
+        1048,
+        1615
+      ],
+      "text": "Norfolk, Va.",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        223,
+        1629,
+        1577,
+        1679
+      ],
+      "text": "Ill. S. Roger Watts. ..... Grand Auditor General",
+      "confidence": 0.9828
+    },
+    {
+      "bbox": [
+        683,
+        1682,
+        1112,
+        1718
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        223,
+        1729,
+        1583,
+        1777
+      ],
+      "text": "Ill. A. A. Watts..... Assistant Grand Auditor General",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        719,
+        1782,
+        1075,
+        1817
+      ],
+      "text": "Baltimore, Md.",
+      "confidence": 0.977
+    },
+    {
+      "bbox": [
+        226,
+        1833,
+        1578,
+        1875
+      ],
+      "text": "Ill. John N. Dorster.....Grand Master of Ceremonies",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        683,
+        1882,
+        1113,
+        1918
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        223,
+        1936,
+        1581,
+        1975
+      ],
+      "text": "Ill. J. H. Murphy ...... Grand Captain of the Guards",
+      "confidence": 0.8428
+    },
+    {
+      "bbox": [
+        720,
+        1984,
+        1073,
+        2018
+      ],
+      "text": "Baltimore, Md.",
+      "confidence": 0.9771
+    },
+    {
+      "bbox": [
+        228,
+        2035,
+        1579,
+        2074
+      ],
+      "text": "Ill. Hamilton S. Smith......Grand Chamberlain",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        685,
+        2083,
+        1116,
+        2120
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9833
+    },
+    {
+      "bbox": [
+        228,
+        2135,
+        1584,
+        2177
+      ],
+      "text": "Ill. Thomas A. Jackson......First Grand Equary",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        689,
+        2181,
+        1113,
+        2222
+      ],
+      "text": "Kansas City, Mo.",
+      "confidence": 0.9875
+    },
+    {
+      "bbox": [
+        228,
+        2237,
+        1581,
+        2276
+      ],
+      "text": "Ill. John H. Dickerson......Second Grand Equary",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        691,
+        2285,
+        1108,
+        2319
+      ],
+      "text": "Jacksonville, Fla.",
+      "confidence": 0.9792
+    },
+    {
+      "bbox": [
+        228,
+        2337,
+        1581,
+        2377
+      ],
+      "text": "Ill. John H. Walker.....Grand Standard Bearer",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        764,
+        2384,
+        1035,
+        2419
+      ],
+      "text": "Macon, Ga.",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        228,
+        2434,
+        1582,
+        2475
+      ],
+      "text": "Ill. Charles C. Johnson......Grand Sword Bearer",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        715,
+        2482,
+        1090,
+        2520
+      ],
+      "text": "Columbia, S. C.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        225,
+        2538,
+        1576,
+        2573
+      ],
+      "text": "Ill. L. A. Bell......Grand Herald",
+      "confidence": 0.9715
+    },
+    {
+      "bbox": [
+        692,
+        2577,
+        1114,
+        2624
+      ],
+      "text": "Indian Territory.",
+      "confidence": 0.9779
+    },
+    {
+      "bbox": [
+        226,
+        2639,
+        1579,
+        2675
+      ],
+      "text": "Ill. John Moore......Grand Tiler",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        749,
+        2683,
+        1055,
+        2721
+      ],
+      "text": "Norfolk, Va.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        431,
+        2904,
+        562,
+        2918
+      ],
+      "text": "The second second",
+      "confidence": 0.1586
+    }
+  ]
+}

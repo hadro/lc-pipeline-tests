@@ -1,0 +1,264 @@
+{
+  "image": "0041_service:mss:mss11879:mss11879-42:42001:0041.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0041",
+  "canvas_width": 1642,
+  "canvas_height": 1363,
+  "surya_median_confidence": 0.9836,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        923,
+        173,
+        1191,
+        227
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0041#xywh=923,173,268,54",
+      "confidence": "line",
+      "gemini_text": "This Company",
+      "surya_confidence": 0.9971
+    },
+    {
+      "bbox": [
+        1081,
+        237,
+        1511,
+        273
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0041#xywh=1081,237,430,36",
+      "confidence": "line",
+      "gemini_text": "Executes all Trusts, Acts as Ex-",
+      "surya_confidence": 0.9836
+    },
+    {
+      "bbox": [
+        1082,
+        277,
+        1508,
+        311
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0041#xywh=1082,277,426,34",
+      "confidence": "line",
+      "gemini_text": "ecutor, Administrator, Trustee,",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        1080,
+        317,
+        1131,
+        341
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0041#xywh=1080,317,51,24",
+      "confidence": "line",
+      "gemini_text": "etc.",
+      "surya_confidence": 0.9984
+    },
+    {
+      "bbox": [
+        922,
+        347,
+        1045,
+        391
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0041#xywh=922,347,123,44",
+      "confidence": "line",
+      "gemini_text": "Wills",
+      "surya_confidence": 0.5021
+    },
+    {
+      "bbox": [
+        1079,
+        404,
+        1509,
+        439
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0041#xywh=1079,404,430,35",
+      "confidence": "line",
+      "gemini_text": "Drawn by our Attorney and kept",
+      "surya_confidence": 0.988
+    },
+    {
+      "bbox": [
+        1079,
+        442,
+        1508,
+        479
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0041#xywh=1079,442,429,37",
+      "confidence": "line",
+      "gemini_text": "in our vault, free of charge, when",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        1079,
+        480,
+        1506,
+        518
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0041#xywh=1079,480,427,38",
+      "confidence": "line",
+      "gemini_text": "this Company is named Executor.",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        920,
+        543,
+        1214,
+        592
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0041#xywh=920,543,294,49",
+      "confidence": "line",
+      "gemini_text": "Money to Loan",
+      "surya_confidence": 0.9786
+    },
+    {
+      "bbox": [
+        1076,
+        603,
+        1506,
+        640
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0041#xywh=1076,603,430,37",
+      "confidence": "line",
+      "gemini_text": "Upon approved real estate and col-",
+      "surya_confidence": 0.9971
+    },
+    {
+      "bbox": [
+        1074,
+        642,
+        1507,
+        680
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0041#xywh=1074,642,433,38",
+      "confidence": "line",
+      "gemini_text": "lateral security at lowest rate of",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        1075,
+        682,
+        1182,
+        709
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0041#xywh=1075,682,107,27",
+      "confidence": "line",
+      "gemini_text": "interest.",
+      "surya_confidence": 0.991
+    },
+    {
+      "bbox": [
+        916,
+        733,
+        1296,
+        783
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0041#xywh=916,733,380,50",
+      "confidence": "line",
+      "gemini_text": "Safe Deposit Boxes",
+      "surya_confidence": 0.9705
+    },
+    {
+      "bbox": [
+        1075,
+        793,
+        1502,
+        829
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0041#xywh=1075,793,427,36",
+      "confidence": "line",
+      "gemini_text": "For rent in Fire and Burglar",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        1075,
+        831,
+        1238,
+        859
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0041#xywh=1075,831,163,28",
+      "confidence": "line",
+      "gemini_text": "Proof Vaults.",
+      "surya_confidence": 0.8641
+    },
+    {
+      "bbox": [
+        915,
+        894,
+        1360,
+        945
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0041#xywh=915,894,445,51",
+      "confidence": "line",
+      "gemini_text": "Real Estate Department",
+      "surya_confidence": 0.9491
+    },
+    {
+      "bbox": [
+        1020,
+        961,
+        1232,
+        990
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0041#xywh=1020,961,212,29",
+      "confidence": "line",
+      "gemini_text": "RENTS collected,",
+      "surya_confidence": 0.9476
+    },
+    {
+      "bbox": [
+        1073,
+        998,
+        1305,
+        1028
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0041#xywh=1073,998,232,30",
+      "confidence": "line",
+      "gemini_text": "SALES effected and",
+      "surya_confidence": 0.9737
+    },
+    {
+      "bbox": [
+        1260,
+        1045,
+        1498,
+        1073
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0041#xywh=1260,1045,238,28",
+      "confidence": "line",
+      "gemini_text": "INSURANCE placed.",
+      "surya_confidence": 0.976
+    },
+    {
+      "bbox": [
+        994,
+        1097,
+        1419,
+        1128
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0041#xywh=994,1097,425,31",
+      "confidence": "line",
+      "gemini_text": "HAS OFFICES FOR RENT IN ITS",
+      "surya_confidence": 0.9574
+    },
+    {
+      "bbox": [
+        995,
+        1131,
+        1417,
+        1163
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0041#xywh=995,1131,422,32",
+      "confidence": "line",
+      "gemini_text": "FIRE-PROOF GRANITE BUILDING.",
+      "surya_confidence": 0.9242
+    }
+  ],
+  "unmatched_gemini": []
+}

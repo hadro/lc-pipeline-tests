@@ -1,0 +1,84 @@
+{
+  "image": "0137_service:rbc:lcrbmrp:t8072:137.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:137",
+  "canvas_width": 1934,
+  "canvas_height": 2981,
+  "surya_median_confidence": 0.9835,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        675,
+        1056,
+        1635,
+        1154
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:137#xywh=675,1056,960,98",
+      "confidence": "line",
+      "gemini_text": "H. B. DARLING,",
+      "surya_confidence": 0.9902
+    },
+    {
+      "bbox": [
+        939,
+        1246,
+        1368,
+        1347
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:137#xywh=939,1246,429,101",
+      "confidence": "line",
+      "gemini_text": "Printer,",
+      "surya_confidence": 0.981
+    },
+    {
+      "bbox": [
+        476,
+        1438,
+        1845,
+        1539
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:137#xywh=476,1438,1369,101",
+      "confidence": "line",
+      "gemini_text": "813 E Street, Northwest,",
+      "surya_confidence": 0.9969
+    },
+    {
+      "bbox": [
+        675,
+        1629,
+        1639,
+        1728
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:137#xywh=675,1629,964,99",
+      "confidence": "line",
+      "gemini_text": "Washington, D. C.",
+      "surya_confidence": 0.9901
+    },
+    {
+      "bbox": [
+        788,
+        1999,
+        1527,
+        2091
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:137#xywh=788,1999,739,92",
+      "confidence": "line",
+      "gemini_text": "Main 1273-m.",
+      "surya_confidence": 0.9896
+    },
+    {
+      "bbox": [
+        599,
+        2707,
+        818,
+        2779
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:137#xywh=599,2707,219,72",
+      "confidence": "line",
+      "gemini_text": "LBMy'15",
+      "surya_confidence": 0.9835
+    }
+  ],
+  "unmatched_gemini": []
+}

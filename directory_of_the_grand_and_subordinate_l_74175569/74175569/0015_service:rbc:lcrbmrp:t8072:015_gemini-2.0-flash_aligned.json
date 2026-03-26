@@ -1,0 +1,180 @@
+{
+  "image": "0015_service:rbc:lcrbmrp:t8072:015.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:015",
+  "canvas_width": 1625,
+  "canvas_height": 2896,
+  "surya_median_confidence": 0.9922,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        336,
+        294,
+        1326,
+        372
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:015#xywh=336,294,990,78",
+      "confidence": "line",
+      "gemini_text": "GEORGE W. MARTIN,",
+      "surya_confidence": 0.9718
+    },
+    {
+      "bbox": [
+        689,
+        444,
+        970,
+        496
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:015#xywh=689,444,281,52",
+      "confidence": "line",
+      "gemini_text": "CATERER,",
+      "surya_confidence": 0.9692
+    },
+    {
+      "bbox": [
+        517,
+        579,
+        1144,
+        625
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:015#xywh=517,579,627,46",
+      "confidence": "line",
+      "gemini_text": "3149 Dumbarton Avenue.",
+      "surya_confidence": 0.9922
+    },
+    {
+      "bbox": [
+        738,
+        1043,
+        930,
+        1078
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:015#xywh=738,1043,192,35",
+      "confidence": "line",
+      "gemini_text": "sonable.",
+      "surya_confidence": 0.9974
+    },
+    {
+      "bbox": [
+        493,
+        1473,
+        1196,
+        1531
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:015#xywh=493,1473,703,58",
+      "confidence": "line",
+      "gemini_text": "3151-53 Dumbarton Avenue.",
+      "surya_confidence": 0.7031
+    },
+    {
+      "bbox": [
+        644,
+        1686,
+        1043,
+        1727
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:015#xywh=644,1686,399,41",
+      "confidence": "line",
+      "gemini_text": "Established 1898.",
+      "surya_confidence": 0.978
+    },
+    {
+      "bbox": [
+        643,
+        2146,
+        1071,
+        2200
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:015#xywh=643,2146,428,54",
+      "confidence": "line",
+      "gemini_text": "1343 32d Street.",
+      "surya_confidence": 0.9904
+    },
+    {
+      "bbox": [
+        586,
+        2377,
+        1130,
+        2427
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:015#xywh=586,2377,544,50",
+      "confidence": "line",
+      "gemini_text": "stop off and get a shine.",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        495,
+        2597,
+        1227,
+        2646
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:015#xywh=495,2597,732,49",
+      "confidence": "line",
+      "gemini_text": "ALL SHINES FIVE CENTS.",
+      "surya_confidence": 0.9818
+    },
+    {
+      "bbox": [
+        339,
+        840,
+        1331,
+        884
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:015#xywh=339,840,992,44",
+      "confidence": "line",
+      "gemini_text": "WEEKLY OR MONTHLY BOARDERS.",
+      "surya_confidence": 0.9974
+    },
+    {
+      "bbox": [
+        223,
+        967,
+        1441,
+        1022
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:015#xywh=223,967,1218,55",
+      "confidence": "line",
+      "gemini_text": "Balls, Banquets, Picnics, Etc., served. Prices Rea-",
+      "surya_confidence": 0.9946
+    },
+    {
+      "bbox": [
+        288,
+        1326,
+        1406,
+        1390
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:015#xywh=288,1326,1118,64",
+      "confidence": "line",
+      "gemini_text": "MARTIN'S. BILLIARD PARLOR,",
+      "surya_confidence": 0.9945
+    },
+    {
+      "bbox": [
+        240,
+        1992,
+        1462,
+        2065
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:015#xywh=240,1992,1222,73",
+      "confidence": "line",
+      "gemini_text": "MARTIN'S BOOT BLACK PARLOR,",
+      "surya_confidence": 0.9944
+    },
+    {
+      "bbox": [
+        313,
+        2293,
+        1400,
+        2354
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:015#xywh=313,2293,1087,61",
+      "confidence": "line",
+      "gemini_text": "After a dusty ride to Cabin John's or Rockville,",
+      "surya_confidence": 1.0
+    }
+  ],
+  "unmatched_gemini": []
+}

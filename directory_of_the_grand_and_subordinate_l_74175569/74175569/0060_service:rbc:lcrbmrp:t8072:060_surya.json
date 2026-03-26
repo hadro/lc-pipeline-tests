@@ -1,0 +1,546 @@
+{
+  "image_width": 1827,
+  "image_height": 2981,
+  "lines": [
+    {
+      "bbox": [
+        377,
+        377,
+        1460,
+        417
+      ],
+      "text": "QUEEN OF SHEBA CHAPTER-Continued.",
+      "confidence": 0.9144
+    },
+    {
+      "bbox": [
+        456,
+        465,
+        1064,
+        500
+      ],
+      "text": "Johnson, Virginia, 1113 I nw.",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        456,
+        501,
+        1056,
+        533
+      ],
+      "text": "Jones, Dolly A. C., 220 B nw.",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        449,
+        536,
+        904,
+        564
+      ],
+      "text": "Jones, Eliza, 711 6th sw",
+      "confidence": 0.9868
+    },
+    {
+      "bbox": [
+        458,
+        569,
+        1125,
+        601
+      ],
+      "text": "Lassiter, Andrew, 2238 11th nw.",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        455,
+        602,
+        1021,
+        635
+      ],
+      "text": "Lee, Alberta, 1208 16th nw.",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        455,
+        638,
+        1154,
+        672
+      ],
+      "text": "Madison, Mary, 1612 Madison nw.",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        455,
+        671,
+        1146,
+        707
+      ],
+      "text": "McCabe, Lottie, 1505 Marion nw.",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        455,
+        707,
+        1186,
+        739
+      ],
+      "text": "Mozee, Willena, 1428 Fla. ave. nw.",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        455,
+        742,
+        1140,
+        774
+      ],
+      "text": "Mumford, Laura, 79 Defrees nw.",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        452,
+        777,
+        1243,
+        809
+      ],
+      "text": "Neal, Mary E., 645 S. C. ave. se.",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        447,
+        811,
+        1248,
+        841
+      ],
+      "text": "Newman, Emma J, 1213 Linden Place ne.",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        453,
+        845,
+        1100,
+        877
+      ],
+      "text": "Poindexter, Theressa, 67 G nw.",
+      "confidence": 0.9808
+    },
+    {
+      "bbox": [
+        453,
+        876,
+        1087,
+        915
+      ],
+      "text": "Redding, Nellie, 1114 18th nw.",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        453,
+        915,
+        1184,
+        945
+      ],
+      "text": "Richardson, Ethel, 1505 Marion nw.",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        453,
+        950,
+        1222,
+        980
+      ],
+      "text": "Richardson, Lavinia, 1505 Marion nw.",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        453,
+        985,
+        1010,
+        1014
+      ],
+      "text": "Rivers, Minnie, 236 13th se.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        453,
+        1019,
+        1093,
+        1051
+      ],
+      "text": "Roberts, Bertha, 1816 11th nw.",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        447,
+        1052,
+        1006,
+        1082
+      ],
+      "text": "Roberts, Daisy, 1816 11th nw.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        452,
+        1087,
+        1087,
+        1119
+      ],
+      "text": "Roberts, Minnie, 1816 11th nw.",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        453,
+        1120,
+        1105,
+        1155
+      ],
+      "text": "Saunders, Margaret, 1503 P nw.",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        452,
+        1153,
+        1143,
+        1189
+      ],
+      "text": "Sauter, Bertha, 1612 Madison nw.",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        452,
+        1186,
+        1242,
+        1221
+      ],
+      "text": "Stewart, Columbia, 2128 Fla. ave. nw.",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        450,
+        1225,
+        1181,
+        1257
+      ],
+      "text": "Stewart, Jennie, 2128 Fla. ave. nw.",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        449,
+        1259,
+        1062,
+        1292
+      ],
+      "text": "Thomas, Annie V., 1113 I nw.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        449,
+        1292,
+        1056,
+        1327
+      ],
+      "text": "Thomas, Mary R., 1117 I nw.",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        447,
+        1325,
+        1053,
+        1361
+      ],
+      "text": "Walker, Mary, 1242 20th nw.",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        447,
+        1362,
+        1178,
+        1396
+      ],
+      "text": "Waller, Victoria, 2019 Vt. ave. nw.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        443,
+        1396,
+        1039,
+        1428
+      ],
+      "text": "Webster, Frances R, 320 E sw.",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        446,
+        1431,
+        1082,
+        1463
+      ],
+      "text": "White, Mary, 1732 8th nw.",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        444,
+        1466,
+        1080,
+        1496
+      ],
+      "text": "Whiting, Nancy, 1639 6th nw.",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        441,
+        1499,
+        1079,
+        1531
+      ],
+      "text": "Wilson, Amanda, 1935 12th nw.",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        444,
+        1533,
+        1106,
+        1566
+      ],
+      "text": "Wilson, Nannie, 2056 8th nw.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        442,
+        1566,
+        884,
+        1601
+      ],
+      "text": "Wormley, Nellie.",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        511,
+        1761,
+        1318,
+        1814
+      ],
+      "text": "Gethsemane Chapter, No. 4, O. E. S.",
+      "confidence": 0.9781
+    },
+    {
+      "bbox": [
+        618,
+        1861,
+        1195,
+        1898
+      ],
+      "text": "Meets Third Wednesday.",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        228,
+        1940,
+        1583,
+        1990
+      ],
+      "text": "Mrs. David L. Stewart......Royal Matron",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        703,
+        1997,
+        1094,
+        2030
+      ],
+      "text": "1601 12th st., nw.",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        228,
+        2073,
+        1585,
+        2123
+      ],
+      "text": "Sir T. A. Jackson......Royal Patron",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        732,
+        2129,
+        1073,
+        2164
+      ],
+      "text": "1229 T st., nw.",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        176,
+        2214,
+        1586,
+        2255
+      ],
+      "text": "Mrs. Bertha N. Gray ...... Secretary",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        711,
+        2259,
+        1093,
+        2301
+      ],
+      "text": "1643 4th st., nw.",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        447,
+        2355,
+        1017,
+        2393
+      ],
+      "text": "Adams, Kate, 1332 5th nw.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        448,
+        2388,
+        1198,
+        2427
+      ],
+      "text": "Andrews, Cecelia, 144 Pierce st. nw.",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        449,
+        2427,
+        1055,
+        2460
+      ],
+      "text": "Baldwin, Charlotte, 9 M nw.",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        447,
+        2458,
+        1056,
+        2497
+      ],
+      "text": "Banks, Letitia M., 731 2d sw.",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        447,
+        2496,
+        1062,
+        2530
+      ],
+      "text": "Black, Rebecca, 1940 11th nw.",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        447,
+        2528,
+        951,
+        2564
+      ],
+      "text": "Boyd, Sadie, 421 5th se.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        447,
+        2565,
+        1059,
+        2598
+      ],
+      "text": "Briles, Georgia, 1510 Erie nw.",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        447,
+        2600,
+        951,
+        2632
+      ],
+      "text": "Brooks, Julia, 444 O nw.",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        446,
+        2634,
+        966,
+        2666
+      ],
+      "text": "Brown, Annie, 205 L nw.",
+      "confidence": 0.982
+    },
+    {
+      "bbox": [
+        444,
+        2670,
+        1115,
+        2702
+      ],
+      "text": "Brown, Clarissa, Bennings, D. C.",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        880,
+        2718,
+        930,
+        2750
+      ],
+      "text": "51",
+      "confidence": 0.9715
+    },
+    {
+      "bbox": [
+        461,
+        2902,
+        567,
+        2914
+      ],
+      "text": "والمراد الدائد الشابسة",
+      "confidence": 0.918
+    }
+  ]
+}

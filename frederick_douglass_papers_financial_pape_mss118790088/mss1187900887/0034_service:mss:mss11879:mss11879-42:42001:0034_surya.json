@@ -1,0 +1,46 @@
+{
+  "image_width": 1636,
+  "image_height": 1413,
+  "lines": [
+    {
+      "bbox": [
+        117,
+        93,
+        809,
+        191
+      ],
+      "text": "Contributions to Tamphlet fund",
+      "confidence": 0.8688
+    },
+    {
+      "bbox": [
+        48,
+        200,
+        744,
+        497
+      ],
+      "text": "March 30 By alper M. Rudd Mage 5-\naper 18 \"J. So Leek, ashlabula, O. 5",
+      "confidence": 0.9559
+    },
+    {
+      "bbox": [
+        1491,
+        345,
+        1543,
+        365
+      ],
+      "text": "3.41",
+      "confidence": 0.5048
+    },
+    {
+      "bbox": [
+        732,
+        389,
+        781,
+        429
+      ],
+      "text": "00",
+      "confidence": 0.99
+    }
+  ]
+}

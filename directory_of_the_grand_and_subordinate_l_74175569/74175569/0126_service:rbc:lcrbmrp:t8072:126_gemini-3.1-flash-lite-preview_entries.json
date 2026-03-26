@@ -1,0 +1,331 @@
+{
+  "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "section_title": "GRAND CHAPTER, O. E. S.",
+    "organization_name": "Electa Chapter, No. 14, O. E. S."
+  },
+  "page_context": {
+    "section_title": "GRAND CHAPTER, O. E. S.",
+    "organization_name": "Datcher Chapter, U. D., O. E. S."
+  },
+  "entries": [
+    {
+      "name": "Maria Scott",
+      "title_or_role": "Royal Matron",
+      "address": "1644 4th nw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=405,537,945,56",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "John D. Howard",
+      "title_or_role": "Royal Patron",
+      "address": "108 Canal st. sw.",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=405,639,946,53",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Susie Edwards",
+      "title_or_role": "Secretary",
+      "address": "1906 11th nw.",
+      "meeting_info": "Meets Second Tuesday",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=458,816,840,55",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Battels, Hattie",
+      "address": "213 G sw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=340,1116,570,46",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Berry, Edmona",
+      "address": "247 3d sw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=346,1165,600,38",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Berry, Ella",
+      "address": "247 3d sw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=342,1203,516,51",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Bowie, Bertie",
+      "address": "108 Canal st sw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1246,683,52",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Brown, A. L.",
+      "address": "106 Canal st sw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1293,689,48",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Brown, Josephine",
+      "address": "71 Defrees st nw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1335,804,51",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Cunningham, C. F.",
+      "address": "73 G sw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1382,651,49",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Cunningham, Florence",
+      "address": "73 G sw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=343,1426,726,50",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Dean, Mary Lizzie",
+      "address": "615 1st sw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=342,1471,677,49",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Dean, Rachel",
+      "address": "626 Delaware ave sw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=343,1515,820,48",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Edwards, Lizzie",
+      "address": "452 D st nw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1561,668,48",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Edwards, Susie",
+      "address": "1906 11 st nw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=344,1606,690,47",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Fulton, Susie",
+      "address": "2221 8th st nw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1651,660,47",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Gutridge, Lucindia",
+      "address": "1142 N Cap. st",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1692,821,51",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Hawkins, Charity",
+      "address": "64 G st sw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1742,681,44",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Hawkins, Emma",
+      "address": "64 G st sw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1785,646,46",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Henderson, Blanche",
+      "address": "423 2d st sw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1827,773,50",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Henson, Mollie F.",
+      "address": "1218 3d st sw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1872,738,49",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Holt, Amelia",
+      "address": "3 E st sw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1921,554,42",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Howard, J. D.",
+      "address": "108 Canal st sw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,1961,720,50",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Lockett, Maggie",
+      "address": "1612 M st nw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=346,2006,713,51",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Marshall, Florence",
+      "address": "119 5th st se",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,2051,747,48",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Matthews, Octavia",
+      "address": "1828 E st nw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=345,2095,749,49",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Mitchell, Hattie",
+      "address": "25 D st sw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=348,2141,640,47",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Scott, Estella",
+      "address": "607 Va. ave se",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=348,2186,683,46",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Scott, Maria",
+      "address": "1644 4th st nw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=348,2228,663,51",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Scott, William",
+      "address": "1644 4th st nw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=347,2274,695,48",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Smith, Annie",
+      "address": "1648 B st se",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=350,2320,601,47",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Smith, Lula",
+      "address": "926 1st st sw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=350,2364,601,47",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Snowden Eva",
+      "address": "607 Va. ave se",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=349,2407,665,49",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Stoddard, Susie",
+      "address": "413 2d st sw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=349,2452,673,51",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Thomas, Annie",
+      "address": "207 G st sw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=348,2499,642,46",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Tinker, Anna",
+      "address": "1214 Vt ave nw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=349,2540,716,52",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Tinker, G. F.",
+      "address": "Anacostia, D. C.",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=346,2585,735,51",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Tinney, Ellen",
+      "address": "108 Canal st sw",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=348,2629,714,53",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    },
+    {
+      "name": "Young, Emma",
+      "address": "1117 2d st se",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Datcher Chapter, U. D., O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:126#xywh=350,2677,641,49",
+      "image": "0126_service:rbc:lcrbmrp:t8072:126.jpg"
+    }
+  ]
+}

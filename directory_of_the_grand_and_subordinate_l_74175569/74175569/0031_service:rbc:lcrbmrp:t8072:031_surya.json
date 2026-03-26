@@ -1,0 +1,216 @@
+{
+  "image_width": 1821,
+  "image_height": 2916,
+  "lines": [
+    {
+      "bbox": [
+        236,
+        322,
+        1443,
+        574
+      ],
+      "text": "Wm. W. Grymes & Son,",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        626,
+        719,
+        1068,
+        835
+      ],
+      "text": "Steam e",
+      "confidence": 0.9875
+    },
+    {
+      "bbox": [
+        628,
+        887,
+        1069,
+        1019
+      ],
+      "text": "Carpet &",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        629,
+        1059,
+        1071,
+        1191
+      ],
+      "text": "Cleaners",
+      "confidence": 0.9862
+    },
+    {
+      "bbox": [
+        233,
+        1328,
+        1447,
+        1581
+      ],
+      "text": "12 Keating Ave. N. E.",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        379,
+        1629,
+        1308,
+        1708
+      ],
+      "text": "JACK M. RYAN,",
+      "confidence": 0.9704
+    },
+    {
+      "bbox": [
+        237,
+        1754,
+        1455,
+        1827
+      ],
+      "text": "POOL AND BILLIARD PARLOR,",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        345,
+        1858,
+        1340,
+        1919
+      ],
+      "text": "Fine Wines, Liquors and Cafe,",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        561,
+        1966,
+        1133,
+        2014
+      ],
+      "text": "619 B STREET N. W.",
+      "confidence": 0.9877
+    },
+    {
+      "bbox": [
+        904,
+        2062,
+        1444,
+        2103
+      ],
+      "text": "WASHINGTON, D. C.",
+      "confidence": 0.9276
+    },
+    {
+      "bbox": [
+        244,
+        2069,
+        746,
+        2109
+      ],
+      "text": "Opp. B. & P. Depot.",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        1065,
+        2177,
+        1452,
+        2217
+      ],
+      "text": "E. Cunningham.",
+      "confidence": 0.9538
+    },
+    {
+      "bbox": [
+        244,
+        2183,
+        610,
+        2223
+      ],
+      "text": "I. Cunningham.",
+      "confidence": 0.98
+    },
+    {
+      "bbox": [
+        553,
+        2247,
+        1138,
+        2285
+      ],
+      "text": "CUNNINGHAM BROS.,",
+      "confidence": 0.8378
+    },
+    {
+      "bbox": [
+        433,
+        2322,
+        1268,
+        2366
+      ],
+      "text": "Dealers in Groceries and Provisions,",
+      "confidence": 0.9799
+    },
+    {
+      "bbox": [
+        244,
+        2387,
+        603,
+        2435
+      ],
+      "text": "300 E St. S. W.",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        1083,
+        2387,
+        1447,
+        2425
+      ],
+      "text": "700 3d St. S. W.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        561,
+        2459,
+        1141,
+        2501
+      ],
+      "text": "Butter, Eggs and Cheese.",
+      "confidence": 0.9846
+    },
+    {
+      "bbox": [
+        335,
+        2526,
+        1061,
+        2564
+      ],
+      "text": "Orders called for and delivered.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        602,
+        2570,
+        1362,
+        2608
+      ],
+      "text": "Mail orders promptly attended to.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        817,
+        2660,
+        874,
+        2695
+      ],
+      "text": "22",
+      "confidence": 0.9871
+    }
+  ]
+}

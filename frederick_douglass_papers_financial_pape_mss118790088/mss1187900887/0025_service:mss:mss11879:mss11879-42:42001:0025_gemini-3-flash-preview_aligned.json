@@ -1,0 +1,160 @@
+{
+  "image": "0025_service:mss:mss11879:mss11879-42:42001:0025.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025",
+  "canvas_width": 1470,
+  "canvas_height": 1275,
+  "surya_median_confidence": 0.9468,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        65,
+        121,
+        694,
+        179
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025#xywh=65,121,629,58",
+      "confidence": "line",
+      "gemini_text": "Dr. German American Savings Bank, in acc't with Frederick Douglass Cr.",
+      "surya_confidence": 0.4321
+    },
+    {
+      "bbox": [
+        327,
+        189,
+        699,
+        216
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025#xywh=327,189,372,27",
+      "confidence": "line",
+      "gemini_text": "1876 Under \"Regulations concerning Deposits,\" printed in this book.",
+      "surya_confidence": 0.9519
+    },
+    {
+      "bbox": [
+        525,
+        255,
+        1117,
+        330
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025#xywh=525,255,592,75",
+      "confidence": "line",
+      "gemini_text": "March 13 Dep 1150 -- May 3 C. ck. 1500 --",
+      "surya_confidence": 0.9695
+    },
+    {
+      "bbox": [
+        742,
+        329,
+        843,
+        368
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025#xywh=742,329,101,39",
+      "confidence": "line",
+      "gemini_text": "\" 14 Dep 342 -- June 3 \" 25 --",
+      "surya_confidence": 0.6616
+    },
+    {
+      "bbox": [
+        534,
+        412,
+        717,
+        461
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025#xywh=534,412,183,49",
+      "confidence": "line",
+      "gemini_text": "May 1 Dep 10 -- \" 5 \" 1750 --",
+      "surya_confidence": 0.9566
+    },
+    {
+      "bbox": [
+        750,
+        418,
+        911,
+        468
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025#xywh=750,418,161,50",
+      "confidence": "line",
+      "gemini_text": "\" 3 by 1500 -- July 19 R. Jackson 50",
+      "surya_confidence": 0.9125
+    },
+    {
+      "bbox": [
+        742,
+        465,
+        1198,
+        577
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025#xywh=742,465,456,112",
+      "confidence": "line",
+      "gemini_text": "\" 20 by 275 -- Sept. 21 Costs Dft. prot. 1 99",
+      "surya_confidence": 0.9768
+    },
+    {
+      "bbox": [
+        527,
+        675,
+        556,
+        710
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025#xywh=527,675,29,35",
+      "confidence": "line",
+      "gemini_text": "July 1 Int 12 49 Balance 717 22",
+      "surya_confidence": 0.9914
+    },
+    {
+      "bbox": [
+        561,
+        678,
+        698,
+        717
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025#xywh=561,678,137,39",
+      "confidence": "line",
+      "gemini_text": "1877",
+      "surya_confidence": 0.9874
+    },
+    {
+      "bbox": [
+        633,
+        793,
+        722,
+        832
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025#xywh=633,793,89,39",
+      "confidence": "line",
+      "gemini_text": "Jan 1 \" 2 27",
+      "surya_confidence": 0.7639
+    },
+    {
+      "bbox": [
+        1106,
+        110,
+        1387,
+        186
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025#xywh=1106,110,281,76",
+      "confidence": "line",
+      "gemini_text": "March 30 Dep 705 --",
+      "surya_confidence": 0.9061
+    },
+    {
+      "bbox": [
+        1226,
+        681,
+        1402,
+        728
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0025#xywh=1226,681,176,47",
+      "confidence": "line",
+      "gemini_text": "3994 76 3994 76",
+      "surya_confidence": 0.873
+    }
+  ],
+  "unmatched_gemini": [
+    "Apr. 2 Balance 717 22",
+    "\" 21 Dep 300 --",
+    "June 30 by 325 --"
+  ]
+}

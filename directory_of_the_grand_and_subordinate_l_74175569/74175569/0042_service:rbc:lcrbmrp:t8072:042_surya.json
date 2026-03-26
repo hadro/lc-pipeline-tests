@@ -1,0 +1,296 @@
+{
+  "image_width": 1849,
+  "image_height": 2974,
+  "lines": [
+    {
+      "bbox": [
+        407,
+        310,
+        1323,
+        361
+      ],
+      "text": "Simon Commandery, K. T., No. 1.",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        618,
+        414,
+        1119,
+        456
+      ],
+      "text": "Meets Second Friday.",
+      "confidence": 0.9889
+    },
+    {
+      "bbox": [
+        186,
+        497,
+        1542,
+        550
+      ],
+      "text": "Henry C. Irving..... Eminent Commander",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        185,
+        549,
+        1547,
+        609
+      ],
+      "text": "John D. Howard..... Generalissimo",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        186,
+        609,
+        1544,
+        661
+      ],
+      "text": "Frank Henson.... Captain General",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        190,
+        665,
+        1547,
+        714
+      ],
+      "text": "James H. Smiler ...... Recorder",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        628,
+        727,
+        1117,
+        763
+      ],
+      "text": "1318 11th Street S. E.",
+      "confidence": 0.9788
+    },
+    {
+      "bbox": [
+        358,
+        912,
+        1383,
+        964
+      ],
+      "text": "Henderson Commandery, K. T., No. 2.",
+      "confidence": 0.9677
+    },
+    {
+      "bbox": [
+        613,
+        1019,
+        1132,
+        1056
+      ],
+      "text": "Meets First Thursday.",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        196,
+        1098,
+        1555,
+        1152
+      ],
+      "text": "Dr. A. H. Stevens..... Eminent Commander",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        198,
+        1154,
+        1552,
+        1215
+      ],
+      "text": "J. B. Askins..... Generalissimo",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        192,
+        1210,
+        1550,
+        1265
+      ],
+      "text": "Nelson E. Weatherless ...................................",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        195,
+        1265,
+        1552,
+        1324
+      ],
+      "text": "John S. George......Recorder",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        618,
+        1327,
+        1131,
+        1368
+      ],
+      "text": "1938 11th Street N. W.",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        341,
+        1513,
+        1402,
+        1570
+      ],
+      "text": "Gethsemane Commandery, K. T., No. 3.",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        577,
+        1620,
+        1179,
+        1661
+      ],
+      "text": "Meets Second Wednesday.",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        199,
+        1701,
+        1558,
+        1760
+      ],
+      "text": "Joseph R. Pryor ..... Eminent Commander",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        199,
+        1757,
+        1555,
+        1813
+      ],
+      "text": "David L. Stewart......Generalissimo",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        199,
+        1814,
+        1556,
+        1867
+      ],
+      "text": "Arthur Brooks......Captain General",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        199,
+        1869,
+        1555,
+        1928
+      ],
+      "text": "Richard W. Tompkins ....................................",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        656,
+        1933,
+        1104,
+        1968
+      ],
+      "text": "1341 V Street N. W.",
+      "confidence": 0.9875
+    },
+    {
+      "bbox": [
+        329,
+        2127,
+        1418,
+        2183
+      ],
+      "text": "Mt. Calvary Commandery, K. T., No. 4.",
+      "confidence": 0.9868
+    },
+    {
+      "bbox": [
+        637,
+        2236,
+        1130,
+        2273
+      ],
+      "text": "Meets Fourth Friday.",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        201,
+        2315,
+        1558,
+        2375
+      ],
+      "text": "John T. Layton..... Eminent Commander",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        205,
+        2373,
+        1561,
+        2429
+      ],
+      "text": "Joseph D. Jones ...... Generalissimo",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        207,
+        2431,
+        1558,
+        2482
+      ],
+      "text": "Wm. H. Judd Malvin......Captain General",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        205,
+        2483,
+        1561,
+        2540
+      ],
+      "text": "James O. Bampfield ....................................",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        649,
+        2544,
+        1116,
+        2586
+      ],
+      "text": "1119 V Street N. W.",
+      "confidence": 0.9837
+    },
+    {
+      "bbox": [
+        855,
+        2638,
+        910,
+        2671
+      ],
+      "text": "33",
+      "confidence": 0.9869
+    }
+  ]
+}

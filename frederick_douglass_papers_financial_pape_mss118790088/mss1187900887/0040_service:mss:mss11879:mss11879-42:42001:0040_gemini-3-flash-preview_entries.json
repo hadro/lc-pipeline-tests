@@ -1,0 +1,28 @@
+{
+  "image": "0040_service:mss:mss11879:mss11879-42:42001:0040.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Loan Record",
+    "section_title": "Promissory Note",
+    "year": "1869"
+  },
+  "page_context": {
+    "record_type": "Bank Ledger",
+    "section_title": "Dr.",
+    "year": "1902"
+  },
+  "entries": [
+    {
+      "date": "March 23, 1902",
+      "description": "Dep",
+      "amount": "176.00",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "Dr.",
+      "year": "1902",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0040#xywh=1195,210,225,84",
+      "image": "0040_service:mss:mss11879:mss11879-42:42001:0040.jpg"
+    }
+  ]
+}

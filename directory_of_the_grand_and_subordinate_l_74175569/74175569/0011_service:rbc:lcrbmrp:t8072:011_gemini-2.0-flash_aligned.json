@@ -1,0 +1,60 @@
+{
+  "image": "0011_service:rbc:lcrbmrp:t8072:011.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:011",
+  "canvas_width": 1681,
+  "canvas_height": 2755,
+  "surya_median_confidence": 0.5484,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        545,
+        1381,
+        951,
+        1462
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:011#xywh=545,1381,406,81",
+      "confidence": "line",
+      "gemini_text": "The bequest of",
+      "surya_confidence": 0.9921
+    },
+    {
+      "bbox": [
+        549,
+        1463,
+        937,
+        1536
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:011#xywh=549,1463,388,73",
+      "confidence": "line",
+      "gemini_text": "Daniel Murray,",
+      "surya_confidence": 0.9711
+    },
+    {
+      "bbox": [
+        516,
+        1539,
+        991,
+        1619
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:011#xywh=516,1539,475,80",
+      "confidence": "line",
+      "gemini_text": "Washington, D. C.,",
+      "surya_confidence": 0.9919
+    },
+    {
+      "bbox": [
+        393,
+        1618,
+        818,
+        1686
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:011#xywh=393,1618,425,68",
+      "confidence": "line",
+      "gemini_text": "1925.",
+      "surya_confidence": 0.8796
+    }
+  ],
+  "unmatched_gemini": []
+}

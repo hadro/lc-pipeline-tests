@@ -1,0 +1,324 @@
+{
+  "image": "0133_service:rbc:lcrbmrp:t8072:133.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133",
+  "canvas_width": 1873,
+  "canvas_height": 2992,
+  "surya_median_confidence": 0.9794,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        1223,
+        443,
+        1657,
+        480
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=1223,443,434,37",
+      "confidence": "line",
+      "gemini_text": "'Phone, 577. New 'Phone, 1133.",
+      "surya_confidence": 0.9878
+    },
+    {
+      "bbox": [
+        758,
+        530,
+        1198,
+        586
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=758,530,440,56",
+      "confidence": "line",
+      "gemini_text": "A. D. PRICE,",
+      "surya_confidence": 0.9914
+    },
+    {
+      "bbox": [
+        302,
+        633,
+        1657,
+        689
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=302,633,1355,56",
+      "confidence": "line",
+      "gemini_text": "The Funeral Director, Embalmer & Liveryman.",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        396,
+        812,
+        1565,
+        853
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=396,812,1169,41",
+      "confidence": "line",
+      "gemini_text": "Orders promptly filled at short notice by telegraph",
+      "surya_confidence": 0.9929
+    },
+    {
+      "bbox": [
+        830,
+        860,
+        1125,
+        896
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=830,860,295,36",
+      "confidence": "line",
+      "gemini_text": "or telephone.",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        408,
+        902,
+        1551,
+        941
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=408,902,1143,39",
+      "confidence": "line",
+      "gemini_text": "Keeps Constantly on hand Fine Funeral Supplies.",
+      "surya_confidence": 0.9487
+    },
+    {
+      "bbox": [
+        565,
+        947,
+        1390,
+        986
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=565,947,825,39",
+      "confidence": "line",
+      "gemini_text": "First-class Carriages, Buggies, Etc.",
+      "surya_confidence": 0.9927
+    },
+    {
+      "bbox": [
+        300,
+        1075,
+        1662,
+        1141
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=300,1075,1362,66",
+      "confidence": "line",
+      "gemini_text": "210 and 212 East Leigh Street, Richmond, Va.",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        351,
+        1169,
+        1610,
+        1213
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=351,1169,1259,44",
+      "confidence": "line",
+      "gemini_text": "Open All Day and Night. Man on Duty All Night,",
+      "surya_confidence": 0.9908
+    },
+    {
+      "bbox": [
+        795,
+        1343,
+        1515,
+        1441
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=795,1343,720,98",
+      "confidence": "line",
+      "gemini_text": "BLUE LODGE SUPPLIES,",
+      "surya_confidence": 0.7838
+    },
+    {
+      "bbox": [
+        1050,
+        1550,
+        1429,
+        1590
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=1050,1550,379,40",
+      "confidence": "line",
+      "gemini_text": "WENDELL & GREENWOOD,",
+      "surya_confidence": 0.9196
+    },
+    {
+      "bbox": [
+        745,
+        1551,
+        917,
+        1597
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=745,1551,172,46",
+      "confidence": "line",
+      "gemini_text": "307 HENNEPIN AVE. MINNEAPOLIS, MINN.",
+      "surya_confidence": 0.5763
+    },
+    {
+      "bbox": [
+        784,
+        1603,
+        1516,
+        1665
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=784,1603,732,62",
+      "confidence": "line",
+      "gemini_text": "WRITE FOR CATALOGUE.",
+      "surya_confidence": 0.7011
+    },
+    {
+      "bbox": [
+        550,
+        1778,
+        1414,
+        1817
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=550,1778,864,39",
+      "confidence": "line",
+      "gemini_text": "Office Hours: From 8 A. M. to 6 P. M.",
+      "surya_confidence": 0.9976
+    },
+    {
+      "bbox": [
+        808,
+        1849,
+        1151,
+        1887
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=808,1849,343,38",
+      "confidence": "line",
+      "gemini_text": "Telephone, 816",
+      "surya_confidence": 0.9917
+    },
+    {
+      "bbox": [
+        307,
+        1914,
+        1005,
+        1951
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=307,1914,698,37",
+      "confidence": "line",
+      "gemini_text": "EXTRACTION PAINLESS.",
+      "surya_confidence": 0.7909
+    },
+    {
+      "bbox": [
+        652,
+        1979,
+        1304,
+        2035
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=652,1979,652,56",
+      "confidence": "line",
+      "gemini_text": "DR. P. B. RAMSEY,",
+      "surya_confidence": 0.571
+    },
+    {
+      "bbox": [
+        863,
+        2083,
+        1097,
+        2136
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=863,2083,234,53",
+      "confidence": "line",
+      "gemini_text": "Dentist,",
+      "surya_confidence": 0.9786
+    },
+    {
+      "bbox": [
+        305,
+        2179,
+        1660,
+        2239
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=305,2179,1355,60",
+      "confidence": "line",
+      "gemini_text": "Office, 102 W. Leigh Street, Richmond, Va.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        635,
+        2315,
+        1395,
+        2370
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=635,2315,760,55",
+      "confidence": "line",
+      "gemini_text": "EDMONIA L. KEYES,",
+      "surya_confidence": 0.9372
+    },
+    {
+      "bbox": [
+        852,
+        2407,
+        1109,
+        2460
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=852,2407,257,53",
+      "confidence": "line",
+      "gemini_text": "Cateress,",
+      "surya_confidence": 0.9794
+    },
+    {
+      "bbox": [
+        305,
+        2497,
+        825,
+        2531
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=305,2497,520,34",
+      "confidence": "line",
+      "gemini_text": "1620 11th Street N. W. Washington, D. C.",
+      "surya_confidence": 0.9786
+    },
+    {
+      "bbox": [
+        539,
+        2574,
+        1411,
+        2614
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=539,2574,872,40",
+      "confidence": "line",
+      "gemini_text": "Meals Served in Private Dining Room",
+      "surya_confidence": 0.9707
+    },
+    {
+      "bbox": [
+        777,
+        2620,
+        1189,
+        2653
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=777,2620,412,33",
+      "confidence": "line",
+      "gemini_text": "or at Your House.",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        416,
+        2685,
+        1542,
+        2723
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=416,2685,1126,38",
+      "confidence": "line",
+      "gemini_text": "First-class Service and Satisfaction Guaranteed.",
+      "surya_confidence": 0.99
+    },
+    {
+      "bbox": [
+        944,
+        2767,
+        1022,
+        2799
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:133#xywh=944,2767,78,32",
+      "confidence": "line",
+      "gemini_text": "124",
+      "surya_confidence": 0.9661
+    }
+  ],
+  "unmatched_gemini": []
+}

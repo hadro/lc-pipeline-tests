@@ -1,0 +1,26 @@
+{
+  "image_width": 756,
+  "image_height": 1152,
+  "lines": [
+    {
+      "bbox": [
+        470,
+        1000,
+        539,
+        1011
+      ],
+      "text": "PENDLETON",
+      "confidence": 0.9656
+    },
+    {
+      "bbox": [
+        571,
+        1003,
+        580,
+        1009
+      ],
+      "text": "α",
+      "confidence": 0.4995
+    }
+  ]
+}

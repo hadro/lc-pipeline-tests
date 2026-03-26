@@ -1,0 +1,256 @@
+{
+  "image_width": 1898,
+  "image_height": 3005,
+  "lines": [
+    {
+      "bbox": [
+        389,
+        404,
+        1591,
+        489
+      ],
+      "text": "The Most Superb Stock",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        1143,
+        529,
+        1200,
+        557
+      ],
+      "text": "OF",
+      "confidence": 0.953
+    },
+    {
+      "bbox": [
+        1005,
+        592,
+        1515,
+        675
+      ],
+      "text": "Furniture,",
+      "confidence": 0.957
+    },
+    {
+      "bbox": [
+        906,
+        719,
+        1619,
+        795
+      ],
+      "text": "Carpets, Mattings and",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        956,
+        805,
+        1565,
+        883
+      ],
+      "text": "Home Furnishings",
+      "confidence": 0.9356
+    },
+    {
+      "bbox": [
+        691,
+        879,
+        754,
+        905
+      ],
+      "text": "0 0",
+      "confidence": 0.816
+    },
+    {
+      "bbox": [
+        874,
+        907,
+        1649,
+        960
+      ],
+      "text": "In the City at the Lowest Prices.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        912,
+        982,
+        1611,
+        1033
+      ],
+      "text": "\"WE WILL TRUST YOU.\"",
+      "confidence": 0.935
+    },
+    {
+      "bbox": [
+        869,
+        1061,
+        1649,
+        1110
+      ],
+      "text": "MAYER & CO., 415-417 7th St. N.W'",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        339,
+        1202,
+        1635,
+        1297
+      ],
+      "text": "Our Clothing Department.",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        719,
+        1347,
+        1317,
+        1396
+      ],
+      "text": "Men, Women and",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        961,
+        1436,
+        1624,
+        1484
+      ],
+      "text": "Children Outfitters.",
+      "confidence": 0.902
+    },
+    {
+      "bbox": [
+        717,
+        1528,
+        1650,
+        1586
+      ],
+      "text": "The best ready-to-wear CLOTHING",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        1032,
+        1599,
+        1349,
+        1650
+      ],
+      "text": "in the City.",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        831,
+        1670,
+        1551,
+        1717
+      ],
+      "text": "\"WE WILL TRUST YOU.\"",
+      "confidence": 0.9694
+    },
+    {
+      "bbox": [
+        732,
+        1759,
+        1644,
+        1805
+      ],
+      "text": "MAYER & CO., 415-417 7th Street N. W.",
+      "confidence": 0.9777
+    },
+    {
+      "bbox": [
+        330,
+        1889,
+        1650,
+        1981
+      ],
+      "text": "We are Exclusive Agents",
+      "confidence": 0.7277
+    },
+    {
+      "bbox": [
+        1177,
+        2020,
+        1572,
+        2060
+      ],
+      "text": "for the Celebrated",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        1115,
+        2291,
+        1641,
+        2332
+      ],
+      "text": "Ten Year Guarantee with",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        1268,
+        2370,
+        1486,
+        2409
+      ],
+      "text": "every sale.",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        1137,
+        2452,
+        1641,
+        2491
+      ],
+      "text": "Sold on Time Payments.",
+      "confidence": 0.9842
+    },
+    {
+      "bbox": [
+        1119,
+        2528,
+        1635,
+        2569
+      ],
+      "text": "\"WE WILL TRUST YOU.\"",
+      "confidence": 0.918
+    },
+    {
+      "bbox": [
+        1115,
+        2631,
+        1440,
+        2669
+      ],
+      "text": "MAYER&CO.,",
+      "confidence": 0.9736
+    },
+    {
+      "bbox": [
+        1179,
+        2686,
+        1643,
+        2720
+      ],
+      "text": "415-417 7th St. N. W.",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        572,
+        2726,
+        931,
+        2750
+      ],
+      "text": "COPYRIGHT - 1897 -",
+      "confidence": 0.9307
+    }
+  ]
+}

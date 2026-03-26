@@ -1,0 +1,168 @@
+{
+  "image": "0113_service:rbc:lcrbmrp:t8072:113.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:113",
+  "canvas_width": 1893,
+  "canvas_height": 2995,
+  "surya_median_confidence": 0.9982,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        305,
+        354,
+        1655,
+        469
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:113#xywh=305,354,1350,115",
+      "confidence": "line",
+      "gemini_text": "Chery & Moran Co.,",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        528,
+        543,
+        1457,
+        659
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:113#xywh=528,543,929,116",
+      "confidence": "line",
+      "gemini_text": "The Men's Store,",
+      "surya_confidence": 0.6813
+    },
+    {
+      "bbox": [
+        677,
+        740,
+        1292,
+        818
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:113#xywh=677,740,615,78",
+      "confidence": "line",
+      "gemini_text": "811 Pa. Ave.",
+      "surya_confidence": 0.97
+    },
+    {
+      "bbox": [
+        531,
+        903,
+        1430,
+        965
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:113#xywh=531,903,899,62",
+      "confidence": "line",
+      "gemini_text": "WASHINGTON, D. C.",
+      "surya_confidence": 0.9031
+    },
+    {
+      "bbox": [
+        306,
+        1304,
+        1661,
+        1440
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:113#xywh=306,1304,1355,136",
+      "confidence": "line",
+      "gemini_text": "Clothing, Furnishings, Hats",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        507,
+        1545,
+        1467,
+        1604
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:113#xywh=507,1545,960,59",
+      "confidence": "line",
+      "gemini_text": "FOR MEN, BOYS AND CHILDREN.",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        313,
+        1843,
+        1671,
+        1899
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:113#xywh=313,1843,1358,56",
+      "confidence": "line",
+      "gemini_text": "Sole Agents for Rogers, Peet & Co.'s Garments,",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        374,
+        2169,
+        1666,
+        2238
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:113#xywh=374,2169,1292,69",
+      "confidence": "line",
+      "gemini_text": "Naturally, you want the best your money",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        310,
+        2274,
+        1664,
+        2334
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:113#xywh=310,2274,1354,60",
+      "confidence": "line",
+      "gemini_text": "will buy. Best in fabric, best in fit, best in",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        311,
+        2366,
+        1664,
+        2438
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:113#xywh=311,2366,1353,72",
+      "confidence": "line",
+      "gemini_text": "style. All of these \"bests\" are here in ready-",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        311,
+        2467,
+        1666,
+        2540
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:113#xywh=311,2467,1355,73",
+      "confidence": "line",
+      "gemini_text": "to-wear Clothing—better in every way than",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        311,
+        2570,
+        1407,
+        2642
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:113#xywh=311,2570,1096,72",
+      "confidence": "line",
+      "gemini_text": "$2.50 more money will buy elsewhere.",
+      "surya_confidence": 0.9938
+    },
+    {
+      "bbox": [
+        951,
+        2676,
+        1030,
+        2713
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:113#xywh=951,2676,79,37",
+      "confidence": "line",
+      "gemini_text": "104",
+      "surya_confidence": 0.9919
+    }
+  ],
+  "unmatched_gemini": []
+}

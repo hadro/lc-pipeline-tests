@@ -1,0 +1,39 @@
+{
+  "image": "0034_service:mss:mss11879:mss11879-42:42001:0034.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Loan Record",
+    "section_title": "Money loaned in the District of Columbia",
+    "year": "1873"
+  },
+  "page_context": {
+    "record_type": "Contribution Record",
+    "section_title": "Contributions to Pamphlet fund",
+    "year": "1873"
+  },
+  "entries": [
+    {
+      "date": "March 30, 1873",
+      "description": "By Alfred M. Rudd & Mrs.",
+      "amount": "5.00",
+      "transaction_type": "deposit",
+      "record_type": "Contribution Record",
+      "section_title": "Contributions to Pamphlet fund",
+      "year": "1873",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0034#xywh=48,200,696,297",
+      "image": "0034_service:mss:mss11879:mss11879-42:42001:0034.jpg"
+    },
+    {
+      "date": "April 18, 1873",
+      "description": "By J. S. Leek, Ashtabula, O.",
+      "amount": "5.00",
+      "transaction_type": "deposit",
+      "record_type": "Contribution Record",
+      "section_title": "Contributions to Pamphlet fund",
+      "year": "1873",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0034#xywh=732,389,49,40",
+      "image": "0034_service:mss:mss11879:mss11879-42:42001:0034.jpg"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "image": "0001_service:rbc:lcrbmrp:t8072:001.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:001",
+  "canvas_width": 402,
+  "canvas_height": 2978,
+  "surya_median_confidence": 0.9378,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        162,
+        1190,
+        237,
+        2384
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:001#xywh=162,1190,75,1194",
+      "confidence": "line",
+      "gemini_text": "F. A. A. M. DIRECTORY DIST. OF COL. 1903-'05",
+      "surya_confidence": 0.9378
+    }
+  ],
+  "unmatched_gemini": []
+}

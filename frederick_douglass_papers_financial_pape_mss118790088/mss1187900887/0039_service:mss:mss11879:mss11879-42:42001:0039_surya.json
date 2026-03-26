@@ -1,0 +1,566 @@
+{
+  "image_width": 1658,
+  "image_height": 1402,
+  "lines": [
+    {
+      "bbox": [
+        234,
+        199,
+        702,
+        241
+      ],
+      "text": "Rules Relating to Deposits.",
+      "confidence": 0.8816
+    },
+    {
+      "bbox": [
+        208,
+        260,
+        761,
+        280
+      ],
+      "text": "SECTION I. In making the first deposit, every depositor, or his",
+      "confidence": 0.9871
+    },
+    {
+      "bbox": [
+        173,
+        274,
+        761,
+        298
+      ],
+      "text": "agent, shall comply with and be subject to the following rules and",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        175,
+        292,
+        761,
+        316
+      ],
+      "text": "regulations of the Company, and shall be considered as bound",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        175,
+        310,
+        762,
+        332
+      ],
+      "text": "thereby. A record will be made as a means of future identification.",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        175,
+        327,
+        762,
+        349
+      ],
+      "text": "A numbered pass-book will be provided, in which every deposit",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        175,
+        345,
+        323,
+        359
+      ],
+      "text": "shall be entered.",
+      "confidence": 0.977
+    },
+    {
+      "bbox": [
+        207,
+        360,
+        761,
+        380
+      ],
+      "text": "Deposits of not less than five dollars will be received upon first",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        175,
+        377,
+        761,
+        397
+      ],
+      "text": "opening an account, while sums not less than one dollar may be",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        173,
+        391,
+        762,
+        416
+      ],
+      "text": "added thereafter: Provided, however, That the Company may limit",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        175,
+        410,
+        691,
+        430
+      ],
+      "text": "the amounts of deposits from any person in any one month.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        207,
+        429,
+        759,
+        446
+      ],
+      "text": "Any application for opening a deposit account may be refused",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        175,
+        443,
+        758,
+        465
+      ],
+      "text": "by the Company when deemed expedient, and the Company reserves",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        175,
+        460,
+        758,
+        482
+      ],
+      "text": "the right to close an account at any time. Active business accounts",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        175,
+        479,
+        432,
+        494
+      ],
+      "text": "will not be taken or retained.",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        207,
+        491,
+        757,
+        517
+      ],
+      "text": "SEC. 2. All deposits will be held as trusts, strictly confidential",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        175,
+        509,
+        758,
+        533
+      ],
+      "text": "and private. Deposits made by married women or minors are en-",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        172,
+        527,
+        758,
+        549
+      ],
+      "text": "tirely free from the control of their husbands, parents, or guardians.",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        205,
+        544,
+        758,
+        564
+      ],
+      "text": "Guardians may deposit for the benefit of their wards, and trus-",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        172,
+        560,
+        758,
+        582
+      ],
+      "text": "tees may deposit as such, specifying in each case the name of the",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        171,
+        577,
+        467,
+        595
+      ],
+      "text": "party for whom it is held in trust.",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        204,
+        594,
+        758,
+        616
+      ],
+      "text": "SEC 3. The Company may require the presentation of the pass-",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        169,
+        608,
+        758,
+        633
+      ],
+      "text": "book before any check is paid or deposit received; but if a check",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        171,
+        627,
+        758,
+        649
+      ],
+      "text": "shall at any time be paid or deposit received in the absence of the",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        168,
+        642,
+        760,
+        686
+      ],
+      "text": "book, as an accommodation to a depositor, the Company does not thereby waive the right to exact said requirement in further pay-",
+      "confidence": 0.9827
+    },
+    {
+      "bbox": [
+        169,
+        678,
+        758,
+        700
+      ],
+      "text": "ments or deposits. Payments of checks of depositors will be made",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        169,
+        695,
+        758,
+        715
+      ],
+      "text": "ordinarily on demand, but should it at any time be necessary in the",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        169,
+        709,
+        758,
+        733
+      ],
+      "text": "general interest of the patrons, the Company reserves the right to",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        169,
+        728,
+        758,
+        748
+      ],
+      "text": "require sixty days' notice in writing from any depositor before",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        171,
+        745,
+        327,
+        760
+      ],
+      "text": "making payment.",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        202,
+        762,
+        758,
+        782
+      ],
+      "text": "SEC. 4. Whenever a book is lost, destroyed, or fraudulently ob-",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        171,
+        778,
+        758,
+        800
+      ],
+      "text": "tained, immediate notice should be given to the Company. If it is",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        169,
+        793,
+        758,
+        818
+      ],
+      "text": "not recovered within thirty days after such notice, a duplicate book",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        171,
+        810,
+        758,
+        834
+      ],
+      "text": "will be issued, provided a satisfactory bond of indemnity is fur-",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        168,
+        825,
+        758,
+        852
+      ],
+      "text": "nished. Possession of a pass-book shall not alone be regarded as",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        169,
+        844,
+        479,
+        863
+      ],
+      "text": "evidence of ownership of the same.",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        205,
+        860,
+        757,
+        884
+      ],
+      "text": "When an account is closed, the book must invariably be surren-",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        171,
+        879,
+        373,
+        896
+      ],
+      "text": "dered to the Company.",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        201,
+        893,
+        757,
+        917
+      ],
+      "text": "SEC. 5. Interest will be allowed on all accounts having credits",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        168,
+        910,
+        757,
+        934
+      ],
+      "text": "of five dollars and upwards. No interest will be allowed when an",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        169,
+        929,
+        757,
+        951
+      ],
+      "text": "account has not been continued with the Company for at least thirty",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        171,
+        948,
+        222,
+        962
+      ],
+      "text": "days.",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        202,
+        963,
+        758,
+        985
+      ],
+      "text": "SEC. 6. Two per cent, interest per annum will be allowed de-",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        171,
+        979,
+        758,
+        1001
+      ],
+      "text": "positors on monthly balances. The current interest due depositors",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        169,
+        993,
+        758,
+        1019
+      ],
+      "text": "will be added to their principal on the books of the Company on the",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        168,
+        1010,
+        758,
+        1036
+      ],
+      "text": "first days of January and July in each year, and such interest will be",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        168,
+        1026,
+        757,
+        1054
+      ],
+      "text": "entered on depositors' pass-books as soon as practicable after said",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        169,
+        1046,
+        757,
+        1068
+      ],
+      "text": "dates, and, when not withdrawn, will be entitled to earn interest as",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        169,
+        1065,
+        436,
+        1081
+      ],
+      "text": "forming part of the principal.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        201,
+        1077,
+        757,
+        1101
+      ],
+      "text": "Pass-books must be handed in at least once in every three",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        169,
+        1096,
+        504,
+        1115
+      ],
+      "text": "months to be written up and balanced.",
+      "confidence": 0.6611
+    },
+    {
+      "bbox": [
+        201,
+        1115,
+        757,
+        1135
+      ],
+      "text": "SEC. 7. For the collection of all notes, drafts, checks, etc., out",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        169,
+        1131,
+        757,
+        1151
+      ],
+      "text": "side of this city. The Washington Loan & Trust Co. will observe",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        168,
+        1145,
+        758,
+        1186
+      ],
+      "text": "due diligence in its endeavor to select responsible agents, but will\nnot be liable in case of their failure or negligence, or for loss of such",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        169,
+        1180,
+        326,
+        1197
+      ],
+      "text": "items in the mail.",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        748,
+        1365,
+        795,
+        1378
+      ],
+      "text": "",
+      "confidence": 1.0
+    }
+  ]
+}

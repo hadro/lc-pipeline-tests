@@ -1,0 +1,346 @@
+{
+  "image_width": 1794,
+  "image_height": 2892,
+  "lines": [
+    {
+      "bbox": [
+        287,
+        353,
+        1302,
+        453
+      ],
+      "text": "Edward Dickerson,",
+      "confidence": 0.9212
+    },
+    {
+      "bbox": [
+        508,
+        546,
+        1083,
+        656
+      ],
+      "text": "EXPRESS",
+      "confidence": 0.9351
+    },
+    {
+      "bbox": [
+        384,
+        766,
+        1201,
+        870
+      ],
+      "text": "FOR HIRE.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        188,
+        944,
+        1410,
+        1040
+      ],
+      "text": "Pianos and Furniture Moved to",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        396,
+        1063,
+        1193,
+        1133
+      ],
+      "text": "All Parts of the City,",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        619,
+        1171,
+        978,
+        1229
+      ],
+      "text": "with care.",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        192,
+        1415,
+        1406,
+        1467
+      ],
+      "text": "PACKING & SHIPPING A SPECIALTY",
+      "confidence": 0.8989
+    },
+    {
+      "bbox": [
+        671,
+        1710,
+        935,
+        1756
+      ],
+      "text": "OFFICES:",
+      "confidence": 0.6189
+    },
+    {
+      "bbox": [
+        472,
+        1827,
+        1133,
+        1878
+      ],
+      "text": "1711 11TH ST., N. W.",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        746,
+        1953,
+        862,
+        1987
+      ],
+      "text": "AND",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        452,
+        2059,
+        1150,
+        2118
+      ],
+      "text": "2206 8TH ST., N.W.",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        321,
+        2297,
+        1283,
+        2360
+      ],
+      "text": "Orders by Mail Promptly Attended To.",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        182,
+        2404,
+        312,
+        2426
+      ],
+      "text": "350 CD 60 CD",
+      "confidence": 0.4637
+    },
+    {
+      "bbox": [
+        219,
+        2429,
+        315,
+        2453
+      ],
+      "text": "一世世世",
+      "confidence": 0.2139
+    },
+    {
+      "bbox": [
+        1315,
+        2452,
+        1346,
+        2468
+      ],
+      "text": "Suns",
+      "confidence": 0.2539
+    },
+    {
+      "bbox": [
+        192,
+        2457,
+        216,
+        2470
+      ],
+      "text": "545",
+      "confidence": 0.3295
+    },
+    {
+      "bbox": [
+        245,
+        2458,
+        267,
+        2470
+      ],
+      "text": "15",
+      "confidence": 0.5853
+    },
+    {
+      "bbox": [
+        216,
+        2472,
+        394,
+        2489
+      ],
+      "text": "the part will be a sent of",
+      "confidence": 0.1635
+    },
+    {
+      "bbox": [
+        1315,
+        2478,
+        1345,
+        2494
+      ],
+      "text": "Sec.",
+      "confidence": 0.1844
+    },
+    {
+      "bbox": [
+        417,
+        2486,
+        1181,
+        2552
+      ],
+      "text": "'Phone, Main 717-Y.",
+      "confidence": 0.7437
+    },
+    {
+      "bbox": [
+        220,
+        2488,
+        354,
+        2506
+      ],
+      "text": "plant transferred by the",
+      "confidence": 0.244
+    },
+    {
+      "bbox": [
+        1297,
+        2489,
+        1367,
+        2645
+      ],
+      "text": "CALL",
+      "confidence": 0.42
+    },
+    {
+      "bbox": [
+        189,
+        2492,
+        209,
+        2502
+      ],
+      "text": "See",
+      "confidence": 0.3487
+    },
+    {
+      "bbox": [
+        217,
+        2533,
+        312,
+        2553
+      ],
+      "text": "13, 15, 24",
+      "confidence": 0.2254
+    },
+    {
+      "bbox": [
+        181,
+        2548,
+        409,
+        2590
+      ],
+      "text": "Meggggag",
+      "confidence": 0.3193
+    },
+    {
+      "bbox": [
+        180,
+        2565,
+        315,
+        2603
+      ],
+      "text": "maga",
+      "confidence": 0.5952
+    },
+    {
+      "bbox": [
+        284,
+        2577,
+        414,
+        2604
+      ],
+      "text": "日本 直 但",
+      "confidence": 0.1791
+    },
+    {
+      "bbox": [
+        182,
+        2593,
+        352,
+        2655
+      ],
+      "text": "KEALL",
+      "confidence": 0.3027
+    },
+    {
+      "bbox": [
+        344,
+        2616,
+        549,
+        2638
+      ],
+      "text": "「                                   ",
+      "confidence": 0.0512
+    },
+    {
+      "bbox": [
+        449,
+        2638,
+        547,
+        2653
+      ],
+      "text": "APALES AND",
+      "confidence": 0.2079
+    },
+    {
+      "bbox": [
+        182,
+        2675,
+        654,
+        2739
+      ],
+      "text": "<b>23</b>168332737653",
+      "confidence": 0.3975
+    },
+    {
+      "bbox": [
+        1193,
+        2708,
+        1215,
+        2732
+      ],
+      "text": "100",
+      "confidence": 0.2821
+    },
+    {
+      "bbox": [
+        653,
+        2709,
+        974,
+        2735
+      ],
+      "text": "19- 17- 150 350 450 450 35 35 35 A",
+      "confidence": 0.1105
+    },
+    {
+      "bbox": [
+        183,
+        2732,
+        819,
+        2751
+      ],
+      "text": "为一种。 [10] 10] 10] 10] 10] 10] 10] 10] 10] 10] ",
+      "confidence": 0.041
+    }
+  ]
+}

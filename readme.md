@@ -9,6 +9,20 @@ The "files" go to the source repo and generally include some or all of the follo
 - Data explorer html file
 - All OCR text (surya and Gemini) (not all repos include all OCR at this point)
 
+## Directory of the Grand and Subordinate Lodges, F.A.A.M. of the District of Columbia, 1903-1905 [Data extraction from the concluding directory portion of the item]
+- Source: [loc.gov/item/74175569/](https://www.loc.gov/item/74175569/)
+- Data explorer: [explorer.html](https://hadro.github.io/lc-pipeline-tests/directory_of_the_grand_and_subordinate_l_74175569/explorer.html)
+- Files: [directory_of_the_grand_and_subordinate_l_74175569](https://github.com/hadro/lc-pipeline-tests/tree/main/directory_of_the_grand_and_subordinate_l_74175569) 
+
+## Frederick Douglass Papers: Financial Papers, 1847-1928; Bank books 
+- Source: [loc.gov/item/mss1187900887/](https://www.loc.gov/item/mss1187900887/)
+- Data explorer: [explorer.html](https://hadro.github.io/lc-pipeline-tests/frederick_douglass_papers_financial_pape_mss118790088/explorer.html)
+- Files: [frederick_douglass_papers_financial_pape_mss118790088](https://github.com/hadro/lc-pipeline-tests/tree/main/frederick_douglass_papers_financial_pape_mss118790088)
+
+### Ships' watch shift lists from Louis Malesherbes Goldsborough Papers: Correspondence and Other Papers, 1797-1874; Undated; 3 of 4, pages 223-229
+- Source: [loc.gov/item/mss23044022/](https://www.loc.gov/item/mss23044022/)
+- Data explorer: [explorer.html](https://hadro.github.io/lc-pipeline-tests/goldsborough_papers_pages223-229/explorer.html)
+- Files: [goldsborough_papers_pages223-229](https://github.com/hadro/lc-pipeline-tests/tree/main/goldsborough_papers_pages223-229)
 
 ### Gazetteer of surface waters of Iowa.
 - Source: [loc.gov/item/unk82032541/](https://www.loc.gov/item/unk82032541/)

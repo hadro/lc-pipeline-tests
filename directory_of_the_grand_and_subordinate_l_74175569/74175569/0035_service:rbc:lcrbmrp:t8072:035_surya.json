@@ -1,0 +1,126 @@
+{
+  "image_width": 1878,
+  "image_height": 3005,
+  "lines": [
+    {
+      "bbox": [
+        608,
+        400,
+        1416,
+        458
+      ],
+      "text": "No Notes-No Interest.",
+      "confidence": 0.9653
+    },
+    {
+      "bbox": [
+        325,
+        718,
+        1685,
+        956
+      ],
+      "text": "PETER GROGAN CO.",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        744,
+        1085,
+        1245,
+        1327
+      ],
+      "text": "Furniture",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        712,
+        1369,
+        838,
+        1406
+      ],
+      "text": "AND",
+      "confidence": 0.9638
+    },
+    {
+      "bbox": [
+        738,
+        1454,
+        1167,
+        1700
+      ],
+      "text": "Carpets",
+      "confidence": 0.9809
+    },
+    {
+      "bbox": [
+        392,
+        1807,
+        1609,
+        1910
+      ],
+      "text": "817, 819, 821 and 823",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        592,
+        1954,
+        1407,
+        2051
+      ],
+      "text": "Seventh Street,",
+      "confidence": 0.9876
+    },
+    {
+      "bbox": [
+        803,
+        2090,
+        1170,
+        2207
+      ],
+      "text": "N. W.,",
+      "confidence": 0.9876
+    },
+    {
+      "bbox": [
+        612,
+        2307,
+        1382,
+        2382
+      ],
+      "text": "WASHINGTON, D. C.",
+      "confidence": 0.9142
+    },
+    {
+      "bbox": [
+        381,
+        2627,
+        898,
+        2684
+      ],
+      "text": "EASY TERMS.",
+      "confidence": 0.911
+    },
+    {
+      "bbox": [
+        1164,
+        2635,
+        1596,
+        2690
+      ],
+      "text": "ONE PRICE.",
+      "confidence": 0.9637
+    },
+    {
+      "bbox": [
+        959,
+        2739,
+        1017,
+        2773
+      ],
+      "text": "26",
+      "confidence": 0.9815
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "image": "0050_service:rbc:lcrbmrp:t8072:050.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:050",
+  "canvas_width": 1835,
+  "canvas_height": 2990,
+  "surya_median_confidence": 0.9878,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        489,
+        310,
+        1351,
+        376
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:050#xywh=489,310,862,66",
+      "confidence": "line",
+      "gemini_text": "A. and A. S. Rite Masons",
+      "surya_confidence": 0.5478
+    },
+    {
+      "bbox": [
+        236,
+        639,
+        1599,
+        697
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:050#xywh=236,639,1363,58",
+      "confidence": "line",
+      "gemini_text": "Jonathan Davis Consistory, No. 1, Sublime Princes",
+      "surya_confidence": 0.987
+    },
+    {
+      "bbox": [
+        645,
+        697,
+        1189,
+        772
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:050#xywh=645,697,544,75",
+      "confidence": "line",
+      "gemini_text": "of the Royal Secret,",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        493,
+        838,
+        1338,
+        876
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:050#xywh=493,838,845,38",
+      "confidence": "line",
+      "gemini_text": "Meets Fourth Monday in each Month.",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        357,
+        928,
+        1601,
+        979
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:050#xywh=357,928,1244,51",
+      "confidence": "line",
+      "gemini_text": "Ill. John F. N. Wilkinson Commander-in-chief",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        354,
+        1019,
+        1598,
+        1071
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:050#xywh=354,1019,1244,52",
+      "confidence": "line",
+      "gemini_text": "Ill. Henry C. Irvin.. 1st Lieut. Commander",
+      "surya_confidence": 0.9957
+    },
+    {
+      "bbox": [
+        333,
+        1109,
+        1596,
+        1162
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:050#xywh=333,1109,1263,53",
+      "confidence": "line",
+      "gemini_text": "Ill. Paul H. Bray. ..2nd Lieut. Commander",
+      "surya_confidence": 0.9973
+    },
+    {
+      "bbox": [
+        241,
+        1203,
+        1591,
+        1245
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:050#xywh=241,1203,1350,42",
+      "confidence": "line",
+      "gemini_text": "Ill. Walter J. Abrams....Gr. Sec'y. and K. of S. and A.",
+      "surya_confidence": 0.9944
+    },
+    {
+      "bbox": [
+        620,
+        1261,
+        1221,
+        1297
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:050#xywh=620,1261,601,36",
+      "confidence": "line",
+      "gemini_text": "1241 22d Street Northwest",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        408,
+        1529,
+        1484,
+        1576
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:050#xywh=408,1529,1076,47",
+      "confidence": "line",
+      "gemini_text": "Zoroaster Council, Knights of Kadosh,",
+      "surya_confidence": 0.9136
+    },
+    {
+      "bbox": [
+        325,
+        1631,
+        1518,
+        1675
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:050#xywh=325,1631,1193,44",
+      "confidence": "line",
+      "gemini_text": "Meets Quarterly, January, April, July and October.",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        354,
+        1909,
+        1486,
+        1959
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:050#xywh=354,1909,1132,50",
+      "confidence": "line",
+      "gemini_text": "Budha Chapter Knights of the Rose Croix,",
+      "surya_confidence": 0.8631
+    },
+    {
+      "bbox": [
+        241,
+        2039,
+        1591,
+        2078
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:050#xywh=241,2039,1350,39",
+      "confidence": "line",
+      "gemini_text": "Meets quarterly or upon call of the M. W. and P. Master.",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        305,
+        2305,
+        1526,
+        2352
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:050#xywh=305,2305,1221,47",
+      "confidence": "line",
+      "gemini_text": "Gallahad Lodge of Perfection, Grand E. P. and",
+      "surya_confidence": 0.9889
+    },
+    {
+      "bbox": [
+        764,
+        2376,
+        1061,
+        2417
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:050#xywh=764,2376,297,41",
+      "confidence": "line",
+      "gemini_text": "S. Masons,",
+      "surya_confidence": 0.9716
+    },
+    {
+      "bbox": [
+        342,
+        2472,
+        1484,
+        2516
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:050#xywh=342,2472,1142,44",
+      "confidence": "line",
+      "gemini_text": "Meets quarterly or upon call of the Thrice Pucient",
+      "surya_confidence": 0.997
+    },
+    {
+      "bbox": [
+        740,
+        2542,
+        1081,
+        2576
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:050#xywh=740,2542,341,34",
+      "confidence": "line",
+      "gemini_text": "Grand Master.",
+      "surya_confidence": 0.9117
+    },
+    {
+      "bbox": [
+        831,
+        2619,
+        998,
+        2674
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:050#xywh=831,2619,167,55",
+      "confidence": "line",
+      "gemini_text": "41",
+      "surya_confidence": 0.9878
+    }
+  ],
+  "unmatched_gemini": []
+}

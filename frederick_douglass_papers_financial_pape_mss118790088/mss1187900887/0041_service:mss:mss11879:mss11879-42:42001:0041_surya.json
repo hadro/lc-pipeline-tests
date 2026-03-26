@@ -1,0 +1,216 @@
+{
+  "image_width": 1642,
+  "image_height": 1363,
+  "lines": [
+    {
+      "bbox": [
+        923,
+        173,
+        1191,
+        227
+      ],
+      "text": "This Company",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        1081,
+        237,
+        1511,
+        273
+      ],
+      "text": "Executes all Trusts, Acts as Ex-",
+      "confidence": 0.9836
+    },
+    {
+      "bbox": [
+        1082,
+        277,
+        1508,
+        311
+      ],
+      "text": "ecutor, Administrator, Trustee,",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        1080,
+        317,
+        1131,
+        341
+      ],
+      "text": "etc.",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        922,
+        347,
+        1045,
+        391
+      ],
+      "text": "Wills",
+      "confidence": 0.5021
+    },
+    {
+      "bbox": [
+        1079,
+        404,
+        1509,
+        439
+      ],
+      "text": "Drawn by our Attorney and kept",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        1079,
+        442,
+        1508,
+        479
+      ],
+      "text": "in our vault, free of charge, when",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        1079,
+        480,
+        1506,
+        518
+      ],
+      "text": "this Company is named Executor.",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        920,
+        543,
+        1214,
+        592
+      ],
+      "text": "Money to Loan",
+      "confidence": 0.9786
+    },
+    {
+      "bbox": [
+        1076,
+        603,
+        1506,
+        640
+      ],
+      "text": "Upon approved real estate and col-",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        1074,
+        642,
+        1507,
+        680
+      ],
+      "text": "lateral security at lowest rate of",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        1075,
+        682,
+        1182,
+        709
+      ],
+      "text": "interest.",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        916,
+        733,
+        1296,
+        783
+      ],
+      "text": "Safe Deposit Boxes",
+      "confidence": 0.9705
+    },
+    {
+      "bbox": [
+        1075,
+        793,
+        1502,
+        829
+      ],
+      "text": "For rent in Fire and Burglar",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        1075,
+        831,
+        1238,
+        859
+      ],
+      "text": "Proof Vaults.",
+      "confidence": 0.8641
+    },
+    {
+      "bbox": [
+        915,
+        894,
+        1360,
+        945
+      ],
+      "text": "Real Estate Department",
+      "confidence": 0.9491
+    },
+    {
+      "bbox": [
+        1020,
+        961,
+        1232,
+        990
+      ],
+      "text": "RENTS collected,",
+      "confidence": 0.9476
+    },
+    {
+      "bbox": [
+        1073,
+        998,
+        1305,
+        1028
+      ],
+      "text": "SALES effected and",
+      "confidence": 0.9737
+    },
+    {
+      "bbox": [
+        1260,
+        1045,
+        1498,
+        1073
+      ],
+      "text": "INSURANCE placed.",
+      "confidence": 0.976
+    },
+    {
+      "bbox": [
+        994,
+        1097,
+        1419,
+        1128
+      ],
+      "text": "HAS OFFICES FOR RENT IN ITS",
+      "confidence": 0.9574
+    },
+    {
+      "bbox": [
+        995,
+        1131,
+        1417,
+        1163
+      ],
+      "text": "FIRE-PROOF GRANITE BUILDING.",
+      "confidence": 0.9242
+    }
+  ]
+}

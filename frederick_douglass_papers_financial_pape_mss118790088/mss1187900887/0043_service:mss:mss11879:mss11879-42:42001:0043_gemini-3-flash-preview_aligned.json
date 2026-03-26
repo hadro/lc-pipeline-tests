@@ -1,0 +1,41 @@
+{
+  "image": "0043_service:mss:mss11879:mss11879-42:42001:0043.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0043",
+  "canvas_width": 732,
+  "canvas_height": 1112,
+  "surya_median_confidence": 0.9643,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        218,
+        143,
+        502,
+        194
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0043#xywh=218,143,284,51",
+      "confidence": "line",
+      "gemini_text": "CAPITAL",
+      "surya_confidence": 0.8458
+    },
+    {
+      "bbox": [
+        233,
+        904,
+        493,
+        935
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0043#xywh=233,904,260,31",
+      "confidence": "line",
+      "gemini_text": "WASHINGTON, D. C.",
+      "surya_confidence": 0.9633
+    }
+  ],
+  "unmatched_gemini": [
+    "SAVINGS BANK,",
+    "CAPITAL SAVINGS BANK BUILDING",
+    "CAPITAL SAVINGS BANK",
+    "NO. 609 F STREET, N W.,"
+  ]
+}

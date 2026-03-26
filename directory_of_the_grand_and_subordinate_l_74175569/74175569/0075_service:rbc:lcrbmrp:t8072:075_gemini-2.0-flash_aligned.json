@@ -1,0 +1,204 @@
+{
+  "image": "0075_service:rbc:lcrbmrp:t8072:075.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:075",
+  "canvas_width": 1897,
+  "canvas_height": 3012,
+  "surya_median_confidence": 0.9837,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        322,
+        373,
+        619,
+        424
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:075#xywh=322,373,297,51",
+      "confidence": "line",
+      "gemini_text": "STENCILS. SEALS. BRASS SIGNS.",
+      "surya_confidence": 0.9202
+    },
+    {
+      "bbox": [
+        601,
+        562,
+        1407,
+        635
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:075#xywh=601,562,806,73",
+      "confidence": "line",
+      "gemini_text": "LAMB & TILDEN,",
+      "surya_confidence": 0.9779
+    },
+    {
+      "bbox": [
+        325,
+        675,
+        755,
+        712
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:075#xywh=325,675,430,37",
+      "confidence": "line",
+      "gemini_text": "Richard L. Lamb. Eugene M. Tilden.",
+      "surya_confidence": 0.9925
+    },
+    {
+      "bbox": [
+        452,
+        816,
+        1544,
+        930
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:075#xywh=452,816,1092,114",
+      "confidence": "line",
+      "gemini_text": "Rubber Stamps,",
+      "surya_confidence": 0.9879
+    },
+    {
+      "bbox": [
+        607,
+        1038,
+        1370,
+        1122
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:075#xywh=607,1038,763,84",
+      "confidence": "line",
+      "gemini_text": "525 Tenth St.,",
+      "surya_confidence": 0.9871
+    },
+    {
+      "bbox": [
+        568,
+        1228,
+        1309,
+        1287
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:075#xywh=568,1228,741,59",
+      "confidence": "line",
+      "gemini_text": "Washington, D. C.",
+      "surya_confidence": 0.9833
+    },
+    {
+      "bbox": [
+        319,
+        1479,
+        1674,
+        1529
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:075#xywh=319,1479,1355,50",
+      "confidence": "line",
+      "gemini_text": "POCKET STAMPS. NUMBERING MACHINES.",
+      "surya_confidence": 0.9477
+    },
+    {
+      "bbox": [
+        384,
+        1629,
+        1590,
+        1712
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:075#xywh=384,1629,1206,83",
+      "confidence": "line",
+      "gemini_text": "West End Printing Co.,",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        659,
+        1775,
+        1342,
+        1854
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:075#xywh=659,1775,683,79",
+      "confidence": "line",
+      "gemini_text": "612 14th Street N. W.,",
+      "surya_confidence": 0.9842
+    },
+    {
+      "bbox": [
+        712,
+        1908,
+        1267,
+        1955
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:075#xywh=712,1908,555,47",
+      "confidence": "line",
+      "gemini_text": "WASHINGTON, D. C.",
+      "surya_confidence": 0.9137
+    },
+    {
+      "bbox": [
+        551,
+        2102,
+        1425,
+        2142
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:075#xywh=551,2102,874,40",
+      "confidence": "line",
+      "gemini_text": "FILLMORE HARRISON, Manager.",
+      "surya_confidence": 0.9301
+    },
+    {
+      "bbox": [
+        313,
+        2288,
+        821,
+        2358
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:075#xywh=313,2288,508,70",
+      "confidence": "line",
+      "gemini_text": "Artistic Printing. Society Engraving.",
+      "surya_confidence": 0.8677
+    },
+    {
+      "bbox": [
+        545,
+        2448,
+        1441,
+        2483
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:075#xywh=545,2448,896,35",
+      "confidence": "line",
+      "gemini_text": "MASONIC CARDS A SPECIALTY.",
+      "surya_confidence": 0.9431
+    },
+    {
+      "bbox": [
+        319,
+        2641,
+        1670,
+        2679
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:075#xywh=319,2641,1351,38",
+      "confidence": "line",
+      "gemini_text": "See our Monogram Writing Paper, embossed from Steel Die,",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        448,
+        2696,
+        1531,
+        2735
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:075#xywh=448,2696,1083,39",
+      "confidence": "line",
+      "gemini_text": "for 25c and 35c a quire, including 25 Envelopes.",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        659,
+        2752,
+        1337,
+        2791
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:075#xywh=659,2752,678,39",
+      "confidence": "line",
+      "gemini_text": "No charge for use of steel die.",
+      "surya_confidence": 0.9991
+    }
+  ],
+  "unmatched_gemini": []
+}

@@ -1,0 +1,666 @@
+{
+  "image_width": 1809,
+  "image_height": 2996,
+  "lines": [
+    {
+      "bbox": [
+        589,
+        364,
+        1218,
+        405
+      ],
+      "text": "DIRECTORY-Continued.",
+      "confidence": 0.931
+    },
+    {
+      "bbox": [
+        438,
+        442,
+        1078,
+        480
+      ],
+      "text": "Jefferds, Wesley, 5, 306 3d se.",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        438,
+        476,
+        1212,
+        517
+      ],
+      "text": "Johnson, Bailey T., 8-7-4, 1424 3d nw.",
+      "confidence": 0.9843
+    },
+    {
+      "bbox": [
+        438,
+        514,
+        1085,
+        547
+      ],
+      "text": "Johnson, C. E., 15, 406 41/2 sw.",
+      "confidence": 0.9698
+    },
+    {
+      "bbox": [
+        438,
+        547,
+        1195,
+        583
+      ],
+      "text": "Johnson, Fred. E., 8-2, 1522 21st nw.",
+      "confidence": 0.9801
+    },
+    {
+      "bbox": [
+        438,
+        584,
+        1089,
+        616
+      ],
+      "text": "Johnson, French, 3, U. S. Navy.",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        437,
+        619,
+        1109,
+        652
+      ],
+      "text": "Johnson, Geo. D., 14, 912 W nw.",
+      "confidence": 0.9802
+    },
+    {
+      "bbox": [
+        437,
+        652,
+        1252,
+        687
+      ],
+      "text": "Johnson, Geo. M., 7, 2130 Ward Pl. nw.",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        437,
+        687,
+        1085,
+        721
+      ],
+      "text": "Johnson, Henry, 15, 428 2d sw.",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        437,
+        721,
+        1372,
+        756
+      ],
+      "text": "Johnson, Rev. J. A., 0-0-2, 634 George st.,",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        471,
+        755,
+        779,
+        788
+      ],
+      "text": "Baltimore, Md.",
+      "confidence": 0.9584
+    },
+    {
+      "bbox": [
+        436,
+        789,
+        1053,
+        824
+      ],
+      "text": "Johnson, J. H., 10-2, 316 D se.",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        437,
+        827,
+        1370,
+        859
+      ],
+      "text": "Johnson, Jas. L., 9-11-3, 33d B-M-S, Anacostia.",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        435,
+        861,
+        1209,
+        894
+      ],
+      "text": "Johnson, John, 1, 1225 N. Y. ave. nw.",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        434,
+        894,
+        1204,
+        929
+      ],
+      "text": "Johnson, John H., 7-11, Tennallytown.",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        433,
+        927,
+        1206,
+        964
+      ],
+      "text": "Johnson, Joshua, 8, 1641 Vt. ave. nw.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        432,
+        962,
+        1329,
+        1000
+      ],
+      "text": "Johnson, Rev. Robert, 8, 2015 Vt. ave. nw.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        432,
+        998,
+        1248,
+        1034
+      ],
+      "text": "Johnson, Stephen, 8-2, 32d S, 322 H sw.",
+      "confidence": 0.9854
+    },
+    {
+      "bbox": [
+        432,
+        1031,
+        1164,
+        1069
+      ],
+      "text": "Johnson, Thos. H., 9-5-1, 114 D sw.",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        432,
+        1068,
+        1328,
+        1103
+      ],
+      "text": "Johnson, Thos. J., 10, 32d S, 1451 Pierce Pl.",
+      "confidence": 0.9822
+    },
+    {
+      "bbox": [
+        432,
+        1097,
+        1204,
+        1139
+      ],
+      "text": "Johnson, Rev. W. B., 5, 1529 4th nw.",
+      "confidence": 0.9771
+    },
+    {
+      "bbox": [
+        432,
+        1139,
+        1172,
+        1171
+      ],
+      "text": "Johnson, William, 6, 665 Navy Pl. se.",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        432,
+        1170,
+        1153,
+        1205
+      ],
+      "text": "Joiner, W. A., 14-11-2, G, 716 S nw.",
+      "confidence": 0.9869
+    },
+    {
+      "bbox": [
+        432,
+        1206,
+        1221,
+        1241
+      ],
+      "text": "Jones, Abner, 1-5, 436 Washington nw.",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        431,
+        1243,
+        1186,
+        1276
+      ],
+      "text": "Jones, Algernon, 7-11-2, 1836 11th nw.",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        431,
+        1277,
+        1367,
+        1312
+      ],
+      "text": "Jones, Geo. W., 7-11-2, 32d D-M-O, 1836 11th",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        431,
+        1310,
+        1222,
+        1346
+      ],
+      "text": "Jones, Jos. D., 9-7-4, 32d S, 220 B nw.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        431,
+        1347,
+        1264,
+        1380
+      ],
+      "text": "Jones, J. W., 15, 77 Jackson Court nw.",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        431,
+        1383,
+        1007,
+        1412
+      ],
+      "text": "Jones, John, 8, 711 6th sw.",
+      "confidence": 0.9868
+    },
+    {
+      "bbox": [
+        424,
+        1415,
+        1179,
+        1449
+      ],
+      "text": "Jones, S. Leroy, 7-11-2, 1836 11th nw.",
+      "confidence": 0.9895
+    },
+    {
+      "bbox": [
+        430,
+        1450,
+        1144,
+        1485
+      ],
+      "text": "Jones, R. H., 7-11-2, C-S, 916 E sw.",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        429,
+        1485,
+        1076,
+        1519
+      ],
+      "text": "Jones, R. H., Jr., 7, 916 E sw.",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        430,
+        1517,
+        1224,
+        1558
+      ],
+      "text": "Jones, W. E., 1-1, 436 Washington nw.",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        429,
+        1551,
+        1096,
+        1592
+      ],
+      "text": "Jones, Wm. H., 7, G, 904 E sw.",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        429,
+        1589,
+        1114,
+        1621
+      ],
+      "text": "Jones, Webster, 5-1-3, 1702 L nw.",
+      "confidence": 0.9741
+    },
+    {
+      "bbox": [
+        428,
+        1625,
+        969,
+        1655
+      ],
+      "text": "Kent, Geo., 7, 2623 O nw.",
+      "confidence": 0.9718
+    },
+    {
+      "bbox": [
+        427,
+        1658,
+        1136,
+        1693
+      ],
+      "text": "Kent, Louis, 6-5-1, G-S, 212 L nw.",
+      "confidence": 0.9827
+    },
+    {
+      "bbox": [
+        428,
+        1693,
+        1077,
+        1727
+      ],
+      "text": "Kesterson, James, 7, 201 2d sw.",
+      "confidence": 0.9784
+    },
+    {
+      "bbox": [
+        427,
+        1724,
+        1224,
+        1766
+      ],
+      "text": "Knorl, Taylor, 1, 129 Garfield ave. sw.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        431,
+        1766,
+        1281,
+        1796
+      ],
+      "text": "Lancaster, Herbert, 7-11-2, S, 2023 E nw.",
+      "confidence": 0.9733
+    },
+    {
+      "bbox": [
+        429,
+        1799,
+        1154,
+        1831
+      ],
+      "text": "Landrick, Wm. H., 3, 1019 4th nw.",
+      "confidence": 0.9859
+    },
+    {
+      "bbox": [
+        429,
+        1835,
+        970,
+        1864
+      ],
+      "text": "Lane, C. E., 14, 409 A ne.",
+      "confidence": 0.9852
+    },
+    {
+      "bbox": [
+        425,
+        1868,
+        1156,
+        1900
+      ],
+      "text": "Lane, Chas. S., 6-1-3, S, 1805 T nw.",
+      "confidence": 0.978
+    },
+    {
+      "bbox": [
+        426,
+        1902,
+        1085,
+        1936
+      ],
+      "text": "Lassiter, Henry, 7, 1215 17th nw.",
+      "confidence": 0.9805
+    },
+    {
+      "bbox": [
+        423,
+        1937,
+        1219,
+        1970
+      ],
+      "text": "Laws, W. Richd., 8, C, 311 Pa. ave. nw.",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        424,
+        1971,
+        1254,
+        2005
+      ],
+      "text": "Lawson, Jos. N., 4-11-2, G. 1311 27th nw.",
+      "confidence": 0.9844
+    },
+    {
+      "bbox": [
+        424,
+        2004,
+        1319,
+        2043
+      ],
+      "text": "Layton, John T., 5-7-4, B-R-S, 1722 10th nw.",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        421,
+        2039,
+        1069,
+        2072
+      ],
+      "text": "Lee, Ferd. D., 5, 1704 10th nw.",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        425,
+        2076,
+        1089,
+        2108
+      ],
+      "text": "Lee, Geo. H., 10, G, 1213 T nw.",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        423,
+        2108,
+        1065,
+        2143
+      ],
+      "text": "Lee, John, 3, 1300 Fla. ave. ne.",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        423,
+        2143,
+        1311,
+        2183
+      ],
+      "text": "Lee, John H., 7-2-1, 32d A-N, 1208 16th nw.",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        423,
+        2179,
+        1212,
+        2215
+      ],
+      "text": "Lee, Jos. W., 6, G, Winthrop Heights.",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        420,
+        2214,
+        1043,
+        2246
+      ],
+      "text": "Lee, Wm. H., 8-7-4, 1740 V nw.",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        423,
+        2250,
+        1153,
+        2280
+      ],
+      "text": "Letcher, E. B., 1, 2120 Fla. ave. nw.",
+      "confidence": 0.9628
+    },
+    {
+      "bbox": [
+        423,
+        2282,
+        1234,
+        2317
+      ],
+      "text": "Levy, James H., 1-1-3, 32d O, 461 E sw.",
+      "confidence": 0.9813
+    },
+    {
+      "bbox": [
+        422,
+        2310,
+        1093,
+        2357
+      ],
+      "text": "Lewis, Rev. E. T., 15, 80 M nw.",
+      "confidence": 0.9788
+    },
+    {
+      "bbox": [
+        425,
+        2351,
+        1239,
+        2385
+      ],
+      "text": "Lewis, Henry J., 5, Room 29 Sun Bldg.",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        424,
+        2380,
+        1173,
+        2426
+      ],
+      "text": "Lewis, John, 3-5-1, G, 428 61/2 st. sw.",
+      "confidence": 0.9735
+    },
+    {
+      "bbox": [
+        420,
+        2418,
+        1031,
+        2454
+      ],
+      "text": "Lewis, Lather, 7, 2100 19 nw.",
+      "confidence": 0.9803
+    },
+    {
+      "bbox": [
+        422,
+        2455,
+        1088,
+        2488
+      ],
+      "text": "Lewis, Moses, 10-5, 526 20th nw.",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        420,
+        2491,
+        1008,
+        2523
+      ],
+      "text": "Lewis, W. A., 15, 469 E sw.",
+      "confidence": 0.9761
+    },
+    {
+      "bbox": [
+        423,
+        2524,
+        1153,
+        2559
+      ],
+      "text": "Liverpool, Jos., 5-1-1, S, 507 2d sw.",
+      "confidence": 0.9781
+    },
+    {
+      "bbox": [
+        418,
+        2555,
+        1293,
+        2597
+      ],
+      "text": "Livingston, H. L., 14-7-2, R-S. 1210 25th nw.",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        420,
+        2591,
+        1034,
+        2628
+      ],
+      "text": "Lockett. Scott, 15, 1612 M nw.",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        419,
+        2629,
+        1005,
+        2661
+      ],
+      "text": "Logan, Robt., 4, 2125 K nw.",
+      "confidence": 0.979
+    },
+    {
+      "bbox": [
+        859,
+        2699,
+        912,
+        2732
+      ],
+      "text": "87",
+      "confidence": 0.9581
+    }
+  ]
+}

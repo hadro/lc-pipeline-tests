@@ -1,0 +1,88 @@
+{
+  "image": "0049_service:rbc:lcrbmrp:t8072:049.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:049",
+  "canvas_width": 1881,
+  "canvas_height": 3003,
+  "surya_median_confidence": 0.9978,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        377,
+        946,
+        1487,
+        1061
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:049#xywh=377,946,1110,115",
+      "confidence": "line",
+      "gemini_text": "DAVID L. STEWART,",
+      "surya_confidence": 0.9976
+    },
+    {
+      "bbox": [
+        324,
+        1159,
+        890,
+        1214
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:049#xywh=324,1159,566,55",
+      "confidence": "line",
+      "gemini_text": "1601 12th St. N. W. Phone 3057 Main",
+      "surya_confidence": 0.9974
+    },
+    {
+      "bbox": [
+        497,
+        1305,
+        1371,
+        1402
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:049#xywh=497,1305,874,97",
+      "confidence": "line",
+      "gemini_text": "Funeral Director.",
+      "surya_confidence": 0.9462
+    },
+    {
+      "bbox": [
+        326,
+        1614,
+        1546,
+        1697
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:049#xywh=326,1614,1220,83",
+      "confidence": "line",
+      "gemini_text": "Prompt and Polite Service. Everything up to date",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        710,
+        1748,
+        1174,
+        1806
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:049#xywh=710,1748,464,58",
+      "confidence": "line",
+      "gemini_text": "and First Quality.",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        774,
+        2365,
+        1105,
+        2418
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:049#xywh=774,2365,331,53",
+      "confidence": "line",
+      "gemini_text": "polite drivers.",
+      "surya_confidence": 0.9979
+    }
+  ],
+  "unmatched_gemini": [
+    "RATES REASONABLE.",
+    "New first-class carriages of all kinds for hire, with",
+    "\"WE STUDY TO PLEASE.\""
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "image": "0047_service:mss:mss11879:mss11879-42:42001:0047.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047",
+  "canvas_width": 1383,
+  "canvas_height": 1125,
+  "surya_median_confidence": 0.9989,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        227,
+        85,
+        548,
+        110
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=227,85,321,25",
+      "confidence": "line",
+      "gemini_text": "CAPITAL SAVINGS BANK.",
+      "surya_confidence": 0.9871
+    },
+    {
+      "bbox": [
+        132,
+        140,
+        642,
+        171
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=132,140,510,31",
+      "confidence": "line",
+      "gemini_text": "$6,000, though less than 1/6 of that",
+      "surya_confidence": 0.9955
+    },
+    {
+      "bbox": [
+        132,
+        167,
+        639,
+        199
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=132,167,507,32",
+      "confidence": "line",
+      "gemini_text": "amount had been paid in in actual cash.",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        132,
+        196,
+        642,
+        226
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=132,196,510,30",
+      "confidence": "line",
+      "gemini_text": "And after having paid some expenses in-",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        131,
+        224,
+        639,
+        254
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=131,224,508,30",
+      "confidence": "line",
+      "gemini_text": "cident to getting into shape for business,",
+      "surya_confidence": 0.9783
+    },
+    {
+      "bbox": [
+        131,
+        251,
+        641,
+        282
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=131,251,510,31",
+      "confidence": "line",
+      "gemini_text": "we started out with less than $500 in cash",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        131,
+        280,
+        638,
+        311
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=131,280,507,31",
+      "confidence": "line",
+      "gemini_text": "in the drawer with which to do a 'gener-",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        131,
+        307,
+        637,
+        338
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=131,307,506,31",
+      "confidence": "line",
+      "gemini_text": "al banking business.' Within 2 1/2",
+      "surya_confidence": 0.9931
+    },
+    {
+      "bbox": [
+        131,
+        336,
+        637,
+        365
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=131,336,506,29",
+      "confidence": "line",
+      "gemini_text": "months after we started, the deposits had",
+      "surya_confidence": 0.9974
+    },
+    {
+      "bbox": [
+        131,
+        364,
+        638,
+        394
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=131,364,507,30",
+      "confidence": "line",
+      "gemini_text": "run up to $13,933. During the next year,",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        132,
+        392,
+        638,
+        421
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=132,392,506,29",
+      "confidence": "line",
+      "gemini_text": "1889, our deposits aggregated $117,136;",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        130,
+        419,
+        637,
+        449
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=130,419,507,30",
+      "confidence": "line",
+      "gemini_text": "in 1890, they amounted to $210,449; in",
+      "surya_confidence": 0.9898
+    },
+    {
+      "bbox": [
+        131,
+        447,
+        637,
+        476
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=131,447,506,29",
+      "confidence": "line",
+      "gemini_text": "1891, $247,224; and for the ten months of",
+      "surya_confidence": 0.9909
+    },
+    {
+      "bbox": [
+        131,
+        474,
+        637,
+        506
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=131,474,506,32",
+      "confidence": "line",
+      "gemini_text": "the present year the deposits reached the",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        127,
+        506,
+        638,
+        531
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=127,506,511,25",
+      "confidence": "line",
+      "gemini_text": "aggregate sum of $306,855--more than",
+      "surya_confidence": 0.9981
+    },
+    {
+      "bbox": [
+        128,
+        530,
+        637,
+        561
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=128,530,509,31",
+      "confidence": "line",
+      "gemini_text": "$30,000 a month, and a total of deposits,",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        127,
+        556,
+        637,
+        591
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=127,556,510,35",
+      "confidence": "line",
+      "gemini_text": "up to the close of the present year, of",
+      "surya_confidence": 0.9984
+    },
+    {
+      "bbox": [
+        127,
+        589,
+        637,
+        615
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=127,589,510,26",
+      "confidence": "line",
+      "gemini_text": "more than $950,000. This magnificent",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        126,
+        614,
+        636,
+        644
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=126,614,510,30",
+      "confidence": "line",
+      "gemini_text": "sum represents in some degree the meas-",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        126,
+        642,
+        635,
+        670
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=126,642,509,28",
+      "confidence": "line",
+      "gemini_text": "ure of confidence which the business pub-",
+      "surya_confidence": 0.9798
+    },
+    {
+      "bbox": [
+        126,
+        672,
+        635,
+        697
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=126,672,509,25",
+      "confidence": "line",
+      "gemini_text": "lic has given us. The net results of our",
+      "surya_confidence": 0.8657
+    },
+    {
+      "bbox": [
+        126,
+        697,
+        633,
+        728
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=126,697,507,31",
+      "confidence": "line",
+      "gemini_text": "business transactions have been equally",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        126,
+        726,
+        632,
+        755
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=126,726,506,29",
+      "confidence": "line",
+      "gemini_text": "satisfactory and gratifying. With no ex-",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        127,
+        753,
+        631,
+        784
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=127,753,504,31",
+      "confidence": "line",
+      "gemini_text": "perience to guide us in the beginning,",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        126,
+        781,
+        632,
+        811
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=126,781,506,30",
+      "confidence": "line",
+      "gemini_text": "and having often to combat the antago-",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        126,
+        809,
+        631,
+        840
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=126,809,505,31",
+      "confidence": "line",
+      "gemini_text": "nisms and meet the prejudices of un-",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        126,
+        836,
+        632,
+        867
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=126,836,506,31",
+      "confidence": "line",
+      "gemini_text": "friendly rivals in the same line of busi-",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        125,
+        865,
+        631,
+        893
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=125,865,506,28",
+      "confidence": "line",
+      "gemini_text": "ness, it is not to be wondered at that we",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        126,
+        892,
+        630,
+        921
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=126,892,504,29",
+      "confidence": "line",
+      "gemini_text": "made some mistakes and sustained some",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        125,
+        921,
+        629,
+        951
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=125,921,504,30",
+      "confidence": "line",
+      "gemini_text": "losses, but these have been comparative-",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        125,
+        951,
+        212,
+        973
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=125,951,87,22",
+      "confidence": "line",
+      "gemini_text": "ly few.",
+      "surya_confidence": 0.9953
+    },
+    {
+      "bbox": [
+        857,
+        113,
+        1181,
+        140
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=857,113,324,27",
+      "confidence": "line",
+      "gemini_text": "CAPITAL SAVINGS BANK.",
+      "surya_confidence": 0.9859
+    },
+    {
+      "bbox": [
+        794,
+        167,
+        1276,
+        201
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=794,167,482,34",
+      "confidence": "line",
+      "gemini_text": "\"Our business has been conducted, as",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        766,
+        199,
+        1276,
+        225
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=766,199,510,26",
+      "confidence": "line",
+      "gemini_text": "nearly as we knew how, along the line of",
+      "surya_confidence": 0.9984
+    },
+    {
+      "bbox": [
+        767,
+        227,
+        1273,
+        253
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=767,227,506,26",
+      "confidence": "line",
+      "gemini_text": "a general banking business, receiving de-",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        762,
+        253,
+        1273,
+        282
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=762,253,511,29",
+      "confidence": "line",
+      "gemini_text": "posits, both as 'call' deposits and 'time'",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        763,
+        281,
+        1273,
+        310
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=763,281,510,29",
+      "confidence": "line",
+      "gemini_text": "deposits; making loans both on real es-",
+      "surya_confidence": 0.997
+    },
+    {
+      "bbox": [
+        765,
+        308,
+        1273,
+        337
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=765,308,508,29",
+      "confidence": "line",
+      "gemini_text": "tate and collateral securities, and on en-",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        763,
+        337,
+        1273,
+        365
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=763,337,510,28",
+      "confidence": "line",
+      "gemini_text": "dorsed notes where the endorsements ap-",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        763,
+        365,
+        1273,
+        393
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=763,365,510,28",
+      "confidence": "line",
+      "gemini_text": "peared safe and satisfactory. In this",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        763,
+        392,
+        1272,
+        422
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=763,392,509,30",
+      "confidence": "line",
+      "gemini_text": "way, counting our deposits, checks, loans",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        763,
+        420,
+        1272,
+        450
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=763,420,509,30",
+      "confidence": "line",
+      "gemini_text": "made and bills receivable paid, the total",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        763,
+        447,
+        1272,
+        478
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=763,447,509,31",
+      "confidence": "line",
+      "gemini_text": "bulk of our business transactions since",
+      "surya_confidence": 0.9775
+    },
+    {
+      "bbox": [
+        762,
+        475,
+        1271,
+        506
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=762,475,509,31",
+      "confidence": "line",
+      "gemini_text": "our organization, nearly four years ago,",
+      "surya_confidence": 0.9975
+    },
+    {
+      "bbox": [
+        762,
+        503,
+        1271,
+        533
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=762,503,509,30",
+      "confidence": "line",
+      "gemini_text": "has amounted to nearly two millions of",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        762,
+        533,
+        858,
+        552
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=762,533,96,19",
+      "confidence": "line",
+      "gemini_text": "dollars.",
+      "surya_confidence": 0.9922
+    },
+    {
+      "bbox": [
+        790,
+        559,
+        1270,
+        590
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=790,559,480,31",
+      "confidence": "line",
+      "gemini_text": "\"This statement may perhaps startle",
+      "surya_confidence": 0.9939
+    },
+    {
+      "bbox": [
+        761,
+        587,
+        1269,
+        617
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=761,587,508,30",
+      "confidence": "line",
+      "gemini_text": "some as it startled us, but our books will",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        761,
+        616,
+        1270,
+        644
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=761,616,509,28",
+      "confidence": "line",
+      "gemini_text": "show that we have handled just that",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        760,
+        643,
+        1270,
+        670
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=760,643,510,27",
+      "confidence": "line",
+      "gemini_text": "amount of business over our counter in",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        759,
+        671,
+        1270,
+        700
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=759,671,511,29",
+      "confidence": "line",
+      "gemini_text": "receiving and paying out money. Our",
+      "surya_confidence": 0.9981
+    },
+    {
+      "bbox": [
+        759,
+        699,
+        1269,
+        728
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=759,699,510,29",
+      "confidence": "line",
+      "gemini_text": "capital stock in the meantime has grown",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        759,
+        726,
+        1269,
+        757
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=759,726,510,31",
+      "confidence": "line",
+      "gemini_text": "from $6,000 to $50,000, and the amount",
+      "surya_confidence": 0.9946
+    },
+    {
+      "bbox": [
+        759,
+        755,
+        1269,
+        784
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=759,755,510,29",
+      "confidence": "line",
+      "gemini_text": "actually paid in has grown from $1,000",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        758,
+        784,
+        895,
+        808
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=758,784,137,24",
+      "confidence": "line",
+      "gemini_text": "to $33,000.",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        786,
+        810,
+        1269,
+        840
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=786,810,483,30",
+      "confidence": "line",
+      "gemini_text": "\"We are proud to number among our",
+      "surya_confidence": 0.9929
+    },
+    {
+      "bbox": [
+        758,
+        838,
+        1269,
+        868
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=758,838,511,30",
+      "confidence": "line",
+      "gemini_text": "stockholders and depositors many of our",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        758,
+        866,
+        1267,
+        895
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=758,866,509,29",
+      "confidence": "line",
+      "gemini_text": "foremost business men and women, who",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        758,
+        894,
+        1267,
+        923
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=758,894,509,29",
+      "confidence": "line",
+      "gemini_text": "seem willing to lend the aid of their means",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        758,
+        921,
+        1266,
+        952
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=758,921,508,31",
+      "confidence": "line",
+      "gemini_text": "and reputation in this effort to establish",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        758,
+        949,
+        1265,
+        979
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=758,949,507,30",
+      "confidence": "line",
+      "gemini_text": "and maintain here at the National Capi-",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        758,
+        977,
+        1264,
+        1005
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0047#xywh=758,977,506,28",
+      "confidence": "line",
+      "gemini_text": "tal a business institution that shall re-",
+      "surya_confidence": 0.9995
+    }
+  ],
+  "unmatched_gemini": []
+}

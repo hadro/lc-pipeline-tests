@@ -1,0 +1,802 @@
+{
+  "image": "0098_service:rbc:lcrbmrp:t8072:098.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098",
+  "canvas_width": 1795,
+  "canvas_height": 2999,
+  "surya_median_confidence": 0.9929,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        553,
+        369,
+        1183,
+        404
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=553,369,630,35",
+      "confidence": "line",
+      "gemini_text": "DIRECTORY-Continued.",
+      "surya_confidence": 0.9289
+    },
+    {
+      "bbox": [
+        404,
+        444,
+        1117,
+        485
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=404,444,713,41",
+      "confidence": "line",
+      "gemini_text": "Lomax, J. N., 7-7-4, D, 2106 L nw.",
+      "surya_confidence": 0.9913
+    },
+    {
+      "bbox": [
+        405,
+        481,
+        1144,
+        519
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=405,481,739,38",
+      "confidence": "line",
+      "gemini_text": "Love, Silas L., 15, Brightwood Park.",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        405,
+        517,
+        1036,
+        552
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=405,517,631,35",
+      "confidence": "line",
+      "gemini_text": "Loving, W. H., 5, 1015 4th nw.",
+      "surya_confidence": 0.9963
+    },
+    {
+      "bbox": [
+        407,
+        547,
+        1262,
+        589
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=407,547,855,42",
+      "confidence": "line",
+      "gemini_text": "Lowery, Mason S., 7-2-3, F, 1002 18th nw.",
+      "surya_confidence": 0.9873
+    },
+    {
+      "bbox": [
+        406,
+        585,
+        1101,
+        622
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=406,585,695,37",
+      "confidence": "line",
+      "gemini_text": "Lucas, Chas. F., 15, 1102 21st nw.",
+      "surya_confidence": 0.9888
+    },
+    {
+      "bbox": [
+        406,
+        622,
+        1008,
+        657
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=406,622,602,35",
+      "confidence": "line",
+      "gemini_text": "Lucas, Wm. E., 14, 461 E sw.",
+      "surya_confidence": 0.9848
+    },
+    {
+      "bbox": [
+        406,
+        654,
+        1222,
+        691
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=406,654,816,37",
+      "confidence": "line",
+      "gemini_text": "Lynch, John R., 14, Paymaster U. S. A.",
+      "surya_confidence": 0.9942
+    },
+    {
+      "bbox": [
+        404,
+        688,
+        1047,
+        729
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=404,688,643,41",
+      "confidence": "line",
+      "gemini_text": "Lynn, Thomas, 7, 1826 20th nw.",
+      "surya_confidence": 0.9794
+    },
+    {
+      "bbox": [
+        405,
+        728,
+        1072,
+        758
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=405,728,667,30",
+      "confidence": "line",
+      "gemini_text": "Madden, Willis A., 9, City P. O.",
+      "surya_confidence": 0.9916
+    },
+    {
+      "bbox": [
+        403,
+        757,
+        1243,
+        798
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=403,757,840,41",
+      "confidence": "line",
+      "gemini_text": "Mallory, Thomas, 1, 1635 Conn. ave. nw.",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        400,
+        791,
+        1339,
+        830
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=400,791,939,39",
+      "confidence": "line",
+      "gemini_text": "Malvin, W. H. Judd., 1-7-4, 33d A-R-S, 1018 R",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        406,
+        829,
+        1132,
+        865
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=406,829,726,36",
+      "confidence": "line",
+      "gemini_text": "Manns, James, 7, New York, N. Y.",
+      "surya_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        406,
+        865,
+        1026,
+        899
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=406,865,620,34",
+      "confidence": "line",
+      "gemini_text": "Mansfield, John, 4, 3218 M nw.",
+      "surya_confidence": 0.9951
+    },
+    {
+      "bbox": [
+        406,
+        895,
+        1219,
+        937
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=406,895,813,42",
+      "confidence": "line",
+      "gemini_text": "Mansfield, Robt. N., 8, Lancaster, Ohio.",
+      "surya_confidence": 0.9958
+    },
+    {
+      "bbox": [
+        406,
+        934,
+        1078,
+        970
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=406,934,672,36",
+      "confidence": "line",
+      "gemini_text": "Marshall, Alex., 5, 1018 15th nw.",
+      "surya_confidence": 0.9944
+    },
+    {
+      "bbox": [
+        406,
+        967,
+        1028,
+        1006
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=406,967,622,39",
+      "confidence": "line",
+      "gemini_text": "Marshall, Benj., 15, 119 5th se.",
+      "surya_confidence": 0.9971
+    },
+    {
+      "bbox": [
+        404,
+        999,
+        1040,
+        1043
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=404,999,636,44",
+      "confidence": "line",
+      "gemini_text": "Marshall, Ches., 3, 246 14th se.",
+      "surya_confidence": 0.9978
+    },
+    {
+      "bbox": [
+        403,
+        1032,
+        1124,
+        1111
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=403,1032,721,79",
+      "confidence": "line",
+      "gemini_text": "Marshall, Wm. H., 1, 1549 4th nw.",
+      "surya_confidence": 0.9699
+    },
+    {
+      "bbox": [
+        406,
+        1105,
+        1267,
+        1146
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=406,1105,861,41",
+      "confidence": "line",
+      "gemini_text": "Martin, Jesse B., 10, G, 641 S. C. ave. se.",
+      "surya_confidence": 0.9886
+    },
+    {
+      "bbox": [
+        406,
+        1138,
+        1162,
+        1182
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=406,1138,756,44",
+      "confidence": "line",
+      "gemini_text": "Martin, Samuel, 7-11-2, 1340 28th nw.",
+      "surya_confidence": 0.9917
+    },
+    {
+      "bbox": [
+        409,
+        1176,
+        1053,
+        1215
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=409,1176,644,39",
+      "confidence": "line",
+      "gemini_text": "Martin, W. C., 15, 503½ D nw.",
+      "surya_confidence": 0.9864
+    },
+    {
+      "bbox": [
+        403,
+        1209,
+        1084,
+        1251
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=403,1209,681,42",
+      "confidence": "line",
+      "gemini_text": "Mason, A. J., 1-1-3, Pittsburg, Pa.",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        407,
+        1241,
+        1162,
+        1290
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=407,1241,755,49",
+      "confidence": "line",
+      "gemini_text": "Mayne, Jos. N., 1, 323 S. C. ave. se.",
+      "surya_confidence": 0.9926
+    },
+    {
+      "bbox": [
+        404,
+        1278,
+        1243,
+        1320
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=404,1278,839,42",
+      "confidence": "line",
+      "gemini_text": "Mays, J. Wm., 5, 33d A-S, 1822 11th nw.",
+      "surya_confidence": 0.9951
+    },
+    {
+      "bbox": [
+        404,
+        1316,
+        1017,
+        1354
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=404,1316,613,38",
+      "confidence": "line",
+      "gemini_text": "McCary, D. B., 14, 448 Q nw.",
+      "surya_confidence": 0.9908
+    },
+    {
+      "bbox": [
+        406,
+        1350,
+        1098,
+        1389
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=406,1350,692,39",
+      "confidence": "line",
+      "gemini_text": "McCary, M. M., 14, Omaha, Nebr.",
+      "surya_confidence": 0.9949
+    },
+    {
+      "bbox": [
+        406,
+        1382,
+        1144,
+        1424
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=406,1382,738,42",
+      "confidence": "line",
+      "gemini_text": "McCary, W. W., 14, 1812½ 11th nw.",
+      "surya_confidence": 0.9873
+    },
+    {
+      "bbox": [
+        405,
+        1421,
+        1202,
+        1456
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=405,1421,797,35",
+      "confidence": "line",
+      "gemini_text": "McDowell, D. H., 12, 2030 Vt. ave. nw.",
+      "surya_confidence": 0.9859
+    },
+    {
+      "bbox": [
+        381,
+        1451,
+        1243,
+        1497
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=381,1451,862,46",
+      "confidence": "line",
+      "gemini_text": "McDuffie, J. A., 14, G, 1512 Madison nw.",
+      "surya_confidence": 0.9769
+    },
+    {
+      "bbox": [
+        406,
+        1487,
+        1164,
+        1528
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=406,1487,758,41",
+      "confidence": "line",
+      "gemini_text": "McKenny, Chas. M., 7, 1540 5th nw.",
+      "surya_confidence": 0.9946
+    },
+    {
+      "bbox": [
+        406,
+        1523,
+        1134,
+        1561
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=406,1523,728,38",
+      "confidence": "line",
+      "gemini_text": "McKinley, Whit., 14, 1918 11th nw.",
+      "surya_confidence": 0.962
+    },
+    {
+      "bbox": [
+        406,
+        1558,
+        1203,
+        1596
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=406,1558,797,38",
+      "confidence": "line",
+      "gemini_text": "McNair, Augustus, 15-5-1, S, 802 3d se.",
+      "surya_confidence": 0.9851
+    },
+    {
+      "bbox": [
+        404,
+        1587,
+        1303,
+        1635
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=404,1587,899,48",
+      "confidence": "line",
+      "gemini_text": "McNeill, Owen E., 3-11-2, 831 Del. ave. sw.",
+      "surya_confidence": 0.991
+    },
+    {
+      "bbox": [
+        407,
+        1628,
+        1084,
+        1666
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=407,1628,677,38",
+      "confidence": "line",
+      "gemini_text": "Mercer, Wm. T., 9-5-1, 218 H sw.",
+      "surya_confidence": 0.9945
+    },
+    {
+      "bbox": [
+        409,
+        1660,
+        1064,
+        1706
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=409,1660,655,46",
+      "confidence": "line",
+      "gemini_text": "Middleton, Henry, 5, 338 C sw.",
+      "surya_confidence": 0.992
+    },
+    {
+      "bbox": [
+        409,
+        1698,
+        1074,
+        1738
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=409,1698,665,40",
+      "confidence": "line",
+      "gemini_text": "Milford, Geo. W., 9, City P. O.",
+      "surya_confidence": 0.9947
+    },
+    {
+      "bbox": [
+        409,
+        1731,
+        1135,
+        1773
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=409,1731,726,42",
+      "confidence": "line",
+      "gemini_text": "Miller, J. A., 14, Indianapolis, Ind.",
+      "surya_confidence": 0.9946
+    },
+    {
+      "bbox": [
+        407,
+        1767,
+        1083,
+        1807
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=407,1767,676,40",
+      "confidence": "line",
+      "gemini_text": "Miller, Jas. A., 5-1-1, 1829 L nw.",
+      "surya_confidence": 0.9926
+    },
+    {
+      "bbox": [
+        408,
+        1796,
+        1098,
+        1846
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=408,1796,690,50",
+      "confidence": "line",
+      "gemini_text": "Mills, Chas. D., 1, 1638 11th nw.",
+      "surya_confidence": 0.9957
+    },
+    {
+      "bbox": [
+        407,
+        1830,
+        1204,
+        1879
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=407,1830,797,49",
+      "confidence": "line",
+      "gemini_text": "Minor, E. P., 1-1-3, S, 43 Hanover nw.",
+      "surya_confidence": 0.9885
+    },
+    {
+      "bbox": [
+        409,
+        1872,
+        1002,
+        1912
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=409,1872,593,40",
+      "confidence": "line",
+      "gemini_text": "Minor, John O., 7, 419 L nw.",
+      "surya_confidence": 0.9895
+    },
+    {
+      "bbox": [
+        409,
+        1904,
+        1079,
+        1948
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=409,1904,670,44",
+      "confidence": "line",
+      "gemini_text": "Minor, Thos. N., 15, 704 9th sw.",
+      "surya_confidence": 0.989
+    },
+    {
+      "bbox": [
+        407,
+        1938,
+        1203,
+        1982
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=407,1938,796,44",
+      "confidence": "line",
+      "gemini_text": "Mitchell, G. T., 9, Bureau of E. and P.",
+      "surya_confidence": 0.9976
+    },
+    {
+      "bbox": [
+        406,
+        1973,
+        1200,
+        2017
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=406,1973,794,44",
+      "confidence": "line",
+      "gemini_text": "Mitchell, John H., 10-7-4, G, 318 G se.",
+      "surya_confidence": 0.9901
+    },
+    {
+      "bbox": [
+        403,
+        2002,
+        1303,
+        2053
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=403,2002,900,51",
+      "confidence": "line",
+      "gemini_text": "Mitchell, M. V. B., 12, Winthrop Heights ne.",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        407,
+        2039,
+        1343,
+        2085
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=407,2039,936,46",
+      "confidence": "line",
+      "gemini_text": "Mitchell, Rev. O. L., 5-11, St. Mary's Parish,",
+      "surya_confidence": 0.9975
+    },
+    {
+      "bbox": [
+        409,
+        2077,
+        1103,
+        2119
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=409,2077,694,42",
+      "confidence": "line",
+      "gemini_text": "Molens, Erastus, 9-5-3, 407 O nw.",
+      "surya_confidence": 0.995
+    },
+    {
+      "bbox": [
+        407,
+        2112,
+        1182,
+        2152
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=407,2112,775,40",
+      "confidence": "line",
+      "gemini_text": "Monroe, James T., 1-1-1, 1145 1st nw.",
+      "surya_confidence": 0.9907
+    },
+    {
+      "bbox": [
+        403,
+        2142,
+        1303,
+        2189
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=403,2142,900,47",
+      "confidence": "line",
+      "gemini_text": "Monroe, Lloyd, 1-7-4, 32d, 716 Farragut nw.",
+      "surya_confidence": 0.9962
+    },
+    {
+      "bbox": [
+        407,
+        2177,
+        1266,
+        2226
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=407,2177,859,49",
+      "confidence": "line",
+      "gemini_text": "Montgomery, W. S., 5, 32d 1912 11th nw.",
+      "surya_confidence": 0.9977
+    },
+    {
+      "bbox": [
+        403,
+        2213,
+        1038,
+        2259
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=403,2213,635,46",
+      "confidence": "line",
+      "gemini_text": "Moore, Zeph P., 1, 1206 R nw.",
+      "surya_confidence": 0.984
+    },
+    {
+      "bbox": [
+        409,
+        2252,
+        1048,
+        2294
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=409,2252,639,42",
+      "confidence": "line",
+      "gemini_text": "Morris, Peter D., 7, 1803 L nw.",
+      "surya_confidence": 0.9932
+    },
+    {
+      "bbox": [
+        409,
+        2288,
+        1029,
+        2325
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=409,2288,620,37",
+      "confidence": "line",
+      "gemini_text": "Morrison, B. F., 5, 1303 P nw.",
+      "surya_confidence": 0.9908
+    },
+    {
+      "bbox": [
+        409,
+        2321,
+        1004,
+        2365
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=409,2321,595,44",
+      "confidence": "line",
+      "gemini_text": "Morrison, John, 1, 334 C sw.",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        410,
+        2349,
+        1307,
+        2398
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=410,2349,897,49",
+      "confidence": "line",
+      "gemini_text": "Moten, Sylvester, 7-5, 1239 Trinidad ave. ne.",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        410,
+        2381,
+        1158,
+        2433
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=410,2381,748,52",
+      "confidence": "line",
+      "gemini_text": "Moten, Parker, 8-11-2, 1628 11th nw.",
+      "surya_confidence": 0.9965
+    },
+    {
+      "bbox": [
+        403,
+        2418,
+        1207,
+        2499
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=403,2418,804,81",
+      "confidence": "line",
+      "gemini_text": "Mozee, Richard, 1-7, 1428 Fla. ave. nw.",
+      "surya_confidence": 0.9781
+    },
+    {
+      "bbox": [
+        407,
+        2481,
+        1126,
+        2544
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=407,2481,719,63",
+      "confidence": "line",
+      "gemini_text": "Murray, Emanuel, 7, 1800 14th nw.",
+      "surya_confidence": 0.9962
+    },
+    {
+      "bbox": [
+        403,
+        2511,
+        1078,
+        2583
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=403,2511,675,72",
+      "confidence": "line",
+      "gemini_text": "Murray, Harrison, 3, 1215 D se.",
+      "surya_confidence": 0.9949
+    },
+    {
+      "bbox": [
+        407,
+        2559,
+        987,
+        2601
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=407,2559,580,42",
+      "confidence": "line",
+      "gemini_text": "Murray, H. C., 5, 628 O nw.",
+      "surya_confidence": 0.9941
+    },
+    {
+      "bbox": [
+        407,
+        2594,
+        1002,
+        2634
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=407,2594,595,40",
+      "confidence": "line",
+      "gemini_text": "Myers, Hyter, 15, 1416 I nw.",
+      "surya_confidence": 0.9796
+    },
+    {
+      "bbox": [
+        407,
+        2622,
+        1324,
+        2671
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=407,2622,917,49",
+      "confidence": "line",
+      "gemini_text": "Myers, Wm. H., 6-1-1, 33d A-H-N, 308 3d sw.",
+      "surya_confidence": 0.995
+    },
+    {
+      "bbox": [
+        869,
+        2701,
+        925,
+        2733
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=869,2701,56,32",
+      "confidence": "line",
+      "gemini_text": "89",
+      "surya_confidence": 0.9685
+    },
+    {
+      "bbox": [
+        381,
+        1036,
+        1046,
+        1077
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=381,1036,665,41",
+      "confidence": "manual",
+      "gemini_text": "Marshall, W. H., 3, 816 3d se."
+    },
+    {
+      "bbox": [
+        397,
+        2429,
+        1034,
+        2461
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:098#xywh=397,2429,637,32",
+      "confidence": "manual",
+      "gemini_text": "Moton, V. S., 7, 2247 12th nw."
+    }
+  ],
+  "unmatched_gemini": []
+}

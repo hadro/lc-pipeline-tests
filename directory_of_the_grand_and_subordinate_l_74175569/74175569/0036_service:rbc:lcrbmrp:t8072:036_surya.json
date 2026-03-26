@@ -1,0 +1,306 @@
+{
+  "image_width": 1827,
+  "image_height": 3008,
+  "lines": [
+    {
+      "bbox": [
+        460,
+        404,
+        1293,
+        456
+      ],
+      "text": "Mount Vernon Chapter, No. 1.",
+      "confidence": 0.973
+    },
+    {
+      "bbox": [
+        535,
+        505,
+        1221,
+        555
+      ],
+      "text": "Chas. H. Deans, High Priest.",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        1034,
+        571,
+        1557,
+        615
+      ],
+      "text": "Benj. F. Pope, Scribe.",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        204,
+        581,
+        784,
+        619
+      ],
+      "text": "Robert H. Beverly, King.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        336,
+        639,
+        1420,
+        688
+      ],
+      "text": "Primus H. Simmons, Sec'y, 1020 20th St. N. W.",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        648,
+        713,
+        1112,
+        750
+      ],
+      "text": "Meets First Friday.",
+      "confidence": 0.9815
+    },
+    {
+      "bbox": [
+        584,
+        900,
+        1186,
+        946
+      ],
+      "text": "Union Chapter, No. 2.",
+      "confidence": 0.9463
+    },
+    {
+      "bbox": [
+        515,
+        1001,
+        1247,
+        1043
+      ],
+      "text": "Chas. D. Freeman, High Priest.",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        1091,
+        1060,
+        1562,
+        1107
+      ],
+      "text": "A. W. Scott, Scribe.",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        207,
+        1073,
+        695,
+        1112
+      ],
+      "text": "Wm. A. Clark, King.",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        361,
+        1132,
+        1422,
+        1183
+      ],
+      "text": "A. W. Scott, Acting Sec'y, 1626 11th St. N. W.",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        588,
+        1204,
+        1183,
+        1245
+      ],
+      "text": "Meets Third Wednesday.",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        508,
+        1392,
+        1268,
+        1439
+      ],
+      "text": "Prince Hall Chapter, No. 5.",
+      "confidence": 0.9769
+    },
+    {
+      "bbox": [
+        537,
+        1497,
+        1240,
+        1535
+      ],
+      "text": "Paul R. Stewart, High Priest.",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        1054,
+        1557,
+        1567,
+        1601
+      ],
+      "text": "A. Slaughter, Scribe.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        213,
+        1566,
+        803,
+        1604
+      ],
+      "text": "John D. Howard, King.",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        415,
+        1627,
+        1363,
+        1675
+      ],
+      "text": "A. F. Hicks, Sec'y, 29 Defrees St. N. W.",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        611,
+        1697,
+        1165,
+        1738
+      ],
+      "text": "Meets First Wednesday.",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        532,
+        1877,
+        1248,
+        1919
+      ],
+      "text": "St. John's Chapter, No. 7.",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        564,
+        1976,
+        1224,
+        2017
+      ],
+      "text": "Wm. G. Smith, High Priest.",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        215,
+        2037,
+        1565,
+        2090
+      ],
+      "text": "Wm. H. Judd Malvin, King. Fred D. Henry, Scribe.",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        427,
+        2112,
+        1348,
+        2153
+      ],
+      "text": "Wm. H. Severson, Sec'y, 326 E St. S. W.",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        612,
+        2182,
+        1176,
+        2219
+      ],
+      "text": "Meets Second Thursday.",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        543,
+        2347,
+        1245,
+        2393
+      ],
+      "text": "Keystone Chapter, No. 11.",
+      "confidence": 0.9313
+    },
+    {
+      "bbox": [
+        578,
+        2438,
+        1204,
+        2480
+      ],
+      "text": "O. T. Taylor, High Priest.",
+      "confidence": 0.9843
+    },
+    {
+      "bbox": [
+        1073,
+        2503,
+        1562,
+        2540
+      ],
+      "text": "C. H. Parker, Scribe",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        217,
+        2508,
+        755,
+        2552
+      ],
+      "text": "J. W. Wilkinson, King.",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        410,
+        2570,
+        1384,
+        2617
+      ],
+      "text": "H. W. White, Sec'y, 600 Spruce St. N. W.",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        631,
+        2643,
+        1170,
+        2680
+      ],
+      "text": "Meets Fourth Tuesday.",
+      "confidence": 0.9893
+    },
+    {
+      "bbox": [
+        869,
+        2734,
+        915,
+        2766
+      ],
+      "text": "27",
+      "confidence": 0.9753
+    }
+  ]
+}

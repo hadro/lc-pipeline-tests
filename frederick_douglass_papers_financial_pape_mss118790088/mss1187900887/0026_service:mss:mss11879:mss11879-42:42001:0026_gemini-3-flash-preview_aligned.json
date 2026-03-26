@@ -1,0 +1,794 @@
+{
+  "image": "0026_service:mss:mss11879:mss11879-42:42001:0026.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026",
+  "canvas_width": 1503,
+  "canvas_height": 1291,
+  "surya_median_confidence": 0.9976,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        158,
+        123,
+        715,
+        152
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=158,123,557,29",
+      "confidence": "line",
+      "gemini_text": "right to this notice. Deposits made on or before the third",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        159,
+        161,
+        716,
+        183
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=159,161,557,22",
+      "confidence": "line",
+      "gemini_text": "day of any month shall draw interest from the first day",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        159,
+        193,
+        715,
+        217
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=159,193,556,24",
+      "confidence": "line",
+      "gemini_text": "of that month. All interest shall be credited to deposi-",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        158,
+        224,
+        716,
+        253
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=158,224,558,29",
+      "confidence": "line",
+      "gemini_text": "tors' accounts half yearly on or before the 20th days of",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        157,
+        259,
+        712,
+        286
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=157,259,555,27",
+      "confidence": "line",
+      "gemini_text": "January and July, and shall draw interest like the prin-",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        157,
+        294,
+        713,
+        318
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=157,294,556,24",
+      "confidence": "line",
+      "gemini_text": "cipal, from the first days of those months. When an ac-",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        157,
+        326,
+        714,
+        354
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=157,326,557,28",
+      "confidence": "line",
+      "gemini_text": "count is closed, interest will be computed and paid to the",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        157,
+        359,
+        712,
+        388
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=157,359,555,29",
+      "confidence": "line",
+      "gemini_text": "last day of the preceding month; inclusive, but no inter-",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        157,
+        393,
+        717,
+        422
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=157,393,560,29",
+      "confidence": "line",
+      "gemini_text": "est will be paid on fractional parts of a dollar, or for",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        159,
+        431,
+        537,
+        450
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=159,431,378,19",
+      "confidence": "line",
+      "gemini_text": "fractional parts of a calendar month.",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        177,
+        460,
+        712,
+        490
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=177,460,535,30",
+      "confidence": "line",
+      "gemini_text": "VI.—The Bank shall have the right at any time to close",
+      "surya_confidence": 0.997
+    },
+    {
+      "bbox": [
+        156,
+        495,
+        712,
+        523
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=156,495,556,28",
+      "confidence": "line",
+      "gemini_text": "an account with a depositor, or to refuse to receive the",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        157,
+        528,
+        534,
+        555
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=157,528,377,27",
+      "confidence": "line",
+      "gemini_text": "whole or any part of a deposit offered.",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        177,
+        561,
+        711,
+        590
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=177,561,534,29",
+      "confidence": "line",
+      "gemini_text": "VII.—All advertisements ordered by the Bank affect-",
+      "surya_confidence": 0.9974
+    },
+    {
+      "bbox": [
+        153,
+        593,
+        711,
+        624
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=153,593,558,31",
+      "confidence": "line",
+      "gemini_text": "ing depositors or deposits, must be published in two",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        152,
+        628,
+        712,
+        656
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=152,628,560,28",
+      "confidence": "line",
+      "gemini_text": "newspapers of the City, one of which shall be in the Ger-",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        153,
+        661,
+        711,
+        690
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=153,661,558,29",
+      "confidence": "line",
+      "gemini_text": "man language, and shall then constitute legal notice to",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        155,
+        699,
+        315,
+        718
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=155,699,160,19",
+      "confidence": "line",
+      "gemini_text": "every depositor.",
+      "surya_confidence": 0.9969
+    },
+    {
+      "bbox": [
+        175,
+        728,
+        711,
+        757
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=175,728,536,29",
+      "confidence": "line",
+      "gemini_text": "VIII.—Depositors who have made no deposits and re-",
+      "surya_confidence": 0.9966
+    },
+    {
+      "bbox": [
+        152,
+        762,
+        710,
+        790
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=152,762,558,28",
+      "confidence": "line",
+      "gemini_text": "ceived no payments for seven years, shall thereafter have",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        152,
+        797,
+        611,
+        823
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=152,797,459,26",
+      "confidence": "line",
+      "gemini_text": "no further claim for interest on their deposits.",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        173,
+        830,
+        710,
+        857
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=173,830,537,27",
+      "confidence": "line",
+      "gemini_text": "IX.—In case of the loss of a deposit-book, the deposi-",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        153,
+        863,
+        709,
+        891
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=153,863,556,28",
+      "confidence": "line",
+      "gemini_text": "tor shall give immediate notice thereof to the Bank,",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        153,
+        896,
+        710,
+        924
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=153,896,557,28",
+      "confidence": "line",
+      "gemini_text": "which may in its discretion issue a duplicate; but the",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        152,
+        931,
+        710,
+        958
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=152,931,558,27",
+      "confidence": "line",
+      "gemini_text": "deposit can be returned only on a valid receipt of the",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        152,
+        967,
+        708,
+        989
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=152,967,556,22",
+      "confidence": "line",
+      "gemini_text": "depositor, or of his legal representatives, duly proved to",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        152,
+        997,
+        709,
+        1024
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=152,997,557,27",
+      "confidence": "line",
+      "gemini_text": "be such; in proper cases adequate security may also",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        153,
+        1032,
+        292,
+        1054
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=153,1032,139,22",
+      "confidence": "line",
+      "gemini_text": "be demanded.",
+      "surya_confidence": 0.9977
+    },
+    {
+      "bbox": [
+        172,
+        1064,
+        707,
+        1091
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=172,1064,535,27",
+      "confidence": "line",
+      "gemini_text": "X—In case of the death of a depositor, the amount",
+      "surya_confidence": 0.96
+    },
+    {
+      "bbox": [
+        152,
+        1097,
+        709,
+        1125
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=152,1097,557,28",
+      "confidence": "line",
+      "gemini_text": "due to him by the Bank will be paid to his legal repre-",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        154,
+        1134,
+        258,
+        1151
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=154,1134,104,17",
+      "confidence": "line",
+      "gemini_text": "sentatives.",
+      "surya_confidence": 0.9945
+    },
+    {
+      "bbox": [
+        841,
+        128,
+        1394,
+        150
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=841,128,553,22",
+      "confidence": "line",
+      "gemini_text": "nen Zahlungen geleistet werden, ohne diesem Kündigungs-",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        841,
+        153,
+        1395,
+        180
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=841,153,554,27",
+      "confidence": "line",
+      "gemini_text": "rechte Einbruch zu thun. Alle, am oder vor dem dritten",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        844,
+        181,
+        1394,
+        206
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=844,181,550,25",
+      "confidence": "line",
+      "gemini_text": "Tage jedes Monats geleisteten Einlagen, sind vom ersten",
+      "surya_confidence": 0.9636
+    },
+    {
+      "bbox": [
+        844,
+        209,
+        1394,
+        234
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=844,209,550,25",
+      "confidence": "line",
+      "gemini_text": "Tage an desselben Monats, zinstragend. Zinsen sollen",
+      "surya_confidence": 0.9234
+    },
+    {
+      "bbox": [
+        844,
+        236,
+        1394,
+        261
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=844,236,550,25",
+      "confidence": "line",
+      "gemini_text": "am, oder vor dem 20ten Januar und Juli dem Kapital",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        842,
+        264,
+        1394,
+        289
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=842,264,552,25",
+      "confidence": "line",
+      "gemini_text": "des betreffenden Einlegers beigefügt werden und gleich dem-",
+      "surya_confidence": 0.9853
+    },
+    {
+      "bbox": [
+        844,
+        292,
+        1394,
+        316
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=844,292,550,24",
+      "confidence": "line",
+      "gemini_text": "selben, vom ersten des entsprechenden Monats, zinstragend",
+      "surya_confidence": 0.9351
+    },
+    {
+      "bbox": [
+        842,
+        320,
+        1394,
+        344
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=842,320,552,24",
+      "confidence": "line",
+      "gemini_text": "sein. Beim Rechnungsabschluß mit Einlegern, soll Zins-",
+      "surya_confidence": 0.9824
+    },
+    {
+      "bbox": [
+        840,
+        347,
+        1394,
+        372
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=840,347,554,25",
+      "confidence": "line",
+      "gemini_text": "vergütung bis und mit dem letzten Tage des vorhergehenden",
+      "surya_confidence": 0.6804
+    },
+    {
+      "bbox": [
+        841,
+        375,
+        1394,
+        399
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=841,375,553,24",
+      "confidence": "line",
+      "gemini_text": "Monats stattfinden; für Bruchtheile eines Dollars, und",
+      "surya_confidence": 0.9742
+    },
+    {
+      "bbox": [
+        830,
+        402,
+        1397,
+        427
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=830,402,567,25",
+      "confidence": "line",
+      "gemini_text": "für die theilweise Zeit eines Kalendermonats werden keine",
+      "surya_confidence": 0.528
+    },
+    {
+      "bbox": [
+        841,
+        428,
+        999,
+        456
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=841,428,158,28",
+      "confidence": "line",
+      "gemini_text": "Zinsen vergütet.",
+      "surya_confidence": 0.9847
+    },
+    {
+      "bbox": [
+        860,
+        468,
+        1394,
+        496
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=860,468,534,28",
+      "confidence": "line",
+      "gemini_text": "VI.—Die Bankverwaltung behält sich das Recht vor, zu ir-",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        840,
+        497,
+        1394,
+        521
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=840,497,554,24",
+      "confidence": "line",
+      "gemini_text": "gend einer Zeit Rechnungsabschluß mit einem Einleger an-",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        840,
+        525,
+        1394,
+        549
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=840,525,554,24",
+      "confidence": "line",
+      "gemini_text": "zuordnen, sowie ganze oder theilweise Einlagen zurückzu-",
+      "surya_confidence": 0.5795
+    },
+    {
+      "bbox": [
+        840,
+        556,
+        913,
+        575
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=840,556,73,19",
+      "confidence": "line",
+      "gemini_text": "weisen.",
+      "surya_confidence": 0.9287
+    },
+    {
+      "bbox": [
+        861,
+        595,
+        1394,
+        614
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=861,595,533,19",
+      "confidence": "line",
+      "gemini_text": "VII.—Alle Bekanntmachungen welche Einleger oder Einla-",
+      "surya_confidence": 0.989
+    },
+    {
+      "bbox": [
+        840,
+        619,
+        1394,
+        643
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=840,619,554,24",
+      "confidence": "line",
+      "gemini_text": "gen betreffen, und von der Bankverwaltung beschlossen wer-",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        840,
+        647,
+        1392,
+        671
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=840,647,552,24",
+      "confidence": "line",
+      "gemini_text": "den, sollen in zwei hiesigen Zeitungen, worunter eine in der",
+      "surya_confidence": 0.9911
+    },
+    {
+      "bbox": [
+        840,
+        674,
+        1395,
+        699
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=840,674,555,25",
+      "confidence": "line",
+      "gemini_text": "deutschen Sprache, veröffentlicht werden, und sind solche",
+      "surya_confidence": 0.9935
+    },
+    {
+      "bbox": [
+        840,
+        702,
+        1394,
+        727
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=840,702,554,25",
+      "confidence": "line",
+      "gemini_text": "Veröffentlichungen als gesetzlich maßgebend für die Einleger",
+      "surya_confidence": 0.9975
+    },
+    {
+      "bbox": [
+        841,
+        732,
+        973,
+        752
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=841,732,132,20",
+      "confidence": "line",
+      "gemini_text": "zu betrachten.",
+      "surya_confidence": 0.3764
+    },
+    {
+      "bbox": [
+        861,
+        770,
+        1394,
+        792
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=861,770,533,22",
+      "confidence": "line",
+      "gemini_text": "VIII—Für Einlagen, welche unverändert und ohne Zinsen-",
+      "surya_confidence": 0.9891
+    },
+    {
+      "bbox": [
+        840,
+        798,
+        1392,
+        820
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=840,798,552,22",
+      "confidence": "line",
+      "gemini_text": "Bezug, sieben Jahre ununterbrochen in der Bank verbleiben,",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        839,
+        825,
+        1315,
+        849
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=839,825,476,24",
+      "confidence": "line",
+      "gemini_text": "werden nach dieser Zeit keine Zinsen mehr vergütet.",
+      "surya_confidence": 0.9243
+    },
+    {
+      "bbox": [
+        839,
+        892,
+        1394,
+        916
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=839,892,555,24",
+      "confidence": "line",
+      "gemini_text": "die Bank sogleich davon in Kenntniß gesetzt werden, und",
+      "surya_confidence": 0.8324
+    },
+    {
+      "bbox": [
+        839,
+        922,
+        1394,
+        944
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=839,922,555,22",
+      "confidence": "line",
+      "gemini_text": "kann dieselbe nach Gutachten der Beamten ein Duplikat",
+      "surya_confidence": 0.5151
+    },
+    {
+      "bbox": [
+        839,
+        947,
+        1392,
+        972
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=839,947,553,25",
+      "confidence": "line",
+      "gemini_text": "ausfertigen lassen: die Rückzahlung der Einlage kann je-",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        839,
+        975,
+        1394,
+        1000
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=839,975,555,25",
+      "confidence": "line",
+      "gemini_text": "doch bloß gegen eine vollgültige Quittung des Einlegers",
+      "surya_confidence": 0.9668
+    },
+    {
+      "bbox": [
+        839,
+        1003,
+        1389,
+        1028
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=839,1003,550,25",
+      "confidence": "line",
+      "gemini_text": "oder seines gehörig legitimirten Bevollmächtigten erfolgen;",
+      "surya_confidence": 0.9969
+    },
+    {
+      "bbox": [
+        839,
+        1031,
+        1389,
+        1056
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=839,1031,550,25",
+      "confidence": "line",
+      "gemini_text": "eintretenden Falles kann auch genügende Bürgschaft gefor-",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        840,
+        1062,
+        958,
+        1082
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=840,1062,118,20",
+      "confidence": "line",
+      "gemini_text": "dert werden.",
+      "surya_confidence": 0.987
+    },
+    {
+      "bbox": [
+        859,
+        1099,
+        1392,
+        1123
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=859,1099,533,24",
+      "confidence": "line",
+      "gemini_text": "X.—Beim Ableben eines Einlegers, treten dessen gesetzlich",
+      "surya_confidence": 0.9966
+    },
+    {
+      "bbox": [
+        839,
+        1127,
+        1333,
+        1152
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0026#xywh=839,1127,494,25",
+      "confidence": "line",
+      "gemini_text": "anerkannte Erben in die Rechte des Verstorbenen ein.",
+      "surya_confidence": 0.9997
+    }
+  ],
+  "unmatched_gemini": [
+    "IX.—Im Falle des Verlustes eines Einlagebuches soll"
+  ]
+}

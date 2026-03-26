@@ -1,0 +1,156 @@
+{
+  "image_width": 1842,
+  "image_height": 2913,
+  "lines": [
+    {
+      "bbox": [
+        329,
+        323,
+        1408,
+        422
+      ],
+      "text": "CHARLES DABNEY,",
+      "confidence": 0.9288
+    },
+    {
+      "bbox": [
+        196,
+        471,
+        1547,
+        579
+      ],
+      "text": "Funeral Director,",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        406,
+        629,
+        1346,
+        701
+      ],
+      "text": "Office, 1409 28th St., N. W.",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        671,
+        832,
+        1047,
+        873
+      ],
+      "text": "'PHONE, MAIN",
+      "confidence": 0.6652
+    },
+    {
+      "bbox": [
+        547,
+        1003,
+        1201,
+        1052
+      ],
+      "text": "CARRIAGES FOR HIRE.",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        300,
+        1194,
+        1468,
+        1245
+      ],
+      "text": "Caskets, Coffins and all other Funeral Requisites.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        534,
+        1291,
+        1220,
+        1347
+      ],
+      "text": "Reasonable Terms.",
+      "confidence": 0.9612
+    },
+    {
+      "bbox": [
+        204,
+        1462,
+        1553,
+        1566
+      ],
+      "text": "Douglas Express,",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        471,
+        1630,
+        1288,
+        1707
+      ],
+      "text": "1533 14th St., N. W.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        206,
+        1830,
+        1561,
+        1934
+      ],
+      "text": "Baggage, Furniture and",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        392,
+        1977,
+        1375,
+        2074
+      ],
+      "text": "Piano moving our",
+      "confidence": 0.9844
+    },
+    {
+      "bbox": [
+        626,
+        2123,
+        1142,
+        2218
+      ],
+      "text": "Specialty.",
+      "confidence": 0.9862
+    },
+    {
+      "bbox": [
+        407,
+        2356,
+        1366,
+        2424
+      ],
+      "text": "ROBT. T. DOUGLAS, Mgr.",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        217,
+        2519,
+        764,
+        2560
+      ],
+      "text": "Telephone, 3796-M.",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        862,
+        2608,
+        917,
+        2643
+      ],
+      "text": "16",
+      "confidence": 0.9912
+    }
+  ]
+}

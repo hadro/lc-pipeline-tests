@@ -1,0 +1,231 @@
+{
+  "image": "0117_service:rbc:lcrbmrp:t8072:117.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:117",
+  "canvas_width": 1883,
+  "canvas_height": 2989,
+  "surya_median_confidence": 0.9774,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        459,
+        932,
+        1285,
+        1004
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:117#xywh=459,932,826,72",
+      "confidence": "line",
+      "gemini_text": "M. S. LOWERY & C",
+      "surya_confidence": 0.9547
+    },
+    {
+      "bbox": [
+        652,
+        1308,
+        1442,
+        1374
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:117#xywh=652,1308,790,66",
+      "confidence": "line",
+      "gemini_text": "GEO. W. MURRAY,",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        720,
+        1461,
+        1388,
+        1555
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:117#xywh=720,1461,668,94",
+      "confidence": "line",
+      "gemini_text": "DRUGGIST,",
+      "surya_confidence": 0.9129
+    },
+    {
+      "bbox": [
+        520,
+        1907,
+        1514,
+        2010
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:117#xywh=520,1907,994,103",
+      "confidence": "line",
+      "gemini_text": "REDDING & CO.,",
+      "surya_confidence": 0.9892
+    },
+    {
+      "bbox": [
+        749,
+        2059,
+        1271,
+        2142
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:117#xywh=749,2059,522,83",
+      "confidence": "line",
+      "gemini_text": "STANDARD",
+      "surya_confidence": 0.9121
+    },
+    {
+      "bbox": [
+        585,
+        2362,
+        1167,
+        2417
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:117#xywh=585,2362,582,55",
+      "confidence": "line",
+      "gemini_text": "AND GOODS,",
+      "surya_confidence": 0.9945
+    },
+    {
+      "bbox": [
+        440,
+        2492,
+        1297,
+        2532
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:117#xywh=440,2492,857,40",
+      "confidence": "line",
+      "gemini_text": "Lodge Supplies, Wholesale and Retail.",
+      "surya_confidence": 0.9815
+    },
+    {
+      "bbox": [
+        641,
+        2638,
+        1101,
+        2676
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:117#xywh=641,2638,460,38",
+      "confidence": "line",
+      "gemini_text": "Write for Catalogue.",
+      "surya_confidence": 0.9797
+    },
+    {
+      "bbox": [
+        669,
+        461,
+        1061,
+        501
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:117#xywh=669,461,392,40",
+      "confidence": "line",
+      "gemini_text": "SERVE BETTER",
+      "surya_confidence": 0.918
+    },
+    {
+      "bbox": [
+        237,
+        528,
+        1546,
+        609
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:117#xywh=237,528,1309,81",
+      "confidence": "line",
+      "gemini_text": "ICE CREAM AND ICES",
+      "surya_confidence": 0.9383
+    },
+    {
+      "bbox": [
+        511,
+        683,
+        1232,
+        732
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:117#xywh=511,683,721,49",
+      "confidence": "line",
+      "gemini_text": "than any other dealer in the city.",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        239,
+        765,
+        1541,
+        828
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:117#xywh=239,765,1302,63",
+      "confidence": "line",
+      "gemini_text": "OUR FRENCH AND AMERICAN CREAMS",
+      "surya_confidence": 0.9712
+    },
+    {
+      "bbox": [
+        577,
+        864,
+        1148,
+        906
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:117#xywh=577,864,571,42",
+      "confidence": "line",
+      "gemini_text": "ARE THE STANDARDS.",
+      "surya_confidence": 0.9958
+    },
+    {
+      "bbox": [
+        247,
+        1021,
+        1489,
+        1076
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:117#xywh=247,1021,1242,55",
+      "confidence": "line",
+      "gemini_text": "1002 18th St. N. W. Phone, Main 2721Y",
+      "surya_confidence": 0.9905
+    },
+    {
+      "bbox": [
+        246,
+        1677,
+        1498,
+        1725
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:117#xywh=246,1677,1252,48",
+      "confidence": "line",
+      "gemini_text": "SECOND AND D STS. S. W., WASHINGTON, D. C.",
+      "surya_confidence": 0.5177
+    },
+    {
+      "bbox": [
+        243,
+        2208,
+        1514,
+        2306
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:117#xywh=243,2208,1271,98",
+      "confidence": "line",
+      "gemini_text": "MASONIC BOOKS",
+      "surya_confidence": 0.9275
+    },
+    {
+      "bbox": [
+        284,
+        2436,
+        1454,
+        2475
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:117#xywh=284,2436,1170,39",
+      "confidence": "line",
+      "gemini_text": "Regalia, Jewels, Badges, Buttons, Pins, Charms, and",
+      "surya_confidence": 0.9949
+    },
+    {
+      "bbox": [
+        222,
+        2561,
+        1520,
+        2610
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:117#xywh=222,2561,1298,49",
+      "confidence": "line",
+      "gemini_text": "No. 212 Broadway, Corner Fulton St., New York.",
+      "surya_confidence": 0.9983
+    }
+  ],
+  "unmatched_gemini": [
+    "At Weddings, Churches, Excursions and Private Dwellings",
+    "M. S. LOWERY & CO.,"
+  ]
+}

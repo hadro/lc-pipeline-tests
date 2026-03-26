@@ -1,0 +1,180 @@
+{
+  "image": "0029_service:rbc:lcrbmrp:t8072:029.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:029",
+  "canvas_width": 1824,
+  "canvas_height": 2925,
+  "surya_median_confidence": 0.9875,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        1109,
+        351,
+        1398,
+        381
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:029#xywh=1109,351,289,30",
+      "confidence": "line",
+      "gemini_text": "W. H. MOSES. H. C. MOSES. A. C. MOSES.",
+      "surya_confidence": 0.995
+    },
+    {
+      "bbox": [
+        314,
+        618,
+        1238,
+        700
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:029#xywh=314,618,924,82",
+      "confidence": "line",
+      "gemini_text": "W. B. MOSES & SONS,",
+      "surya_confidence": 0.9856
+    },
+    {
+      "bbox": [
+        182,
+        732,
+        1407,
+        814
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:029#xywh=182,732,1225,82",
+      "confidence": "line",
+      "gemini_text": "Furniture, Carpets, Upholsteries",
+      "surya_confidence": 0.9759
+    },
+    {
+      "bbox": [
+        485,
+        850,
+        1105,
+        918
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:029#xywh=485,850,620,68",
+      "confidence": "line",
+      "gemini_text": "and Wall Papers.",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        298,
+        955,
+        1274,
+        1024
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:029#xywh=298,955,976,69",
+      "confidence": "line",
+      "gemini_text": "Cor. 11th and F Streets, N. W.,",
+      "surya_confidence": 0.9924
+    },
+    {
+      "bbox": [
+        488,
+        1059,
+        1089,
+        1122
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:029#xywh=488,1059,601,63",
+      "confidence": "line",
+      "gemini_text": "Washington, D. C.",
+      "surya_confidence": 0.9894
+    },
+    {
+      "bbox": [
+        254,
+        1356,
+        1353,
+        1428
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:029#xywh=254,1356,1099,72",
+      "confidence": "line",
+      "gemini_text": "Storage Warehouse, 22d and M Sts.",
+      "surya_confidence": 0.9955
+    },
+    {
+      "bbox": [
+        190,
+        1529,
+        1402,
+        1659
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:029#xywh=190,1529,1212,130",
+      "confidence": "line",
+      "gemini_text": "Saks & Company,",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        459,
+        1726,
+        1122,
+        1786
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:029#xywh=459,1726,663,60",
+      "confidence": "line",
+      "gemini_text": "Leaders Since 1867.",
+      "surya_confidence": 0.9723
+    },
+    {
+      "bbox": [
+        181,
+        1942,
+        1396,
+        2026
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:029#xywh=181,1942,1215,84",
+      "confidence": "line",
+      "gemini_text": "Everything Men and Boys Wear,",
+      "surya_confidence": 0.965
+    },
+    {
+      "bbox": [
+        352,
+        2080,
+        1232,
+        2158
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:029#xywh=352,2080,880,78",
+      "confidence": "line",
+      "gemini_text": "The Best of Everything.",
+      "surya_confidence": 0.9965
+    },
+    {
+      "bbox": [
+        401,
+        2214,
+        1173,
+        2287
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:029#xywh=401,2214,772,73",
+      "confidence": "line",
+      "gemini_text": "At Consistent Prices.",
+      "surya_confidence": 0.9788
+    },
+    {
+      "bbox": [
+        158,
+        2507,
+        1396,
+        2601
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:029#xywh=158,2507,1238,94",
+      "confidence": "line",
+      "gemini_text": "Penna. Ave. and 7th St.",
+      "surya_confidence": 0.9852
+    },
+    {
+      "bbox": [
+        760,
+        2619,
+        814,
+        2651
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:029#xywh=760,2619,54,32",
+      "confidence": "line",
+      "gemini_text": "20",
+      "surya_confidence": 0.9923
+    }
+  ],
+  "unmatched_gemini": []
+}

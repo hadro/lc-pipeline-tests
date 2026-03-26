@@ -1,0 +1,636 @@
+{
+  "image": "0132_service:rbc:lcrbmrp:t8072:132.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132",
+  "canvas_width": 1829,
+  "canvas_height": 2998,
+  "surya_median_confidence": 0.9949,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        653,
+        385,
+        1290,
+        435
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=653,385,637,50",
+      "confidence": "line",
+      "gemini_text": "Corrections, Additions, Etc.",
+      "surya_confidence": 0.983
+    },
+    {
+      "bbox": [
+        429,
+        490,
+        1157,
+        537
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=429,490,728,47",
+      "confidence": "line",
+      "gemini_text": "Green, Arnold D., 3, 1611 12 nw",
+      "surya_confidence": 0.9867
+    },
+    {
+      "bbox": [
+        429,
+        535,
+        1248,
+        581
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=429,535,819,46",
+      "confidence": "line",
+      "gemini_text": "Green, Joseph T., 12, 330 Spruce nw",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        429,
+        576,
+        1351,
+        627
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=429,576,922,51",
+      "confidence": "line",
+      "gemini_text": "Green, Philip H, 10, G, 1749 Seaton nw.",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        430,
+        620,
+        1268,
+        672
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=430,620,838,52",
+      "confidence": "line",
+      "gemini_text": "Green, William, 15, 51 Defrees st nw",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        430,
+        665,
+        1248,
+        714
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=430,665,818,49",
+      "confidence": "line",
+      "gemini_text": "Grice, Geo. W., 7, 104 Prospect ne.",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        429,
+        709,
+        1317,
+        759
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=429,709,888,50",
+      "confidence": "line",
+      "gemini_text": "Hamilton, H. W., 12-7, C, 1101 T st nw",
+      "surya_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        427,
+        750,
+        1456,
+        805
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=427,750,1029,55",
+      "confidence": "line",
+      "gemini_text": "Harris, H. C., 8-1-3, 33d-G-M-N-S, 1139 17 nw",
+      "surya_confidence": 0.9946
+    },
+    {
+      "bbox": [
+        427,
+        802,
+        1075,
+        849
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=427,802,648,47",
+      "confidence": "line",
+      "gemini_text": "Harris, Julia A., 1139 17 nw",
+      "surya_confidence": 0.9952
+    },
+    {
+      "bbox": [
+        429,
+        846,
+        1139,
+        893
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=429,846,710,47",
+      "confidence": "line",
+      "gemini_text": "Harvey, Henry A., 5, 214 D nw",
+      "surya_confidence": 0.997
+    },
+    {
+      "bbox": [
+        427,
+        890,
+        1159,
+        938
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=427,890,732,48",
+      "confidence": "line",
+      "gemini_text": "Hawkins, James H., 3, 64 G sw",
+      "surya_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        429,
+        932,
+        1317,
+        984
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=429,932,888,52",
+      "confidence": "line",
+      "gemini_text": "Hayes, Harvey B, 3, 2307 Va. ave nw",
+      "surya_confidence": 0.9957
+    },
+    {
+      "bbox": [
+        427,
+        974,
+        1448,
+        1028
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=427,974,1021,54",
+      "confidence": "line",
+      "gemini_text": "Hayes, James H., \"A\" Va., 1235 Lindene ne",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        429,
+        1025,
+        1120,
+        1072
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=429,1025,691,47",
+      "confidence": "line",
+      "gemini_text": "Henderson, Cordelia, 22 M sw",
+      "surya_confidence": 0.9946
+    },
+    {
+      "bbox": [
+        430,
+        1067,
+        1302,
+        1116
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=430,1067,872,49",
+      "confidence": "line",
+      "gemini_text": "Henderson, Richard, 3-1-3, 1221 W nw",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        429,
+        1107,
+        1521,
+        1162
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=429,1107,1092,55",
+      "confidence": "line",
+      "gemini_text": "Hicks, Alex. F., 15-5-1, S, 2435 Brightwood ave",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        435,
+        1160,
+        1157,
+        1207
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=435,1160,722,47",
+      "confidence": "line",
+      "gemini_text": "Hill, Rev, Jas. H., 4, 1322 4 nw",
+      "surya_confidence": 0.9975
+    },
+    {
+      "bbox": [
+        434,
+        1206,
+        1010,
+        1247
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=434,1206,576,41",
+      "confidence": "line",
+      "gemini_text": "Hill, Samuel, 3, 435 2 sw",
+      "surya_confidence": 0.9877
+    },
+    {
+      "bbox": [
+        434,
+        1254,
+        1019,
+        1291
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=434,1254,585,37",
+      "confidence": "line",
+      "gemini_text": "Hill, Wm. C., 7, 916 E sw",
+      "surya_confidence": 0.9929
+    },
+    {
+      "bbox": [
+        433,
+        1295,
+        1052,
+        1339
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=433,1295,619,44",
+      "confidence": "line",
+      "gemini_text": "Holland, Lizzie, 1919 11 nw",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        432,
+        1337,
+        1235,
+        1385
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=432,1337,803,48",
+      "confidence": "line",
+      "gemini_text": "Holmes, Burnett, 7, 49 Pierce st nw",
+      "surya_confidence": 0.9949
+    },
+    {
+      "bbox": [
+        432,
+        1383,
+        1177,
+        1429
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=432,1383,745,46",
+      "confidence": "line",
+      "gemini_text": "Hundell, James H., 1, 2009.9 nw",
+      "surya_confidence": 0.9826
+    },
+    {
+      "bbox": [
+        434,
+        1432,
+        1053,
+        1468
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=434,1432,619,36",
+      "confidence": "line",
+      "gemini_text": "Hurley, J. E., 3, 1221 3 sw",
+      "surya_confidence": 0.9897
+    },
+    {
+      "bbox": [
+        435,
+        1472,
+        1076,
+        1518
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=435,1472,641,46",
+      "confidence": "line",
+      "gemini_text": "Jackson, Louise, 1524 21 nw",
+      "surya_confidence": 0.9937
+    },
+    {
+      "bbox": [
+        435,
+        1520,
+        1103,
+        1559
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=435,1520,668,39",
+      "confidence": "line",
+      "gemini_text": "Jackson, R. A. 8, 1223 W nw",
+      "surya_confidence": 0.9659
+    },
+    {
+      "bbox": [
+        435,
+        1566,
+        1092,
+        1603
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=435,1566,657,37",
+      "confidence": "line",
+      "gemini_text": "Jackson, W. H., 15, 633 F nw",
+      "surya_confidence": 0.9847
+    },
+    {
+      "bbox": [
+        437,
+        1608,
+        1140,
+        1649
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=437,1608,703,41",
+      "confidence": "line",
+      "gemini_text": "Jackson, Wm. H., 10, 412 N nw",
+      "surya_confidence": 0.9769
+    },
+    {
+      "bbox": [
+        437,
+        1652,
+        1209,
+        1694
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=437,1652,772,42",
+      "confidence": "line",
+      "gemini_text": "James, Eugene R., 3-7, 1826 L nw",
+      "surya_confidence": 0.9905
+    },
+    {
+      "bbox": [
+        437,
+        1698,
+        1018,
+        1737
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=437,1698,581,39",
+      "confidence": "line",
+      "gemini_text": "Jeffers, D. B., 5, 306 3 se",
+      "surya_confidence": 0.9808
+    },
+    {
+      "bbox": [
+        438,
+        1738,
+        1326,
+        1785
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=438,1738,888,47",
+      "confidence": "line",
+      "gemini_text": "Johnsing, William, 6, Anacostia, D. C.",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        437,
+        1786,
+        1193,
+        1827
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=437,1786,756,41",
+      "confidence": "line",
+      "gemini_text": "Johnson, Frank D., 7, 1123 15 nw",
+      "surya_confidence": 0.9833
+    },
+    {
+      "bbox": [
+        437,
+        1830,
+        1196,
+        1872
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=437,1830,759,42",
+      "confidence": "line",
+      "gemini_text": "Johnson, Jacob A., 15, 2322 G nw",
+      "surya_confidence": 0.995
+    },
+    {
+      "bbox": [
+        438,
+        1869,
+        1480,
+        1918
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=438,1869,1042,49",
+      "confidence": "line",
+      "gemini_text": "Johnson, Jerome A., 14-1-3. 33d G, 1528 15 nw",
+      "surya_confidence": 0.9942
+    },
+    {
+      "bbox": [
+        441,
+        1917,
+        1256,
+        1963
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=441,1917,815,46",
+      "confidence": "line",
+      "gemini_text": "Johnson, Marie Letcher, 1816 20 nw",
+      "surya_confidence": 0.9951
+    },
+    {
+      "bbox": [
+        440,
+        1965,
+        1172,
+        2006
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=440,1965,732,41",
+      "confidence": "line",
+      "gemini_text": "Johnson, Virginia, 652 Acker ne",
+      "surya_confidence": 0.9943
+    },
+    {
+      "bbox": [
+        438,
+        2004,
+        1520,
+        2052
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=438,2004,1082,48",
+      "confidence": "line",
+      "gemini_text": "Jones, Thos. E., 10, 20 Prospect st, Reno, D. C,",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        435,
+        2051,
+        1180,
+        2097
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=435,2051,745,46",
+      "confidence": "line",
+      "gemini_text": "Keelan, John C., O, 245 Elm nw",
+      "surya_confidence": 0.995
+    },
+    {
+      "bbox": [
+        436,
+        2095,
+        1123,
+        2142
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=436,2095,687,47",
+      "confidence": "line",
+      "gemini_text": "Kesterson, James, 7, 209 2 sw",
+      "surya_confidence": 0.993
+    },
+    {
+      "bbox": [
+        438,
+        2138,
+        1244,
+        2186
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=438,2138,806,48",
+      "confidence": "line",
+      "gemini_text": "Lassiter, Andrew. 8-7-4, 2238 11 nw",
+      "surya_confidence": 0.9869
+    },
+    {
+      "bbox": [
+        438,
+        2189,
+        869,
+        2229
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=438,2189,431,40",
+      "confidence": "line",
+      "gemini_text": "Laws, Wm. H. 10,",
+      "surya_confidence": 0.9708
+    },
+    {
+      "bbox": [
+        439,
+        2226,
+        1377,
+        2277
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=439,2226,938,51",
+      "confidence": "line",
+      "gemini_text": "Livingston, H. L., 14 7-2, R-S, 1759 L nw",
+      "surya_confidence": 0.9867
+    },
+    {
+      "bbox": [
+        441,
+        2276,
+        1076,
+        2320
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=441,2276,635,44",
+      "confidence": "line",
+      "gemini_text": "Mabry, Benj., 10, 1423 I nw",
+      "surya_confidence": 0.9916
+    },
+    {
+      "bbox": [
+        441,
+        2319,
+        1128,
+        2365
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=441,2319,687,46",
+      "confidence": "line",
+      "gemini_text": "Marshall, Joseph, 8, 829 3 sw",
+      "surya_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        443,
+        2366,
+        1230,
+        2403
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=443,2366,787,37",
+      "confidence": "line",
+      "gemini_text": "Marshall, Thomas J., 15, 812 G sw",
+      "surya_confidence": 0.9943
+    },
+    {
+      "bbox": [
+        440,
+        2406,
+        1096,
+        2452
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=440,2406,656,46",
+      "confidence": "line",
+      "gemini_text": "Martin, David, 4, 1739 11 nw",
+      "surya_confidence": 0.9879
+    },
+    {
+      "bbox": [
+        441,
+        2447,
+        1218,
+        2498
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=441,2447,777,51",
+      "confidence": "line",
+      "gemini_text": "Martin, Edward, 4, 1739 11 st nw",
+      "surya_confidence": 0.9973
+    },
+    {
+      "bbox": [
+        433,
+        2493,
+        1162,
+        2542
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=433,2493,729,49",
+      "confidence": "line",
+      "gemini_text": "Martin, Ernest, 4, 1739 11 st nw",
+      "surya_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        441,
+        2537,
+        1140,
+        2588
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=441,2537,699,51",
+      "confidence": "line",
+      "gemini_text": "Martin, Geo. W., 7, 1343 32 nw",
+      "surya_confidence": 0.9956
+    },
+    {
+      "bbox": [
+        441,
+        2583,
+        1347,
+        2631
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=441,2583,906,48",
+      "confidence": "line",
+      "gemini_text": "Matthews, Rev. Joseph, 10, G, 918 E sw",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        439,
+        2627,
+        1291,
+        2676
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=439,2627,852,49",
+      "confidence": "line",
+      "gemini_text": "McBeth, W. A,, 10-7-4, G-S, 733 7 nw",
+      "surya_confidence": 0.9977
+    },
+    {
+      "bbox": [
+        438,
+        2668,
+        1440,
+        2722
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=438,2668,1002,54",
+      "confidence": "line",
+      "gemini_text": "McCauley, Charles, 15. Brentwood P O Md.",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        954,
+        2725,
+        1024,
+        2754
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:132#xywh=954,2725,70,29",
+      "confidence": "line",
+      "gemini_text": "123",
+      "surya_confidence": 0.9468
+    }
+  ],
+  "unmatched_gemini": []
+}

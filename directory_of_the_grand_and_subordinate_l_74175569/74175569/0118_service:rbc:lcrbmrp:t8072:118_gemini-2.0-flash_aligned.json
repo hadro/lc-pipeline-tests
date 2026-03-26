@@ -1,0 +1,576 @@
+{
+  "image": "0118_service:rbc:lcrbmrp:t8072:118.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118",
+  "canvas_width": 1827,
+  "canvas_height": 3010,
+  "surya_median_confidence": 0.994,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        305,
+        366,
+        1255,
+        428
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=305,366,950,62",
+      "confidence": "line",
+      "gemini_text": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "surya_confidence": 0.9976
+    },
+    {
+      "bbox": [
+        717,
+        451,
+        848,
+        484
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=717,451,131,33",
+      "confidence": "line",
+      "gemini_text": "1904.",
+      "surya_confidence": 0.954
+    },
+    {
+      "bbox": [
+        308,
+        513,
+        1256,
+        562
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=308,513,948,49",
+      "confidence": "line",
+      "gemini_text": "M. Ex.Comp. Frank H. Cozzens, Gr. High Priest",
+      "surya_confidence": 0.9974
+    },
+    {
+      "bbox": [
+        613,
+        563,
+        948,
+        599
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=613,563,335,36",
+      "confidence": "line",
+      "gemini_text": "2111 9th st. nw.",
+      "surya_confidence": 0.9922
+    },
+    {
+      "bbox": [
+        308,
+        599,
+        1256,
+        655
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=308,599,948,56",
+      "confidence": "line",
+      "gemini_text": "Ex. Comp. ArthurSimmons, D. Gr. High Priest",
+      "surya_confidence": 0.9937
+    },
+    {
+      "bbox": [
+        310,
+        647,
+        1256,
+        696
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=310,647,946,49",
+      "confidence": "line",
+      "gemini_text": "Ex. Comp. Charles D. Freeman.....Grand King",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        313,
+        691,
+        1256,
+        743
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=313,691,943,52",
+      "confidence": "line",
+      "gemini_text": "Ex. Comp. Wm. Knox Brown....Grand Scribe",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        313,
+        736,
+        1258,
+        787
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=313,736,945,51",
+      "confidence": "line",
+      "gemini_text": "Ex. Comp. Benjamin F. Dailey.. Gr. Treasurer",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        311,
+        780,
+        1255,
+        831
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=311,780,944,51",
+      "confidence": "line",
+      "gemini_text": "Ex. Comp. James O. Bampfield... Grand Sec'y",
+      "surya_confidence": 0.9916
+    },
+    {
+      "bbox": [
+        636,
+        832,
+        943,
+        866
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=636,832,307,34",
+      "confidence": "line",
+      "gemini_text": "1119 V st. nw.",
+      "surya_confidence": 0.9878
+    },
+    {
+      "bbox": [
+        357,
+        871,
+        1215,
+        922
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=357,871,858,51",
+      "confidence": "line",
+      "gemini_text": "Annual Meeting, Tuesday, Nov. 22, 1904.",
+      "surya_confidence": 0.9917
+    },
+    {
+      "bbox": [
+        357,
+        967,
+        1210,
+        1008
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=357,967,853,41",
+      "confidence": "line",
+      "gemini_text": "Mt. Vernon Chapter, No. 1, R. A. M.",
+      "surya_confidence": 0.9883
+    },
+    {
+      "bbox": [
+        313,
+        1004,
+        1261,
+        1058
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=313,1004,948,54",
+      "confidence": "line",
+      "gemini_text": "Robert H. Beverly..........High Priest",
+      "surya_confidence": 0.995
+    },
+    {
+      "bbox": [
+        317,
+        1051,
+        1258,
+        1105
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=317,1051,941,54",
+      "confidence": "line",
+      "gemini_text": "Benj. F. Pope................King",
+      "surya_confidence": 0.9933
+    },
+    {
+      "bbox": [
+        317,
+        1096,
+        1261,
+        1147
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=317,1096,944,51",
+      "confidence": "line",
+      "gemini_text": "Longstreet Bradford...........Scribe",
+      "surya_confidence": 0.994
+    },
+    {
+      "bbox": [
+        314,
+        1143,
+        1259,
+        1189
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=314,1143,945,46",
+      "confidence": "line",
+      "gemini_text": "Primus H. Simmons...........Secretary",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        601,
+        1185,
+        971,
+        1226
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=601,1185,370,41",
+      "confidence": "line",
+      "gemini_text": "1020 20th st. nw.",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        596,
+        1233,
+        996,
+        1275
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=596,1233,400,42",
+      "confidence": "line",
+      "gemini_text": "Meets First Friday.",
+      "surya_confidence": 0.9949
+    },
+    {
+      "bbox": [
+        428,
+        1321,
+        1160,
+        1371
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=428,1321,732,50",
+      "confidence": "line",
+      "gemini_text": "Union Chapter, No. 2, R. A. M.",
+      "surya_confidence": 0.9842
+    },
+    {
+      "bbox": [
+        317,
+        1362,
+        1264,
+        1416
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=317,1362,947,54",
+      "confidence": "line",
+      "gemini_text": "Wm. A. Clark..............High Priest",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        317,
+        1408,
+        1264,
+        1458
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=317,1408,947,50",
+      "confidence": "line",
+      "gemini_text": "Amasa W. Scott................King",
+      "surya_confidence": 0.996
+    },
+    {
+      "bbox": [
+        317,
+        1452,
+        1264,
+        1505
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=317,1452,947,53",
+      "confidence": "line",
+      "gemini_text": "Gilbert Redding...............Scribe",
+      "surya_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        322,
+        1499,
+        1265,
+        1548
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=322,1499,943,49",
+      "confidence": "line",
+      "gemini_text": "William Anderson..............Secretary",
+      "surya_confidence": 0.9923
+    },
+    {
+      "bbox": [
+        601,
+        1545,
+        973,
+        1584
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=601,1545,372,39",
+      "confidence": "line",
+      "gemini_text": "163 Pierce st nw.",
+      "surya_confidence": 0.9978
+    },
+    {
+      "bbox": [
+        537,
+        1592,
+        1045,
+        1630
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=537,1592,508,38",
+      "confidence": "line",
+      "gemini_text": "Meets Third Wednesday.",
+      "surya_confidence": 0.9953
+    },
+    {
+      "bbox": [
+        365,
+        1680,
+        1223,
+        1727
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=365,1680,858,47",
+      "confidence": "line",
+      "gemini_text": "Prince Hall Chapter, No. 5, R. A. M.",
+      "surya_confidence": 0.9887
+    },
+    {
+      "bbox": [
+        322,
+        1722,
+        1270,
+        1771
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=322,1722,948,49",
+      "confidence": "line",
+      "gemini_text": "John D. Howard..............High Priest",
+      "surya_confidence": 0.9951
+    },
+    {
+      "bbox": [
+        322,
+        1767,
+        1268,
+        1816
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=322,1767,946,49",
+      "confidence": "line",
+      "gemini_text": "Alex. F. Hicks................King",
+      "surya_confidence": 0.9941
+    },
+    {
+      "bbox": [
+        325,
+        1814,
+        1270,
+        1858
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=325,1814,945,44",
+      "confidence": "line",
+      "gemini_text": "Moses Lewis................Scribe",
+      "surya_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        325,
+        1859,
+        1268,
+        1899
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=325,1859,943,40",
+      "confidence": "line",
+      "gemini_text": "John F. N. Wilkinson.........Secretary",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        651,
+        1905,
+        930,
+        1938
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=651,1905,279,33",
+      "confidence": "line",
+      "gemini_text": "901 E st. sw.",
+      "surya_confidence": 0.9923
+    },
+    {
+      "bbox": [
+        548,
+        1950,
+        1042,
+        1986
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=548,1950,494,36",
+      "confidence": "line",
+      "gemini_text": "Meets First Wednesday.",
+      "surya_confidence": 0.9906
+    },
+    {
+      "bbox": [
+        390,
+        2033,
+        1209,
+        2087
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=390,2033,819,54",
+      "confidence": "line",
+      "gemini_text": "St. John's Chapter, No. 7, R. A. M.",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        325,
+        2078,
+        1274,
+        2128
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=325,2078,949,50",
+      "confidence": "line",
+      "gemini_text": "Wm. H. Judd Malvin.........High Priest",
+      "surya_confidence": 0.9893
+    },
+    {
+      "bbox": [
+        325,
+        2125,
+        1274,
+        2174
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=325,2125,949,49",
+      "confidence": "line",
+      "gemini_text": "Fred. D. Henry................King",
+      "surya_confidence": 0.993
+    },
+    {
+      "bbox": [
+        330,
+        2170,
+        1274,
+        2216
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=330,2170,944,46",
+      "confidence": "line",
+      "gemini_text": "Dr. A. H. Stevens..............Scribe",
+      "surya_confidence": 0.8857
+    },
+    {
+      "bbox": [
+        330,
+        2216,
+        1273,
+        2262
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=330,2216,943,46",
+      "confidence": "line",
+      "gemini_text": "Wm. H. Severson.............Secretary",
+      "surya_confidence": 0.9886
+    },
+    {
+      "bbox": [
+        643,
+        2259,
+        930,
+        2299
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=643,2259,287,40",
+      "confidence": "line",
+      "gemini_text": "326 E st. sw.",
+      "surya_confidence": 0.9745
+    },
+    {
+      "bbox": [
+        550,
+        2302,
+        1051,
+        2350
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=550,2302,501,48",
+      "confidence": "line",
+      "gemini_text": "Meets Second Thursday.",
+      "surya_confidence": 0.9964
+    },
+    {
+      "bbox": [
+        389,
+        2390,
+        1209,
+        2439
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=389,2390,820,49",
+      "confidence": "line",
+      "gemini_text": "Keystone Chapter, No. 11, R. A.M.",
+      "surya_confidence": 0.9915
+    },
+    {
+      "bbox": [
+        325,
+        2434,
+        1277,
+        2487
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=325,2434,952,53",
+      "confidence": "line",
+      "gemini_text": "George W. Jones..............High Priest",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        316,
+        2481,
+        1275,
+        2531
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=316,2481,959,50",
+      "confidence": "line",
+      "gemini_text": "John S. George................King",
+      "surya_confidence": 0.9839
+    },
+    {
+      "bbox": [
+        327,
+        2526,
+        1277,
+        2570
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=327,2526,950,44",
+      "confidence": "line",
+      "gemini_text": "N. E. Weatherless.............Scribe",
+      "surya_confidence": 0.9904
+    },
+    {
+      "bbox": [
+        330,
+        2569,
+        1276,
+        2618
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=330,2569,946,49",
+      "confidence": "line",
+      "gemini_text": "Louis N. Harris..............Secretary",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        654,
+        2613,
+        959,
+        2652
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=654,2613,305,39",
+      "confidence": "line",
+      "gemini_text": "2453 P st. nw.",
+      "surya_confidence": 0.9955
+    },
+    {
+      "bbox": [
+        567,
+        2660,
+        1053,
+        2702
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=567,2660,486,42",
+      "confidence": "line",
+      "gemini_text": "Meets Fourth Tuesday.",
+      "surya_confidence": 0.9957
+    },
+    {
+      "bbox": [
+        752,
+        2711,
+        832,
+        2743
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:118#xywh=752,2711,80,32",
+      "confidence": "line",
+      "gemini_text": "109",
+      "surya_confidence": 0.9831
+    }
+  ],
+  "unmatched_gemini": []
+}

@@ -1,0 +1,546 @@
+{
+  "image_width": 1816,
+  "image_height": 2986,
+  "lines": [
+    {
+      "bbox": [
+        673,
+        465,
+        1183,
+        528
+      ],
+      "text": "«Key to Directory»",
+      "confidence": 0.3195
+    },
+    {
+      "bbox": [
+        302,
+        665,
+        1601,
+        702
+      ],
+      "text": "The names of the members of the craft are arranged",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        256,
+        717,
+        1602,
+        764
+      ],
+      "text": "alphabetically, and the following key will guide you to a",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        252,
+        779,
+        1138,
+        817
+      ],
+      "text": "complete understanding of the scheme.",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        470,
+        844,
+        938,
+        878
+      ],
+      "text": "Past Grand Master.",
+      "confidence": 0.9652
+    },
+    {
+      "bbox": [
+        388,
+        850,
+        441,
+        877
+      ],
+      "text": "A",
+      "confidence": 0.8988
+    },
+    {
+      "bbox": [
+        465,
+        886,
+        1111,
+        928
+      ],
+      "text": "Past Deputy Grand Master.",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        385,
+        891,
+        470,
+        926
+      ],
+      "text": "B",
+      "confidence": 0.705
+    },
+    {
+      "bbox": [
+        432,
+        931,
+        1120,
+        969
+      ],
+      "text": "Past Senior Grand Warden.",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        388,
+        935,
+        432,
+        967
+      ],
+      "text": "C",
+      "confidence": 0.884
+    },
+    {
+      "bbox": [
+        388,
+        976,
+        1124,
+        1013
+      ],
+      "text": "D Past Junior Grand Warden.",
+      "confidence": 0.9516
+    },
+    {
+      "bbox": [
+        388,
+        1023,
+        1013,
+        1057
+      ],
+      "text": "E Past Grand Treasurer.",
+      "confidence": 0.8754
+    },
+    {
+      "bbox": [
+        385,
+        1067,
+        1000,
+        1106
+      ],
+      "text": "F Past Grand Secretary.",
+      "confidence": 0.9794
+    },
+    {
+      "bbox": [
+        385,
+        1113,
+        782,
+        1147
+      ],
+      "text": "G Past Master.",
+      "confidence": 0.93
+    },
+    {
+      "bbox": [
+        473,
+        1157,
+        1062,
+        1195
+      ],
+      "text": "Past Grand High Priest.",
+      "confidence": 0.9836
+    },
+    {
+      "bbox": [
+        385,
+        1158,
+        447,
+        1193
+      ],
+      "text": "H",
+      "confidence": 0.8353
+    },
+    {
+      "bbox": [
+        385,
+        1197,
+        1241,
+        1243
+      ],
+      "text": "I Past Deputy Grand High Priest.",
+      "confidence": 0.9718
+    },
+    {
+      "bbox": [
+        384,
+        1247,
+        908,
+        1284
+      ],
+      "text": "K Past Grand King.",
+      "confidence": 0.9202
+    },
+    {
+      "bbox": [
+        385,
+        1290,
+        930,
+        1326
+      ],
+      "text": "L Past Grand Scribe.",
+      "confidence": 0.9804
+    },
+    {
+      "bbox": [
+        384,
+        1336,
+        889,
+        1374
+      ],
+      "text": "M Past High Priest.",
+      "confidence": 0.9755
+    },
+    {
+      "bbox": [
+        384,
+        1377,
+        1044,
+        1415
+      ],
+      "text": "N Past Grand Commander.",
+      "confidence": 0.9695
+    },
+    {
+      "bbox": [
+        384,
+        1422,
+        1216,
+        1462
+      ],
+      "text": "O Past Deputy Grand Commander.",
+      "confidence": 0.952
+    },
+    {
+      "bbox": [
+        382,
+        1468,
+        1104,
+        1504
+      ],
+      "text": "P Past Grand Generalissimo.",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        381,
+        1508,
+        1163,
+        1594
+      ],
+      "text": "Q Past Grand Captain General.\nR Past Eminent Commander.",
+      "confidence": 0.7519
+    },
+    {
+      "bbox": [
+        379,
+        1599,
+        1516,
+        1640
+      ],
+      "text": "S Mecca Temple, A. E. A. O. N. Mystic Shrine.",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        375,
+        1643,
+        1407,
+        1687
+      ],
+      "text": "T Past Grand Patron, Order Eastern Star.",
+      "confidence": 0.974
+    },
+    {
+      "bbox": [
+        375,
+        1690,
+        1156,
+        1728
+      ],
+      "text": "U Past Grand Matron, O. E. S.",
+      "confidence": 0.9638
+    },
+    {
+      "bbox": [
+        355,
+        1734,
+        985,
+        1774
+      ],
+      "text": "V Past Patron, O. E. S.",
+      "confidence": 0.9506
+    },
+    {
+      "bbox": [
+        379,
+        1781,
+        991,
+        1817
+      ],
+      "text": "W Past Matron, O. E. S.",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        384,
+        1821,
+        1286,
+        1865
+      ],
+      "text": "32° Consistory of Scottish Rite Masons.",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        382,
+        1866,
+        1424,
+        1910
+      ],
+      "text": "33° Supreme Council of Scottish Rite Masons.",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        293,
+        1945,
+        1536,
+        1987
+      ],
+      "text": "The first number after a name denotes Lodge, namely:",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        267,
+        2010,
+        521,
+        2051
+      ],
+      "text": "1 Social.",
+      "confidence": 0.9717
+    },
+    {
+      "bbox": [
+        682,
+        2012,
+        1525,
+        2052
+      ],
+      "text": "6 Meridian. 10 John F. Cook.",
+      "confidence": 0.9737
+    },
+    {
+      "bbox": [
+        647,
+        2051,
+        1469,
+        2100
+      ],
+      "text": "7 Widow's Son. 12 St. John's.",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        267,
+        2057,
+        519,
+        2093
+      ],
+      "text": "3 Felix.",
+      "confidence": 0.9793
+    },
+    {
+      "bbox": [
+        638,
+        2100,
+        1510,
+        2138
+      ],
+      "text": "8 Warren. 14 Prince Hall.",
+      "confidence": 0.9691
+    },
+    {
+      "bbox": [
+        267,
+        2103,
+        590,
+        2137
+      ],
+      "text": "4 Hiram.",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        708,
+        2143,
+        1560,
+        2185
+      ],
+      "text": "9 Pythagoras. 15 Chas. Datcher.",
+      "confidence": 0.9661
+    },
+    {
+      "bbox": [
+        268,
+        2146,
+        580,
+        2185
+      ],
+      "text": "5 Eureka.",
+      "confidence": 0.9831
+    },
+    {
+      "bbox": [
+        293,
+        2226,
+        1598,
+        2264
+      ],
+      "text": "The second number after a name denotes Chapter, namely:",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        269,
+        2293,
+        1434,
+        2330
+      ],
+      "text": "1 Mt. Vernon. 5 Prince Hall. 11 Keystone.",
+      "confidence": 0.9628
+    },
+    {
+      "bbox": [
+        268,
+        2338,
+        539,
+        2375
+      ],
+      "text": "2 Union.",
+      "confidence": 0.9733
+    },
+    {
+      "bbox": [
+        665,
+        2338,
+        1003,
+        2373
+      ],
+      "text": "7 St. John's",
+      "confidence": 0.9819
+    },
+    {
+      "bbox": [
+        293,
+        2416,
+        1592,
+        2452
+      ],
+      "text": "The third number after a name denotes Commandery,",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        245,
+        2474,
+        435,
+        2509
+      ],
+      "text": "namely:",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        1019,
+        2538,
+        1361,
+        2572
+      ],
+      "text": "3 Gethsemane.",
+      "confidence": 0.9748
+    },
+    {
+      "bbox": [
+        491,
+        2540,
+        706,
+        2573
+      ],
+      "text": "1 Simon.",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        1024,
+        2582,
+        1365,
+        2622
+      ],
+      "text": "4 Mt. Calvary.",
+      "confidence": 0.9888
+    },
+    {
+      "bbox": [
+        487,
+        2584,
+        780,
+        2616
+      ],
+      "text": "2 Henderson",
+      "confidence": 0.8852
+    },
+    {
+      "bbox": [
+        289,
+        2650,
+        1595,
+        2690
+      ],
+      "text": "The \"O\" denotes not belonging to Lodge, Chapter or",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        245,
+        2696,
+        1032,
+        2734
+      ],
+      "text": "Commandery, in this jurisdiction.",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        894,
+        2785,
+        948,
+        2818
+      ],
+      "text": "73",
+      "confidence": 0.9525
+    },
+    {
+      "bbox": [
+        438,
+        2908,
+        559,
+        2922
+      ],
+      "text": "and the second of the",
+      "confidence": 0.1873
+    }
+  ]
+}

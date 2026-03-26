@@ -1,0 +1,360 @@
+{
+  "image": "0120_service:rbc:lcrbmrp:t8072:120.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120",
+  "canvas_width": 1826,
+  "canvas_height": 3007,
+  "surya_median_confidence": 0.9933,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        494,
+        401,
+        1314,
+        452
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=494,401,820,51",
+      "confidence": "line",
+      "gemini_text": "Simon Commandery, K. T., No. 1.",
+      "surya_confidence": 0.9939
+    },
+    {
+      "bbox": [
+        489,
+        486,
+        1293,
+        526
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=489,486,804,40",
+      "confidence": "line",
+      "gemini_text": "John D. Howard, Eminent Commander",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        423,
+        550,
+        1131,
+        598
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=423,550,708,48",
+      "confidence": "line",
+      "gemini_text": "Charles D. Freeman, Generalissimo",
+      "surya_confidence": 0.9916
+    },
+    {
+      "bbox": [
+        688,
+        594,
+        1371,
+        642
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=688,594,683,48",
+      "confidence": "line",
+      "gemini_text": "James H. Smiler, Captain General",
+      "surya_confidence": 0.9898
+    },
+    {
+      "bbox": [
+        625,
+        666,
+        1171,
+        707
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=625,666,546,41",
+      "confidence": "line",
+      "gemini_text": "Samuel T. Craig, Recorder",
+      "surya_confidence": 0.997
+    },
+    {
+      "bbox": [
+        757,
+        712,
+        1042,
+        749
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=757,712,285,37",
+      "confidence": "line",
+      "gemini_text": "311 L st.nw.",
+      "surya_confidence": 0.9877
+    },
+    {
+      "bbox": [
+        671,
+        789,
+        1124,
+        828
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=671,789,453,39",
+      "confidence": "line",
+      "gemini_text": "Meets Second Friday.",
+      "surya_confidence": 0.9902
+    },
+    {
+      "bbox": [
+        426,
+        1016,
+        1372,
+        1068
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=426,1016,946,52",
+      "confidence": "line",
+      "gemini_text": "Henderson Commandery, K. T., No. 2.",
+      "surya_confidence": 0.9951
+    },
+    {
+      "bbox": [
+        427,
+        1095,
+        1379,
+        1146
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=427,1095,952,51",
+      "confidence": "line",
+      "gemini_text": "Nelson E. Weatherless, Eminent Commander",
+      "surya_confidence": 0.9921
+    },
+    {
+      "bbox": [
+        427,
+        1167,
+        1025,
+        1211
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=427,1167,598,44",
+      "confidence": "line",
+      "gemini_text": "Wm. G. Smith, Generalissimo",
+      "surya_confidence": 0.9917
+    },
+    {
+      "bbox": [
+        683,
+        1210,
+        1374,
+        1252
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=683,1210,691,42",
+      "confidence": "line",
+      "gemini_text": "Wm. W. Walker, Captain General",
+      "surya_confidence": 0.9928
+    },
+    {
+      "bbox": [
+        642,
+        1280,
+        1167,
+        1320
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=642,1280,525,40",
+      "confidence": "line",
+      "gemini_text": "John S. George, Recorder",
+      "surya_confidence": 0.995
+    },
+    {
+      "bbox": [
+        752,
+        1324,
+        1048,
+        1365
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=752,1324,296,41",
+      "confidence": "line",
+      "gemini_text": "1938 11th nw.",
+      "surya_confidence": 0.9973
+    },
+    {
+      "bbox": [
+        669,
+        1403,
+        1124,
+        1447
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=669,1403,455,44",
+      "confidence": "line",
+      "gemini_text": "Meets First Thursday.",
+      "surya_confidence": 0.9939
+    },
+    {
+      "bbox": [
+        427,
+        1631,
+        1431,
+        1682
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=427,1631,1004,51",
+      "confidence": "line",
+      "gemini_text": "Gethsemane Commandery, Κ. Τ., No 3.",
+      "surya_confidence": 0.996
+    },
+    {
+      "bbox": [
+        515,
+        1712,
+        1289,
+        1760
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=515,1712,774,48",
+      "confidence": "line",
+      "gemini_text": "L. C. Coleman, Eminent Commander",
+      "surya_confidence": 0.9936
+    },
+    {
+      "bbox": [
+        430,
+        1781,
+        1089,
+        1827
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=430,1781,659,46",
+      "confidence": "line",
+      "gemini_text": "Andrew W. Sears, Generalissimo",
+      "surya_confidence": 0.9897
+    },
+    {
+      "bbox": [
+        743,
+        1822,
+        1380,
+        1873
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=743,1822,637,51",
+      "confidence": "line",
+      "gemini_text": "Benj. F. Pope, Captain General",
+      "surya_confidence": 0.9966
+    },
+    {
+      "bbox": [
+        563,
+        1894,
+        1244,
+        1936
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=563,1894,681,42",
+      "confidence": "line",
+      "gemini_text": "Richard W. Tompkins, Recorder",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        755,
+        1937,
+        1062,
+        1981
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=755,1937,307,44",
+      "confidence": "line",
+      "gemini_text": "1341 V st.nw.",
+      "surya_confidence": 0.9955
+    },
+    {
+      "bbox": [
+        634,
+        2019,
+        1176,
+        2059
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=634,2019,542,40",
+      "confidence": "line",
+      "gemini_text": "Meets Second Wednesday.",
+      "surya_confidence": 0.9918
+    },
+    {
+      "bbox": [
+        431,
+        2245,
+        1375,
+        2299
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=431,2245,944,54",
+      "confidence": "line",
+      "gemini_text": "Mt. Calvary Commandery, K. T., No. 4.",
+      "surya_confidence": 0.993
+    },
+    {
+      "bbox": [
+        512,
+        2333,
+        1297,
+        2374
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=512,2333,785,41",
+      "confidence": "line",
+      "gemini_text": "Joseph D. Jones, Eminent Commander",
+      "surya_confidence": 0.9942
+    },
+    {
+      "bbox": [
+        425,
+        2391,
+        1178,
+        2443
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=425,2391,753,52",
+      "confidence": "line",
+      "gemini_text": "George W. Arrington, Generalissimo",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        663,
+        2444,
+        1375,
+        2484
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=663,2444,712,40",
+      "confidence": "line",
+      "gemini_text": "Horatio N. Smith, Captain General",
+      "surya_confidence": 0.9833
+    },
+    {
+      "bbox": [
+        628,
+        2513,
+        1191,
+        2550
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=628,2513,563,37",
+      "confidence": "line",
+      "gemini_text": "Wm. H. Severson, Recorder",
+      "surya_confidence": 0.9925
+    },
+    {
+      "bbox": [
+        780,
+        2557,
+        1042,
+        2592
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=780,2557,262,35",
+      "confidence": "line",
+      "gemini_text": "326 E st. sw.",
+      "surya_confidence": 0.994
+    },
+    {
+      "bbox": [
+        675,
+        2624,
+        1126,
+        2663
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=675,2624,451,39",
+      "confidence": "line",
+      "gemini_text": "Meets Fourth Friday.",
+      "surya_confidence": 0.9841
+    },
+    {
+      "bbox": [
+        867,
+        2705,
+        940,
+        2741
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=867,2705,73,36",
+      "confidence": "line",
+      "gemini_text": "111",
+      "surya_confidence": 0.9916
+    }
+  ],
+  "unmatched_gemini": []
+}

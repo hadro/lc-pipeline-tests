@@ -1,0 +1,136 @@
+{
+  "image_width": 1681,
+  "image_height": 2755,
+  "lines": [
+    {
+      "bbox": [
+        299,
+        1023,
+        333,
+        1056
+      ],
+      "text": "3,",
+      "confidence": 0.5355
+    },
+    {
+      "bbox": [
+        252,
+        1024,
+        282,
+        1077
+      ],
+      "text": "交流",
+      "confidence": 0.5484
+    },
+    {
+      "bbox": [
+        960,
+        1240,
+        1110,
+        1268
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        423,
+        1341,
+        1168,
+        1397
+      ],
+      "text": "Control of the second of the second of the second",
+      "confidence": 0.1108
+    },
+    {
+      "bbox": [
+        545,
+        1381,
+        951,
+        1462
+      ],
+      "text": "The bequest of",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        549,
+        1463,
+        937,
+        1536
+      ],
+      "text": "Daniel Murray,",
+      "confidence": 0.9711
+    },
+    {
+      "bbox": [
+        516,
+        1539,
+        991,
+        1619
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        393,
+        1618,
+        818,
+        1686
+      ],
+      "text": "1925.",
+      "confidence": 0.8796
+    },
+    {
+      "bbox": [
+        291,
+        1775,
+        648,
+        1825
+      ],
+      "text": "A CONTRACTOR",
+      "confidence": 0.1892
+    },
+    {
+      "bbox": [
+        327,
+        1916,
+        648,
+        1970
+      ],
+      "text": "194 M. Park",
+      "confidence": 0.1311
+    },
+    {
+      "bbox": [
+        594,
+        2048,
+        721,
+        2082
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        522,
+        2052,
+        581,
+        2087
+      ],
+      "text": "13:",
+      "confidence": 0.3016
+    },
+    {
+      "bbox": [
+        262,
+        2180,
+        701,
+        2257
+      ],
+      "text": "The state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of t",
+      "confidence": 0.1019
+    }
+  ]
+}

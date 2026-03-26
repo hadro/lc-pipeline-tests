@@ -1,0 +1,13 @@
+You are transcribing a mid-19th-century United States Naval station bill and logbook, likely dating from 1852–1853, which serves as a directory of crew assignments, vessel armaments, and nautical maneuvers for a fleet including Frigates and Razee Sloops.
+
+The page structure is hierarchical, beginning with a vessel class or maneuver title at the top (e.g., "Frigate - Watch-bill" or "Tacking & Wearing"), followed by sectional headers for specific ship locations or departments such as "Forecastle," "Fore Topmen," "Main Topmen," or "After Guard." Within these sections, data is organized into nested categories of "Port Watch" and "Starb Watch," further divided into "1st Part" and "2nd Part."
+
+The layout varies between dense, full-width prose for maneuvering instructions and a multi-column grid for watch-bills. Watch-bills typically feature four columns representing the watch parts, often flanking a central boxed "Total" column. Armament pages list ship names as primary headers followed by indented lists of gun specifications.
+
+You must recognize and preserve specific 19th-century naval abbreviations and formatting: "Capt" (Captain), "Cox" (Coxswain), "Sea" (Seamen), "OS" (Ordinary Seamen), "Lands" (Landsmen), "cwt" (hundredweight), "pdr" (pounder), and "in" (inch). Pay close attention to the use of ditto marks (") to indicate repeated words from the line above, and preserve the use of curly brackets used to group multiple ranks or gun types together. Numerical data is often underlined or separated by horizontal rules; these should be represented by standard dashes or underscores on their own lines.
+
+Special content includes marginalia written vertically along the page edges, mathematical calculations in the margins, and bracketed "Manning of Guns" tables. Transcribe marginal text at the point where it physically originates on the page, noting its orientation if possible. Handle "Reached" and "Left" port logs as three-column tables: Location, Month/Day, and Year.
+
+Transcription should follow a top-to-bottom, left-to-right reading order. For tabular watch-bills, transcribe row-by-row across the columns to maintain the alignment of ranks (e.g., transcribing all "1 Capt" entries across the watches before moving to "Sea"). If text is blurred or degraded, provide your best estimate based on the surrounding context of naval terminology. Exclude the four-digit archival stamps (e.g., "5004") found at the bottom of the pages. Preserve blank lines between major sections to maintain the visual hierarchy of the document.
+
+Output format: Plain text only, one printed line per output line, no markdown, no commentary.

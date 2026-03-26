@@ -1,0 +1,16 @@
+{
+  "image_width": 1853,
+  "image_height": 2972,
+  "lines": [
+    {
+      "bbox": [
+        470,
+        2892,
+        591,
+        2908
+      ],
+      "text": "the second second second",
+      "confidence": 0.1261
+    }
+  ]
+}

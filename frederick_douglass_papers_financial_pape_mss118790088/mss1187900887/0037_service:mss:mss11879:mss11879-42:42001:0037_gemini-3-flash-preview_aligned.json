@@ -1,0 +1,24 @@
+{
+  "image": "0037_service:mss:mss11879:mss11879-42:42001:0037.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0037",
+  "canvas_width": 1185,
+  "canvas_height": 1730,
+  "surya_median_confidence": 0.4152,
+  "needs_review": true,
+  "lines": [
+    {
+      "bbox": [
+        184,
+        208,
+        640,
+        329
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0037#xywh=184,208,456,121",
+      "confidence": "line",
+      "gemini_text": "Charles Douglass",
+      "surya_confidence": 0.9986
+    }
+  ],
+  "unmatched_gemini": []
+}

@@ -1,0 +1,358 @@
+{
+  "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Bank Ledger",
+    "section_title": "Cover",
+    "year": null
+  },
+  "page_context": {
+    "record_type": "Bank Ledger",
+    "section_title": "CR",
+    "year": "1896"
+  },
+  "entries": [
+    {
+      "date": "July 15, 1895",
+      "description": "Deposit",
+      "amount": "3000.00",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1895",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=294,542,377,112",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "July 19, 1895",
+      "description": "Deposit",
+      "amount": "268.10",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1895",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=183,345,193,62",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "December 19, 1895",
+      "description": "Deposit",
+      "amount": "100.00",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1895",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "April 2, 1896",
+      "description": "Time Deposit",
+      "amount": "20.15",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1896",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "July 17, 1896",
+      "description": "Time Deposit",
+      "amount": "2200.00",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1896",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "April 21, 1896",
+      "description": "Deposit",
+      "amount": "18.00",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1896",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "July 17, 1897",
+      "description": "Interest",
+      "amount": "120.00",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=1149,1040,81,26",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "July 17, 1897",
+      "description": "Total Amount",
+      "amount": "5726.25",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1897",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=468,756,175,41",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "July 15, 1895",
+      "description": "Check",
+      "amount": "3.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1895",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "July 16, 1895",
+      "description": "Check",
+      "amount": "4.80",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1895",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "August 6, 1895",
+      "description": "Check",
+      "amount": "268.25",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1895",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "August 7, 1895",
+      "description": "Check",
+      "amount": "50.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1895",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=1151,682,91,20",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "August 22, 1895",
+      "description": "Check",
+      "amount": "3.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1895",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "August 31, 1895",
+      "description": "Check",
+      "amount": "50.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1895",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "September 27, 1895",
+      "description": "Check",
+      "amount": "100.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1895",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "October 16, 1895",
+      "description": "Check",
+      "amount": "20.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1895",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "November 16, 1895",
+      "description": "Check",
+      "amount": "50.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1895",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "December 9, 1895",
+      "description": "Check",
+      "amount": "100.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1895",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "January 9, 1896",
+      "description": "Check",
+      "amount": "5.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1896",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "January 14, 1896",
+      "description": "Check",
+      "amount": "100.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1896",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "January 31, 1896",
+      "description": "Check",
+      "amount": "50.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1896",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "February 8, 1896",
+      "description": "Check",
+      "amount": "16.75",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1896",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "February 24, 1896",
+      "description": "Check",
+      "amount": "50.25",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1896",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "March 10, 1896",
+      "description": "Check",
+      "amount": "163.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1896",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=1170,449,70,27",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "March 13, 1896",
+      "description": "Check",
+      "amount": "33.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1896",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "March 21, 1896",
+      "description": "Check",
+      "amount": "45.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1896",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "April 3, 1896",
+      "description": "Check",
+      "amount": "60.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1896",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002#xywh=1151,549,56,24",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "November 2, 1896",
+      "description": "Check",
+      "amount": "100.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1896",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "November 2, 1896",
+      "description": "Check",
+      "amount": "5.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1896",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "November 2, 1896",
+      "description": "Check",
+      "amount": "2.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1896",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    },
+    {
+      "date": "November 2, 1896",
+      "description": "Total Amount",
+      "amount": "3606.25",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1896",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0002",
+      "image": "0002_service:mss:mss11879:mss11879-42:42001:0002.jpg"
+    }
+  ]
+}

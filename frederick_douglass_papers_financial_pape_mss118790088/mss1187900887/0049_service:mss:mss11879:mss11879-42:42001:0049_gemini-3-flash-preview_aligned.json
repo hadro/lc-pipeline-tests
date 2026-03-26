@@ -1,0 +1,13 @@
+{
+  "image": "0049_service:mss:mss11879:mss11879-42:42001:0049.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0049",
+  "canvas_width": 756,
+  "canvas_height": 1152,
+  "surya_median_confidence": 0.7326,
+  "needs_review": false,
+  "lines": [],
+  "unmatched_gemini": [
+    "PENDLETON PR 934 F"
+  ]
+}

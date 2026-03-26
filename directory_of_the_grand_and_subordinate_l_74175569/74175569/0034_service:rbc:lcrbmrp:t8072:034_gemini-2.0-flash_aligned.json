@@ -1,0 +1,288 @@
+{
+  "image": "0034_service:rbc:lcrbmrp:t8072:034.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034",
+  "canvas_width": 1835,
+  "canvas_height": 2999,
+  "surya_median_confidence": 0.9868,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        396,
+        462,
+        1371,
+        541
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=396,462,975,79",
+      "confidence": "line",
+      "gemini_text": "Past M. Ex. Grand High Priests.",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        208,
+        729,
+        1567,
+        823
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=208,729,1359,94",
+      "confidence": "line",
+      "gemini_text": "Adolphus Hall 1866",
+      "surya_confidence": 0.9804
+    },
+    {
+      "bbox": [
+        211,
+        836,
+        1565,
+        898
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=211,836,1354,62",
+      "confidence": "line",
+      "gemini_text": "William H. Thomas 1867",
+      "surya_confidence": 0.9862
+    },
+    {
+      "bbox": [
+        207,
+        894,
+        1571,
+        987
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=207,894,1364,93",
+      "confidence": "line",
+      "gemini_text": "Charles Hunt 1868",
+      "surya_confidence": 0.9715
+    },
+    {
+      "bbox": [
+        211,
+        1004,
+        1570,
+        1081
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=211,1004,1359,77",
+      "confidence": "line",
+      "gemini_text": "Isaac Clark 1869",
+      "surya_confidence": 0.9932
+    },
+    {
+      "bbox": [
+        214,
+        1101,
+        1571,
+        1172
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=214,1101,1357,71",
+      "confidence": "line",
+      "gemini_text": "William H. Edinburgh 1870",
+      "surya_confidence": 0.9876
+    },
+    {
+      "bbox": [
+        214,
+        1191,
+        1576,
+        1262
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=214,1191,1362,71",
+      "confidence": "line",
+      "gemini_text": "Charles C. C. Johnson 1873",
+      "surya_confidence": 0.9778
+    },
+    {
+      "bbox": [
+        217,
+        1275,
+        1576,
+        1352
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=217,1275,1359,77",
+      "confidence": "line",
+      "gemini_text": "William H. Myers 1877",
+      "surya_confidence": 0.9839
+    },
+    {
+      "bbox": [
+        220,
+        1361,
+        1576,
+        1434
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=220,1361,1356,73",
+      "confidence": "line",
+      "gemini_text": "Thornton A. Jackson 1878",
+      "surya_confidence": 0.9926
+    },
+    {
+      "bbox": [
+        220,
+        1452,
+        1577,
+        1523
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=220,1452,1357,71",
+      "confidence": "line",
+      "gemini_text": "J. R. Contee 1879",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        221,
+        1547,
+        1577,
+        1615
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=221,1547,1356,68",
+      "confidence": "line",
+      "gemini_text": "John B. Hutchings 1880",
+      "surya_confidence": 0.9766
+    },
+    {
+      "bbox": [
+        222,
+        1635,
+        1580,
+        1698
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=222,1635,1358,63",
+      "confidence": "line",
+      "gemini_text": "John H. Burrill 1883",
+      "surya_confidence": 0.9754
+    },
+    {
+      "bbox": [
+        224,
+        1723,
+        1582,
+        1795
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=224,1723,1358,72",
+      "confidence": "line",
+      "gemini_text": "John W. Freeman 1885",
+      "surya_confidence": 0.9781
+    },
+    {
+      "bbox": [
+        224,
+        1807,
+        1585,
+        1904
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=224,1807,1361,97",
+      "confidence": "line",
+      "gemini_text": "S. A. W. Simms 1887",
+      "surya_confidence": 0.988
+    },
+    {
+      "bbox": [
+        227,
+        1906,
+        1584,
+        1967
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=227,1906,1357,61",
+      "confidence": "line",
+      "gemini_text": "Robert H. Summerville 1888",
+      "surya_confidence": 0.9868
+    },
+    {
+      "bbox": [
+        223,
+        1969,
+        1589,
+        2063
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=223,1969,1366,94",
+      "confidence": "line",
+      "gemini_text": "Benjamin F. Dailey 1890",
+      "surya_confidence": 0.9899
+    },
+    {
+      "bbox": [
+        227,
+        2079,
+        1586,
+        2148
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=227,2079,1359,69",
+      "confidence": "line",
+      "gemini_text": "William F. Thomas 1891",
+      "surya_confidence": 0.9927
+    },
+    {
+      "bbox": [
+        227,
+        2152,
+        1588,
+        2243
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=227,2152,1361,91",
+      "confidence": "line",
+      "gemini_text": "Noble N. Snowden 1892",
+      "surya_confidence": 0.9768
+    },
+    {
+      "bbox": [
+        230,
+        2261,
+        1588,
+        2323
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=230,2261,1358,62",
+      "confidence": "line",
+      "gemini_text": "Horatio N. Smith 1893",
+      "surya_confidence": 0.9935
+    },
+    {
+      "bbox": [
+        235,
+        2334,
+        1590,
+        2434
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=235,2334,1355,100",
+      "confidence": "line",
+      "gemini_text": "John N. Dorster 1895",
+      "surya_confidence": 0.9932
+    },
+    {
+      "bbox": [
+        233,
+        2441,
+        1589,
+        2501
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=233,2441,1356,60",
+      "confidence": "line",
+      "gemini_text": "Samuel H. West 1898",
+      "surya_confidence": 0.9858
+    },
+    {
+      "bbox": [
+        233,
+        2531,
+        1592,
+        2590
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=233,2531,1359,59",
+      "confidence": "line",
+      "gemini_text": "Frank H. Cozzens 1901",
+      "surya_confidence": 0.9917
+    },
+    {
+      "bbox": [
+        885,
+        2631,
+        977,
+        2664
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:034#xywh=885,2631,92,33",
+      "confidence": "line",
+      "gemini_text": "25",
+      "surya_confidence": 0.9721
+    }
+  ],
+  "unmatched_gemini": []
+}

@@ -1,0 +1,266 @@
+{
+  "image_width": 1820,
+  "image_height": 2910,
+  "lines": [
+    {
+      "bbox": [
+        444,
+        303,
+        1142,
+        343
+      ],
+      "text": "INTER-OCEAN BUILDING.",
+      "confidence": 0.9271
+    },
+    {
+      "bbox": [
+        553,
+        392,
+        1028,
+        438
+      ],
+      "text": "Telephone, Main 675.",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        145,
+        570,
+        1414,
+        699
+      ],
+      "text": "The Julius Lansburgh Furniture and Carpet Co.",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        488,
+        746,
+        1096,
+        821
+      ],
+      "text": "FURNITURE,",
+      "confidence": 0.8797
+    },
+    {
+      "bbox": [
+        414,
+        860,
+        1193,
+        965
+      ],
+      "text": "CARPETS,",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        219,
+        999,
+        1358,
+        1077
+      ],
+      "text": "UPHOLSTERY FABRICS,",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        342,
+        1108,
+        1248,
+        1183
+      ],
+      "text": "INTERIOR DECORATIONS,",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        699,
+        1224,
+        878,
+        1285
+      ],
+      "text": "ETC.",
+      "confidence": 0.856
+    },
+    {
+      "bbox": [
+        149,
+        1328,
+        1433,
+        1386
+      ],
+      "text": "512 NINTH STREET, N. W., WASHINGTON, D. C.",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        527,
+        1463,
+        1046,
+        1516
+      ],
+      "text": "REUBEN S. SMITH,",
+      "confidence": 0.8872
+    },
+    {
+      "bbox": [
+        310,
+        1562,
+        1271,
+        1624
+      ],
+      "text": "Attorney and Counsellor at Law,",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        489,
+        1677,
+        1075,
+        1725
+      ],
+      "text": "420 Fifth Street, N. W.",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        882,
+        1773,
+        1353,
+        1826
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        233,
+        1782,
+        567,
+        1823
+      ],
+      "text": "Second Floor.",
+      "confidence": 0.9766
+    },
+    {
+      "bbox": [
+        123,
+        1868,
+        1465,
+        1919
+      ],
+      "text": "Residence, 715 Second Street, N. W. Telephone, East 24-Y.",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        124,
+        2046,
+        1466,
+        2095
+      ],
+      "text": "Practices in all the Courts of the District of Columbia, in",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        256,
+        2092,
+        1334,
+        2138
+      ],
+      "text": "the Court of Claims, in the Supreme Court of the",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        462,
+        2141,
+        1125,
+        2179
+      ],
+      "text": "United States, and before the",
+      "confidence": 0.9708
+    },
+    {
+      "bbox": [
+        509,
+        2185,
+        1095,
+        2222
+      ],
+      "text": "Government Departments.",
+      "confidence": 0.9503
+    },
+    {
+      "bbox": [
+        342,
+        2259,
+        1239,
+        2311
+      ],
+      "text": "JESSE J. & WILLIS A. MADDEN,",
+      "confidence": 0.9236
+    },
+    {
+      "bbox": [
+        227,
+        2341,
+        1361,
+        2405
+      ],
+      "text": "TINNING AND HEATING,",
+      "confidence": 0.953
+    },
+    {
+      "bbox": [
+        312,
+        2414,
+        1275,
+        2465
+      ],
+      "text": "S. E. Corner 8th and S Streets, N. W.",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        510,
+        2474,
+        1076,
+        2525
+      ],
+      "text": "Telephone, Main 3996-A.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        143,
+        2517,
+        1439,
+        2569
+      ],
+      "text": "Orders Taken for Small Repair Jobs of Carpenter Work,",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        485,
+        2567,
+        1096,
+        2611
+      ],
+      "text": "Painting and Bricklaying.",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        119,
+        2606,
+        1467,
+        2660
+      ],
+      "text": "Personal Attention Given to Repairing and Painting Roofs.",
+      "confidence": 0.9937
+    }
+  ]
+}

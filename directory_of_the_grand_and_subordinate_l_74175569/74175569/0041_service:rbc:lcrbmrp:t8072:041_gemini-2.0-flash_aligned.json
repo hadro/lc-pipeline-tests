@@ -1,0 +1,312 @@
+{
+  "image": "0041_service:rbc:lcrbmrp:t8072:041.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041",
+  "canvas_width": 1895,
+  "canvas_height": 3042,
+  "surya_median_confidence": 0.9931,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        277,
+        428,
+        1202,
+        504
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=277,428,925,76",
+      "confidence": "line",
+      "gemini_text": "DR. A. W. TANCIL,",
+      "surya_confidence": 0.9807
+    },
+    {
+      "bbox": [
+        666,
+        576,
+        1171,
+        616
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=666,576,505,40",
+      "confidence": "line",
+      "gemini_text": "2111 Pa. Ave., N. W.,",
+      "surya_confidence": 0.9974
+    },
+    {
+      "bbox": [
+        1189,
+        705,
+        1612,
+        745
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=1189,705,423,40",
+      "confidence": "line",
+      "gemini_text": "Washington, D. C.",
+      "surya_confidence": 0.9896
+    },
+    {
+      "bbox": [
+        282,
+        836,
+        1141,
+        906
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=282,836,859,70",
+      "confidence": "line",
+      "gemini_text": "DR. PHIL. BROOME BROOKS,",
+      "surya_confidence": 0.5242
+    },
+    {
+      "bbox": [
+        852,
+        982,
+        1358,
+        1024
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=852,982,506,42",
+      "confidence": "line",
+      "gemini_text": "306 3d Street, S. W.,",
+      "surya_confidence": 0.9938
+    },
+    {
+      "bbox": [
+        463,
+        1110,
+        1622,
+        1166
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=463,1110,1159,56",
+      "confidence": "line",
+      "gemini_text": "Office Hours: 8 to 10 A. M., 1 to 2, and 6 to 8 P. M.",
+      "surya_confidence": 0.9919
+    },
+    {
+      "bbox": [
+        324,
+        1239,
+        1101,
+        1297
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=324,1239,777,58",
+      "confidence": "line",
+      "gemini_text": "DR. WILLIAM A. WARFIELD,",
+      "surya_confidence": 0.8504
+    },
+    {
+      "bbox": [
+        635,
+        1331,
+        1349,
+        1381
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=635,1331,714,50",
+      "confidence": "line",
+      "gemini_text": "Office, 1901 11th Street, N. W.",
+      "surya_confidence": 0.9974
+    },
+    {
+      "bbox": [
+        839,
+        1413,
+        1633,
+        1467
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=839,1413,794,54",
+      "confidence": "line",
+      "gemini_text": "Phone, Main 2770. Hours: Until 9.30, and 4 to 6 P. M.",
+      "surya_confidence": 0.9928
+    },
+    {
+      "bbox": [
+        507,
+        1508,
+        1395,
+        1561
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=507,1508,888,53",
+      "confidence": "line",
+      "gemini_text": "Surgeon in Chief, Freedmen's Hospital",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        291,
+        1629,
+        1146,
+        1704
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=291,1629,855,75",
+      "confidence": "line",
+      "gemini_text": "DR. SAMUEL ROGER WAT S,",
+      "surya_confidence": 0.9699
+    },
+    {
+      "bbox": [
+        651,
+        1727,
+        1265,
+        1780
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=651,1727,614,53",
+      "confidence": "line",
+      "gemini_text": "Office, 1343 V Street N. W.",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        1067,
+        1809,
+        1634,
+        1864
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=1067,1809,567,55",
+      "confidence": "line",
+      "gemini_text": "Telephone, Main 3965-F.",
+      "surya_confidence": 0.9976
+    },
+    {
+      "bbox": [
+        290,
+        1871,
+        837,
+        1912
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=290,1871,547,41",
+      "confidence": "line",
+      "gemini_text": "Office Consultation from",
+      "surya_confidence": 0.9018
+    },
+    {
+      "bbox": [
+        589,
+        1918,
+        1336,
+        1966
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=589,1918,747,48",
+      "confidence": "line",
+      "gemini_text": "8 to 10 A. M. and 3 to 7.30 P. M.",
+      "surya_confidence": 0.9973
+    },
+    {
+      "bbox": [
+        295,
+        2037,
+        836,
+        2120
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=295,2037,541,83",
+      "confidence": "line",
+      "gemini_text": "DR. C. W. CHILDS,",
+      "surya_confidence": 0.7072
+    },
+    {
+      "bbox": [
+        684,
+        2131,
+        1633,
+        2184
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=684,2131,949,53",
+      "confidence": "line",
+      "gemini_text": "Office and Residence, 513 3d Street, S. W.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        903,
+        2190,
+        1418,
+        2239
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=903,2190,515,49",
+      "confidence": "line",
+      "gemini_text": "Telephone, Main 82-F.",
+      "surya_confidence": 0.9965
+    },
+    {
+      "bbox": [
+        385,
+        2276,
+        1550,
+        2338
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=385,2276,1165,62",
+      "confidence": "line",
+      "gemini_text": "Office Hours: 8 to 10 A. M., 12 to 2 and 5 to 7 P. M.",
+      "surya_confidence": 0.9911
+    },
+    {
+      "bbox": [
+        690,
+        2338,
+        1231,
+        2389
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=690,2338,541,51",
+      "confidence": "line",
+      "gemini_text": "(Eureka Lodge, No. 5.)",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        297,
+        2412,
+        936,
+        2515
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=297,2412,639,103",
+      "confidence": "line",
+      "gemini_text": "DR. E. D. WILLISTON,",
+      "surya_confidence": 0.9786
+    },
+    {
+      "bbox": [
+        678,
+        2517,
+        1646,
+        2570
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=678,2517,968,53",
+      "confidence": "line",
+      "gemini_text": "Office and Residence, 1434 T Street N. W.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        891,
+        2608,
+        1440,
+        2656
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=891,2608,549,48",
+      "confidence": "line",
+      "gemini_text": "Telephone, Main 2408-F.",
+      "surya_confidence": 0.9966
+    },
+    {
+      "bbox": [
+        399,
+        2694,
+        1539,
+        2757
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=399,2694,1140,63",
+      "confidence": "line",
+      "gemini_text": "Office Hours, 8 to 10 A. M., 2 to 3 and 6 to 8 P. M.",
+      "surya_confidence": 0.9934
+    },
+    {
+      "bbox": [
+        941,
+        2765,
+        999,
+        2797
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:041#xywh=941,2765,58,32",
+      "confidence": "line",
+      "gemini_text": "32",
+      "surya_confidence": 0.9635
+    }
+  ],
+  "unmatched_gemini": []
+}

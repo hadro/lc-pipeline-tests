@@ -1,0 +1,204 @@
+{
+  "image": "0128_service:rbc:lcrbmrp:t8072:128.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128",
+  "canvas_width": 1827,
+  "canvas_height": 3004,
+  "surya_median_confidence": 0.9948,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        446,
+        466,
+        1393,
+        535
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128#xywh=446,466,947,69",
+      "confidence": "line",
+      "gemini_text": "Zerubbabel Court, No. 1, Heroines",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        765,
+        586,
+        1067,
+        655
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128#xywh=765,586,302,69",
+      "confidence": "line",
+      "gemini_text": "of Jericho.",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        444,
+        899,
+        1396,
+        954
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128#xywh=444,899,952,55",
+      "confidence": "line",
+      "gemini_text": "Thornton A. Jackson..........M. W. F. J.",
+      "surya_confidence": 0.9984
+    },
+    {
+      "bbox": [
+        770,
+        976,
+        1070,
+        1015
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128#xywh=770,976,300,39",
+      "confidence": "line",
+      "gemini_text": "1229 T st. nw.",
+      "surya_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        445,
+        1071,
+        1393,
+        1124
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128#xywh=445,1071,948,53",
+      "confidence": "line",
+      "gemini_text": "Helen Jackson......M. A. M., 1229 T st. nw.",
+      "surya_confidence": 0.9952
+    },
+    {
+      "bbox": [
+        513,
+        1141,
+        1329,
+        1189
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128#xywh=513,1141,816,48",
+      "confidence": "line",
+      "gemini_text": "Julia Jackson, Secretary, 429 6½ st. sw.",
+      "surya_confidence": 0.9856
+    },
+    {
+      "bbox": [
+        683,
+        1241,
+        1159,
+        1289
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128#xywh=683,1241,476,48",
+      "confidence": "line",
+      "gemini_text": "Meets Second Monday.",
+      "surya_confidence": 0.9895
+    },
+    {
+      "bbox": [
+        449,
+        1725,
+        1400,
+        1804
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128#xywh=449,1725,951,79",
+      "confidence": "line",
+      "gemini_text": "Datcher Court, No. 3, Heroines of",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        813,
+        1852,
+        1044,
+        1923
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128#xywh=813,1852,231,71",
+      "confidence": "line",
+      "gemini_text": "Jericho.",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        446,
+        2133,
+        1398,
+        2201
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128#xywh=446,2133,952,68",
+      "confidence": "line",
+      "gemini_text": "James O. Bampfield,.......... M. W. F. J.",
+      "surya_confidence": 0.9956
+    },
+    {
+      "bbox": [
+        761,
+        2214,
+        1070,
+        2253
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128#xywh=761,2214,309,39",
+      "confidence": "line",
+      "gemini_text": "1119 V st. nw.",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        450,
+        2308,
+        1397,
+        2363
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128#xywh=450,2308,947,55",
+      "confidence": "line",
+      "gemini_text": "Rebecca J. Taylor..........M. A. M.",
+      "surya_confidence": 0.9944
+    },
+    {
+      "bbox": [
+        575,
+        2375,
+        1267,
+        2428
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128#xywh=575,2375,692,53",
+      "confidence": "line",
+      "gemini_text": "1245 Austin st., Brookland, D. C.",
+      "surya_confidence": 0.9976
+    },
+    {
+      "bbox": [
+        448,
+        2479,
+        1402,
+        2528
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128#xywh=448,2479,954,49",
+      "confidence": "line",
+      "gemini_text": "Mary Ida Miller, Secretary, 321 Oak st. nw.",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        712,
+        2594,
+        1149,
+        2636
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128#xywh=712,2594,437,42",
+      "confidence": "line",
+      "gemini_text": "Meets First Tuesday.",
+      "surya_confidence": 0.9915
+    },
+    {
+      "bbox": [
+        884,
+        2720,
+        968,
+        2758
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128#xywh=884,2720,84,38",
+      "confidence": "line",
+      "gemini_text": "119",
+      "surya_confidence": 0.9929
+    }
+  ],
+  "unmatched_gemini": []
+}

@@ -1,0 +1,127 @@
+{
+  "image": "0122_service:rbc:lcrbmrp:t8072:122.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+    "organization_name": "Mt. Calvary Commandery, K. T., No. 4"
+  },
+  "page_context": {
+    "section_title": "GRAND CHAPTER, O. E. S.",
+    "organization_name": "Gethsemane Chapter, No. 4, O. E. S."
+  },
+  "entries": [
+    {
+      "name": "James O. Bampfield",
+      "title_or_role": "Grand Royal Patron",
+      "address": "1119 V st. nw.",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "GRAND CHAPTER, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=406,540,951,77",
+      "image": "0122_service:rbc:lcrbmrp:t8072:122.jpg"
+    },
+    {
+      "name": "Elizabeth W. Marshall",
+      "title_or_role": "Grand Royal Matron",
+      "address": "1203 K st. nw.",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "GRAND CHAPTER, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=408,652,953,74",
+      "image": "0122_service:rbc:lcrbmrp:t8072:122.jpg"
+    },
+    {
+      "name": "Ellen L. Wayne",
+      "title_or_role": "Grand Secretary",
+      "address": "315 East Capitol st.",
+      "meeting_info": "Annual Meeting, Tuesday, May 24, 1904.",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "GRAND CHAPTER, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=410,775,952,77",
+      "image": "0122_service:rbc:lcrbmrp:t8072:122.jpg"
+    },
+    {
+      "name": "Mary Alice Parker",
+      "title_or_role": "Royal Matron",
+      "address": "212 E st. sw.",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Queen Esther Chapter, No. 1, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=410,1158,952,72",
+      "image": "0122_service:rbc:lcrbmrp:t8072:122.jpg"
+    },
+    {
+      "name": "Henry C. Irving",
+      "title_or_role": "Royal Patron",
+      "address": "410 D st. se.",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Queen Esther Chapter, No. 1, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=417,1269,950,74",
+      "image": "0122_service:rbc:lcrbmrp:t8072:122.jpg"
+    },
+    {
+      "name": "Georgina Gleaves",
+      "title_or_role": "Secretary",
+      "address": "126 Carroll st. se.",
+      "meeting_info": "Meets Third Friday.",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Queen Esther Chapter, No. 1, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=413,1349,956,71",
+      "image": "0122_service:rbc:lcrbmrp:t8072:122.jpg"
+    },
+    {
+      "name": "Sarah E. Evans",
+      "title_or_role": "Royal Matron",
+      "address": "817 Cottage Hill, ne.",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Queen of Sheba Chapter, No. 3, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=419,1743,952,69",
+      "image": "0122_service:rbc:lcrbmrp:t8072:122.jpg"
+    },
+    {
+      "name": "Wm. A. Baltimore",
+      "title_or_role": "Royal Patron",
+      "address": "71 G st. sw.",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Queen of Sheba Chapter, No. 3, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=419,1858,954,60",
+      "image": "0122_service:rbc:lcrbmrp:t8072:122.jpg"
+    },
+    {
+      "name": "Gertrude L. Baltimore",
+      "title_or_role": "Secretary",
+      "address": "71 G st. sw.",
+      "meeting_info": "Meets Third Monday.",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Queen of Sheba Chapter, No. 3, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=418,1936,959,59",
+      "image": "0122_service:rbc:lcrbmrp:t8072:122.jpg"
+    },
+    {
+      "name": "Hannah Stevenson",
+      "title_or_role": "Royal Matron",
+      "address": "1612 11th nw.",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Gethsemane Chapter, No. 4, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=424,2338,953,68",
+      "image": "0122_service:rbc:lcrbmrp:t8072:122.jpg"
+    },
+    {
+      "name": "John F. N. Wilkinson",
+      "title_or_role": "Royal Patron",
+      "address": "901 E st. sw.",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Gethsemane Chapter, No. 4, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=423,2451,954,59",
+      "image": "0122_service:rbc:lcrbmrp:t8072:122.jpg"
+    },
+    {
+      "name": "Bertha N. Gray",
+      "title_or_role": "Secretary",
+      "address": "1634 4th nw.",
+      "meeting_info": "Meets Third Wednesday.",
+      "section_title": "GRAND CHAPTER, O. E. S.",
+      "organization_name": "Gethsemane Chapter, No. 4, O. E. S.",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=482,2576,852,57",
+      "image": "0122_service:rbc:lcrbmrp:t8072:122.jpg"
+    }
+  ]
+}

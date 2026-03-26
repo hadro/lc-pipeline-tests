@@ -1,0 +1,626 @@
+{
+  "image_width": 1769,
+  "image_height": 1567,
+  "lines": [
+    {
+      "bbox": [
+        1312,
+        113,
+        1590,
+        137
+      ],
+      "text": "JAMES F. HOOD, PRESIDENT.",
+      "confidence": 0.949
+    },
+    {
+      "bbox": [
+        763,
+        117,
+        986,
+        137
+      ],
+      "text": "BUSINESS ESTABLISHED",
+      "confidence": 0.7031
+    },
+    {
+      "bbox": [
+        79,
+        125,
+        409,
+        154
+      ],
+      "text": "RENT DEPARTMENT,",
+      "confidence": 0.8542
+    },
+    {
+      "bbox": [
+        843,
+        145,
+        909,
+        165
+      ],
+      "text": "1887.",
+      "confidence": 0.9814
+    },
+    {
+      "bbox": [
+        1313,
+        147,
+        1667,
+        171
+      ],
+      "text": "FIRMAN R. HORNER, VICE-PRESIDENT.",
+      "confidence": 0.9678
+    },
+    {
+      "bbox": [
+        114,
+        166,
+        371,
+        192
+      ],
+      "text": "JOHN A. MASSIE, SUPT.",
+      "confidence": 0.9347
+    },
+    {
+      "bbox": [
+        1313,
+        181,
+        1665,
+        205
+      ],
+      "text": "A. M. MCLACHLEN, SECTY AND TREAS.",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        1102,
+        237,
+        1656,
+        286
+      ],
+      "text": "Maril 14 ch 190 3.",
+      "confidence": 0.7637
+    },
+    {
+      "bbox": [
+        76,
+        286,
+        728,
+        350
+      ],
+      "text": "Mers Otelen Donglass.",
+      "confidence": 0.9001
+    },
+    {
+      "bbox": [
+        765,
+        362,
+        981,
+        380
+      ],
+      "text": "IN ACCOUNT WITH",
+      "confidence": 0.9441
+    },
+    {
+      "bbox": [
+        266,
+        398,
+        1486,
+        458
+      ],
+      "text": "The McLachlen Real Estate and Loan Company,",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        676,
+        471,
+        1086,
+        513
+      ],
+      "text": "BANKERS,",
+      "confidence": 0.8364
+    },
+    {
+      "bbox": [
+        908,
+        527,
+        1169,
+        551
+      ],
+      "text": "CAPITAL, $150,000.",
+      "confidence": 0.8203
+    },
+    {
+      "bbox": [
+        582,
+        528,
+        815,
+        550
+      ],
+      "text": "INCORPORATED.",
+      "confidence": 0.9568
+    },
+    {
+      "bbox": [
+        357,
+        563,
+        1394,
+        603
+      ],
+      "text": "REAL ESTATE, INSURANCE, LOANS AND RENTS.",
+      "confidence": 0.9389
+    },
+    {
+      "bbox": [
+        551,
+        607,
+        769,
+        631
+      ],
+      "text": "ESTATES MANAGED.",
+      "confidence": 0.8753
+    },
+    {
+      "bbox": [
+        905,
+        607,
+        1201,
+        629
+      ],
+      "text": "SAFE INVESTMENTS MADE.",
+      "confidence": 0.9745
+    },
+    {
+      "bbox": [
+        1056,
+        644,
+        1342,
+        670
+      ],
+      "text": "WASHINGTON, D. C.",
+      "confidence": 0.8358
+    },
+    {
+      "bbox": [
+        409,
+        649,
+        769,
+        674
+      ],
+      "text": "Corner 10th and G Streets,",
+      "confidence": 0.9744
+    },
+    {
+      "bbox": [
+        763,
+        685,
+        989,
+        709
+      ],
+      "text": "TELEPHONE, MAIN 432.",
+      "confidence": 0.9182
+    },
+    {
+      "bbox": [
+        1478,
+        751,
+        1592,
+        769
+      ],
+      "text": "AMOUNT.",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        934,
+        753,
+        1039,
+        773
+      ],
+      "text": "PERIOD.",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        257,
+        759,
+        395,
+        779
+      ],
+      "text": "PREMISES.",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        585,
+        803,
+        1395,
+        861
+      ],
+      "text": "By rent from 4/12 190 3, to 4/2 190 3",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        1402,
+        817,
+        1603,
+        854
+      ],
+      "text": "27 50",
+      "confidence": 0.9857
+    },
+    {
+      "bbox": [
+        81,
+        825,
+        580,
+        861
+      ],
+      "text": "No. 2701 - CM. Street M. W.",
+      "confidence": 0.9664
+    },
+    {
+      "bbox": [
+        753,
+        872,
+        1018,
+        896
+      ],
+      "text": "- ( (",
+      "confidence": 0.3708
+    },
+    {
+      "bbox": [
+        1070,
+        874,
+        1313,
+        894
+      ],
+      "text": "( (",
+      "confidence": 0.3531
+    },
+    {
+      "bbox": [
+        98,
+        881,
+        122,
+        895
+      ],
+      "text": "44",
+      "confidence": 0.7334
+    },
+    {
+      "bbox": [
+        476,
+        888,
+        566,
+        900
+      ],
+      "text": "......",
+      "confidence": 0.7239
+    },
+    {
+      "bbox": [
+        1070,
+        915,
+        1316,
+        939
+      ],
+      "text": "“",
+      "confidence": 0.6494
+    },
+    {
+      "bbox": [
+        756,
+        918,
+        1012,
+        942
+      ],
+      "text": ". . . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.6887
+    },
+    {
+      "bbox": [
+        660,
+        921,
+        684,
+        935
+      ],
+      "text": "46",
+      "confidence": 0.7386
+    },
+    {
+      "bbox": [
+        98,
+        925,
+        123,
+        939
+      ],
+      "text": "66",
+      "confidence": 0.5986
+    },
+    {
+      "bbox": [
+        129,
+        930,
+        381,
+        945
+      ],
+      "text": "......",
+      "confidence": 0.7857
+    },
+    {
+      "bbox": [
+        1068,
+        959,
+        1344,
+        984
+      ],
+      "text": ".. ..",
+      "confidence": 0.2784
+    },
+    {
+      "bbox": [
+        723,
+        961,
+        1017,
+        987
+      ],
+      "text": "“",
+      "confidence": 0.7067
+    },
+    {
+      "bbox": [
+        658,
+        966,
+        685,
+        980
+      ],
+      "text": "16",
+      "confidence": 0.5703
+    },
+    {
+      "bbox": [
+        98,
+        970,
+        122,
+        982
+      ],
+      "text": "44",
+      "confidence": 0.5521
+    },
+    {
+      "bbox": [
+        132,
+        975,
+        378,
+        989
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        1066,
+        1003,
+        1312,
+        1030
+      ],
+      "text": "...",
+      "confidence": 0.3208
+    },
+    {
+      "bbox": [
+        754,
+        1005,
+        1019,
+        1032
+      ],
+      "text": "....",
+      "confidence": 0.8179
+    },
+    {
+      "bbox": [
+        660,
+        1010,
+        685,
+        1025
+      ],
+      "text": "11",
+      "confidence": 0.6613
+    },
+    {
+      "bbox": [
+        98,
+        1014,
+        122,
+        1028
+      ],
+      "text": "44",
+      "confidence": 0.7601
+    },
+    {
+      "bbox": [
+        138,
+        1020,
+        384,
+        1034
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        1064,
+        1047,
+        1344,
+        1076
+      ],
+      "text": ".......................................",
+      "confidence": 0.3108
+    },
+    {
+      "bbox": [
+        723,
+        1049,
+        1017,
+        1077
+      ],
+      "text": "“",
+      "confidence": 0.4295
+    },
+    {
+      "bbox": [
+        658,
+        1056,
+        685,
+        1070
+      ],
+      "text": "11",
+      "confidence": 0.6401
+    },
+    {
+      "bbox": [
+        98,
+        1059,
+        123,
+        1072
+      ],
+      "text": "66",
+      "confidence": 0.9056
+    },
+    {
+      "bbox": [
+        132,
+        1064,
+        384,
+        1079
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        660,
+        1100,
+        685,
+        1115
+      ],
+      "text": "66",
+      "confidence": 0.841
+    },
+    {
+      "bbox": [
+        100,
+        1104,
+        120,
+        1117
+      ],
+      "text": "64",
+      "confidence": 0.5755
+    },
+    {
+      "bbox": [
+        135,
+        1110,
+        305,
+        1123
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        1295,
+        1136,
+        1369,
+        1158
+      ],
+      "text": "Total,",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        87,
+        1206,
+        902,
+        1254
+      ],
+      "text": "To Commission per cent. on $ 27. collected, -",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        905,
+        1214,
+        1023,
+        1239
+      ],
+      "text": "- -",
+      "confidence": 0.8234
+    },
+    {
+      "bbox": [
+        98,
+        1254,
+        1389,
+        1298
+      ],
+      "text": "\" Insurance, $ ......; Taxes paid, $ ......",
+      "confidence": 0.8795
+    },
+    {
+      "bbox": [
+        97,
+        1308,
+        972,
+        1336
+      ],
+      "text": "\" Repairs made, $",
+      "confidence": 0.9048
+    },
+    {
+      "bbox": [
+        1406,
+        1339,
+        1668,
+        1369
+      ],
+      "text": "26/2",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        98,
+        1340,
+        836,
+        1387
+      ],
+      "text": "\" Check No. 3406 to balance, - - -",
+      "confidence": 0.9525
+    },
+    {
+      "bbox": [
+        1406,
+        1383,
+        1673,
+        1429
+      ],
+      "text": "2750",
+      "confidence": 0.9559
+    },
+    {
+      "bbox": [
+        1279,
+        1392,
+        1364,
+        1428
+      ],
+      "text": "Total,",
+      "confidence": 0.9948
+    }
+  ]
+}

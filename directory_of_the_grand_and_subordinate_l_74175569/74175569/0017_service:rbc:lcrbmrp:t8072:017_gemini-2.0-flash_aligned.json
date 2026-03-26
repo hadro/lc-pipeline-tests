@@ -1,0 +1,315 @@
+{
+  "image": "0017_service:rbc:lcrbmrp:t8072:017.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017",
+  "canvas_width": 1820,
+  "canvas_height": 2910,
+  "surya_median_confidence": 0.9917,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        444,
+        303,
+        1142,
+        343
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=444,303,698,40",
+      "confidence": "line",
+      "gemini_text": "INTER-OCEAN BUILDING.",
+      "surya_confidence": 0.9271
+    },
+    {
+      "bbox": [
+        553,
+        392,
+        1028,
+        438
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=553,392,475,46",
+      "confidence": "line",
+      "gemini_text": "Telephone, Main 675.",
+      "surya_confidence": 0.996
+    },
+    {
+      "bbox": [
+        145,
+        570,
+        1414,
+        699
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=145,570,1269,129",
+      "confidence": "line",
+      "gemini_text": "The Julius Lansburgh Furniture and Carpet Co.",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        488,
+        746,
+        1096,
+        821
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=488,746,608,75",
+      "confidence": "line",
+      "gemini_text": "FURNITURE,",
+      "surya_confidence": 0.8797
+    },
+    {
+      "bbox": [
+        414,
+        860,
+        1193,
+        965
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=414,860,779,105",
+      "confidence": "line",
+      "gemini_text": "CARPETS,",
+      "surya_confidence": 0.9936
+    },
+    {
+      "bbox": [
+        219,
+        999,
+        1358,
+        1077
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=219,999,1139,78",
+      "confidence": "line",
+      "gemini_text": "UPHOLSTERY FABRICS,",
+      "surya_confidence": 0.9958
+    },
+    {
+      "bbox": [
+        342,
+        1108,
+        1248,
+        1183
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=342,1108,906,75",
+      "confidence": "line",
+      "gemini_text": "INTERIOR DECORATIONS,",
+      "surya_confidence": 0.9853
+    },
+    {
+      "bbox": [
+        699,
+        1224,
+        878,
+        1285
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=699,1224,179,61",
+      "confidence": "line",
+      "gemini_text": "Етс.",
+      "surya_confidence": 0.856
+    },
+    {
+      "bbox": [
+        149,
+        1328,
+        1433,
+        1386
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=149,1328,1284,58",
+      "confidence": "line",
+      "gemini_text": "512 NINTH STREET, N. W., WASHINGTON, D. C.",
+      "surya_confidence": 0.9906
+    },
+    {
+      "bbox": [
+        527,
+        1463,
+        1046,
+        1516
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=527,1463,519,53",
+      "confidence": "line",
+      "gemini_text": "REUBEN S. SMITH,",
+      "surya_confidence": 0.8872
+    },
+    {
+      "bbox": [
+        310,
+        1562,
+        1271,
+        1624
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=310,1562,961,62",
+      "confidence": "line",
+      "gemini_text": "Attorney and Counsellor at Law,",
+      "surya_confidence": 0.9943
+    },
+    {
+      "bbox": [
+        489,
+        1677,
+        1075,
+        1725
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=489,1677,586,48",
+      "confidence": "line",
+      "gemini_text": "420 Fifth Street, N. W.",
+      "surya_confidence": 0.9951
+    },
+    {
+      "bbox": [
+        882,
+        1773,
+        1353,
+        1826
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=882,1773,471,53",
+      "confidence": "line",
+      "gemini_text": "Second Floor. Washington, D. C.",
+      "surya_confidence": 0.9927
+    },
+    {
+      "bbox": [
+        123,
+        1868,
+        1465,
+        1919
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=123,1868,1342,51",
+      "confidence": "line",
+      "gemini_text": "Residence, 715 Second Street, N. W. Telephone, East 24-Y.",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        124,
+        2046,
+        1466,
+        2095
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=124,2046,1342,49",
+      "confidence": "line",
+      "gemini_text": "Practices in all the Courts of the District of Columbia, in",
+      "surya_confidence": 0.9901
+    },
+    {
+      "bbox": [
+        256,
+        2092,
+        1334,
+        2138
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=256,2092,1078,46",
+      "confidence": "line",
+      "gemini_text": "the Court of Claims, in the Supreme Court of the",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        462,
+        2141,
+        1125,
+        2179
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=462,2141,663,38",
+      "confidence": "line",
+      "gemini_text": "United States, and before the",
+      "surya_confidence": 0.9708
+    },
+    {
+      "bbox": [
+        509,
+        2185,
+        1095,
+        2222
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=509,2185,586,37",
+      "confidence": "line",
+      "gemini_text": "Government Departments.",
+      "surya_confidence": 0.9503
+    },
+    {
+      "bbox": [
+        342,
+        2259,
+        1239,
+        2311
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=342,2259,897,52",
+      "confidence": "line",
+      "gemini_text": "JESSE J. & WILLIS A. MADDEN,",
+      "surya_confidence": 0.9236
+    },
+    {
+      "bbox": [
+        227,
+        2341,
+        1361,
+        2405
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=227,2341,1134,64",
+      "confidence": "line",
+      "gemini_text": "TINNING AND HEATING,",
+      "surya_confidence": 0.953
+    },
+    {
+      "bbox": [
+        312,
+        2414,
+        1275,
+        2465
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=312,2414,963,51",
+      "confidence": "line",
+      "gemini_text": "S. E. Corner 8th and S Streets, N. W.",
+      "surya_confidence": 0.9984
+    },
+    {
+      "bbox": [
+        510,
+        2474,
+        1076,
+        2525
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=510,2474,566,51",
+      "confidence": "line",
+      "gemini_text": "Telephone, Main 3996-A.",
+      "surya_confidence": 0.9965
+    },
+    {
+      "bbox": [
+        143,
+        2517,
+        1439,
+        2569
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=143,2517,1296,52",
+      "confidence": "line",
+      "gemini_text": "Orders Taken for Small Repair Jobs of Carpenter Work,",
+      "surya_confidence": 0.9902
+    },
+    {
+      "bbox": [
+        485,
+        2567,
+        1096,
+        2611
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=485,2567,611,44",
+      "confidence": "line",
+      "gemini_text": "Painting and Bricklaying.",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        119,
+        2606,
+        1467,
+        2660
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:017#xywh=119,2606,1348,54",
+      "confidence": "line",
+      "gemini_text": "Personal Attention Given to Repairing and Painting Roofs.",
+      "surya_confidence": 0.9937
+    }
+  ],
+  "unmatched_gemini": [
+    "-",
+    "-"
+  ]
+}

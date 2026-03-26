@@ -1,0 +1,436 @@
+{
+  "image_width": 1890,
+  "image_height": 3004,
+  "lines": [
+    {
+      "bbox": [
+        593,
+        384,
+        1403,
+        489
+      ],
+      "text": "MORPHINE,",
+      "confidence": 0.9717
+    },
+    {
+      "bbox": [
+        459,
+        558,
+        1542,
+        649
+      ],
+      "text": "Opium, Whiskey and",
+      "confidence": 0.9527
+    },
+    {
+      "bbox": [
+        575,
+        666,
+        1418,
+        761
+      ],
+      "text": "All Drug Habits",
+      "confidence": 0.9307
+    },
+    {
+      "bbox": [
+        529,
+        813,
+        1475,
+        868
+      ],
+      "text": "Cured Without Pain at Your Home.",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        633,
+        894,
+        1351,
+        945
+      ],
+      "text": "The Best of Sanitorium Facilities",
+      "confidence": 0.8665
+    },
+    {
+      "bbox": [
+        875,
+        971,
+        1127,
+        1020
+      ],
+      "text": "if Desired.",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        568,
+        1056,
+        1476,
+        1105
+      ],
+      "text": "If you are addicted to these habits",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        527,
+        1100,
+        1476,
+        1148
+      ],
+      "text": "you can be cured and restored to your",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        527,
+        1148,
+        1474,
+        1192
+      ],
+      "text": "former health and vigor without pain",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        527,
+        1196,
+        1477,
+        1235
+      ],
+      "text": "or the loss of an hour from your busi-",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        527,
+        1237,
+        1477,
+        1279
+      ],
+      "text": "ness at a moderate cost. The medicine",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        526,
+        1278,
+        1477,
+        1329
+      ],
+      "text": "builds up your health, restores your",
+      "confidence": 0.9708
+    },
+    {
+      "bbox": [
+        527,
+        1326,
+        1476,
+        1370
+      ],
+      "text": "nervous system to its normal condition;",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        527,
+        1369,
+        1476,
+        1416
+      ],
+      "text": "you feel like a different person from the",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        527,
+        1413,
+        1477,
+        1461
+      ],
+      "text": "beginning of the treatment, LEAVING",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        527,
+        1456,
+        1477,
+        1504
+      ],
+      "text": "OFF THE OPIATES AFTER THE",
+      "confidence": 0.9793
+    },
+    {
+      "bbox": [
+        524,
+        1502,
+        1473,
+        1548
+      ],
+      "text": "FIRST DOSE. You will soon be con-",
+      "confidence": 0.9792
+    },
+    {
+      "bbox": [
+        525,
+        1548,
+        1472,
+        1594
+      ],
+      "text": "vinced and fully satisfied in your own",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        525,
+        1590,
+        1213,
+        1638
+      ],
+      "text": "mind that you will be cured.",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        569,
+        1637,
+        1473,
+        1684
+      ],
+      "text": "Mr. T. M. Brown, of DeQueen, Ark.,",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        525,
+        1680,
+        1473,
+        1729
+      ],
+      "text": "says: \"Over seven years ago I was cured",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        525,
+        1724,
+        1476,
+        1774
+      ],
+      "text": "of the opium habit by your medicine",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        525,
+        1772,
+        1476,
+        1816
+      ],
+      "text": "and have continued in the very best of",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        524,
+        1827,
+        853,
+        1862
+      ],
+      "text": "health since.\"",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        566,
+        1871,
+        1473,
+        1917
+      ],
+      "text": "Dr. W. N. Tunstall, of Lovingston, Va.",
+      "confidence": 0.9831
+    },
+    {
+      "bbox": [
+        524,
+        1914,
+        1476,
+        1961
+      ],
+      "text": "says: \"I am glad to say that I firmly be-",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        520,
+        1959,
+        1474,
+        2006
+      ],
+      "text": "lieve that I am entirely and permanent-",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        521,
+        2003,
+        1471,
+        2049
+      ],
+      "text": "ly cured of the Drink Habit, as I have",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        522,
+        2047,
+        1473,
+        2095
+      ],
+      "text": "never so much as wanted a drink in any",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        522,
+        2094,
+        1473,
+        2138
+      ],
+      "text": "form since I took your eradicator, now",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        525,
+        2136,
+        1471,
+        2185
+      ],
+      "text": "eighteen months ago. It was the best",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        524,
+        2184,
+        1071,
+        2220
+      ],
+      "text": "dollar I ever invested.\"",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        566,
+        2226,
+        1471,
+        2274
+      ],
+      "text": "Mrs. Virginia Townsend, of Shreve-",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        522,
+        2271,
+        1471,
+        2317
+      ],
+      "text": "port, La., writes: No more opium. I have",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        522,
+        2317,
+        1469,
+        2361
+      ],
+      "text": "taken no other remedy than yours and",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        522,
+        2359,
+        1469,
+        2408
+      ],
+      "text": "I make no mistake when I say that my",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        520,
+        2404,
+        1466,
+        2445
+      ],
+      "text": "health is better now than it ever was in",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        519,
+        2447,
+        1469,
+        2496
+      ],
+      "text": "my life, and I owe it to you and your",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        519,
+        2493,
+        1471,
+        2539
+      ],
+      "text": "remedy. It has been twelve years since",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        519,
+        2541,
+        1256,
+        2580
+      ],
+      "text": "I was cured by your treatment.",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        560,
+        2595,
+        1464,
+        2637
+      ],
+      "text": "For full particulars address Dr. B",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        519,
+        2636,
+        1465,
+        2687
+      ],
+      "text": "M. Wooley, 302 Lowndes Bldg., Atlanta,",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        521,
+        2686,
+        615,
+        2719
+      ],
+      "text": "Ga.",
+      "confidence": 0.9873
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "image": "0001_service:mss:mss11879:mss11879-42:42001:0001d.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0001d",
+  "canvas_width": 785,
+  "canvas_height": 1189,
+  "surya_median_confidence": 0.9793,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        154,
+        97,
+        651,
+        145
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0001d#xywh=154,97,497,48",
+      "confidence": "line",
+      "gemini_text": "Leave your Book for SETTLEMENT",
+      "surya_confidence": 0.9793
+    },
+    {
+      "bbox": [
+        227,
+        129,
+        579,
+        170
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0001d#xywh=227,129,352,41",
+      "confidence": "line",
+      "gemini_text": "at least once in six months.",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        241,
+        534,
+        535,
+        572
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0001d#xywh=241,534,294,38",
+      "confidence": "line",
+      "gemini_text": "WASHINGTON, D. C.",
+      "surya_confidence": 0.9858
+    },
+    {
+      "bbox": [
+        252,
+        653,
+        518,
+        684
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0001d#xywh=252,653,266,31",
+      "confidence": "line",
+      "gemini_text": "IN ACCOUNT WITH",
+      "surya_confidence": 0.9672
+    },
+    {
+      "bbox": [
+        304,
+        773,
+        544,
+        804
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0001d#xywh=304,773,240,31",
+      "confidence": "line",
+      "gemini_text": "Always bring this Book when making",
+      "surya_confidence": 0.3878
+    },
+    {
+      "bbox": [
+        322,
+        1033,
+        443,
+        1061
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0001d#xywh=322,1033,121,28",
+      "confidence": "line",
+      "gemini_text": "Deposits.",
+      "surya_confidence": 0.9967
+    }
+  ],
+  "unmatched_gemini": [
+    "No. 1801",
+    "Folio 413 L - 2",
+    "CAPITAL SAVINGS BANK,",
+    "Helen Douglass",
+    "YOUNG & BELDEN, BANK STATIONERS, B[illegible]"
+  ]
+}

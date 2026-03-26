@@ -1,0 +1,296 @@
+{
+  "image_width": 1890,
+  "image_height": 2996,
+  "lines": [
+    {
+      "bbox": [
+        264,
+        406,
+        1625,
+        459
+      ],
+      "text": "Fine Wines. Old Whiskies and Brandies. Liquors of",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        612,
+        507,
+        1263,
+        560
+      ],
+      "text": "all Kinds. Choice Cigars.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        264,
+        785,
+        1612,
+        871
+      ],
+      "text": "PHILADELPHIA HOUSE,",
+      "confidence": 0.965
+    },
+    {
+      "bbox": [
+        611,
+        977,
+        1237,
+        1029
+      ],
+      "text": "M. F. CARROLL, Prop.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        499,
+        1123,
+        1370,
+        1215
+      ],
+      "text": "Restaurant and Saloon,",
+      "confidence": 0.9748
+    },
+    {
+      "bbox": [
+        322,
+        1310,
+        1548,
+        1372
+      ],
+      "text": "348 Pennsylvania Avenue, N. W.",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        639,
+        1465,
+        1232,
+        1522
+      ],
+      "text": "WASHINGTON, D. C.",
+      "confidence": 0.9394
+    },
+    {
+      "bbox": [
+        1869,
+        1472,
+        1888,
+        1506
+      ],
+      "text": "P",
+      "confidence": 0.9634
+    },
+    {
+      "bbox": [
+        1866,
+        1674,
+        1888,
+        1708
+      ],
+      "text": "3/4",
+      "confidence": 0.2752
+    },
+    {
+      "bbox": [
+        264,
+        1747,
+        661,
+        1795
+      ],
+      "text": "Meals to Order.",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        1059,
+        1748,
+        1615,
+        1800
+      ],
+      "text": "Everything First-Class.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        1860,
+        1777,
+        1888,
+        1816
+      ],
+      "text": "J",
+      "confidence": 0.9163
+    },
+    {
+      "bbox": [
+        1860,
+        1879,
+        1888,
+        1916
+      ],
+      "text": "Jo",
+      "confidence": 0.8295
+    },
+    {
+      "bbox": [
+        1866,
+        1983,
+        1888,
+        2019
+      ],
+      "text": "8",
+      "confidence": 0.7069
+    },
+    {
+      "bbox": [
+        500,
+        2028,
+        1376,
+        2077
+      ],
+      "text": "Billiard and Pool Parlors Attached.",
+      "confidence": 0.9801
+    },
+    {
+      "bbox": [
+        1861,
+        2081,
+        1888,
+        2118
+      ],
+      "text": "*J",
+      "confidence": 0.6546
+    },
+    {
+      "bbox": [
+        314,
+        2158,
+        947,
+        2222
+      ],
+      "text": "EORGE W. MORGAN,",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        1860,
+        2185,
+        1888,
+        2222
+      ],
+      "text": "T",
+      "confidence": 0.7503
+    },
+    {
+      "bbox": [
+        615,
+        2263,
+        1260,
+        2314
+      ],
+      "text": "Undertaker and Embalmer,",
+      "confidence": 0.9525
+    },
+    {
+      "bbox": [
+        1861,
+        2284,
+        1888,
+        2323
+      ],
+      "text": "Lo",
+      "confidence": 0.9156
+    },
+    {
+      "bbox": [
+        530,
+        2360,
+        1348,
+        2402
+      ],
+      "text": "Main Office, 2d and F Streets S. W.",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        526,
+        2407,
+        1348,
+        2446
+      ],
+      "text": "Branch Office, 807 13th Street N. E.",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        1861,
+        2493,
+        1888,
+        2529
+      ],
+      "text": "He",
+      "confidence": 0.9513
+    },
+    {
+      "bbox": [
+        355,
+        2501,
+        1526,
+        2551
+      ],
+      "text": "Rubber-Tire Carriages For Hire on All Occasions.",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        431,
+        2599,
+        1439,
+        2637
+      ],
+      "text": "Orders Promptly Attended to, Day or Night.",
+      "confidence": 0.9725
+    },
+    {
+      "bbox": [
+        267,
+        2642,
+        711,
+        2676
+      ],
+      "text": "Prices Reasonable.",
+      "confidence": 0.9594
+    },
+    {
+      "bbox": [
+        1165,
+        2643,
+        1614,
+        2681
+      ],
+      "text": "'Phone, Main 816-3.",
+      "confidence": 0.8455
+    },
+    {
+      "bbox": [
+        1864,
+        2683,
+        1888,
+        2711
+      ],
+      "text": "*D",
+      "confidence": 0.472
+    },
+    {
+      "bbox": [
+        910,
+        2732,
+        967,
+        2767
+      ],
+      "text": "30",
+      "confidence": 0.9894
+    }
+  ]
+}

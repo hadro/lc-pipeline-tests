@@ -1,0 +1,346 @@
+{
+  "image_width": 1817,
+  "image_height": 2914,
+  "lines": [
+    {
+      "bbox": [
+        681,
+        298,
+        1409,
+        340
+      ],
+      "text": "Prince Hall Lodge, No. 14.",
+      "confidence": 0.9739
+    },
+    {
+      "bbox": [
+        712,
+        393,
+        1426,
+        440
+      ],
+      "text": "Wm. A. Warfield, W. Master.",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        916,
+        449,
+        1726,
+        489
+      ],
+      "text": "Edw. H. Hunter, J. W.",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        373,
+        453,
+        919,
+        495
+      ],
+      "text": "Wm. H. Haynes, S. W.",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        544,
+        506,
+        1568,
+        552
+      ],
+      "text": "Wm. T Ferguson, Sec'y, 1420 Pierce Place.",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        773,
+        565,
+        1311,
+        603
+      ],
+      "text": "Meets Third Thursday",
+      "confidence": 0.9725
+    },
+    {
+      "bbox": [
+        622,
+        740,
+        1473,
+        787
+      ],
+      "text": "Charles Datcher Lodge, No. 15.",
+      "confidence": 0.9685
+    },
+    {
+      "bbox": [
+        711,
+        844,
+        1382,
+        882
+      ],
+      "text": "Matt. M. Taylor, W. Master.",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        370,
+        893,
+        1721,
+        942
+      ],
+      "text": "J. D. Howard, S W. Charles H. Young, J. W.",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        553,
+        949,
+        1541,
+        998
+      ],
+      "text": "Alex. T. Hicks, Sec'y, 29 Defrees St. N. W.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        753,
+        1009,
+        1325,
+        1050
+      ],
+      "text": "Meets Third Wednesday.",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        709,
+        1186,
+        1397,
+        1230
+      ],
+      "text": "Brightwood Lodge, U. D.",
+      "confidence": 0.9583
+    },
+    {
+      "bbox": [
+        734,
+        1283,
+        1352,
+        1329
+      ],
+      "text": "Fred D. Henry, W. Master",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        376,
+        1333,
+        1729,
+        1389
+      ],
+      "text": "Charles D. Freeman, S. W. Wm. H. Underwood, J. W.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        754,
+        1399,
+        1347,
+        1437
+      ],
+      "text": "James H. Hill, Treasurer.",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        555,
+        1449,
+        1543,
+        1498
+      ],
+      "text": "George M. Webster, Sec'y, 320 E St. S. W.",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        823,
+        1507,
+        1278,
+        1551
+      ],
+      "text": "Meets First Friday.",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        514,
+        1626,
+        1587,
+        1718
+      ],
+      "text": "Masonic Relief Association.",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        712,
+        1764,
+        1390,
+        1812
+      ],
+      "text": "MEETS FIRST MONDAY.",
+      "confidence": 0.972
+    },
+    {
+      "bbox": [
+        376,
+        1847,
+        1732,
+        1911
+      ],
+      "text": "Henry Coleman....President",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        756,
+        1903,
+        1347,
+        1943
+      ],
+      "text": "1112 N. J. Avenue, N. W.",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        379,
+        1986,
+        1732,
+        2037
+      ],
+      "text": "Wm. H. Grimshaw....................................",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        800,
+        2038,
+        1305,
+        2075
+      ],
+      "text": "247 10th Street, N. E.",
+      "confidence": 0.9768
+    },
+    {
+      "bbox": [
+        384,
+        2117,
+        1729,
+        2170
+      ],
+      "text": "James Saunders..... Treasurer",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        382,
+        2211,
+        1730,
+        2255
+      ],
+      "text": "Richard H. Gleaves..... Secretary",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        773,
+        2260,
+        1333,
+        2296
+      ],
+      "text": "126 Carroll Street, S. E.",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        384,
+        2344,
+        1730,
+        2391
+      ],
+      "text": "Nathaniel Robinson..... Assistant Secretary",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        717,
+        2435,
+        1390,
+        2472
+      ],
+      "text": "BOARD OF DIRECTORS:",
+      "confidence": 0.6715
+    },
+    {
+      "bbox": [
+        1359,
+        2522,
+        1726,
+        2559
+      ],
+      "text": "Wm. H. Harris,",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        383,
+        2527,
+        800,
+        2568
+      ],
+      "text": "John H. Brooks,",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        861,
+        2527,
+        1280,
+        2564
+      ],
+      "text": "Henry C. Irving,",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        1153,
+        2568,
+        1548,
+        2602
+      ],
+      "text": "Samuel H. West.",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        560,
+        2572,
+        855,
+        2608
+      ],
+      "text": "Alfred Pope,",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        1031,
+        2612,
+        1079,
+        2647
+      ],
+      "text": "17",
+      "confidence": 0.9945
+    }
+  ]
+}

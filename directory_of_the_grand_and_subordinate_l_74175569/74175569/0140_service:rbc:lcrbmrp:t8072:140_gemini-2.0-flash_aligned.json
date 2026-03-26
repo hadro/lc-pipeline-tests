@@ -1,0 +1,11 @@
+{
+  "image": "0140_service:rbc:lcrbmrp:t8072:140.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:140",
+  "canvas_width": 1726,
+  "canvas_height": 3053,
+  "surya_median_confidence": 0.3659,
+  "needs_review": true,
+  "lines": [],
+  "unmatched_gemini": []
+}

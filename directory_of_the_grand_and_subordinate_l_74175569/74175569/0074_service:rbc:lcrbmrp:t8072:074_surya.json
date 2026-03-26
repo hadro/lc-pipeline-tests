@@ -1,0 +1,276 @@
+{
+  "image_width": 1798,
+  "image_height": 2986,
+  "lines": [
+    {
+      "bbox": [
+        546,
+        567,
+        1261,
+        602
+      ],
+      "text": "OFFICERS AND MEMBERS",
+      "confidence": 0.8493
+    },
+    {
+      "bbox": [
+        870,
+        664,
+        934,
+        691
+      ],
+      "text": "OF",
+      "confidence": 0.9585
+    },
+    {
+      "bbox": [
+        295,
+        745,
+        1516,
+        811
+      ],
+      "text": "Zerubbabel Court No. 1, Heroines of Jericho,",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        644,
+        859,
+        1173,
+        897
+      ],
+      "text": "Meets Second Monday.",
+      "confidence": 0.9794
+    },
+    {
+      "bbox": [
+        230,
+        941,
+        1578,
+        993
+      ],
+      "text": "Ella L. Wayne...... Most Ancient Matron",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        230,
+        1030,
+        1577,
+        1077
+      ],
+      "text": "Paulettia Goines....................................",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        230,
+        1126,
+        1574,
+        1165
+      ],
+      "text": "Thornton A. Jackson....................................",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        227,
+        1210,
+        1575,
+        1261
+      ],
+      "text": "Humphrey P. Jackson..... V. F. J.",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        226,
+        1300,
+        1577,
+        1347
+      ],
+      "text": "Helen Jackson......Treasurer",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        229,
+        1391,
+        1579,
+        1433
+      ],
+      "text": "Julia A. Jackson ..... Secretary, 429 6½ St., S. W",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        224,
+        1474,
+        1577,
+        1520
+      ],
+      "text": "Lettie Banks......Senior Conductor",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        229,
+        1570,
+        1574,
+        1608
+      ],
+      "text": "Marian Jefferds.....Junior Conductor",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        663,
+        1838,
+        1132,
+        1873
+      ],
+      "text": "PAST OFFICERS.",
+      "confidence": 0.9575
+    },
+    {
+      "bbox": [
+        222,
+        1915,
+        1578,
+        1972
+      ],
+      "text": "Mary E. Brent....................................",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        222,
+        2004,
+        1348,
+        2068
+      ],
+      "text": "Mary E. Green..... \"",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        1471,
+        2010,
+        1514,
+        2034
+      ],
+      "text": "66",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        225,
+        2092,
+        1344,
+        2149
+      ],
+      "text": "Elizabeth Skinner.....\"",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        1469,
+        2101,
+        1511,
+        2123
+      ],
+      "text": "66",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        225,
+        2186,
+        1388,
+        2240
+      ],
+      "text": "Anna V. Thomas ....................................",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        1468,
+        2187,
+        1510,
+        2211
+      ],
+      "text": "66",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        222,
+        2276,
+        1356,
+        2335
+      ],
+      "text": "Margaret Ferguson....................................",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        1471,
+        2277,
+        1513,
+        2301
+      ],
+      "text": "66",
+      "confidence": 0.9862
+    },
+    {
+      "bbox": [
+        615,
+        2369,
+        1352,
+        2420
+      ],
+      "text": ". . . . . . . . . . . . . . . . . . . . ",
+      "confidence": 0.5083
+    },
+    {
+      "bbox": [
+        224,
+        2374,
+        555,
+        2401
+      ],
+      "text": "Helen Tackson",
+      "confidence": 0.9647
+    },
+    {
+      "bbox": [
+        1415,
+        2374,
+        1573,
+        2402
+      ],
+      "text": "V. M.",
+      "confidence": 0.9275
+    },
+    {
+      "bbox": [
+        224,
+        2462,
+        1170,
+        2497
+      ],
+      "text": "Mamie Hill.....",
+      "confidence": 0.9505
+    },
+    {
+      "bbox": [
+        695,
+        2679,
+        1105,
+        2774
+      ],
+      "text": "65",
+      "confidence": 0.9546
+    }
+  ]
+}

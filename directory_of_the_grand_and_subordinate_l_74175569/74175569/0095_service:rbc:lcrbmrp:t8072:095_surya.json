@@ -1,0 +1,106 @@
+{
+  "image_width": 1910,
+  "image_height": 3000,
+  "lines": [
+    {
+      "bbox": [
+        323,
+        344,
+        1670,
+        450
+      ],
+      "text": "GASKINS & GAINES",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        793,
+        472,
+        1207,
+        523
+      ],
+      "text": "(Opposite Kann's)",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        459,
+        536,
+        1539,
+        611
+      ],
+      "text": "320 8th St. N.W., Washington, D. C.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        778,
+        646,
+        1392,
+        2511
+      ],
+      "text": "GASKINS & GAINES in favor stand, high as any in the L& All their MEALS contentment bring, to GASKINS & GAINES we therefore clinG Splendid SOUPS, ENTREES we get here; to please all patrons is the chief ideA Keeping the pure",
+      "confidence": 0.615
+    },
+    {
+      "bbox": [
+        775,
+        654,
+        824,
+        733
+      ],
+      "text": "L&",
+      "confidence": 0.8999
+    },
+    {
+      "bbox": [
+        776,
+        772,
+        826,
+        860
+      ],
+      "text": "the",
+      "confidence": 0.9766
+    },
+    {
+      "bbox": [
+        644,
+        1196,
+        715,
+        2033
+      ],
+      "text": "OUR FAVORITE RESOR",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        338,
+        2539,
+        1688,
+        2618
+      ],
+      "text": "Ladies' and Gents' Cafe Upstairs. Dinner and",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        622,
+        2607,
+        1424,
+        2683
+      ],
+      "text": "Theatre Parties a Specialty.",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        990,
+        2685,
+        1048,
+        2719
+      ],
+      "text": "86",
+      "confidence": 0.9874
+    }
+  ]
+}

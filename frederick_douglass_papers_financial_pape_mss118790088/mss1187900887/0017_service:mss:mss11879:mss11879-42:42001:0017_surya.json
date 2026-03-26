@@ -1,0 +1,476 @@
+{
+  "image_width": 1956,
+  "image_height": 1609,
+  "lines": [
+    {
+      "bbox": [
+        268,
+        181,
+        646,
+        238
+      ],
+      "text": "Le vais bien",
+      "confidence": 0.8843
+    },
+    {
+      "bbox": [
+        1163,
+        182,
+        1568,
+        233
+      ],
+      "text": "I am well",
+      "confidence": 0.5682
+    },
+    {
+      "bbox": [
+        1170,
+        246,
+        1553,
+        284
+      ],
+      "text": "I am unwell",
+      "confidence": 0.9899
+    },
+    {
+      "bbox": [
+        242,
+        247,
+        810,
+        289
+      ],
+      "text": "I fe me vais pas bien",
+      "confidence": 0.5872
+    },
+    {
+      "bbox": [
+        1166,
+        291,
+        1588,
+        337
+      ],
+      "text": "Mom D. is well",
+      "confidence": 0.7875
+    },
+    {
+      "bbox": [
+        232,
+        297,
+        835,
+        343
+      ],
+      "text": "16 M Douglass va bien",
+      "confidence": 0.2847
+    },
+    {
+      "bbox": [
+        1181,
+        346,
+        1566,
+        384
+      ],
+      "text": "We are well",
+      "confidence": 0.9829
+    },
+    {
+      "bbox": [
+        261,
+        347,
+        683,
+        394
+      ],
+      "text": "Nous allows bien",
+      "confidence": 0.9869
+    },
+    {
+      "bbox": [
+        1095,
+        397,
+        1752,
+        435
+      ],
+      "text": "Condend me to the Pais Bourbon",
+      "confidence": 0.9569
+    },
+    {
+      "bbox": [
+        265,
+        399,
+        996,
+        443
+      ],
+      "text": "Conduises usi are Talais Bourbon",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        268,
+        451,
+        662,
+        495
+      ],
+      "text": "Depichy vous",
+      "confidence": 0.969
+    },
+    {
+      "bbox": [
+        1101,
+        451,
+        1350,
+        490
+      ],
+      "text": "Deputy Vous.",
+      "confidence": 0.926
+    },
+    {
+      "bbox": [
+        269,
+        498,
+        823,
+        548
+      ],
+      "text": "Je vous prends à l'heure",
+      "confidence": 0.3697
+    },
+    {
+      "bbox": [
+        1096,
+        499,
+        1752,
+        552
+      ],
+      "text": "Itake you by the hour",
+      "confidence": 0.8595
+    },
+    {
+      "bbox": [
+        274,
+        550,
+        796,
+        596
+      ],
+      "text": "Ou sommes mons",
+      "confidence": 0.8837
+    },
+    {
+      "bbox": [
+        1107,
+        550,
+        1528,
+        594
+      ],
+      "text": "Where are we",
+      "confidence": 0.5404
+    },
+    {
+      "bbox": [
+        276,
+        599,
+        916,
+        646
+      ],
+      "text": "Combien D'arret or",
+      "confidence": 0.8318
+    },
+    {
+      "bbox": [
+        1117,
+        601,
+        1878,
+        659
+      ],
+      "text": "Mor long to your tof there.",
+      "confidence": 0.4151
+    },
+    {
+      "bbox": [
+        273,
+        649,
+        954,
+        697
+      ],
+      "text": "combien De minutes D'anes.",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        1119,
+        695,
+        1757,
+        734
+      ],
+      "text": "What o'clock is it",
+      "confidence": 0.9771
+    },
+    {
+      "bbox": [
+        271,
+        697,
+        893,
+        751
+      ],
+      "text": "quelle heure est - il",
+      "confidence": 0.5028
+    },
+    {
+      "bbox": [
+        268,
+        738,
+        935,
+        813
+      ],
+      "text": "quand part le train.",
+      "confidence": 0.9599
+    },
+    {
+      "bbox": [
+        1115,
+        738,
+        1848,
+        797
+      ],
+      "text": "When is the train going .",
+      "confidence": 0.8332
+    },
+    {
+      "bbox": [
+        1117,
+        794,
+        1782,
+        843
+      ],
+      "text": "What is the best patel.",
+      "confidence": 0.8954
+    },
+    {
+      "bbox": [
+        289,
+        798,
+        985,
+        853
+      ],
+      "text": "Quel est le meilleur hotel?",
+      "confidence": 0.576
+    },
+    {
+      "bbox": [
+        1112,
+        848,
+        1876,
+        896
+      ],
+      "text": "Have you a room with two",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        292,
+        857,
+        978,
+        901
+      ],
+      "text": "aver vous une chambre à",
+      "confidence": 0.7907
+    },
+    {
+      "bbox": [
+        1100,
+        908,
+        1266,
+        941
+      ],
+      "text": "bed ?",
+      "confidence": 0.6837
+    },
+    {
+      "bbox": [
+        277,
+        917,
+        536,
+        954
+      ],
+      "text": "Juna lito,",
+      "confidence": 0.5944
+    },
+    {
+      "bbox": [
+        1095,
+        957,
+        1462,
+        991
+      ],
+      "text": "How much \"",
+      "confidence": 0.9586
+    },
+    {
+      "bbox": [
+        280,
+        967,
+        542,
+        1003
+      ],
+      "text": "Combien!",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        1098,
+        999,
+        1875,
+        1065
+      ],
+      "text": "what is the price of boarding",
+      "confidence": 0.9579
+    },
+    {
+      "bbox": [
+        265,
+        1009,
+        993,
+        1065
+      ],
+      "text": "quel est la prix de pension?",
+      "confidence": 0.5674
+    },
+    {
+      "bbox": [
+        1101,
+        1054,
+        1312,
+        1100
+      ],
+      "text": "by day",
+      "confidence": 0.9809
+    },
+    {
+      "bbox": [
+        273,
+        1059,
+        571,
+        1108
+      ],
+      "text": "par jour",
+      "confidence": 0.7765
+    },
+    {
+      "bbox": [
+        1101,
+        1095,
+        1336,
+        1147
+      ],
+      "text": "by broth",
+      "confidence": 0.9275
+    },
+    {
+      "bbox": [
+        285,
+        1110,
+        607,
+        1158
+      ],
+      "text": "par serraine",
+      "confidence": 0.7785
+    },
+    {
+      "bbox": [
+        1102,
+        1156,
+        1384,
+        1206
+      ],
+      "text": "by worth",
+      "confidence": 0.8267
+    },
+    {
+      "bbox": [
+        298,
+        1165,
+        614,
+        1203
+      ],
+      "text": "par mois,",
+      "confidence": 0.613
+    },
+    {
+      "bbox": [
+        274,
+        1208,
+        1004,
+        1265
+      ],
+      "text": "Nous partirons demais mites",
+      "confidence": 0.985
+    },
+    {
+      "bbox": [
+        1069,
+        1211,
+        1885,
+        1251
+      ],
+      "text": "The shall leave to morrow woring",
+      "confidence": 0.6315
+    },
+    {
+      "bbox": [
+        1089,
+        1258,
+        1597,
+        1306
+      ],
+      "text": "Give us The bill",
+      "confidence": 0.6332
+    },
+    {
+      "bbox": [
+        283,
+        1270,
+        966,
+        1312
+      ],
+      "text": "Donney nous le male fo",
+      "confidence": 0.7957
+    },
+    {
+      "bbox": [
+        1057,
+        1301,
+        1587,
+        1359
+      ],
+      "text": "Every Thing included",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        281,
+        1319,
+        642,
+        1366
+      ],
+      "text": "bout compris",
+      "confidence": 0.3734
+    },
+    {
+      "bbox": [
+        1084,
+        1361,
+        1324,
+        1410
+      ],
+      "text": "How fas",
+      "confidence": 0.9345
+    },
+    {
+      "bbox": [
+        296,
+        1364,
+        768,
+        1418
+      ],
+      "text": "a gulle distance",
+      "confidence": 0.9728
+    }
+  ]
+}

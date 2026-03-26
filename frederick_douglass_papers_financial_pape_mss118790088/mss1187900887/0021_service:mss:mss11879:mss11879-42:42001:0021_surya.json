@@ -1,0 +1,316 @@
+{
+  "image_width": 1952,
+  "image_height": 1625,
+  "lines": [
+    {
+      "bbox": [
+        194,
+        189,
+        396,
+        243
+      ],
+      "text": "I we en",
+      "confidence": 0.83
+    },
+    {
+      "bbox": [
+        1180,
+        202,
+        1467,
+        250
+      ],
+      "text": "J' aurais eu.",
+      "confidence": 0.4606
+    },
+    {
+      "bbox": [
+        196,
+        245,
+        411,
+        289
+      ],
+      "text": "Tex eus eu",
+      "confidence": 0.8088
+    },
+    {
+      "bbox": [
+        1187,
+        257,
+        1475,
+        296
+      ],
+      "text": "Ju aurais eu.",
+      "confidence": 0.5823
+    },
+    {
+      "bbox": [
+        194,
+        291,
+        410,
+        338
+      ],
+      "text": "Il sect en",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        1198,
+        306,
+        1492,
+        347
+      ],
+      "text": "Il aurait en.",
+      "confidence": 0.9797
+    },
+    {
+      "bbox": [
+        180,
+        345,
+        513,
+        389
+      ],
+      "text": "nous etimes on",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        1191,
+        356,
+        1554,
+        400
+      ],
+      "text": "nous aurious en-",
+      "confidence": 0.9131
+    },
+    {
+      "bbox": [
+        177,
+        392,
+        473,
+        441
+      ],
+      "text": "Your entes en",
+      "confidence": 0.4645
+    },
+    {
+      "bbox": [
+        1189,
+        403,
+        1541,
+        457
+      ],
+      "text": "Your ariez eu.",
+      "confidence": 0.9586
+    },
+    {
+      "bbox": [
+        177,
+        446,
+        461,
+        490
+      ],
+      "text": "Is eurech su.",
+      "confidence": 0.9349
+    },
+    {
+      "bbox": [
+        1194,
+        454,
+        1531,
+        502
+      ],
+      "text": "Ils annient su.",
+      "confidence": 0.9775
+    },
+    {
+      "bbox": [
+        230,
+        510,
+        551,
+        548
+      ],
+      "text": "X X X X X",
+      "confidence": 0.3887
+    },
+    {
+      "bbox": [
+        168,
+        542,
+        426,
+        598
+      ],
+      "text": "I auxi.",
+      "confidence": 0.4245
+    },
+    {
+      "bbox": [
+        437,
+        549,
+        697,
+        605
+      ],
+      "text": "I aura en",
+      "confidence": 0.6218
+    },
+    {
+      "bbox": [
+        165,
+        599,
+        400,
+        638
+      ],
+      "text": "Tu auras",
+      "confidence": 0.8318
+    },
+    {
+      "bbox": [
+        396,
+        601,
+        729,
+        648
+      ],
+      "text": "Ja auras en",
+      "confidence": 0.6304
+    },
+    {
+      "bbox": [
+        158,
+        641,
+        720,
+        699
+      ],
+      "text": "Il aura Il auracu",
+      "confidence": 0.9552
+    },
+    {
+      "bbox": [
+        156,
+        693,
+        767,
+        752
+      ],
+      "text": "Nous aurous Nous aurous aw",
+      "confidence": 0.8679
+    },
+    {
+      "bbox": [
+        156,
+        748,
+        765,
+        806
+      ],
+      "text": "Tous acres Vous aurez en",
+      "confidence": 0.9715
+    },
+    {
+      "bbox": [
+        157,
+        800,
+        399,
+        842
+      ],
+      "text": "Ils aurout",
+      "confidence": 0.9539
+    },
+    {
+      "bbox": [
+        404,
+        801,
+        763,
+        853
+      ],
+      "text": "Ils aurouten",
+      "confidence": 0.5832
+    },
+    {
+      "bbox": [
+        297,
+        910,
+        537,
+        947
+      ],
+      "text": "Conditional",
+      "confidence": 0.939
+    },
+    {
+      "bbox": [
+        304,
+        957,
+        525,
+        1008
+      ],
+      "text": "go arrais",
+      "confidence": 0.5804
+    },
+    {
+      "bbox": [
+        304,
+        1005,
+        536,
+        1054
+      ],
+      "text": "I- aurais.",
+      "confidence": 0.5356
+    },
+    {
+      "bbox": [
+        293,
+        1052,
+        539,
+        1103
+      ],
+      "text": "Ju aurais",
+      "confidence": 0.5272
+    },
+    {
+      "bbox": [
+        299,
+        1094,
+        540,
+        1155
+      ],
+      "text": "Il auraih",
+      "confidence": 0.9823
+    },
+    {
+      "bbox": [
+        305,
+        1156,
+        618,
+        1212
+      ],
+      "text": "nous aureous",
+      "confidence": 0.9874
+    },
+    {
+      "bbox": [
+        301,
+        1209,
+        573,
+        1310
+      ],
+      "text": "Vous anniez",
+      "confidence": 0.7114
+    },
+    {
+      "bbox": [
+        331,
+        1456,
+        361,
+        1468
+      ],
+      "text": "315",
+      "confidence": 0.6025
+    },
+    {
+      "bbox": [
+        544,
+        1478,
+        575,
+        1495
+      ],
+      "text": "11",
+      "confidence": 0.6764
+    }
+  ]
+}

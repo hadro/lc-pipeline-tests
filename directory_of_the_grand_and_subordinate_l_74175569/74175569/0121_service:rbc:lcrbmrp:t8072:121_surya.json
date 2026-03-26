@@ -1,0 +1,196 @@
+{
+  "image_width": 1888,
+  "image_height": 2997,
+  "lines": [
+    {
+      "bbox": [
+        1057,
+        415,
+        1554,
+        532
+      ],
+      "text": "WM. H. MYERS",
+      "confidence": 0.6624
+    },
+    {
+      "bbox": [
+        1079,
+        700,
+        1567,
+        776
+      ],
+      "text": "Cutlery Ground",
+      "confidence": 0.8722
+    },
+    {
+      "bbox": [
+        1279,
+        892,
+        1365,
+        930
+      ],
+      "text": "and",
+      "confidence": 0.9875
+    },
+    {
+      "bbox": [
+        1176,
+        1064,
+        1480,
+        1139
+      ],
+      "text": "Repaired.",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        455,
+        1107,
+        668,
+        1181
+      ],
+      "text": "COPYRITA",
+      "confidence": 0.392
+    },
+    {
+      "bbox": [
+        235,
+        1191,
+        1573,
+        1277
+      ],
+      "text": "SPECIALTIES—Scissors, Knives, Grinding",
+      "confidence": 0.6025
+    },
+    {
+      "bbox": [
+        536,
+        1296,
+        1264,
+        1371
+      ],
+      "text": "and Honing of Razors.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        240,
+        1381,
+        1570,
+        1436
+      ],
+      "text": "io4 D St. N. W., Washington, D. C.",
+      "confidence": 0.4861
+    },
+    {
+      "bbox": [
+        501,
+        1452,
+        1283,
+        1498
+      ],
+      "text": "Residence, 308 3d St. S. W.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        932,
+        1539,
+        1571,
+        1612
+      ],
+      "text": "ESTABLISHED 1875.",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        951,
+        1788,
+        1547,
+        1864
+      ],
+      "text": "LARGEST | STOCK",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        918,
+        1940,
+        1578,
+        2014
+      ],
+      "text": "this side of New York",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        460,
+        2119,
+        1370,
+        2210
+      ],
+      "text": "E. J. PULLMAN,",
+      "confidence": 0.9818
+    },
+    {
+      "bbox": [
+        247,
+        2254,
+        1541,
+        2329
+      ],
+      "text": "Kodaks, Cameras and Photo Supplies",
+      "confidence": 0.8864
+    },
+    {
+      "bbox": [
+        648,
+        2385,
+        1124,
+        2426
+      ],
+      "text": "of every description.",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        229,
+        2483,
+        1575,
+        2537
+      ],
+      "text": "120 Ninth St., Branch Store, 459 Pa. Ave.",
+      "confidence": 0.958
+    },
+    {
+      "bbox": [
+        844,
+        2575,
+        1576,
+        2614
+      ],
+      "text": "Everything You Need or Want",
+      "confidence": 0.8709
+    },
+    {
+      "bbox": [
+        264,
+        2578,
+        843,
+        2617
+      ],
+      "text": "Developing and Printing.",
+      "confidence": 0.9618
+    },
+    {
+      "bbox": [
+        231,
+        2633,
+        719,
+        2673
+      ],
+      "text": "Done in Photography,",
+      "confidence": 0.9683
+    }
+  ]
+}

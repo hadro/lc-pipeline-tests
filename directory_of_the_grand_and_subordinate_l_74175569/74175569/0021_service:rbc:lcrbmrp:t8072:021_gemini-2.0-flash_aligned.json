@@ -1,0 +1,180 @@
+{
+  "image": "0021_service:rbc:lcrbmrp:t8072:021.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:021",
+  "canvas_width": 1794,
+  "canvas_height": 2892,
+  "surya_median_confidence": 0.4088,
+  "needs_review": true,
+  "lines": [
+    {
+      "bbox": [
+        287,
+        353,
+        1302,
+        453
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:021#xywh=287,353,1015,100",
+      "confidence": "line",
+      "gemini_text": "Edward Dickerson,",
+      "surya_confidence": 0.9212
+    },
+    {
+      "bbox": [
+        508,
+        546,
+        1083,
+        656
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:021#xywh=508,546,575,110",
+      "confidence": "line",
+      "gemini_text": "EXPRESS",
+      "surya_confidence": 0.9351
+    },
+    {
+      "bbox": [
+        384,
+        766,
+        1201,
+        870
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:021#xywh=384,766,817,104",
+      "confidence": "line",
+      "gemini_text": "FOR HIRE.",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        188,
+        944,
+        1410,
+        1040
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:021#xywh=188,944,1222,96",
+      "confidence": "line",
+      "gemini_text": "Pianos and Furniture Moved to",
+      "surya_confidence": 0.9856
+    },
+    {
+      "bbox": [
+        396,
+        1063,
+        1193,
+        1133
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:021#xywh=396,1063,797,70",
+      "confidence": "line",
+      "gemini_text": "All Parts of the City,",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        619,
+        1171,
+        978,
+        1229
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:021#xywh=619,1171,359,58",
+      "confidence": "line",
+      "gemini_text": "with care.",
+      "surya_confidence": 0.9939
+    },
+    {
+      "bbox": [
+        192,
+        1415,
+        1406,
+        1467
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:021#xywh=192,1415,1214,52",
+      "confidence": "line",
+      "gemini_text": "PACKING & SHIPPING A SPECIALTY",
+      "surya_confidence": 0.8989
+    },
+    {
+      "bbox": [
+        671,
+        1710,
+        935,
+        1756
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:021#xywh=671,1710,264,46",
+      "confidence": "line",
+      "gemini_text": "OFFICES:",
+      "surya_confidence": 0.6189
+    },
+    {
+      "bbox": [
+        472,
+        1827,
+        1133,
+        1878
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:021#xywh=472,1827,661,51",
+      "confidence": "line",
+      "gemini_text": "1711 11TH ST., N. W.",
+      "surya_confidence": 0.989
+    },
+    {
+      "bbox": [
+        746,
+        1953,
+        862,
+        1987
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:021#xywh=746,1953,116,34",
+      "confidence": "line",
+      "gemini_text": "AND",
+      "surya_confidence": 0.9903
+    },
+    {
+      "bbox": [
+        452,
+        2059,
+        1150,
+        2118
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:021#xywh=452,2059,698,59",
+      "confidence": "line",
+      "gemini_text": "2206 8TH ST., N. W.",
+      "surya_confidence": 0.9978
+    },
+    {
+      "bbox": [
+        321,
+        2297,
+        1283,
+        2360
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:021#xywh=321,2297,962,63",
+      "confidence": "line",
+      "gemini_text": "Orders by Mail Promptly Attended To.",
+      "surya_confidence": 0.9926
+    },
+    {
+      "bbox": [
+        417,
+        2486,
+        1181,
+        2552
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:021#xywh=417,2486,764,66",
+      "confidence": "line",
+      "gemini_text": "'Phone, Main 717-Y.",
+      "surya_confidence": 0.7437
+    },
+    {
+      "bbox": [
+        182,
+        2675,
+        654,
+        2739
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:021#xywh=182,2675,472,64",
+      "confidence": "line",
+      "gemini_text": "12",
+      "surya_confidence": 0.3975
+    }
+  ],
+  "unmatched_gemini": []
+}

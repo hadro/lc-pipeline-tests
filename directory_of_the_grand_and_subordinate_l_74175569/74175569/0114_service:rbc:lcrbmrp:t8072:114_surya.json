@@ -1,0 +1,346 @@
+{
+  "image_width": 1816,
+  "image_height": 2991,
+  "lines": [
+    {
+      "bbox": [
+        400,
+        375,
+        1174,
+        414
+      ],
+      "text": "LODGE OFFICERS—continued.",
+      "confidence": 0.9359
+    },
+    {
+      "bbox": [
+        544,
+        463,
+        1042,
+        501
+      ],
+      "text": "Warren Lodge, No. 8.",
+      "confidence": 0.9831
+    },
+    {
+      "bbox": [
+        444,
+        529,
+        1142,
+        569
+      ],
+      "text": "Charles H. Brown, W. Master.",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        182,
+        571,
+        1400,
+        615
+      ],
+      "text": "Charles H. Parker, S. W. Allen F. Jackson, J. W.",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        182,
+        611,
+        1398,
+        662
+      ],
+      "text": "Geo. W. Branch, Sec'y., 2125 Ward Place, N. W.",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        511,
+        699,
+        1072,
+        736
+      ],
+      "text": "Meets First Wednesday.",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        505,
+        817,
+        1079,
+        858
+      ],
+      "text": "Pythagoras Lodge, No. 9.",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        444,
+        900,
+        1141,
+        937
+      ],
+      "text": "Osborn T. Taylor, W. Master.",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        185,
+        937,
+        1400,
+        986
+      ],
+      "text": "Walter B. Hayson, S. W. John H. Gray, J. W.",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        287,
+        983,
+        1316,
+        1030
+      ],
+      "text": "James O. Bampfield, Sec'y, 1119 V st. N. W.",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        532,
+        1067,
+        1045,
+        1104
+      ],
+      "text": "Meets Third Tuesday.",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        462,
+        1183,
+        1118,
+        1231
+      ],
+      "text": "John F. Cook Lodge, No. 10.",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        467,
+        1267,
+        1118,
+        1302
+      ],
+      "text": "Jesse B. Martin, W. Master.",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        188,
+        1305,
+        1401,
+        1352
+      ],
+      "text": "Daniel W. Eidier, S. W. William H. Jackson, J.W.",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        411,
+        1356,
+        965,
+        1396
+      ],
+      "text": "Thos. E. Jones, Sec'y.,",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        518,
+        1398,
+        1266,
+        1440
+      ],
+      "text": "20 Prospect st., Reno City, D. C.",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        535,
+        1480,
+        1074,
+        1516
+      ],
+      "text": "Meets Second Tuesday.",
+      "confidence": 0.9712
+    },
+    {
+      "bbox": [
+        508,
+        1602,
+        1077,
+        1639
+      ],
+      "text": "St. John's Lodge, No. 12.",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        474,
+        1673,
+        1113,
+        1726
+      ],
+      "text": "Beverly Young, W. Master.",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        190,
+        1719,
+        1406,
+        1766
+      ],
+      "text": "Allen L. Deans, S. W. John A. Smith, J. W.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        189,
+        1769,
+        1405,
+        1808
+      ],
+      "text": "Nathaniel Robinson, Sec'y, 2246 Cleveland Ave, N.W.",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        537,
+        1849,
+        1053,
+        1885
+      ],
+      "text": "Meets Fourth Monday.",
+      "confidence": 0.9795
+    },
+    {
+      "bbox": [
+        488,
+        1970,
+        1104,
+        2007
+      ],
+      "text": "Prince Hall Lodge, No. 14.",
+      "confidence": 0.983
+    },
+    {
+      "bbox": [
+        426,
+        2047,
+        1163,
+        2085
+      ],
+      "text": "William H. Haynes, W. Master.",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        190,
+        2087,
+        1403,
+        2133
+      ],
+      "text": "Edward H. Hunter, S. W. Wallace W. McCary, J.W.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        193,
+        2131,
+        1401,
+        2181
+      ],
+      "text": "Wm. T. Ferguson, Sec'y, 1420 Pierce Place, N.W.",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        526,
+        2217,
+        1068,
+        2253
+      ],
+      "text": "Meets Third Thursday.",
+      "confidence": 0.9888
+    },
+    {
+      "bbox": [
+        438,
+        2339,
+        1157,
+        2375
+      ],
+      "text": "Charles Datcher Lodge, No. 15.",
+      "confidence": 0.9746
+    },
+    {
+      "bbox": [
+        457,
+        2409,
+        1137,
+        2458
+      ],
+      "text": "John D. Howard, W. Master.",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        190,
+        2457,
+        1403,
+        2503
+      ],
+      "text": "Charles H. Young, S. W. Jeremiah Scott, J. W.",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        191,
+        2499,
+        1401,
+        2548
+      ],
+      "text": "Alex F. Hicks, Sec'y, 2435 Brightwood Ave. N. W.",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        517,
+        2574,
+        1092,
+        2610
+      ],
+      "text": "Meets Third Wednesday.",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        759,
+        2684,
+        839,
+        2718
+      ],
+      "text": "105",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        441,
+        2913,
+        546,
+        2925
+      ],
+      "text": "State of the late of the",
+      "confidence": 0.1726
+    }
+  ]
+}

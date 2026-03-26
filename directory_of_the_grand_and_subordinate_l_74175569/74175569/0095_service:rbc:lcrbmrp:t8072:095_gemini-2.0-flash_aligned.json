@@ -1,0 +1,93 @@
+{
+  "image": "0095_service:rbc:lcrbmrp:t8072:095.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:095",
+  "canvas_width": 1910,
+  "canvas_height": 3000,
+  "surya_median_confidence": 0.9899,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        323,
+        344,
+        1670,
+        450
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:095#xywh=323,344,1347,106",
+      "confidence": "line",
+      "gemini_text": "GASKINS & GAINES",
+      "surya_confidence": 0.9918
+    },
+    {
+      "bbox": [
+        793,
+        472,
+        1207,
+        523
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:095#xywh=793,472,414,51",
+      "confidence": "line",
+      "gemini_text": "(Opposite Kann's)",
+      "surya_confidence": 0.9884
+    },
+    {
+      "bbox": [
+        776,
+        772,
+        826,
+        860
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:095#xywh=776,772,50,88",
+      "confidence": "line",
+      "gemini_text": "320 8th St. N.W., Washington, D. C.",
+      "surya_confidence": 0.9766
+    },
+    {
+      "bbox": [
+        644,
+        1196,
+        715,
+        2033
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:095#xywh=644,1196,71,837",
+      "confidence": "line",
+      "gemini_text": "OUR FAVORITE RESORT.",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        622,
+        2607,
+        1424,
+        2683
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:095#xywh=622,2607,802,76",
+      "confidence": "line",
+      "gemini_text": "Theatre Parties a Specialty.",
+      "surya_confidence": 0.9914
+    },
+    {
+      "bbox": [
+        990,
+        2685,
+        1048,
+        2719
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:095#xywh=990,2685,58,34",
+      "confidence": "line",
+      "gemini_text": "86",
+      "surya_confidence": 0.9874
+    }
+  ],
+  "unmatched_gemini": [
+    "GASKINS & GAINES in favor stand, high as any in the L&",
+    "All their MEALS contentment bring, to GASKINS & GAINES we therefore clinG",
+    "Splendid SOUPS, ENTREES we get here; to please all patrons is the chief idea",
+    "Keeping the purest LIQUORS, as none deny, their wines are unsurpassed, say |",
+    "Incomparable BEER we here obtain, cool, fresh and sparkling the best we gain",
+    "Noted for CIGARS all smokers deem, in exquisite flavor they are supreme",
+    "Stop in, then, patrons all confess, GASKINS & GAINES command success",
+    "Ladies' and Gents' Cafe Upstairs. Dinner and"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "image": "0023_service:mss:mss11879:mss11879-42:42001:0023d.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0023d",
+  "canvas_width": 786,
+  "canvas_height": 1273,
+  "surya_median_confidence": 0.9653,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        220,
+        99,
+        447,
+        197
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0023d#xywh=220,99,227,98",
+      "confidence": "line",
+      "gemini_text": "No. 3825",
+      "surya_confidence": 0.873
+    },
+    {
+      "bbox": [
+        135,
+        175,
+        682,
+        340
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0023d#xywh=135,175,547,165",
+      "confidence": "line",
+      "gemini_text": "Deutsch-Amerikanische",
+      "surya_confidence": 0.6463
+    },
+    {
+      "bbox": [
+        318,
+        304,
+        500,
+        360
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0023d#xywh=318,304,182,56",
+      "confidence": "line",
+      "gemini_text": "Sparbank.",
+      "surya_confidence": 0.9957
+    },
+    {
+      "bbox": [
+        311,
+        1074,
+        521,
+        1101
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0023d#xywh=311,1074,210,27",
+      "confidence": "line",
+      "gemini_text": "FEDERAL BUILDINGS,",
+      "surya_confidence": 0.9637
+    }
+  ],
+  "unmatched_gemini": [
+    "FEDERAL BUILDINGS",
+    "GERMAN AMERICAN SAVINGS BANK",
+    "German American Savings Bank,",
+    "CORNER OF SEVENTH AND F STREETS, N. W.,",
+    "WASHINGTON, D. C.",
+    "Keep this Book carefully. Do not roll or fold it."
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "image": "0035_service:rbc:lcrbmrp:t8072:035.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:035",
+  "canvas_width": 1878,
+  "canvas_height": 3005,
+  "surya_median_confidence": 0.9812,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        608,
+        400,
+        1416,
+        458
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:035#xywh=608,400,808,58",
+      "confidence": "line",
+      "gemini_text": "No Notes-No Interest.",
+      "surya_confidence": 0.9653
+    },
+    {
+      "bbox": [
+        744,
+        1085,
+        1245,
+        1327
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:035#xywh=744,1085,501,242",
+      "confidence": "line",
+      "gemini_text": "Furniture",
+      "surya_confidence": 0.9902
+    },
+    {
+      "bbox": [
+        712,
+        1369,
+        838,
+        1406
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:035#xywh=712,1369,126,37",
+      "confidence": "line",
+      "gemini_text": "AND",
+      "surya_confidence": 0.9638
+    },
+    {
+      "bbox": [
+        738,
+        1454,
+        1167,
+        1700
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:035#xywh=738,1454,429,246",
+      "confidence": "line",
+      "gemini_text": "Carpets",
+      "surya_confidence": 0.9809
+    },
+    {
+      "bbox": [
+        592,
+        1954,
+        1407,
+        2051
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:035#xywh=592,1954,815,97",
+      "confidence": "line",
+      "gemini_text": "Seventh Street,",
+      "surya_confidence": 0.9876
+    },
+    {
+      "bbox": [
+        803,
+        2090,
+        1170,
+        2207
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:035#xywh=803,2090,367,117",
+      "confidence": "line",
+      "gemini_text": "N. W.,",
+      "surya_confidence": 0.9876
+    },
+    {
+      "bbox": [
+        612,
+        2307,
+        1382,
+        2382
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:035#xywh=612,2307,770,75",
+      "confidence": "line",
+      "gemini_text": "WASHINGTON, D. C.",
+      "surya_confidence": 0.9142
+    }
+  ],
+  "unmatched_gemini": [
+    "PETER GROGAN CO.",
+    "817, 819, 821 and 823",
+    "EASY TERMS. ONE PRICE.",
+    "26"
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "image_width": 1898,
+  "image_height": 3008,
+  "lines": [
+    {
+      "bbox": [
+        564,
+        180,
+        612,
+        189
+      ],
+      "text": ". .",
+      "confidence": 0.4281
+    },
+    {
+      "bbox": [
+        670,
+        395,
+        1141,
+        452
+      ],
+      "text": "TRUM REMERIE",
+      "confidence": 0.9149
+    },
+    {
+      "bbox": [
+        1167,
+        402,
+        1270,
+        414
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        876,
+        436,
+        1279,
+        452
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        945,
+        493,
+        994,
+        503
+      ],
+      "text": "- 4",
+      "confidence": 0.4102
+    },
+    {
+      "bbox": [
+        898,
+        507,
+        1030,
+        534
+      ],
+      "text": "- - - - - T T",
+      "confidence": 0.3276
+    },
+    {
+      "bbox": [
+        816,
+        517,
+        895,
+        530
+      ],
+      "text": "2",
+      "confidence": 0.4756
+    },
+    {
+      "bbox": [
+        814,
+        529,
+        1015,
+        547
+      ],
+      "text": "# 1 A4 1 1 1 1 1 1",
+      "confidence": 0.3543
+    },
+    {
+      "bbox": [
+        558,
+        1912,
+        1445,
+        1989
+      ],
+      "text": "THOMAS WALKER,",
+      "confidence": 0.9674
+    },
+    {
+      "bbox": [
+        437,
+        1995,
+        1599,
+        2085
+      ],
+      "text": "Attorney and Counseller at Law,",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        672,
+        2101,
+        1363,
+        2154
+      ],
+      "text": "No. 506 5TH ST. N. W.",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        403,
+        2230,
+        1384,
+        2283
+      ],
+      "text": "Practices in all the Courts of the District.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        403,
+        2311,
+        1630,
+        2365
+      ],
+      "text": "Will Draw Contracts and Wills and all other Legal",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        517,
+        2394,
+        700,
+        2444
+      ],
+      "text": "Papers.",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        401,
+        2472,
+        1190,
+        2513
+      ],
+      "text": "Will make Loans on Real Estate.",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        406,
+        2548,
+        1629,
+        2595
+      ],
+      "text": "Will make Loans on Second Trust and on Personal",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        461,
+        2628,
+        710,
+        2675
+      ],
+      "text": "Securities.",
+      "confidence": 0.9882
+    }
+  ]
+}

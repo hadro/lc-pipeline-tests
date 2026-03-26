@@ -1,0 +1,136 @@
+{
+  "image": "0033_service:rbc:lcrbmrp:t8072:033.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:033",
+  "canvas_width": 1859,
+  "canvas_height": 2999,
+  "surya_median_confidence": 0.9756,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        485,
+        905,
+        1451,
+        1019
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:033#xywh=485,905,966,114",
+      "confidence": "line",
+      "gemini_text": "S. N. MEYER,",
+      "surya_confidence": 0.9755
+    },
+    {
+      "bbox": [
+        601,
+        1086,
+        1336,
+        1152
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:033#xywh=601,1086,735,66",
+      "confidence": "line",
+      "gemini_text": "1231 Pa. Ave. N. W.,",
+      "surya_confidence": 0.9942
+    },
+    {
+      "bbox": [
+        760,
+        1231,
+        1166,
+        1285
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:033#xywh=760,1231,406,54",
+      "confidence": "line",
+      "gemini_text": "Washington,",
+      "surya_confidence": 0.9732
+    },
+    {
+      "bbox": [
+        881,
+        1365,
+        1044,
+        1414
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:033#xywh=881,1365,163,49",
+      "confidence": "line",
+      "gemini_text": "D. C.",
+      "surya_confidence": 0.9432
+    },
+    {
+      "bbox": [
+        827,
+        1510,
+        1095,
+        1537
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:033#xywh=827,1510,268,27",
+      "confidence": "line",
+      "gemini_text": "SUPPLIES",
+      "surya_confidence": 0.7234
+    },
+    {
+      "bbox": [
+        856,
+        1850,
+        1068,
+        1908
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:033#xywh=856,1850,212,58",
+      "confidence": "line",
+      "gemini_text": "FOR",
+      "surya_confidence": 0.9332
+    },
+    {
+      "bbox": [
+        754,
+        2268,
+        1303,
+        2366
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:033#xywh=754,2268,549,98",
+      "confidence": "line",
+      "gemini_text": "Consistory,",
+      "surya_confidence": 0.9767
+    },
+    {
+      "bbox": [
+        953,
+        2418,
+        1326,
+        2510
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:033#xywh=953,2418,373,92",
+      "confidence": "line",
+      "gemini_text": "Temple",
+      "surya_confidence": 0.8536
+    },
+    {
+      "bbox": [
+        1069,
+        2564,
+        1567,
+        2647
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:033#xywh=1069,2564,498,83",
+      "confidence": "line",
+      "gemini_text": "and Shrine",
+      "surya_confidence": 0.9962
+    },
+    {
+      "bbox": [
+        932,
+        2663,
+        986,
+        2697
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:033#xywh=932,2663,54,34",
+      "confidence": "line",
+      "gemini_text": "24",
+      "surya_confidence": 0.989
+    }
+  ],
+  "unmatched_gemini": [
+    "HOLY BIBLE",
+    "Blue Lodge,",
+    "Chapter,"
+  ]
+}

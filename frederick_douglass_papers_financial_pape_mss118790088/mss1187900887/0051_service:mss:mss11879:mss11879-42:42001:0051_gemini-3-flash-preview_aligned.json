@@ -1,0 +1,336 @@
+{
+  "image": "0051_service:mss:mss11879:mss11879-42:42001:0051.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051",
+  "canvas_width": 1769,
+  "canvas_height": 1567,
+  "surya_median_confidence": 0.8898,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        1312,
+        113,
+        1590,
+        137
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=1312,113,278,24",
+      "confidence": "line",
+      "gemini_text": "RENT DEPARTMENT, BUSINESS ESTABLISHED JAMES F. HOOD, PRESIDENT.",
+      "surya_confidence": 0.949
+    },
+    {
+      "bbox": [
+        1313,
+        147,
+        1667,
+        171
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=1313,147,354,24",
+      "confidence": "line",
+      "gemini_text": "JOHN A. MASSIE, SUPT. 1887. FIRMAN R. HORNER, VICE-PRESIDENT.",
+      "surya_confidence": 0.9678
+    },
+    {
+      "bbox": [
+        1313,
+        181,
+        1665,
+        205
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=1313,181,352,24",
+      "confidence": "line",
+      "gemini_text": "A. M. MCLACHLEN, SEC'Y AND TREAS.",
+      "surya_confidence": 0.9928
+    },
+    {
+      "bbox": [
+        1478,
+        751,
+        1592,
+        769
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=1478,751,114,18",
+      "confidence": "line",
+      "gemini_text": "IN ACCOUNT WITH",
+      "surya_confidence": 0.9892
+    },
+    {
+      "bbox": [
+        1402,
+        817,
+        1603,
+        854
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=1402,817,201,37",
+      "confidence": "line",
+      "gemini_text": "INCORPORATED. CAPITAL, $150,000.",
+      "surya_confidence": 0.9857
+    },
+    {
+      "bbox": [
+        1295,
+        1136,
+        1369,
+        1158
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=1295,1136,74,22",
+      "confidence": "line",
+      "gemini_text": "TELEPHONE, MAIN 432.",
+      "surya_confidence": 0.991
+    },
+    {
+      "bbox": [
+        1406,
+        1339,
+        1668,
+        1369
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=1406,1339,262,30",
+      "confidence": "line",
+      "gemini_text": "No. 2701 - N. Street N.W. By rent from 4/12 190 3, to 5/12 190 3 27 50",
+      "surya_confidence": 0.9864
+    },
+    {
+      "bbox": [
+        1406,
+        1383,
+        1673,
+        1429
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=1406,1383,267,46",
+      "confidence": "line",
+      "gemini_text": "Total, 27 50",
+      "surya_confidence": 0.9559
+    },
+    {
+      "bbox": [
+        1279,
+        1392,
+        1364,
+        1428
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=1279,1392,85,36",
+      "confidence": "line",
+      "gemini_text": "Total, 27 50",
+      "surya_confidence": 0.9948
+    },
+    {
+      "bbox": [
+        1102,
+        237,
+        1656,
+        286
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=1102,237,554,49",
+      "confidence": "line",
+      "gemini_text": "April 14th 190 3.",
+      "surya_confidence": 0.7637
+    },
+    {
+      "bbox": [
+        76,
+        286,
+        728,
+        350
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=76,286,652,64",
+      "confidence": "line",
+      "gemini_text": "Mrs Helen Douglass",
+      "surya_confidence": 0.9001
+    },
+    {
+      "bbox": [
+        266,
+        398,
+        1486,
+        458
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=266,398,1220,60",
+      "confidence": "line",
+      "gemini_text": "The McLachlen Real Estate and Loan Company,",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        676,
+        471,
+        1086,
+        513
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=676,471,410,42",
+      "confidence": "line",
+      "gemini_text": "BANKERS,",
+      "surya_confidence": 0.8364
+    },
+    {
+      "bbox": [
+        357,
+        563,
+        1394,
+        603
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=357,563,1037,40",
+      "confidence": "line",
+      "gemini_text": "REAL ESTATE, INSURANCE, LOANS AND RENTS.",
+      "surya_confidence": 0.9389
+    },
+    {
+      "bbox": [
+        905,
+        607,
+        1201,
+        629
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=905,607,296,22",
+      "confidence": "line",
+      "gemini_text": "ESTATES MANAGED. SAFE INVESTMENTS MADE.",
+      "surya_confidence": 0.9745
+    },
+    {
+      "bbox": [
+        409,
+        649,
+        769,
+        674
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=409,649,360,25",
+      "confidence": "line",
+      "gemini_text": "Corner 10th and G Streets, WASHINGTON, D. C.",
+      "surya_confidence": 0.9744
+    },
+    {
+      "bbox": [
+        257,
+        759,
+        395,
+        779
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=257,759,138,20",
+      "confidence": "line",
+      "gemini_text": "PREMISES. PERIOD. AMOUNT.",
+      "surya_confidence": 0.988
+    },
+    {
+      "bbox": [
+        129,
+        930,
+        381,
+        945
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=129,930,252,15",
+      "confidence": "line",
+      "gemini_text": "\" \" \" \" \" \" \" \" \"",
+      "surya_confidence": 0.7857
+    },
+    {
+      "bbox": [
+        723,
+        961,
+        1017,
+        987
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=723,961,294,26",
+      "confidence": "line",
+      "gemini_text": "\" \" \" \" \" \" \" \" \"",
+      "surya_confidence": 0.7067
+    },
+    {
+      "bbox": [
+        754,
+        1005,
+        1019,
+        1032
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=754,1005,265,27",
+      "confidence": "line",
+      "gemini_text": "\" \" \" \" \" \" \" \" \"",
+      "surya_confidence": 0.8179
+    },
+    {
+      "bbox": [
+        723,
+        1049,
+        1017,
+        1077
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=723,1049,294,28",
+      "confidence": "line",
+      "gemini_text": "\" \" \" \" \" \" \" \" \"",
+      "surya_confidence": 0.4295
+    },
+    {
+      "bbox": [
+        132,
+        1064,
+        384,
+        1079
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=132,1064,252,15",
+      "confidence": "line",
+      "gemini_text": "\" \" \" \" \" \" \" \" \"",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        905,
+        1214,
+        1023,
+        1239
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=905,1214,118,25",
+      "confidence": "line",
+      "gemini_text": "\" \" \" \" \" \" \" \" \"",
+      "surya_confidence": 0.8234
+    },
+    {
+      "bbox": [
+        87,
+        1206,
+        902,
+        1254
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=87,1206,815,48",
+      "confidence": "line",
+      "gemini_text": "To Commission 5 per cent. on $ 27 50 collected, - 1 38",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        98,
+        1254,
+        1389,
+        1298
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=98,1254,1291,44",
+      "confidence": "line",
+      "gemini_text": "\" Insurance, $ ; Taxes paid, $",
+      "surya_confidence": 0.8795
+    },
+    {
+      "bbox": [
+        97,
+        1308,
+        972,
+        1336
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=97,1308,875,28",
+      "confidence": "line",
+      "gemini_text": "\" Repairs made, $",
+      "surya_confidence": 0.9048
+    },
+    {
+      "bbox": [
+        98,
+        1340,
+        836,
+        1387
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0051#xywh=98,1340,738,47",
+      "confidence": "line",
+      "gemini_text": "\" Check No. 3400 to balance, - - - - - 26 12",
+      "surya_confidence": 0.9525
+    }
+  ],
+  "unmatched_gemini": []
+}

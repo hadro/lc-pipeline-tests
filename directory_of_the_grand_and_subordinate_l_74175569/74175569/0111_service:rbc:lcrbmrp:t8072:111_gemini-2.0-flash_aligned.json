@@ -1,0 +1,492 @@
+{
+  "image": "0111_service:rbc:lcrbmrp:t8072:111.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111",
+  "canvas_width": 1885,
+  "canvas_height": 2985,
+  "surya_median_confidence": 0.9863,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        725,
+        335,
+        1266,
+        372
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=725,335,541,37",
+      "confidence": "line",
+      "gemini_text": "\"BAILEY'S TRUSS.\"",
+      "surya_confidence": 0.9715
+    },
+    {
+      "bbox": [
+        672,
+        439,
+        1330,
+        477
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=672,439,658,38",
+      "confidence": "line",
+      "gemini_text": "Sold by dealers everywhere.",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        381,
+        536,
+        1611,
+        580
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=381,536,1230,44",
+      "confidence": "line",
+      "gemini_text": "All of the Leading Physicians, of Washington, D. C.,",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        551,
+        591,
+        1470,
+        627
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=551,591,919,36",
+      "confidence": "line",
+      "gemini_text": "Pronounce IT the BEST ever invented.",
+      "surya_confidence": 0.9662
+    },
+    {
+      "bbox": [
+        477,
+        658,
+        1509,
+        704
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=477,658,1032,46",
+      "confidence": "line",
+      "gemini_text": "Office at Barber Shop, No. 312 9th St. N. W.",
+      "surya_confidence": 0.9981
+    },
+    {
+      "bbox": [
+        322,
+        739,
+        585,
+        776
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=322,739,263,37",
+      "confidence": "line",
+      "gemini_text": "Cleanliness",
+      "surya_confidence": 0.8609
+    },
+    {
+      "bbox": [
+        852,
+        783,
+        1134,
+        822
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=852,783,282,39",
+      "confidence": "line",
+      "gemini_text": "WM. HILL,",
+      "surya_confidence": 0.9945
+    },
+    {
+      "bbox": [
+        719,
+        850,
+        1289,
+        886
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=719,850,570,36",
+      "confidence": "line",
+      "gemini_text": "TONSORIAL PARLOR.",
+      "surya_confidence": 0.9453
+    },
+    {
+      "bbox": [
+        585,
+        918,
+        1393,
+        954
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=585,918,808,36",
+      "confidence": "line",
+      "gemini_text": "All the latest that can be obtained",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        378,
+        973,
+        1614,
+        1015
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=378,973,1236,42",
+      "confidence": "line",
+      "gemini_text": "Hair-Cutting, Shaving, Shampooing and Massaging.",
+      "surya_confidence": 0.9926
+    },
+    {
+      "bbox": [
+        725,
+        1020,
+        1218,
+        1058
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=725,1020,493,38",
+      "confidence": "line",
+      "gemini_text": "In Porters' Exchange",
+      "surya_confidence": 0.9467
+    },
+    {
+      "bbox": [
+        320,
+        1076,
+        870,
+        1114
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=320,1076,550,38",
+      "confidence": "line",
+      "gemini_text": "Telephone Main 1422 D.",
+      "surya_confidence": 0.9785
+    },
+    {
+      "bbox": [
+        830,
+        1154,
+        1157,
+        1192
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=830,1154,327,38",
+      "confidence": "line",
+      "gemini_text": "W. C. SCOTT,",
+      "surya_confidence": 0.9691
+    },
+    {
+      "bbox": [
+        801,
+        1241,
+        1182,
+        1276
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=801,1241,381,35",
+      "confidence": "line",
+      "gemini_text": "Tonsorial Artist.",
+      "surya_confidence": 0.9393
+    },
+    {
+      "bbox": [
+        771,
+        1341,
+        1204,
+        1377
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=771,1341,433,36",
+      "confidence": "line",
+      "gemini_text": "4 N. Ninth Street.",
+      "surya_confidence": 0.9878
+    },
+    {
+      "bbox": [
+        316,
+        1440,
+        1062,
+        1484
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=316,1440,746,44",
+      "confidence": "line",
+      "gemini_text": "Ladies' work done at residence,",
+      "surya_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        322,
+        1523,
+        694,
+        1558
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=322,1523,372,35",
+      "confidence": "line",
+      "gemini_text": "One block from",
+      "surya_confidence": 0.9866
+    },
+    {
+      "bbox": [
+        408,
+        1578,
+        780,
+        1618
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=408,1578,372,40",
+      "confidence": "line",
+      "gemini_text": "Railroad Depot",
+      "surya_confidence": 0.9547
+    },
+    {
+      "bbox": [
+        712,
+        1662,
+        1224,
+        1702
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=712,1662,512,40",
+      "confidence": "line",
+      "gemini_text": "MAGNOLIA HOUSE",
+      "surya_confidence": 0.8186
+    },
+    {
+      "bbox": [
+        631,
+        1766,
+        1358,
+        1806
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=631,1766,727,40",
+      "confidence": "line",
+      "gemini_text": "J. W. SMOTHERS, Proprietor.",
+      "surya_confidence": 0.9894
+    },
+    {
+      "bbox": [
+        474,
+        1866,
+        1511,
+        1906
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=474,1866,1037,40",
+      "confidence": "line",
+      "gemini_text": "Miner and Franklin Sts., West Chester, Pa.",
+      "surya_confidence": 0.996
+    },
+    {
+      "bbox": [
+        527,
+        1944,
+        1473,
+        1980
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=527,1944,946,36",
+      "confidence": "line",
+      "gemini_text": "MANN'S HOTEL AND RESTAURANT.",
+      "surya_confidence": 0.9346
+    },
+    {
+      "bbox": [
+        655,
+        2045,
+        1333,
+        2085
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=655,2045,678,40",
+      "confidence": "line",
+      "gemini_text": "FRANK MANN, Proprietor.",
+      "surya_confidence": 0.954
+    },
+    {
+      "bbox": [
+        494,
+        2145,
+        878,
+        2181
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=494,2145,384,36",
+      "confidence": "line",
+      "gemini_text": "Meals a la Carte",
+      "surya_confidence": 0.9781
+    },
+    {
+      "bbox": [
+        409,
+        2258,
+        763,
+        2298
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=409,2258,354,40",
+      "confidence": "line",
+      "gemini_text": "Phone, E 836 y",
+      "surya_confidence": 0.9859
+    },
+    {
+      "bbox": [
+        819,
+        2335,
+        1157,
+        2375
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=819,2335,338,40",
+      "confidence": "line",
+      "gemini_text": "J. P. EVANS,",
+      "surya_confidence": 0.993
+    },
+    {
+      "bbox": [
+        523,
+        2403,
+        1462,
+        2442
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=523,2403,939,39",
+      "confidence": "line",
+      "gemini_text": "Cranium Manipulator and Facial Artist.",
+      "surya_confidence": 0.9493
+    },
+    {
+      "bbox": [
+        746,
+        2460,
+        1236,
+        2497
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=746,2460,490,37",
+      "confidence": "line",
+      "gemini_text": "106 W Biddle Street,",
+      "surya_confidence": 0.9881
+    },
+    {
+      "bbox": [
+        499,
+        2516,
+        824,
+        2551
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=499,2516,325,35",
+      "confidence": "line",
+      "gemini_text": "Cor. Brevard.",
+      "surya_confidence": 0.9551
+    },
+    {
+      "bbox": [
+        1115,
+        2516,
+        1486,
+        2553
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=1115,2516,371,37",
+      "confidence": "line",
+      "gemini_text": "Baltimore, Md.",
+      "surya_confidence": 0.9859
+    },
+    {
+      "bbox": [
+        436,
+        2569,
+        1574,
+        2611
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=436,2569,1138,42",
+      "confidence": "line",
+      "gemini_text": "One block from Mt. Royal Station, B. & O. R. R..",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        464,
+        2625,
+        1520,
+        2669
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=464,2625,1056,44",
+      "confidence": "line",
+      "gemini_text": "Five blocks from Union Station, Penn, R. R.",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        956,
+        2675,
+        1033,
+        2707
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=956,2675,77,32",
+      "confidence": "line",
+      "gemini_text": "102",
+      "surya_confidence": 0.9696
+    },
+    {
+      "bbox": [
+        1382,
+        739,
+        1671,
+        777
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=1382,739,289,38",
+      "confidence": "line",
+      "gemini_text": "Promptness",
+      "surya_confidence": 0.792
+    },
+    {
+      "bbox": [
+        1259,
+        1072,
+        1663,
+        1107
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=1259,1072,404,35",
+      "confidence": "line",
+      "gemini_text": "105 6th St. N. W.",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        1308,
+        1440,
+        1669,
+        1479
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=1308,1440,361,39",
+      "confidence": "line",
+      "gemini_text": "Richmond, Va.",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        1280,
+        1519,
+        1536,
+        1556
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=1280,1519,256,37",
+      "confidence": "line",
+      "gemini_text": "Best wines",
+      "surya_confidence": 0.7966
+    },
+    {
+      "bbox": [
+        1382,
+        1575,
+        1672,
+        1614
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=1382,1575,290,39",
+      "confidence": "line",
+      "gemini_text": "and liquors.",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        1017,
+        2142,
+        1486,
+        2180
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=1017,2142,469,38",
+      "confidence": "line",
+      "gemini_text": "Lunch from 12 to 2.",
+      "surya_confidence": 0.9887
+    },
+    {
+      "bbox": [
+        1011,
+        2257,
+        1575,
+        2296
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:111#xywh=1011,2257,564,39",
+      "confidence": "line",
+      "gemini_text": "481-3 Penn. Ave., N. W.",
+      "surya_confidence": 0.9879
+    }
+  ],
+  "unmatched_gemini": []
+}

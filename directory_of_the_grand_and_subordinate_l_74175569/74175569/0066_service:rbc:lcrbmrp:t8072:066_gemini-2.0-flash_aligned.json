@@ -1,0 +1,636 @@
+{
+  "image": "0066_service:rbc:lcrbmrp:t8072:066.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066",
+  "canvas_width": 1819,
+  "canvas_height": 2980,
+  "surya_median_confidence": 0.9937,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        475,
+        400,
+        1343,
+        460
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=475,400,868,60",
+      "confidence": "line",
+      "gemini_text": "Prince Hall Chapter, No. 12, O, E. S.",
+      "surya_confidence": 0.9944
+    },
+    {
+      "bbox": [
+        610,
+        503,
+        1214,
+        541
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=610,503,604,38",
+      "confidence": "line",
+      "gemini_text": "Meets Fourth Wednesday.",
+      "surya_confidence": 0.9925
+    },
+    {
+      "bbox": [
+        239,
+        678,
+        1587,
+        720
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=239,678,1348,42",
+      "confidence": "line",
+      "gemini_text": "Mrs. L. L. Pendleton...........Royal Matron",
+      "surya_confidence": 0.9946
+    },
+    {
+      "bbox": [
+        716,
+        737,
+        1119,
+        777
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=716,737,403,40",
+      "confidence": "line",
+      "gemini_text": "1824 11th st., nw.",
+      "surya_confidence": 0.9916
+    },
+    {
+      "bbox": [
+        239,
+        798,
+        1588,
+        848
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=239,798,1349,50",
+      "confidence": "line",
+      "gemini_text": "Sir Walter J. Abrams...........Royal Patron",
+      "surya_confidence": 0.9973
+    },
+    {
+      "bbox": [
+        710,
+        862,
+        1122,
+        901
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=710,862,412,39",
+      "confidence": "line",
+      "gemini_text": "1241 22nd st., nw.",
+      "surya_confidence": 0.9915
+    },
+    {
+      "bbox": [
+        234,
+        908,
+        1590,
+        955
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=234,908,1356,47",
+      "confidence": "line",
+      "gemini_text": "Miss Eva B. Lucas..............Secretary",
+      "surya_confidence": 0.9937
+    },
+    {
+      "bbox": [
+        745,
+        972,
+        1071,
+        1009
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=745,972,326,37",
+      "confidence": "line",
+      "gemini_text": "461 E st., sw.",
+      "surya_confidence": 0.995
+    },
+    {
+      "bbox": [
+        448,
+        1190,
+        1088,
+        1229
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=448,1190,640,39",
+      "confidence": "line",
+      "gemini_text": "Abrams, Ella A., 1241 22d nw.",
+      "surya_confidence": 0.9862
+    },
+    {
+      "bbox": [
+        448,
+        1230,
+        1149,
+        1264
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=448,1230,701,34",
+      "confidence": "line",
+      "gemini_text": "Abrams, Walter J., 1241 22d nw.",
+      "surya_confidence": 0.9938
+    },
+    {
+      "bbox": [
+        447,
+        1264,
+        1124,
+        1299
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=447,1264,677,35",
+      "confidence": "line",
+      "gemini_text": "Bennett, Amelia, 1513 17th nw.",
+      "surya_confidence": 0.9945
+    },
+    {
+      "bbox": [
+        447,
+        1300,
+        1135,
+        1330
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=447,1300,688,30",
+      "confidence": "line",
+      "gemini_text": "Brandon, Maria, 1826 11th nw.",
+      "surya_confidence": 0.9923
+    },
+    {
+      "bbox": [
+        445,
+        1336,
+        1053,
+        1365
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=445,1336,608,29",
+      "confidence": "line",
+      "gemini_text": "Bronaugh, Lena, 1734 V nw.",
+      "surya_confidence": 0.9937
+    },
+    {
+      "bbox": [
+        445,
+        1371,
+        1058,
+        1400
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=445,1371,613,29",
+      "confidence": "line",
+      "gemini_text": "Brooks, Bessie T., 328 E sw.",
+      "surya_confidence": 0.9815
+    },
+    {
+      "bbox": [
+        445,
+        1404,
+        1212,
+        1436
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=445,1404,767,32",
+      "confidence": "line",
+      "gemini_text": "Brooks, Musette, 1437 Pierce Pl. nw.",
+      "surya_confidence": 0.9894
+    },
+    {
+      "bbox": [
+        443,
+        1434,
+        1100,
+        1475
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=443,1434,657,41",
+      "confidence": "line",
+      "gemini_text": "Brooks, O., 1437 Pierce Pl. nw.",
+      "surya_confidence": 0.9908
+    },
+    {
+      "bbox": [
+        445,
+        1473,
+        1186,
+        1506
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=445,1473,741,33",
+      "confidence": "line",
+      "gemini_text": "Brooks, O. E., 1437 Pierce Pl. nw.",
+      "surya_confidence": 0.9916
+    },
+    {
+      "bbox": [
+        443,
+        1506,
+        1158,
+        1542
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=443,1506,715,36",
+      "confidence": "line",
+      "gemini_text": "Brown, Bertha, 2025 11th nw.",
+      "surya_confidence": 0.9965
+    },
+    {
+      "bbox": [
+        445,
+        1543,
+        1232,
+        1577
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=445,1543,787,34",
+      "confidence": "line",
+      "gemini_text": "Brown, Mattie E., 1157 8th nw.",
+      "surya_confidence": 0.9964
+    },
+    {
+      "bbox": [
+        445,
+        1578,
+        1232,
+        1611
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=445,1578,787,33",
+      "confidence": "line",
+      "gemini_text": "Burrell, Eva, 1455 Pierce Pl. nw.",
+      "surya_confidence": 0.9924
+    },
+    {
+      "bbox": [
+        442,
+        1612,
+        1168,
+        1647
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=442,1612,726,35",
+      "confidence": "line",
+      "gemini_text": "Bush, Malvina T., 2354 6th nw.",
+      "surya_confidence": 0.9936
+    },
+    {
+      "bbox": [
+        444,
+        1648,
+        1029,
+        1681
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=444,1648,585,33",
+      "confidence": "line",
+      "gemini_text": "Carter, Evelyn, 1713 R nw.",
+      "surya_confidence": 0.9966
+    },
+    {
+      "bbox": [
+        445,
+        1683,
+        1026,
+        1715
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=445,1683,581,32",
+      "confidence": "line",
+      "gemini_text": "Childs, Rosa B., 513 3d sw.",
+      "surya_confidence": 0.9924
+    },
+    {
+      "bbox": [
+        445,
+        1718,
+        991,
+        1748
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=445,1718,546,30",
+      "confidence": "line",
+      "gemini_text": "Coles, Rosa, 1525 12th nw.",
+      "surya_confidence": 0.9902
+    },
+    {
+      "bbox": [
+        444,
+        1754,
+        1023,
+        1783
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=444,1754,579,29",
+      "confidence": "line",
+      "gemini_text": "Combs, Ellen, 2002 12th nw.",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        445,
+        1788,
+        976,
+        1818
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=445,1788,531,30",
+      "confidence": "line",
+      "gemini_text": "Cornish, Hattie, 312 B se.",
+      "surya_confidence": 0.9947
+    },
+    {
+      "bbox": [
+        444,
+        1821,
+        980,
+        1855
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=444,1821,536,34",
+      "confidence": "line",
+      "gemini_text": "Cox, Isabella, 2224 M nw.",
+      "surya_confidence": 0.9958
+    },
+    {
+      "bbox": [
+        445,
+        1857,
+        1259,
+        1889
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=445,1857,814,32",
+      "confidence": "line",
+      "gemini_text": "Cromwell, Anna E., 1439 Pierce Pl. nw.",
+      "surya_confidence": 0.9943
+    },
+    {
+      "bbox": [
+        438,
+        1893,
+        1064,
+        1925
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=438,1893,626,32",
+      "confidence": "line",
+      "gemini_text": "Davis, Eliza B., 1144 15th nw.",
+      "surya_confidence": 0.9945
+    },
+    {
+      "bbox": [
+        445,
+        1928,
+        1092,
+        1958
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=445,1928,647,30",
+      "confidence": "line",
+      "gemini_text": "Douglass, Belita, 1533 14th nw.",
+      "surya_confidence": 0.989
+    },
+    {
+      "bbox": [
+        445,
+        1963,
+        1377,
+        1993
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=445,1963,932,30",
+      "confidence": "line",
+      "gemini_text": "Fisher, Susie J., Linden Flats, Le Droit Park.",
+      "surya_confidence": 0.9964
+    },
+    {
+      "bbox": [
+        445,
+        1997,
+        1221,
+        2029
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=445,1997,776,32",
+      "confidence": "line",
+      "gemini_text": "Fraction, Clara S., 1418 Pierce Place.",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        445,
+        2031,
+        1038,
+        2067
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=445,2031,593,36",
+      "confidence": "line",
+      "gemini_text": "Griffin, Sadie A., 1410 S nw.",
+      "surya_confidence": 0.9966
+    },
+    {
+      "bbox": [
+        445,
+        2064,
+        1028,
+        2101
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=445,2064,583,37",
+      "confidence": "line",
+      "gemini_text": "Harris, Kate H., 2013 3d nw.",
+      "surya_confidence": 0.9956
+    },
+    {
+      "bbox": [
+        445,
+        2102,
+        1076,
+        2132
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=445,2102,631,30",
+      "confidence": "line",
+      "gemini_text": "Harris, Willie May, 600 3d sw.",
+      "surya_confidence": 0.9932
+    },
+    {
+      "bbox": [
+        444,
+        2137,
+        1065,
+        2167
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=444,2137,621,30",
+      "confidence": "line",
+      "gemini_text": "Haynes, Bessie, 2005 11th nw.",
+      "surya_confidence": 0.9911
+    },
+    {
+      "bbox": [
+        445,
+        2172,
+        1092,
+        2204
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=445,2172,647,32",
+      "confidence": "line",
+      "gemini_text": "Hughes, Ruby Page, 463 E sw.",
+      "surya_confidence": 0.9876
+    },
+    {
+      "bbox": [
+        444,
+        2204,
+        1176,
+        2238
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=444,2204,732,34",
+      "confidence": "line",
+      "gemini_text": "Hutchinson, John M., 1701 11th nw.",
+      "surya_confidence": 0.9933
+    },
+    {
+      "bbox": [
+        443,
+        2238,
+        1023,
+        2276
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=443,2238,580,38",
+      "confidence": "line",
+      "gemini_text": "Jackson, Helen, 1229 T nw.",
+      "surya_confidence": 0.997
+    },
+    {
+      "bbox": [
+        445,
+        2276,
+        1170,
+        2308
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=445,2276,725,32",
+      "confidence": "line",
+      "gemini_text": "Jackson, Kate, 1428 Pierce Pl. nw.",
+      "surya_confidence": 0.992
+    },
+    {
+      "bbox": [
+        444,
+        2311,
+        1379,
+        2343
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=444,2311,935,32",
+      "confidence": "line",
+      "gemini_text": "Johnson, Helen, The Linden, Le Droit Park.",
+      "surya_confidence": 0.9975
+    },
+    {
+      "bbox": [
+        445,
+        2343,
+        1059,
+        2378
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=445,2343,614,35",
+      "confidence": "line",
+      "gemini_text": "Johnson, Lydia D., 912 W nw.",
+      "surya_confidence": 0.9942
+    },
+    {
+      "bbox": [
+        445,
+        2379,
+        1132,
+        2412
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=445,2379,687,33",
+      "confidence": "line",
+      "gemini_text": "Johnson, M. V., 1523 Madison nw.",
+      "surya_confidence": 0.9945
+    },
+    {
+      "bbox": [
+        444,
+        2412,
+        1253,
+        2446
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=444,2412,809,34",
+      "confidence": "line",
+      "gemini_text": "Jones, Laura Terrell, 1531 Madison nw.",
+      "surya_confidence": 0.9973
+    },
+    {
+      "bbox": [
+        444,
+        2446,
+        1003,
+        2481
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=444,2446,559,35",
+      "confidence": "line",
+      "gemini_text": "Lee, Edith B., 2908 M nw.",
+      "surya_confidence": 0.9931
+    },
+    {
+      "bbox": [
+        443,
+        2479,
+        997,
+        2518
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=443,2479,554,39",
+      "confidence": "line",
+      "gemini_text": "Lee, Emily, 2036 17th nw.",
+      "surya_confidence": 0.9963
+    },
+    {
+      "bbox": [
+        444,
+        2518,
+        1009,
+        2550
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=444,2518,565,32",
+      "confidence": "line",
+      "gemini_text": "Lee, Hattie E., 2908 M nw.",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        442,
+        2553,
+        964,
+        2583
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=442,2553,522,30",
+      "confidence": "line",
+      "gemini_text": "Lee, I. R., 1704 11th nw.",
+      "surya_confidence": 0.996
+    },
+    {
+      "bbox": [
+        442,
+        2586,
+        903,
+        2618
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=442,2586,461,32",
+      "confidence": "line",
+      "gemini_text": "Lee, Mary, 1213 T nw.",
+      "surya_confidence": 0.9908
+    },
+    {
+      "bbox": [
+        441,
+        2622,
+        982,
+        2654
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=441,2622,541,32",
+      "confidence": "line",
+      "gemini_text": "Lemos, Alice E., 51 P nw.",
+      "surya_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        441,
+        2656,
+        1008,
+        2689
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=441,2656,567,33",
+      "confidence": "line",
+      "gemini_text": "Lucas, Alice M., 461 E sw.",
+      "surya_confidence": 0.9935
+    },
+    {
+      "bbox": [
+        882,
+        2705,
+        932,
+        2735
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:066#xywh=882,2705,50,30",
+      "confidence": "line",
+      "gemini_text": "57",
+      "surya_confidence": 0.9684
+    }
+  ],
+  "unmatched_gemini": []
+}

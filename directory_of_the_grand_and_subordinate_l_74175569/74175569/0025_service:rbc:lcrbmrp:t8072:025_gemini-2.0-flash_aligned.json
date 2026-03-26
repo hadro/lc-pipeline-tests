@@ -1,0 +1,192 @@
+{
+  "image": "0025_service:rbc:lcrbmrp:t8072:025.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:025",
+  "canvas_width": 1842,
+  "canvas_height": 2913,
+  "surya_median_confidence": 0.9932,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        329,
+        323,
+        1408,
+        422
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:025#xywh=329,323,1079,99",
+      "confidence": "line",
+      "gemini_text": "CHARLES DABNEY,",
+      "surya_confidence": 0.9288
+    },
+    {
+      "bbox": [
+        196,
+        471,
+        1547,
+        579
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:025#xywh=196,471,1351,108",
+      "confidence": "line",
+      "gemini_text": "Funeral Director,",
+      "surya_confidence": 0.9978
+    },
+    {
+      "bbox": [
+        406,
+        629,
+        1346,
+        701
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:025#xywh=406,629,940,72",
+      "confidence": "line",
+      "gemini_text": "Office, 1409 28th St., N. W.",
+      "surya_confidence": 0.9953
+    },
+    {
+      "bbox": [
+        671,
+        832,
+        1047,
+        873
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:025#xywh=671,832,376,41",
+      "confidence": "line",
+      "gemini_text": "'PHONE, MAIN",
+      "surya_confidence": 0.6652
+    },
+    {
+      "bbox": [
+        547,
+        1003,
+        1201,
+        1052
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:025#xywh=547,1003,654,49",
+      "confidence": "line",
+      "gemini_text": "CARRIAGES FOR HIRE.",
+      "surya_confidence": 0.9913
+    },
+    {
+      "bbox": [
+        300,
+        1194,
+        1468,
+        1245
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:025#xywh=300,1194,1168,51",
+      "confidence": "line",
+      "gemini_text": "Caskets, Coffins and all other Funeral Requisites.",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        534,
+        1291,
+        1220,
+        1347
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:025#xywh=534,1291,686,56",
+      "confidence": "line",
+      "gemini_text": "Reasonable Terms.",
+      "surya_confidence": 0.9612
+    },
+    {
+      "bbox": [
+        204,
+        1462,
+        1553,
+        1566
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:025#xywh=204,1462,1349,104",
+      "confidence": "line",
+      "gemini_text": "Douglas Express,",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        471,
+        1630,
+        1288,
+        1707
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:025#xywh=471,1630,817,77",
+      "confidence": "line",
+      "gemini_text": "1533 14th St., N. W.",
+      "surya_confidence": 0.9952
+    },
+    {
+      "bbox": [
+        206,
+        1830,
+        1561,
+        1934
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:025#xywh=206,1830,1355,104",
+      "confidence": "line",
+      "gemini_text": "Baggage, Furniture and",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        392,
+        1977,
+        1375,
+        2074
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:025#xywh=392,1977,983,97",
+      "confidence": "line",
+      "gemini_text": "Piano moving our",
+      "surya_confidence": 0.9844
+    },
+    {
+      "bbox": [
+        626,
+        2123,
+        1142,
+        2218
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:025#xywh=626,2123,516,95",
+      "confidence": "line",
+      "gemini_text": "Specialty.",
+      "surya_confidence": 0.9862
+    },
+    {
+      "bbox": [
+        407,
+        2356,
+        1366,
+        2424
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:025#xywh=407,2356,959,68",
+      "confidence": "line",
+      "gemini_text": "ROBT. T. DOUGLAS, Mgr.",
+      "surya_confidence": 0.9973
+    },
+    {
+      "bbox": [
+        217,
+        2519,
+        764,
+        2560
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:025#xywh=217,2519,547,41",
+      "confidence": "line",
+      "gemini_text": "Telephone, 3796-M.",
+      "surya_confidence": 0.9932
+    },
+    {
+      "bbox": [
+        862,
+        2608,
+        917,
+        2643
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:025#xywh=862,2608,55,35",
+      "confidence": "line",
+      "gemini_text": "16",
+      "surya_confidence": 0.9912
+    }
+  ],
+  "unmatched_gemini": []
+}

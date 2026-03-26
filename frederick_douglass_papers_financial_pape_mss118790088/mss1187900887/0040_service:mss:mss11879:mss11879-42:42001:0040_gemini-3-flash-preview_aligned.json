@@ -1,0 +1,72 @@
+{
+  "image": "0040_service:mss:mss11879:mss11879-42:42001:0040.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0040",
+  "canvas_width": 1636,
+  "canvas_height": 1311,
+  "surya_median_confidence": 0.7626,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        125,
+        89,
+        716,
+        145
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0040#xywh=125,89,591,56",
+      "confidence": "line",
+      "gemini_text": "The Washington Loan & Trust Co.",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        789,
+        82,
+        1497,
+        227
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0040#xywh=789,82,708,145",
+      "confidence": "line",
+      "gemini_text": "in account with Mrs Helen Douglass Cr.",
+      "surya_confidence": 0.7274
+    },
+    {
+      "bbox": [
+        680,
+        239,
+        759,
+        265
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0040#xywh=680,239,79,26",
+      "confidence": "line",
+      "gemini_text": "Dr.",
+      "surya_confidence": 0.979
+    },
+    {
+      "bbox": [
+        1195,
+        210,
+        1420,
+        294
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0040#xywh=1195,210,225,84",
+      "confidence": "line",
+      "gemini_text": "1902",
+      "surya_confidence": 0.7978
+    },
+    {
+      "bbox": [
+        1424,
+        223,
+        1505,
+        289
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0040#xywh=1424,223,81,66",
+      "confidence": "line",
+      "gemini_text": "Mar 23. Dep 176 00",
+      "surya_confidence": 0.3923
+    }
+  ],
+  "unmatched_gemini": []
+}

@@ -1,0 +1,11 @@
+{
+  "image": "0082_service:rbc:lcrbmrp:t8072:082.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {},
+  "page_context": {
+    "section_title": "Key to Directory",
+    "organization_name": null
+  },
+  "entries": []
+}

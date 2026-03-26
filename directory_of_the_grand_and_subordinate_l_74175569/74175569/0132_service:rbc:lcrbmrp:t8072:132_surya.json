@@ -1,0 +1,536 @@
+{
+  "image_width": 1829,
+  "image_height": 2998,
+  "lines": [
+    {
+      "bbox": [
+        653,
+        385,
+        1290,
+        435
+      ],
+      "text": "Corrections, Additions, Etc.",
+      "confidence": 0.983
+    },
+    {
+      "bbox": [
+        429,
+        490,
+        1157,
+        537
+      ],
+      "text": "Green, Arnold D., 3, 1611 12 nw",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        429,
+        535,
+        1248,
+        581
+      ],
+      "text": "Green, Joseph T., 12, 330 Spruce nw",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        429,
+        576,
+        1351,
+        627
+      ],
+      "text": "Green, Philip H., 10, G, 1749 Seaton nw.",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        430,
+        620,
+        1268,
+        672
+      ],
+      "text": "Green, William, 15, 51 Defrees st nw",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        430,
+        665,
+        1248,
+        714
+      ],
+      "text": "Grice, Geo. W., 7, 104 Prospect ne.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        429,
+        709,
+        1317,
+        759
+      ],
+      "text": "Hamilton, H. W., 12-7, C, 1101 T st nw",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        427,
+        750,
+        1456,
+        805
+      ],
+      "text": "Harris, H. C., 8-1-3, 33d-G-M-N-S, 1139 17 nw",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        427,
+        802,
+        1075,
+        849
+      ],
+      "text": "Harris, Julia A., 1139 17 nw",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        429,
+        846,
+        1139,
+        893
+      ],
+      "text": "Harvey, Henry A., 5, 214 D nw",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        427,
+        890,
+        1159,
+        938
+      ],
+      "text": "Hawkins, James H., 3, 64 G sw",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        429,
+        932,
+        1317,
+        984
+      ],
+      "text": "Hayes, Harvey B, 3, 2307 Va. ave nw",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        427,
+        974,
+        1448,
+        1028
+      ],
+      "text": "Hayes, James H., \"A\" Va., 1235 Lindene ne",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        429,
+        1025,
+        1120,
+        1072
+      ],
+      "text": "Henderson, Cordelia, 22 M sw",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        430,
+        1067,
+        1302,
+        1116
+      ],
+      "text": "Henderson, Richard, 3-1-3, 1221 W nw",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        429,
+        1107,
+        1521,
+        1162
+      ],
+      "text": "Hicks, Alex. F., 15-5-1, S, 2435 Brightwood ave",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        435,
+        1160,
+        1157,
+        1207
+      ],
+      "text": "Hill, Rev, Jas. H., 4, 1322 4 nw",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        434,
+        1206,
+        1010,
+        1247
+      ],
+      "text": "Hill, Samuel, 3, 435 2 sw",
+      "confidence": 0.9877
+    },
+    {
+      "bbox": [
+        434,
+        1254,
+        1019,
+        1291
+      ],
+      "text": "Hill, Wm. C., 7, 916 E sw",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        433,
+        1295,
+        1052,
+        1339
+      ],
+      "text": "Holland, Lizzie, 1919 11 nw",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        432,
+        1337,
+        1235,
+        1385
+      ],
+      "text": "Holmes, Burnett, 7, 49 Pierce st nw",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        432,
+        1383,
+        1177,
+        1429
+      ],
+      "text": "Hundell, James H., 1, 2009 9 nw",
+      "confidence": 0.9826
+    },
+    {
+      "bbox": [
+        434,
+        1432,
+        1053,
+        1468
+      ],
+      "text": "Hurley, J. E., 3, 1221 3 sw",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        435,
+        1472,
+        1076,
+        1518
+      ],
+      "text": "Jackson, Louise, 1524 21 nw",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        435,
+        1520,
+        1103,
+        1559
+      ],
+      "text": "Jackson, R. A. 8, 1223 W nw",
+      "confidence": 0.9659
+    },
+    {
+      "bbox": [
+        435,
+        1566,
+        1092,
+        1603
+      ],
+      "text": "Jackson, W. H., 15, 633 F nw",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        437,
+        1608,
+        1140,
+        1649
+      ],
+      "text": "Jackson, Wm. H., 10, 412 N nw",
+      "confidence": 0.9769
+    },
+    {
+      "bbox": [
+        437,
+        1652,
+        1209,
+        1694
+      ],
+      "text": "James, Eugene R., 3-7, 1826 L nw",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        437,
+        1698,
+        1018,
+        1737
+      ],
+      "text": "Jeffers, D. B., 5, 306 3 se",
+      "confidence": 0.9808
+    },
+    {
+      "bbox": [
+        438,
+        1738,
+        1326,
+        1785
+      ],
+      "text": "Johnsing, William, 6, Anacostia, D. C.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        437,
+        1786,
+        1193,
+        1827
+      ],
+      "text": "Johnson, Frank D., 7, 1123 15 nw",
+      "confidence": 0.9833
+    },
+    {
+      "bbox": [
+        437,
+        1830,
+        1196,
+        1872
+      ],
+      "text": "Johnson, Jacob A., 15, 2322 G nw",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        438,
+        1869,
+        1480,
+        1918
+      ],
+      "text": "Johnson, Jerome A., 14-1-3. 33d G, 1528 15 nw",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        441,
+        1917,
+        1256,
+        1963
+      ],
+      "text": "Johnson, Marie Letcher, 1816 20 nw",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        440,
+        1965,
+        1172,
+        2006
+      ],
+      "text": "Johnson, Virginia, 652 Acker ne",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        438,
+        2004,
+        1520,
+        2052
+      ],
+      "text": "Jones, Thos. E., 10, 20 Prospect st, Reno, D. C,",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        435,
+        2051,
+        1180,
+        2097
+      ],
+      "text": "Keelan, John C., O, 245 Elm nw",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        436,
+        2095,
+        1123,
+        2142
+      ],
+      "text": "Kesterson, James, 7, 209 2 sw",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        438,
+        2138,
+        1244,
+        2186
+      ],
+      "text": "Lassiter, Andrew. 8-7-4, 2238 11 nw",
+      "confidence": 0.9869
+    },
+    {
+      "bbox": [
+        438,
+        2189,
+        869,
+        2229
+      ],
+      "text": "Laws, Wm. H. 10,",
+      "confidence": 0.9708
+    },
+    {
+      "bbox": [
+        439,
+        2226,
+        1377,
+        2277
+      ],
+      "text": "Livingston, H. L., 14 7-2, R-S, 1759 L nw",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        441,
+        2276,
+        1076,
+        2320
+      ],
+      "text": "Mabry, Benj., 10, 1423 I nw",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        441,
+        2319,
+        1128,
+        2365
+      ],
+      "text": "Marshall, Joseph, 8, 829 3 sw",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        443,
+        2366,
+        1230,
+        2403
+      ],
+      "text": "Marshall, Thomas J., 15, 812 G sw",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        440,
+        2406,
+        1096,
+        2452
+      ],
+      "text": "Martin, David, 4, 1739 11 nw",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        441,
+        2447,
+        1218,
+        2498
+      ],
+      "text": "Martin, Edward, 4, 1739 11 st nw",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        433,
+        2493,
+        1162,
+        2542
+      ],
+      "text": "Martin, Ernest, 4, 1739 11 st nw",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        441,
+        2537,
+        1140,
+        2588
+      ],
+      "text": "Martin, Geo. W., 7, 1343 32 nw",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        441,
+        2583,
+        1347,
+        2631
+      ],
+      "text": "Matthews, Rev. Joseph, 10, G, 918 E sw",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        439,
+        2627,
+        1291,
+        2676
+      ],
+      "text": "McBeth, W. A., 10-7-4, G-S, 733 7 nw",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        438,
+        2668,
+        1440,
+        2722
+      ],
+      "text": "McCauley, Charles, 15. Brentwood P O Md.",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        954,
+        2725,
+        1024,
+        2754
+      ],
+      "text": "123",
+      "confidence": 0.9468
+    },
+    {
+      "bbox": [
+        445,
+        2910,
+        551,
+        2922
+      ],
+      "text": "State of the last",
+      "confidence": 0.2073
+    }
+  ]
+}

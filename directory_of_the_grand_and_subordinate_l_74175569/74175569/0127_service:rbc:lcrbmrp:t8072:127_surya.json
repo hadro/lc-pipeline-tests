@@ -1,0 +1,316 @@
+{
+  "image_width": 1880,
+  "image_height": 2987,
+  "lines": [
+    {
+      "bbox": [
+        53,
+        63,
+        89,
+        93
+      ],
+      "text": "6",
+      "confidence": 0.3688
+    },
+    {
+      "bbox": [
+        474,
+        396,
+        1563,
+        457
+      ],
+      "text": "PATTON NOVELTY COMPANY,",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        711,
+        499,
+        1330,
+        550
+      ],
+      "text": "Wholesale and Retail",
+      "confidence": 0.9321
+    },
+    {
+      "bbox": [
+        474,
+        600,
+        1560,
+        657
+      ],
+      "text": "MAIL ORDER MERCHANDISE,",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        856,
+        700,
+        1170,
+        750
+      ],
+      "text": "AGENTS'",
+      "confidence": 0.7799
+    },
+    {
+      "bbox": [
+        341,
+        799,
+        1698,
+        860
+      ],
+      "text": "SUPPLIES, NOVELTIES, BOOKS, ETC.,",
+      "confidence": 0.9721
+    },
+    {
+      "bbox": [
+        475,
+        911,
+        1565,
+        973
+      ],
+      "text": "3958 Short Larimer St., Denver, Colo.",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        726,
+        1013,
+        1301,
+        1065
+      ],
+      "text": "Write for Circulars.",
+      "confidence": 0.9608
+    },
+    {
+      "bbox": [
+        341,
+        1145,
+        1693,
+        1214
+      ],
+      "text": "The Right Worshipful Supreme Grand Lodge",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        452,
+        1239,
+        1596,
+        1296
+      ],
+      "text": "and Chamber of the Improved Order of",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        507,
+        1327,
+        1536,
+        1378
+      ],
+      "text": "Craftsmen and Princesses of Honor.",
+      "confidence": 0.9516
+    },
+    {
+      "bbox": [
+        382,
+        1431,
+        1695,
+        1473
+      ],
+      "text": "Located at Denver, Colo. The order is racial, social,",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        338,
+        1486,
+        1693,
+        1526
+      ],
+      "text": "protective, industrial and beneficiary. Good Organizers",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        338,
+        1542,
+        1691,
+        1581
+      ],
+      "text": "wanted in every county and town in the United States and",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        335,
+        1597,
+        1692,
+        1637
+      ],
+      "text": "foreign countries. WE PAY 50 PER CENT. to deputies;",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        336,
+        1653,
+        980,
+        1692
+      ],
+      "text": "when on salary, $50 to $100.",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        551,
+        1731,
+        1499,
+        1771
+      ],
+      "text": "Prof. Wm. M. Patton, R. W. S. G. M.,",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        662,
+        1798,
+        1361,
+        1833
+      ],
+      "text": "Post-office 40th Street Station.",
+      "confidence": 0.9826
+    },
+    {
+      "bbox": [
+        579,
+        1878,
+        1446,
+        1916
+      ],
+      "text": "Mr. Major J. Blakley, R. W. S. G. S.",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        665,
+        1995,
+        1350,
+        2048
+      ],
+      "text": "\"THE BULLETIN.\"",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        377,
+        2102,
+        1687,
+        2141
+      ],
+      "text": "AN UP-TO-DATE Fraternal, Religious and Racial-",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        335,
+        2157,
+        1685,
+        2196
+      ],
+      "text": "Defending and Representative Newspaper, published",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        330,
+        2212,
+        1684,
+        2252
+      ],
+      "text": "monthly at Denver, Colo. BY THE BULLETIN PUBLISHING",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        330,
+        2264,
+        1685,
+        2310
+      ],
+      "text": "COMPANY. Send us your Fraternal, Religious and Racial",
+      "confidence": 0.9584
+    },
+    {
+      "bbox": [
+        335,
+        2323,
+        1684,
+        2362
+      ],
+      "text": "News. We have a circulation in nearly every state in the",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        333,
+        2380,
+        1687,
+        2415
+      ],
+      "text": "Union and several islands at sea. You should advertise",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        329,
+        2437,
+        1684,
+        2474
+      ],
+      "text": "your business through the Bulletin's columns. PRICE, 50c",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        329,
+        2495,
+        1416,
+        2531
+      ],
+      "text": "PER YEAR. SAMPLE COPY MAILED ON REQUEST.",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        329,
+        2571,
+        1330,
+        2608
+      ],
+      "text": "Prof. Wm. M. Patton, Manager and Editor.",
+      "confidence": 0.9765
+    },
+    {
+      "bbox": [
+        625,
+        2649,
+        1677,
+        2687
+      ],
+      "text": "Mrs. Emma A. Carter, Corresponding Editor.",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        507,
+        2727,
+        1474,
+        2764
+      ],
+      "text": "The Bulletin office, 3958 Short Larimer St.",
+      "confidence": 0.998
+    }
+  ]
+}

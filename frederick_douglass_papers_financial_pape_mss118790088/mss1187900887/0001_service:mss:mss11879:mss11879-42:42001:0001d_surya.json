@@ -1,0 +1,116 @@
+{
+  "image_width": 785,
+  "image_height": 1189,
+  "lines": [
+    {
+      "bbox": [
+        154,
+        97,
+        651,
+        145
+      ],
+      "text": "Leave your Book for SETTLEMENT",
+      "confidence": 0.9793
+    },
+    {
+      "bbox": [
+        227,
+        129,
+        579,
+        170
+      ],
+      "text": "at least once in sic months.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        132,
+        216,
+        314,
+        253
+      ],
+      "text": "No. 1801",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        132,
+        263,
+        351,
+        302
+      ],
+      "text": "Folio / /37",
+      "confidence": 0.9717
+    },
+    {
+      "bbox": [
+        140,
+        373,
+        645,
+        545
+      ],
+      "text": "BRITAL SAVINGS BANK",
+      "confidence": 0.311
+    },
+    {
+      "bbox": [
+        241,
+        534,
+        535,
+        572
+      ],
+      "text": "WASHINGTON, D. C.",
+      "confidence": 0.9858
+    },
+    {
+      "bbox": [
+        252,
+        653,
+        518,
+        684
+      ],
+      "text": "IN ACCOUNT WITH",
+      "confidence": 0.9672
+    },
+    {
+      "bbox": [
+        304,
+        773,
+        544,
+        804
+      ],
+      "text": "x 10 x 39 3 18",
+      "confidence": 0.3878
+    },
+    {
+      "bbox": [
+        130,
+        994,
+        628,
+        1032
+      ],
+      "text": "Always bring this Book when making",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        322,
+        1033,
+        443,
+        1061
+      ],
+      "text": "Deposits.",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        194,
+        1106,
+        464,
+        1126
+      ],
+      "text": "YOURG A BRIDEN, HARR PLATIONE",
+      "confidence": 0.2928
+    }
+  ]
+}

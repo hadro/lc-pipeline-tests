@@ -1,0 +1,72 @@
+{
+  "image": "0051_service:rbc:lcrbmrp:t8072:051.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:051",
+  "canvas_width": 1883,
+  "canvas_height": 2998,
+  "surya_median_confidence": 0.9867,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        364,
+        379,
+        1589,
+        480
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:051#xywh=364,379,1225,101",
+      "confidence": "line",
+      "gemini_text": "F. WARREN JOHNSON,",
+      "surya_confidence": 0.9694
+    },
+    {
+      "bbox": [
+        579,
+        681,
+        1374,
+        755
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:051#xywh=579,681,795,74",
+      "confidence": "line",
+      "gemini_text": "1224 Pa. Avenue N. W.",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        362,
+        1439,
+        1583,
+        1586
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:051#xywh=362,1439,1221,147",
+      "confidence": "line",
+      "gemini_text": "Money Loaned on Personal Property.",
+      "surya_confidence": 0.9969
+    },
+    {
+      "bbox": [
+        488,
+        2383,
+        1462,
+        2421
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:051#xywh=488,2383,974,38",
+      "confidence": "line",
+      "gemini_text": "WHOLESALE AND RETAIL DEALER IN",
+      "surya_confidence": 0.978
+    },
+    {
+      "bbox": [
+        388,
+        2599,
+        1544,
+        2684
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:051#xywh=388,2599,1156,85",
+      "confidence": "line",
+      "gemini_text": "Watches, Diamonds, Jewelry, &c..",
+      "surya_confidence": 0.9999
+    }
+  ],
+  "unmatched_gemini": []
+}

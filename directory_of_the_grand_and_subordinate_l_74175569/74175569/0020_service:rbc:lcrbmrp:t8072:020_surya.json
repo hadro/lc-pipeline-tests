@@ -1,0 +1,3096 @@
+{
+  "image_width": 1776,
+  "image_height": 2904,
+  "lines": [
+    {
+      "bbox": [
+        1374,
+        189,
+        1448,
+        318
+      ],
+      "text": "Myers",
+      "confidence": 0.6683
+    },
+    {
+      "bbox": [
+        1472,
+        189,
+        1554,
+        319
+      ],
+      "text": "Myers\nMyers",
+      "confidence": 0.9125
+    },
+    {
+      "bbox": [
+        1439,
+        190,
+        1486,
+        318
+      ],
+      "text": "Myers",
+      "confidence": 0.9355
+    },
+    {
+      "bbox": [
+        662,
+        191,
+        781,
+        490
+      ],
+      "text": "N. Wilkinson\nN. Wilkinson\nN. Wilkinson",
+      "confidence": 0.9825
+    },
+    {
+      "bbox": [
+        1173,
+        192,
+        1252,
+        324
+      ],
+      "text": "Myers\nMyers",
+      "confidence": 0.8984
+    },
+    {
+      "bbox": [
+        1275,
+        192,
+        1315,
+        318
+      ],
+      "text": "Myers",
+      "confidence": 0.9438
+    },
+    {
+      "bbox": [
+        1308,
+        192,
+        1350,
+        317
+      ],
+      "text": "Myers",
+      "confidence": 0.905
+    },
+    {
+      "bbox": [
+        1341,
+        192,
+        1384,
+        318
+      ],
+      "text": "Myers",
+      "confidence": 0.9437
+    },
+    {
+      "bbox": [
+        1241,
+        193,
+        1284,
+        320
+      ],
+      "text": "Myers",
+      "confidence": 0.8733
+    },
+    {
+      "bbox": [
+        1108,
+        196,
+        1147,
+        322
+      ],
+      "text": "Myers",
+      "confidence": 0.9486
+    },
+    {
+      "bbox": [
+        1142,
+        196,
+        1183,
+        320
+      ],
+      "text": "Myers",
+      "confidence": 0.655
+    },
+    {
+      "bbox": [
+        1041,
+        197,
+        1084,
+        321
+      ],
+      "text": "Myers",
+      "confidence": 0.9135
+    },
+    {
+      "bbox": [
+        1076,
+        197,
+        1115,
+        323
+      ],
+      "text": "Myers",
+      "confidence": 0.8862
+    },
+    {
+      "bbox": [
+        777,
+        200,
+        846,
+        336
+      ],
+      "text": "Myers\nMyers",
+      "confidence": 0.9179
+    },
+    {
+      "bbox": [
+        940,
+        200,
+        983,
+        326
+      ],
+      "text": "Myers",
+      "confidence": 0.8703
+    },
+    {
+      "bbox": [
+        976,
+        200,
+        1018,
+        325
+      ],
+      "text": "Myers",
+      "confidence": 0.9115
+    },
+    {
+      "bbox": [
+        876,
+        201,
+        917,
+        327
+      ],
+      "text": "Myers",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        1538,
+        201,
+        1580,
+        318
+      ],
+      "text": "Myer",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        841,
+        202,
+        882,
+        330
+      ],
+      "text": "Myers",
+      "confidence": 0.9395
+    },
+    {
+      "bbox": [
+        1008,
+        205,
+        1039,
+        320
+      ],
+      "text": "Myers",
+      "confidence": 0.9819
+    },
+    {
+      "bbox": [
+        908,
+        207,
+        945,
+        321
+      ],
+      "text": "Myers",
+      "confidence": 0.9551
+    },
+    {
+      "bbox": [
+        642,
+        211,
+        671,
+        418
+      ],
+      "text": "Wilkinson",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        530,
+        227,
+        564,
+        447
+      ],
+      "text": "Secretaries",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        398,
+        295,
+        453,
+        620
+      ],
+      "text": "CONTINUED",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        1506,
+        317,
+        1573,
+        376
+      ],
+      "text": "田田",
+      "confidence": 0.4279
+    },
+    {
+      "bbox": [
+        1440,
+        325,
+        1508,
+        376
+      ],
+      "text": "田田",
+      "confidence": 0.505
+    },
+    {
+      "bbox": [
+        806,
+        330,
+        842,
+        381
+      ],
+      "text": "H.",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        872,
+        333,
+        975,
+        385
+      ],
+      "text": "田田田",
+      "confidence": 0.6448
+    },
+    {
+      "bbox": [
+        1410,
+        333,
+        1440,
+        382
+      ],
+      "text": "H.",
+      "confidence": 0.9617
+    },
+    {
+      "bbox": [
+        776,
+        335,
+        809,
+        505
+      ],
+      "text": "lliam H.",
+      "confidence": 0.9511
+    },
+    {
+      "bbox": [
+        1004,
+        335,
+        1043,
+        385
+      ],
+      "text": "H.",
+      "confidence": 0.9737
+    },
+    {
+      "bbox": [
+        1342,
+        335,
+        1407,
+        375
+      ],
+      "text": "田田",
+      "confidence": 0.4221
+    },
+    {
+      "bbox": [
+        843,
+        336,
+        874,
+        385
+      ],
+      "text": "H.",
+      "confidence": 0.9668
+    },
+    {
+      "bbox": [
+        1271,
+        338,
+        1343,
+        379
+      ],
+      "text": "田田",
+      "confidence": 0.8012
+    },
+    {
+      "bbox": [
+        1106,
+        340,
+        1141,
+        378
+      ],
+      "text": "H",
+      "confidence": 0.9629
+    },
+    {
+      "bbox": [
+        1207,
+        340,
+        1240,
+        378
+      ],
+      "text": "H",
+      "confidence": 0.8892
+    },
+    {
+      "bbox": [
+        973,
+        342,
+        1004,
+        376
+      ],
+      "text": "H",
+      "confidence": 0.4926
+    },
+    {
+      "bbox": [
+        1241,
+        342,
+        1272,
+        377
+      ],
+      "text": "H",
+      "confidence": 0.961
+    },
+    {
+      "bbox": [
+        1073,
+        343,
+        1108,
+        380
+      ],
+      "text": "H",
+      "confidence": 0.9584
+    },
+    {
+      "bbox": [
+        1138,
+        343,
+        1175,
+        378
+      ],
+      "text": "H",
+      "confidence": 0.9549
+    },
+    {
+      "bbox": [
+        1043,
+        344,
+        1073,
+        378
+      ],
+      "text": "H",
+      "confidence": 0.9385
+    },
+    {
+      "bbox": [
+        1173,
+        344,
+        1209,
+        378
+      ],
+      "text": "H",
+      "confidence": 0.6561
+    },
+    {
+      "bbox": [
+        1509,
+        376,
+        1577,
+        554
+      ],
+      "text": "William",
+      "confidence": 0.5547
+    },
+    {
+      "bbox": [
+        1346,
+        380,
+        1376,
+        473
+      ],
+      "text": "liam",
+      "confidence": 0.928
+    },
+    {
+      "bbox": [
+        1376,
+        381,
+        1411,
+        486
+      ],
+      "text": "lliam",
+      "confidence": 0.8191
+    },
+    {
+      "bbox": [
+        1484,
+        383,
+        1506,
+        455
+      ],
+      "text": "am",
+      "confidence": 0.5578
+    },
+    {
+      "bbox": [
+        1312,
+        384,
+        1343,
+        476
+      ],
+      "text": "liam",
+      "confidence": 0.9515
+    },
+    {
+      "bbox": [
+        1244,
+        385,
+        1278,
+        490
+      ],
+      "text": "lliam",
+      "confidence": 0.9081
+    },
+    {
+      "bbox": [
+        1283,
+        386,
+        1308,
+        498
+      ],
+      "text": "lliam",
+      "confidence": 0.8743
+    },
+    {
+      "bbox": [
+        1410,
+        386,
+        1440,
+        547
+      ],
+      "text": "William",
+      "confidence": 0.9129
+    },
+    {
+      "bbox": [
+        1448,
+        386,
+        1475,
+        469
+      ],
+      "text": "iam",
+      "confidence": 0.753
+    },
+    {
+      "bbox": [
+        1112,
+        388,
+        1144,
+        478
+      ],
+      "text": "liam",
+      "confidence": 0.9269
+    },
+    {
+      "bbox": [
+        1210,
+        389,
+        1244,
+        489
+      ],
+      "text": "lliam",
+      "confidence": 0.7728
+    },
+    {
+      "bbox": [
+        982,
+        390,
+        1009,
+        475
+      ],
+      "text": "iam",
+      "confidence": 0.5951
+    },
+    {
+      "bbox": [
+        1145,
+        390,
+        1173,
+        476
+      ],
+      "text": "liam",
+      "confidence": 0.8543
+    },
+    {
+      "bbox": [
+        1180,
+        391,
+        1210,
+        473
+      ],
+      "text": "iam",
+      "confidence": 0.8673
+    },
+    {
+      "bbox": [
+        1013,
+        392,
+        1043,
+        475
+      ],
+      "text": "iam",
+      "confidence": 0.9113
+    },
+    {
+      "bbox": [
+        947,
+        394,
+        976,
+        483
+      ],
+      "text": "liam",
+      "confidence": 0.939
+    },
+    {
+      "bbox": [
+        812,
+        395,
+        842,
+        501
+      ],
+      "text": "lliam",
+      "confidence": 0.8644
+    },
+    {
+      "bbox": [
+        842,
+        396,
+        877,
+        505
+      ],
+      "text": "lliam",
+      "confidence": 0.8369
+    },
+    {
+      "bbox": [
+        1046,
+        396,
+        1076,
+        501
+      ],
+      "text": "lliam",
+      "confidence": 0.8732
+    },
+    {
+      "bbox": [
+        1080,
+        397,
+        1109,
+        488
+      ],
+      "text": "liam",
+      "confidence": 0.9016
+    },
+    {
+      "bbox": [
+        877,
+        398,
+        908,
+        557
+      ],
+      "text": "William",
+      "confidence": 0.9812
+    },
+    {
+      "bbox": [
+        915,
+        399,
+        941,
+        504
+      ],
+      "text": "lliam",
+      "confidence": 0.9313
+    },
+    {
+      "bbox": [
+        643,
+        442,
+        676,
+        474
+      ],
+      "text": "Z",
+      "confidence": 0.6881
+    },
+    {
+      "bbox": [
+        532,
+        450,
+        566,
+        521
+      ],
+      "text": "Gr.",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        1203,
+        479,
+        1280,
+        556
+      ],
+      "text": "Wil",
+      "confidence": 0.6
+    },
+    {
+      "bbox": [
+        1070,
+        484,
+        1112,
+        555
+      ],
+      "text": "Wil",
+      "confidence": 0.9552
+    },
+    {
+      "bbox": [
+        1441,
+        487,
+        1475,
+        547
+      ],
+      "text": "Wi",
+      "confidence": 0.975
+    },
+    {
+      "bbox": [
+        707,
+        489,
+        739,
+        520
+      ],
+      "text": "3",
+      "confidence": 0.5462
+    },
+    {
+      "bbox": [
+        745,
+        491,
+        769,
+        519
+      ],
+      "text": "=",
+      "confidence": 0.3221
+    },
+    {
+      "bbox": [
+        1274,
+        494,
+        1311,
+        550
+      ],
+      "text": "Wi",
+      "confidence": 0.9531
+    },
+    {
+      "bbox": [
+        1342,
+        494,
+        1377,
+        549
+      ],
+      "text": "Wi",
+      "confidence": 0.905
+    },
+    {
+      "bbox": [
+        1374,
+        494,
+        1408,
+        548
+      ],
+      "text": "Wi",
+      "confidence": 0.9362
+    },
+    {
+      "bbox": [
+        1474,
+        494,
+        1511,
+        547
+      ],
+      "text": "Wi",
+      "confidence": 0.9685
+    },
+    {
+      "bbox": [
+        1043,
+        498,
+        1080,
+        555
+      ],
+      "text": "Wi",
+      "confidence": 0.9572
+    },
+    {
+      "bbox": [
+        1107,
+        498,
+        1145,
+        553
+      ],
+      "text": "Wi",
+      "confidence": 0.9439
+    },
+    {
+      "bbox": [
+        1144,
+        498,
+        1179,
+        554
+      ],
+      "text": "Wi",
+      "confidence": 0.9107
+    },
+    {
+      "bbox": [
+        1175,
+        498,
+        1213,
+        553
+      ],
+      "text": "Wi",
+      "confidence": 0.9613
+    },
+    {
+      "bbox": [
+        1309,
+        498,
+        1343,
+        550
+      ],
+      "text": "Wi",
+      "confidence": 0.9225
+    },
+    {
+      "bbox": [
+        1009,
+        499,
+        1046,
+        555
+      ],
+      "text": "Wi",
+      "confidence": 0.9756
+    },
+    {
+      "bbox": [
+        744,
+        501,
+        808,
+        562
+      ],
+      "text": "J. F",
+      "confidence": 0.8916
+    },
+    {
+      "bbox": [
+        908,
+        501,
+        944,
+        557
+      ],
+      "text": "Wi",
+      "confidence": 0.96
+    },
+    {
+      "bbox": [
+        978,
+        501,
+        1009,
+        555
+      ],
+      "text": "Wi",
+      "confidence": 0.9461
+    },
+    {
+      "bbox": [
+        843,
+        502,
+        879,
+        559
+      ],
+      "text": "Wi",
+      "confidence": 0.9748
+    },
+    {
+      "bbox": [
+        942,
+        503,
+        973,
+        554
+      ],
+      "text": "1.1",
+      "confidence": 0.3807
+    },
+    {
+      "bbox": [
+        810,
+        511,
+        845,
+        559
+      ],
+      "text": "M",
+      "confidence": 0.6684
+    },
+    {
+      "bbox": [
+        1448,
+        633,
+        1482,
+        779
+      ],
+      "text": "Lowery",
+      "confidence": 0.9899
+    },
+    {
+      "bbox": [
+        1415,
+        634,
+        1446,
+        767
+      ],
+      "text": "LOWery",
+      "confidence": 0.8488
+    },
+    {
+      "bbox": [
+        1083,
+        636,
+        1115,
+        776
+      ],
+      "text": "OWery",
+      "confidence": 0.7875
+    },
+    {
+      "bbox": [
+        914,
+        637,
+        949,
+        785
+      ],
+      "text": "Lowery",
+      "confidence": 0.9852
+    },
+    {
+      "bbox": [
+        1180,
+        637,
+        1214,
+        772
+      ],
+      "text": "Jowery",
+      "confidence": 0.4161
+    },
+    {
+      "bbox": [
+        1380,
+        637,
+        1415,
+        770
+      ],
+      "text": "Jowery",
+      "confidence": 0.834
+    },
+    {
+      "bbox": [
+        644,
+        638,
+        683,
+        849
+      ],
+      "text": "A. Stewart",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        948,
+        638,
+        981,
+        786
+      ],
+      "text": "Lowery",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        1283,
+        638,
+        1316,
+        783
+      ],
+      "text": "Lowery",
+      "confidence": 0.9569
+    },
+    {
+      "bbox": [
+        1316,
+        638,
+        1348,
+        771
+      ],
+      "text": "owery",
+      "confidence": 0.8679
+    },
+    {
+      "bbox": [
+        1351,
+        638,
+        1380,
+        770
+      ],
+      "text": "owery",
+      "confidence": 0.9153
+    },
+    {
+      "bbox": [
+        1150,
+        639,
+        1178,
+        772
+      ],
+      "text": "Nowerv",
+      "confidence": 0.7527
+    },
+    {
+      "bbox": [
+        849,
+        640,
+        882,
+        786
+      ],
+      "text": "Lowery",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        1050,
+        640,
+        1078,
+        776
+      ],
+      "text": "owery",
+      "confidence": 0.8668
+    },
+    {
+      "bbox": [
+        1115,
+        640,
+        1147,
+        772
+      ],
+      "text": "OWery",
+      "confidence": 0.7653
+    },
+    {
+      "bbox": [
+        1018,
+        641,
+        1047,
+        778
+      ],
+      "text": "LOWery",
+      "confidence": 0.832
+    },
+    {
+      "bbox": [
+        1250,
+        642,
+        1280,
+        773
+      ],
+      "text": "Lowery",
+      "confidence": 0.8176
+    },
+    {
+      "bbox": [
+        885,
+        643,
+        913,
+        778
+      ],
+      "text": "owery",
+      "confidence": 0.9036
+    },
+    {
+      "bbox": [
+        985,
+        643,
+        1013,
+        778
+      ],
+      "text": "Jowery",
+      "confidence": 0.3811
+    },
+    {
+      "bbox": [
+        540,
+        647,
+        569,
+        866
+      ],
+      "text": "Treasurers",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        1216,
+        648,
+        1246,
+        774
+      ],
+      "text": "Nowery",
+      "confidence": 0.7444
+    },
+    {
+      "bbox": [
+        1512,
+        650,
+        1543,
+        825
+      ],
+      "text": "Coleman",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        1483,
+        653,
+        1511,
+        829
+      ],
+      "text": "Coleman",
+      "confidence": 0.9889
+    },
+    {
+      "bbox": [
+        1546,
+        659,
+        1579,
+        832
+      ],
+      "text": "Coleman",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        410,
+        681,
+        453,
+        1090
+      ],
+      "text": "<b>URGANIZATION-</b>",
+      "confidence": 0.9248
+    },
+    {
+      "bbox": [
+        813,
+        696,
+        845,
+        826
+      ],
+      "text": "arker",
+      "confidence": 0.7024
+    },
+    {
+      "bbox": [
+        780,
+        697,
+        813,
+        837
+      ],
+      "text": "Parker",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        675,
+        698,
+        714,
+        841
+      ],
+      "text": "Parker",
+      "confidence": 0.931
+    },
+    {
+      "bbox": [
+        714,
+        701,
+        748,
+        839
+      ],
+      "text": "Parker",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        746,
+        702,
+        779,
+        839
+      ],
+      "text": "Parker",
+      "confidence": 0.9556
+    },
+    {
+      "bbox": [
+        851,
+        799,
+        879,
+        831
+      ],
+      "text": "70",
+      "confidence": 0.4265
+    },
+    {
+      "bbox": [
+        816,
+        835,
+        885,
+        985
+      ],
+      "text": "Albert",
+      "confidence": 0.9675
+    },
+    {
+      "bbox": [
+        1516,
+        835,
+        1550,
+        965
+      ],
+      "text": "Henry",
+      "confidence": 0.9374
+    },
+    {
+      "bbox": [
+        1481,
+        837,
+        1518,
+        967
+      ],
+      "text": "Henry",
+      "confidence": 0.9545
+    },
+    {
+      "bbox": [
+        1046,
+        839,
+        1151,
+        982
+      ],
+      "text": "Mason\nMason\nMason",
+      "confidence": 0.9614
+    },
+    {
+      "bbox": [
+        1448,
+        841,
+        1480,
+        967
+      ],
+      "text": "Mason",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        1546,
+        841,
+        1584,
+        968
+      ],
+      "text": "Henry",
+      "confidence": 0.9307
+    },
+    {
+      "bbox": [
+        882,
+        842,
+        951,
+        985
+      ],
+      "text": "Mason",
+      "confidence": 0.8902
+    },
+    {
+      "bbox": [
+        1417,
+        842,
+        1447,
+        968
+      ],
+      "text": "Mason",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        1385,
+        843,
+        1416,
+        969
+      ],
+      "text": "Mason",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        1351,
+        844,
+        1380,
+        969
+      ],
+      "text": "Mason",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        781,
+        845,
+        815,
+        977
+      ],
+      "text": "Albert",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        679,
+        846,
+        719,
+        978
+      ],
+      "text": "Albert",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        717,
+        846,
+        748,
+        978
+      ],
+      "text": "Albert",
+      "confidence": 0.9551
+    },
+    {
+      "bbox": [
+        747,
+        846,
+        783,
+        979
+      ],
+      "text": "Albert",
+      "confidence": 0.979
+    },
+    {
+      "bbox": [
+        1150,
+        846,
+        1182,
+        972
+      ],
+      "text": "Mason",
+      "confidence": 0.9877
+    },
+    {
+      "bbox": [
+        1318,
+        847,
+        1346,
+        969
+      ],
+      "text": "Mason",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        1018,
+        848,
+        1050,
+        946
+      ],
+      "text": "ason",
+      "confidence": 0.9807
+    },
+    {
+      "bbox": [
+        1185,
+        848,
+        1216,
+        972
+      ],
+      "text": "Mason",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        1215,
+        848,
+        1246,
+        971
+      ],
+      "text": "Mason",
+      "confidence": 0.9832
+    },
+    {
+      "bbox": [
+        1252,
+        849,
+        1280,
+        972
+      ],
+      "text": "Mason",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        1283,
+        849,
+        1315,
+        971
+      ],
+      "text": "Mason",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        948,
+        850,
+        982,
+        977
+      ],
+      "text": "Mason",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        984,
+        850,
+        1016,
+        976
+      ],
+      "text": "Mason",
+      "confidence": 0.9442
+    },
+    {
+      "bbox": [
+        651,
+        853,
+        680,
+        980
+      ],
+      "text": "Carler",
+      "confidence": 0.9789
+    },
+    {
+      "bbox": [
+        540,
+        858,
+        571,
+        931
+      ],
+      "text": "Gr.",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        1015,
+        944,
+        1050,
+        975
+      ],
+      "text": "Z",
+      "confidence": 0.5691
+    },
+    {
+      "bbox": [
+        715,
+        1000,
+        827,
+        1317
+      ],
+      "text": "H. Edenburgh",
+      "confidence": 0.9757
+    },
+    {
+      "bbox": [
+        1312,
+        1010,
+        1360,
+        1392
+      ],
+      "text": "James O. Bampfield",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        1042,
+        1028,
+        1160,
+        1415
+      ],
+      "text": "Horatio N. Smith\nHoratio N. Smith\nJohn H. McDowell",
+      "confidence": 0.9809
+    },
+    {
+      "bbox": [
+        544,
+        1031,
+        574,
+        1227
+      ],
+      "text": "Wardens.",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        815,
+        1032,
+        923,
+        1315
+      ],
+      "text": "H. Lee\nH. Hawkins\nWilliams",
+      "confidence": 0.9177
+    },
+    {
+      "bbox": [
+        1253,
+        1042,
+        1284,
+        1201
+      ],
+      "text": "Cozzens",
+      "confidence": 0.9899
+    },
+    {
+      "bbox": [
+        1340,
+        1048,
+        1531,
+        1411
+      ],
+      "text": "Geo. W. Jones\nGeo. S. Newman\nJno. B. Hyman\nAlbert L. Neal\nChas. H. Deans",
+      "confidence": 0.9854
+    },
+    {
+      "bbox": [
+        1553,
+        1049,
+        1586,
+        1192
+      ],
+      "text": "Lomax",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        954,
+        1056,
+        984,
+        1201
+      ],
+      "text": "Tunnia",
+      "confidence": 0.9876
+    },
+    {
+      "bbox": [
+        915,
+        1057,
+        957,
+        1397
+      ],
+      "text": "Wm. H. Severson",
+      "confidence": 0.9877
+    },
+    {
+      "bbox": [
+        985,
+        1058,
+        1018,
+        1201
+      ],
+      "text": "Tunnia",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        655,
+        1062,
+        688,
+        1215
+      ],
+      "text": "Iverson",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        1218,
+        1067,
+        1260,
+        1207
+      ],
+      "text": "Wayne",
+      "confidence": 0.9899
+    },
+    {
+      "bbox": [
+        688,
+        1068,
+        720,
+        1190
+      ],
+      "text": "Green",
+      "confidence": 0.9862
+    },
+    {
+      "bbox": [
+        1021,
+        1081,
+        1059,
+        1396
+      ],
+      "text": "Henry Coleman",
+      "confidence": 0.9837
+    },
+    {
+      "bbox": [
+        1149,
+        1097,
+        1188,
+        1395
+      ],
+      "text": "Richard C. Hill",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        1185,
+        1101,
+        1221,
+        1396
+      ],
+      "text": "John T. Turner",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        417,
+        1109,
+        452,
+        1205
+      ],
+      "text": "ITS",
+      "confidence": 0.4542
+    },
+    {
+      "bbox": [
+        1525,
+        1124,
+        1549,
+        1197
+      ],
+      "text": "OZO",
+      "confidence": 0.6548
+    },
+    {
+      "bbox": [
+        1249,
+        1186,
+        1329,
+        1402
+      ],
+      "text": "Frank H. (Edgar Ball",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        1518,
+        1186,
+        1590,
+        1399
+      ],
+      "text": "F. J. Card\nJ. Nelson",
+      "confidence": 0.974
+    },
+    {
+      "bbox": [
+        687,
+        1197,
+        725,
+        1404
+      ],
+      "text": "Gabriel H.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        986,
+        1208,
+        1021,
+        1396
+      ],
+      "text": "Robert B.",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        1221,
+        1210,
+        1255,
+        1394
+      ],
+      "text": "Lewis H.",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        956,
+        1211,
+        987,
+        1396
+      ],
+      "text": "Robert B.",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        654,
+        1226,
+        692,
+        1400
+      ],
+      "text": "Robert T.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        419,
+        1230,
+        456,
+        1392
+      ],
+      "text": "SINCE",
+      "confidence": 0.9138
+    },
+    {
+      "bbox": [
+        547,
+        1230,
+        581,
+        1375
+      ],
+      "text": "Jr. Gr.",
+      "confidence": 0.9844
+    },
+    {
+      "bbox": [
+        824,
+        1293,
+        856,
+        1401
+      ],
+      "text": "John",
+      "confidence": 0.9774
+    },
+    {
+      "bbox": [
+        856,
+        1293,
+        890,
+        1400
+      ],
+      "text": "John",
+      "confidence": 0.9806
+    },
+    {
+      "bbox": [
+        723,
+        1294,
+        754,
+        1402
+      ],
+      "text": "John",
+      "confidence": 0.9779
+    },
+    {
+      "bbox": [
+        889,
+        1295,
+        925,
+        1402
+      ],
+      "text": "Ben.",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        789,
+        1297,
+        822,
+        1403
+      ],
+      "text": "John",
+      "confidence": 0.9785
+    },
+    {
+      "bbox": [
+        758,
+        1303,
+        789,
+        1402
+      ],
+      "text": "Wm.",
+      "confidence": 0.8895
+    },
+    {
+      "bbox": [
+        412,
+        1397,
+        469,
+        2068
+      ],
+      "text": "OF THE GRAND LODGE",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        656,
+        1421,
+        733,
+        1818
+      ],
+      "text": "Leonard C. Bailey\nRobert E. Taliaferro",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        1080,
+        1431,
+        1338,
+        1835
+      ],
+      "text": "Henry Coleman\nHenry Coleman\nEdward Towles\nJohn H. McDowell\nDorsey F. Seville\nWm. M. George\nH. W. Hamilton",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        547,
+        1441,
+        589,
+        1796
+      ],
+      "text": "Sen. Gr. Wardens.",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        787,
+        1454,
+        898,
+        1820
+      ],
+      "text": "Charles F. Moseby\nWm. W. Grymes\nJohn N. Hunt",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        888,
+        1456,
+        1065,
+        1837
+      ],
+      "text": "S. Roger Watts\nChas. H. Lemos\nChas. H. Lemos\nJno. W. Freeman\nSamuel H. West",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        1387,
+        1459,
+        1464,
+        1811
+      ],
+      "text": "Richard H. Jones",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        1317,
+        1465,
+        1397,
+        1809
+      ],
+      "text": "Edgar Ball\nW. Richard Laws",
+      "confidence": 0.9869
+    },
+    {
+      "bbox": [
+        1521,
+        1498,
+        1591,
+        1809
+      ],
+      "text": "John P. Turner\nPaul R. Stewart",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        1055,
+        1507,
+        1097,
+        1813
+      ],
+      "text": "Henry Coleman",
+      "confidence": 0.9868
+    },
+    {
+      "bbox": [
+        1457,
+        1509,
+        1493,
+        1810
+      ],
+      "text": "John T. Layton",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        723,
+        1531,
+        764,
+        1816
+      ],
+      "text": "W. C. Marshall",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        1493,
+        1557,
+        1522,
+        1660
+      ],
+      "text": "Burr",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        757,
+        1586,
+        798,
+        1773
+      ],
+      "text": "F. Dailey",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        1492,
+        1661,
+        1524,
+        1807
+      ],
+      "text": "Brooks",
+      "confidence": 0.9846
+    },
+    {
+      "bbox": [
+        758,
+        1767,
+        796,
+        1820
+      ],
+      "text": "B.",
+      "confidence": 0.907
+    },
+    {
+      "bbox": [
+        722,
+        1839,
+        861,
+        2159
+      ],
+      "text": "s. C. C. Johnson\nriel H. Green",
+      "confidence": 0.9597
+    },
+    {
+      "bbox": [
+        552,
+        1851,
+        591,
+        2221
+      ],
+      "text": "Dep'y Gr. Masters.",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        1058,
+        1855,
+        1100,
+        2230
+      ],
+      "text": "Hamilton S. Smith",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        1490,
+        1855,
+        1565,
+        2191
+      ],
+      "text": ". H. Judd Malvin",
+      "confidence": 0.9729
+    },
+    {
+      "bbox": [
+        826,
+        1857,
+        871,
+        2126
+      ],
+      "text": "C. C. Johnson",
+      "confidence": 0.9454
+    },
+    {
+      "bbox": [
+        1025,
+        1860,
+        1067,
+        2231
+      ],
+      "text": "Hamilton S. Smith",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        1291,
+        1861,
+        1331,
+        2226
+      ],
+      "text": "Hamilton S. Smith",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        854,
+        1863,
+        1034,
+        2254
+      ],
+      "text": "Wm. H. Grimshaw\nFred'k C. Revells\nChas. F. Moseby\nJohn H. Lee\nJohn H. Lee",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        864,
+        1863,
+        895,
+        2073
+      ],
+      "text": "Grimshaw",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        1411,
+        1869,
+        1526,
+        2234
+      ],
+      "text": "Geo. S. New...Geo.",
+      "confidence": 0.9869
+    },
+    {
+      "bbox": [
+        1090,
+        1885,
+        1166,
+        2232
+      ],
+      "text": "Robert B. Tunnia\nHoratio N. Smith",
+      "confidence": 0.9858
+    },
+    {
+      "bbox": [
+        1187,
+        1887,
+        1301,
+        2231
+      ],
+      "text": "Henry Coleman\nWm. H. Severson\nWm. H. Severson",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        1388,
+        1901,
+        1435,
+        2227
+      ],
+      "text": "Robert H. Terrell",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        1528,
+        1920,
+        1599,
+        2231
+      ],
+      "text": "Chas. H. Deans\nJohn T. Layton",
+      "confidence": 0.9832
+    },
+    {
+      "bbox": [
+        1159,
+        1921,
+        1200,
+        2230
+      ],
+      "text": "Henry Coleman",
+      "confidence": 0.9899
+    },
+    {
+      "bbox": [
+        1322,
+        1924,
+        1398,
+        2232
+      ],
+      "text": "John N. Hunt\nJohn H. Burrill",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        696,
+        1932,
+        728,
+        2067
+      ],
+      "text": "Burrill",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        664,
+        1941,
+        694,
+        2081
+      ],
+      "text": "Goines",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        642,
+        2059,
+        735,
+        2246
+      ],
+      "text": "John G. C",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        425,
+        2077,
+        470,
+        2347
+      ],
+      "text": "OFFICERS",
+      "confidence": 0.9615
+    },
+    {
+      "bbox": [
+        794,
+        2087,
+        835,
+        2236
+      ],
+      "text": "Gabriel",
+      "confidence": 0.947
+    },
+    {
+      "bbox": [
+        764,
+        2123,
+        797,
+        2237
+      ],
+      "text": "Chas.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        831,
+        2123,
+        865,
+        2236
+      ],
+      "text": "Chas.",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        728,
+        2129,
+        763,
+        2242
+      ],
+      "text": "John",
+      "confidence": 0.9811
+    },
+    {
+      "bbox": [
+        864,
+        2267,
+        895,
+        2441
+      ],
+      "text": "Johnson",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        896,
+        2273,
+        931,
+        2448
+      ],
+      "text": "Johnson",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        1559,
+        2275,
+        1600,
+        2421
+      ],
+      "text": "Malvin",
+      "confidence": 0.9634
+    },
+    {
+      "bbox": [
+        1364,
+        2278,
+        1395,
+        2401
+      ],
+      "text": "Smith",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        1329,
+        2284,
+        1363,
+        2453
+      ],
+      "text": "S. Smith",
+      "confidence": 0.9778
+    },
+    {
+      "bbox": [
+        791,
+        2294,
+        837,
+        2442
+      ],
+      "text": "Bailey",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        556,
+        2296,
+        591,
+        2401
+      ],
+      "text": "sters.",
+      "confidence": 0.9843
+    },
+    {
+      "bbox": [
+        827,
+        2296,
+        867,
+        2426
+      ],
+      "text": "Bailey",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        761,
+        2303,
+        801,
+        2436
+      ],
+      "text": "Bailey",
+      "confidence": 0.949
+    },
+    {
+      "bbox": [
+        1528,
+        2308,
+        1563,
+        2405
+      ],
+      "text": "rrell",
+      "confidence": 0.9842
+    },
+    {
+      "bbox": [
+        1463,
+        2314,
+        1494,
+        2446
+      ],
+      "text": "Terrell",
+      "confidence": 0.9238
+    },
+    {
+      "bbox": [
+        1494,
+        2314,
+        1532,
+        2450
+      ],
+      "text": "Terrell",
+      "confidence": 0.9697
+    },
+    {
+      "bbox": [
+        1429,
+        2315,
+        1463,
+        2447
+      ],
+      "text": "Terrell",
+      "confidence": 0.9514
+    },
+    {
+      "bbox": [
+        1266,
+        2340,
+        1296,
+        2497
+      ],
+      "text": "oleman",
+      "confidence": 0.881
+    },
+    {
+      "bbox": [
+        1233,
+        2341,
+        1263,
+        2491
+      ],
+      "text": "oleman",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        1298,
+        2341,
+        1330,
+        2504
+      ],
+      "text": "Coleman",
+      "confidence": 0.9305
+    },
+    {
+      "bbox": [
+        1398,
+        2345,
+        1426,
+        2483
+      ],
+      "text": "Burrill",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        729,
+        2346,
+        764,
+        2480
+      ],
+      "text": "Brooks",
+      "confidence": 0.9163
+    },
+    {
+      "bbox": [
+        1198,
+        2347,
+        1233,
+        2479
+      ],
+      "text": "Lemos",
+      "confidence": 0.9685
+    },
+    {
+      "bbox": [
+        1136,
+        2350,
+        1163,
+        2463
+      ],
+      "text": "Jemos",
+      "confidence": 0.3067
+    },
+    {
+      "bbox": [
+        932,
+        2351,
+        962,
+        2403
+      ],
+      "text": "tts",
+      "confidence": 0.8439
+    },
+    {
+      "bbox": [
+        960,
+        2351,
+        996,
+        2469
+      ],
+      "text": "Watts",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        1000,
+        2351,
+        1030,
+        2403
+      ],
+      "text": "tts",
+      "confidence": 0.5598
+    },
+    {
+      "bbox": [
+        1169,
+        2351,
+        1197,
+        2465
+      ],
+      "text": "Jemos",
+      "confidence": 0.278
+    },
+    {
+      "bbox": [
+        429,
+        2362,
+        466,
+        2402
+      ],
+      "text": "田",
+      "confidence": 0.6621
+    },
+    {
+      "bbox": [
+        925,
+        2395,
+        970,
+        2470
+      ],
+      "text": "Wat",
+      "confidence": 0.9618
+    },
+    {
+      "bbox": [
+        1530,
+        2397,
+        1565,
+        2453
+      ],
+      "text": "Te",
+      "confidence": 0.9517
+    },
+    {
+      "bbox": [
+        701,
+        2398,
+        729,
+        2482
+      ],
+      "text": "COOK",
+      "confidence": 0.8882
+    },
+    {
+      "bbox": [
+        996,
+        2398,
+        1028,
+        2479
+      ],
+      "text": "Wat",
+      "confidence": 0.9751
+    },
+    {
+      "bbox": [
+        668,
+        2399,
+        694,
+        2485
+      ],
+      "text": "COOK",
+      "confidence": 0.609
+    },
+    {
+      "bbox": [
+        559,
+        2402,
+        587,
+        2465
+      ],
+      "text": "Ma",
+      "confidence": 0.9814
+    },
+    {
+      "bbox": [
+        1363,
+        2403,
+        1397,
+        2451
+      ],
+      "text": "i",
+      "confidence": 0.2281
+    },
+    {
+      "bbox": [
+        1034,
+        2405,
+        1064,
+        2481
+      ],
+      "text": "Lee",
+      "confidence": 0.9652
+    },
+    {
+      "bbox": [
+        1068,
+        2405,
+        1098,
+        2481
+      ],
+      "text": "Lee",
+      "confidence": 0.93
+    },
+    {
+      "bbox": [
+        1105,
+        2414,
+        1127,
+        2474
+      ],
+      "text": "Jee",
+      "confidence": 0.4186
+    },
+    {
+      "bbox": [
+        436,
+        2423,
+        461,
+        2449
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        431,
+        2455,
+        467,
+        2602
+      ],
+      "text": "LECTI",
+      "confidence": 0.9659
+    },
+    {
+      "bbox": [
+        1330,
+        2457,
+        1363,
+        2649
+      ],
+      "text": "Hamilton",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        1366,
+        2457,
+        1398,
+        2648
+      ],
+      "text": "Hamilton",
+      "confidence": 0.992
+    },
+    {
+      "bbox": [
+        1571,
+        2457,
+        1593,
+        2504
+      ],
+      "text": "nd",
+      "confidence": 0.6922
+    },
+    {
+      "bbox": [
+        1433,
+        2470,
+        1461,
+        2502
+      ],
+      "text": "II.",
+      "confidence": 0.1865
+    },
+    {
+      "bbox": [
+        964,
+        2476,
+        1006,
+        2614
+      ],
+      "text": "Roger",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        559,
+        2479,
+        587,
+        2601
+      ],
+      "text": "Grand",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        993,
+        2484,
+        1065,
+        2614
+      ],
+      "text": "Roger\nhn H.",
+      "confidence": 0.9263
+    },
+    {
+      "bbox": [
+        933,
+        2486,
+        968,
+        2606
+      ],
+      "text": "Roger",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        1399,
+        2487,
+        1429,
+        2545
+      ],
+      "text": "H",
+      "confidence": 0.7864
+    },
+    {
+      "bbox": [
+        767,
+        2491,
+        796,
+        2642
+      ],
+      "text": "Leonard",
+      "confidence": 0.4981
+    },
+    {
+      "bbox": [
+        800,
+        2493,
+        831,
+        2651
+      ],
+      "text": "Leonard",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        834,
+        2493,
+        864,
+        2650
+      ],
+      "text": "Leonard",
+      "confidence": 0.9831
+    },
+    {
+      "bbox": [
+        868,
+        2494,
+        896,
+        2543
+      ],
+      "text": "0",
+      "confidence": 0.6496
+    },
+    {
+      "bbox": [
+        901,
+        2498,
+        930,
+        2545
+      ],
+      "text": "0",
+      "confidence": 0.4051
+    },
+    {
+      "bbox": [
+        1201,
+        2507,
+        1225,
+        2534
+      ],
+      "text": "4",
+      "confidence": 0.3263
+    },
+    {
+      "bbox": [
+        1167,
+        2508,
+        1191,
+        2537
+      ],
+      "text": "2",
+      "confidence": 0.3026
+    },
+    {
+      "bbox": [
+        731,
+        2509,
+        760,
+        2560
+      ],
+      "text": "×",
+      "confidence": 0.4926
+    },
+    {
+      "bbox": [
+        1068,
+        2509,
+        1092,
+        2538
+      ],
+      "text": "4",
+      "confidence": 0.3535
+    },
+    {
+      "bbox": [
+        1434,
+        2512,
+        1463,
+        2647
+      ],
+      "text": "Robert",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        1101,
+        2514,
+        1126,
+        2536
+      ],
+      "text": "但掛",
+      "confidence": 0.1619
+    },
+    {
+      "bbox": [
+        1261,
+        2521,
+        1303,
+        2655
+      ],
+      "text": "Henry",
+      "confidence": 0.9689
+    },
+    {
+      "bbox": [
+        1297,
+        2521,
+        1329,
+        2650
+      ],
+      "text": "Henry",
+      "confidence": 0.975
+    },
+    {
+      "bbox": [
+        1466,
+        2524,
+        1497,
+        2646
+      ],
+      "text": "Robert",
+      "confidence": 0.9716
+    },
+    {
+      "bbox": [
+        1500,
+        2525,
+        1530,
+        2648
+      ],
+      "text": "Robert",
+      "confidence": 0.9833
+    },
+    {
+      "bbox": [
+        1232,
+        2526,
+        1269,
+        2648
+      ],
+      "text": "Henry",
+      "confidence": 0.9538
+    },
+    {
+      "bbox": [
+        1563,
+        2526,
+        1598,
+        2584
+      ],
+      "text": "H.",
+      "confidence": 0.834
+    },
+    {
+      "bbox": [
+        1531,
+        2532,
+        1564,
+        2647
+      ],
+      "text": "Rober",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        865,
+        2539,
+        901,
+        2653
+      ],
+      "text": "Chas.",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        1399,
+        2540,
+        1430,
+        2650
+      ],
+      "text": "John",
+      "confidence": 0.9772
+    },
+    {
+      "bbox": [
+        1132,
+        2542,
+        1168,
+        2652
+      ],
+      "text": "Chas.",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        900,
+        2543,
+        932,
+        2652
+      ],
+      "text": "Chas.",
+      "confidence": 0.9813
+    },
+    {
+      "bbox": [
+        1165,
+        2545,
+        1199,
+        2652
+      ],
+      "text": "Chas.",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        1032,
+        2547,
+        1062,
+        2652
+      ],
+      "text": "John",
+      "confidence": 0.9782
+    },
+    {
+      "bbox": [
+        1197,
+        2550,
+        1233,
+        2656
+      ],
+      "text": "Chas.",
+      "confidence": 0.9778
+    },
+    {
+      "bbox": [
+        1066,
+        2552,
+        1097,
+        2653
+      ],
+      "text": "John",
+      "confidence": 0.984
+    },
+    {
+      "bbox": [
+        699,
+        2553,
+        731,
+        2652
+      ],
+      "text": "John",
+      "confidence": 0.9133
+    },
+    {
+      "bbox": [
+        1099,
+        2554,
+        1129,
+        2652
+      ],
+      "text": "John",
+      "confidence": 0.984
+    },
+    {
+      "bbox": [
+        667,
+        2556,
+        695,
+        2650
+      ],
+      "text": "John",
+      "confidence": 0.9652
+    },
+    {
+      "bbox": [
+        734,
+        2560,
+        765,
+        2657
+      ],
+      "text": "Geo.",
+      "confidence": 0.9865
+    },
+    {
+      "bbox": [
+        424,
+        2601,
+        461,
+        2639
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        932,
+        2606,
+        1000,
+        2656
+      ],
+      "text": "ம்ம்",
+      "confidence": 0.3927
+    },
+    {
+      "bbox": [
+        999,
+        2608,
+        1031,
+        2654
+      ],
+      "text": "i",
+      "confidence": 0.1899
+    },
+    {
+      "bbox": [
+        566,
+        2668,
+        586,
+        2686
+      ],
+      "text": "-",
+      "confidence": 0.4786
+    },
+    {
+      "bbox": [
+        730,
+        2673,
+        1368,
+        2755
+      ],
+      "text": "1878\n1880\n1881\n1881\n1882\n1886\n1889\n1889\n1889\n1889\n1889\n1889\n1889",
+      "confidence": 0.912
+    },
+    {
+      "bbox": [
+        1395,
+        2674,
+        1465,
+        2752
+      ],
+      "text": "1898",
+      "confidence": 0.7134
+    },
+    {
+      "bbox": [
+        1531,
+        2675,
+        1563,
+        2733
+      ],
+      "text": "902",
+      "confidence": 0.7677
+    },
+    {
+      "bbox": [
+        1562,
+        2676,
+        1595,
+        2732
+      ],
+      "text": "903",
+      "confidence": 0.9694
+    },
+    {
+      "bbox": [
+        1465,
+        2677,
+        1494,
+        2733
+      ],
+      "text": "900",
+      "confidence": 0.6003
+    },
+    {
+      "bbox": [
+        1367,
+        2679,
+        1398,
+        2734
+      ],
+      "text": "897",
+      "confidence": 0.9501
+    },
+    {
+      "bbox": [
+        1497,
+        2679,
+        1530,
+        2748
+      ],
+      "text": "1901",
+      "confidence": 0.9589
+    },
+    {
+      "bbox": [
+        670,
+        2681,
+        738,
+        2753
+      ],
+      "text": "1876\n1877",
+      "confidence": 0.8834
+    },
+    {
+      "bbox": [
+        566,
+        2685,
+        592,
+        2738
+      ],
+      "text": "ea",
+      "confidence": 0.8558
+    },
+    {
+      "bbox": [
+        1364,
+        2729,
+        1400,
+        2746
+      ],
+      "text": "-",
+      "confidence": 0.6478
+    },
+    {
+      "bbox": [
+        560,
+        2733,
+        590,
+        2761
+      ],
+      "text": "Y",
+      "confidence": 0.5022
+    }
+  ]
+}

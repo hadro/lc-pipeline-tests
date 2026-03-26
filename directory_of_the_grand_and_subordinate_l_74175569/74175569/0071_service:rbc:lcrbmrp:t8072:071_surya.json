@@ -1,0 +1,216 @@
+{
+  "image_width": 1896,
+  "image_height": 3000,
+  "lines": [
+    {
+      "bbox": [
+        55,
+        68,
+        85,
+        90
+      ],
+      "text": "No.",
+      "confidence": 0.1841
+    },
+    {
+      "bbox": [
+        752,
+        379,
+        1264,
+        464
+      ],
+      "text": "HARRIS'",
+      "confidence": 0.8394
+    },
+    {
+      "bbox": [
+        335,
+        542,
+        1694,
+        676
+      ],
+      "text": "MASONIC TEXT-BOOK;",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        840,
+        713,
+        1183,
+        752
+      ],
+      "text": "A CONCISE",
+      "confidence": 0.9135
+    },
+    {
+      "bbox": [
+        493,
+        800,
+        1534,
+        869
+      ],
+      "text": "Historical Sketch of Masonry",
+      "confidence": 0.9095
+    },
+    {
+      "bbox": [
+        906,
+        925,
+        1117,
+        952
+      ],
+      "text": "AND THE",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        329,
+        995,
+        1692,
+        1057
+      ],
+      "text": "ORGANIZATION OF MASONIC GRAND LODGES,",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        463,
+        1135,
+        1552,
+        1188
+      ],
+      "text": "And especially of Masonry among Colored Men",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        867,
+        1196,
+        1148,
+        1238
+      ],
+      "text": "of America;",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        715,
+        1304,
+        1295,
+        1339
+      ],
+      "text": "ALSO, A COMPILATION OF",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        495,
+        1382,
+        1515,
+        1456
+      ],
+      "text": "The Illustrations of Masonic Work,",
+      "confidence": 0.8638
+    },
+    {
+      "bbox": [
+        329,
+        1526,
+        1676,
+        1580
+      ],
+      "text": "As drawn from the Most Reliable Authorities on the subject.",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        607,
+        1640,
+        1402,
+        1706
+      ],
+      "text": "By HARRISON L. HARRIS, M. D.,",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        536,
+        1752,
+        1469,
+        1791
+      ],
+      "text": "Grand Secretary of the Grand Lodge of Virginia.",
+      "confidence": 0.963
+    },
+    {
+      "bbox": [
+        726,
+        1936,
+        1273,
+        1972
+      ],
+      "text": "COPYRIGHTED 1903.",
+      "confidence": 0.9271
+    },
+    {
+      "bbox": [
+        325,
+        2120,
+        1673,
+        2172
+      ],
+      "text": "Published and used by the Grand Lodge of Virginia.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        443,
+        2226,
+        1558,
+        2297
+      ],
+      "text": "PRICE TWO DOLLARS.",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        548,
+        2436,
+        878,
+        2471
+      ],
+      "text": "Send orders to",
+      "confidence": 0.9774
+    },
+    {
+      "bbox": [
+        717,
+        2529,
+        1211,
+        2567
+      ],
+      "text": "DR. H. L. HARRIS,",
+      "confidence": 0.9775
+    },
+    {
+      "bbox": [
+        895,
+        2621,
+        1510,
+        2659
+      ],
+      "text": "No. 308 West Leigh Street,",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        1303,
+        2711,
+        1668,
+        2747
+      ],
+      "text": "RICHMOND, VA.",
+      "confidence": 0.9826
+    }
+  ]
+}

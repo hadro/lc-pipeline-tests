@@ -1,0 +1,146 @@
+{
+  "image_width": 1859,
+  "image_height": 2999,
+  "lines": [
+    {
+      "bbox": [
+        799,
+        335,
+        954,
+        401
+      ],
+      "text": "OLY",
+      "confidence": 0.8877
+    },
+    {
+      "bbox": [
+        485,
+        905,
+        1451,
+        1019
+      ],
+      "text": "S. N. MEYER,",
+      "confidence": 0.9755
+    },
+    {
+      "bbox": [
+        601,
+        1086,
+        1336,
+        1152
+      ],
+      "text": "1231 Pa. Ave. N. W.,",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        760,
+        1231,
+        1166,
+        1285
+      ],
+      "text": "Washington,",
+      "confidence": 0.9732
+    },
+    {
+      "bbox": [
+        881,
+        1365,
+        1044,
+        1414
+      ],
+      "text": "D. C.",
+      "confidence": 0.9432
+    },
+    {
+      "bbox": [
+        827,
+        1510,
+        1095,
+        1537
+      ],
+      "text": "-arafface-",
+      "confidence": 0.7234
+    },
+    {
+      "bbox": [
+        423,
+        1645,
+        1506,
+        1785
+      ],
+      "text": "SUPPLIES",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        856,
+        1850,
+        1068,
+        1908
+      ],
+      "text": "FOR",
+      "confidence": 0.9332
+    },
+    {
+      "bbox": [
+        350,
+        1982,
+        940,
+        2068
+      ],
+      "text": "Blue Lodge,",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        556,
+        2122,
+        974,
+        2213
+      ],
+      "text": "Chapter,",
+      "confidence": 0.9756
+    },
+    {
+      "bbox": [
+        754,
+        2268,
+        1303,
+        2366
+      ],
+      "text": "Consistory,",
+      "confidence": 0.9767
+    },
+    {
+      "bbox": [
+        953,
+        2418,
+        1326,
+        2510
+      ],
+      "text": "Temple",
+      "confidence": 0.8536
+    },
+    {
+      "bbox": [
+        1069,
+        2564,
+        1567,
+        2647
+      ],
+      "text": "and Shrine",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        932,
+        2663,
+        986,
+        2697
+      ],
+      "text": "24",
+      "confidence": 0.989
+    }
+  ]
+}

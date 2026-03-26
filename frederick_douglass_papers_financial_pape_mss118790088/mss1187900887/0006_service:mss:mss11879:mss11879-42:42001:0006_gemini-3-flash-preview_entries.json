@@ -1,0 +1,391 @@
+{
+  "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Bank Ledger",
+    "section_title": "CR",
+    "year": "1897"
+  },
+  "page_context": {
+    "record_type": "Bank Ledger",
+    "section_title": "CR",
+    "year": "1897"
+  },
+  "entries": [
+    {
+      "date": null,
+      "description": "Amt.",
+      "amount": "411.04",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006#xywh=904,222,135,57",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "May 5, 1898",
+      "description": "85",
+      "amount": "0.85",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006#xywh=727,271,134,69",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "May 13, 1898",
+      "description": "5 00",
+      "amount": "5.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006#xywh=758,313,32,27",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "May 16, 1898",
+      "description": "5 00",
+      "amount": "5.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006#xywh=1260,272,72,38",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "May 17, 1898",
+      "description": "25 00",
+      "amount": "25.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006#xywh=752,346,32,29",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "June 1, 1898",
+      "description": "20 00",
+      "amount": "20.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006#xywh=731,386,113,64",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "June 8, 1898",
+      "description": "10 00",
+      "amount": "10.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006#xywh=1215,304,110,32",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "June 13, 1898",
+      "description": "5 00",
+      "amount": "5.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "June 14, 1898",
+      "description": "32 00",
+      "amount": "32.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006#xywh=1195,410,133,27",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "June 16, 1898",
+      "description": "12 24",
+      "amount": "12.24",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006#xywh=1201,441,131,28",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "June 16, 1898",
+      "description": "225 00",
+      "amount": "225.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006#xywh=1213,475,122,26",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "June 18, 1898",
+      "description": "8 75",
+      "amount": "8.75",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006#xywh=1212,600,122,32",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "June 18, 1898",
+      "description": "12 00",
+      "amount": "12.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006#xywh=1189,636,137,33",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "June 21, 1898",
+      "description": "10 00",
+      "amount": "10.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "June 29, 1898",
+      "description": "2 00",
+      "amount": "2.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006#xywh=1183,375,150,29",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "June 29, 1898",
+      "description": "25 00",
+      "amount": "25.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "June 30, 1898",
+      "description": "40 00",
+      "amount": "40.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006#xywh=1192,772,132,26",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "July 1, 1898",
+      "description": "130 00",
+      "amount": "130.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006#xywh=1176,802,151,27",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "July 5, 1898",
+      "description": "8 00",
+      "amount": "8.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006#xywh=1217,840,107,19",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "July 12, 1898",
+      "description": "Balance",
+      "amount": "146.21",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006#xywh=797,843,272,58",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "1898",
+      "description": "Total Amount",
+      "amount": "1133.09",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006#xywh=801,577,32,22",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "July 15, 1898",
+      "description": "ck",
+      "amount": "146.60",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "July 20, 1898",
+      "description": "ck",
+      "amount": "20.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "July 28, 1898",
+      "description": "ck",
+      "amount": "30.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "August 23, 1898",
+      "description": "ck",
+      "amount": "5.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": null,
+      "description": "Amt.",
+      "amount": "201.60",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "1898",
+      "description": "Amt.",
+      "amount": "887.59",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "June 29, 1898",
+      "description": "ck",
+      "amount": "51.00",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "July 12, 1898",
+      "description": "Brooks",
+      "amount": "23.00",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006#xywh=1185,498,150,42",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "July 12, 1898",
+      "description": "ck",
+      "amount": "171.50",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "1898",
+      "description": "Total Amount",
+      "amount": "1133.09",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "July 12, 1898",
+      "description": "Bal. S. R.",
+      "amount": "146.21",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006#xywh=763,603,90,31",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "July 15, 1898",
+      "description": "ck",
+      "amount": "20.39",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    },
+    {
+      "date": "July 15, 1898",
+      "description": "Amt.",
+      "amount": "166.60",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1898",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0006",
+      "image": "0006_service:mss:mss11879:mss11879-42:42001:0006.jpg"
+    }
+  ]
+}

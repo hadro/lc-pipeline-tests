@@ -1,0 +1,372 @@
+{
+  "image": "0127_service:rbc:lcrbmrp:t8072:127.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127",
+  "canvas_width": 1880,
+  "canvas_height": 2987,
+  "surya_median_confidence": 0.9937,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        474,
+        396,
+        1563,
+        457
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=474,396,1089,61",
+      "confidence": "line",
+      "gemini_text": "PATTON NOVELTY COMPANY,",
+      "surya_confidence": 0.996
+    },
+    {
+      "bbox": [
+        711,
+        499,
+        1330,
+        550
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=711,499,619,51",
+      "confidence": "line",
+      "gemini_text": "Wholesale and Retail",
+      "surya_confidence": 0.9321
+    },
+    {
+      "bbox": [
+        474,
+        600,
+        1560,
+        657
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=474,600,1086,57",
+      "confidence": "line",
+      "gemini_text": "MAIL ORDER MERCHANDISE,",
+      "surya_confidence": 0.9926
+    },
+    {
+      "bbox": [
+        856,
+        700,
+        1170,
+        750
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=856,700,314,50",
+      "confidence": "line",
+      "gemini_text": "AGENTS'",
+      "surya_confidence": 0.7799
+    },
+    {
+      "bbox": [
+        341,
+        799,
+        1698,
+        860
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=341,799,1357,61",
+      "confidence": "line",
+      "gemini_text": "SUPPLIES, NOVELTIES, BOOKS, ETC.,",
+      "surya_confidence": 0.9721
+    },
+    {
+      "bbox": [
+        475,
+        911,
+        1565,
+        973
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=475,911,1090,62",
+      "confidence": "line",
+      "gemini_text": "3958 Short Larimer St., Denver, Colo.",
+      "surya_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        726,
+        1013,
+        1301,
+        1065
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=726,1013,575,52",
+      "confidence": "line",
+      "gemini_text": "Write for Circulars.",
+      "surya_confidence": 0.9608
+    },
+    {
+      "bbox": [
+        341,
+        1145,
+        1693,
+        1214
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=341,1145,1352,69",
+      "confidence": "line",
+      "gemini_text": "The Right Worshipful Supreme Grand Lodge",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        452,
+        1239,
+        1596,
+        1296
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=452,1239,1144,57",
+      "confidence": "line",
+      "gemini_text": "and Chamber of the Improved Order of",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        507,
+        1327,
+        1536,
+        1378
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=507,1327,1029,51",
+      "confidence": "line",
+      "gemini_text": "Craftsmen and Princesses of Honor.",
+      "surya_confidence": 0.9516
+    },
+    {
+      "bbox": [
+        382,
+        1431,
+        1695,
+        1473
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=382,1431,1313,42",
+      "confidence": "line",
+      "gemini_text": "Located at Denver, Colo. The order is racial, social,",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        338,
+        1486,
+        1693,
+        1526
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=338,1486,1355,40",
+      "confidence": "line",
+      "gemini_text": "protective, industrial and beneficiary. Good Organizers",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        338,
+        1542,
+        1691,
+        1581
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=338,1542,1353,39",
+      "confidence": "line",
+      "gemini_text": "wanted in every county and town in the United States and",
+      "surya_confidence": 0.9977
+    },
+    {
+      "bbox": [
+        335,
+        1597,
+        1692,
+        1637
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=335,1597,1357,40",
+      "confidence": "line",
+      "gemini_text": "foreign countries. WE PAY 50 PER CENT. to deputies;",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        336,
+        1653,
+        980,
+        1692
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=336,1653,644,39",
+      "confidence": "line",
+      "gemini_text": "when on salary, $50 to $100.",
+      "surya_confidence": 0.989
+    },
+    {
+      "bbox": [
+        551,
+        1731,
+        1499,
+        1771
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=551,1731,948,40",
+      "confidence": "line",
+      "gemini_text": "Prof. Wm. M. Patton, R. W. S. G. M.,",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        662,
+        1798,
+        1361,
+        1833
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=662,1798,699,35",
+      "confidence": "line",
+      "gemini_text": "Post-office 40th Street Station.",
+      "surya_confidence": 0.9826
+    },
+    {
+      "bbox": [
+        579,
+        1878,
+        1446,
+        1916
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=579,1878,867,38",
+      "confidence": "line",
+      "gemini_text": "Mr. Major J. Blakley, R. W. S. G. S.",
+      "surya_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        665,
+        1995,
+        1350,
+        2048
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=665,1995,685,53",
+      "confidence": "line",
+      "gemini_text": "\"THE BULLETIN.\"",
+      "surya_confidence": 0.9884
+    },
+    {
+      "bbox": [
+        377,
+        2102,
+        1687,
+        2141
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=377,2102,1310,39",
+      "confidence": "line",
+      "gemini_text": "AN UP-TO-DATE Fraternal, Religious and Racial-",
+      "surya_confidence": 0.9937
+    },
+    {
+      "bbox": [
+        335,
+        2157,
+        1685,
+        2196
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=335,2157,1350,39",
+      "confidence": "line",
+      "gemini_text": "Defending and Representative Newspaper, published",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        330,
+        2212,
+        1684,
+        2252
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=330,2212,1354,40",
+      "confidence": "line",
+      "gemini_text": "monthly at Denver, Colo. BY THE BULLETIN PUBLISHING",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        330,
+        2264,
+        1685,
+        2310
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=330,2264,1355,46",
+      "confidence": "line",
+      "gemini_text": "COMPANY. Send us your Fraternal, Religious and Racial",
+      "surya_confidence": 0.9584
+    },
+    {
+      "bbox": [
+        335,
+        2323,
+        1684,
+        2362
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=335,2323,1349,39",
+      "confidence": "line",
+      "gemini_text": "News. We have a circulation in nearly every state in the",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        333,
+        2380,
+        1687,
+        2415
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=333,2380,1354,35",
+      "confidence": "line",
+      "gemini_text": "Union and several islands at sea. You should advertise",
+      "surya_confidence": 0.9924
+    },
+    {
+      "bbox": [
+        329,
+        2437,
+        1684,
+        2474
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=329,2437,1355,37",
+      "confidence": "line",
+      "gemini_text": "your business through the Bulletin's columns. PRICE, 50c",
+      "surya_confidence": 0.9973
+    },
+    {
+      "bbox": [
+        329,
+        2495,
+        1416,
+        2531
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=329,2495,1087,36",
+      "confidence": "line",
+      "gemini_text": "PER YEAR. SAMPLE COPY MAILED ON REQUEST.",
+      "surya_confidence": 0.9897
+    },
+    {
+      "bbox": [
+        329,
+        2571,
+        1330,
+        2608
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=329,2571,1001,37",
+      "confidence": "line",
+      "gemini_text": "Prof. Wm. M. Patton, Manager and Editor.",
+      "surya_confidence": 0.9765
+    },
+    {
+      "bbox": [
+        625,
+        2649,
+        1677,
+        2687
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=625,2649,1052,38",
+      "confidence": "line",
+      "gemini_text": "Mrs. Emma A. Carter, Corresponding Editor.",
+      "surya_confidence": 0.9936
+    },
+    {
+      "bbox": [
+        507,
+        2727,
+        1474,
+        2764
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:127#xywh=507,2727,967,37",
+      "confidence": "line",
+      "gemini_text": "The Bulletin office, 3958 Short Larimer St.",
+      "surya_confidence": 0.998
+    }
+  ],
+  "unmatched_gemini": []
+}

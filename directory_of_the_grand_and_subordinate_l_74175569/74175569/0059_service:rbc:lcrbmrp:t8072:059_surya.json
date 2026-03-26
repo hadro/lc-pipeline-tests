@@ -1,0 +1,356 @@
+{
+  "image_width": 1880,
+  "image_height": 3002,
+  "lines": [
+    {
+      "bbox": [
+        296,
+        381,
+        657,
+        420
+      ],
+      "text": "Albert Xander.",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        1325,
+        399,
+        1652,
+        436
+      ],
+      "text": "A. H. Plugge.",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        692,
+        445,
+        1272,
+        487
+      ],
+      "text": "XANDER & PLUGGE,",
+      "confidence": 0.9377
+    },
+    {
+      "bbox": [
+        681,
+        512,
+        1272,
+        556
+      ],
+      "text": "Importers and Dealers in",
+      "confidence": 0.9678
+    },
+    {
+      "bbox": [
+        540,
+        560,
+        1412,
+        618
+      ],
+      "text": "WINES, LIQUORS, CIGARS &c.,",
+      "confidence": 0.9795
+    },
+    {
+      "bbox": [
+        279,
+        640,
+        1518,
+        695
+      ],
+      "text": "1317 Seventh Street, N. W., Washington, D. C.",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        787,
+        716,
+        1155,
+        756
+      ],
+      "text": "Telephone 2055.",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        426,
+        788,
+        1522,
+        844
+      ],
+      "text": "BESSLER'S HOTEL AND RESTAURANT.",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        296,
+        869,
+        901,
+        918
+      ],
+      "text": "922 Pennsylvania Avenue,",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        1200,
+        883,
+        1637,
+        924
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        627,
+        954,
+        1302,
+        998
+      ],
+      "text": "Bessler's Famous 15c Lunch.",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        679,
+        1033,
+        1246,
+        1081
+      ],
+      "text": "Oysters In Every Style.",
+      "confidence": 0.9769
+    },
+    {
+      "bbox": [
+        641,
+        1111,
+        1285,
+        1160
+      ],
+      "text": "Geo. J. Bessler, Proprietor.",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        735,
+        1189,
+        1200,
+        1229
+      ],
+      "text": "BROWN'S CAFE.",
+      "confidence": 0.9634
+    },
+    {
+      "bbox": [
+        644,
+        1279,
+        1282,
+        1327
+      ],
+      "text": "1530 12th Street, Northwest.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        572,
+        1356,
+        1358,
+        1404
+      ],
+      "text": "-MEALS AT ALL HOURS-",
+      "confidence": 0.9661
+    },
+    {
+      "bbox": [
+        288,
+        1441,
+        1002,
+        1490
+      ],
+      "text": "All the delicacies of the season.",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        795,
+        1543,
+        1634,
+        1589
+      ],
+      "text": "Ladies and Gents' Parlors upstairs.",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        630,
+        1653,
+        1297,
+        1704
+      ],
+      "text": "THORNTON S. ROUNDS,",
+      "confidence": 0.9668
+    },
+    {
+      "bbox": [
+        510,
+        1747,
+        1413,
+        1791
+      ],
+      "text": "GROCERIES AND CONFECTIONS,",
+      "confidence": 0.9457
+    },
+    {
+      "bbox": [
+        279,
+        1829,
+        776,
+        1880
+      ],
+      "text": "Cigars and Tobaccos.",
+      "confidence": 0.9815
+    },
+    {
+      "bbox": [
+        1271,
+        1843,
+        1631,
+        1880
+      ],
+      "text": "Wood and Coal",
+      "confidence": 0.9364
+    },
+    {
+      "bbox": [
+        660,
+        1928,
+        1252,
+        1970
+      ],
+      "text": "2616 P Street, Northwest.",
+      "confidence": 0.978
+    },
+    {
+      "bbox": [
+        672,
+        2026,
+        1225,
+        2063
+      ],
+      "text": "GO TO SCHNEIDER,",
+      "confidence": 0.9849
+    },
+    {
+      "bbox": [
+        391,
+        2073,
+        1518,
+        2121
+      ],
+      "text": "THE ORIGINATOR OF THE CRAB FEAST.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        671,
+        2134,
+        1228,
+        2178
+      ],
+      "text": "8th and L Streets, S. E.",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        320,
+        2184,
+        1626,
+        2241
+      ],
+      "text": "Only Select Male Lynnhaven Bay Crabs Served. Soft",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        276,
+        2226,
+        1626,
+        2286
+      ],
+      "text": "Shell and Deviled Crabs. Spring Chicken and All Sea",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        275,
+        2274,
+        1623,
+        2329
+      ],
+      "text": "Food Delicacies. Take Your Ladies. Everything Strictly",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        271,
+        2318,
+        1260,
+        2370
+      ],
+      "text": "First Class. Take open car to Navy Yard.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        742,
+        2412,
+        1146,
+        2449
+      ],
+      "text": "C. B. HUNTER,",
+      "confidence": 0.9844
+    },
+    {
+      "bbox": [
+        629,
+        2473,
+        1266,
+        2515
+      ],
+      "text": "Dealer in Finest Grades of",
+      "confidence": 0.9524
+    },
+    {
+      "bbox": [
+        503,
+        2538,
+        1377,
+        2587
+      ],
+      "text": "FRESH MEATS AND PRODUCE.",
+      "confidence": 0.9678
+    },
+    {
+      "bbox": [
+        268,
+        2604,
+        1620,
+        2663
+      ],
+      "text": "Fish and Game In Season. Dressed Poultry a Specialty",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        616,
+        2691,
+        1280,
+        2733
+      ],
+      "text": "1351 32nd Street, Northwest.",
+      "confidence": 0.9995
+    }
+  ]
+}

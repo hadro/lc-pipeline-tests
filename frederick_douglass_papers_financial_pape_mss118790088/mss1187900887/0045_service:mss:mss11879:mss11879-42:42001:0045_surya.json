@@ -1,0 +1,646 @@
+{
+  "image_width": 1366,
+  "image_height": 1103,
+  "lines": [
+    {
+      "bbox": [
+        855,
+        85,
+        1179,
+        114
+      ],
+      "text": "CAPITAL SAVINGS BANK.",
+      "confidence": 0.9782
+    },
+    {
+      "bbox": [
+        1256,
+        91,
+        1276,
+        109
+      ],
+      "text": "3",
+      "confidence": 0.9839
+    },
+    {
+      "bbox": [
+        180,
+        122,
+        508,
+        142
+      ],
+      "text": "CAPITAL SAVINGS BANK.",
+      "confidence": 0.9786
+    },
+    {
+      "bbox": [
+        89,
+        128,
+        105,
+        142
+      ],
+      "text": "2",
+      "confidence": 0.9823
+    },
+    {
+      "bbox": [
+        762,
+        139,
+        1277,
+        178
+      ],
+      "text": "therefore, the men who organize banks",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        763,
+        167,
+        1277,
+        204
+      ],
+      "text": "are men of wide business experience,",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        85,
+        178,
+        597,
+        204
+      ],
+      "text": "tral and easily accessible by three differ-",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        765,
+        193,
+        1278,
+        233
+      ],
+      "text": "with ample resources at their command,",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        88,
+        210,
+        597,
+        234
+      ],
+      "text": "ent lines of street cars, and that our office",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        766,
+        223,
+        1277,
+        260
+      ],
+      "text": "enjoying a large share of public confi-",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        87,
+        244,
+        598,
+        270
+      ],
+      "text": "hours are of special advantage to depart-",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        765,
+        249,
+        1277,
+        289
+      ],
+      "text": "dence. Under ordinary circumstances,",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        87,
+        276,
+        600,
+        306
+      ],
+      "text": "ment employees and to the working class-",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        766,
+        277,
+        1280,
+        317
+      ],
+      "text": "when these conditions are lacking, men",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        766,
+        306,
+        1279,
+        344
+      ],
+      "text": "either haven't the courage to try to or-",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        88,
+        313,
+        247,
+        337
+      ],
+      "text": "es generally.",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        767,
+        333,
+        1280,
+        373
+      ],
+      "text": "ganize a bank, or they haven't the luck",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        116,
+        344,
+        598,
+        370
+      ],
+      "text": "At the opening of our new building in",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        767,
+        360,
+        1281,
+        400
+      ],
+      "text": "to succeed at it. It would appear from",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        88,
+        377,
+        598,
+        404
+      ],
+      "text": "last October, a public reception was tend-",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        767,
+        389,
+        1281,
+        427
+      ],
+      "text": "this, therefore, that when a set of men",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        89,
+        407,
+        599,
+        440
+      ],
+      "text": "ered the friends and patrons of the Bank,",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        768,
+        416,
+        1281,
+        455
+      ],
+      "text": "who have had absolutely no experience",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        89,
+        441,
+        600,
+        472
+      ],
+      "text": "on which occasion the Secretary read a",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        767,
+        445,
+        1281,
+        483
+      ],
+      "text": "of the sort required in successfully con-",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        770,
+        472,
+        1282,
+        512
+      ],
+      "text": "ducting a bank, and who are lacking in",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        89,
+        475,
+        601,
+        506
+      ],
+      "text": "report containing a brief history of the",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        770,
+        499,
+        1282,
+        538
+      ],
+      "text": "the essential resources of means and cred-",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        90,
+        509,
+        602,
+        539
+      ],
+      "text": "organization and development of the",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        769,
+        528,
+        1282,
+        566
+      ],
+      "text": "it, undertake to put in operation a busi-",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        90,
+        542,
+        602,
+        574
+      ],
+      "text": "Bank. The following extract from that",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        771,
+        556,
+        1282,
+        594
+      ],
+      "text": "ness enterprise under the pretentious",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        89,
+        579,
+        416,
+        605
+      ],
+      "text": "report is here reproduced:",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        771,
+        582,
+        1283,
+        623
+      ],
+      "text": "name of a bank, surely the difficulties in",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        771,
+        611,
+        1284,
+        651
+      ],
+      "text": "the way of their success would appear",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        120,
+        617,
+        601,
+        645
+      ],
+      "text": "\"The history of the organization and",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        772,
+        639,
+        1285,
+        678
+      ],
+      "text": "well nigh insurmountable. But such was",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        92,
+        645,
+        602,
+        671
+      ],
+      "text": "development of this business enterprise",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        771,
+        668,
+        1286,
+        704
+      ],
+      "text": "just the unfavorable condition under",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        89,
+        673,
+        602,
+        698
+      ],
+      "text": "is not entirely free from some of the essen-",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        773,
+        694,
+        1286,
+        734
+      ],
+      "text": "which this present enterprise had its",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        93,
+        700,
+        602,
+        727
+      ],
+      "text": "tial features of a romance. To have been",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        773,
+        723,
+        1286,
+        761
+      ],
+      "text": "birth. One point alone stood out promi-",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        92,
+        730,
+        602,
+        754
+      ],
+      "text": "born into an almost abject poverty",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        772,
+        750,
+        1286,
+        790
+      ],
+      "text": "nently as a hopeful indication in organiz-",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        227,
+        757,
+        602,
+        784
+      ],
+      "text": "have grown into a vig-",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        168,
+        761,
+        207,
+        781
+      ],
+      "text": "to",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        92,
+        762,
+        144,
+        781
+      ],
+      "text": "and",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        774,
+        780,
+        1286,
+        816
+      ],
+      "text": "ing this enterprise, and that was the",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        90,
+        784,
+        602,
+        813
+      ],
+      "text": "orous prosperity, happens not often in",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        775,
+        807,
+        1250,
+        840
+      ],
+      "text": "GROWING NECESSITY for its existence.",
+      "confidence": 0.9642
+    },
+    {
+      "bbox": [
+        92,
+        811,
+        602,
+        840
+      ],
+      "text": "the history either of individuals or",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        804,
+        836,
+        1289,
+        871
+      ],
+      "text": "\"Here we were, a people strong in",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        262,
+        840,
+        602,
+        864
+      ],
+      "text": "Banks are a commercial",
+      "confidence": 0.9852
+    },
+    {
+      "bbox": [
+        91,
+        844,
+        244,
+        864
+      ],
+      "text": "institutions.",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        779,
+        862,
+        1290,
+        901
+      ],
+      "text": "numbers, advancing rapidly in every ed-",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        90,
+        867,
+        601,
+        896
+      ],
+      "text": "necessity in all business centers. They",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        780,
+        890,
+        1290,
+        929
+      ],
+      "text": "ucational acquirement, entering here and",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        91,
+        896,
+        601,
+        922
+      ],
+      "text": "are the medium through which the mon-",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        781,
+        917,
+        1289,
+        953
+      ],
+      "text": "there into the smaller business avenues,",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        92,
+        922,
+        601,
+        952
+      ],
+      "text": "ey property of individuals changes own-",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        782,
+        946,
+        1292,
+        984
+      ],
+      "text": "and eager to widen the field of our busi-",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        90,
+        949,
+        600,
+        981
+      ],
+      "text": "ership. They touch and control the mon-",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        89,
+        978,
+        601,
+        1008
+      ],
+      "text": "ey pulse of a community. As a rule,",
+      "confidence": 0.9975
+    }
+  ]
+}

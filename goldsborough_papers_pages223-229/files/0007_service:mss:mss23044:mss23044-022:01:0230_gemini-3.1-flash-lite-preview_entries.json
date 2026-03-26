@@ -1,0 +1,317 @@
+{
+  "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "vessel_identity": "Razee Sloop",
+    "section_title": "Armaments",
+    "subsection": "General"
+  },
+  "page_context": {
+    "vessel_identity": "Razee Sloop",
+    "section_title": "Voyage Log",
+    "subsection": "General"
+  },
+  "entries": [
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Marseilles",
+      "value": "November 15, 1852",
+      "details": "Reached",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Marseilles",
+      "value": "November 27, 1852",
+      "details": "Left",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Port Mahon",
+      "value": "November 28, 1852",
+      "details": "Reached",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Port Mahon",
+      "value": "January 5, 1853",
+      "details": "Left",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Barcelona",
+      "value": "January 8, 1853",
+      "details": "Reached",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Barcelona",
+      "value": "March 4, 1853",
+      "details": "Left",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Spezia",
+      "value": "March 11, 1853",
+      "details": "Reached",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Spezia",
+      "value": "March 22, 1853",
+      "details": "Left",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Leghorn",
+      "value": "March 24, 1853",
+      "details": "Reached",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Leghorn",
+      "value": "April 9, 1853",
+      "details": "Left",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Civita Vecchia",
+      "value": "April 11, 1853",
+      "details": "Reached",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Civita Vecchia",
+      "value": "April 28, 1853",
+      "details": "Left",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Leghorn",
+      "value": "April 29, 1853",
+      "details": "Reached",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Leghorn",
+      "value": "May 2, 1853",
+      "details": "Left",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Spezia",
+      "value": "May 3, 1853",
+      "details": "Reached",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Spezia",
+      "value": "May 9, 1853",
+      "details": "Left",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Piraeus",
+      "value": "May 21, 1853",
+      "details": "Reached",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Piraeus",
+      "value": "June 25, 1853",
+      "details": "Left",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Constantinople",
+      "value": "July 5, 1853",
+      "details": "Reached",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Constantinople",
+      "value": "July 26, 1853",
+      "details": "Left",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Bosphorous",
+      "value": "July 26, 1853",
+      "details": "Reached",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Bosphorous",
+      "value": "August 5, 1853",
+      "details": "Left",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Milo",
+      "value": "August 8, 1853",
+      "details": "Reached",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Milo",
+      "value": "August 9, 1853",
+      "details": "Left",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Tripoli",
+      "value": "August 16, 1853",
+      "details": "Reached",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Tripoli",
+      "value": "August 16, 1853",
+      "details": "Left",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Malta",
+      "value": "August 19, 1853",
+      "details": "Reached",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Malta",
+      "value": "August 23, 1853",
+      "details": "Left",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Anchored off Tenedos",
+      "value": "June 29, 1853",
+      "details": "6:30 P.M.",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Voyage Log",
+      "subsection": "General",
+      "item_label": "Anchored off the forts",
+      "value": "June 30, 1853",
+      "details": "4:50 P.M.",
+      "canvas_fragment": "",
+      "image": "0007_service:mss:mss23044:mss23044-022:01:0230.jpg"
+    }
+  ]
+}

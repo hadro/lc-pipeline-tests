@@ -1,0 +1,163 @@
+{
+  "image": "0120_service:rbc:lcrbmrp:t8072:120.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+    "organization_name": "Grand Commandery of the District of Columbia"
+  },
+  "page_context": {
+    "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+    "organization_name": "Mt. Calvary Commandery, K. T., No. 4"
+  },
+  "entries": [
+    {
+      "name": "John D. Howard",
+      "title_or_role": "Eminent Commander",
+      "organization_name": "Simon Commandery, K. T., No. 1",
+      "meeting_info": "Meets Second Friday",
+      "address": "311 L st.nw.",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=489,486,804,40",
+      "image": "0120_service:rbc:lcrbmrp:t8072:120.jpg"
+    },
+    {
+      "name": "Charles D. Freeman",
+      "title_or_role": "Generalissimo",
+      "organization_name": "Simon Commandery, K. T., No. 1",
+      "meeting_info": "Meets Second Friday",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=423,550,708,48",
+      "image": "0120_service:rbc:lcrbmrp:t8072:120.jpg"
+    },
+    {
+      "name": "James H. Smiler",
+      "title_or_role": "Captain General",
+      "organization_name": "Simon Commandery, K. T., No. 1",
+      "meeting_info": "Meets Second Friday",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=688,594,683,48",
+      "image": "0120_service:rbc:lcrbmrp:t8072:120.jpg"
+    },
+    {
+      "name": "Samuel T. Craig",
+      "title_or_role": "Recorder",
+      "organization_name": "Simon Commandery, K. T., No. 1",
+      "meeting_info": "Meets Second Friday",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=625,666,546,41",
+      "image": "0120_service:rbc:lcrbmrp:t8072:120.jpg"
+    },
+    {
+      "name": "Nelson E. Weatherless",
+      "title_or_role": "Eminent Commander",
+      "organization_name": "Henderson Commandery, K. T., No. 2",
+      "meeting_info": "Meets First Thursday",
+      "address": "1938 11th nw.",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=427,1095,952,51",
+      "image": "0120_service:rbc:lcrbmrp:t8072:120.jpg"
+    },
+    {
+      "name": "Wm. G. Smith",
+      "title_or_role": "Generalissimo",
+      "organization_name": "Henderson Commandery, K. T., No. 2",
+      "meeting_info": "Meets First Thursday",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=427,1167,598,44",
+      "image": "0120_service:rbc:lcrbmrp:t8072:120.jpg"
+    },
+    {
+      "name": "Wm. W. Walker",
+      "title_or_role": "Captain General",
+      "organization_name": "Henderson Commandery, K. T., No. 2",
+      "meeting_info": "Meets First Thursday",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=683,1210,691,42",
+      "image": "0120_service:rbc:lcrbmrp:t8072:120.jpg"
+    },
+    {
+      "name": "John S. George",
+      "title_or_role": "Recorder",
+      "organization_name": "Henderson Commandery, K. T., No. 2",
+      "meeting_info": "Meets First Thursday",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=642,1280,525,40",
+      "image": "0120_service:rbc:lcrbmrp:t8072:120.jpg"
+    },
+    {
+      "name": "L. C. Coleman",
+      "title_or_role": "Eminent Commander",
+      "organization_name": "Gethsemane Commandery, Κ. Τ., No 3",
+      "meeting_info": "Meets Second Wednesday",
+      "address": "1341 V st.nw.",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=515,1712,774,48",
+      "image": "0120_service:rbc:lcrbmrp:t8072:120.jpg"
+    },
+    {
+      "name": "Andrew W. Sears",
+      "title_or_role": "Generalissimo",
+      "organization_name": "Gethsemane Commandery, Κ. Τ., No 3",
+      "meeting_info": "Meets Second Wednesday",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=430,1781,659,46",
+      "image": "0120_service:rbc:lcrbmrp:t8072:120.jpg"
+    },
+    {
+      "name": "Benj. F. Pope",
+      "title_or_role": "Captain General",
+      "organization_name": "Gethsemane Commandery, Κ. Τ., No 3",
+      "meeting_info": "Meets Second Wednesday",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=743,1822,637,51",
+      "image": "0120_service:rbc:lcrbmrp:t8072:120.jpg"
+    },
+    {
+      "name": "Richard W. Tompkins",
+      "title_or_role": "Recorder",
+      "organization_name": "Gethsemane Commandery, Κ. Τ., No 3",
+      "meeting_info": "Meets Second Wednesday",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=563,1894,681,42",
+      "image": "0120_service:rbc:lcrbmrp:t8072:120.jpg"
+    },
+    {
+      "name": "Joseph D. Jones",
+      "title_or_role": "Eminent Commander",
+      "organization_name": "Mt. Calvary Commandery, K. T., No. 4",
+      "meeting_info": "Meets Fourth Friday",
+      "address": "326 E st. sw.",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=512,2333,785,41",
+      "image": "0120_service:rbc:lcrbmrp:t8072:120.jpg"
+    },
+    {
+      "name": "George W. Arrington",
+      "title_or_role": "Generalissimo",
+      "organization_name": "Mt. Calvary Commandery, K. T., No. 4",
+      "meeting_info": "Meets Fourth Friday",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=425,2391,753,52",
+      "image": "0120_service:rbc:lcrbmrp:t8072:120.jpg"
+    },
+    {
+      "name": "Horatio N. Smith",
+      "title_or_role": "Captain General",
+      "organization_name": "Mt. Calvary Commandery, K. T., No. 4",
+      "meeting_info": "Meets Fourth Friday",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=663,2444,712,40",
+      "image": "0120_service:rbc:lcrbmrp:t8072:120.jpg"
+    },
+    {
+      "name": "Wm. H. Severson",
+      "title_or_role": "Recorder",
+      "organization_name": "Mt. Calvary Commandery, K. T., No. 4",
+      "meeting_info": "Meets Fourth Friday",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:120#xywh=628,2513,563,37",
+      "image": "0120_service:rbc:lcrbmrp:t8072:120.jpg"
+    }
+  ]
+}

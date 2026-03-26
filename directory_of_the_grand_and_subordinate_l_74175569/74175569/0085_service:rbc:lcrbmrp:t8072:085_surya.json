@@ -1,0 +1,356 @@
+{
+  "image_width": 1919,
+  "image_height": 3005,
+  "lines": [
+    {
+      "bbox": [
+        650,
+        483,
+        1322,
+        522
+      ],
+      "text": "THE SOUTHERN HOTEL.",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        724,
+        552,
+        1244,
+        592
+      ],
+      "text": "S. STEWART, Prop.",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        639,
+        616,
+        1347,
+        664
+      ],
+      "text": "American and European Plan.",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        655,
+        674,
+        1305,
+        716
+      ],
+      "text": "Rates, $1.00 to $3.00 per day.",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        573,
+        731,
+        1412,
+        775
+      ],
+      "text": "Choicest Wines, Liquors and Cigars.",
+      "confidence": 0.972
+    },
+    {
+      "bbox": [
+        354,
+        794,
+        900,
+        840
+      ],
+      "text": "311 Penna. Ave., N. W.",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        1181,
+        803,
+        1611,
+        840
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        711,
+        878,
+        1253,
+        913
+      ],
+      "text": "ROBERT A. PAYNE.",
+      "confidence": 0.974
+    },
+    {
+      "bbox": [
+        482,
+        976,
+        1503,
+        1022
+      ],
+      "text": "Tailoring, Scouring, Dyeing and Repairing.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        746,
+        1080,
+        1224,
+        1119
+      ],
+      "text": "Altering a specialty.",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        706,
+        1178,
+        1279,
+        1217
+      ],
+      "text": "1509 M Street Northwest.",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        682,
+        1260,
+        1279,
+        1298
+      ],
+      "text": "MISS CARRIE LEWIS,",
+      "confidence": 0.9844
+    },
+    {
+      "bbox": [
+        641,
+        1361,
+        1336,
+        1398
+      ],
+      "text": "Stenographer and Typewriter.",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        745,
+        1448,
+        1221,
+        1482
+      ],
+      "text": "907 U St. Northwest.",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        543,
+        1549,
+        1418,
+        1590
+      ],
+      "text": "Secretary to the M. W. Grand Master.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        729,
+        1629,
+        1229,
+        1667
+      ],
+      "text": "WM. L. POLLARD,",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        594,
+        1708,
+        1376,
+        1745
+      ],
+      "text": "Law, Real Estate and Insurance.",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        309,
+        1778,
+        1660,
+        1825
+      ],
+      "text": "Practices in all courts in D. C. Loans on Real Estate.",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        705,
+        1853,
+        1256,
+        1889
+      ],
+      "text": "609 F Street Northwest,",
+      "confidence": 0.9751
+    },
+    {
+      "bbox": [
+        439,
+        1909,
+        1519,
+        1947
+      ],
+      "text": "Rooms 5, 6 and 7, Capital Savings Bank Bldg.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        773,
+        1964,
+        1162,
+        1998
+      ],
+      "text": "'Phone East 347.",
+      "confidence": 0.908
+    },
+    {
+      "bbox": [
+        750,
+        2043,
+        1197,
+        2080
+      ],
+      "text": "R. E. HAMMOND,",
+      "confidence": 0.9777
+    },
+    {
+      "bbox": [
+        863,
+        2099,
+        1092,
+        2132
+      ],
+      "text": "Dealer in",
+      "confidence": 0.9614
+    },
+    {
+      "bbox": [
+        522,
+        2152,
+        1455,
+        2196
+      ],
+      "text": "STAPLE AND FANCY GROCERIES,",
+      "confidence": 0.965
+    },
+    {
+      "bbox": [
+        309,
+        2206,
+        1655,
+        2254
+      ],
+      "text": "Fresh, salt and smoked meats. Butter, eggs, and country",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        497,
+        2256,
+        1463,
+        2294
+      ],
+      "text": "produce. Choice fruits and table luxuries.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        567,
+        2299,
+        1391,
+        2341
+      ],
+      "text": "Confectionery. Cigars and tobacco.",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        355,
+        2370,
+        908,
+        2403
+      ],
+      "text": "1634 Eleventh St. N. W.",
+      "confidence": 0.9793
+    },
+    {
+      "bbox": [
+        1181,
+        2370,
+        1610,
+        2408
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        705,
+        2447,
+        1250,
+        2482
+      ],
+      "text": "GEORGE W. JONES.",
+      "confidence": 0.9042
+    },
+    {
+      "bbox": [
+        791,
+        2536,
+        1165,
+        2570
+      ],
+      "text": "Produce Dealer.",
+      "confidence": 0.9547
+    },
+    {
+      "bbox": [
+        457,
+        2626,
+        1493,
+        2660
+      ],
+      "text": "B Street Northwest between 9th and 10th Sts.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        695,
+        2681,
+        1255,
+        2714
+      ],
+      "text": "Widow's sons welcomed.",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        636,
+        2727,
+        1322,
+        2763
+      ],
+      "text": "Residence, 1836 11th St. N. W.",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        954,
+        2782,
+        1009,
+        2815
+      ],
+      "text": "76",
+      "confidence": 0.9644
+    }
+  ]
+}

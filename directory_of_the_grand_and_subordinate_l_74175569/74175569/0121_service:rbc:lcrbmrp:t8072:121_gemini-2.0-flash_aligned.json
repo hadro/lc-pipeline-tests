@@ -1,0 +1,216 @@
+{
+  "image": "0121_service:rbc:lcrbmrp:t8072:121.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:121",
+  "canvas_width": 1888,
+  "canvas_height": 2997,
+  "surya_median_confidence": 0.9683,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        1057,
+        415,
+        1554,
+        532
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:121#xywh=1057,415,497,117",
+      "confidence": "line",
+      "gemini_text": "WM. H. MYERS",
+      "surya_confidence": 0.6624
+    },
+    {
+      "bbox": [
+        1079,
+        700,
+        1567,
+        776
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:121#xywh=1079,700,488,76",
+      "confidence": "line",
+      "gemini_text": "Cutlery Ground",
+      "surya_confidence": 0.8722
+    },
+    {
+      "bbox": [
+        1279,
+        892,
+        1365,
+        930
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:121#xywh=1279,892,86,38",
+      "confidence": "line",
+      "gemini_text": "and",
+      "surya_confidence": 0.9875
+    },
+    {
+      "bbox": [
+        1176,
+        1064,
+        1480,
+        1139
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:121#xywh=1176,1064,304,75",
+      "confidence": "line",
+      "gemini_text": "Repaired.",
+      "surya_confidence": 0.9913
+    },
+    {
+      "bbox": [
+        932,
+        1539,
+        1571,
+        1612
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:121#xywh=932,1539,639,73",
+      "confidence": "line",
+      "gemini_text": "ESTABLISHED 1875.",
+      "surya_confidence": 0.9927
+    },
+    {
+      "bbox": [
+        951,
+        1788,
+        1547,
+        1864
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:121#xywh=951,1788,596,76",
+      "confidence": "line",
+      "gemini_text": "LARGEST / STOCK",
+      "surya_confidence": 0.9952
+    },
+    {
+      "bbox": [
+        918,
+        1940,
+        1578,
+        2014
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:121#xywh=918,1940,660,74",
+      "confidence": "line",
+      "gemini_text": "this side of New York",
+      "surya_confidence": 0.9963
+    },
+    {
+      "bbox": [
+        844,
+        2575,
+        1576,
+        2614
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:121#xywh=844,2575,732,39",
+      "confidence": "line",
+      "gemini_text": "Developing and Printing. Everything You Need or Want",
+      "surya_confidence": 0.8709
+    },
+    {
+      "bbox": [
+        235,
+        1191,
+        1573,
+        1277
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:121#xywh=235,1191,1338,86",
+      "confidence": "line",
+      "gemini_text": "SPECIALTIES-Scissors, Knives, Grinding",
+      "surya_confidence": 0.6025
+    },
+    {
+      "bbox": [
+        536,
+        1296,
+        1264,
+        1371
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:121#xywh=536,1296,728,75",
+      "confidence": "line",
+      "gemini_text": "and Honing of Razors.",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        240,
+        1381,
+        1570,
+        1436
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:121#xywh=240,1381,1330,55",
+      "confidence": "line",
+      "gemini_text": "304 D St. N. W., Washington, D. C.",
+      "surya_confidence": 0.4861
+    },
+    {
+      "bbox": [
+        501,
+        1452,
+        1283,
+        1498
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:121#xywh=501,1452,782,46",
+      "confidence": "line",
+      "gemini_text": "Residence, 308 3d St. S. W.",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        460,
+        2119,
+        1370,
+        2210
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:121#xywh=460,2119,910,91",
+      "confidence": "line",
+      "gemini_text": "E. J. PULLMAN,",
+      "surya_confidence": 0.9818
+    },
+    {
+      "bbox": [
+        247,
+        2254,
+        1541,
+        2329
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:121#xywh=247,2254,1294,75",
+      "confidence": "line",
+      "gemini_text": "Kodaks, Cameras and Photo Supplies",
+      "surya_confidence": 0.8864
+    },
+    {
+      "bbox": [
+        648,
+        2385,
+        1124,
+        2426
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:121#xywh=648,2385,476,41",
+      "confidence": "line",
+      "gemini_text": "of every description.",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        229,
+        2483,
+        1575,
+        2537
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:121#xywh=229,2483,1346,54",
+      "confidence": "line",
+      "gemini_text": "120 Ninth St., Branch Store, 459 Pa. Ave.",
+      "surya_confidence": 0.958
+    },
+    {
+      "bbox": [
+        231,
+        2633,
+        719,
+        2673
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:121#xywh=231,2633,488,40",
+      "confidence": "line",
+      "gemini_text": "Done in Photography,",
+      "surya_confidence": 0.9683
+    }
+  ],
+  "unmatched_gemini": []
+}

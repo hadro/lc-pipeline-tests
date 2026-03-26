@@ -1,0 +1,212 @@
+{
+  "image": "0038_service:mss:mss11879:mss11879-42:42001:0038d.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0038d",
+  "canvas_width": 890,
+  "canvas_height": 1374,
+  "surya_median_confidence": 0.9548,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        163,
+        161,
+        741,
+        190
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0038d#xywh=163,161,578,29",
+      "confidence": "line",
+      "gemini_text": "Leave your Book for Settlement at least Once in",
+      "surya_confidence": 0.9804
+    },
+    {
+      "bbox": [
+        370,
+        199,
+        540,
+        218
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0038d#xywh=370,199,170,19",
+      "confidence": "line",
+      "gemini_text": "Three Months.",
+      "surya_confidence": 0.9467
+    },
+    {
+      "bbox": [
+        169,
+        235,
+        745,
+        262
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0038d#xywh=169,235,576,27",
+      "confidence": "line",
+      "gemini_text": "PLEASE AVOID FOLDING OR ROLLING THIS BOOK.",
+      "surya_confidence": 0.9461
+    },
+    {
+      "bbox": [
+        162,
+        569,
+        744,
+        628
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0038d#xywh=162,569,582,59",
+      "confidence": "line",
+      "gemini_text": "The Washington Loan",
+      "surya_confidence": 0.9943
+    },
+    {
+      "bbox": [
+        281,
+        648,
+        630,
+        703
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0038d#xywh=281,648,349,55",
+      "confidence": "line",
+      "gemini_text": "and Trust Co.",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        326,
+        731,
+        582,
+        757
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0038d#xywh=326,731,256,26",
+      "confidence": "line",
+      "gemini_text": "WASHINGTON, D. C.",
+      "surya_confidence": 0.7826
+    },
+    {
+      "bbox": [
+        229,
+        847,
+        496,
+        863
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0038d#xywh=229,847,267,16",
+      "confidence": "line",
+      "gemini_text": "JOHN JOY EDSON........................President,",
+      "surya_confidence": 0.9386
+    },
+    {
+      "bbox": [
+        230,
+        867,
+        683,
+        889
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0038d#xywh=230,867,453,22",
+      "confidence": "line",
+      "gemini_text": "JOHN A. SWOPE...................Vice-President,",
+      "surya_confidence": 0.9548
+    },
+    {
+      "bbox": [
+        230,
+        888,
+        682,
+        910
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0038d#xywh=230,888,452,22",
+      "confidence": "line",
+      "gemini_text": "ELLIS SPEAR..............Second Vice-President.",
+      "surya_confidence": 0.9645
+    },
+    {
+      "bbox": [
+        230,
+        913,
+        508,
+        929
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0038d#xywh=230,913,278,16",
+      "confidence": "line",
+      "gemini_text": "ANDREW PARKER........................Treasurer.",
+      "surya_confidence": 0.9821
+    },
+    {
+      "bbox": [
+        230,
+        934,
+        680,
+        954
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0038d#xywh=230,934,450,20",
+      "confidence": "line",
+      "gemini_text": "BRICE J. MOSES................Assistant Treasurer.",
+      "surya_confidence": 0.981
+    },
+    {
+      "bbox": [
+        230,
+        958,
+        680,
+        976
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0038d#xywh=230,958,450,18",
+      "confidence": "line",
+      "gemini_text": "THOMAS BRADLEY............Real Estate Officer.",
+      "surya_confidence": 0.9476
+    },
+    {
+      "bbox": [
+        373,
+        1031,
+        536,
+        1048
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0038d#xywh=373,1031,163,17",
+      "confidence": "line",
+      "gemini_text": "OFFICE HOURS.",
+      "surya_confidence": 0.9047
+    },
+    {
+      "bbox": [
+        162,
+        1049,
+        747,
+        1150
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0038d#xywh=162,1049,585,101",
+      "confidence": "line",
+      "gemini_text": "when the office will be kept open, for the receipt of deposits only,",
+      "surya_confidence": 0.9952
+    },
+    {
+      "bbox": [
+        204,
+        1143,
+        745,
+        1167
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0038d#xywh=204,1143,541,24",
+      "confidence": "line",
+      "gemini_text": "Saturdays being legal half holidays, the office of this Company",
+      "surya_confidence": 0.9901
+    },
+    {
+      "bbox": [
+        165,
+        1164,
+        550,
+        1182
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0038d#xywh=165,1164,385,18",
+      "confidence": "line",
+      "gemini_text": "will, under the law, close at 12 o'clock noon.",
+      "surya_confidence": 0.9999
+    }
+  ],
+  "unmatched_gemini": [
+    "No. 31480",
+    "Mrs Helen Douglass",
+    "OFFICERS.",
+    "From 9 o'clock A. M. to 3 P. M. on all days not legal holidays,",
+    "excepting on the First, Fifteenth and Last day of each month,",
+    "until 4.30 P. M., but when those dates fall upon legal holidays the",
+    "office hours of the next business day will be extended until that time."
+  ]
+}

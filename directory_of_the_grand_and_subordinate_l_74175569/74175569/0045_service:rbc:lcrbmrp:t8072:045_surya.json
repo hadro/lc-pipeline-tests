@@ -1,0 +1,296 @@
+{
+  "image_width": 1863,
+  "image_height": 2992,
+  "lines": [
+    {
+      "bbox": [
+        281,
+        733,
+        304,
+        749
+      ],
+      "text": "41",
+      "confidence": 0.6553
+    },
+    {
+      "bbox": [
+        541,
+        917,
+        1347,
+        952
+      ],
+      "text": "When you want a dozen funeral aprons or",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        507,
+        962,
+        1349,
+        996
+      ],
+      "text": "a fine embroidered apron for your Past Mas-",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        506,
+        1007,
+        1350,
+        1041
+      ],
+      "text": "ter; when you want Chapter Regalia, or",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        507,
+        1051,
+        1349,
+        1084
+      ],
+      "text": "Scottish Rite Costumes, Templar Uniforms,",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        507,
+        1096,
+        1355,
+        1130
+      ],
+      "text": "banners or Masonic marks, write here—to the",
+      "confidence": 0.978
+    },
+    {
+      "bbox": [
+        510,
+        1140,
+        1350,
+        1174
+      ],
+      "text": "only large Masonic house in the East with",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        516,
+        1186,
+        1344,
+        1220
+      ],
+      "text": "modern equipment. Our catalogs are free.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        518,
+        1230,
+        1245,
+        1265
+      ],
+      "text": "Everything used within the Fraternity.",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        653,
+        1359,
+        1336,
+        1421
+      ],
+      "text": "W=H.Horstmann Company",
+      "confidence": 0.4688
+    },
+    {
+      "bbox": [
+        757,
+        1425,
+        1131,
+        1463
+      ],
+      "text": "New York",
+      "confidence": 0.9139
+    },
+    {
+      "bbox": [
+        667,
+        1470,
+        1271,
+        1506
+      ],
+      "text": "459 Broadway Cor of Grand St.",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        713,
+        1587,
+        1247,
+        1620
+      ],
+      "text": "ALL NATIONS ARE WELCOME",
+      "confidence": 0.6186
+    },
+    {
+      "bbox": [
+        1111,
+        1632,
+        1568,
+        1662
+      ],
+      "text": "EXCEPT CARRIE NATION",
+      "confidence": 0.7898
+    },
+    {
+      "bbox": [
+        729,
+        1707,
+        1338,
+        1740
+      ],
+      "text": "FINE WINES AND WHISKIES",
+      "confidence": 0.7105
+    },
+    {
+      "bbox": [
+        1112,
+        1750,
+        1569,
+        1782
+      ],
+      "text": "CIGARS AND TOBACCO",
+      "confidence": 0.8527
+    },
+    {
+      "bbox": [
+        814,
+        1831,
+        1475,
+        1891
+      ],
+      "text": "EDWARD GREEN,",
+      "confidence": 0.9876
+    },
+    {
+      "bbox": [
+        759,
+        1908,
+        1521,
+        1939
+      ],
+      "text": "S. W. COR. CAMERON AND FAYETTE STREETS.",
+      "confidence": 0.9814
+    },
+    {
+      "bbox": [
+        911,
+        1962,
+        1370,
+        1996
+      ],
+      "text": "ALEXANDRIA, VA.",
+      "confidence": 0.8828
+    },
+    {
+      "bbox": [
+        731,
+        2046,
+        1262,
+        2071
+      ],
+      "text": "PRIVATE ENTRANCE FOR LADIES.",
+      "confidence": 0.8997
+    },
+    {
+      "bbox": [
+        829,
+        2114,
+        1459,
+        2150
+      ],
+      "text": "IN BUSINESS FOUR YEARS.",
+      "confidence": 0.9575
+    },
+    {
+      "bbox": [
+        733,
+        2189,
+        1557,
+        2231
+      ],
+      "text": "HANDLES ALL KINDS OF WINE AND",
+      "confidence": 0.919
+    },
+    {
+      "bbox": [
+        828,
+        2247,
+        1465,
+        2287
+      ],
+      "text": "WHISKEY BY THE BARREL.",
+      "confidence": 0.9516
+    },
+    {
+      "bbox": [
+        511,
+        2360,
+        1343,
+        2420
+      ],
+      "text": "AMASA W. SCOTT,",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        293,
+        2436,
+        1569,
+        2507
+      ],
+      "text": "UNDERTAKER AND FUNERAL DIRECTOR.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        336,
+        2523,
+        1537,
+        2591
+      ],
+      "text": "Sanitary, Anatomical, Arterial, Cavity and Needle",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        624,
+        2606,
+        1248,
+        2640
+      ],
+      "text": "EMBALMER.",
+      "confidence": 0.9849
+    },
+    {
+      "bbox": [
+        505,
+        2655,
+        1363,
+        2692
+      ],
+      "text": "LATE OF BOSTON AND NEW YORK.",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        308,
+        2703,
+        1562,
+        2743
+      ],
+      "text": "1626 11TH ST. N. W. WASHINGTON, D. C. PHONE, No. 2844-Y.",
+      "confidence": 0.8791
+    }
+  ]
+}

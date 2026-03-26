@@ -1,0 +1,316 @@
+{
+  "image_width": 1660,
+  "image_height": 2781,
+  "lines": [
+    {
+      "bbox": [
+        123,
+        212,
+        459,
+        457
+      ],
+      "text": "1903.",
+      "confidence": 0.3448
+    },
+    {
+      "bbox": [
+        454,
+        367,
+        1232,
+        439
+      ],
+      "text": "DIRECTORY",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        1227,
+        372,
+        1427,
+        432
+      ],
+      "text": "1903",
+      "confidence": 0.9707
+    },
+    {
+      "bbox": [
+        111,
+        487,
+        191,
+        650
+      ],
+      "text": "2100",
+      "confidence": 0.4186
+    },
+    {
+      "bbox": [
+        753,
+        538,
+        895,
+        565
+      ],
+      "text": "OF THE",
+      "confidence": 0.9469
+    },
+    {
+      "bbox": [
+        277,
+        659,
+        1376,
+        716
+      ],
+      "text": "GRAND AND SUBORDINATE LODGES,",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        878,
+        923,
+        933,
+        933
+      ],
+      "text": "Berther Harris",
+      "confidence": 0.1656
+    },
+    {
+      "bbox": [
+        612,
+        965,
+        687,
+        994
+      ],
+      "text": "THE PROPERTY.",
+      "confidence": 0.1895
+    },
+    {
+      "bbox": [
+        617,
+        998,
+        685,
+        1020
+      ],
+      "text": "(B) 1900 HE 181 181",
+      "confidence": 0.273
+    },
+    {
+      "bbox": [
+        1125,
+        998,
+        1436,
+        1104
+      ],
+      "text": "A.M.",
+      "confidence": 0.9648
+    },
+    {
+      "bbox": [
+        218,
+        1002,
+        473,
+        1097
+      ],
+      "text": "F.A",
+      "confidence": 0.974
+    },
+    {
+      "bbox": [
+        618,
+        1033,
+        684,
+        1048
+      ],
+      "text": "the the same",
+      "confidence": 0.4108
+    },
+    {
+      "bbox": [
+        978,
+        1035,
+        1056,
+        1059
+      ],
+      "text": "AND MENT OF",
+      "confidence": 0.2254
+    },
+    {
+      "bbox": [
+        612,
+        1059,
+        690,
+        1076
+      ],
+      "text": "Hante mentilbeit",
+      "confidence": 0.2617
+    },
+    {
+      "bbox": [
+        981,
+        1066,
+        1050,
+        1084
+      ],
+      "text": "AND THE PART OF",
+      "confidence": 0.1595
+    },
+    {
+      "bbox": [
+        615,
+        1089,
+        688,
+        1104
+      ],
+      "text": "WHITE SHOW",
+      "confidence": 0.2702
+    },
+    {
+      "bbox": [
+        982,
+        1102,
+        1049,
+        1118
+      ],
+      "text": "100 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 to 160 t",
+      "confidence": 0.1301
+    },
+    {
+      "bbox": [
+        614,
+        1113,
+        684,
+        1130
+      ],
+      "text": "a genet ill",
+      "confidence": 0.3958
+    },
+    {
+      "bbox": [
+        614,
+        1136,
+        692,
+        1155
+      ],
+      "text": "errion of the Hank",
+      "confidence": 0.1711
+    },
+    {
+      "bbox": [
+        979,
+        1137,
+        1048,
+        1152
+      ],
+      "text": "Hamille IK III",
+      "confidence": 0.2036
+    },
+    {
+      "bbox": [
+        614,
+        1169,
+        691,
+        1191
+      ],
+      "text": "mmy min",
+      "confidence": 0.4618
+    },
+    {
+      "bbox": [
+        972,
+        1170,
+        1048,
+        1190
+      ],
+      "text": "min adding",
+      "confidence": 0.2265
+    },
+    {
+      "bbox": [
+        423,
+        1378,
+        1236,
+        1415
+      ],
+      "text": "OF THE DISTRICT OF COLUMBIA,",
+      "confidence": 0.9614
+    },
+    {
+      "bbox": [
+        629,
+        1521,
+        1026,
+        1547
+      ],
+      "text": "ALSO A LIST OF THE",
+      "confidence": 0.9418
+    },
+    {
+      "bbox": [
+        394,
+        1653,
+        1265,
+        1701
+      ],
+      "text": "ROYAL ARCH CHAPTERS,",
+      "confidence": 0.8725
+    },
+    {
+      "bbox": [
+        283,
+        1794,
+        1375,
+        1846
+      ],
+      "text": "KNIGHTS TEMPLAR COMMANDERIES,",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        327,
+        1936,
+        1336,
+        1991
+      ],
+      "text": "SUPREME COUNCIL, A. A. S. R.,",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        521,
+        2070,
+        1155,
+        2110
+      ],
+      "text": "SOUTHERN JURISDICTION,",
+      "confidence": 0.8681
+    },
+    {
+      "bbox": [
+        260,
+        2218,
+        1415,
+        2266
+      ],
+      "text": "ORDER OF EASTERN STAR CHAPTERS,",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        743,
+        2369,
+        918,
+        2395
+      ],
+      "text": "AND THE",
+      "confidence": 0.9785
+    },
+    {
+      "bbox": [
+        384,
+        2490,
+        1286,
+        2528
+      ],
+      "text": "COURTS OF HEROINES OF JERICHO.",
+      "confidence": 0.9053
+    }
+  ]
+}

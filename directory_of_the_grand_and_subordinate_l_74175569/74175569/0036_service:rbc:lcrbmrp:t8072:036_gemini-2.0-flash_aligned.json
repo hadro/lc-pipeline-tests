@@ -1,0 +1,363 @@
+{
+  "image": "0036_service:rbc:lcrbmrp:t8072:036.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036",
+  "canvas_width": 1827,
+  "canvas_height": 3008,
+  "surya_median_confidence": 0.9935,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        460,
+        404,
+        1293,
+        456
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=460,404,833,52",
+      "confidence": "line",
+      "gemini_text": "Mount Vernon Chapter, No. I.",
+      "surya_confidence": 0.973
+    },
+    {
+      "bbox": [
+        535,
+        505,
+        1221,
+        555
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=535,505,686,50",
+      "confidence": "line",
+      "gemini_text": "Chas, H. Deans, High Priest.",
+      "surya_confidence": 0.9931
+    },
+    {
+      "bbox": [
+        204,
+        581,
+        784,
+        619
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=204,581,580,38",
+      "confidence": "line",
+      "gemini_text": "Robert H. Beverly, King.",
+      "surya_confidence": 0.9947
+    },
+    {
+      "bbox": [
+        1034,
+        571,
+        1557,
+        615
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=1034,571,523,44",
+      "confidence": "line",
+      "gemini_text": "Benj. F. Pope, Scribe.",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        1091,
+        1060,
+        1562,
+        1107
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=1091,1060,471,47",
+      "confidence": "line",
+      "gemini_text": "A. W. Scott, Scribe.",
+      "surya_confidence": 0.9973
+    },
+    {
+      "bbox": [
+        1054,
+        1557,
+        1567,
+        1601
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=1054,1557,513,44",
+      "confidence": "line",
+      "gemini_text": "A. Slaughter, Scribe.",
+      "surya_confidence": 0.9975
+    },
+    {
+      "bbox": [
+        1073,
+        2503,
+        1562,
+        2540
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=1073,2503,489,37",
+      "confidence": "line",
+      "gemini_text": "C. H. Parker, Scribe",
+      "surya_confidence": 0.9878
+    },
+    {
+      "bbox": [
+        336,
+        639,
+        1420,
+        688
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=336,639,1084,49",
+      "confidence": "line",
+      "gemini_text": "Primus H. Simmons, Sec'y, 1020 20th St. N. W.",
+      "surya_confidence": 0.9971
+    },
+    {
+      "bbox": [
+        648,
+        713,
+        1112,
+        750
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=648,713,464,37",
+      "confidence": "line",
+      "gemini_text": "Meets First Friday.",
+      "surya_confidence": 0.9815
+    },
+    {
+      "bbox": [
+        584,
+        900,
+        1186,
+        946
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=584,900,602,46",
+      "confidence": "line",
+      "gemini_text": "Union Chapter, No. 2.",
+      "surya_confidence": 0.9463
+    },
+    {
+      "bbox": [
+        515,
+        1001,
+        1247,
+        1043
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=515,1001,732,42",
+      "confidence": "line",
+      "gemini_text": "Chas. D. Freeman, High Priest.",
+      "surya_confidence": 0.9916
+    },
+    {
+      "bbox": [
+        207,
+        1073,
+        695,
+        1112
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=207,1073,488,39",
+      "confidence": "line",
+      "gemini_text": "Wm. A. Clark, King.",
+      "surya_confidence": 0.9941
+    },
+    {
+      "bbox": [
+        361,
+        1132,
+        1422,
+        1183
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=361,1132,1061,51",
+      "confidence": "line",
+      "gemini_text": "A. W. Scott, Acting Sec'y, 1626 11th St. N. W.",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        588,
+        1204,
+        1183,
+        1245
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=588,1204,595,41",
+      "confidence": "line",
+      "gemini_text": "Meets Third Wednesday.",
+      "surya_confidence": 0.9942
+    },
+    {
+      "bbox": [
+        508,
+        1392,
+        1268,
+        1439
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=508,1392,760,47",
+      "confidence": "line",
+      "gemini_text": "Prince Hall Chapter, No. 5.",
+      "surya_confidence": 0.9769
+    },
+    {
+      "bbox": [
+        537,
+        1497,
+        1240,
+        1535
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=537,1497,703,38",
+      "confidence": "line",
+      "gemini_text": "Paul R. Stewart, High Priest.",
+      "surya_confidence": 0.996
+    },
+    {
+      "bbox": [
+        213,
+        1566,
+        803,
+        1604
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=213,1566,590,38",
+      "confidence": "line",
+      "gemini_text": "John D. Howard, King.",
+      "surya_confidence": 0.9927
+    },
+    {
+      "bbox": [
+        415,
+        1627,
+        1363,
+        1675
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=415,1627,948,48",
+      "confidence": "line",
+      "gemini_text": "A. F. Hicks, Sec'y, 29 Defrees St. N. W.",
+      "surya_confidence": 0.9969
+    },
+    {
+      "bbox": [
+        611,
+        1697,
+        1165,
+        1738
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=611,1697,554,41",
+      "confidence": "line",
+      "gemini_text": "Meets First Wednesday.",
+      "surya_confidence": 0.989
+    },
+    {
+      "bbox": [
+        532,
+        1877,
+        1248,
+        1919
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=532,1877,716,42",
+      "confidence": "line",
+      "gemini_text": "St. John's Chapter, No. 7.",
+      "surya_confidence": 0.9909
+    },
+    {
+      "bbox": [
+        564,
+        1976,
+        1224,
+        2017
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=564,1976,660,41",
+      "confidence": "line",
+      "gemini_text": "Wm. G. Smith, High Priest.",
+      "surya_confidence": 0.9949
+    },
+    {
+      "bbox": [
+        215,
+        2037,
+        1565,
+        2090
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=215,2037,1350,53",
+      "confidence": "line",
+      "gemini_text": "Wm. H. Judd Malvin, King.",
+      "surya_confidence": 0.9966
+    },
+    {
+      "bbox": [
+        427,
+        2112,
+        1348,
+        2153
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=427,2112,921,41",
+      "confidence": "line",
+      "gemini_text": "Wm. H. Severson, Sec'y, 326 E St. S. W.",
+      "surya_confidence": 0.9939
+    },
+    {
+      "bbox": [
+        612,
+        2182,
+        1176,
+        2219
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=612,2182,564,37",
+      "confidence": "line",
+      "gemini_text": "Meets Second Thursday.",
+      "surya_confidence": 0.9863
+    },
+    {
+      "bbox": [
+        543,
+        2347,
+        1245,
+        2393
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=543,2347,702,46",
+      "confidence": "line",
+      "gemini_text": "Keystone Chapter, No. II.",
+      "surya_confidence": 0.9313
+    },
+    {
+      "bbox": [
+        578,
+        2438,
+        1204,
+        2480
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=578,2438,626,42",
+      "confidence": "line",
+      "gemini_text": "O. T. Taylor, High Priest.",
+      "surya_confidence": 0.9843
+    },
+    {
+      "bbox": [
+        217,
+        2508,
+        755,
+        2552
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=217,2508,538,44",
+      "confidence": "line",
+      "gemini_text": "J. W. Wilkinson, King.",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        410,
+        2570,
+        1384,
+        2617
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=410,2570,974,47",
+      "confidence": "line",
+      "gemini_text": "H. W. White, Sec'y, 600 Spruce St. N. W.",
+      "surya_confidence": 0.9973
+    },
+    {
+      "bbox": [
+        631,
+        2643,
+        1170,
+        2680
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:036#xywh=631,2643,539,37",
+      "confidence": "line",
+      "gemini_text": "Meets Fourth Tuesday.",
+      "surya_confidence": 0.9893
+    }
+  ],
+  "unmatched_gemini": [
+    "Fred D. Henry, Scribe.",
+    "27"
+  ]
+}

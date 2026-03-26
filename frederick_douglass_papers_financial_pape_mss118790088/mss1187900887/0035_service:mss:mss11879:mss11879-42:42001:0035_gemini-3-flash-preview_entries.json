@@ -1,0 +1,50 @@
+{
+  "image": "0035_service:mss:mss11879:mss11879-42:42001:0035.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Contribution Record",
+    "section_title": "Contributions to Pamphlet fund",
+    "year": "1873"
+  },
+  "page_context": {
+    "record_type": "Loan Record",
+    "section_title": "Recd for collection",
+    "year": "1873"
+  },
+  "entries": [
+    {
+      "date": "December 18, 1873",
+      "description": "Miller Orton & Mulligan's note dated June 15th for 6 Month",
+      "amount": "91.70",
+      "transaction_type": "loan_given",
+      "record_type": "Loan Record",
+      "section_title": "Recd for collection",
+      "year": "1873",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0035#xywh=117,288,745,180",
+      "image": "0035_service:mss:mss11879:mss11879-42:42001:0035.jpg"
+    },
+    {
+      "date": "September 8, 1873",
+      "description": "Miller O. & Mulligan dated July 5 for Two Month",
+      "amount": "390.00",
+      "transaction_type": "loan_given",
+      "record_type": "Loan Record",
+      "section_title": "Recd for collection",
+      "year": "1873",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0035#xywh=132,188,610,81",
+      "image": "0035_service:mss:mss11879:mss11879-42:42001:0035.jpg"
+    },
+    {
+      "date": "March 12, 1873",
+      "description": "Market",
+      "amount": "4.10",
+      "transaction_type": "expense",
+      "record_type": "Loan Record",
+      "section_title": "Recd for collection",
+      "year": "1873",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0035#xywh=678,767,139,56",
+      "image": "0035_service:mss:mss11879:mss11879-42:42001:0035.jpg"
+    }
+  ]
+}

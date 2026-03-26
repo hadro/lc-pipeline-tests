@@ -1,0 +1,376 @@
+{
+  "image_width": 1857,
+  "image_height": 2989,
+  "lines": [
+    {
+      "bbox": [
+        218,
+        414,
+        1571,
+        492
+      ],
+      "text": "Grand Commandery of Knights Templar of the",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        352,
+        528,
+        1436,
+        600
+      ],
+      "text": "District of Columbia and Jurisdiction.",
+      "confidence": 0.9674
+    },
+    {
+      "bbox": [
+        370,
+        752,
+        1416,
+        802
+      ],
+      "text": "Annual Meeting, Second Tuesday in October.",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        752,
+        960,
+        1044,
+        993
+      ],
+      "text": "OFFICERS.",
+      "confidence": 0.9485
+    },
+    {
+      "bbox": [
+        225,
+        1053,
+        1574,
+        1102
+      ],
+      "text": "R. Em. Sir. Nathaniel Robinson.....Grand Commander",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        572,
+        1125,
+        1226,
+        1163
+      ],
+      "text": "2246 Cleveland Avenue N.W.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        222,
+        1221,
+        1574,
+        1275
+      ],
+      "text": "Em. Sir. George W. Jones .... V. Em. Dep. Gr. Commander",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        435,
+        1317,
+        1574,
+        1372
+      ],
+      "text": "N. E. Lewis ...... D. D. Gr. Commander",
+      "confidence": 0.9737
+    },
+    {
+      "bbox": [
+        318,
+        1329,
+        360,
+        1355
+      ],
+      "text": "66",
+      "confidence": 0.9815
+    },
+    {
+      "bbox": [
+        714,
+        1384,
+        1080,
+        1421
+      ],
+      "text": "Columbia, S. C.",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        434,
+        1478,
+        1577,
+        1526
+      ],
+      "text": "George S Newman ......Gr. Generalissimo",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        317,
+        1489,
+        359,
+        1514
+      ],
+      "text": "66",
+      "confidence": 0.9899
+    },
+    {
+      "bbox": [
+        434,
+        1582,
+        1577,
+        1626
+      ],
+      "text": "Paul R. Stewart ..... Gr. Capt. General",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        318,
+        1589,
+        371,
+        1615
+      ],
+      "text": "66",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        437,
+        1677,
+        1580,
+        1728
+      ],
+      "text": "W. H. Severson ... Gr. Prelate",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        318,
+        1689,
+        366,
+        1713
+      ],
+      "text": "66",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        437,
+        1779,
+        1578,
+        1826
+      ],
+      "text": "John P. Turner ......Gr. Sen. Warden",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        318,
+        1789,
+        376,
+        1817
+      ],
+      "text": "66",
+      "confidence": 0.9508
+    },
+    {
+      "bbox": [
+        440,
+        1877,
+        1582,
+        1931
+      ],
+      "text": "Richard W. Tompkins.....Gr. Jun. Warden",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        323,
+        1889,
+        371,
+        1914
+      ],
+      "text": "66",
+      "confidence": 0.9893
+    },
+    {
+      "bbox": [
+        440,
+        1981,
+        1583,
+        2029
+      ],
+      "text": "Michael H. Robinson......Gr. Treasurer",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        321,
+        1990,
+        379,
+        2016
+      ],
+      "text": "66",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        440,
+        2076,
+        1582,
+        2137
+      ],
+      "text": "James O. Bampfield......Gr. Recorder",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        321,
+        2094,
+        366,
+        2123
+      ],
+      "text": "66",
+      "confidence": 0.9781
+    },
+    {
+      "bbox": [
+        670,
+        2140,
+        1128,
+        2181
+      ],
+      "text": "1119 V Street N. W.",
+      "confidence": 0.9852
+    },
+    {
+      "bbox": [
+        443,
+        2239,
+        1584,
+        2285
+      ],
+      "text": "John N. Dorster......Gr. Inspector General",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        324,
+        2248,
+        371,
+        2272
+      ],
+      "text": "66",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        440,
+        2341,
+        1583,
+        2385
+      ],
+      "text": "Wm. H. Hutchinson ..... Gr. Sword Bearer",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        324,
+        2351,
+        371,
+        2371
+      ],
+      "text": "66",
+      "confidence": 0.9821
+    },
+    {
+      "bbox": [
+        443,
+        2437,
+        1583,
+        2491
+      ],
+      "text": "Solomon Phillips......Gr. Standard Bearer",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        324,
+        2448,
+        369,
+        2475
+      ],
+      "text": "66",
+      "confidence": 0.9874
+    },
+    {
+      "bbox": [
+        440,
+        2533,
+        1590,
+        2592
+      ],
+      "text": "Henry Coleman......Gr. Warder",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        326,
+        2548,
+        406,
+        2574
+      ],
+      "text": "66",
+      "confidence": 0.9088
+    },
+    {
+      "bbox": [
+        443,
+        2639,
+        1589,
+        2686
+      ],
+      "text": "Robert H. Ford ...... Gr. Guard",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        326,
+        2650,
+        374,
+        2670
+      ],
+      "text": "66",
+      "confidence": 0.9679
+    },
+    {
+      "bbox": [
+        888,
+        2747,
+        945,
+        2779
+      ],
+      "text": "29",
+      "confidence": 0.9839
+    },
+    {
+      "bbox": [
+        465,
+        2902,
+        591,
+        2914
+      ],
+      "text": "والمتلاقول فيستحاث",
+      "confidence": 0.6309
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Language Exercises",
+    "section_title": "Pluperfect",
+    "year": "1887"
+  },
+  "page_context": {
+    "record_type": "Language Exercises",
+    "section_title": "Pluperfect",
+    "year": "1887"
+  },
+  "entries": [
+    {
+      "date": null,
+      "description": "J'eus eu",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Pluperfect",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=194,189,202,54",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Tu eus eu",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Pluperfect",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=196,245,215,44",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Il eut eu",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Pluperfect",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=194,291,216,47",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Nous eûmes eu",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Pluperfect",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=180,345,333,44",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Vous eûtes eu",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Pluperfect",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=177,392,296,49",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Ils eurent eu.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Pluperfect",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=177,446,284,44",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "J'aurai.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Pluperfect",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=437,549,260,56",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "J'aurai eu",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Pluperfect",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Tu auras",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Pluperfect",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=165,599,235,39",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Tu auras eu",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Pluperfect",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Il aura",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Pluperfect",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=158,641,562,58",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Il aura eu",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Pluperfect",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Nous aurons",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Pluperfect",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=156,693,611,59",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Nous aurons eu",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Pluperfect",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Vous aurez",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Pluperfect",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=156,748,609,58",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Vous aurez eu",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Pluperfect",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Ils auront",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Pluperfect",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=404,801,359,52",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Ils auront eu",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Pluperfect",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "J'avais",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Conditional",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=304,1005,232,49",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "J'aurais.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Conditional",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=293,1052,246,51",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Tu aurais",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Conditional",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=1187,257,288,39",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Il aurait",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Conditional",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=1198,306,294,41",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Nous aurions eu.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Conditional",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=1191,356,363,44",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Vous auriez eu.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Conditional",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=1189,403,352,54",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Ils auraient eu.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Conditional",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=1194,454,337,48",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Nous aurions",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Conditional",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=1180,202,287,48",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Vous auriez",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Conditional",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=168,542,258,56",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Ils auraient",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Conditional",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=396,601,333,47",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "J'aurais eu.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Conditional",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=157,800,242,42",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Tu aurais eu.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Conditional",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=304,957,221,51",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    },
+    {
+      "date": null,
+      "description": "Il aurait eu.",
+      "amount": null,
+      "transaction_type": "study_note",
+      "record_type": "Language Exercises",
+      "section_title": "Conditional",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0021#xywh=299,1094,241,61",
+      "image": "0021_service:mss:mss11879:mss11879-42:42001:0021.jpg"
+    }
+  ]
+}

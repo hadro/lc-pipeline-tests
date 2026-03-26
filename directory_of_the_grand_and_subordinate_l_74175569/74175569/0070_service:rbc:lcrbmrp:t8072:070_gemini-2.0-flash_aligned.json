@@ -1,0 +1,660 @@
+{
+  "image": "0070_service:rbc:lcrbmrp:t8072:070.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070",
+  "canvas_width": 1804,
+  "canvas_height": 2985,
+  "surya_median_confidence": 0.9936,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        508,
+        387,
+        1259,
+        439
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=508,387,751,52",
+      "confidence": "line",
+      "gemini_text": "Electa Chapter, No. 14, O. E. S.",
+      "surya_confidence": 0.9766
+    },
+    {
+      "bbox": [
+        574,
+        486,
+        1180,
+        523
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=574,486,606,37",
+      "confidence": "line",
+      "gemini_text": "Meets Second Wednesday.",
+      "surya_confidence": 0.9873
+    },
+    {
+      "bbox": [
+        205,
+        673,
+        1556,
+        715
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=205,673,1351,42",
+      "confidence": "line",
+      "gemini_text": "Mrs. Louisa Henderson................Royal Matron",
+      "surya_confidence": 0.9921
+    },
+    {
+      "bbox": [
+        668,
+        731,
+        1090,
+        768
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=668,731,422,37",
+      "confidence": "line",
+      "gemini_text": "471 School st., sw.",
+      "surya_confidence": 0.9911
+    },
+    {
+      "bbox": [
+        208,
+        824,
+        1556,
+        873
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=208,824,1348,49",
+      "confidence": "line",
+      "gemini_text": "Sir W. A. Warfield................Royal Patron",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        682,
+        888,
+        1074,
+        924
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=682,888,392,36",
+      "confidence": "line",
+      "gemini_text": "1901 11th st., nw.",
+      "surya_confidence": 0.9948
+    },
+    {
+      "bbox": [
+        204,
+        975,
+        1557,
+        1015
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=204,975,1353,40",
+      "confidence": "line",
+      "gemini_text": "Miss Ella Jones................Secretary",
+      "surya_confidence": 0.9962
+    },
+    {
+      "bbox": [
+        724,
+        1022,
+        1035,
+        1056
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=724,1022,311,34",
+      "confidence": "line",
+      "gemini_text": "916 E st., sw.",
+      "surya_confidence": 0.9946
+    },
+    {
+      "bbox": [
+        419,
+        1092,
+        1111,
+        1129
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=419,1092,692,37",
+      "confidence": "line",
+      "gemini_text": "Ball, Elizabeth, 741 Marshall nw.",
+      "surya_confidence": 0.9903
+    },
+    {
+      "bbox": [
+        423,
+        1131,
+        1174,
+        1163
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=423,1131,751,32",
+      "confidence": "line",
+      "gemini_text": "Beckworth, Nancy, 727 Del. ave. sw.",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        419,
+        1164,
+        978,
+        1197
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=419,1164,559,33",
+      "confidence": "line",
+      "gemini_text": "Bell, Jennie, Takoma Park.",
+      "surya_confidence": 0.9848
+    },
+    {
+      "bbox": [
+        423,
+        1194,
+        918,
+        1234
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=423,1194,495,40",
+      "confidence": "line",
+      "gemini_text": "Bolton, Cora, 823 R nw.",
+      "surya_confidence": 0.9938
+    },
+    {
+      "bbox": [
+        422,
+        1236,
+        1049,
+        1268
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=422,1236,627,32",
+      "confidence": "line",
+      "gemini_text": "Braxton, Lizzie, 2124 11th nw.",
+      "surya_confidence": 0.9946
+    },
+    {
+      "bbox": [
+        420,
+        1271,
+        1089,
+        1301
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=420,1271,669,30",
+      "confidence": "line",
+      "gemini_text": "Braxton, Louisa, 2124 11th nw.",
+      "surya_confidence": 0.9943
+    },
+    {
+      "bbox": [
+        422,
+        1306,
+        1073,
+        1335
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=422,1306,651,29",
+      "confidence": "line",
+      "gemini_text": "Brown, Jane W., 1141 20th nw.",
+      "surya_confidence": 0.9867
+    },
+    {
+      "bbox": [
+        420,
+        1339,
+        1032,
+        1371
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=420,1339,612,32",
+      "confidence": "line",
+      "gemini_text": "Brown, Mary E., 1244 1st sw.",
+      "surya_confidence": 0.9933
+    },
+    {
+      "bbox": [
+        422,
+        1373,
+        1249,
+        1406
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=422,1373,827,33",
+      "confidence": "line",
+      "gemini_text": "Brown, Nannis B., 1316 Md. ave. ne.",
+      "surya_confidence": 0.9938
+    },
+    {
+      "bbox": [
+        422,
+        1407,
+        1034,
+        1442
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=422,1407,612,35",
+      "confidence": "line",
+      "gemini_text": "Burgess, Susie, 1025 19th nw.",
+      "surya_confidence": 0.9751
+    },
+    {
+      "bbox": [
+        422,
+        1442,
+        1016,
+        1474
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=422,1442,594,32",
+      "confidence": "line",
+      "gemini_text": "Burless, Edith, Rosslyn, Va.",
+      "surya_confidence": 0.977
+    },
+    {
+      "bbox": [
+        422,
+        1478,
+        1079,
+        1508
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=422,1478,657,30",
+      "confidence": "line",
+      "gemini_text": "Cabaniss, Janie, 920 11th nw.",
+      "surya_confidence": 0.9872
+    },
+    {
+      "bbox": [
+        422,
+        1511,
+        1043,
+        1543
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=422,1511,621,32",
+      "confidence": "line",
+      "gemini_text": "Cabaniss, Martha, 1906 K nw.",
+      "surya_confidence": 0.9936
+    },
+    {
+      "bbox": [
+        422,
+        1547,
+        1092,
+        1579
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=422,1547,670,32",
+      "confidence": "line",
+      "gemini_text": "Carter, Nannie, 1223 Potomac st.",
+      "surya_confidence": 0.9901
+    },
+    {
+      "bbox": [
+        420,
+        1580,
+        1157,
+        1614
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=420,1580,737,34",
+      "confidence": "line",
+      "gemini_text": "Chase, Mollie V., 716 Farragut nw.",
+      "surya_confidence": 0.9927
+    },
+    {
+      "bbox": [
+        420,
+        1616,
+        1225,
+        1649
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=420,1616,805,33",
+      "confidence": "line",
+      "gemini_text": "Chichester, Douglass, 751 Steuben nw.",
+      "surya_confidence": 0.9886
+    },
+    {
+      "bbox": [
+        422,
+        1651,
+        1234,
+        1683
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=422,1651,812,32",
+      "confidence": "line",
+      "gemini_text": "Chichester, Georgiana, 751 Steuben nw.",
+      "surya_confidence": 0.9864
+    },
+    {
+      "bbox": [
+        422,
+        1685,
+        1073,
+        1717
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=422,1685,651,32",
+      "confidence": "line",
+      "gemini_text": "Chissell, Rosetta, 1614 11th nw.",
+      "surya_confidence": 0.9907
+    },
+    {
+      "bbox": [
+        422,
+        1721,
+        1094,
+        1750
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=422,1721,672,29",
+      "confidence": "line",
+      "gemini_text": "Cozzens, Elizabeth, 2111 9th nw.",
+      "surya_confidence": 0.9892
+    },
+    {
+      "bbox": [
+        420,
+        1756,
+        1195,
+        1785
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=420,1756,775,29",
+      "confidence": "line",
+      "gemini_text": "Davis, Helen A., 516 Tenn. ave. ne.",
+      "surya_confidence": 0.9931
+    },
+    {
+      "bbox": [
+        420,
+        1790,
+        1125,
+        1820
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=420,1790,705,30",
+      "confidence": "line",
+      "gemini_text": "Dickerson, Elnora, 1711 11th nw.",
+      "surya_confidence": 0.9914
+    },
+    {
+      "bbox": [
+        420,
+        1824,
+        1019,
+        1857
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=420,1824,599,33",
+      "confidence": "line",
+      "gemini_text": "Dickerson, Eva, 2206 8th nw.",
+      "surya_confidence": 0.9951
+    },
+    {
+      "bbox": [
+        420,
+        1858,
+        1210,
+        1892
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=420,1858,790,34",
+      "confidence": "line",
+      "gemini_text": "Dickerson, Mary V., 1711 11th nw.",
+      "surya_confidence": 0.9956
+    },
+    {
+      "bbox": [
+        422,
+        1895,
+        1049,
+        1924
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=422,1895,627,29",
+      "confidence": "line",
+      "gemini_text": "Ellis, Elizabeth, 1609 12th nw.",
+      "surya_confidence": 0.9901
+    },
+    {
+      "bbox": [
+        420,
+        1930,
+        1031,
+        1959
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=420,1930,611,29",
+      "confidence": "line",
+      "gemini_text": "Fortune, Laura, 418 Elm nw.",
+      "surya_confidence": 0.9937
+    },
+    {
+      "bbox": [
+        420,
+        1963,
+        1002,
+        1993
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=420,1963,582,30",
+      "confidence": "line",
+      "gemini_text": "Freeman, Ella, 1609 4th nw.",
+      "surya_confidence": 0.994
+    },
+    {
+      "bbox": [
+        419,
+        1997,
+        1235,
+        2029
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=419,1997,816,32",
+      "confidence": "line",
+      "gemini_text": "Gardner, Cecillie, 800 Marshall nw.",
+      "surya_confidence": 0.9936
+    },
+    {
+      "bbox": [
+        420,
+        2027,
+        1025,
+        2066
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=420,2027,605,39",
+      "confidence": "line",
+      "gemini_text": "Gilchrist, Maggie, 347 D sw.",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        419,
+        2067,
+        1007,
+        2099
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=419,2067,588,32",
+      "confidence": "line",
+      "gemini_text": "Gilchrist, Susan, 207 L sw.",
+      "surya_confidence": 0.9953
+    },
+    {
+      "bbox": [
+        419,
+        2100,
+        875,
+        2133
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=419,2100,456,33",
+      "confidence": "line",
+      "gemini_text": "Gray, Ella, 630 O nw.",
+      "surya_confidence": 0.995
+    },
+    {
+      "bbox": [
+        417,
+        2137,
+        892,
+        2166
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=417,2137,475,29",
+      "confidence": "line",
+      "gemini_text": "Gray, John, 630 O nw.",
+      "surya_confidence": 0.9941
+    },
+    {
+      "bbox": [
+        417,
+        2171,
+        1147,
+        2201
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=417,2171,730,30",
+      "confidence": "line",
+      "gemini_text": "Harvey, Mary, 2219 Cleveland ave.",
+      "surya_confidence": 0.994
+    },
+    {
+      "bbox": [
+        417,
+        2206,
+        1138,
+        2236
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=417,2206,721,30",
+      "confidence": "line",
+      "gemini_text": "Henderson, Louisa, 471 School sw.",
+      "surya_confidence": 0.9902
+    },
+    {
+      "bbox": [
+        419,
+        2238,
+        995,
+        2274
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=419,2238,576,36",
+      "confidence": "line",
+      "gemini_text": "Hill, Gertrude, 1133 1st nw.",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        417,
+        2271,
+        946,
+        2310
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=417,2271,529,39",
+      "confidence": "line",
+      "gemini_text": "Hill, W. C., 1133 1st nw.",
+      "surya_confidence": 0.9938
+    },
+    {
+      "bbox": [
+        419,
+        2311,
+        1091,
+        2340
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=419,2311,672,29",
+      "confidence": "line",
+      "gemini_text": "Holmes, Marie, Arlington, Va.",
+      "surya_confidence": 0.9893
+    },
+    {
+      "bbox": [
+        422,
+        2344,
+        1041,
+        2375
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=422,2344,619,31",
+      "confidence": "line",
+      "gemini_text": "Howard, Nannie, 418 Elm nw.",
+      "surya_confidence": 0.993
+    },
+    {
+      "bbox": [
+        423,
+        2376,
+        1156,
+        2411
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=423,2376,733,35",
+      "confidence": "line",
+      "gemini_text": "Hunt, Hannah, 821 Del. ave. sw.",
+      "surya_confidence": 0.9939
+    },
+    {
+      "bbox": [
+        419,
+        2411,
+        1095,
+        2443
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=419,2411,676,32",
+      "confidence": "line",
+      "gemini_text": "Johnson, Ellen, 1641 Vt. ave. nw.",
+      "surya_confidence": 0.9963
+    },
+    {
+      "bbox": [
+        419,
+        2446,
+        1156,
+        2480
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=419,2446,737,34",
+      "confidence": "line",
+      "gemini_text": "Johnson, Lottie, 1451 Pierce Pl. nw.",
+      "surya_confidence": 0.997
+    },
+    {
+      "bbox": [
+        419,
+        2481,
+        1013,
+        2514
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=419,2481,594,33",
+      "confidence": "line",
+      "gemini_text": "Johnson, Maggie, 406 4½ sw.",
+      "surya_confidence": 0.9886
+    },
+    {
+      "bbox": [
+        419,
+        2516,
+        876,
+        2546
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=419,2516,457,30",
+      "confidence": "line",
+      "gemini_text": "Jones, Ella, 916 E sw.",
+      "surya_confidence": 0.9949
+    },
+    {
+      "bbox": [
+        417,
+        2552,
+        954,
+        2582
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=417,2552,537,30",
+      "confidence": "line",
+      "gemini_text": "Jones, Mary S., 904 E sw.",
+      "surya_confidence": 0.994
+    },
+    {
+      "bbox": [
+        417,
+        2585,
+        1004,
+        2620
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=417,2585,587,35",
+      "confidence": "line",
+      "gemini_text": "Malvin, M. V. S., 1018 R nw.",
+      "surya_confidence": 0.993
+    },
+    {
+      "bbox": [
+        420,
+        2620,
+        1115,
+        2653
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=420,2620,695,33",
+      "confidence": "line",
+      "gemini_text": "Malvin, W. H. Judd., 1018 R nw.",
+      "surya_confidence": 0.9981
+    },
+    {
+      "bbox": [
+        856,
+        2690,
+        911,
+        2724
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:070#xywh=856,2690,55,34",
+      "confidence": "line",
+      "gemini_text": "61",
+      "surya_confidence": 0.9737
+    }
+  ],
+  "unmatched_gemini": []
+}

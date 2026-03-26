@@ -1,0 +1,666 @@
+{
+  "image_width": 1809,
+  "image_height": 2992,
+  "lines": [
+    {
+      "bbox": [
+        587,
+        337,
+        1210,
+        371
+      ],
+      "text": "DIRECTORY—Continued.",
+      "confidence": 0.9075
+    },
+    {
+      "bbox": [
+        434,
+        414,
+        1370,
+        447
+      ],
+      "text": "Gleaves, Richd. H., 5, 33d A-S, 126 Carroll se.",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        434,
+        449,
+        1065,
+        482
+      ],
+      "text": "Gordon, Edw., 15, 1127 7th se.",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        434,
+        485,
+        1288,
+        515
+      ],
+      "text": "Gordon, Harrison, 8, G, 800 Marshall nw.",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        434,
+        519,
+        1034,
+        548
+      ],
+      "text": "Gordon, J. W., 5, 1112 K nw.",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        413,
+        554,
+        1166,
+        584
+      ],
+      "text": "· Gordon, Wilber C., 1-7, 1739 4th nw.",
+      "confidence": 0.9814
+    },
+    {
+      "bbox": [
+        435,
+        587,
+        1050,
+        622
+      ],
+      "text": "Graves, Jos. E., 6, 435 1st sw.",
+      "confidence": 0.9831
+    },
+    {
+      "bbox": [
+        431,
+        621,
+        1065,
+        656
+      ],
+      "text": "Gray, A. W., 15-1, 1135 6th ne.",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        430,
+        653,
+        1106,
+        694
+      ],
+      "text": "Gray, C. A., 9, 1829 Vt. ave. nw.",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        432,
+        692,
+        954,
+        726
+      ],
+      "text": "Gray, J. F., 5, 634 O nw.",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        433,
+        725,
+        1289,
+        762
+      ],
+      "text": "Gray, John A., 1-1-1, 33d D-N, 1505 M nw.",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        431,
+        763,
+        1003,
+        793
+      ],
+      "text": "Gray, John H., 9, 628 L ne.",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        432,
+        794,
+        1133,
+        831
+      ],
+      "text": "Gray, W. S., 12-5-1, S, 221 F nw.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        432,
+        824,
+        1093,
+        870
+      ],
+      "text": "Gray, Wm. P., 8, 1144 15th nw.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        430,
+        861,
+        1367,
+        902
+      ],
+      "text": "Green, Phillip H., 10, G, 18th and Fla. ave.",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        430,
+        900,
+        1227,
+        935
+      ],
+      "text": "Griggsby, Chas., 15-5, 1156 Bldg. Road.",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        431,
+        937,
+        1310,
+        969
+      ],
+      "text": "Grimshaw, Wm. H., 1-1-3, B, 247 10th ne.",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        431,
+        971,
+        1329,
+        1003
+      ],
+      "text": "Grymes, Wm. W., 1, C, 12 Keating ave. ne.",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        426,
+        1005,
+        1106,
+        1039
+      ],
+      "text": "Gunnell, R. H., 15-5-1, 617 2d sw.",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        431,
+        1038,
+        1204,
+        1074
+      ],
+      "text": "Gutridge, John C., 3-5-1, 4081/2 3d sw.",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        431,
+        1077,
+        1121,
+        1109
+      ],
+      "text": "Gwathney, A. J., 9, 1517 11th nw.",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        431,
+        1112,
+        981,
+        1141
+      ],
+      "text": "Hall, Alfred, 6, Anacostia.",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        432,
+        1146,
+        1117,
+        1176
+      ],
+      "text": "Hall, Frank, 3-5, G-M, 461 D sw.",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        431,
+        1176,
+        1304,
+        1213
+      ],
+      "text": "Hall, H. B., 7-7-4, Pullman Palace Car Co.",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        432,
+        1215,
+        1022,
+        1249
+      ],
+      "text": "Hall, L. H., 1, 511 10th nw.",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        431,
+        1251,
+        1019,
+        1283
+      ],
+      "text": "Hall, U. W., 1, 2010 8th nw.",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        430,
+        1283,
+        1364,
+        1318
+      ],
+      "text": "Hamilton, H. W., 12-7, C, 1413 Pierce Pl. nw.",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        431,
+        1322,
+        1080,
+        1351
+      ],
+      "text": "Hamilton, Jas., 7, 1115 22d nw.",
+      "confidence": 0.9728
+    },
+    {
+      "bbox": [
+        431,
+        1355,
+        1157,
+        1385
+      ],
+      "text": "Hamilton, John A., 7, 1115 22d nw.",
+      "confidence": 0.9822
+    },
+    {
+      "bbox": [
+        431,
+        1389,
+        1124,
+        1422
+      ],
+      "text": "Hammond, R. E., 3, 1634 11th nw.",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        430,
+        1419,
+        1070,
+        1459
+      ],
+      "text": "Hanno, Joseph, 5, 1928 11th nw.",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        430,
+        1457,
+        1019,
+        1495
+      ],
+      "text": "Hardy, Henry, 12, 813 R nw.",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        429,
+        1495,
+        1062,
+        1527
+      ],
+      "text": "Harris, Benj., 12, 913 11th nw.",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        428,
+        1528,
+        1160,
+        1561
+      ],
+      "text": "Harris, C. Lem., 7-11-2, 2013 3d nw.",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        429,
+        1562,
+        1005,
+        1596
+      ],
+      "text": "Harris, Daniel, 6, 322 E sw.",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        424,
+        1590,
+        1366,
+        1672
+      ],
+      "text": "Harris, Geo. W., 12, 1543 M nw.\nHarris, H. C., 8-1-3, 33d G-M-N-S, 1515 M nw.",
+      "confidence": 0.9677
+    },
+    {
+      "bbox": [
+        429,
+        1667,
+        1016,
+        1701
+      ],
+      "text": "Harris, H. J., 5, 1739 F nw.",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        427,
+        1701,
+        1121,
+        1738
+      ],
+      "text": "Harris, J. H., 10, G, 416 18th nw.",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        429,
+        1737,
+        1361,
+        1771
+      ],
+      "text": "Harris, Rev. J. W., 15, 454 So. Church st.,",
+      "confidence": 0.9875
+    },
+    {
+      "bbox": [
+        467,
+        1775,
+        773,
+        1803
+      ],
+      "text": "Jackson, Tenn.",
+      "confidence": 0.9835
+    },
+    {
+      "bbox": [
+        427,
+        1803,
+        1158,
+        1843
+      ],
+      "text": "Harris, Leroy H., 5-11-2, 600 3d sw.",
+      "confidence": 0.9867
+    },
+    {
+      "bbox": [
+        429,
+        1839,
+        1237,
+        1875
+      ],
+      "text": "Harris, Louis N., 7-11-2, G. 2453 P nw.",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        427,
+        1873,
+        1201,
+        1912
+      ],
+      "text": "Harris, M. A., 7-11-2, S. 1729 10th nw.",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        429,
+        1910,
+        1103,
+        1945
+      ],
+      "text": "Harris, Wm., 7, G, 1327 28th nw.",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        429,
+        1946,
+        1017,
+        1979
+      ],
+      "text": "Harrod, D. D., 10, 321 F sw.",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        429,
+        1982,
+        868,
+        2014
+      ],
+      "text": "Hart, Rev. R. A., 15.",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        426,
+        2016,
+        1240,
+        2048
+      ],
+      "text": "Hart, W. H. H., 14, 216 Arthur Pl. nw.",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        426,
+        2049,
+        1120,
+        2085
+      ],
+      "text": "Hartgrove, W. B., 5, 1804 5th nw.",
+      "confidence": 0.979
+    },
+    {
+      "bbox": [
+        394,
+        2085,
+        1316,
+        2115
+      ],
+      "text": "Harvey, A. H., 6-11-2, S. 2219 Cleveland ave.",
+      "confidence": 0.4984
+    },
+    {
+      "bbox": [
+        426,
+        2121,
+        1112,
+        2151
+      ],
+      "text": "Hawkins, Horace, 10, 1506 L nw.",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        426,
+        2154,
+        1154,
+        2187
+      ],
+      "text": "Haynes, Wm. H., 14, 2005 11th nw.",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        429,
+        2188,
+        1120,
+        2221
+      ],
+      "text": "Hayson, W. B., 9, Station G. nw.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        429,
+        2223,
+        1245,
+        2255
+      ],
+      "text": "Hazzard, Sanford, 7-11-2, 3038 N st. nw.",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        426,
+        2257,
+        1281,
+        2294
+      ],
+      "text": "Henderson, Reuben, 8, 607 Ball Court nw.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        418,
+        2292,
+        1237,
+        2328
+      ],
+      "text": "Henderson, Richd. L., 3-1-3, 1221 W nw.",
+      "confidence": 0.9676
+    },
+    {
+      "bbox": [
+        427,
+        2328,
+        1138,
+        2361
+      ],
+      "text": "Henderson, Wm., 3, 471 School sw.",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        423,
+        2361,
+        1234,
+        2397
+      ],
+      "text": "Henry, Fred. D., 14-7, G, 328 Elm nw.",
+      "confidence": 0.9828
+    },
+    {
+      "bbox": [
+        428,
+        2396,
+        1257,
+        2429
+      ],
+      "text": "Henry, George, 0-7, 457 Washington nw.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        426,
+        2429,
+        1117,
+        2467
+      ],
+      "text": "Henson, Frank, 3-5-1, 1218 3d sw.",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        426,
+        2465,
+        1150,
+        2501
+      ],
+      "text": "Henson, G. W., 15, Hillsdale, D. C.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        426,
+        2501,
+        1118,
+        2534
+      ],
+      "text": "Herbert, Benj. E., 1-7, 211 K nw.",
+      "confidence": 0.981
+    },
+    {
+      "bbox": [
+        424,
+        2534,
+        999,
+        2571
+      ],
+      "text": "Herbert, S. W., 5, 410 E se.",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        425,
+        2571,
+        1079,
+        2604
+      ],
+      "text": "Herrod, Wm., 8, Hillsdale, D. C.",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        424,
+        2603,
+        1319,
+        2641
+      ],
+      "text": "Hewlett, E. M., 1, 32d S, 1521 Madison nw.",
+      "confidence": 0.992
+    },
+    {
+      "bbox": [
+        859,
+        2675,
+        915,
+        2708
+      ],
+      "text": "83",
+      "confidence": 0.9589
+    },
+    {
+      "bbox": [
+        423,
+        2906,
+        548,
+        2921
+      ],
+      "text": "-",
+      "confidence": 0.2552
+    }
+  ]
+}

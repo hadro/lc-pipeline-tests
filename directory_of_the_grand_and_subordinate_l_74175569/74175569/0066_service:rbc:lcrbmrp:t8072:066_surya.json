@@ -1,0 +1,556 @@
+{
+  "image_width": 1819,
+  "image_height": 2980,
+  "lines": [
+    {
+      "bbox": [
+        475,
+        400,
+        1343,
+        460
+      ],
+      "text": "Prince Hall Chapter, No. 12, O. E. S.",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        610,
+        503,
+        1214,
+        541
+      ],
+      "text": "Meets Fourth Wednesday.",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        239,
+        678,
+        1587,
+        720
+      ],
+      "text": "Mrs. L. L. Pendleton......Royal Matron",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        716,
+        737,
+        1119,
+        777
+      ],
+      "text": "1824 l1th st., nw.",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        239,
+        798,
+        1588,
+        848
+      ],
+      "text": "Sir Walter J. Abrams......Royal Patron",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        710,
+        862,
+        1122,
+        901
+      ],
+      "text": "1241 22nd st., nw.",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        234,
+        908,
+        1590,
+        955
+      ],
+      "text": "Miss Eva B. Lucas......Secretary",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        745,
+        972,
+        1071,
+        1009
+      ],
+      "text": "461 E st., sw.",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        448,
+        1190,
+        1088,
+        1229
+      ],
+      "text": "Abrams, Ella A., 1241 22d nw.",
+      "confidence": 0.9862
+    },
+    {
+      "bbox": [
+        448,
+        1230,
+        1149,
+        1264
+      ],
+      "text": "Abrams, Walter J., 1241 22d nw.",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        1305,
+        1232,
+        1380,
+        1265
+      ],
+      "text": "1 3",
+      "confidence": 0.5396
+    },
+    {
+      "bbox": [
+        447,
+        1264,
+        1124,
+        1299
+      ],
+      "text": "Bennett, Amelia, 1513 17th nw.",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        447,
+        1300,
+        1135,
+        1330
+      ],
+      "text": "Brandon, Maria, 1826 11th nw.",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        445,
+        1336,
+        1053,
+        1365
+      ],
+      "text": "Bronaugh, Lena, 1734 V nw.",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        445,
+        1371,
+        1058,
+        1400
+      ],
+      "text": "Brooks, Bessie T., 328 E sw.",
+      "confidence": 0.9815
+    },
+    {
+      "bbox": [
+        445,
+        1404,
+        1212,
+        1436
+      ],
+      "text": "Brooks, Musette, 1437 Pierce Pl. nw.",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        443,
+        1434,
+        1100,
+        1475
+      ],
+      "text": "Brooks, O., 1437 Pierce Pl. nw.",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        445,
+        1473,
+        1186,
+        1506
+      ],
+      "text": "Brooks, O. E., 1437 Pierce Pl. nw.",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        443,
+        1506,
+        1158,
+        1542
+      ],
+      "text": "Brown, Bertha, 2025 11th nw.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        445,
+        1543,
+        1232,
+        1577
+      ],
+      "text": "Brown, Mattie E., 1157 8th nw.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        445,
+        1578,
+        1232,
+        1611
+      ],
+      "text": "Burrell, Eva, 1455 Pierce Pl. nw.",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        442,
+        1612,
+        1168,
+        1647
+      ],
+      "text": "Bush, Malvina T., 2354 6th nw.",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        1267,
+        1622,
+        1350,
+        1646
+      ],
+      "text": ". .",
+      "confidence": 0.3968
+    },
+    {
+      "bbox": [
+        444,
+        1648,
+        1029,
+        1681
+      ],
+      "text": "Carter, Evelyn, 1713 R nw.",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        445,
+        1683,
+        1026,
+        1715
+      ],
+      "text": "Childs, Rosa B., 513 3d sw.",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        445,
+        1718,
+        991,
+        1748
+      ],
+      "text": "Coles, Rosa, 1525 12th nw.",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        444,
+        1754,
+        1023,
+        1783
+      ],
+      "text": "Combs, Ellen, 2002 12th nw.",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        445,
+        1788,
+        976,
+        1818
+      ],
+      "text": "Cornish, Hattie, 312 B se.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        444,
+        1821,
+        980,
+        1855
+      ],
+      "text": "Cox, Isabella, 2224 M nw.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        445,
+        1857,
+        1259,
+        1889
+      ],
+      "text": "Cromwell, Anna E., 1439 Pierce Pl. nw.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        438,
+        1893,
+        1064,
+        1925
+      ],
+      "text": "Davis, Eliza B., 1144 15th nw.",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        445,
+        1928,
+        1092,
+        1958
+      ],
+      "text": "Douglass, Belita, 1533 14th nw.",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        445,
+        1963,
+        1377,
+        1993
+      ],
+      "text": "Fisher, Susie J., Linden Flats, Le Droit Park.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        445,
+        1997,
+        1221,
+        2029
+      ],
+      "text": "Fraction, Clara S., 1418 Pierce Place.",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        445,
+        2031,
+        1038,
+        2067
+      ],
+      "text": "Griffin, Sadie A., 1410 S nw.",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        445,
+        2064,
+        1028,
+        2101
+      ],
+      "text": "Harris, Kate H., 2013 3d nw.",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        445,
+        2102,
+        1076,
+        2132
+      ],
+      "text": "Harris, Willie May, 600 3d sw.",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        444,
+        2137,
+        1065,
+        2167
+      ],
+      "text": "Haynes, Bessie, 2005 11th nw.",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        445,
+        2172,
+        1092,
+        2204
+      ],
+      "text": "Hughes, Ruby Page, 463 E sw.",
+      "confidence": 0.9876
+    },
+    {
+      "bbox": [
+        444,
+        2204,
+        1176,
+        2238
+      ],
+      "text": "Hutchinson, John M., 1701 11th nw.",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        443,
+        2238,
+        1023,
+        2276
+      ],
+      "text": "Jackson, Helen, 1229 T nw.",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        445,
+        2276,
+        1170,
+        2308
+      ],
+      "text": "Jackson, Kate, 1428 Pierce Pl. nw.",
+      "confidence": 0.992
+    },
+    {
+      "bbox": [
+        444,
+        2311,
+        1379,
+        2343
+      ],
+      "text": "Johnson, Helen, The Linden, Le Droit Park.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        445,
+        2343,
+        1059,
+        2378
+      ],
+      "text": "Johnson, Lydia D., 912 W nw.",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        445,
+        2379,
+        1132,
+        2412
+      ],
+      "text": "Johnson, M. V., 1523 Madison nw.",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        444,
+        2412,
+        1253,
+        2446
+      ],
+      "text": "Jones. Laura Terrell, 1531 Madison nw.",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        444,
+        2446,
+        1003,
+        2481
+      ],
+      "text": "Lee, Edith B., 2908 M nw.",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        443,
+        2479,
+        997,
+        2518
+      ],
+      "text": "Lee, Emily, 2036 17th nw.",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        444,
+        2518,
+        1009,
+        2550
+      ],
+      "text": "Lee, Hattie E., 2908 M nw.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        442,
+        2553,
+        964,
+        2583
+      ],
+      "text": "Lee, I. R., 1704 11th nw.",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        442,
+        2586,
+        903,
+        2618
+      ],
+      "text": "Lee, Mary, 1213 T nw.",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        441,
+        2622,
+        982,
+        2654
+      ],
+      "text": "Lemos, Alice E., 51 P nw.",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        441,
+        2656,
+        1008,
+        2689
+      ],
+      "text": "Lucas, Alice M., 461 E sw.",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        1135,
+        2664,
+        1273,
+        2691
+      ],
+      "text": "en milia",
+      "confidence": 0.4919
+    },
+    {
+      "bbox": [
+        882,
+        2705,
+        932,
+        2735
+      ],
+      "text": "57",
+      "confidence": 0.9684
+    }
+  ]
+}

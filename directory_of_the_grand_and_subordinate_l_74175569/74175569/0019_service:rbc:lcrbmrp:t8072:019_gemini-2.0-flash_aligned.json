@@ -1,0 +1,384 @@
+{
+  "image": "0019_service:rbc:lcrbmrp:t8072:019.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019",
+  "canvas_width": 1816,
+  "canvas_height": 2893,
+  "surya_median_confidence": 0.981,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        1259,
+        193,
+        1325,
+        409
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=1259,193,66,216",
+      "confidence": "line",
+      "gemini_text": "ELECTIVE OFFICERS OF THE GRAND LODGE SINCE ITS ORGANIZATION.",
+      "surya_confidence": 0.9315
+    },
+    {
+      "bbox": [
+        284,
+        211,
+        317,
+        583
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=284,211,33,372",
+      "confidence": "line",
+      "gemini_text": "Year Grand Masters. Dep'y Gr. Masters. Sen. Gr. Wardens. Jr. Gr. Wardens. Gr. Treasurers. Grand Secretaries.",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        725,
+        211,
+        806,
+        440
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=725,211,81,229",
+      "confidence": "line",
+      "gemini_text": "1848 Charles Datcher Daniel H. Smith Richard Phiske Francis Datcher, Jr. Joseph Frazier John T. Costin",
+      "surya_confidence": 0.968
+    },
+    {
+      "bbox": [
+        460,
+        221,
+        525,
+        595
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=460,221,65,374",
+      "confidence": "line",
+      "gemini_text": "1849 John T. Costin Daniel H. Smith Dennis Burbon John H. Davis Joseph Frazier Annanias Herbert",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        425,
+        227,
+        463,
+        594
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=425,227,38,367",
+      "confidence": "line",
+      "gemini_text": "1850 Richard Phiske Dennis Burbon William Briscoe William Ford Joseph Frazier Annanias Herbert",
+      "surya_confidence": 0.9855
+    },
+    {
+      "bbox": [
+        494,
+        422,
+        528,
+        595
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=494,422,34,173",
+      "confidence": "line",
+      "gemini_text": "1851 Robert Robinson Francis Datcher, Jr. Richard Phiske Charles Hunt Joseph Frazier William Ford",
+      "surya_confidence": 0.9636
+    },
+    {
+      "bbox": [
+        792,
+        428,
+        897,
+        608
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=792,428,105,180",
+      "confidence": "line",
+      "gemini_text": "1852 Charles Datcher Francis Datcher, Jr. Annanias Herbert Carter A. Stewart Robert Johnson Francis Datcher, Jr.",
+      "surya_confidence": 0.9667
+    },
+    {
+      "bbox": [
+        155,
+        510,
+        203,
+        938
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=155,510,48,428",
+      "confidence": "line",
+      "gemini_text": "1853 Charles Datcher Annanias Herbert Thomas Tascoe Rob't H. Somerville Robert Johnson Rob't H. Somerville",
+      "surya_confidence": 0.9965
+    },
+    {
+      "bbox": [
+        754,
+        625,
+        937,
+        1037
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=754,625,183,412",
+      "confidence": "line",
+      "gemini_text": "1854 Francis Datcher, Jr. Annanias Herbert William H. Thomas James Hebron Robert Johnson Andrew B. Tinney",
+      "surya_confidence": 0.993
+    },
+    {
+      "bbox": [
+        730,
+        687,
+        764,
+        1013
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=730,687,34,326",
+      "confidence": "line",
+      "gemini_text": "1855 Charles Hunt William H Thomas Clement Becket J. A. Mason William Briscoe John M. Brown",
+      "surya_confidence": 0.9965
+    },
+    {
+      "bbox": [
+        662,
+        700,
+        696,
+        1014
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=662,700,34,314",
+      "confidence": "line",
+      "gemini_text": "1856 Annanias Herbert Thomas Tascoe William Anderson Clement Becket John T. Costin Samuel J. Datcher",
+      "surya_confidence": 0.9977
+    },
+    {
+      "bbox": [
+        632,
+        702,
+        664,
+        1016
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=632,702,32,314",
+      "confidence": "line",
+      "gemini_text": "1857 Carter A. Stewart Edward Evans Clement Becket George S. White John T. Costin Edward A. Watson",
+      "surya_confidence": 0.9958
+    },
+    {
+      "bbox": [
+        759,
+        1045,
+        908,
+        1455
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=759,1045,149,410",
+      "confidence": "line",
+      "gemini_text": "1858 Edward Evans Carter A. Stewart Henry H. Dade Joseph Smallwood Henry H. Dade Edward A. Watson",
+      "surya_confidence": 0.9888
+    },
+    {
+      "bbox": [
+        602,
+        1078,
+        640,
+        1434
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=602,1078,38,356",
+      "confidence": "line",
+      "gemini_text": "1859 Carter A. Stewart Henry H. Dade Adolphus Hall Robert H. Booker Henry H. Dade John F. Cook",
+      "surya_confidence": 0.9977
+    },
+    {
+      "bbox": [
+        891,
+        1165,
+        977,
+        1435
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=891,1165,86,270",
+      "confidence": "line",
+      "gemini_text": "1860 William Anderson Edward M. Thomas George S. White David Fisher William Anderson John F. Cook",
+      "surya_confidence": 0.9762
+    },
+    {
+      "bbox": [
+        1197,
+        1433,
+        1342,
+        1881
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=1197,1433,145,448",
+      "confidence": "line",
+      "gemini_text": "1861 Edw. M. Thomas George S. White William Tunnia Chas. C. C. Johnson William Anderson Edward M. Thomas",
+      "surya_confidence": 0.9771
+    },
+    {
+      "bbox": [
+        729,
+        1446,
+        1147,
+        1882
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=729,1446,418,436",
+      "confidence": "line",
+      "gemini_text": "1862 Adolphus Hall William Tunnia Andrew B Tinney John F. Cook Andrew B. Tinney John F. Cook",
+      "surya_confidence": 0.9428
+    },
+    {
+      "bbox": [
+        470,
+        1524,
+        506,
+        1853
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=470,1524,36,329",
+      "confidence": "line",
+      "gemini_text": "1863 William Tunnia Edward M. Thomas Robert H. Booker Thomas Brown Jas. W. Davenport Wm. A. Taliaferro",
+      "surya_confidence": 0.9542
+    },
+    {
+      "bbox": [
+        435,
+        1544,
+        473,
+        1853
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=435,1544,38,309",
+      "confidence": "line",
+      "gemini_text": "1864 Robert H. Booker Henry H. Dade Chas. C. C. Johnson J. H. A. Schureman Jas. W. Davenport Solomon G. Brown",
+      "surya_confidence": 0.8259
+    },
+    {
+      "bbox": [
+        167,
+        1821,
+        210,
+        2202
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=167,1821,43,381",
+      "confidence": "line",
+      "gemini_text": "1865 William H. Thomas. Adolphus Hall John F. Cook Albert Simms Thomas Brown Solomon G. Brown",
+      "surya_confidence": 0.9816
+    },
+    {
+      "bbox": [
+        569,
+        1867,
+        676,
+        2275
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=569,1867,107,408",
+      "confidence": "line",
+      "gemini_text": "1866 John F. Cook David Fisher Carter A. Stewart George W. Brooks Thomas Brown William H. Myers",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        1038,
+        1877,
+        1248,
+        2299
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=1038,1877,210,422",
+      "confidence": "line",
+      "gemini_text": "1867 John F. Cook Carter A. Stewart Andrew B. Tinney Alfred Pope William M Brown Carter A. Stewart",
+      "surya_confidence": 0.9912
+    },
+    {
+      "bbox": [
+        298,
+        1885,
+        332,
+        2257
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=298,1885,34,372",
+      "confidence": "line",
+      "gemini_text": "1868 John F. Cook Andrew B. Tinney Andrew B. Tinney John A. Butler Albert Parker Carter A. Stewart",
+      "surya_confidence": 0.9984
+    },
+    {
+      "bbox": [
+        736,
+        1904,
+        879,
+        2295
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=736,1904,143,391",
+      "confidence": "line",
+      "gemini_text": "1869 John F. Cook Andrew B. Tinney Charles H. Twine John W. Hurd Albert Parker John G. Goines",
+      "surya_confidence": 0.9948
+    },
+    {
+      "bbox": [
+        407,
+        1945,
+        476,
+        2272
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=407,1945,69,327",
+      "confidence": "line",
+      "gemini_text": "1870 John F. Cook Charles H. Twine Charles H. Twine Wm. P. Ryder Albert Parker John G. Goines",
+      "surya_confidence": 0.9947
+    },
+    {
+      "bbox": [
+        473,
+        1964,
+        575,
+        2273
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=473,1964,102,309",
+      "confidence": "line",
+      "gemini_text": "1871 John F. Cook Andrew B. Tinney John Battle John H. Burrill Albert Parker William P. Ryder",
+      "surya_confidence": 0.9798
+    },
+    {
+      "bbox": [
+        669,
+        1970,
+        709,
+        2276
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=669,1970,40,306",
+      "confidence": "line",
+      "gemini_text": "1872 John F. Cook Andrew B. Tinney Thomas Welch J. R. Contee Albert Parker William P. Ryder",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        1242,
+        2042,
+        1274,
+        2277
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=1242,2042,32,235",
+      "confidence": "line",
+      "gemini_text": "1873 John F. Cook John Battle Wm. A. Taliaferro",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        674,
+        2326,
+        706,
+        2688
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=674,2326,32,362",
+      "confidence": "line",
+      "gemini_text": "1874 William H. Myers Wm. A. Taliaferro Wm. A. Taliaferro",
+      "surya_confidence": 0.9911
+    },
+    {
+      "bbox": [
+        1309,
+        2334,
+        1339,
+        2533
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=1309,2334,30,199",
+      "confidence": "line",
+      "gemini_text": "1875 Wm. A. Taliaferro Geo. W. Brooks John T. Lucas",
+      "surya_confidence": 0.9618
+    },
+    {
+      "bbox": [
+        505,
+        2354,
+        538,
+        2687
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:019#xywh=505,2354,33,333",
+      "confidence": "line",
+      "gemini_text": "Thorn'n A. Jackson",
+      "surya_confidence": 0.9941
+    }
+  ],
+  "unmatched_gemini": []
+}

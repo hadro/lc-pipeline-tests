@@ -1,0 +1,345 @@
+{
+  "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "section_title": "Lodge Officers for 1904",
+    "organization_name": "Charles Datcher Lodge, No. 15"
+  },
+  "page_context": {
+    "section_title": "Lodge Officers for 1904",
+    "organization_name": "James H. Hill Lodge, No 16"
+  },
+  "entries": [
+    {
+      "name": "Rev. Shelton Miller",
+      "title_or_role": "W. Master",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=460,441,679,41",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "John W. King",
+      "title_or_role": "Sr. W.",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=728,487,461,39",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Abram P. Winslow",
+      "title_or_role": "Jr. W.",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=844,527,562,42",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Washington P. Sidney",
+      "title_or_role": "Sec'y",
+      "address": "Brightwood, D. C.",
+      "meeting_info": "Meets Second Friday",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=571,599,603,39",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Baylor, Frank",
+      "address": "Takoma Park",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=462,866,602,38",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Brooks, George",
+      "address": "2311 Brightwood ave",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=458,903,771,51",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Brown, Chas. H.",
+      "address": "Brightwood",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=466,952,617,46",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Clark, Henry J. R.",
+      "address": "Brightwood",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=461,996,655,46",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Clark, J. R",
+      "address": "Brightwood",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=462,1045,514,40",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Clark, Philip",
+      "address": "Brightwood",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=462,1088,546,41",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Clark, Walker",
+      "address": "Brightwood",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=460,1134,549,40",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Day, Moses",
+      "address": "Takoma Park",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=463,1175,544,47",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Fields, Thomas A.",
+      "address": "Takoma Park",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=461,1219,678,50",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Grinnage, Francis M.",
+      "address": "Brightwood",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=461,1267,696,42",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Hall, Thomas",
+      "address": "296 Pomeroy st nw",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=464,1311,681,44",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Harris, Chas. W.",
+      "address": "Brightwood",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=465,1359,616,39",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Hill, Benj.",
+      "address": "Takoma Park",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=462,1399,535,48",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Holmes, Isaiah",
+      "address": "Freedman's Hospital",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=465,1448,745,39",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Humphries, Chas. H.",
+      "address": "1115 15th n w",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=464,1491,742,42",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Jones, Wm. A.",
+      "address": "3313 Rnw",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=462,1538,547,39",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Keith, Henry",
+      "address": "719 Grant ave nw",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=463,1583,673,39",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "King, John W.",
+      "address": "746 Sheridan nw",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=463,1622,681,47",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Matthews, Wm.",
+      "address": "Brightwood",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=465,1672,588,40",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Miller, Rev. Shelton",
+      "address": "2313 Brightwood ave",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=463,1710,884,51",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Mitchell, Henry",
+      "address": "Takoma",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=466,1759,514,46",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Morton, Louis",
+      "address": "Woodburn",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=466,1806,539,41",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Pinckett, Alfred",
+      "address": "822 25th nw",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=463,1847,620,47",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Priest, Marshall",
+      "address": "Brightwood",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=464,1894,596,44",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Robinson, Robert",
+      "address": "1412 N. Y. ave nw",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=463,1935,765,48",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Ross, W. B",
+      "address": "Brightwood",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=461,1984,518,44",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Royster, Wm.",
+      "address": "750 Sheridan nw",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=460,2026,640,48",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Shamwell, Chas. H.",
+      "address": "Brightwood",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=465,2075,672,40",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Shamwell, Louis O.",
+      "address": "Brightwood",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=466,2120,673,40",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Sidney, Washington P.",
+      "address": "Brightwood",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=459,2157,731,54",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Turner, Edward",
+      "address": "Montgomery Co., Md.",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=461,2201,800,54",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Washington, Geo. D",
+      "address": "Brightwood",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=461,2249,701,50",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Winslow, Abram P.",
+      "address": "324 Pomeroy nw",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=464,2294,767,48",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Wood, Andrew A.",
+      "address": "Montgomery Co., Md.",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=464,2339,855,49",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Wood, Wm. D.",
+      "address": "Montgomery Co., Md.",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=460,2382,775,48",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Woody, Arthur",
+      "address": "Takoma Park",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=460,2432,636,41",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    },
+    {
+      "name": "Worthington, Eugene",
+      "address": "2271 9th st nw",
+      "section_title": "Lodge Officers for 1904",
+      "organization_name": "James H. Hill Lodge, No 16",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=458,2471,769,49",
+      "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "image_width": 1812,
+  "image_height": 2914,
+  "lines": [
+    {
+      "bbox": [
+        575,
+        336,
+        1325,
+        378
+      ],
+      "text": "Widow's Son Lodge, No. 7.",
+      "confidence": 0.984
+    },
+    {
+      "bbox": [
+        625,
+        437,
+        1257,
+        475
+      ],
+      "text": "John S. George, W. Master.",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        865,
+        502,
+        1612,
+        538
+      ],
+      "text": "Geo. W. Martin, J. W.",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        270,
+        505,
+        859,
+        542
+      ],
+      "text": "Charles L. Harris. S. W.",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        462,
+        569,
+        1416,
+        608
+      ],
+      "text": "John T. Turner, Sec'y, 926 25th St. N. W.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        662,
+        640,
+        1230,
+        675
+      ],
+      "text": "Meets Second Thursday.",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        650,
+        814,
+        1244,
+        856
+      ],
+      "text": "Warren Lodge, No. 8.",
+      "confidence": 0.9733
+    },
+    {
+      "bbox": [
+        600,
+        914,
+        1297,
+        952
+      ],
+      "text": "Charles H Brown, W. Master.",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        268,
+        983,
+        1049,
+        1020
+      ],
+      "text": "Samuel H. Howard, S. W.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        1052,
+        983,
+        1618,
+        1019
+      ],
+      "text": "Stephen Johnson, J. W.",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        403,
+        1050,
+        1482,
+        1088
+      ],
+      "text": "G. W. Branch, Sec'y, 2125 Ward Place, N. W.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        665,
+        1117,
+        1218,
+        1154
+      ],
+      "text": "Meets First Wednesday.",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        599,
+        1292,
+        1297,
+        1338
+      ],
+      "text": "Pythagoras Lodge, No. 9.",
+      "confidence": 0.9795
+    },
+    {
+      "bbox": [
+        552,
+        1393,
+        1349,
+        1432
+      ],
+      "text": "Nelson E. Weatherless, W. Master.",
+      "confidence": 0.9843
+    },
+    {
+      "bbox": [
+        964,
+        1460,
+        1618,
+        1501
+      ],
+      "text": "Osborne T. Taylor, J. W.",
+      "confidence": 0.9846
+    },
+    {
+      "bbox": [
+        273,
+        1463,
+        765,
+        1501
+      ],
+      "text": "Paul H. Bray, S. W.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        437,
+        1527,
+        1464,
+        1569
+      ],
+      "text": "James O. Bampfield, Sec'y, 1119 V St. N. W.",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        690,
+        1596,
+        1201,
+        1634
+      ],
+      "text": "Meets Third Tuesday.",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        558,
+        1770,
+        1346,
+        1817
+      ],
+      "text": "John F. Cook Lodge, No. 10.",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        617,
+        1873,
+        1263,
+        1911
+      ],
+      "text": "Jesse B. Martin, W. Master.",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        274,
+        1941,
+        1618,
+        1979
+      ],
+      "text": "Perry H. Carson, Jr., S. W. Jos. H. Johnson, J. W.",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        448,
+        2008,
+        1463,
+        2048
+      ],
+      "text": "Frank H. Cozzens, Sec'y, 2111 9th St. N. W.",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        671,
+        2075,
+        1218,
+        2113
+      ],
+      "text": "Meets Second Tuesday.",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        607,
+        2264,
+        1292,
+        2306
+      ],
+      "text": "St. John's Lodge, No. 12.",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        564,
+        2363,
+        1337,
+        2403
+      ],
+      "text": "Charles H. Thompson, W. Master.",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        1084,
+        2425,
+        1620,
+        2467
+      ],
+      "text": "Jas. H. Williams, J. W.",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        274,
+        2430,
+        774,
+        2468
+      ],
+      "text": "Beverly Young, S. W.",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        341,
+        2495,
+        1549,
+        2536
+      ],
+      "text": "Nathaniel Robinson, Sec'y, 2246 Cleveland Ave., N.W.",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        696,
+        2562,
+        1200,
+        2601
+      ],
+      "text": "Meets Fourth Monday.",
+      "confidence": 0.9787
+    },
+    {
+      "bbox": [
+        919,
+        2652,
+        976,
+        2688
+      ],
+      "text": "15",
+      "confidence": 0.9787
+    }
+  ]
+}

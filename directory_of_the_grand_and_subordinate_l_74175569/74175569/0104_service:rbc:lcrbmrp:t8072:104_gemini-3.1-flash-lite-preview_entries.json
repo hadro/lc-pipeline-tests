@@ -1,0 +1,666 @@
+{
+  "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "section_title": "Masonic Directory",
+    "organization_name": null
+  },
+  "page_context": {
+    "section_title": "Masonic Directory",
+    "organization_name": null
+  },
+  "entries": [
+    {
+      "name": "Smith, Daniel",
+      "masonic_codes": "7",
+      "lodge": "Warren",
+      "address": "1214 Potomac ave.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=419,446,749,30",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Smith, H. S.",
+      "masonic_codes": "9-7-4, 33d A-S",
+      "lodge": "Pythagoras",
+      "chapter": "St. John's",
+      "commandery": "Mt. Calvary",
+      "rank": "33° A S",
+      "address": "1524 Pierce Pl.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=419,478,878,37",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Smith, H. N.",
+      "masonic_codes": "10-7-4, 32dB-H-R-S",
+      "lodge": "John F. Cook",
+      "chapter": "St. John's",
+      "commandery": "Mt. Calvary",
+      "rank": "32° B H R S",
+      "address": "36 Patterson.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=419,515,935,32",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Smith, Jere.",
+      "masonic_codes": "6",
+      "lodge": "Meridian",
+      "address": "Paterson, N. J.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=419,550,634,30",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Smith, Jere.",
+      "masonic_codes": "7-11-2",
+      "lodge": "Warren",
+      "chapter": "Keystone",
+      "commandery": "Henderson",
+      "address": "1630 Madison nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=418,584,770,30",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Smith, John A.",
+      "masonic_codes": "12-1",
+      "lodge": "St. John's",
+      "chapter": "Mt. Vernon",
+      "address": "631 N st. nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=418,618,731,30",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Smith, John E.",
+      "masonic_codes": "1-5",
+      "lodge": "Social",
+      "chapter": "Prince Hall",
+      "address": "442 O nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=418,652,620,30",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Smith, Rev. John E.",
+      "masonic_codes": "1",
+      "lodge": "Social",
+      "address": "1921 9½ nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=418,682,723,39",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Smith, J. T.",
+      "masonic_codes": "15",
+      "lodge": "Chas. Datcher",
+      "address": "2121 9th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=413,716,648,76",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Smith, John W.",
+      "masonic_codes": "6",
+      "lodge": "Meridian",
+      "address": "Deanwood.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=418,787,625,33",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Smith, Reuben S.",
+      "masonic_codes": "1-5-3",
+      "lodge": "Social",
+      "chapter": "Prince Hall",
+      "commandery": "Gethsemane",
+      "address": "715 2d nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=418,823,731,29",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Smith, Wm.",
+      "masonic_codes": "7, G",
+      "lodge": "Warren",
+      "rank": "Past Master",
+      "address": "2720 P nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=415,856,631,32",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Smith, Wm.",
+      "masonic_codes": "8",
+      "lodge": "Warren",
+      "address": "607 Ball Court nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=418,888,699,34",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Smith, Wm. A.",
+      "masonic_codes": "8",
+      "lodge": "Warren",
+      "address": "1625 11th nw",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=415,924,672,32",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Smith, Wm. G.",
+      "masonic_codes": "5-7-2, M",
+      "lodge": "Eureka",
+      "chapter": "St. John's",
+      "commandery": "Henderson",
+      "rank": "Past High Priest",
+      "address": "526 20th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=416,957,776,34",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Smith, Wm. L.",
+      "masonic_codes": "7-11-2",
+      "lodge": "Warren",
+      "chapter": "Keystone",
+      "commandery": "Henderson",
+      "address": "Rosslyn, Va.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=418,989,732,36",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Smith, Wilson",
+      "masonic_codes": "10-5-3, G-M-S",
+      "lodge": "John F. Cook",
+      "chapter": "Prince Hall",
+      "commandery": "Gethsemane",
+      "rank": "Past Master Past High Priest S",
+      "address": "210 L nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=413,1024,798,35",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Smothers, Rev. Jos. S.",
+      "masonic_codes": "3",
+      "lodge": "Widow's Son",
+      "address": "742 Alma ave. Memphis, Tenn.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=416,1060,933,30",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Snowden, John E.",
+      "masonic_codes": "3-5-1",
+      "lodge": "Widow's Son",
+      "chapter": "Prince Hall",
+      "commandery": "Simon",
+      "address": "206 D sw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=419,1129,699,32",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Snowden, Noble N.",
+      "masonic_codes": "6-5-1, 33d G-H-N-S",
+      "lodge": "Meridian",
+      "chapter": "Prince Hall",
+      "commandery": "Simon",
+      "rank": "33° Past Master Past Grand High Priest Past Grand Commander S",
+      "address": "404 1st",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=419,1164,935,32",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Staley, N. B.",
+      "masonic_codes": "10",
+      "lodge": "John F. Cook",
+      "address": "412 N nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=413,1195,588,33",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Stevens, A. H.",
+      "masonic_codes": "5-7-2, R-S",
+      "lodge": "Eureka",
+      "chapter": "St. John's",
+      "commandery": "Henderson",
+      "rank": "Past Eminent Commander S",
+      "address": "Anacostia.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=413,1230,768,37",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Stevenson, Chas.",
+      "masonic_codes": "1, G",
+      "lodge": "Social",
+      "rank": "Past Master",
+      "address": "1612 11th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=418,1268,758,33",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Steward, Daniel M.",
+      "masonic_codes": "7, S",
+      "lodge": "Warren",
+      "rank": "S",
+      "address": "2216 6th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=413,1300,775,35",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Stewart, Chas. W.",
+      "masonic_codes": "14",
+      "lodge": "Prince Hall",
+      "address": "2729 Dumbarton ave.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=413,1336,935,32",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Stewart, Daniel",
+      "masonic_codes": "7-7-4, S",
+      "lodge": "Warren",
+      "chapter": "St. John's",
+      "commandery": "Mt. Calvary",
+      "rank": "S",
+      "address": "1614 4th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=416,1365,795,37",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Stewart, Daniel, Jr.",
+      "masonic_codes": "7",
+      "lodge": "Warren",
+      "address": "1614 4th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=415,1401,765,33",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Stewart, David L.",
+      "masonic_codes": "1-1-3, S",
+      "lodge": "Social",
+      "chapter": "Mt. Vernon",
+      "commandery": "Gethsemane",
+      "rank": "S",
+      "address": "1601 12th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=414,1431,860,42",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Stewart, Paul R.",
+      "masonic_codes": "3-5-1, 32d C-M-R-S",
+      "lodge": "Widow's Son",
+      "chapter": "Prince Hall",
+      "commandery": "Simon",
+      "rank": "32° Past Senior Grand Warden Past High Priest Past Eminent Commander S",
+      "address": "429 1st",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=413,1467,941,39",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Stewart, R. B.",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "Freedman's Hospital.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=415,1505,799,33",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Stewart, Wm. E.",
+      "masonic_codes": "7",
+      "lodge": "Warren",
+      "address": "Anacostia.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=413,1540,633,32",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Stone, Chas. H.",
+      "masonic_codes": "6",
+      "lodge": "Meridian",
+      "address": "705 4th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=410,1576,634,30",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Strothers, Thos. D.",
+      "masonic_codes": "10",
+      "lodge": "John F. Cook",
+      "address": "1529 P nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=415,1608,717,32",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Stutely, Turner",
+      "masonic_codes": "3",
+      "lodge": "Widow's Son",
+      "address": "445 8th sw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=412,1643,631,32",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Summers, Arthur",
+      "masonic_codes": "5, G",
+      "lodge": "Eureka",
+      "rank": "Past Master",
+      "address": "10th and G",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=412,1677,933,32",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Sumner, D. A.",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "525 3d se.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=413,1712,553,32",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Taliaferro, Wm. A.",
+      "masonic_codes": "5, A",
+      "lodge": "Eureka",
+      "rank": "Past Grand Master",
+      "address": "421 4th se.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=413,1747,740,32",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Tancil, A. W.",
+      "masonic_codes": "9-7-4, 33d G",
+      "lodge": "Pythagoras",
+      "chapter": "St. John's",
+      "commandery": "Mt. Calvary",
+      "rank": "33° Past Master",
+      "address": "2111 Pa. ave. nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=408,1778,895,37",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Taylor, C. I.",
+      "masonic_codes": "6, G",
+      "lodge": "Meridian",
+      "rank": "Past Master",
+      "address": "211 C sw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=407,1814,613,32",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Taylor, Geo. P.",
+      "masonic_codes": "1",
+      "lodge": "Social",
+      "address": "50 Patterson ne.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=407,1846,739,38",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Taylor, Rev. J. A.",
+      "masonic_codes": "8",
+      "lodge": "Warren",
+      "address": "1453 Pierce Pl. nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=409,1883,854,30",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Taylor, James A.",
+      "masonic_codes": "15",
+      "lodge": "Chas. Datcher",
+      "address": "U. S. S. \"Sylph.\"",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=409,1914,817,36",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Taylor, John B.",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "Pullman Palace Car Co.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=407,1950,896,33",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Taylor, Matt. M.",
+      "masonic_codes": "15-5-1, G",
+      "lodge": "Chas. Datcher",
+      "chapter": "Prince Hall",
+      "commandery": "Simon",
+      "rank": "Past Master",
+      "address": "Navy Yard.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=409,1985,797,33",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Taylor, O. T.",
+      "masonic_codes": "9-11-2, M",
+      "lodge": "Pythagoras",
+      "chapter": "Keystone",
+      "commandery": "Henderson",
+      "rank": "Past High Priest",
+      "address": "1245 Austin st.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=407,2022,782,30",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Taylor, Wm. H.",
+      "masonic_codes": "5-11-2",
+      "lodge": "Eureka",
+      "chapter": "Keystone",
+      "commandery": "Henderson",
+      "address": "512 19th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=406,2054,738,30",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Terrell, Robt. H",
+      "masonic_codes": "14-7-4, 33d A-S",
+      "lodge": "Prince Hall",
+      "chapter": "St. John's",
+      "commandery": "Mt. Calvary",
+      "rank": "33° Past Grand Master S",
+      "address": "326 T nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=406,2088,879,32",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Thomas, H. A.",
+      "masonic_codes": "9-11-2",
+      "lodge": "Pythagoras",
+      "chapter": "Keystone",
+      "commandery": "Henderson",
+      "address": "Anacostia, D. C.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=407,2121,795,34",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Thomas, Jefferson",
+      "masonic_codes": "1-5-3, G-S",
+      "lodge": "Social",
+      "chapter": "Prince Hall",
+      "commandery": "Gethsemane",
+      "rank": "Past Master S",
+      "address": "1629 N. J. ave.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=407,2156,935,33",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Thomas, L. W.",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "Takoma Park, Md.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=405,2185,777,42",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Thomas, Perry",
+      "masonic_codes": "1-1-3",
+      "lodge": "Social",
+      "chapter": "Mt. Vernon",
+      "commandery": "Gethsemane",
+      "address": "410 3d sw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=407,2226,645,35",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Thomas, Peter",
+      "masonic_codes": "9, G",
+      "lodge": "Pythagoras",
+      "rank": "Past Master",
+      "address": "2440 Central ave. nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=404,2261,876,30",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Thomas, Spencer",
+      "masonic_codes": "4-7",
+      "lodge": "Hiram",
+      "chapter": "St. John's",
+      "address": "1239 9th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=407,2293,718,31",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Thomas, W. E.",
+      "masonic_codes": "3",
+      "lodge": "Widow's Son",
+      "address": "38 D se.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=403,2328,572,32",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Thomas, Wm. H.",
+      "masonic_codes": "10",
+      "lodge": "John F. Cook",
+      "address": "308 Q st. nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=408,2359,733,38",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Thompson, Chas. H.",
+      "masonic_codes": "12-2-3, G-S",
+      "lodge": "St. John's",
+      "chapter": "Union",
+      "commandery": "Gethsemane",
+      "rank": "Past Master S",
+      "address": "1123 1st nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=404,2396,938,34",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Thompson, D. B.",
+      "masonic_codes": "9",
+      "lodge": "Pythagoras",
+      "address": "2434 P nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=405,2425,665,41",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Thompson, James W.",
+      "masonic_codes": "15-5-1, G-S",
+      "lodge": "Chas. Datcher",
+      "chapter": "Prince Hall",
+      "commandery": "Simon",
+      "rank": "Past Master S",
+      "address": "344 C sw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=399,2450,909,86",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Thompson, R.",
+      "masonic_codes": "15",
+      "lodge": "Chas. Datcher",
+      "address": "624 F nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=403,2531,610,33",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Tibbs, Vivian",
+      "masonic_codes": "3-5-1, S",
+      "lodge": "Widow's Son",
+      "chapter": "Prince Hall",
+      "commandery": "Simon",
+      "rank": "S",
+      "address": "212 C se.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=401,2566,675,32",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Tignor, C. A.",
+      "masonic_codes": "9",
+      "lodge": "Pythagoras",
+      "address": "324 G sw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=402,2596,566,37",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Tignor, Ezekiel",
+      "masonic_codes": "9",
+      "lodge": "Pythagoras",
+      "address": "1213 E nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=402,2630,635,38",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Smith, John L.",
+      "masonic_codes": "15",
+      "lodge": "Chas. Datcher",
+      "address": "615 F nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=403,729,660,18",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    },
+    {
+      "name": "Thompson, Lewis",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "1714 P nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:104#xywh=387,2498,691,30",
+      "image": "0104_service:rbc:lcrbmrp:t8072:104.jpg"
+    }
+  ]
+}

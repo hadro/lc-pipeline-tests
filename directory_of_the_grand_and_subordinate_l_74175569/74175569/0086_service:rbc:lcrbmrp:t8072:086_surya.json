@@ -1,0 +1,666 @@
+{
+  "image_width": 1800,
+  "image_height": 2986,
+  "lines": [
+    {
+      "bbox": [
+        571,
+        464,
+        1200,
+        503
+      ],
+      "text": "DIRECTORY-Continued.",
+      "confidence": 0.9526
+    },
+    {
+      "bbox": [
+        415,
+        552,
+        1353,
+        591
+      ],
+      "text": "Brooks, Eugene, 5, 32d 1437 Pierce Place nw.",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        415,
+        589,
+        1153,
+        625
+      ],
+      "text": "Brooks, Rev. John H., 3, 435 2d sw.",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        417,
+        622,
+        1146,
+        660
+      ],
+      "text": "Brooks, John T., 7-11. 535 21st nw.",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        416,
+        658,
+        1024,
+        695
+      ],
+      "text": "Brooks, Wm. S., 3, 326 E sw.",
+      "confidence": 0.9843
+    },
+    {
+      "bbox": [
+        415,
+        696,
+        960,
+        728
+      ],
+      "text": "Brown, Chas., 3, 308 3d se.",
+      "confidence": 0.9796
+    },
+    {
+      "bbox": [
+        416,
+        728,
+        1311,
+        764
+      ],
+      "text": "Brown, Chas. H., 8-11, G, 1113 Pa. ave. nw.",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        415,
+        760,
+        1273,
+        802
+      ],
+      "text": "Brown, Ellis W., 5-7, 32d G, 924 24th nw.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        413,
+        793,
+        1110,
+        837
+      ],
+      "text": "Brown, E. P., 7-11-2, 511 20th nw.",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        415,
+        834,
+        1191,
+        867
+      ],
+      "text": "Brown, Geo. E., 1-1-3, S, 1009 3d nw.",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        415,
+        870,
+        1084,
+        900
+      ],
+      "text": "Brown, Henry, 6, 52 Pierce nw.",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        415,
+        905,
+        1267,
+        935
+      ],
+      "text": "Brown, Horace, 6-1-1, S, Deanwood, D. C.",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        417,
+        939,
+        1143,
+        971
+      ],
+      "text": "Brown, Howard D., 1-2, 105 D ne.",
+      "confidence": 0.9821
+    },
+    {
+      "bbox": [
+        414,
+        972,
+        1131,
+        1008
+      ],
+      "text": "Brown, J. R. F., 14, 1013 18th nw.",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        413,
+        1002,
+        1254,
+        1046
+      ],
+      "text": "Brown, J. T. C., 3-5-1, 32d R-S, 479 C sw.",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        414,
+        1044,
+        1150,
+        1076
+      ],
+      "text": "Brown, John H., 15, 71 Defrees nw.",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        414,
+        1080,
+        1270,
+        1110
+      ],
+      "text": "Brown, John R., 10-7, 32d G 947 25th nw.",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        415,
+        1114,
+        1066,
+        1146
+      ],
+      "text": "Brown, Lincoln, 14, 1440 T nw.",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        417,
+        1148,
+        1170,
+        1180
+      ],
+      "text": "Brown, R. R., 8, 1011 N. J. ave. nw.",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        418,
+        1181,
+        1143,
+        1216
+      ],
+      "text": "Brown, Robt. W., 9, 1737 11th nw.",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        417,
+        1218,
+        1111,
+        1251
+      ],
+      "text": "Brown, Shad D., 14, 32d 24 O nw.",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        416,
+        1253,
+        1129,
+        1285
+      ],
+      "text": "Brown, Thos. P., 15-5-1, 829 2d sw.",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        415,
+        1290,
+        1060,
+        1319
+      ],
+      "text": "Brown, Wm., 4, 1208 25th nw.",
+      "confidence": 0.9899
+    },
+    {
+      "bbox": [
+        414,
+        1323,
+        1311,
+        1355
+      ],
+      "text": "Brown, Wm. Knox, 6-1-3, G-M-S, 205 L nw.",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        415,
+        1356,
+        1054,
+        1391
+      ],
+      "text": "Brown, Wm. T., 15, 223 H sw.",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        415,
+        1389,
+        1060,
+        1426
+      ],
+      "text": "Brown, Wm. T., 7, 2827 M nw.",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        414,
+        1427,
+        1167,
+        1459
+      ],
+      "text": "Bruce, J. Carl., 14, 347 Pa. ave. nw.",
+      "confidence": 0.982
+    },
+    {
+      "bbox": [
+        414,
+        1463,
+        1129,
+        1492
+      ],
+      "text": "Bryant, J. E., 5, 1943 Vt. ave. nw.",
+      "confidence": 0.9871
+    },
+    {
+      "bbox": [
+        415,
+        1497,
+        1308,
+        1526
+      ],
+      "text": "Buchanan, Chas. T., 1-5-1, 32d 1009 19th nw.",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        415,
+        1532,
+        1185,
+        1561
+      ],
+      "text": "Burgess, James, 4, Georgetown, D. C.",
+      "confidence": 0.967
+    },
+    {
+      "bbox": [
+        412,
+        1565,
+        1168,
+        1599
+      ],
+      "text": "Burless, Jos. H., 7-11-2, Rosslyn, Va.",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        414,
+        1601,
+        1024,
+        1633
+      ],
+      "text": "Burnett, Edw., 9, 713 1st sw.",
+      "confidence": 0.9871
+    },
+    {
+      "bbox": [
+        414,
+        1637,
+        1185,
+        1667
+      ],
+      "text": "Burnett, H. J., 15, Freedman's Hospl.",
+      "confidence": 0.9837
+    },
+    {
+      "bbox": [
+        415,
+        1672,
+        1348,
+        1701
+      ],
+      "text": "Burnett, Simon C., 7-11-2, G-S, 1346 27th nw.",
+      "confidence": 0.9836
+    },
+    {
+      "bbox": [
+        415,
+        1707,
+        1312,
+        1735
+      ],
+      "text": "Burr, Brooks, 10-7-1, 33d C-M-O-S, 324 G se.",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        414,
+        1740,
+        1027,
+        1772
+      ],
+      "text": "Bush, Samuel, 10, 2010 M nw.",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        413,
+        1773,
+        1348,
+        1809
+      ],
+      "text": "Butler, John A., 4-11-2, D, 1121 Connors Ct.",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        415,
+        1809,
+        1086,
+        1843
+      ],
+      "text": "Cabaniss, G. W., 14, 1906 K nw.",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        413,
+        1843,
+        1101,
+        1878
+      ],
+      "text": "Cabaniss, I. N., 14, 920 11th nw.",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        415,
+        1878,
+        1065,
+        1911
+      ],
+      "text": "Callaway, R. W., 5, 2124 F nw.",
+      "confidence": 0.9859
+    },
+    {
+      "bbox": [
+        415,
+        1910,
+        1086,
+        1950
+      ],
+      "text": "Campbell, Geo. N., 3, 423 3d sw.",
+      "confidence": 0.9854
+    },
+    {
+      "bbox": [
+        417,
+        1948,
+        1186,
+        1982
+      ],
+      "text": "Campbell, John H., 1, 32d 458 1st sw.",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        415,
+        1983,
+        1048,
+        2016
+      ],
+      "text": "Campbell, R. J., 9, 234 2d nw.",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        415,
+        2019,
+        1101,
+        2049
+      ],
+      "text": "Campbell, Thomas, 15, 326 H sw.",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        414,
+        2054,
+        1348,
+        2084
+      ],
+      "text": "Cardozo, F. J., 14-7-4, 32d D-R-S, 2d and C sw.",
+      "confidence": 0.9762
+    },
+    {
+      "bbox": [
+        415,
+        2090,
+        1209,
+        2119
+      ],
+      "text": "Cardozo, Harry, 14, Freedman's Hospl.",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        415,
+        2124,
+        1167,
+        2154
+      ],
+      "text": "Carmine, Geo. D., 15-7-4, 425 1st sw.",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        413,
+        2154,
+        1228,
+        2194
+      ],
+      "text": "Carroll, Patrick, 7, 443 Washington nw.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        414,
+        2192,
+        1074,
+        2224
+      ],
+      "text": "Carroll, Rev. R. A., 15, Hilsdale.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        414,
+        2227,
+        1098,
+        2260
+      ],
+      "text": "Carroll, Thomas, 12, Bladensburg.",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        415,
+        2260,
+        1348,
+        2296
+      ],
+      "text": "Carson, Perry H., 10-7-4, 33d G-M-R, 934 3d",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        415,
+        2297,
+        1248,
+        2329
+      ],
+      "text": "Carson, Perry H., Jr., 10, 61 Defrees nw.",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        415,
+        2331,
+        1104,
+        2364
+      ],
+      "text": "Carter, Arthur, 15, Tennallytown.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        417,
+        2366,
+        1105,
+        2398
+      ],
+      "text": "Carter, Andrew J., 15, 1826 E nw.",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        417,
+        2396,
+        1186,
+        2433
+      ],
+      "text": "Carter, Charles, 6-1-3, S, 1033 3d nw.",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        415,
+        2435,
+        1054,
+        2468
+      ],
+      "text": "Carter, Charles, 12, S, 38 D se.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        415,
+        2469,
+        1011,
+        2503
+      ],
+      "text": "Carter, E. F., 10, 1827 R nw.",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        415,
+        2504,
+        1104,
+        2536
+      ],
+      "text": "Carter, Geo. A., 12, 308 12th nw.",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        415,
+        2539,
+        1228,
+        2572
+      ],
+      "text": "Carter, Robf. R., 7-11-2, 1612 Valley st.",
+      "confidence": 0.9822
+    },
+    {
+      "bbox": [
+        414,
+        2571,
+        1087,
+        2610
+      ],
+      "text": "Carter, Silas F., 7, 1614 4th nw.",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        415,
+        2605,
+        1173,
+        2643
+      ],
+      "text": "Carter, Thomas H., 14-7, 1713 R nw.",
+      "confidence": 0.9868
+    },
+    {
+      "bbox": [
+        415,
+        2638,
+        1342,
+        2678
+      ],
+      "text": "Carter, Wm. A., 7-11-2, G, 1223 Potomac nw.",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        415,
+        2676,
+        1090,
+        2712
+      ],
+      "text": "Carter, Wm. H., 9, 918 11th nw.",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        415,
+        2709,
+        1126,
+        2749
+      ],
+      "text": "Carter, Wm. H., 15-5-2, 511 2d sw.",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        856,
+        2792,
+        897,
+        2814
+      ],
+      "text": "11",
+      "confidence": 0.9402
+    },
+    {
+      "bbox": [
+        424,
+        2907,
+        550,
+        2922
+      ],
+      "text": "the first the first section of the",
+      "confidence": 0.1315
+    }
+  ]
+}

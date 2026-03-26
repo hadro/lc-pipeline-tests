@@ -1,0 +1,226 @@
+{
+  "image_width": 1903,
+  "image_height": 1560,
+  "lines": [
+    {
+      "bbox": [
+        974,
+        159,
+        1755,
+        225
+      ],
+      "text": "Jesus étaut né à Bothé hun velle",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        991,
+        208,
+        1800,
+        334
+      ],
+      "text": "de fudre, au temps du noi Hérode, des magas d'Orient arrivent à",
+      "confidence": 0.8554
+    },
+    {
+      "bbox": [
+        986,
+        337,
+        1209,
+        369
+      ],
+      "text": "Semsaleur.",
+      "confidence": 0.3458
+    },
+    {
+      "bbox": [
+        966,
+        366,
+        1710,
+        423
+      ],
+      "text": "2. of dirent, an où est les not des",
+      "confidence": 0.4891
+    },
+    {
+      "bbox": [
+        988,
+        421,
+        1778,
+        474
+      ],
+      "text": "Juipo qui est me, car nous avous m",
+      "confidence": 0.7233
+    },
+    {
+      "bbox": [
+        988,
+        472,
+        1773,
+        522
+      ],
+      "text": "Sou é toles en orient nous sommes",
+      "confidence": 0.7501
+    },
+    {
+      "bbox": [
+        985,
+        522,
+        1494,
+        575
+      ],
+      "text": "vers Venus l'adorer.",
+      "confidence": 0.5879
+    },
+    {
+      "bbox": [
+        985,
+        611,
+        1705,
+        673
+      ],
+      "text": "3. Le noi Hérode l'ayant appris,",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        1046,
+        668,
+        1737,
+        725
+      ],
+      "text": "en feet trouble et lout gerusaleur",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        1053,
+        732,
+        1271,
+        773
+      ],
+      "text": "avic lui.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        990,
+        774,
+        1829,
+        827
+      ],
+      "text": "4. Et ayout assemble tout les prince cepana",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        1068,
+        828,
+        1759,
+        878
+      ],
+      "text": "sacréficateurs et les sometes, els",
+      "confidence": 0.7077
+    },
+    {
+      "bbox": [
+        1064,
+        875,
+        1782,
+        933
+      ],
+      "text": "Enforma du peuple il s'cinforma",
+      "confidence": 0.8659
+    },
+    {
+      "bbox": [
+        1066,
+        928,
+        1720,
+        981
+      ],
+      "text": "de d'eux où le Chrests devait",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        1058,
+        988,
+        1367,
+        1026
+      ],
+      "text": "hatre naire",
+      "confidence": 0.5381
+    },
+    {
+      "bbox": [
+        1004,
+        1026,
+        1659,
+        1076
+      ],
+      "text": "5. It ils bue direct, C'est a",
+      "confidence": 0.9831
+    },
+    {
+      "bbox": [
+        1045,
+        1075,
+        1783,
+        1127
+      ],
+      "text": "Bethlehem, ville de Judée, lar Car",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        1059,
+        1126,
+        1807,
+        1181
+      ],
+      "text": "Ett ainsi que l'a écret un prophète:",
+      "confidence": 0.2904
+    },
+    {
+      "bbox": [
+        1008,
+        1231,
+        1777,
+        1281
+      ],
+      "text": "o. Et toi Bathlehem, terre de Juda un",
+      "confidence": 0.4899
+    },
+    {
+      "bbox": [
+        1055,
+        1275,
+        1681,
+        1327
+      ],
+      "text": "n'es pas la moindre entre les",
+      "confidence": 0.9733
+    },
+    {
+      "bbox": [
+        1065,
+        1321,
+        1787,
+        1384
+      ],
+      "text": "prencepals villes de juda: Car c'est",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        1069,
+        1387,
+        1198,
+        1424
+      ],
+      "text": "de toi",
+      "confidence": 0.9942
+    }
+  ]
+}

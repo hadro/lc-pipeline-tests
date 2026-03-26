@@ -1,0 +1,420 @@
+{
+  "image": "0083_service:rbc:lcrbmrp:t8072:083.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083",
+  "canvas_width": 1908,
+  "canvas_height": 3009,
+  "surya_median_confidence": 0.9836,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        480,
+        500,
+        1591,
+        536
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=480,500,1111,36",
+      "confidence": "line",
+      "gemini_text": "THE RELIABLE EMPLOYMENT BUREAU.",
+      "surya_confidence": 0.9949
+    },
+    {
+      "bbox": [
+        537,
+        590,
+        1521,
+        634
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=537,590,984,44",
+      "confidence": "line",
+      "gemini_text": "1211 10th St., N. W. 'Phone, Main 2272-y.",
+      "surya_confidence": 0.9894
+    },
+    {
+      "bbox": [
+        362,
+        681,
+        1707,
+        721
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=362,681,1345,40",
+      "confidence": "line",
+      "gemini_text": "Exchange for Trained Help, every capacity. City or",
+      "surya_confidence": 0.9824
+    },
+    {
+      "bbox": [
+        470,
+        749,
+        1591,
+        788
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=470,749,1121,39",
+      "confidence": "line",
+      "gemini_text": "resorts. Profitable Situations. Prompt Service.",
+      "surya_confidence": 0.9983
+    },
+    {
+      "bbox": [
+        664,
+        828,
+        1407,
+        867
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=664,828,743,39",
+      "confidence": "line",
+      "gemini_text": "R. K. WASHINGTON, Prop'r,",
+      "surya_confidence": 0.9941
+    },
+    {
+      "bbox": [
+        860,
+        908,
+        1200,
+        941
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=860,908,340,33",
+      "confidence": "line",
+      "gemini_text": "C. C. BURKE.",
+      "surya_confidence": 0.9754
+    },
+    {
+      "bbox": [
+        710,
+        1007,
+        1356,
+        1046
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=710,1007,646,39",
+      "confidence": "line",
+      "gemini_text": "Antiseptic Shaving Parlors.",
+      "surya_confidence": 0.9525
+    },
+    {
+      "bbox": [
+        802,
+        1108,
+        1259,
+        1147
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=802,1108,457,39",
+      "confidence": "line",
+      "gemini_text": "Expert Hair Cutter.",
+      "surya_confidence": 0.8934
+    },
+    {
+      "bbox": [
+        403,
+        1209,
+        807,
+        1245
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=403,1209,404,36",
+      "confidence": "line",
+      "gemini_text": "1400 S St., N. W. Washington, D. C.",
+      "surya_confidence": 0.9911
+    },
+    {
+      "bbox": [
+        828,
+        1288,
+        1232,
+        1323
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=828,1288,404,35",
+      "confidence": "line",
+      "gemini_text": "WATTS & BRO.",
+      "surya_confidence": 0.9351
+    },
+    {
+      "bbox": [
+        760,
+        1344,
+        1230,
+        1381
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=760,1344,470,37",
+      "confidence": "line",
+      "gemini_text": "'Phone Main 1006-y.",
+      "surya_confidence": 0.9311
+    },
+    {
+      "bbox": [
+        670,
+        1400,
+        1413,
+        1435
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=670,1400,743,35",
+      "confidence": "line",
+      "gemini_text": "Wholesale and Retail Dealers in",
+      "surya_confidence": 0.9703
+    },
+    {
+      "bbox": [
+        783,
+        1457,
+        1283,
+        1494
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=783,1457,500,37",
+      "confidence": "line",
+      "gemini_text": "Coal, Wood and Coke.",
+      "surya_confidence": 0.9924
+    },
+    {
+      "bbox": [
+        492,
+        1512,
+        1572,
+        1551
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=492,1512,1080,39",
+      "confidence": "line",
+      "gemini_text": "Orders received for large and small quantities.",
+      "surya_confidence": 0.9922
+    },
+    {
+      "bbox": [
+        577,
+        1568,
+        1494,
+        1606
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=577,1568,917,38",
+      "confidence": "line",
+      "gemini_text": "Delivery made to any section of the city.",
+      "surya_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        775,
+        1625,
+        1295,
+        1662
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=775,1625,520,37",
+      "confidence": "line",
+      "gemini_text": "Yard: 212 C St., S. W.",
+      "surya_confidence": 0.9831
+    },
+    {
+      "bbox": [
+        761,
+        1699,
+        1302,
+        1739
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=761,1699,541,40",
+      "confidence": "line",
+      "gemini_text": "WILLIAM E. GRIEB.",
+      "surya_confidence": 0.9621
+    },
+    {
+      "bbox": [
+        825,
+        1835,
+        1237,
+        1871
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=825,1835,412,36",
+      "confidence": "line",
+      "gemini_text": "RESTAURANT.",
+      "surya_confidence": 0.9198
+    },
+    {
+      "bbox": [
+        391,
+        1969,
+        942,
+        2004
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=391,1969,551,35",
+      "confidence": "line",
+      "gemini_text": "No. 920 8th Street S. E. Washington, D. C.",
+      "surya_confidence": 0.9921
+    },
+    {
+      "bbox": [
+        491,
+        2047,
+        1211,
+        2084
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=491,2047,720,37",
+      "confidence": "line",
+      "gemini_text": "INVINCIBLE ORCHESTRA,",
+      "surya_confidence": 0.9644
+    },
+    {
+      "bbox": [
+        650,
+        2102,
+        1369,
+        2142
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=650,2102,719,40",
+      "confidence": "line",
+      "gemini_text": "EDWARD AMBLER, Leader.",
+      "surya_confidence": 0.9422
+    },
+    {
+      "bbox": [
+        847,
+        2159,
+        1215,
+        2199
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=847,2159,368,40",
+      "confidence": "line",
+      "gemini_text": "(Dance ) Incorporated. ( Concert. )",
+      "surya_confidence": 0.9815
+    },
+    {
+      "bbox": [
+        542,
+        2227,
+        1106,
+        2264
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=542,2227,564,37",
+      "confidence": "line",
+      "gemini_text": "Office, 1403 P St., N. W.",
+      "surya_confidence": 0.9944
+    },
+    {
+      "bbox": [
+        670,
+        2273,
+        1314,
+        2310
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=670,2273,644,37",
+      "confidence": "line",
+      "gemini_text": "Residence, 1507-15 St. N. W.",
+      "surya_confidence": 0.982
+    },
+    {
+      "bbox": [
+        449,
+        2328,
+        884,
+        2363
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=449,2328,435,35",
+      "confidence": "line",
+      "gemini_text": "First class service. Terms reasonable.",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        665,
+        2383,
+        1401,
+        2424
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=665,2383,736,41",
+      "confidence": "line",
+      "gemini_text": "All orders promptly attended to.",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        365,
+        2460,
+        715,
+        2495
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=365,2460,350,35",
+      "confidence": "line",
+      "gemini_text": "J. R. MOORE. JOHN PRIOLEAU.",
+      "surya_confidence": 0.9863
+    },
+    {
+      "bbox": [
+        737,
+        2515,
+        1327,
+        2549
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=737,2515,590,34",
+      "confidence": "line",
+      "gemini_text": "MOORE & PRIOLEAU.",
+      "surya_confidence": 0.9263
+    },
+    {
+      "bbox": [
+        645,
+        2570,
+        1419,
+        2604
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=645,2570,774,34",
+      "confidence": "line",
+      "gemini_text": "SPARTA BUFFET AND CAFE.",
+      "surya_confidence": 0.9573
+    },
+    {
+      "bbox": [
+        359,
+        2626,
+        1706,
+        2667
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=359,2626,1347,41",
+      "confidence": "line",
+      "gemini_text": "Fine wines, liquors and cigars.. Hot free lunch every day.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        580,
+        2670,
+        1464,
+        2709
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=580,2670,884,39",
+      "confidence": "line",
+      "gemini_text": "Ladies will receive special attention in",
+      "surya_confidence": 0.9911
+    },
+    {
+      "bbox": [
+        774,
+        2717,
+        1302,
+        2755
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=774,2717,528,38",
+      "confidence": "line",
+      "gemini_text": "Dining-rooms upstairs.",
+      "surya_confidence": 0.9594
+    },
+    {
+      "bbox": [
+        403,
+        2776,
+        971,
+        2812
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=403,2776,568,36",
+      "confidence": "line",
+      "gemini_text": "1216 Penna. Ave., N. W. Washington, D. C.",
+      "surya_confidence": 0.9766
+    },
+    {
+      "bbox": [
+        1011,
+        2820,
+        1062,
+        2850
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:083#xywh=1011,2820,51,30",
+      "confidence": "line",
+      "gemini_text": "74",
+      "surya_confidence": 0.9587
+    }
+  ],
+  "unmatched_gemini": []
+}

@@ -1,0 +1,316 @@
+{
+  "image_width": 1820,
+  "image_height": 2902,
+  "lines": [
+    {
+      "bbox": [
+        527,
+        345,
+        1483,
+        406
+      ],
+      "text": "eMost Worshipful Grand Lodgee",
+      "confidence": 0.8958
+    },
+    {
+      "bbox": [
+        744,
+        544,
+        1261,
+        579
+      ],
+      "text": "GRAND OFFICERS.",
+      "confidence": 0.9044
+    },
+    {
+      "bbox": [
+        332,
+        632,
+        1683,
+        668
+      ],
+      "text": "M. W. Wm. H. Judd Malvin ...... Grand Master",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        335,
+        700,
+        1685,
+        739
+      ],
+      "text": "R. W. John T. Layton ..... Deputy Grand Master",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        400,
+        765,
+        439,
+        785
+      ],
+      "text": "66",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        488,
+        768,
+        1685,
+        803
+      ],
+      "text": "Paul R. Stewart..... Senior Grand Warden",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        400,
+        831,
+        441,
+        851
+      ],
+      "text": "66",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        488,
+        835,
+        1685,
+        871
+      ],
+      "text": "J. Nelson Lomax.....Junior Grand Warden",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        401,
+        898,
+        441,
+        918
+      ],
+      "text": "66",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        488,
+        900,
+        1688,
+        942
+      ],
+      "text": "Henry Coleman......Grand Treasurer",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        400,
+        963,
+        439,
+        987
+      ],
+      "text": "66",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        491,
+        967,
+        1691,
+        1009
+      ],
+      "text": "Wm. H. Myers......Grand Secretary",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        342,
+        1029,
+        1689,
+        1077
+      ],
+      "text": "W. Rev. James H. Hill......Grand Chaplain",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        409,
+        1102,
+        1685,
+        1140
+      ],
+      "text": "John W. Freeman......Grand Marshal",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        357,
+        1168,
+        1688,
+        1207
+      ],
+      "text": "\"James L. Johnson...... Gr. Lecturer and Visitor",
+      "confidence": 0.9732
+    },
+    {
+      "bbox": [
+        360,
+        1230,
+        1689,
+        1278
+      ],
+      "text": "\" Charles D. Freeman......Senior Grand Deacon",
+      "confidence": 0.9755
+    },
+    {
+      "bbox": [
+        362,
+        1300,
+        1688,
+        1344
+      ],
+      "text": "\"William A. Clark.....Junior Grand Deacon",
+      "confidence": 0.9701
+    },
+    {
+      "bbox": [
+        360,
+        1363,
+        1688,
+        1416
+      ],
+      "text": "\"A. W. Scott......Senior Grand Steward",
+      "confidence": 0.9876
+    },
+    {
+      "bbox": [
+        360,
+        1431,
+        1688,
+        1479
+      ],
+      "text": "\" Joseph N. Lawson ......Junior Grand Steward",
+      "confidence": 0.9714
+    },
+    {
+      "bbox": [
+        362,
+        1495,
+        1689,
+        1546
+      ],
+      "text": "\"Wm. Knox Brown..... Grand Sword Bearer",
+      "confidence": 0.5955
+    },
+    {
+      "bbox": [
+        363,
+        1568,
+        1691,
+        1609
+      ],
+      "text": "\"Wilson Smith......Grand Standard Bearer",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        362,
+        1629,
+        1691,
+        1677
+      ],
+      "text": "\" Wm. H. Grimshaw ...... Grand Librarian",
+      "confidence": 0.9643
+    },
+    {
+      "bbox": [
+        362,
+        1698,
+        1694,
+        1747
+      ],
+      "text": "\" Samuel T. Craig ...... Grand Pursuivant",
+      "confidence": 0.9795
+    },
+    {
+      "bbox": [
+        365,
+        1769,
+        1694,
+        1810
+      ],
+      "text": "\" Robert H. Ford .......Grand Tiler",
+      "confidence": 0.9663
+    },
+    {
+      "bbox": [
+        723,
+        1928,
+        1313,
+        1963
+      ],
+      "text": "Grand Master's Address:",
+      "confidence": 0.8779
+    },
+    {
+      "bbox": [
+        343,
+        2009,
+        1688,
+        2061
+      ],
+      "text": "M. W. Wm. H. Judd Malvin ..... 1018 R St. N. W.",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        676,
+        2197,
+        1328,
+        2234
+      ],
+      "text": "Grand Secretary's Address:",
+      "confidence": 0.8811
+    },
+    {
+      "bbox": [
+        342,
+        2277,
+        1691,
+        2324
+      ],
+      "text": "R. W. Wm. H. Myers ....................................",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        594,
+        2461,
+        1430,
+        2495
+      ],
+      "text": "Address of Chairman of Committee on",
+      "confidence": 0.9389
+    },
+    {
+      "bbox": [
+        735,
+        2518,
+        1301,
+        2556
+      ],
+      "text": "Foreign Correspondence:",
+      "confidence": 0.8937
+    },
+    {
+      "bbox": [
+        346,
+        2600,
+        1691,
+        2652
+      ],
+      "text": "P. G. M., S. Roger Watts, M. D..................................",
+      "confidence": 0.9939
+    }
+  ]
+}

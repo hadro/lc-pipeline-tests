@@ -1,0 +1,316 @@
+{
+  "image_width": 1824,
+  "image_height": 2910,
+  "lines": [
+    {
+      "bbox": [
+        851,
+        341,
+        1219,
+        392
+      ],
+      "text": "MEETINGS",
+      "confidence": 0.8645
+    },
+    {
+      "bbox": [
+        932,
+        442,
+        1138,
+        472
+      ],
+      "text": "HELD AT",
+      "confidence": 0.9074
+    },
+    {
+      "bbox": [
+        579,
+        519,
+        1498,
+        598
+      ],
+      "text": "MASONIC TEMPLE,",
+      "confidence": 0.9791
+    },
+    {
+      "bbox": [
+        468,
+        626,
+        1607,
+        686
+      ],
+      "text": "Corner of Fifth Street and Virginia Avenue, S. E.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        736,
+        805,
+        1347,
+        856
+      ],
+      "text": "M. W. GRAND LODGE:",
+      "confidence": 0.9734
+    },
+    {
+      "bbox": [
+        365,
+        888,
+        1723,
+        959
+      ],
+      "text": "Annual Communication, Second Wednesday of December;",
+      "confidence": 0.9807
+    },
+    {
+      "bbox": [
+        366,
+        943,
+        1725,
+        1015
+      ],
+      "text": "Quarterly Communications, Second Wednesdays of March,",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        801,
+        995,
+        1284,
+        1051
+      ],
+      "text": "June and September.",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        373,
+        1144,
+        789,
+        1185
+      ],
+      "text": "FIRST MONDAYS-",
+      "confidence": 0.9542
+    },
+    {
+      "bbox": [
+        505,
+        1185,
+        1244,
+        1245
+      ],
+      "text": "Felix Lodge, No. 3, F. A. A. M.",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        374,
+        1288,
+        842,
+        1330
+      ],
+      "text": "SECOND MONDAYS-",
+      "confidence": 0.9596
+    },
+    {
+      "bbox": [
+        506,
+        1333,
+        1300,
+        1388
+      ],
+      "text": "Eureka Lodge, No. 5, F. A. A. M.",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        508,
+        1379,
+        1279,
+        1433
+      ],
+      "text": "Zurubbabel Court, No. 1, H. of J.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        377,
+        1478,
+        812,
+        1518
+      ],
+      "text": "THIRD MONDAYS-",
+      "confidence": 0.9758
+    },
+    {
+      "bbox": [
+        506,
+        1523,
+        1293,
+        1579
+      ],
+      "text": "Hiram Lodge, No. 4, F. A. A. M.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        511,
+        1578,
+        1440,
+        1630
+      ],
+      "text": "Queen of Sheba Chapter, No. 3, O. E. S.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        377,
+        1677,
+        844,
+        1719
+      ],
+      "text": "FOURTH MONDAYS-",
+      "confidence": 0.9619
+    },
+    {
+      "bbox": [
+        511,
+        1723,
+        1377,
+        1776
+      ],
+      "text": "St. John's Lodge, No. 12, F. A. A. M.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        512,
+        1770,
+        1091,
+        1823
+      ],
+      "text": "A. A. S. Rite Consistory.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        380,
+        1870,
+        828,
+        1907
+      ],
+      "text": "FIRST TUESDAYS-",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        511,
+        1912,
+        1327,
+        1965
+      ],
+      "text": "Meridian Lodge, No. 6, F. A. A. M.",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        385,
+        2011,
+        862,
+        2052
+      ],
+      "text": "SECOND TUESDAYS-",
+      "confidence": 0.9588
+    },
+    {
+      "bbox": [
+        516,
+        2056,
+        1449,
+        2111
+      ],
+      "text": "John F. Cook Lodge, No. 10, F. A. A. M.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        385,
+        2158,
+        830,
+        2196
+      ],
+      "text": "THIRD TUESDAYS-",
+      "confidence": 0.9782
+    },
+    {
+      "bbox": [
+        517,
+        2201,
+        1402,
+        2254
+      ],
+      "text": "Pythagoras Lodge, No. 9, F. A. A. M.",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        385,
+        2301,
+        865,
+        2339
+      ],
+      "text": "FOURTH TUESDAYS-",
+      "confidence": 0.9616
+    },
+    {
+      "bbox": [
+        519,
+        2350,
+        1262,
+        2397
+      ],
+      "text": "Keystone R. A. Chapter, No. 11.",
+      "confidence": 0.9852
+    },
+    {
+      "bbox": [
+        385,
+        2445,
+        895,
+        2481
+      ],
+      "text": "FIRST WEDNESDAYS-",
+      "confidence": 0.9558
+    },
+    {
+      "bbox": [
+        521,
+        2493,
+        1316,
+        2540
+      ],
+      "text": "Warren Lodge, No. 8, F. A. A. M.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        520,
+        2547,
+        1310,
+        2597
+      ],
+      "text": "Prince Hall R. A. Chapter, No. 5.",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        1032,
+        2640,
+        1092,
+        2673
+      ],
+      "text": "19",
+      "confidence": 0.9052
+    }
+  ]
+}

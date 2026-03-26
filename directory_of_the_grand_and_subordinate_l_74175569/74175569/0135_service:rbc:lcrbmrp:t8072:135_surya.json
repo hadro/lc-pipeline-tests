@@ -1,0 +1,356 @@
+{
+  "image_width": 1871,
+  "image_height": 2982,
+  "lines": [
+    {
+      "bbox": [
+        1250,
+        352,
+        1406,
+        445
+      ],
+      "text": "Grand",
+      "confidence": 0.9509
+    },
+    {
+      "bbox": [
+        1316,
+        508,
+        1543,
+        611
+      ],
+      "text": "Masonic",
+      "confidence": 0.9764
+    },
+    {
+      "bbox": [
+        1386,
+        674,
+        1584,
+        791
+      ],
+      "text": "Charity",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        1448,
+        838,
+        1701,
+        953
+      ],
+      "text": "Reception",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        1250,
+        1055,
+        1637,
+        1106
+      ],
+      "text": "At the Great",
+      "confidence": 0.9779
+    },
+    {
+      "bbox": [
+        1373,
+        1130,
+        1697,
+        1183
+      ],
+      "text": "Convention",
+      "confidence": 0.9105
+    },
+    {
+      "bbox": [
+        1481,
+        1211,
+        1637,
+        1265
+      ],
+      "text": "Hall,",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        1255,
+        1334,
+        1705,
+        1387
+      ],
+      "text": "Cor. 5th and L",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        1321,
+        1409,
+        1639,
+        1466
+      ],
+      "text": "Sts. N. W.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        350,
+        1529,
+        1708,
+        1621
+      ],
+      "text": "Wednesday, Nov. 23, 1904",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        356,
+        1649,
+        1709,
+        1693
+      ],
+      "text": "\"YOUR most exalted and sacred duty is to assist the",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        488,
+        1698,
+        1044,
+        1735
+      ],
+      "text": "Widows and Orphans.\"",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        353,
+        1748,
+        1701,
+        1795
+      ],
+      "text": "\"Join us and let this be the greatest success of our lives.\"",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        444,
+        1839,
+        1716,
+        1883
+      ],
+      "text": "Secure tickets from some member of the committee and",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        352,
+        1885,
+        1439,
+        1926
+      ],
+      "text": "commence to do YOUR share of this great work.",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        845,
+        1964,
+        1206,
+        2000
+      ],
+      "text": "COMMITTEE.",
+      "confidence": 0.9622
+    },
+    {
+      "bbox": [
+        355,
+        2021,
+        993,
+        2061
+      ],
+      "text": "John P. Turner, Chairman.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        355,
+        2063,
+        1271,
+        2107
+      ],
+      "text": "George S. Newman, 1st Vice Chairman.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        356,
+        2109,
+        1302,
+        2149
+      ],
+      "text": "Mrs. Julia A Harris, 2d Vice-Chairman.",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        358,
+        2155,
+        1312,
+        2192
+      ],
+      "text": "Mrs. Mary A. Parker, 3d Vice-Chairman.",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        358,
+        2198,
+        1079,
+        2240
+      ],
+      "text": "George M. Webster, Treasurer.",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        358,
+        2238,
+        1551,
+        2287
+      ],
+      "text": "James O. Bampfield, Secretary, 1119 V Street N. W.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        358,
+        2288,
+        1331,
+        2327
+      ],
+      "text": "W. H. Judd Malvin, M. W. Grand Master.",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        356,
+        2332,
+        1419,
+        2374
+      ],
+      "text": "Frank H. Cozzens, M. Ex. Grand High Priest.",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        359,
+        2376,
+        1450,
+        2418
+      ],
+      "text": "George S. Newman, R. Em. Grand Commander.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        358,
+        2424,
+        1089,
+        2460
+      ],
+      "text": "Arthur Simmons, Ill. Potentate.",
+      "confidence": 0.9857
+    },
+    {
+      "bbox": [
+        358,
+        2463,
+        1503,
+        2507
+      ],
+      "text": "Thornton A. Jackson, 33°, M P. S. Grand Cond'r.",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        358,
+        2507,
+        1551,
+        2551
+      ],
+      "text": "Mrs. Elizabeth W. Marshall, G. R. Matron O. E. S.",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        358,
+        2558,
+        827,
+        2594
+      ],
+      "text": "Mrs. Nellie Morgan.",
+      "confidence": 0.9888
+    },
+    {
+      "bbox": [
+        355,
+        2602,
+        749,
+        2636
+      ],
+      "text": "Mrs. H C. Irvin.",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        357,
+        2646,
+        749,
+        2681
+      ],
+      "text": "E. M. Dickerson.",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        355,
+        2689,
+        734,
+        2726
+      ],
+      "text": "Fred A. Fowler.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        356,
+        2733,
+        898,
+        2770
+      ],
+      "text": "Nelson E Weatherless.",
+      "confidence": 0.9813
+    },
+    {
+      "bbox": [
+        353,
+        2780,
+        633,
+        2814
+      ],
+      "text": "H C. Irvin.",
+      "confidence": 0.9877
+    },
+    {
+      "bbox": [
+        358,
+        2825,
+        681,
+        2862
+      ],
+      "text": "Joseph Minor.",
+      "confidence": 0.9864
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "image_width": 1892,
+  "image_height": 3012,
+  "lines": [
+    {
+      "bbox": [
+        428,
+        366,
+        581,
+        400
+      ],
+      "text": "Office:",
+      "confidence": 0.9692
+    },
+    {
+      "bbox": [
+        1324,
+        367,
+        1482,
+        402
+      ],
+      "text": "Stand:",
+      "confidence": 0.9319
+    },
+    {
+      "bbox": [
+        312,
+        411,
+        700,
+        450
+      ],
+      "text": "211 K St, N. W.",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        1116,
+        411,
+        1657,
+        450
+      ],
+      "text": "7th and K Sts., N. W.",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        715,
+        501,
+        1264,
+        536
+      ],
+      "text": "ROBERT HERBERT.",
+      "confidence": 0.9652
+    },
+    {
+      "bbox": [
+        501,
+        589,
+        1513,
+        624
+      ],
+      "text": "Furniture and Pianos moved with care to all",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        794,
+        646,
+        1180,
+        684
+      ],
+      "text": "parts of the city.",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        558,
+        714,
+        1420,
+        753
+      ],
+      "text": "Orders by mail promptly attended to.",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        804,
+        797,
+        1174,
+        831
+      ],
+      "text": "THE BRANCH",
+      "confidence": 0.9705
+    },
+    {
+      "bbox": [
+        567,
+        864,
+        1404,
+        903
+      ],
+      "text": "BALTIMORE SHIRT FACTORY,",
+      "confidence": 0.9334
+    },
+    {
+      "bbox": [
+        660,
+        933,
+        1316,
+        970
+      ],
+      "text": "931 Ninth Street, Northwest,",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        774,
+        1000,
+        1199,
+        1037
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.985
+    },
+    {
+      "bbox": [
+        310,
+        1085,
+        720,
+        1120
+      ],
+      "text": "S. B. ELLERY.",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        1018,
+        1087,
+        1657,
+        1128
+      ],
+      "text": "Shirts to Order a Specialty.",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        811,
+        1183,
+        1160,
+        1221
+      ],
+      "text": "DR. PHILES,",
+      "confidence": 0.9718
+    },
+    {
+      "bbox": [
+        610,
+        1261,
+        1371,
+        1298
+      ],
+      "text": "PHYSICIAN AND SURGEON.",
+      "confidence": 0.9544
+    },
+    {
+      "bbox": [
+        854,
+        1340,
+        1121,
+        1379
+      ],
+      "text": "(Specialist)",
+      "confidence": 0.9813
+    },
+    {
+      "bbox": [
+        1221,
+        1419,
+        1661,
+        1456
+      ],
+      "text": "'Phone, Main 1225.",
+      "confidence": 0.9541
+    },
+    {
+      "bbox": [
+        309,
+        1420,
+        652,
+        1458
+      ],
+      "text": "1202 K st., nw.",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        387,
+        1477,
+        1582,
+        1515
+      ],
+      "text": "Office Hours: 8 to 9 A. M., 12 to 1 P. M., 6 to 8 P. M.",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        696,
+        1560,
+        1286,
+        1598
+      ],
+      "text": "SOLOMON PHILLIPS,",
+      "confidence": 0.9442
+    },
+    {
+      "bbox": [
+        723,
+        1628,
+        1236,
+        1666
+      ],
+      "text": "(Warren Lodge No. 8.)",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        661,
+        1702,
+        1297,
+        1748
+      ],
+      "text": "COAL, WOOD AND ICE.",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        761,
+        1796,
+        1202,
+        1834
+      ],
+      "text": "343 Oak St., N. W.",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        813,
+        1884,
+        1157,
+        1919
+      ],
+      "text": "Le Droit Park",
+      "confidence": 0.9734
+    },
+    {
+      "bbox": [
+        793,
+        1991,
+        1163,
+        2028
+      ],
+      "text": "H. T. SWANN,",
+      "confidence": 0.9806
+    },
+    {
+      "bbox": [
+        558,
+        2078,
+        1415,
+        2113
+      ],
+      "text": "GROCERIES AND PROVISIONS.",
+      "confidence": 0.8813
+    },
+    {
+      "bbox": [
+        394,
+        2169,
+        1565,
+        2209
+      ],
+      "text": "Corner 4th and Oak Streets, N. W., Le Droit Park.",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        312,
+        2223,
+        595,
+        2258
+      ],
+      "text": "Low Prices.",
+      "confidence": 0.9795
+    },
+    {
+      "bbox": [
+        1321,
+        2224,
+        1655,
+        2258
+      ],
+      "text": "Polite Service.",
+      "confidence": 0.975
+    },
+    {
+      "bbox": [
+        526,
+        2281,
+        1442,
+        2319
+      ],
+      "text": "Vegetables and Fruits Always on Sale.",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        709,
+        2386,
+        1259,
+        2427
+      ],
+      "text": "CARTER L. JONES,",
+      "confidence": 0.9782
+    },
+    {
+      "bbox": [
+        449,
+        2479,
+        1508,
+        2518
+      ],
+      "text": "(Roman Eagle Lodge No. 77, Lynchburg, Va.)",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        693,
+        2565,
+        1281,
+        2601
+      ],
+      "text": "TONSORIAL ARTIST.",
+      "confidence": 0.9703
+    },
+    {
+      "bbox": [
+        305,
+        2655,
+        641,
+        2690
+      ],
+      "text": "Polite Service.",
+      "confidence": 0.9706
+    },
+    {
+      "bbox": [
+        1169,
+        2657,
+        1655,
+        2692
+      ],
+      "text": "Convenient Location.",
+      "confidence": 0.9705
+    },
+    {
+      "bbox": [
+        789,
+        2703,
+        1163,
+        2740
+      ],
+      "text": "2111 7th st., nw.",
+      "confidence": 0.9951
+    }
+  ]
+}

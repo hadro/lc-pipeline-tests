@@ -1,0 +1,46 @@
+{
+  "image_width": 2021,
+  "image_height": 3020,
+  "lines": [
+    {
+      "bbox": [
+        634,
+        90,
+        781,
+        105
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        1469,
+        416,
+        1764,
+        636
+      ],
+      "text": "Nason",
+      "confidence": 0.774
+    },
+    {
+      "bbox": [
+        415,
+        781,
+        1553,
+        1791
+      ],
+      "text": "LIBRARY OF COLORED AUTHORS\n\nBY COLORED AUTHORS",
+      "confidence": 0.9616
+    },
+    {
+      "bbox": [
+        1797,
+        1952,
+        1825,
+        1985
+      ],
+      "text": "3",
+      "confidence": 0.3853
+    }
+  ]
+}

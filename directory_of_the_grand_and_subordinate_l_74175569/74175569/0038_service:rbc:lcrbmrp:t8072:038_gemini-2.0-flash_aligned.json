@@ -1,0 +1,288 @@
+{
+  "image": "0038_service:rbc:lcrbmrp:t8072:038.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038",
+  "canvas_width": 1857,
+  "canvas_height": 2989,
+  "surya_median_confidence": 0.9899,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        218,
+        414,
+        1571,
+        492
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=218,414,1353,78",
+      "confidence": "line",
+      "gemini_text": "Grand Commandery of Knights Templar of the",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        352,
+        528,
+        1436,
+        600
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=352,528,1084,72",
+      "confidence": "line",
+      "gemini_text": "District of Columbia and Jurisdiction.",
+      "surya_confidence": 0.9674
+    },
+    {
+      "bbox": [
+        370,
+        752,
+        1416,
+        802
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=370,752,1046,50",
+      "confidence": "line",
+      "gemini_text": "Annual Meeting, Second Tuesday in October.",
+      "surya_confidence": 0.9901
+    },
+    {
+      "bbox": [
+        752,
+        960,
+        1044,
+        993
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=752,960,292,33",
+      "confidence": "line",
+      "gemini_text": "OFFICERS.",
+      "surya_confidence": 0.9485
+    },
+    {
+      "bbox": [
+        225,
+        1053,
+        1574,
+        1102
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=225,1053,1349,49",
+      "confidence": "line",
+      "gemini_text": "R. Em. Sir. Nathaniel Robinson........Grand Commander",
+      "surya_confidence": 0.9981
+    },
+    {
+      "bbox": [
+        572,
+        1125,
+        1226,
+        1163
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=572,1125,654,38",
+      "confidence": "line",
+      "gemini_text": "2246 Cleveland Avenue N. W.",
+      "surya_confidence": 0.9947
+    },
+    {
+      "bbox": [
+        222,
+        1221,
+        1574,
+        1275
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=222,1221,1352,54",
+      "confidence": "line",
+      "gemini_text": "Em. Sir. George W. Jones .... V. Em. Dep. Gr. Commander",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        435,
+        1317,
+        1574,
+        1372
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=435,1317,1139,55",
+      "confidence": "line",
+      "gemini_text": "“ N. E. Lewis ............D. D. Gr. Commander",
+      "surya_confidence": 0.9737
+    },
+    {
+      "bbox": [
+        714,
+        1384,
+        1080,
+        1421
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=714,1384,366,37",
+      "confidence": "line",
+      "gemini_text": "Columbia, S. C.",
+      "surya_confidence": 0.9955
+    },
+    {
+      "bbox": [
+        434,
+        1478,
+        1577,
+        1526
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=434,1478,1143,48",
+      "confidence": "line",
+      "gemini_text": "“ George S Newman ............Gr. Generalissimo",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        434,
+        1582,
+        1577,
+        1626
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=434,1582,1143,44",
+      "confidence": "line",
+      "gemini_text": "“ Paul R. Stewart ............Gr. Capt. General",
+      "surya_confidence": 0.9978
+    },
+    {
+      "bbox": [
+        437,
+        1677,
+        1580,
+        1728
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=437,1677,1143,51",
+      "confidence": "line",
+      "gemini_text": "“ W. H. Severson ............Gr. Prelate",
+      "surya_confidence": 0.9975
+    },
+    {
+      "bbox": [
+        437,
+        1779,
+        1578,
+        1826
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=437,1779,1141,47",
+      "confidence": "line",
+      "gemini_text": "“ John P. Turner ............Gr. Sen. Warden",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        440,
+        1877,
+        1582,
+        1931
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=440,1877,1142,54",
+      "confidence": "line",
+      "gemini_text": "“ Richard W. Tompkins............Gr. Jun. Warden",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        440,
+        1981,
+        1583,
+        2029
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=440,1981,1143,48",
+      "confidence": "line",
+      "gemini_text": "“ Michael H. Robinson............Gr. Treasurer",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        440,
+        2076,
+        1582,
+        2137
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=440,2076,1142,61",
+      "confidence": "line",
+      "gemini_text": "“ James O. Bampfield............Gr. Recorder",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        670,
+        2140,
+        1128,
+        2181
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=670,2140,458,41",
+      "confidence": "line",
+      "gemini_text": "1119 V Street N. W.",
+      "surya_confidence": 0.9852
+    },
+    {
+      "bbox": [
+        443,
+        2239,
+        1584,
+        2285
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=443,2239,1141,46",
+      "confidence": "line",
+      "gemini_text": "“ John N. Dorster............Gr. Inspector General",
+      "surya_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        440,
+        2341,
+        1583,
+        2385
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=440,2341,1143,44",
+      "confidence": "line",
+      "gemini_text": "“ Wm. H. Hutchinson ............Gr. Sword Bearer",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        443,
+        2437,
+        1583,
+        2491
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=443,2437,1140,54",
+      "confidence": "line",
+      "gemini_text": "“ Solomon Phillips............Gr. Standard Bearer",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        440,
+        2533,
+        1590,
+        2592
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=440,2533,1150,59",
+      "confidence": "line",
+      "gemini_text": "“ Henry Coleman............Gr. Warder",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        443,
+        2639,
+        1589,
+        2686
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=443,2639,1146,47",
+      "confidence": "line",
+      "gemini_text": "“ Robert H. Ford ............Gr. Guard",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        888,
+        2747,
+        945,
+        2779
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:038#xywh=888,2747,57,32",
+      "confidence": "line",
+      "gemini_text": "29",
+      "surya_confidence": 0.9839
+    }
+  ],
+  "unmatched_gemini": []
+}

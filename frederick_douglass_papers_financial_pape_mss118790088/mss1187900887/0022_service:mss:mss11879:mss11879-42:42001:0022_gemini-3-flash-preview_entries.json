@@ -1,0 +1,193 @@
+{
+  "image": "0022_service:mss:mss11879:mss11879-42:42001:0022.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Language Exercises",
+    "section_title": "Pluperfect",
+    "year": "1887"
+  },
+  "page_context": {
+    "record_type": "Expense List",
+    "section_title": "For clothes & sundries",
+    "year": "1887"
+  },
+  "entries": [
+    {
+      "date": "July 15, 1886",
+      "description": "Paid to Helen",
+      "amount": "50.00",
+      "transaction_type": "expense",
+      "record_type": "Expense List",
+      "section_title": "For clothes & sundries",
+      "year": "1886",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1011,205,712,72",
+      "image": "0022_service:mss:mss11879:mss11879-42:42001:0022.jpg"
+    },
+    {
+      "date": "November 19, 1886",
+      "description": "Paid to Helen",
+      "amount": "25.00",
+      "transaction_type": "expense",
+      "record_type": "Expense List",
+      "section_title": "For clothes & sundries",
+      "year": "1886",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1203,140,414,55",
+      "image": "0022_service:mss:mss11879:mss11879-42:42001:0022.jpg"
+    },
+    {
+      "date": "August, 1886",
+      "description": "Paid to Helen",
+      "amount": "5.00",
+      "transaction_type": "expense",
+      "record_type": "Expense List",
+      "section_title": "For clothes & sundries",
+      "year": "1886",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1026,974,521,53",
+      "image": "0022_service:mss:mss11879:mss11879-42:42001:0022.jpg"
+    },
+    {
+      "date": "March 30, 1887",
+      "description": "Amount",
+      "amount": "4.00",
+      "transaction_type": "expense",
+      "record_type": "Expense List",
+      "section_title": "For clothes & sundries",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1002,525,500,53",
+      "image": "0022_service:mss:mss11879:mss11879-42:42001:0022.jpg"
+    },
+    {
+      "date": "1887",
+      "description": "2 Pairs of boots Rome",
+      "amount": "6.50",
+      "transaction_type": "expense",
+      "record_type": "Expense List",
+      "section_title": "For clothes & sundries",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1006,475,580,54",
+      "image": "0022_service:mss:mss11879:mss11879-42:42001:0022.jpg"
+    },
+    {
+      "date": "April 20, 1887",
+      "description": "Umbrella and gloves",
+      "amount": "4.00",
+      "transaction_type": "expense",
+      "record_type": "Expense List",
+      "section_title": "For clothes & sundries",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022",
+      "image": "0022_service:mss:mss11879:mss11879-42:42001:0022.jpg"
+    },
+    {
+      "date": "May 6, 1887",
+      "description": "Silk Dress Rome",
+      "amount": "33.00",
+      "transaction_type": "expense",
+      "record_type": "Expense List",
+      "section_title": "For clothes & sundries",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1001,559,756,74",
+      "image": "0022_service:mss:mss11879:mss11879-42:42001:0022.jpg"
+    },
+    {
+      "date": "May 25, 1887",
+      "description": "Paris: Boots",
+      "amount": "5.60",
+      "transaction_type": "expense",
+      "record_type": "Expense List",
+      "section_title": "For clothes & sundries",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=999,632,482,40",
+      "image": "0022_service:mss:mss11879:mss11879-42:42001:0022.jpg"
+    },
+    {
+      "date": "May 28, 1887",
+      "description": "Paris: making dress",
+      "amount": "50.00",
+      "transaction_type": "expense",
+      "record_type": "Expense List",
+      "section_title": "For clothes & sundries",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=989,663,781,70",
+      "image": "0022_service:mss:mss11879:mss11879-42:42001:0022.jpg"
+    },
+    {
+      "date": "May 28, 1887",
+      "description": "Cameo",
+      "amount": "125.00",
+      "transaction_type": "expense",
+      "record_type": "Expense List",
+      "section_title": "For clothes & sundries",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1131,720,658,57",
+      "image": "0022_service:mss:mss11879:mss11879-42:42001:0022.jpg"
+    },
+    {
+      "date": "May 28, 1887",
+      "description": "Violin",
+      "amount": "100.00",
+      "transaction_type": "expense",
+      "record_type": "Expense List",
+      "section_title": "For clothes & sundries",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1414,773,365,48",
+      "image": "0022_service:mss:mss11879:mss11879-42:42001:0022.jpg"
+    },
+    {
+      "date": "May 28, 1887",
+      "description": "Tariff on gold spoons",
+      "amount": "1.80",
+      "transaction_type": "expense",
+      "record_type": "Expense List",
+      "section_title": "For clothes & sundries",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1141,828,494,52",
+      "image": "0022_service:mss:mss11879:mss11879-42:42001:0022.jpg"
+    },
+    {
+      "date": "May 31, 1887",
+      "description": "London for gloves",
+      "amount": "2.50",
+      "transaction_type": "expense",
+      "record_type": "Expense List",
+      "section_title": "For clothes & sundries",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1642,830,142,38",
+      "image": "0022_service:mss:mss11879:mss11879-42:42001:0022.jpg"
+    },
+    {
+      "date": "June 6, 1887",
+      "description": "Dress eleven dollars",
+      "amount": "11.38",
+      "transaction_type": "expense",
+      "record_type": "Expense List",
+      "section_title": "For clothes & sundries",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=993,866,643,129",
+      "image": "0022_service:mss:mss11879:mss11879-42:42001:0022.jpg"
+    },
+    {
+      "date": "June 7, 1887",
+      "description": "Shoes &cts",
+      "amount": "5.00",
+      "transaction_type": "expense",
+      "record_type": "Expense List",
+      "section_title": "For clothes & sundries",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022",
+      "image": "0022_service:mss:mss11879:mss11879-42:42001:0022.jpg"
+    },
+    {
+      "date": "June 8, 1887",
+      "description": "Seventy frs. in America",
+      "amount": "70.00",
+      "transaction_type": "expense",
+      "record_type": "Expense List",
+      "section_title": "For clothes & sundries",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1019,1024,575,62",
+      "image": "0022_service:mss:mss11879:mss11879-42:42001:0022.jpg"
+    }
+  ]
+}

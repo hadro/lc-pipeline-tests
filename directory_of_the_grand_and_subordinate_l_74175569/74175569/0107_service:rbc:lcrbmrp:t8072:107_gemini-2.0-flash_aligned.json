@@ -1,0 +1,252 @@
+{
+  "image": "0107_service:rbc:lcrbmrp:t8072:107.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:107",
+  "canvas_width": 1890,
+  "canvas_height": 2996,
+  "surya_median_confidence": 0.9939,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        717,
+        370,
+        1274,
+        431
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:107#xywh=717,370,557,61",
+      "confidence": "line",
+      "gemini_text": "Phone, East 342-Y.",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        623,
+        606,
+        1373,
+        664
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:107#xywh=623,606,750,58",
+      "confidence": "line",
+      "gemini_text": "CARL E. GUNDLACH,",
+      "surya_confidence": 0.9969
+    },
+    {
+      "bbox": [
+        321,
+        743,
+        1677,
+        800
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:107#xywh=321,743,1356,57",
+      "confidence": "line",
+      "gemini_text": "Costumes, Lodge Paraphernalia, Society Goods,",
+      "surya_confidence": 0.9933
+    },
+    {
+      "bbox": [
+        601,
+        890,
+        1387,
+        945
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:107#xywh=601,890,786,55",
+      "confidence": "line",
+      "gemini_text": "Emblems, Buttons, Badges,",
+      "surya_confidence": 0.9577
+    },
+    {
+      "bbox": [
+        456,
+        1018,
+        1524,
+        1075
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:107#xywh=456,1018,1068,57",
+      "confidence": "line",
+      "gemini_text": "FOR ALL SECRET SOCIETIES.",
+      "surya_confidence": 0.9851
+    },
+    {
+      "bbox": [
+        707,
+        1133,
+        1290,
+        1217
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:107#xywh=707,1133,583,84",
+      "confidence": "line",
+      "gemini_text": "Flags and Buntings.",
+      "surya_confidence": 0.9929
+    },
+    {
+      "bbox": [
+        535,
+        1348,
+        1458,
+        1402
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:107#xywh=535,1348,923,54",
+      "confidence": "line",
+      "gemini_text": "813 Seventh Street Northwest,",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        719,
+        1460,
+        1267,
+        1517
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:107#xywh=719,1460,548,57",
+      "confidence": "line",
+      "gemini_text": "Washington, D. C.",
+      "surya_confidence": 0.987
+    },
+    {
+      "bbox": [
+        324,
+        1593,
+        1059,
+        1634
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:107#xywh=324,1593,735,41",
+      "confidence": "line",
+      "gemini_text": "Established Jan. 27, 1897. Telephone, 803 Columbus.",
+      "surya_confidence": 0.9941
+    },
+    {
+      "bbox": [
+        715,
+        1703,
+        1282,
+        1760
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:107#xywh=715,1703,567,57",
+      "confidence": "line",
+      "gemini_text": "HOTEL MACEO,",
+      "surya_confidence": 0.9974
+    },
+    {
+      "bbox": [
+        505,
+        1816,
+        1491,
+        1876
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:107#xywh=505,1816,986,60",
+      "confidence": "line",
+      "gemini_text": "First-class Accommodations Only.",
+      "surya_confidence": 0.9953
+    },
+    {
+      "bbox": [
+        319,
+        1929,
+        1671,
+        1985
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:107#xywh=319,1929,1352,56",
+      "confidence": "line",
+      "gemini_text": "213 West 53d St., Cor. Broadway, New York.",
+      "surya_confidence": 0.992
+    },
+    {
+      "bbox": [
+        494,
+        2036,
+        1488,
+        2094
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:107#xywh=494,2036,994,58",
+      "confidence": "line",
+      "gemini_text": "FIRST-CLASS RESTAURANT",
+      "surya_confidence": 0.9946
+    },
+    {
+      "bbox": [
+        606,
+        2150,
+        1389,
+        2202
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:107#xywh=606,2150,783,52",
+      "confidence": "line",
+      "gemini_text": "For Ladies and Gentlemen.",
+      "surya_confidence": 0.9957
+    },
+    {
+      "bbox": [
+        318,
+        2285,
+        1671,
+        2343
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:107#xywh=318,2285,1353,58",
+      "confidence": "line",
+      "gemini_text": "Headquarters for the Clergy and Business Men.",
+      "surya_confidence": 0.9904
+    },
+    {
+      "bbox": [
+        450,
+        2370,
+        1541,
+        2432
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:107#xywh=450,2370,1091,62",
+      "confidence": "line",
+      "gemini_text": "Salads, Oysters and Chops a Specialty.",
+      "surya_confidence": 0.9974
+    },
+    {
+      "bbox": [
+        322,
+        2476,
+        1666,
+        2515
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:107#xywh=322,2476,1344,39",
+      "confidence": "line",
+      "gemini_text": "Regular Dinner, 6 to 8 P.M., 35c. Sundays, 1 to 4.30, 45c.",
+      "surya_confidence": 0.9939
+    },
+    {
+      "bbox": [
+        633,
+        2555,
+        1373,
+        2593
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:107#xywh=633,2555,740,38",
+      "confidence": "line",
+      "gemini_text": "Open from 7 30 A. M. to 12 P. M.",
+      "surya_confidence": 0.9877
+    },
+    {
+      "bbox": [
+        957,
+        2634,
+        1622,
+        2672
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:107#xywh=957,2634,665,38",
+      "confidence": "line",
+      "gemini_text": "BENJ. F. THOMAS, Prop.",
+      "surya_confidence": 0.9689
+    },
+    {
+      "bbox": [
+        965,
+        2691,
+        1025,
+        2725
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:107#xywh=965,2691,60,34",
+      "confidence": "line",
+      "gemini_text": "98",
+      "surya_confidence": 0.9751
+    }
+  ],
+  "unmatched_gemini": []
+}

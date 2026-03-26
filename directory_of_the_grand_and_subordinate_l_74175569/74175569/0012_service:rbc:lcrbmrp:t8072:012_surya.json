@@ -1,0 +1,266 @@
+{
+  "image_width": 1669,
+  "image_height": 2885,
+  "lines": [
+    {
+      "bbox": [
+        641,
+        822,
+        866,
+        844
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        459,
+        866,
+        741,
+        925
+      ],
+      "text": "\"Lilley\"",
+      "confidence": 0.9745
+    },
+    {
+      "bbox": [
+        426,
+        922,
+        803,
+        982
+      ],
+      "text": "UNIFORMS",
+      "confidence": 0.7953
+    },
+    {
+      "bbox": [
+        1187,
+        960,
+        1222,
+        1197
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        507,
+        992,
+        698,
+        1033
+      ],
+      "text": "-FOR-",
+      "confidence": 0.8826
+    },
+    {
+      "bbox": [
+        89,
+        993,
+        116,
+        1020
+      ],
+      "text": "0",
+      "confidence": 0.4465
+    },
+    {
+      "bbox": [
+        420,
+        1040,
+        706,
+        1093
+      ],
+      "text": "KNIGHTS",
+      "confidence": 0.6334
+    },
+    {
+      "bbox": [
+        515,
+        1095,
+        806,
+        1149
+      ],
+      "text": "TEMPLAR",
+      "confidence": 0.6745
+    },
+    {
+      "bbox": [
+        358,
+        1098,
+        390,
+        1137
+      ],
+      "text": "90",
+      "confidence": 0.6224
+    },
+    {
+      "bbox": [
+        357,
+        1136,
+        394,
+        1204
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        397,
+        1162,
+        806,
+        1203
+      ],
+      "text": "are absolutely the",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        395,
+        1200,
+        807,
+        1253
+      ],
+      "text": "best K. T. UNIFORMS",
+      "confidence": 0.9766
+    },
+    {
+      "bbox": [
+        1187,
+        1207,
+        1225,
+        1534
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        395,
+        1241,
+        811,
+        1300
+      ],
+      "text": "produced, because",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        393,
+        1291,
+        815,
+        1342
+      ],
+      "text": "of the high quality",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        392,
+        1334,
+        815,
+        1433
+      ],
+      "text": "of cloth, perfect fit, fine workman-",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        394,
+        1422,
+        805,
+        1473
+      ],
+      "text": "ship and low price.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        401,
+        1476,
+        812,
+        1555
+      ],
+      "text": "The majority of the Commanderies",
+      "confidence": 0.9653
+    },
+    {
+      "bbox": [
+        399,
+        1542,
+        808,
+        1620
+      ],
+      "text": "throughout America wear them.",
+      "confidence": 0.9732
+    },
+    {
+      "bbox": [
+        415,
+        1621,
+        793,
+        1668
+      ],
+      "text": "Write for CATALOG",
+      "confidence": 0.9745
+    },
+    {
+      "bbox": [
+        480,
+        1657,
+        726,
+        1697
+      ],
+      "text": "and PRICES.",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        557,
+        1707,
+        659,
+        1743
+      ],
+      "text": "THE",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        415,
+        1748,
+        805,
+        1804
+      ],
+      "text": "M. C. LILLEY & CO.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        445,
+        1797,
+        760,
+        1851
+      ],
+      "text": "COLUMBUS, O.",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        408,
+        1838,
+        810,
+        1958
+      ],
+      "text": "Largest UNIFORM and REGA-\nLIA Mail Order HOUSE\nin the WORLD.",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        446,
+        1970,
+        1171,
+        2006
+      ],
+      "text": "",
+      "confidence": 1.0
+    }
+  ]
+}

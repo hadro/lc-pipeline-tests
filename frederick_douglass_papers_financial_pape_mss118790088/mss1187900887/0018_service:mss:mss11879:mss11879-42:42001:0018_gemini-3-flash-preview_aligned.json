@@ -1,0 +1,135 @@
+{
+  "image": "0018_service:mss:mss11879:mss11879-42:42001:0018.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0018",
+  "canvas_width": 1898,
+  "canvas_height": 1580,
+  "surya_median_confidence": 0.7912,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        986,
+        121,
+        1070,
+        169
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0018#xywh=986,121,84,48",
+      "confidence": "line",
+      "gemini_text": "1887",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        968,
+        138,
+        1520,
+        449
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0018#xywh=968,138,552,311",
+      "confidence": "line",
+      "gemini_text": "Monday June 20 Hexham",
+      "surya_confidence": 0.8837
+    },
+    {
+      "bbox": [
+        982,
+        581,
+        1099,
+        630
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0018#xywh=982,581,117,49",
+      "confidence": "line",
+      "gemini_text": "Tuesday .. 21. Edinburgh",
+      "surya_confidence": 0.6676
+    },
+    {
+      "bbox": [
+        982,
+        633,
+        1094,
+        679
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0018#xywh=982,633,112,46",
+      "confidence": "line",
+      "gemini_text": "Wed: .. 22. .. ..",
+      "surya_confidence": 0.9153
+    },
+    {
+      "bbox": [
+        971,
+        675,
+        1100,
+        729
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0018#xywh=971,675,129,54",
+      "confidence": "line",
+      "gemini_text": "Thurs. .. 30 London",
+      "surya_confidence": 0.9452
+    },
+    {
+      "bbox": [
+        991,
+        423,
+        1363,
+        477
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0018#xywh=991,423,372,54",
+      "confidence": "line",
+      "gemini_text": "Sat: .. 25. ..",
+      "surya_confidence": 0.4618
+    },
+    {
+      "bbox": [
+        985,
+        474,
+        1356,
+        527
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0018#xywh=985,474,371,53",
+      "confidence": "line",
+      "gemini_text": "Sun. .. 26 .. ..",
+      "surya_confidence": 0.5916
+    },
+    {
+      "bbox": [
+        1099,
+        515,
+        1469,
+        590
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0018#xywh=1099,515,370,75",
+      "confidence": "line",
+      "gemini_text": "Mon. .. 27. Carlisle",
+      "surya_confidence": 0.7095
+    },
+    {
+      "bbox": [
+        1119,
+        582,
+        1372,
+        629
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0018#xywh=1119,582,253,47",
+      "confidence": "line",
+      "gemini_text": "Tues. .. 28 .. .. ..",
+      "surya_confidence": 0.9649
+    },
+    {
+      "bbox": [
+        1100,
+        623,
+        1459,
+        733
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0018#xywh=1100,623,359,110",
+      "confidence": "line",
+      "gemini_text": "Wed. .. 29 .. ..",
+      "surya_confidence": 0.9219
+    }
+  ],
+  "unmatched_gemini": [
+    "Thurs. .. 23. Glasgow",
+    "Fri: .. 24 .. .."
+  ]
+}

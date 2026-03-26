@@ -1,0 +1,13 @@
+{
+  "image": "0028_service:mss:mss11879:mss11879-42:42001:0028.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0028",
+  "canvas_width": 902,
+  "canvas_height": 1381,
+  "surya_median_confidence": null,
+  "needs_review": false,
+  "lines": [],
+  "unmatched_gemini": [
+    "Fred. Douglass -"
+  ]
+}

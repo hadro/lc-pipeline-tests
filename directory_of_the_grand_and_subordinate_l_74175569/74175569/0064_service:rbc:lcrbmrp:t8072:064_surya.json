@@ -1,0 +1,636 @@
+{
+  "image_width": 1809,
+  "image_height": 2984,
+  "lines": [
+    {
+      "bbox": [
+        414,
+        397,
+        1385,
+        441
+      ],
+      "text": "GETHSEMANE CHAPTER-Continued.",
+      "confidence": 0.9431
+    },
+    {
+      "bbox": [
+        430,
+        452,
+        1084,
+        490
+      ],
+      "text": "Taylor, Julia A. F., 1015 3d nw.",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        430,
+        485,
+        974,
+        524
+      ],
+      "text": "Taylor, Julia M., 407 A ne.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        432,
+        522,
+        1103,
+        560
+      ],
+      "text": "Taylor, Mrs. Sidney, 1015 3d nw.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        430,
+        556,
+        1019,
+        593
+      ],
+      "text": "Tignor, Lottie E., 324 G sw.",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        430,
+        590,
+        957,
+        627
+      ],
+      "text": "Tignor, Mamie, 324 G sw.",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        430,
+        627,
+        1053,
+        662
+      ],
+      "text": "Toler, Elizabeth, 924 24th nw.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        429,
+        662,
+        1364,
+        698
+      ],
+      "text": "Tompkins, Anna Victoria, 1363 Kenesaw ave.",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        427,
+        696,
+        1040,
+        733
+      ],
+      "text": "Tompkins, Nettie, 1341 V nw.",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        429,
+        730,
+        1150,
+        768
+      ],
+      "text": "Underwood, Marcelena, 408 1st sw.",
+      "confidence": 0.9862
+    },
+    {
+      "bbox": [
+        429,
+        766,
+        995,
+        801
+      ],
+      "text": "Warren, Annie, 1017 3d nw.",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        428,
+        802,
+        1166,
+        836
+      ],
+      "text": "Wilkinson, Alice, 1528 N. J. ave. nw.",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        426,
+        834,
+        1192,
+        872
+      ],
+      "text": "Williams, Anna Clark, Princeton nw.",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        426,
+        869,
+        1118,
+        907
+      ],
+      "text": "Williams, Eliza, 1620 Vt. ave. nw.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        426,
+        906,
+        1038,
+        940
+      ],
+      "text": "Williams, Sarah, 1015 4th nw.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        424,
+        939,
+        1236,
+        976
+      ],
+      "text": "Williams, Sarah A., 932 Dartmouth nw.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        426,
+        976,
+        1028,
+        1008
+      ],
+      "text": "Winslow, Martha, 1204 R nw.",
+      "confidence": 0.992
+    },
+    {
+      "bbox": [
+        547,
+        1085,
+        1228,
+        1140
+      ],
+      "text": "Marian Chapter, No. 8, O. E. S.",
+      "confidence": 0.9899
+    },
+    {
+      "bbox": [
+        629,
+        1151,
+        1141,
+        1195
+      ],
+      "text": "Meets Fourth Friday.",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        212,
+        1188,
+        1583,
+        1245
+      ],
+      "text": "Mrs. Alice Carter..... Royal Matron",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        710,
+        1239,
+        1109,
+        1289
+      ],
+      "text": "826 3rd st., se.",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        212,
+        1281,
+        1560,
+        1331
+      ],
+      "text": "Sir R. A. Payne......Royal Patron",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        695,
+        1326,
+        1047,
+        1375
+      ],
+      "text": "1511 M st., nw.",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        209,
+        1370,
+        1559,
+        1421
+      ],
+      "text": "Mrs. Matilda Payne. ..... Secretary",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        695,
+        1419,
+        1049,
+        1459
+      ],
+      "text": "1511 M st., nw.",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        415,
+        1472,
+        1148,
+        1509
+      ],
+      "text": "Betters, Georgia, 309 S. C. ave. se.",
+      "confidence": 0.9874
+    },
+    {
+      "bbox": [
+        414,
+        1507,
+        1066,
+        1543
+      ],
+      "text": "Brooks, Mary E., 1003 11th nw.",
+      "confidence": 0.9899
+    },
+    {
+      "bbox": [
+        417,
+        1541,
+        1152,
+        1580
+      ],
+      "text": "Carroll, Emma, 443 Washington nw.",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        417,
+        1577,
+        1072,
+        1613
+      ],
+      "text": "Carson, Matilda, 61 Defrees nw.",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        417,
+        1612,
+        919,
+        1647
+      ],
+      "text": "Carter, Alice, 816 3d se.",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        416,
+        1644,
+        920,
+        1685
+      ],
+      "text": "Cephas, Mary, 538 3d se.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        416,
+        1684,
+        949,
+        1716
+      ],
+      "text": "Clark, Anna, 612 14th nw.",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        416,
+        1719,
+        892,
+        1748
+      ],
+      "text": "Davis, Ada, 304 F sw.",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        414,
+        1752,
+        1310,
+        1791
+      ],
+      "text": "Diggs, Mary C., 2237 Brightwood ave. nw.",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        417,
+        1787,
+        951,
+        1821
+      ],
+      "text": "Herbert, Eliza, 410 D se.",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        414,
+        1822,
+        1070,
+        1857
+      ],
+      "text": "Johnson, Mary C., 1119 20th nw.",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        414,
+        1855,
+        1029,
+        1892
+      ],
+      "text": "Johnson, Susan, 1208 16th nw.",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        414,
+        1891,
+        897,
+        1924
+      ],
+      "text": "Lee, Mary L., 8 7th se.",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        415,
+        1925,
+        986,
+        1962
+      ],
+      "text": "Lewis, Francis, 119 10th se.",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        414,
+        1960,
+        999,
+        1996
+      ],
+      "text": "Long, Florence, 715 23d nw.",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        412,
+        1995,
+        1186,
+        2032
+      ],
+      "text": "Madison, Bettie, 718 Smith's Row nw.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        412,
+        2031,
+        1144,
+        2067
+      ],
+      "text": "Martin, Amanda, 641 S. C. ave. se.",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        412,
+        2064,
+        1021,
+        2102
+      ],
+      "text": "Miller, Julia H., 437 20th nw.",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        412,
+        2099,
+        939,
+        2136
+      ],
+      "text": "Mitchell, Katie, 314 G se.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        412,
+        2136,
+        1165,
+        2172
+      ],
+      "text": "Moten, Sarah J., 1239 Trinidad ave.",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        409,
+        2170,
+        883,
+        2204
+      ],
+      "text": "Neal, Susan, 416 D se.",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        408,
+        2206,
+        901,
+        2240
+      ],
+      "text": "Page, Hattie, 226 F sw.",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        410,
+        2241,
+        1002,
+        2274
+      ],
+      "text": "Parris, Rachael, 1625 S nw.",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        411,
+        2275,
+        1043,
+        2311
+      ],
+      "text": "Payne, Hattle E., 1511 M nw.",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        408,
+        2309,
+        948,
+        2345
+      ],
+      "text": "Payne, Jessie, 1511 M nw.",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        409,
+        2346,
+        986,
+        2380
+      ],
+      "text": "Payne, Matilda, 1511 M nw.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        408,
+        2363,
+        1167,
+        2424
+      ],
+      "text": "Payne, Robt. A., 1511 M nw.",
+      "confidence": 0.9877
+    },
+    {
+      "bbox": [
+        409,
+        2410,
+        1200,
+        2450
+      ],
+      "text": "Quander, H. B., 2423 Brightwood ave.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        408,
+        2447,
+        985,
+        2482
+      ],
+      "text": "Sayles, Jennie L., 222 F sw.",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        408,
+        2484,
+        896,
+        2516
+      ],
+      "text": "Smith, Ellen, 304 F sw.",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        408,
+        2518,
+        1078,
+        2553
+      ],
+      "text": "Smith, Mary A., Hillsdale, D. C.",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        408,
+        2553,
+        948,
+        2587
+      ],
+      "text": "Thomas, Jane, 410 3d sw.",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        406,
+        2582,
+        1339,
+        2628
+      ],
+      "text": "Thomas, Francis, Graton P. O., Chas. Co., Md.",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        407,
+        2624,
+        1052,
+        2657
+      ],
+      "text": "Washington, Kate, 1541 M nw.",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        405,
+        2658,
+        955,
+        2691
+      ],
+      "text": "Williams, Esau, 823 2d se.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        406,
+        2693,
+        1076,
+        2727
+      ],
+      "text": "Williams, Hattie V., 1331 K nw.",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        405,
+        2729,
+        967,
+        2759
+      ],
+      "text": "Williams, Nellie, 823 2d se.",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        428,
+        2904,
+        557,
+        2919
+      ],
+      "text": "and the latest of the latest of",
+      "confidence": 0.1143
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "image_width": 1826,
+  "image_height": 3007,
+  "lines": [
+    {
+      "bbox": [
+        494,
+        401,
+        1314,
+        452
+      ],
+      "text": "Simon Commandery, K. T., No. 1.",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        489,
+        486,
+        1293,
+        526
+      ],
+      "text": "John D. Howard, Eminent Commander",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        423,
+        550,
+        1131,
+        598
+      ],
+      "text": "Charles D. Freeman, Generalissimo",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        688,
+        594,
+        1371,
+        642
+      ],
+      "text": "James H. Smiler, Captain General",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        625,
+        666,
+        1171,
+        707
+      ],
+      "text": "Samuel T. Craig, Recorder",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        757,
+        712,
+        1042,
+        749
+      ],
+      "text": "311 L st. nw.",
+      "confidence": 0.9877
+    },
+    {
+      "bbox": [
+        671,
+        789,
+        1124,
+        828
+      ],
+      "text": "Meets Second Friday.",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        426,
+        1016,
+        1372,
+        1068
+      ],
+      "text": "Henderson Commandery, K. T., No. 2.",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        427,
+        1095,
+        1379,
+        1146
+      ],
+      "text": "Nelson E. Weatherless, Eminent Commander",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        427,
+        1167,
+        1025,
+        1211
+      ],
+      "text": "Wm. G. Smith, Generalissimo",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        683,
+        1210,
+        1374,
+        1252
+      ],
+      "text": "Wm. W. Walker, Captain General",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        642,
+        1280,
+        1167,
+        1320
+      ],
+      "text": "John S. George, Recorder",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        752,
+        1324,
+        1048,
+        1365
+      ],
+      "text": "1938 11th nw.",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        669,
+        1403,
+        1124,
+        1447
+      ],
+      "text": "Meets First Thursday.",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        427,
+        1631,
+        1431,
+        1682
+      ],
+      "text": "Gethsemane Commandery, K. T., No 3.",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        515,
+        1712,
+        1289,
+        1760
+      ],
+      "text": "L. C. Coleman, Eminent Commander",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        430,
+        1781,
+        1089,
+        1827
+      ],
+      "text": "Andrew W. Sears, Generalissimo",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        743,
+        1822,
+        1380,
+        1873
+      ],
+      "text": "Benj. F. Pope, Captain General",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        563,
+        1894,
+        1244,
+        1936
+      ],
+      "text": "Richard W. Tompkins, Recorder",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        755,
+        1937,
+        1062,
+        1981
+      ],
+      "text": "1341 V st. nw.",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        634,
+        2019,
+        1176,
+        2059
+      ],
+      "text": "Meets Second Wednesday.",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        431,
+        2245,
+        1375,
+        2299
+      ],
+      "text": "Mt. Calvary Commandery, K. T., No. 4.",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        512,
+        2333,
+        1297,
+        2374
+      ],
+      "text": "Joseph D. Jones, Eminent Commander",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        425,
+        2391,
+        1178,
+        2443
+      ],
+      "text": "George W. Arrington, Generalissimo",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        663,
+        2444,
+        1375,
+        2484
+      ],
+      "text": "Horatio N. Smith, Captain General",
+      "confidence": 0.9833
+    },
+    {
+      "bbox": [
+        628,
+        2513,
+        1191,
+        2550
+      ],
+      "text": "Wm. H. Severson, Recorder",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        780,
+        2557,
+        1042,
+        2592
+      ],
+      "text": "326 E st. sw.",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        675,
+        2624,
+        1126,
+        2663
+      ],
+      "text": "Meets Fourth Friday.",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        867,
+        2705,
+        940,
+        2741
+      ],
+      "text": "111",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        456,
+        2922,
+        558,
+        2936
+      ],
+      "text": "State of the Park",
+      "confidence": 0.1697
+    }
+  ]
+}

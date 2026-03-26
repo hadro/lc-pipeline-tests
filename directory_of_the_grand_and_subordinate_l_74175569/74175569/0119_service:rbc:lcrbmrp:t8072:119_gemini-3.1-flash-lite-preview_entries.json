@@ -1,0 +1,154 @@
+{
+  "image": "0119_service:rbc:lcrbmrp:t8072:119.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "section_title": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+    "organization_name": "Keystone Chapter, No. 11, R. A. M."
+  },
+  "page_context": {
+    "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+    "organization_name": "Grand Commandery of the District of Columbia"
+  },
+  "entries": [
+    {
+      "name": "George S. Newman",
+      "title_or_role": "Grand Commander",
+      "address": "146 C st. sw.",
+      "meeting_info": "Annual Meeting, 2d Monday in October",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "organization_name": "Grand Commandery of the District of Columbia",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:119#xywh=550,1114,646,40",
+      "image": "0119_service:rbc:lcrbmrp:t8072:119.jpg"
+    },
+    {
+      "name": "Wm. H. Judd Malvin",
+      "title_or_role": "V. Em. Dep. Grand Commander",
+      "address": "1018 R st. nw. Phone, North 1832-M.",
+      "meeting_info": "Annual Meeting, 2d Monday in October",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "organization_name": "Grand Commandery of the District of Columbia",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:119#xywh=550,1305,630,38",
+      "image": "0119_service:rbc:lcrbmrp:t8072:119.jpg"
+    },
+    {
+      "name": "H. L. Livingston",
+      "title_or_role": "Gr. Generalissimo",
+      "meeting_info": "Annual Meeting, 2d Monday in October",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "organization_name": "Grand Commandery of the District of Columbia",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:119#xywh=549,1496,953,39",
+      "image": "0119_service:rbc:lcrbmrp:t8072:119.jpg"
+    },
+    {
+      "name": "Jos. W. Hutchinson",
+      "title_or_role": "Gr. Capt. General",
+      "meeting_info": "Annual Meeting, 2d Monday in October",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "organization_name": "Grand Commandery of the District of Columbia",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:119#xywh=546,1574,954,39",
+      "image": "0119_service:rbc:lcrbmrp:t8072:119.jpg"
+    },
+    {
+      "name": "J. F. N. Wilkinson",
+      "title_or_role": "Grand Prelate",
+      "meeting_info": "Annual Meeting, 2d Monday in October",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "organization_name": "Grand Commandery of the District of Columbia",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:119#xywh=546,1651,954,40",
+      "image": "0119_service:rbc:lcrbmrp:t8072:119.jpg"
+    },
+    {
+      "name": "Joseph R. Pryor",
+      "title_or_role": "Gr. Sen. Warden",
+      "meeting_info": "Annual Meeting, 2d Monday in October",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "organization_name": "Grand Commandery of the District of Columbia",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:119#xywh=547,1730,952,40",
+      "image": "0119_service:rbc:lcrbmrp:t8072:119.jpg"
+    },
+    {
+      "name": "A. H. Stevens",
+      "title_or_role": "Gr. Jun. Warden",
+      "meeting_info": "Annual Meeting, 2d Monday in October",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "organization_name": "Grand Commandery of the District of Columbia",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:119#xywh=545,1807,949,42",
+      "image": "0119_service:rbc:lcrbmrp:t8072:119.jpg"
+    },
+    {
+      "name": "Michael H. Robinson",
+      "title_or_role": "Gr. Treasurer",
+      "meeting_info": "Annual Meeting, 2d Monday in October",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "organization_name": "Grand Commandery of the District of Columbia",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:119#xywh=546,1886,954,39",
+      "image": "0119_service:rbc:lcrbmrp:t8072:119.jpg"
+    },
+    {
+      "name": "James O. Bampfield",
+      "title_or_role": "Gr. Recorder",
+      "address": "1119 V st. nw.",
+      "meeting_info": "Annual Meeting, 2d Monday in October",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "organization_name": "Grand Commandery of the District of Columbia",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:119#xywh=545,1963,953,44",
+      "image": "0119_service:rbc:lcrbmrp:t8072:119.jpg"
+    },
+    {
+      "name": "John N. Dorster",
+      "title_or_role": "Grand Inspector General",
+      "meeting_info": "Annual Meeting, 2d Monday in October",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "organization_name": "Grand Commandery of the District of Columbia",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:119#xywh=547,2087,504,39",
+      "image": "0119_service:rbc:lcrbmrp:t8072:119.jpg"
+    },
+    {
+      "name": "Solomon Phillips",
+      "title_or_role": "Gr. Sword Bearer",
+      "meeting_info": "Annual Meeting, 2d Monday in October",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "organization_name": "Grand Commandery of the District of Columbia",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:119#xywh=546,2212,959,42",
+      "image": "0119_service:rbc:lcrbmrp:t8072:119.jpg"
+    },
+    {
+      "name": "Richard L. Gaines",
+      "title_or_role": "Grand Standard Bearer",
+      "meeting_info": "Annual Meeting, 2d Monday in October",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "organization_name": "Grand Commandery of the District of Columbia",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:119#xywh=544,2291,707,38",
+      "image": "0119_service:rbc:lcrbmrp:t8072:119.jpg"
+    },
+    {
+      "name": "Henry C. Irving",
+      "title_or_role": "Grand Warder",
+      "meeting_info": "Annual Meeting, 2d Monday in October",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "organization_name": "Grand Commandery of the District of Columbia",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:119#xywh=541,2411,956,42",
+      "image": "0119_service:rbc:lcrbmrp:t8072:119.jpg"
+    },
+    {
+      "name": "Robt. H. Ford",
+      "title_or_role": "Grand Guard",
+      "meeting_info": "Annual Meeting, 2d Monday in October",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "organization_name": "Grand Commandery of the District of Columbia",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:119#xywh=541,2488,952,41",
+      "image": "0119_service:rbc:lcrbmrp:t8072:119.jpg"
+    },
+    {
+      "name": "N. E. Lewis",
+      "title_or_role": "D. D. Gr. Commmander",
+      "address": "Columbia, S. C.",
+      "meeting_info": "Annual Meeting, 2d Monday in October",
+      "section_title": "GRAND COMMANDERY OF KNIGHTS TEMPLAR",
+      "organization_name": "Grand Commandery of the District of Columbia",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:119#xywh=541,2565,957,44",
+      "image": "0119_service:rbc:lcrbmrp:t8072:119.jpg"
+    }
+  ]
+}

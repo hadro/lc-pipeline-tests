@@ -1,0 +1,278 @@
+{
+  "image": "0027_service:rbc:lcrbmrp:t8072:027.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027",
+  "canvas_width": 1833,
+  "canvas_height": 2925,
+  "surya_median_confidence": 0.9983,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        264,
+        607,
+        1355,
+        712
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027#xywh=264,607,1091,105",
+      "confidence": "line",
+      "gemini_text": "SEALS!",
+      "surya_confidence": 0.9845
+    },
+    {
+      "bbox": [
+        130,
+        738,
+        1483,
+        799
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027#xywh=130,738,1353,61",
+      "confidence": "line",
+      "gemini_text": "We manufacture Seals of all descriptions, for Lodges,",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        641,
+        810,
+        965,
+        859
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027#xywh=641,810,324,49",
+      "confidence": "line",
+      "gemini_text": "Societies, Etc.",
+      "surya_confidence": 0.9912
+    },
+    {
+      "bbox": [
+        754,
+        1549,
+        1470,
+        1655
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027#xywh=754,1549,716,106",
+      "confidence": "line",
+      "gemini_text": "NOTICE!",
+      "surya_confidence": 0.9563
+    },
+    {
+      "bbox": [
+        806,
+        1920,
+        1361,
+        2026
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027#xywh=806,1920,555,106",
+      "confidence": "line",
+      "gemini_text": "30 Years' Experience.",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        775,
+        2692,
+        832,
+        2725
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027#xywh=775,2692,57,33",
+      "confidence": "line",
+      "gemini_text": "18",
+      "surya_confidence": 0.9836
+    },
+    {
+      "bbox": [
+        252,
+        892,
+        1367,
+        955
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027#xywh=252,892,1115,63",
+      "confidence": "line",
+      "gemini_text": "Also Headquarters for Rubber Stamps, Stencils,",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        353,
+        960,
+        1257,
+        1021
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027#xywh=353,960,904,61",
+      "confidence": "line",
+      "gemini_text": "Inking Pads, Badges, Metal Signs, &c.",
+      "surya_confidence": 0.9977
+    },
+    {
+      "bbox": [
+        200,
+        1137,
+        1405,
+        1206
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027#xywh=200,1137,1205,69",
+      "confidence": "line",
+      "gemini_text": "HERMAN BAUMGARTEN,",
+      "surya_confidence": 0.9663
+    },
+    {
+      "bbox": [
+        490,
+        1263,
+        1115,
+        1312
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027#xywh=490,1263,625,49",
+      "confidence": "line",
+      "gemini_text": "Note New Address :",
+      "surya_confidence": 0.7748
+    },
+    {
+      "bbox": [
+        128,
+        1351,
+        1479,
+        1424
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027#xywh=128,1351,1351,73",
+      "confidence": "line",
+      "gemini_text": "414 10TH ST. N. W. PHONE, MAIN 3933.",
+      "surya_confidence": 0.988
+    },
+    {
+      "bbox": [
+        263,
+        1439,
+        1347,
+        1500
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027#xywh=263,1439,1084,61",
+      "confidence": "line",
+      "gemini_text": "No connection with any other firm in the city.",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        180,
+        2066,
+        1475,
+        2123
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027#xywh=180,2066,1295,57",
+      "confidence": "line",
+      "gemini_text": "All kinds of Sewing Machines can be Repaired, Cleaned",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        126,
+        2129,
+        1477,
+        2193
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027#xywh=126,2129,1351,64",
+      "confidence": "line",
+      "gemini_text": "and Adjusted. Old Machines taken in Exchange in part",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        127,
+        2198,
+        1475,
+        2257
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027#xywh=127,2198,1348,59",
+      "confidence": "line",
+      "gemini_text": "payment for a New One. All machines repaired by me",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        127,
+        2265,
+        1475,
+        2324
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027#xywh=127,2265,1348,59",
+      "confidence": "line",
+      "gemini_text": "are Warranted, and if I cannot make them give satisfaction",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        126,
+        2332,
+        1262,
+        2388
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027#xywh=126,2332,1136,56",
+      "confidence": "line",
+      "gemini_text": "within Thirty Days, the money will be returned.",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        179,
+        2405,
+        1475,
+        2447
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027#xywh=179,2405,1296,42",
+      "confidence": "line",
+      "gemini_text": "Copy the Address on your machine drawer, and when your ma-",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        124,
+        2438,
+        1474,
+        2482
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027#xywh=124,2438,1350,44",
+      "confidence": "line",
+      "gemini_text": "chine needs Cleaning or Repairing, I will be pleased to have you give",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        126,
+        2473,
+        1167,
+        2511
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027#xywh=126,2473,1041,38",
+      "confidence": "line",
+      "gemini_text": "me a call. All orders by mail promptly attended to.",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        329,
+        2535,
+        1288,
+        2611
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027#xywh=329,2535,959,76",
+      "confidence": "line",
+      "gemini_text": "CHAS. STEVENSON,",
+      "surya_confidence": 0.9777
+    },
+    {
+      "bbox": [
+        127,
+        2613,
+        1470,
+        2681
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:027#xywh=127,2613,1343,68",
+      "confidence": "line",
+      "gemini_text": "1612 11th St. N. W. Washington, D. C.",
+      "surya_confidence": 0.9943
+    }
+  ],
+  "unmatched_gemini": [
+    "SEALS! SEALS!"
+  ]
+}

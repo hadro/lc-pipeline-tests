@@ -1,0 +1,516 @@
+{
+  "image_width": 1835,
+  "image_height": 2990,
+  "lines": [
+    {
+      "bbox": [
+        584,
+        413,
+        1368,
+        490
+      ],
+      "text": "Corrections, Additions, Etc.",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        430,
+        543,
+        1473,
+        595
+      ],
+      "text": "Alexander, William T., 9, Station \"G\" City,",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        436,
+        594,
+        1165,
+        636
+      ],
+      "text": "Andrews, Willie B., 1, 77 L nw",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        436,
+        635,
+        1387,
+        682
+      ],
+      "text": "Armistead, H. M., 1-7, 32d G, 1320 12th ne",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        436,
+        681,
+        1223,
+        728
+      ],
+      "text": "Arnett, Charles D., 7, 1302 22d nw",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        436,
+        725,
+        1364,
+        773
+      ],
+      "text": "Arrington, George, 5-7-4, S, 1233 9th nw",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        435,
+        769,
+        1188,
+        818
+      ],
+      "text": "Asbury, C. W., 5, Pension Office",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        431,
+        810,
+        1299,
+        864
+      ],
+      "text": "Becks, Simuel, 7, G, 71 Defrees st nw",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        434,
+        856,
+        1210,
+        908
+      ],
+      "text": "Berkeley, W. E., 10, 1340 13th nw",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        432,
+        903,
+        1280,
+        950
+      ],
+      "text": "Beverly, Robert H., 1-5, 1908 10th nw",
+      "confidence": 0.9859
+    },
+    {
+      "bbox": [
+        433,
+        949,
+        1080,
+        995
+      ],
+      "text": "Blakey. Rufus, 12, 631 N nw",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        436,
+        995,
+        1165,
+        1039
+      ],
+      "text": "Boggins, Frank K, 3, 406 1st sw",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        435,
+        1039,
+        1096,
+        1085
+      ],
+      "text": "Bowie, David, 6, 916 21st nw",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        435,
+        1081,
+        1179,
+        1130
+      ],
+      "text": "Bowie, W. A., 3, S, 1642 10th nw",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        435,
+        1127,
+        1188,
+        1174
+      ],
+      "text": "Boyd, Isaiah T., 9-11, 1624 11 nw",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        435,
+        1170,
+        1170,
+        1219
+      ],
+      "text": "Braxton, Edward, 4, 1415 27 nw",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        436,
+        1210,
+        1367,
+        1268
+      ],
+      "text": "Brooks, Major Arthur, 10-7-3, 2212 12 nw",
+      "confidence": 0.9921
+    },
+    {
+      "bbox": [
+        436,
+        1258,
+        1354,
+        1310
+      ],
+      "text": "Brooks, James E., 7, Burks Station, Va.",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        432,
+        1304,
+        1277,
+        1352
+      ],
+      "text": "Brooks, Phil Broome, 9, S, 318 3d sw",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        436,
+        1351,
+        1222,
+        1397
+      ],
+      "text": "Browne, J. R. F., 14, 1107 19th nw.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        436,
+        1400,
+        995,
+        1439
+      ],
+      "text": "Bush, A. M., 2100 M nw",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        436,
+        1440,
+        1037,
+        1487
+      ],
+      "text": "Butler, J. M., 5, 816 13 ne",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        436,
+        1486,
+        1081,
+        1530
+      ],
+      "text": "Butler, O. N., 4, 2708 O nw",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        438,
+        1527,
+        1271,
+        1576
+      ],
+      "text": "Cardozo, Francis L., 5, 1811 13 st nw",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        439,
+        1574,
+        1103,
+        1620
+      ],
+      "text": "Carter, James H, 15, 816 3 se",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        439,
+        1618,
+        1107,
+        1665
+      ],
+      "text": "Carter, John, 4, 2540 15th nw",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        441,
+        1663,
+        1078,
+        1709
+      ],
+      "text": "Chestnut, Olin, 6, 303 L nw",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        442,
+        1708,
+        1046,
+        1754
+      ],
+      "text": "Cole, George, 1, 2016 L nw",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        442,
+        1750,
+        1147,
+        1799
+      ],
+      "text": "Coleman, A. B., 5, 416 Elm nw",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        442,
+        1796,
+        1011,
+        1845
+      ],
+      "text": "Conn, R. T., 3, 502 E nw",
+      "confidence": 0.9895
+    },
+    {
+      "bbox": [
+        442,
+        1843,
+        1067,
+        1887
+      ],
+      "text": "Cook, Wm. H., 7, 926 24 nw",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        441,
+        1884,
+        1265,
+        1931
+      ],
+      "text": "Conway, Ewell L., 7, 6 Hanover nw",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        440,
+        1931,
+        1306,
+        1973
+      ],
+      "text": "Countee, Chas. E., 6, 38 Patterson ne",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        442,
+        1975,
+        1260,
+        2021
+      ],
+      "text": "Cox, George H., 1, 1511 Madison nw",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        442,
+        2022,
+        1040,
+        2066
+      ],
+      "text": "Craig, J. E., 15, 311 L nw",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        441,
+        2066,
+        1236,
+        2110
+      ],
+      "text": "Crutchfield, Robert H., 3, 432 I nw",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        441,
+        2109,
+        1095,
+        2156
+      ],
+      "text": "Davis, George, 12, 308 12 nw",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        441,
+        2151,
+        1215,
+        2201
+      ],
+      "text": "Davis, H. J., 5-7-1, G, 828 12 st ne",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        438,
+        2194,
+        1357,
+        2246
+      ],
+      "text": "Davis, Lemuel R., 9, Bureau of E and P",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        441,
+        2242,
+        1126,
+        2290
+      ],
+      "text": "Deans, Allen L., 12, 325 T nw",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        441,
+        2283,
+        1442,
+        2334
+      ],
+      "text": "Dorsey, Edward A., 1, 414 Cedar Court sw",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        443,
+        2332,
+        1196,
+        2376
+      ],
+      "text": "Dorster, Edwin T., 9, 1205 T nw",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        441,
+        2376,
+        1054,
+        2422
+      ],
+      "text": "Duffin, Fannie, 1123 23 nw",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        441,
+        2418,
+        1306,
+        2467
+      ],
+      "text": "Evans, Chas. A., 9-11-2, S, 704 E nw",
+      "confidence": 0.9868
+    },
+    {
+      "bbox": [
+        439,
+        2464,
+        1155,
+        2511
+      ],
+      "text": "Evans, Sarah E. C., 406 1st sw",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        441,
+        2508,
+        1268,
+        2555
+      ],
+      "text": "Evans, W. Bruce, 1, 1910 Vt. ave nw",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        438,
+        2552,
+        1087,
+        2600
+      ],
+      "text": "Foley, Robert, 7, 1623 10 nw",
+      "confidence": 0.9837
+    },
+    {
+      "bbox": [
+        435,
+        2593,
+        1483,
+        2647
+      ],
+      "text": "Freeman, Chas D., 1-5-1, 32 C-K-S, 1609 4 nw",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        435,
+        2640,
+        1482,
+        2691
+      ],
+      "text": "Fleetwood, Chr. A., O, 1419 Pierce Place, nw",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        441,
+        2688,
+        1083,
+        2735
+      ],
+      "text": "Gooden, J. W., 5, 1112 K nw",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        915,
+        2748,
+        990,
+        2781
+      ],
+      "text": "121",
+      "confidence": 0.9781
+    }
+  ]
+}

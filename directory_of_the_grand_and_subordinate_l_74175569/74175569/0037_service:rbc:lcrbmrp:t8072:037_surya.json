@@ -1,0 +1,276 @@
+{
+  "image_width": 1859,
+  "image_height": 3004,
+  "lines": [
+    {
+      "bbox": [
+        368,
+        435,
+        1487,
+        511
+      ],
+      "text": "GEORGE A. ROBINSON,",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        595,
+        549,
+        1249,
+        641
+      ],
+      "text": "Consorial Parlor,",
+      "confidence": 0.8901
+    },
+    {
+      "bbox": [
+        249,
+        697,
+        1185,
+        748
+      ],
+      "text": "First-Class Shaving and Hair Cutting.",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        891,
+        795,
+        1602,
+        848
+      ],
+      "text": "First-Class Artists Employed.",
+      "confidence": 0.9829
+    },
+    {
+      "bbox": [
+        257,
+        985,
+        1477,
+        1035
+      ],
+      "text": "Sixth St. and Missouri Ave., N. W.",
+      "confidence": 0.61
+    },
+    {
+      "bbox": [
+        659,
+        1045,
+        1194,
+        1087
+      ],
+      "text": "Opp. Penna. R. R. Station.",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        254,
+        1145,
+        486,
+        1187
+      ],
+      "text": "CIGARS.",
+      "confidence": 0.9165
+    },
+    {
+      "bbox": [
+        1293,
+        1147,
+        1595,
+        1185
+      ],
+      "text": "TOBACCO.",
+      "confidence": 0.941
+    },
+    {
+      "bbox": [
+        757,
+        1251,
+        1098,
+        1293
+      ],
+      "text": "Phone, 1733-Y.",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        390,
+        1345,
+        1471,
+        1431
+      ],
+      "text": "Che Porters' Exchange Hotel,",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        605,
+        1499,
+        1259,
+        1536
+      ],
+      "text": "BROWN & SMITH, Props.",
+      "confidence": 0.9136
+    },
+    {
+      "bbox": [
+        427,
+        1600,
+        1420,
+        1637
+      ],
+      "text": "Newly Rebuilt and Elegantly Refurnished.",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        249,
+        1643,
+        1598,
+        1683
+      ],
+      "text": "Meals at All Hours. High-grade Wines, Liquors & Cigars.",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        566,
+        1687,
+        1279,
+        1726
+      ],
+      "text": "Handsome Rooms, $1.00 and up.",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        414,
+        1773,
+        1435,
+        1830
+      ],
+      "text": "103 and 105 Sixth Street, N. W.",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        659,
+        1877,
+        1190,
+        1917
+      ],
+      "text": "Barber Shop Attached.",
+      "confidence": 0.978
+    },
+    {
+      "bbox": [
+        255,
+        1995,
+        1603,
+        2052
+      ],
+      "text": "Have Your Hair Cut or Get an Easy",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        819,
+        2076,
+        1037,
+        2125
+      ],
+      "text": "Shave",
+      "confidence": 0.8595
+    },
+    {
+      "bbox": [
+        886,
+        2188,
+        972,
+        2220
+      ],
+      "text": "AT",
+      "confidence": 0.9371
+    },
+    {
+      "bbox": [
+        309,
+        2271,
+        1540,
+        2370
+      ],
+      "text": "Chas. Johnson's Shaving Parlor,",
+      "confidence": 0.8795
+    },
+    {
+      "bbox": [
+        453,
+        2417,
+        1391,
+        2475
+      ],
+      "text": "COR. VERMONT AVE, AND R ST., N. W.",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        1003,
+        2522,
+        1606,
+        2571
+      ],
+      "text": "Hair Cut, 15c, (clippers).",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        250,
+        2527,
+        646,
+        2573
+      ],
+      "text": "Shave, 10 cents.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        359,
+        2578,
+        1488,
+        2629
+      ],
+      "text": "Hair Cut, 20c, (scissors). Shampoo, 20c.",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        694,
+        2636,
+        1158,
+        2683
+      ],
+      "text": "Razors Honed, 25c.",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        535,
+        2709,
+        1310,
+        2747
+      ],
+      "text": "FIRST-CLASS WORK ONLY.",
+      "confidence": 0.9333
+    },
+    {
+      "bbox": [
+        900,
+        2781,
+        955,
+        2813
+      ],
+      "text": "28",
+      "confidence": 0.9648
+    }
+  ]
+}

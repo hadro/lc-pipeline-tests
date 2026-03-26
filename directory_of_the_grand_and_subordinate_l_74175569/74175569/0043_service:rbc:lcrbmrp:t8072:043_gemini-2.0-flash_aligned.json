@@ -1,0 +1,142 @@
+{
+  "image": "0043_service:rbc:lcrbmrp:t8072:043.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:043",
+  "canvas_width": 1876,
+  "canvas_height": 3001,
+  "surya_median_confidence": 0.9985,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        327,
+        1733,
+        1607,
+        1857
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:043#xywh=327,1733,1280,124",
+      "confidence": "line",
+      "gemini_text": "Pleasant Fasting. Purely Vegetable.",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        325,
+        1898,
+        1615,
+        1971
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:043#xywh=325,1898,1290,73",
+      "confidence": "line",
+      "gemini_text": "Get your Stomach, Liver and Kidneys in good working",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        382,
+        2315,
+        1618,
+        2376
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:043#xywh=382,2315,1236,61",
+      "confidence": "line",
+      "gemini_text": "order. Makes Rich Red Blood and",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        730,
+        2069,
+        1205,
+        2120
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:043#xywh=730,2069,475,51",
+      "confidence": "line",
+      "gemini_text": "Increasing Vitality.",
+      "surya_confidence": 0.967
+    },
+    {
+      "bbox": [
+        757,
+        2598,
+        1505,
+        2655
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:043#xywh=757,2598,748,57",
+      "confidence": "line",
+      "gemini_text": "HARRIS CHEMICAL CO.,",
+      "surya_confidence": 0.9264
+    },
+    {
+      "bbox": [
+        1081,
+        2681,
+        1557,
+        2734
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:043#xywh=1081,2681,476,53",
+      "confidence": "line",
+      "gemini_text": "Washington, D. C.",
+      "surya_confidence": 0.9916
+    },
+    {
+      "bbox": [
+        324,
+        2154,
+        1618,
+        2222
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:043#xywh=324,2154,1294,68",
+      "confidence": "line",
+      "gemini_text": "It enables you to Withstand the Enervating Effects o",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        382,
+        2235,
+        1617,
+        2301
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:043#xywh=382,2235,1235,66",
+      "confidence": "line",
+      "gemini_text": "Extreme Heat and Cures Pimples and all other Un-",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        381,
+        2401,
+        720,
+        2457
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:043#xywh=381,2401,339,56",
+      "confidence": "line",
+      "gemini_text": "Torpid Liver.",
+      "surya_confidence": 0.9832
+    },
+    {
+      "bbox": [
+        963,
+        2503,
+        1621,
+        2561
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:043#xywh=963,2503,658,58",
+      "confidence": "line",
+      "gemini_text": "Price 50c. per Bottle. Sold by Leading Druggists.",
+      "surya_confidence": 0.9993
+    }
+  ],
+  "unmatched_gemini": [
+    "HARRIS NEW-BLOOD",
+    "HARRIS",
+    "TRADE",
+    "MARK",
+    "IS",
+    "NEW-BLOOD TONIC",
+    "REGISTERED",
+    "TONIC",
+    "sightly Blemishes Produced by Impure Blood or"
+  ]
+}

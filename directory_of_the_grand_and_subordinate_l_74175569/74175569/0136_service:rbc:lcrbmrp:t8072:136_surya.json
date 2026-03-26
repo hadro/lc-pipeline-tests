@@ -1,0 +1,436 @@
+{
+  "image_width": 1827,
+  "image_height": 2984,
+  "lines": [
+    {
+      "bbox": [
+        637,
+        421,
+        1270,
+        465
+      ],
+      "text": "Corrections, Additions, Etc.",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        412,
+        523,
+        1408,
+        565
+      ],
+      "text": "Washington, Charles, 1, National Museum.",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        413,
+        567,
+        1271,
+        611
+      ],
+      "text": "Watson, Hughes, 10, 1745 R I. ave nw",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        414,
+        615,
+        1230,
+        652
+      ],
+      "text": "Watson, Reddick, 12, 410 Elm st nw",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        413,
+        658,
+        1002,
+        698
+      ],
+      "text": "Wells, Frank, 6, 924 4 nw",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        413,
+        698,
+        1207,
+        745
+      ],
+      "text": "Webster, Fred T., 1, 18 Defrees nw",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        415,
+        746,
+        1120,
+        787
+      ],
+      "text": "Weston, Wm. J., 1, 319 Oak nw",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        416,
+        790,
+        1040,
+        832
+      ],
+      "text": "White, Algier, 6, 419 L nw.",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        416,
+        835,
+        977,
+        876
+      ],
+      "text": "White, B H., 3, 120 M se",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        415,
+        873,
+        1217,
+        925
+      ],
+      "text": "Wilcox, Sergt. Mitchell 5, 214 D nw",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        416,
+        920,
+        1364,
+        966
+      ],
+      "text": "Wilkinson, Garnet C, 5, Anacostia, D. C.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        415,
+        965,
+        1356,
+        1012
+      ],
+      "text": "Williams, Edward 4, 2815 Dumbarton nw",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        416,
+        1012,
+        1078,
+        1056
+      ],
+      "text": "Williams, John, 4, 814 17 nw",
+      "confidence": 0.9826
+    },
+    {
+      "bbox": [
+        416,
+        1056,
+        1195,
+        1100
+      ],
+      "text": "Williams, Philip B, 5, 1029 17 nw",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        416,
+        1097,
+        1338,
+        1147
+      ],
+      "text": "Williams, Thomas N, 7-11-2, 2121 11 nw",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        418,
+        1147,
+        996,
+        1189
+      ],
+      "text": "Willis, G. W 3, 332 C sw",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        0,
+        1148,
+        24,
+        1180
+      ],
+      "text": "011",
+      "confidence": 0.4382
+    },
+    {
+      "bbox": [
+        423,
+        1196,
+        1318,
+        1232
+      ],
+      "text": "Wilson, Jennie Stewart, Oregon ave nw",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        418,
+        1231,
+        1284,
+        1280
+      ],
+      "text": "Wilson, Lemuel A., 1, 997 Fla. ave nw",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        418,
+        1280,
+        1107,
+        1324
+      ],
+      "text": "Wood, James W, 12, 826 10 ne",
+      "confidence": 0.9935
+    },
+    {
+      "bbox": [
+        416,
+        1323,
+        1075,
+        1370
+      ],
+      "text": "Wormley. C. K., 5, 1801 8 nw",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        419,
+        1364,
+        1332,
+        1415
+      ],
+      "text": "Wright, Charles H., 3, 1826 Riggs st nw",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        419,
+        1410,
+        1235,
+        1461
+      ],
+      "text": "Young, James E., 6, 35 Hanover nw",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        0,
+        1570,
+        24,
+        1618
+      ],
+      "text": "4",
+      "confidence": 0.9831
+    },
+    {
+      "bbox": [
+        0,
+        1652,
+        25,
+        1685
+      ],
+      "text": "the",
+      "confidence": 0.9484
+    },
+    {
+      "bbox": [
+        422,
+        1664,
+        1504,
+        1727
+      ],
+      "text": "Roster Grand Chapter, O. E. S.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        0,
+        1750,
+        30,
+        1772
+      ],
+      "text": "11",
+      "confidence": 0.6244
+    },
+    {
+      "bbox": [
+        837,
+        1776,
+        1099,
+        1812
+      ],
+      "text": "1904-1905.",
+      "confidence": 0.9625
+    },
+    {
+      "bbox": [
+        0,
+        1843,
+        25,
+        1876
+      ],
+      "text": "nd",
+      "confidence": 0.964
+    },
+    {
+      "bbox": [
+        422,
+        1932,
+        1507,
+        1980
+      ],
+      "text": "James O. Bampfield.....Grand Royal Patron",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        768,
+        1991,
+        1163,
+        2028
+      ],
+      "text": "1119 V street nw.",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        421,
+        2072,
+        1505,
+        2110
+      ],
+      "text": "Hattie E. Lee..... Grand Royal Matron",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        770,
+        2129,
+        1155,
+        2162
+      ],
+      "text": "2908 M street nw",
+      "confidence": 0.9836
+    },
+    {
+      "bbox": [
+        423,
+        2206,
+        1507,
+        2243
+      ],
+      "text": "Wm. A. Baltimore... Asso. Grand Royal Patron",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        105,
+        2274,
+        137,
+        2290
+      ],
+      "text": "Dis",
+      "confidence": 0.281
+    },
+    {
+      "bbox": [
+        423,
+        2282,
+        1507,
+        2322
+      ],
+      "text": "Matilda Payne.....Asso. Grand Royal Matron",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        427,
+        2360,
+        1510,
+        2401
+      ],
+      "text": "Sarah P. Alexander..... Grand Treasurer",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        774,
+        2414,
+        1148,
+        2454
+      ],
+      "text": "1015 Q street nw",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        423,
+        2495,
+        1508,
+        2535
+      ],
+      "text": "Ellen L. Wayne . ..... Grand Secretary",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        709,
+        2550,
+        1222,
+        2588
+      ],
+      "text": "315 East Capitol street",
+      "confidence": 0.9481
+    },
+    {
+      "bbox": [
+        500,
+        2683,
+        1440,
+        2735
+      ],
+      "text": "Annual Meeting, Tuesday, May 25, 1905.",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        927,
+        2750,
+        1001,
+        2784
+      ],
+      "text": "127",
+      "confidence": 0.9822
+    },
+    {
+      "bbox": [
+        447,
+        2908,
+        561,
+        2922
+      ],
+      "text": "Section of the Party of the Party of the Party of the Party of the Party of the Party of the Party of the Party of the Party of the Party of the Party of the Party of the Party of the Party of the Party of the Party of the",
+      "confidence": 0.0828
+    }
+  ]
+}

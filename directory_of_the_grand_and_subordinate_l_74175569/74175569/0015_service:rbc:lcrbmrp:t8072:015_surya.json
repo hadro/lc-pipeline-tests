@@ -1,0 +1,156 @@
+{
+  "image_width": 1625,
+  "image_height": 2896,
+  "lines": [
+    {
+      "bbox": [
+        336,
+        294,
+        1326,
+        372
+      ],
+      "text": "GEORGE W. MARTIN,",
+      "confidence": 0.9718
+    },
+    {
+      "bbox": [
+        689,
+        444,
+        970,
+        496
+      ],
+      "text": "CATERER,",
+      "confidence": 0.9692
+    },
+    {
+      "bbox": [
+        517,
+        579,
+        1144,
+        625
+      ],
+      "text": "3149 Dumbarton Avenue.",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        339,
+        840,
+        1331,
+        884
+      ],
+      "text": "WEEKLY OR MONTHLY BOARDERS.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        223,
+        967,
+        1441,
+        1022
+      ],
+      "text": "Balls, Banquets, Picnics, Etc., served. Prices Rea-",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        738,
+        1043,
+        930,
+        1078
+      ],
+      "text": "sonable.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        288,
+        1326,
+        1406,
+        1390
+      ],
+      "text": "MARTIN'S BILLIARD PARLOR,",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        493,
+        1473,
+        1196,
+        1531
+      ],
+      "text": "3.151-53 Dumbarton Avenue.",
+      "confidence": 0.7031
+    },
+    {
+      "bbox": [
+        644,
+        1686,
+        1043,
+        1727
+      ],
+      "text": "Established 1898.",
+      "confidence": 0.978
+    },
+    {
+      "bbox": [
+        798,
+        1826,
+        901,
+        1885
+      ],
+      "text": "-",
+      "confidence": 0.2871
+    },
+    {
+      "bbox": [
+        240,
+        1992,
+        1462,
+        2065
+      ],
+      "text": "MARTIN'S BOOT BLACK PARLOR,",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        643,
+        2146,
+        1071,
+        2200
+      ],
+      "text": "1343 32d Street.",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        313,
+        2293,
+        1400,
+        2354
+      ],
+      "text": "After a dusty ride to Cabin John's or Rockville,",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        586,
+        2377,
+        1130,
+        2427
+      ],
+      "text": "stop off and get a shine.",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        495,
+        2597,
+        1227,
+        2646
+      ],
+      "text": "ALL SHINES FIVE CENTS.",
+      "confidence": 0.9818
+    }
+  ]
+}

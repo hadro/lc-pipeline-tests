@@ -1,0 +1,71 @@
+{
+  "image": "0128_service:rbc:lcrbmrp:t8072:128.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "section_title": "GRAND CHAPTER, O. E. S.",
+    "organization_name": "Datcher Chapter, U. D., O. E. S."
+  },
+  "page_context": {
+    "section_title": "Heroines of Jericho",
+    "organization_name": "Datcher Court, No. 3, Heroines of Jericho"
+  },
+  "entries": [
+    {
+      "name": "Thornton A. Jackson",
+      "title_or_role": "M. W. F. J.",
+      "address": "1229 T st. nw.",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Zerubbabel Court, No. 1, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128#xywh=444,899,952,55",
+      "image": "0128_service:rbc:lcrbmrp:t8072:128.jpg"
+    },
+    {
+      "name": "Helen Jackson",
+      "title_or_role": "M. A. M.",
+      "address": "1229 T st. nw.",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Zerubbabel Court, No. 1, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128#xywh=445,1071,948,53",
+      "image": "0128_service:rbc:lcrbmrp:t8072:128.jpg"
+    },
+    {
+      "name": "Julia Jackson",
+      "title_or_role": "Secretary",
+      "address": "429 6½ st. sw.",
+      "meeting_info": "Meets Second Monday.",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Zerubbabel Court, No. 1, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128#xywh=513,1141,816,48",
+      "image": "0128_service:rbc:lcrbmrp:t8072:128.jpg"
+    },
+    {
+      "name": "James O. Bampfield",
+      "title_or_role": "M. W. F. J.",
+      "address": "1119 V st. nw.",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128#xywh=446,2133,952,68",
+      "image": "0128_service:rbc:lcrbmrp:t8072:128.jpg"
+    },
+    {
+      "name": "Rebecca J. Taylor",
+      "title_or_role": "M. A. M.",
+      "address": "1245 Austin st., Brookland, D. C.",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128#xywh=450,2308,947,55",
+      "image": "0128_service:rbc:lcrbmrp:t8072:128.jpg"
+    },
+    {
+      "name": "Mary Ida Miller",
+      "title_or_role": "Secretary",
+      "address": "321 Oak st. nw.",
+      "meeting_info": "Meets First Tuesday.",
+      "section_title": "Heroines of Jericho",
+      "organization_name": "Datcher Court, No. 3, Heroines of Jericho",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:128#xywh=448,2479,954,49",
+      "image": "0128_service:rbc:lcrbmrp:t8072:128.jpg"
+    }
+  ]
+}

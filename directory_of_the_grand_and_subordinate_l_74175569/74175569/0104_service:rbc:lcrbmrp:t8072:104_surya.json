@@ -1,0 +1,666 @@
+{
+  "image_width": 1812,
+  "image_height": 2988,
+  "lines": [
+    {
+      "bbox": [
+        576,
+        357,
+        1203,
+        392
+      ],
+      "text": "DIRECTORY—Continued.",
+      "confidence": 0.9034
+    },
+    {
+      "bbox": [
+        419,
+        446,
+        1168,
+        476
+      ],
+      "text": "Smith, Daniel, 7, 1214 Potomac ave.",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        419,
+        478,
+        1297,
+        515
+      ],
+      "text": "Smith, H. S., 9-7-4, 33d A-S, 1524 Pierce Pl.",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        419,
+        515,
+        1354,
+        547
+      ],
+      "text": "Smith, H. N., 10-7-4, 32dB-H-R-S, 36 Patterson.",
+      "confidence": 0.9895
+    },
+    {
+      "bbox": [
+        419,
+        550,
+        1053,
+        580
+      ],
+      "text": "Smith, Jere., 6, Paterson, N. J.",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        418,
+        584,
+        1188,
+        614
+      ],
+      "text": "Smith, Jere., 7-11-2, 1630 Madison nw.",
+      "confidence": 0.9796
+    },
+    {
+      "bbox": [
+        418,
+        618,
+        1149,
+        648
+      ],
+      "text": "Smith, John A., 12-1, 631 N st. nw.",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        418,
+        652,
+        1038,
+        682
+      ],
+      "text": "Smith, John E., 1-5, 442 O nw.",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        418,
+        682,
+        1141,
+        721
+      ],
+      "text": "Smith, Rev. John E., 1, 1921 91/2 nw.",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        413,
+        716,
+        1061,
+        792
+      ],
+      "text": "Smith, John L., 15, 615 F nw. Smith, J. T., 15, 2121 9th nw.",
+      "confidence": 0.9604
+    },
+    {
+      "bbox": [
+        418,
+        787,
+        1043,
+        820
+      ],
+      "text": "Smith, John W., 6, Deanwood.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        418,
+        823,
+        1149,
+        852
+      ],
+      "text": "Smith, Reuben S., 1-5-3, 715 2d nw.",
+      "confidence": 0.9811
+    },
+    {
+      "bbox": [
+        415,
+        856,
+        1046,
+        888
+      ],
+      "text": "Smith, Wm., 7, G, 2720 P nw.",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        418,
+        888,
+        1117,
+        922
+      ],
+      "text": "Smith, Wm., 8, 607 Ball Court nw.",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        415,
+        924,
+        1087,
+        956
+      ],
+      "text": "Smith, Wm. A., 8, 1625 11th nw",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        416,
+        957,
+        1192,
+        991
+      ],
+      "text": "Smith, Wm. G., 5-7-2, M, 526 20th nw.",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        418,
+        989,
+        1150,
+        1025
+      ],
+      "text": "Smith, Wm. L., 7-11-2, Rosslyn, Va.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        413,
+        1024,
+        1211,
+        1059
+      ],
+      "text": "Smith, Wilson, 10-5-3, G-M-S, 210 L nw.",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        416,
+        1060,
+        1349,
+        1090
+      ],
+      "text": "Smothers, Rev. Jos. S., 3, 742 Alma ave. Mem-",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        451,
+        1096,
+        679,
+        1125
+      ],
+      "text": "phis, Tenn.",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        419,
+        1129,
+        1118,
+        1161
+      ],
+      "text": "Snowden, John E., 3-5-1, 206 D sw.",
+      "confidence": 0.9815
+    },
+    {
+      "bbox": [
+        419,
+        1164,
+        1354,
+        1196
+      ],
+      "text": "Snowden, Noble N., 6-5-1, 33d G-H-N-S, 404 1st",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        413,
+        1195,
+        1001,
+        1228
+      ],
+      "text": "Staley, N. B., 10, 412 N nw.",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        413,
+        1230,
+        1181,
+        1267
+      ],
+      "text": "Stevens, A. H., 5-7-2, R-S, Anacostia.",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        418,
+        1268,
+        1176,
+        1301
+      ],
+      "text": "Stevenson, Chas., 1, G, 1612 11th nw.",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        413,
+        1300,
+        1188,
+        1335
+      ],
+      "text": "Steward, Daniel M., 7, S, 2216 6th nw.",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        413,
+        1336,
+        1348,
+        1368
+      ],
+      "text": "Stewart, Chas. W., 14, 2729 Dumbarton ave.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        416,
+        1365,
+        1211,
+        1402
+      ],
+      "text": "Stewart, Daniel, 7-7-4, S. 1614 4th nw.",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        415,
+        1401,
+        1180,
+        1434
+      ],
+      "text": "Stewart, Daniel, Jr., 7, 1614 4th nw.",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        414,
+        1431,
+        1274,
+        1473
+      ],
+      "text": "Stewart, David L., 1-1-3, S, 1601 12th nw.",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        413,
+        1467,
+        1354,
+        1506
+      ],
+      "text": "Stewart, Paul R., 3-5-1, 32d C-M-R-S, 429 1st",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        415,
+        1505,
+        1214,
+        1538
+      ],
+      "text": "Stewart, R. B., 5, Freedman's Hospital.",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        413,
+        1540,
+        1046,
+        1572
+      ],
+      "text": "Stewart, Wm. E., 7, Anacostia.",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        410,
+        1576,
+        1044,
+        1606
+      ],
+      "text": "Stone, Chas. H., 6, 705 4th nw.",
+      "confidence": 0.9745
+    },
+    {
+      "bbox": [
+        415,
+        1608,
+        1132,
+        1640
+      ],
+      "text": "Strothers, Thos. D., 10, 1529 P nw.",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        412,
+        1643,
+        1043,
+        1675
+      ],
+      "text": "Stutely, Turner, 3, 445 8th sw.",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        412,
+        1677,
+        1345,
+        1709
+      ],
+      "text": "Summers, Arthur, 5, G, Cong. Chr., 10th and G",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        413,
+        1712,
+        966,
+        1744
+      ],
+      "text": "Sumner, D. A., 5, 525 3d se.",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        413,
+        1747,
+        1153,
+        1779
+      ],
+      "text": "Taliaferro, Wm. A., 5, A, 421 4th se.",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        408,
+        1778,
+        1303,
+        1815
+      ],
+      "text": "Tancil, A. W., 9-7-4, 33d G, 2111 Pa. ave. nw.",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        407,
+        1814,
+        1020,
+        1846
+      ],
+      "text": "Taylor, C. I., 6, G, 211 C sw.",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        407,
+        1846,
+        1146,
+        1884
+      ],
+      "text": "Taylor, Geo. P., 1, 50 Patterson ne.",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        409,
+        1883,
+        1263,
+        1913
+      ],
+      "text": "Taylor, Rev. J. A., 8, 1453 Pierce Pl. nw.",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        409,
+        1914,
+        1226,
+        1950
+      ],
+      "text": "Taylor, James A., 15, U. S. S. \"Sylph.\"",
+      "confidence": 0.9844
+    },
+    {
+      "bbox": [
+        407,
+        1950,
+        1303,
+        1983
+      ],
+      "text": "Taylor, John B., 5, Pullman Palace Car Co.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        409,
+        1985,
+        1206,
+        2018
+      ],
+      "text": "Taylor, Matt. M., 15-5-1, G. Navy Yard.",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        407,
+        2022,
+        1189,
+        2052
+      ],
+      "text": "Taylor, O. T., 9-11-2, M, 1245 Austin st.",
+      "confidence": 0.9893
+    },
+    {
+      "bbox": [
+        406,
+        2054,
+        1144,
+        2084
+      ],
+      "text": "Taylor, Wm. H., 5-11-2, 512 19th nw.",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        406,
+        2088,
+        1285,
+        2120
+      ],
+      "text": "Terrell, Robt. H., 14-7-4, 33d A-S, 326 T nw.",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        407,
+        2121,
+        1202,
+        2155
+      ],
+      "text": "Thomas, H. A., 9-11-2, Anacostia, D. C.",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        407,
+        2156,
+        1342,
+        2189
+      ],
+      "text": "Thomas, Jefferson, 1-5-3, G-S, 1629 N. J. ave.",
+      "confidence": 0.9895
+    },
+    {
+      "bbox": [
+        405,
+        2185,
+        1182,
+        2227
+      ],
+      "text": "Thomas, L. W., 5, Takoma Park, Md.",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        407,
+        2226,
+        1052,
+        2261
+      ],
+      "text": "Thomas, Perry, 1-1-3, 410 3d sw.",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        404,
+        2261,
+        1280,
+        2291
+      ],
+      "text": "Thomas, Peter, 9, G. 2440 Central ave. nw.",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        407,
+        2293,
+        1125,
+        2324
+      ],
+      "text": "Thomas, Spencer, 4-7, 1239 9th nw.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        403,
+        2328,
+        975,
+        2360
+      ],
+      "text": "Thomas, W. E., 3, 38 D se.",
+      "confidence": 0.985
+    },
+    {
+      "bbox": [
+        408,
+        2359,
+        1141,
+        2397
+      ],
+      "text": "Thomas, Wm. H., 10, 308 Q st. nw.",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        404,
+        2396,
+        1342,
+        2430
+      ],
+      "text": "Thompson, Chas. H., 12-2-3, G-S, 1123 1st nw.",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        405,
+        2425,
+        1070,
+        2466
+      ],
+      "text": "Thompson, D. B., 9, 2434 P nw.",
+      "confidence": 0.9884
+    },
+    {
+      "bbox": [
+        399,
+        2450,
+        1308,
+        2536
+      ],
+      "text": "Thompson, James W., 15-5-1, G-S, 344 C sw. Thompson, Lewis, 5, 1714 P nw.",
+      "confidence": 0.9802
+    },
+    {
+      "bbox": [
+        403,
+        2531,
+        1013,
+        2564
+      ],
+      "text": "Thompson, R., 15, 624 F nw.",
+      "confidence": 0.9841
+    },
+    {
+      "bbox": [
+        401,
+        2566,
+        1076,
+        2598
+      ],
+      "text": "Tibbs, Vivian, 3-5-1, S. 212 C se.",
+      "confidence": 0.9834
+    },
+    {
+      "bbox": [
+        402,
+        2596,
+        968,
+        2633
+      ],
+      "text": "Tignor, C. A., 9, 324 G sw.",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        402,
+        2630,
+        1037,
+        2668
+      ],
+      "text": "Tignor, Ezekiel, 9, 1213 E nw.",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        842,
+        2705,
+        899,
+        2739
+      ],
+      "text": "95",
+      "confidence": 0.9736
+    },
+    {
+      "bbox": [
+        430,
+        2907,
+        552,
+        2921
+      ],
+      "text": "والواد المشركين",
+      "confidence": 0.2368
+    }
+  ]
+}

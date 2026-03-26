@@ -1,0 +1,41 @@
+{
+  "image": "0032_service:mss:mss11879:mss11879-42:42001:0032.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0032",
+  "canvas_width": 1524,
+  "canvas_height": 706,
+  "surya_median_confidence": 0.53,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        825,
+        129,
+        1388,
+        199
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0032#xywh=825,129,563,70",
+      "confidence": "line",
+      "gemini_text": "No. Rochester February 4 1857.",
+      "surya_confidence": 0.53
+    },
+    {
+      "bbox": [
+        808,
+        496,
+        1275,
+        578
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0032#xywh=808,496,467,82",
+      "confidence": "line",
+      "gemini_text": "$ 367 42 Frederick Douglass",
+      "surya_confidence": 0.3857
+    }
+  ],
+  "unmatched_gemini": [
+    "A. KARNES,",
+    "Pay to Adams Hastings and McVian or Bearer",
+    "Three hundred and sixty seven forty two/100 Dollars",
+    "Press of Smith Benton & Co."
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "image_width": 1844,
+  "image_height": 2983,
+  "lines": [
+    {
+      "bbox": [
+        418,
+        403,
+        1372,
+        452
+      ],
+      "text": "OFFICERS OF IMPERIAL COUNCIL",
+      "confidence": 0.9667
+    },
+    {
+      "bbox": [
+        212,
+        533,
+        1574,
+        618
+      ],
+      "text": "Ancient Egyptian Arabic Order Nobles Mystic",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        399,
+        646,
+        1381,
+        727
+      ],
+      "text": "Shrine, North and South America,",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        785,
+        803,
+        1000,
+        837
+      ],
+      "text": "1902-1903.",
+      "confidence": 0.9617
+    },
+    {
+      "bbox": [
+        214,
+        1040,
+        1571,
+        1102
+      ],
+      "text": "Ill. Noble, Hiram Watty, 33d.... Imperial Grand Potentate",
+      "confidence": 0.871
+    },
+    {
+      "bbox": [
+        417,
+        1101,
+        1375,
+        1152
+      ],
+      "text": "No. 521 West Lanvale St., Baltimore, Md.",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        217,
+        1230,
+        1574,
+        1290
+      ],
+      "text": "Ill. Noble, John H. Dickerson, 33d, Imperial Dep. Potentate",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        691,
+        1296,
+        1108,
+        1338
+      ],
+      "text": "Jacksonville, Fla.",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        222,
+        1409,
+        1572,
+        1470
+      ],
+      "text": "Ill. Noble, John W. Smothers, 33d.. Imperial Chief Rabban",
+      "confidence": 0.8903
+    },
+    {
+      "bbox": [
+        683,
+        1476,
+        1111,
+        1516
+      ],
+      "text": "West Chester, Pa.",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        222,
+        1589,
+        1575,
+        1650
+      ],
+      "text": "Ill. Noble, W. C. Brown, 32d .. Imperial Assistant Rabban",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        726,
+        1657,
+        1072,
+        1695
+      ],
+      "text": "Richmond, Va.",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        224,
+        1778,
+        921,
+        1829
+      ],
+      "text": "Ill. Noble, James H. Hill, 33d,",
+      "confidence": 0.9789
+    },
+    {
+      "bbox": [
+        793,
+        1822,
+        1584,
+        1879
+      ],
+      "text": "Imperial High Priest and Prophet",
+      "confidence": 0.9448
+    },
+    {
+      "bbox": [
+        691,
+        1893,
+        1117,
+        1931
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        223,
+        2003,
+        1580,
+        2064
+      ],
+      "text": "Ill. Noble, Alfred A. Watts, 33d.....Imperial Treasurer",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        734,
+        2069,
+        1083,
+        2110
+      ],
+      "text": "Baltimore, Md.",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        228,
+        2184,
+        1582,
+        2242
+      ],
+      "text": "Ill. Noble, Magnus L Robinson, 33d .... Imperial Recorder",
+      "confidence": 0.9898
+    },
+    {
+      "bbox": [
+        716,
+        2251,
+        1095,
+        2288
+      ],
+      "text": "Alexandria, Va.",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        230,
+        2364,
+        1583,
+        2422
+      ],
+      "text": "Ill. Noble, Thornton A. Jackson, 33d .... Imperial Lecturer",
+      "confidence": 0.8128
+    },
+    {
+      "bbox": [
+        694,
+        2428,
+        1130,
+        2469
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        882,
+        2518,
+        938,
+        2555
+      ],
+      "text": "35",
+      "confidence": 0.9797
+    },
+    {
+      "bbox": [
+        457,
+        2894,
+        567,
+        2909
+      ],
+      "text": "State of the later",
+      "confidence": 0.2417
+    }
+  ]
+}

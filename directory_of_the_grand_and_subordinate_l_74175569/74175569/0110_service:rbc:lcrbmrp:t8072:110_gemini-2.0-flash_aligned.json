@@ -1,0 +1,360 @@
+{
+  "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110",
+  "canvas_width": 1818,
+  "canvas_height": 2998,
+  "surya_median_confidence": 0.9914,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        361,
+        490,
+        1413,
+        541
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=361,490,1052,51",
+      "confidence": "line",
+      "gemini_text": "M. W. Grand Lodge Officers, for 1904.",
+      "surya_confidence": 0.9931
+    },
+    {
+      "bbox": [
+        281,
+        749,
+        1498,
+        795
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=281,749,1217,46",
+      "confidence": "line",
+      "gemini_text": "M. W. Bro. Wm. H. Judd Malvin - Grand Master",
+      "surya_confidence": 0.9976
+    },
+    {
+      "bbox": [
+        281,
+        802,
+        1498,
+        856
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=281,802,1217,54",
+      "confidence": "line",
+      "gemini_text": "R. W. Bro. John Payne Turner, Deputy Grand Master",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        528,
+        862,
+        1498,
+        906
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=528,862,970,44",
+      "confidence": "line",
+      "gemini_text": "“ “ Charles D. Freeman, Senior Grand Warden",
+      "surya_confidence": 0.9883
+    },
+    {
+      "bbox": [
+        526,
+        913,
+        1498,
+        962
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=526,913,972,49",
+      "confidence": "line",
+      "gemini_text": "“ “ William A. Clark Junior Grand Warden",
+      "surya_confidence": 0.9966
+    },
+    {
+      "bbox": [
+        983,
+        968,
+        1499,
+        1014
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=983,968,516,46",
+      "confidence": "line",
+      "gemini_text": "“ “ Henry Coleman - Grand Treasurer",
+      "surya_confidence": 0.9122
+    },
+    {
+      "bbox": [
+        525,
+        1025,
+        1500,
+        1077
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=525,1025,975,52",
+      "confidence": "line",
+      "gemini_text": "“ “ William H. Myers - Grand Secretary",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        1118,
+        1085,
+        1498,
+        1122
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=1118,1085,380,37",
+      "confidence": "line",
+      "gemini_text": "W “ Rev. James H. Hill Grand Chaplain",
+      "surya_confidence": 0.8551
+    },
+    {
+      "bbox": [
+        532,
+        1134,
+        1499,
+        1188
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=532,1134,967,54",
+      "confidence": "line",
+      "gemini_text": "“ “ James O. Bampfield - Grand Marshal",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        529,
+        1188,
+        1502,
+        1245
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=529,1188,973,57",
+      "confidence": "line",
+      "gemini_text": "“ “ Amasa W. Scott, Assistant Grand Marshal",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        526,
+        1248,
+        1500,
+        1300
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=526,1248,974,52",
+      "confidence": "line",
+      "gemini_text": "“ “ Wm. H. Underwood, Gr. Lecturer and Vis.",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        528,
+        1304,
+        1501,
+        1354
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=528,1304,973,50",
+      "confidence": "line",
+      "gemini_text": "“ “ Fred D. Henry - Senior Grand Deacon",
+      "surya_confidence": 0.9957
+    },
+    {
+      "bbox": [
+        532,
+        1360,
+        1501,
+        1411
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=532,1360,969,51",
+      "confidence": "line",
+      "gemini_text": "“ “ Samuel T. Craig - Junior Grand Deacon",
+      "surya_confidence": 0.9977
+    },
+    {
+      "bbox": [
+        528,
+        1417,
+        1500,
+        1463
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=528,1417,972,46",
+      "confidence": "line",
+      "gemini_text": "“ “ Peter Walker - Senior Grand Steward",
+      "surya_confidence": 0.9975
+    },
+    {
+      "bbox": [
+        531,
+        1470,
+        1501,
+        1523
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=531,1470,970,53",
+      "confidence": "line",
+      "gemini_text": "“ “ John S. George - Junior Grand Steward",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        525,
+        1526,
+        1503,
+        1577
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=525,1526,978,51",
+      "confidence": "line",
+      "gemini_text": "“ “ William Washington Grand Sword Bearer",
+      "surya_confidence": 0.9644
+    },
+    {
+      "bbox": [
+        529,
+        1583,
+        1502,
+        1632
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=529,1583,973,49",
+      "confidence": "line",
+      "gemini_text": "“ “ Wm. A. McBeth - Grand Standard Bearer",
+      "surya_confidence": 0.9838
+    },
+    {
+      "bbox": [
+        526,
+        1636,
+        1503,
+        1689
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=526,1636,977,53",
+      "confidence": "line",
+      "gemini_text": "“ “ William H. Severson - Grand Librarian",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        525,
+        1691,
+        1506,
+        1746
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=525,1691,981,55",
+      "confidence": "line",
+      "gemini_text": "“ “ John H. Jackson - Grand Pursuivant",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        528,
+        1749,
+        1506,
+        1804
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=528,1749,978,55",
+      "confidence": "line",
+      "gemini_text": "“ “ John Coleman Nalle - Grand Organist",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        531,
+        1804,
+        1505,
+        1856
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=531,1804,974,52",
+      "confidence": "line",
+      "gemini_text": "“ “ Robert H. Ford - Grand Tiler",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        628,
+        2001,
+        1168,
+        2041
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=628,2001,540,40",
+      "confidence": "line",
+      "gemini_text": "Grand Master's Address.",
+      "surya_confidence": 0.9625
+    },
+    {
+      "bbox": [
+        282,
+        2077,
+        1506,
+        2128
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=282,2077,1224,51",
+      "confidence": "line",
+      "gemini_text": "M. W. Bro Wm. H. Judd Malvin, 1018 R. St. N. W.",
+      "surya_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        644,
+        2138,
+        1147,
+        2182
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=644,2138,503,44",
+      "confidence": "line",
+      "gemini_text": "Phone, North 1832-M.",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        597,
+        2248,
+        1192,
+        2292
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=597,2248,595,44",
+      "confidence": "line",
+      "gemini_text": "Grand Secretary's Address.",
+      "surya_confidence": 0.975
+    },
+    {
+      "bbox": [
+        285,
+        2334,
+        1500,
+        2389
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=285,2334,1215,55",
+      "confidence": "line",
+      "gemini_text": "R. W. Bro. Wm. H. Myers - 308 3d St. S. W.",
+      "surya_confidence": 0.9815
+    },
+    {
+      "bbox": [
+        287,
+        2469,
+        1506,
+        2517
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=287,2469,1219,48",
+      "confidence": "line",
+      "gemini_text": "Address, Chairman Committee on Foreign Correspondence",
+      "surya_confidence": 0.9788
+    },
+    {
+      "bbox": [
+        287,
+        2549,
+        1504,
+        2595
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=287,2549,1217,46",
+      "confidence": "line",
+      "gemini_text": "R. W. Bro. Wm. H. Grimshaw Library of Congress",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        860,
+        2699,
+        936,
+        2734
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=860,2699,76,35",
+      "confidence": "line",
+      "gemini_text": "101",
+      "surya_confidence": 0.9935
+    }
+  ],
+  "unmatched_gemini": []
+}

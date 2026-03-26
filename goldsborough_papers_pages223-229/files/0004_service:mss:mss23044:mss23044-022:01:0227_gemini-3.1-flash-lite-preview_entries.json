@@ -1,0 +1,197 @@
+{
+  "image": "0004_service:mss:mss23044:mss23044-022:01:0227.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "vessel_identity": "Frigate",
+    "section_title": "Watch-bill",
+    "subsection": "Forecastle"
+  },
+  "page_context": {
+    "vessel_identity": "St. Lawrence",
+    "section_title": "Armament",
+    "subsection": "Main Deck"
+  },
+  "entries": [
+    {
+      "vessel_identity": "St. Lawrence",
+      "section_title": "Armament",
+      "subsection": "Main Deck",
+      "item_label": "32-pdr",
+      "value": "20",
+      "details": "57 cwt",
+      "canvas_fragment": "",
+      "image": "0004_service:mss:mss23044:mss23044-022:01:0227.jpg"
+    },
+    {
+      "vessel_identity": "St. Lawrence",
+      "section_title": "Armament",
+      "subsection": "Main Deck",
+      "item_label": "8-in",
+      "value": "10",
+      "details": "63 cwt",
+      "canvas_fragment": "",
+      "image": "0004_service:mss:mss23044:mss23044-022:01:0227.jpg"
+    },
+    {
+      "vessel_identity": "St. Lawrence",
+      "section_title": "Armament",
+      "subsection": "Spar Deck",
+      "item_label": "32-pdr",
+      "value": "16",
+      "details": "33 cwt",
+      "canvas_fragment": "",
+      "image": "0004_service:mss:mss23044:mss23044-022:01:0227.jpg"
+    },
+    {
+      "vessel_identity": "St. Lawrence",
+      "section_title": "Armament",
+      "subsection": "Spar Deck",
+      "item_label": "32-pdr",
+      "value": "4",
+      "details": "57 cwt",
+      "canvas_fragment": "",
+      "image": "0004_service:mss:mss23044:mss23044-022:01:0227.jpg"
+    },
+    {
+      "vessel_identity": "Sabine",
+      "section_title": "Armament",
+      "subsection": "Spar Deck",
+      "item_label": "64-pdr pivots",
+      "value": "2",
+      "details": "12000 lbs each",
+      "canvas_fragment": "",
+      "image": "0004_service:mss:mss23044:mss23044-022:01:0227.jpg"
+    },
+    {
+      "vessel_identity": "Sabine",
+      "section_title": "Armament",
+      "subsection": "Spar Deck",
+      "item_label": "32-pdr",
+      "value": "18",
+      "details": "33 cwt",
+      "canvas_fragment": "",
+      "image": "0004_service:mss:mss23044:mss23044-022:01:0227.jpg"
+    },
+    {
+      "vessel_identity": "Sabine",
+      "section_title": "Armament",
+      "subsection": "Main Deck",
+      "item_label": "32-pdr",
+      "value": "18",
+      "details": "57 cwt",
+      "canvas_fragment": "",
+      "image": "0004_service:mss:mss23044:mss23044-022:01:0227.jpg"
+    },
+    {
+      "vessel_identity": "Sabine",
+      "section_title": "Armament",
+      "subsection": "Main Deck",
+      "item_label": "8-in",
+      "value": "10",
+      "details": "63 cwt",
+      "canvas_fragment": "",
+      "image": "0004_service:mss:mss23044:mss23044-022:01:0227.jpg"
+    },
+    {
+      "vessel_identity": "Merrimac",
+      "section_title": "Armament",
+      "subsection": "Spar Deck",
+      "item_label": "10-in",
+      "value": "2",
+      "details": "12000 lbs",
+      "canvas_fragment": "",
+      "image": "0004_service:mss:mss23044:mss23044-022:01:0227.jpg"
+    },
+    {
+      "vessel_identity": "Merrimac",
+      "section_title": "Armament",
+      "subsection": "Spar Deck",
+      "item_label": "8-in",
+      "value": "14",
+      "details": "63 cwt",
+      "canvas_fragment": "",
+      "image": "0004_service:mss:mss23044:mss23044-022:01:0227.jpg"
+    },
+    {
+      "vessel_identity": "Merrimac",
+      "section_title": "Armament",
+      "subsection": "Gun Deck",
+      "item_label": "9-in",
+      "value": "24",
+      "details": "9000 lbs",
+      "canvas_fragment": "",
+      "image": "0004_service:mss:mss23044:mss23044-022:01:0227.jpg"
+    },
+    {
+      "vessel_identity": "Wabash",
+      "section_title": "Armament",
+      "subsection": "Spar Deck",
+      "item_label": "10-in",
+      "value": "2",
+      "details": "12000 lbs",
+      "canvas_fragment": "",
+      "image": "0004_service:mss:mss23044:mss23044-022:01:0227.jpg"
+    },
+    {
+      "vessel_identity": "Wabash",
+      "section_title": "Armament",
+      "subsection": "Spar Deck",
+      "item_label": "8-in",
+      "value": "14",
+      "details": "63 cwt",
+      "canvas_fragment": "",
+      "image": "0004_service:mss:mss23044:mss23044-022:01:0227.jpg"
+    },
+    {
+      "vessel_identity": "Wabash",
+      "section_title": "Armament",
+      "subsection": "Gun Deck",
+      "item_label": "9-in",
+      "value": "24",
+      "details": "9000 lbs",
+      "canvas_fragment": "",
+      "image": "0004_service:mss:mss23044:mss23044-022:01:0227.jpg"
+    },
+    {
+      "vessel_identity": "Roanoke & Colarado",
+      "section_title": "Armament",
+      "subsection": "General",
+      "item_label": "Armament",
+      "value": "Same as Merrimac & Wabash",
+      "details": "N/A",
+      "canvas_fragment": "",
+      "image": "0004_service:mss:mss23044:mss23044-022:01:0227.jpg"
+    },
+    {
+      "vessel_identity": "Minnesota",
+      "section_title": "Armament",
+      "subsection": "Spar Deck",
+      "item_label": "10-in",
+      "value": "1",
+      "details": "12000 lbs",
+      "canvas_fragment": "",
+      "image": "0004_service:mss:mss23044:mss23044-022:01:0227.jpg"
+    },
+    {
+      "vessel_identity": "Minnesota",
+      "section_title": "Armament",
+      "subsection": "Spar Deck",
+      "item_label": "8-in",
+      "value": "14",
+      "details": "63 cwt",
+      "canvas_fragment": "",
+      "image": "0004_service:mss:mss23044:mss23044-022:01:0227.jpg"
+    },
+    {
+      "vessel_identity": "Minnesota",
+      "section_title": "Armament",
+      "subsection": "Gun Deck",
+      "item_label": "9-in",
+      "value": "26",
+      "details": "9000 lbs",
+      "canvas_fragment": "",
+      "image": "0004_service:mss:mss23044:mss23044-022:01:0227.jpg"
+    }
+  ]
+}

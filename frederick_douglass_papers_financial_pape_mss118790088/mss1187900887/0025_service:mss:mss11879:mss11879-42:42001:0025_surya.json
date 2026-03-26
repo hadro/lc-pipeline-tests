@@ -1,0 +1,246 @@
+{
+  "image_width": 1470,
+  "image_height": 1275,
+  "lines": [
+    {
+      "bbox": [
+        1106,
+        110,
+        1387,
+        186
+      ],
+      "text": "ouglass &r.",
+      "confidence": 0.9061
+    },
+    {
+      "bbox": [
+        65,
+        121,
+        694,
+        179
+      ],
+      "text": "Dr. German American Savings Bank, in acc't with",
+      "confidence": 0.4321
+    },
+    {
+      "bbox": [
+        327,
+        189,
+        699,
+        216
+      ],
+      "text": "Under \"Regulations concerning",
+      "confidence": 0.9519
+    },
+    {
+      "bbox": [
+        89,
+        191,
+        162,
+        223
+      ],
+      "text": "1876",
+      "confidence": 0.9859
+    },
+    {
+      "bbox": [
+        755,
+        193,
+        1075,
+        223
+      ],
+      "text": "Deposits,\" printed in this book",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        525,
+        255,
+        1117,
+        330
+      ],
+      "text": "1150 - may 5 le lek.",
+      "confidence": 0.9695
+    },
+    {
+      "bbox": [
+        1222,
+        278,
+        1337,
+        303
+      ],
+      "text": "1500",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        553,
+        318,
+        727,
+        367
+      ],
+      "text": "342 -",
+      "confidence": 0.9247
+    },
+    {
+      "bbox": [
+        742,
+        329,
+        843,
+        368
+      ],
+      "text": "June",
+      "confidence": 0.6616
+    },
+    {
+      "bbox": [
+        1275,
+        331,
+        1330,
+        355
+      ],
+      "text": "25",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        534,
+        412,
+        717,
+        461
+      ],
+      "text": "1500 -",
+      "confidence": 0.9566
+    },
+    {
+      "bbox": [
+        750,
+        418,
+        911,
+        468
+      ],
+      "text": "July 19",
+      "confidence": 0.9125
+    },
+    {
+      "bbox": [
+        911,
+        421,
+        1143,
+        480
+      ],
+      "text": "Ex Jaskson",
+      "confidence": 0.9627
+    },
+    {
+      "bbox": [
+        742,
+        465,
+        1198,
+        577
+      ],
+      "text": "Sept. 21 Costs Spr. pol.",
+      "confidence": 0.9768
+    },
+    {
+      "bbox": [
+        1243,
+        479,
+        1409,
+        577
+      ],
+      "text": "71722",
+      "confidence": 0.9418
+    },
+    {
+      "bbox": [
+        227,
+        521,
+        320,
+        560
+      ],
+      "text": "21",
+      "confidence": 0.8766
+    },
+    {
+      "bbox": [
+        102,
+        620,
+        216,
+        676
+      ],
+      "text": "arch 30",
+      "confidence": 0.3759
+    },
+    {
+      "bbox": [
+        527,
+        675,
+        556,
+        710
+      ],
+      "text": "3",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        561,
+        678,
+        698,
+        717
+      ],
+      "text": "9947",
+      "confidence": 0.9874
+    },
+    {
+      "bbox": [
+        1226,
+        681,
+        1402,
+        728
+      ],
+      "text": "399476",
+      "confidence": 0.873
+    },
+    {
+      "bbox": [
+        229,
+        774,
+        497,
+        827
+      ],
+      "text": "Bulgun",
+      "confidence": 0.8711
+    },
+    {
+      "bbox": [
+        64,
+        775,
+        200,
+        824
+      ],
+      "text": "apr. 2",
+      "confidence": 0.9143
+    },
+    {
+      "bbox": [
+        633,
+        793,
+        722,
+        832
+      ],
+      "text": "122",
+      "confidence": 0.7639
+    },
+    {
+      "bbox": [
+        551,
+        883,
+        643,
+        914
+      ],
+      "text": "323",
+      "confidence": 0.9833
+    }
+  ]
+}

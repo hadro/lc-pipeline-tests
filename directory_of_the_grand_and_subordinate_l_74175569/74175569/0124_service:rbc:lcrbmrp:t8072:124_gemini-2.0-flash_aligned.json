@@ -1,0 +1,240 @@
+{
+  "image": "0124_service:rbc:lcrbmrp:t8072:124.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124",
+  "canvas_width": 1822,
+  "canvas_height": 2992,
+  "surya_median_confidence": 0.9969,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        540,
+        399,
+        1316,
+        472
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=540,399,776,73",
+      "confidence": "line",
+      "gemini_text": "Marian Chapter, No. 8, O. E. S.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        456,
+        523,
+        1415,
+        596
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=456,523,959,73",
+      "confidence": "line",
+      "gemini_text": "Nellie Williams, Royal Matron, 823 2nd st. se.",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        460,
+        591,
+        1410,
+        663
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=460,591,950,72",
+      "confidence": "line",
+      "gemini_text": "J. H. F. Brown, Royal Patron, 1013 18th nw.",
+      "surya_confidence": 0.9957
+    },
+    {
+      "bbox": [
+        504,
+        671,
+        1360,
+        740
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=504,671,856,69",
+      "confidence": "line",
+      "gemini_text": "Matilda Payne, Secretary, 1511 M st. nw.",
+      "surya_confidence": 0.9983
+    },
+    {
+      "bbox": [
+        704,
+        755,
+        1168,
+        812
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=704,755,464,57",
+      "confidence": "line",
+      "gemini_text": "Meets Fourth Friday.",
+      "surya_confidence": 0.9946
+    },
+    {
+      "bbox": [
+        467,
+        1232,
+        1415,
+        1305
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=467,1232,948,73",
+      "confidence": "line",
+      "gemini_text": "Prince Hall Chapter, No. 12, O. E. S.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        467,
+        1355,
+        1417,
+        1433
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=467,1355,950,78",
+      "confidence": "line",
+      "gemini_text": "Amelia Montague...........Royal Matron",
+      "surya_confidence": 0.9962
+    },
+    {
+      "bbox": [
+        801,
+        1422,
+        1102,
+        1470
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=801,1422,301,48",
+      "confidence": "line",
+      "gemini_text": "1303 T st. nw.",
+      "surya_confidence": 0.9922
+    },
+    {
+      "bbox": [
+        466,
+        1480,
+        1421,
+        1554
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=466,1480,955,74",
+      "confidence": "line",
+      "gemini_text": "Walter J. Abrams...........Royal Patron",
+      "surya_confidence": 0.996
+    },
+    {
+      "bbox": [
+        753,
+        1543,
+        1132,
+        1597
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=753,1543,379,54",
+      "confidence": "line",
+      "gemini_text": "1241 22nd st. nw.",
+      "surya_confidence": 0.9962
+    },
+    {
+      "bbox": [
+        528,
+        1620,
+        1328,
+        1682
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=528,1620,800,62",
+      "confidence": "line",
+      "gemini_text": "Eva B. Lucas, Secretary, 461 E st. sw.",
+      "surya_confidence": 0.9969
+    },
+    {
+      "bbox": [
+        730,
+        1702,
+        1165,
+        1756
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=730,1702,435,54",
+      "confidence": "line",
+      "gemini_text": "Meets First Monday.",
+      "surya_confidence": 0.9945
+    },
+    {
+      "bbox": [
+        574,
+        2235,
+        1340,
+        2301
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=574,2235,766,66",
+      "confidence": "line",
+      "gemini_text": "Electa Chapter, No. 14, O. E. S.",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        472,
+        2362,
+        1428,
+        2421
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=472,2362,956,59",
+      "confidence": "line",
+      "gemini_text": "Rebecca J. Taylor...........Royal Matron.",
+      "surya_confidence": 0.9978
+    },
+    {
+      "bbox": [
+        606,
+        2417,
+        1290,
+        2476
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=606,2417,684,59",
+      "confidence": "line",
+      "gemini_text": "1245 Austin st., Brookland, D. C.",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        478,
+        2486,
+        1428,
+        2545
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=478,2486,950,59",
+      "confidence": "line",
+      "gemini_text": "W. A. Warfield, Royal Patron, 1901 11th nw.",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        586,
+        2566,
+        1317,
+        2623
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=586,2566,731,57",
+      "confidence": "line",
+      "gemini_text": "Ella Jones, Secretary, 916 E st. sw.",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        694,
+        2645,
+        1240,
+        2700
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=694,2645,546,55",
+      "confidence": "line",
+      "gemini_text": "Meets Second Wednesday.",
+      "surya_confidence": 0.9966
+    },
+    {
+      "bbox": [
+        918,
+        2722,
+        994,
+        2760
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:124#xywh=918,2722,76,38",
+      "confidence": "line",
+      "gemini_text": "115",
+      "surya_confidence": 0.978
+    }
+  ],
+  "unmatched_gemini": []
+}

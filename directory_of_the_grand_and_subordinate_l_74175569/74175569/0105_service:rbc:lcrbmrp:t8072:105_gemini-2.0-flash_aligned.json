@@ -1,0 +1,348 @@
+{
+  "image": "0105_service:rbc:lcrbmrp:t8072:105.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105",
+  "canvas_width": 1909,
+  "canvas_height": 2991,
+  "surya_median_confidence": 0.9905,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        741,
+        387,
+        1258,
+        420
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=741,387,517,33",
+      "confidence": "line",
+      "gemini_text": "Hot and Cold Baths at",
+      "surya_confidence": 0.9643
+    },
+    {
+      "bbox": [
+        594,
+        439,
+        1412,
+        479
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=594,439,818,40",
+      "confidence": "line",
+      "gemini_text": "CIVIL RIGHTS BARBER SHOP.",
+      "surya_confidence": 0.9369
+    },
+    {
+      "bbox": [
+        327,
+        498,
+        766,
+        535
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=327,498,439,37",
+      "confidence": "line",
+      "gemini_text": "1144 15th St, N. W. Washington, D. C.",
+      "surya_confidence": 0.9926
+    },
+    {
+      "bbox": [
+        372,
+        552,
+        1678,
+        596
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=372,552,1306,44",
+      "confidence": "line",
+      "gemini_text": "Hair Cutting, Shaving and Shampooing done in the",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        329,
+        593,
+        1676,
+        640
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=329,593,1347,47",
+      "confidence": "line",
+      "gemini_text": "Finest Style. Special Attention Paid to Children's Hair",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        330,
+        643,
+        1678,
+        682
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=330,643,1348,39",
+      "confidence": "line",
+      "gemini_text": "Cutting. The patronage of the public is respectfully solicited.",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        460,
+        708,
+        857,
+        746
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=460,708,397,38",
+      "confidence": "line",
+      "gemini_text": "'Phone 3789-m, W. P. GRAY, Prop'r",
+      "surya_confidence": 0.8528
+    },
+    {
+      "bbox": [
+        610,
+        812,
+        1404,
+        850
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=610,812,794,38",
+      "confidence": "line",
+      "gemini_text": "CHAS. E. GORDON'S BUFFET,",
+      "surya_confidence": 0.9684
+    },
+    {
+      "bbox": [
+        1011,
+        905,
+        1364,
+        942
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=1011,905,353,37",
+      "confidence": "line",
+      "gemini_text": "Imperial Hotel.",
+      "surya_confidence": 0.9521
+    },
+    {
+      "bbox": [
+        1236,
+        996,
+        1581,
+        1032
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=1236,996,345,36",
+      "confidence": "line",
+      "gemini_text": "237 Seneca St.,",
+      "surya_confidence": 0.9928
+    },
+    {
+      "bbox": [
+        1145,
+        1870,
+        1562,
+        1908
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=1145,1870,417,38",
+      "confidence": "line",
+      "gemini_text": "1505 M St., N. W. Wa hington, D. C.",
+      "surya_confidence": 0.9939
+    },
+    {
+      "bbox": [
+        1143,
+        2212,
+        1571,
+        2250
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=1143,2212,428,38",
+      "confidence": "line",
+      "gemini_text": "1642 10th St., N W. Washington. D. C.",
+      "surya_confidence": 0.9855
+    },
+    {
+      "bbox": [
+        1143,
+        2637,
+        1574,
+        2675
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=1143,2637,431,38",
+      "confidence": "line",
+      "gemini_text": "806 and 808 4th St., N. W. Washington, D. C.",
+      "surya_confidence": 0.989
+    },
+    {
+      "bbox": [
+        973,
+        2704,
+        1032,
+        2738
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=973,2704,59,34",
+      "confidence": "line",
+      "gemini_text": "96",
+      "surya_confidence": 0.9808
+    },
+    {
+      "bbox": [
+        531,
+        1082,
+        1467,
+        1123
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=531,1082,936,41",
+      "confidence": "line",
+      "gemini_text": "Recollections of Richards, McKean & Co.",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        373,
+        1196,
+        1676,
+        1234
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=373,1196,1303,38",
+      "confidence": "line",
+      "gemini_text": "The most intelligently selected, and south of New York the",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        327,
+        1250,
+        1675,
+        1290
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=327,1250,1348,40",
+      "confidence": "line",
+      "gemini_text": "largest stock of Wines and Distillates, (302 different kinds,)",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        326,
+        1306,
+        542,
+        1341
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=326,1306,216,35",
+      "confidence": "line",
+      "gemini_text": "is that of",
+      "surya_confidence": 0.9977
+    },
+    {
+      "bbox": [
+        766,
+        1384,
+        1236,
+        1425
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=766,1384,470,41",
+      "confidence": "line",
+      "gemini_text": "CHRIS. XANDER,",
+      "surya_confidence": 0.98
+    },
+    {
+      "bbox": [
+        327,
+        1462,
+        1673,
+        1502
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=327,1462,1346,40",
+      "confidence": "line",
+      "gemini_text": "The Quality House. 909 7th St. Phone E 865.",
+      "surya_confidence": 0.9908
+    },
+    {
+      "bbox": [
+        742,
+        1564,
+        1253,
+        1601
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=742,1564,511,37",
+      "confidence": "line",
+      "gemini_text": "JOHN A. GRAY, SR.",
+      "surya_confidence": 0.9729
+    },
+    {
+      "bbox": [
+        653,
+        1678,
+        1345,
+        1717
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=653,1678,692,39",
+      "confidence": "line",
+      "gemini_text": "Baggage aud Parcel Express.",
+      "surya_confidence": 0.9717
+    },
+    {
+      "bbox": [
+        416,
+        1790,
+        1153,
+        1828
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=416,1790,737,38",
+      "confidence": "line",
+      "gemini_text": "All orders promptly attended to.",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        652,
+        2010,
+        1355,
+        2046
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=652,2010,703,36",
+      "confidence": "line",
+      "gemini_text": "MRS. NATHANIEL BOWIE.",
+      "surya_confidence": 0.9684
+    },
+    {
+      "bbox": [
+        435,
+        2112,
+        1566,
+        2147
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=435,2112,1131,35",
+      "confidence": "line",
+      "gemini_text": "Furnished Rooms and Board. Terms reasonable.",
+      "surya_confidence": 0.9905
+    },
+    {
+      "bbox": [
+        587,
+        2370,
+        1409,
+        2403
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=587,2370,822,33",
+      "confidence": "line",
+      "gemini_text": "Visit THE GLOUCESTER CAFE.",
+      "surya_confidence": 0.9773
+    },
+    {
+      "bbox": [
+        429,
+        2457,
+        1581,
+        2498
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=429,2457,1152,41",
+      "confidence": "line",
+      "gemini_text": "Meals served at all hours. Oysters in every style.",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        706,
+        2547,
+        1264,
+        2585
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:105#xywh=706,2547,558,38",
+      "confidence": "line",
+      "gemini_text": "С. Ј. ТАВВ, Proprietor.",
+      "surya_confidence": 0.9831
+    }
+  ],
+  "unmatched_gemini": []
+}

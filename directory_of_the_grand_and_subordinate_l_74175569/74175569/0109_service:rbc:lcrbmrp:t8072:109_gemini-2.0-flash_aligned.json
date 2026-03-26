@@ -1,0 +1,264 @@
+{
+  "image": "0109_service:rbc:lcrbmrp:t8072:109.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:109",
+  "canvas_width": 1889,
+  "canvas_height": 2991,
+  "surya_median_confidence": 0.993,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        301,
+        387,
+        988,
+        481
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:109#xywh=301,387,687,94",
+      "confidence": "line",
+      "gemini_text": "\"At Droops\"",
+      "surya_confidence": 0.993
+    },
+    {
+      "bbox": [
+        805,
+        557,
+        1652,
+        618
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:109#xywh=805,557,847,61",
+      "confidence": "line",
+      "gemini_text": "Is the phrase which for the",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        804,
+        635,
+        1656,
+        695
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:109#xywh=804,635,852,60",
+      "confidence": "line",
+      "gemini_text": "last forty-five years has meant",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        653,
+        1895,
+        1306,
+        1975
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:109#xywh=653,1895,653,80",
+      "confidence": "line",
+      "gemini_text": "925 Pa. Ave.",
+      "surya_confidence": 0.9631
+    },
+    {
+      "bbox": [
+        946,
+        2707,
+        1023,
+        2741
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:109#xywh=946,2707,77,34",
+      "confidence": "line",
+      "gemini_text": "100",
+      "surya_confidence": 0.9888
+    },
+    {
+      "bbox": [
+        436,
+        769,
+        1169,
+        820
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:109#xywh=436,769,733,51",
+      "confidence": "line",
+      "gemini_text": "THE PLACE WHERE",
+      "surya_confidence": 0.9791
+    },
+    {
+      "bbox": [
+        437,
+        847,
+        1350,
+        900
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:109#xywh=437,847,913,53",
+      "confidence": "line",
+      "gemini_text": "HONESTLY MADE GOODS",
+      "surya_confidence": 0.9829
+    },
+    {
+      "bbox": [
+        437,
+        920,
+        1571,
+        979
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:109#xywh=437,920,1134,59",
+      "confidence": "line",
+      "gemini_text": "ARE SOLD AT HONEST PRICES.",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        306,
+        1154,
+        1658,
+        1224
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:109#xywh=306,1154,1352,70",
+      "confidence": "line",
+      "gemini_text": "We have just opened a New Department of",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        304,
+        1234,
+        1654,
+        1297
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:109#xywh=304,1234,1350,63",
+      "confidence": "line",
+      "gemini_text": "VICTOR TALKING MACHINES AND RECORDS, and",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        305,
+        1313,
+        1657,
+        1376
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:109#xywh=305,1313,1352,63",
+      "confidence": "line",
+      "gemini_text": "our LIBERAL SYSTEM OF TIME PAYMENTS brings",
+      "surya_confidence": 0.9929
+    },
+    {
+      "bbox": [
+        303,
+        1390,
+        1658,
+        1458
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:109#xywh=303,1390,1355,68",
+      "confidence": "line",
+      "gemini_text": "this most wonderful discovery of the 20th Cen-",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        304,
+        1466,
+        1658,
+        1535
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:109#xywh=304,1466,1354,69",
+      "confidence": "line",
+      "gemini_text": "tury within the reach of the narrowest purse.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        391,
+        1606,
+        1564,
+        1667
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:109#xywh=391,1606,1173,61",
+      "confidence": "line",
+      "gemini_text": "Graphophones from $3.50 to $60.",
+      "surya_confidence": 0.9749
+    },
+    {
+      "bbox": [
+        313,
+        1725,
+        1652,
+        1822
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:109#xywh=313,1725,1339,97",
+      "confidence": "line",
+      "gemini_text": "DROOPS' MUSIC STORE,",
+      "surya_confidence": 0.9946
+    },
+    {
+      "bbox": [
+        309,
+        2036,
+        1661,
+        2106
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:109#xywh=309,2036,1352,70",
+      "confidence": "line",
+      "gemini_text": "Steinway Pianos-The Cecilian-The Regina",
+      "surya_confidence": 0.9926
+    },
+    {
+      "bbox": [
+        308,
+        2119,
+        1659,
+        2180
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:109#xywh=308,2119,1351,61",
+      "confidence": "line",
+      "gemini_text": "Music Box-The Victor Talking Machine-The",
+      "surya_confidence": 0.9759
+    },
+    {
+      "bbox": [
+        308,
+        2193,
+        1661,
+        2263
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:109#xywh=308,2193,1353,70",
+      "confidence": "line",
+      "gemini_text": "Columbia Graphophone-The Washburn Man-",
+      "surya_confidence": 0.99
+    },
+    {
+      "bbox": [
+        308,
+        2272,
+        1659,
+        2343
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:109#xywh=308,2272,1351,71",
+      "confidence": "line",
+      "gemini_text": "dolin, Guitar, and Banjo, Etc. . Etc. . Etc.",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        309,
+        2517,
+        1661,
+        2590
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:109#xywh=309,2517,1352,73",
+      "confidence": "line",
+      "gemini_text": "Complete Stock of Foreign and Domestic Sheet",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        439,
+        2594,
+        1524,
+        2668
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:109#xywh=439,2594,1085,74",
+      "confidence": "line",
+      "gemini_text": "Music and Books-Special Discounts.",
+      "surya_confidence": 0.9825
+    }
+  ],
+  "unmatched_gemini": []
+}

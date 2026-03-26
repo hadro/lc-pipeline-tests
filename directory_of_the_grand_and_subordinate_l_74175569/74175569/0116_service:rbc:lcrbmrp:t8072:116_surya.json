@@ -1,0 +1,506 @@
+{
+  "image_width": 1830,
+  "image_height": 3004,
+  "lines": [
+    {
+      "bbox": [
+        571,
+        359,
+        1285,
+        405
+      ],
+      "text": "James H. Hill Lodge, No 16.",
+      "confidence": 0.9463
+    },
+    {
+      "bbox": [
+        460,
+        441,
+        1139,
+        482
+      ],
+      "text": "Rev. Shelton Miller, W. Master.",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        728,
+        487,
+        1189,
+        526
+      ],
+      "text": "John W. King, Sr. W.",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        844,
+        527,
+        1406,
+        569
+      ],
+      "text": "Abram P. Winslow, Jr. W.",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        571,
+        599,
+        1174,
+        638
+      ],
+      "text": "Washington P. Sidney, Sec'y,",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        893,
+        641,
+        1269,
+        683
+      ],
+      "text": "Brightwood, D. C.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        0,
+        662,
+        24,
+        694
+      ],
+      "text": "18.",
+      "confidence": 0.866
+    },
+    {
+      "bbox": [
+        703,
+        708,
+        1150,
+        752
+      ],
+      "text": "Meets Second Friday.",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        462,
+        866,
+        1064,
+        904
+      ],
+      "text": "Baylor, Frank, Takoma Park",
+      "confidence": 0.9846
+    },
+    {
+      "bbox": [
+        0,
+        878,
+        24,
+        909
+      ],
+      "text": "nd",
+      "confidence": 0.9629
+    },
+    {
+      "bbox": [
+        458,
+        903,
+        1229,
+        954
+      ],
+      "text": "Brooks, George, 2311 Brightwood ave",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        466,
+        952,
+        1083,
+        998
+      ],
+      "text": "Brown, Chas. H., Brightwood",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        0,
+        969,
+        24,
+        1000
+      ],
+      "text": "pt",
+      "confidence": 0.9713
+    },
+    {
+      "bbox": [
+        461,
+        996,
+        1116,
+        1042
+      ],
+      "text": "Clark, Henry J. R., Brightwood",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        462,
+        1045,
+        976,
+        1085
+      ],
+      "text": "Clark, J. R, Brightwood",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        462,
+        1088,
+        1008,
+        1129
+      ],
+      "text": "Clark, Philip, Brightwood",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        460,
+        1134,
+        1009,
+        1174
+      ],
+      "text": "Clark, Walker, Brightwood",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        463,
+        1175,
+        1007,
+        1222
+      ],
+      "text": "Day, Moses, Takoma Park",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        461,
+        1219,
+        1139,
+        1269
+      ],
+      "text": "Fields, Thomas A., Takoma Park",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        461,
+        1267,
+        1157,
+        1309
+      ],
+      "text": "Grinnage, Francis M., Brightwood",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        464,
+        1311,
+        1145,
+        1355
+      ],
+      "text": "Hall, Thomas, 296 Pomeroy st nw",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        465,
+        1359,
+        1081,
+        1398
+      ],
+      "text": "Harris, Chas. W., Brightwood",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        462,
+        1399,
+        997,
+        1447
+      ],
+      "text": "Hill, Benj., Takoma Park",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        465,
+        1448,
+        1210,
+        1487
+      ],
+      "text": "Holmes, Isaiah, Freedman's Hospital",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        464,
+        1491,
+        1206,
+        1533
+      ],
+      "text": "Humphries, Chas. H., 1115 15th nw",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        462,
+        1538,
+        1009,
+        1577
+      ],
+      "text": "Jones, Wm. A., 3313 Rnw",
+      "confidence": 0.982
+    },
+    {
+      "bbox": [
+        463,
+        1583,
+        1136,
+        1622
+      ],
+      "text": "Keith, Henry, 719 Grant ave nw",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        463,
+        1622,
+        1144,
+        1669
+      ],
+      "text": "King, John W., 746 Sheridan nw",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        465,
+        1672,
+        1053,
+        1712
+      ],
+      "text": "Matthews, Wm., Brightwood",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        463,
+        1710,
+        1347,
+        1761
+      ],
+      "text": "Miller, Rev. Shelton, 2313 Brightwood ave",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        466,
+        1759,
+        980,
+        1805
+      ],
+      "text": "Mitchell, Henry, Takoma",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        466,
+        1806,
+        1005,
+        1847
+      ],
+      "text": "Morton, Louis, Woodburn",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        463,
+        1847,
+        1083,
+        1894
+      ],
+      "text": "Pinckett, Alfred, 822 25th nw",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        464,
+        1894,
+        1060,
+        1938
+      ],
+      "text": "Priest, Marshall, Brightwood",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        463,
+        1935,
+        1228,
+        1983
+      ],
+      "text": "Robinson, Robert, 1412 N. Y. ave nw",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        461,
+        1984,
+        979,
+        2028
+      ],
+      "text": "Ross, W. B, Brightwood",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        460,
+        2026,
+        1100,
+        2074
+      ],
+      "text": "Royster, Wm., 750 Sheridan nw",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        465,
+        2075,
+        1137,
+        2115
+      ],
+      "text": "Shamwell, Chas. H., Brightwood",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        466,
+        2120,
+        1139,
+        2160
+      ],
+      "text": "Shamwell, Louis O., Brightwood",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        459,
+        2157,
+        1190,
+        2211
+      ],
+      "text": "Sidney, Washington P., Brightwood",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        461,
+        2201,
+        1261,
+        2255
+      ],
+      "text": "Turner, Edward, Montgomery Co., Md.",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        461,
+        2249,
+        1162,
+        2299
+      ],
+      "text": "Washington, Geo. D, Brightwood",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        464,
+        2294,
+        1231,
+        2342
+      ],
+      "text": "Winslow, Abram P., 324 Pomeroy nw",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        464,
+        2339,
+        1319,
+        2388
+      ],
+      "text": "Wood, Andrew A., Montgomery Co., Md.",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        460,
+        2382,
+        1235,
+        2430
+      ],
+      "text": "Wood, Wm. D., Montgomery Co., Md.",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        460,
+        2432,
+        1096,
+        2473
+      ],
+      "text": "Woody, Arthur, Takoma Park",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        458,
+        2471,
+        1227,
+        2520
+      ],
+      "text": "Worthington, Eugene, 2271 9th st nw",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        889,
+        2691,
+        965,
+        2726
+      ],
+      "text": "107",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        74,
+        2908,
+        135,
+        2935
+      ],
+      "text": "Toronto a",
+      "confidence": 0.1433
+    },
+    {
+      "bbox": [
+        449,
+        2920,
+        558,
+        2934
+      ],
+      "text": "Colombia Colombia",
+      "confidence": 0.1056
+    }
+  ]
+}

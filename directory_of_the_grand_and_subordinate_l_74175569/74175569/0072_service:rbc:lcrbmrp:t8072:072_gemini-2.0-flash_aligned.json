@@ -1,0 +1,552 @@
+{
+  "image": "0072_service:rbc:lcrbmrp:t8072:072.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072",
+  "canvas_width": 1822,
+  "canvas_height": 2988,
+  "surya_median_confidence": 0.9961,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        490,
+        394,
+        1302,
+        433
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=490,394,812,39",
+      "confidence": "line",
+      "gemini_text": "ELECTA CHAPTER-Continued.",
+      "surya_confidence": 0.8249
+    },
+    {
+      "bbox": [
+        434,
+        464,
+        1105,
+        497
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=434,464,671,33",
+      "confidence": "line",
+      "gemini_text": "Matthews, Josephine, 918 E sw.",
+      "surya_confidence": 0.9938
+    },
+    {
+      "bbox": [
+        433,
+        496,
+        1043,
+        534
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=433,496,610,38",
+      "confidence": "line",
+      "gemini_text": "McKenny, Jane, 1540 5th nw.",
+      "surya_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        434,
+        533,
+        1043,
+        567
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=434,533,609,34",
+      "confidence": "line",
+      "gemini_text": "Mills, Mary E., 1638 11th nw.",
+      "surya_confidence": 0.9889
+    },
+    {
+      "bbox": [
+        433,
+        566,
+        1117,
+        600
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=433,566,684,34",
+      "confidence": "line",
+      "gemini_text": "Minor, Florida, 745 Marshall nw.",
+      "surya_confidence": 0.9974
+    },
+    {
+      "bbox": [
+        434,
+        602,
+        1114,
+        635
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=434,602,680,33",
+      "confidence": "line",
+      "gemini_text": "Monroe, Emily, 716 Farragut nw.",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        433,
+        631,
+        1122,
+        673
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=433,631,689,42",
+      "confidence": "line",
+      "gemini_text": "Monroe, Lloyd, 716 Farragut nw.",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        433,
+        661,
+        1128,
+        711
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=433,661,695,50",
+      "confidence": "line",
+      "gemini_text": "Moore, Laura, 2219 Cleveland ave.",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        426,
+        704,
+        1002,
+        742
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=426,704,576,38",
+      "confidence": "line",
+      "gemini_text": "Murray, Rosa, 1625 7th nw.",
+      "surya_confidence": 0.9958
+    },
+    {
+      "bbox": [
+        434,
+        742,
+        961,
+        772
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=434,742,527,30",
+      "confidence": "line",
+      "gemini_text": "Nelson, Lizzie, 951 Q nw.",
+      "surya_confidence": 0.9879
+    },
+    {
+      "bbox": [
+        434,
+        775,
+        1131,
+        809
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=434,775,697,34",
+      "confidence": "line",
+      "gemini_text": "Norfolk, Amelia, Keyser, W. Va.",
+      "surya_confidence": 0.9974
+    },
+    {
+      "bbox": [
+        432,
+        811,
+        1106,
+        843
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=432,811,674,32",
+      "confidence": "line",
+      "gemini_text": "Parker, Lizzie, 1117 Half st. sw.",
+      "surya_confidence": 0.959
+    },
+    {
+      "bbox": [
+        432,
+        842,
+        994,
+        882
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=432,842,562,40",
+      "confidence": "line",
+      "gemini_text": "Perce, Hattie V., 222 D nw.",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        432,
+        878,
+        978,
+        915
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=432,878,546,37",
+      "confidence": "line",
+      "gemini_text": "Porter, Julia, 1403 1st nw.",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        434,
+        916,
+        962,
+        948
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=434,916,528,32",
+      "confidence": "line",
+      "gemini_text": "Robins, Jennie, 144 C sw.",
+      "surya_confidence": 0.9953
+    },
+    {
+      "bbox": [
+        433,
+        949,
+        929,
+        985
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=433,949,496,36",
+      "confidence": "line",
+      "gemini_text": "Sands, Lizzie, 327 H sw.",
+      "surya_confidence": 0.9958
+    },
+    {
+      "bbox": [
+        433,
+        982,
+        1119,
+        1019
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=433,982,686,37",
+      "confidence": "line",
+      "gemini_text": "Savoy, Lillian D., 1257 Wylie ne.",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        434,
+        1018,
+        956,
+        1053
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=434,1018,522,35",
+      "confidence": "line",
+      "gemini_text": "Scipio, Jennie, 630 T nw.",
+      "surya_confidence": 0.9963
+    },
+    {
+      "bbox": [
+        434,
+        1053,
+        1074,
+        1086
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=434,1053,640,33",
+      "confidence": "line",
+      "gemini_text": "Simmons, Mary E., 1207 R nw.",
+      "surya_confidence": 0.9975
+    },
+    {
+      "bbox": [
+        433,
+        1086,
+        1052,
+        1125
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=433,1086,619,39",
+      "confidence": "line",
+      "gemini_text": "Slaughter, Mary, 1611 4th nw.",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        434,
+        1122,
+        1072,
+        1157
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=434,1122,638,35",
+      "confidence": "line",
+      "gemini_text": "Smith, Catharine, Rosslyn, Va.",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        434,
+        1158,
+        950,
+        1190
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=434,1158,516,32",
+      "confidence": "line",
+      "gemini_text": "Smith, Irene, 2331 E nw.",
+      "surya_confidence": 0.9941
+    },
+    {
+      "bbox": [
+        433,
+        1183,
+        1144,
+        1233
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=433,1183,711,50",
+      "confidence": "line",
+      "gemini_text": "Smith, Rachael A. P., 1030 3d sw.",
+      "surya_confidence": 0.9983
+    },
+    {
+      "bbox": [
+        433,
+        1223,
+        1145,
+        1263
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=433,1223,712,40",
+      "confidence": "line",
+      "gemini_text": "Stillyard, Maria, 1117 Half st. sw.",
+      "surya_confidence": 0.9981
+    },
+    {
+      "bbox": [
+        433,
+        1259,
+        1205,
+        1298
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=433,1259,772,39",
+      "confidence": "line",
+      "gemini_text": "Taylor, O. T., 1245 Austin, Brookland.",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        432,
+        1294,
+        1328,
+        1331
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=432,1294,896,37",
+      "confidence": "line",
+      "gemini_text": "Taylor, Rebecca J., 1245 Austin, Brookland.",
+      "surya_confidence": 0.9955
+    },
+    {
+      "bbox": [
+        430,
+        1329,
+        1049,
+        1367
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=430,1329,619,38",
+      "confidence": "line",
+      "gemini_text": "Tyler, Mary, 993 Fla. ave. nw.",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        429,
+        1364,
+        1125,
+        1401
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=429,1364,696,37",
+      "confidence": "line",
+      "gemini_text": "Tyler, Mary V., 993 Fla. ave. nw.",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        429,
+        1401,
+        1122,
+        1434
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=429,1401,693,33",
+      "confidence": "line",
+      "gemini_text": "Tyler, William, 993 Fla. ave. nw.",
+      "surya_confidence": 0.9983
+    },
+    {
+      "bbox": [
+        428,
+        1434,
+        991,
+        1469
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=428,1434,563,35",
+      "confidence": "line",
+      "gemini_text": "Walker, Mary T., 107 F sw.",
+      "surya_confidence": 0.9981
+    },
+    {
+      "bbox": [
+        427,
+        1464,
+        1105,
+        1510
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=427,1464,678,46",
+      "confidence": "line",
+      "gemini_text": "Warfield, Wm. A., 1901 11th nw.",
+      "surya_confidence": 0.9957
+    },
+    {
+      "bbox": [
+        429,
+        1504,
+        1096,
+        1538
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=429,1504,667,34",
+      "confidence": "line",
+      "gemini_text": "Warren, Amy, 714 Fla. ave. nw.",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        423,
+        1549,
+        953,
+        1584
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=423,1549,530,35",
+      "confidence": "line",
+      "gemini_text": "Bailey, Florence, 400 I nw.",
+      "surya_confidence": 0.9916
+    },
+    {
+      "bbox": [
+        422,
+        1583,
+        1109,
+        1617
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=422,1583,687,34",
+      "confidence": "line",
+      "gemini_text": "Brown, Nannie B, 1316 Md. Ave. ne.",
+      "surya_confidence": 0.9965
+    },
+    {
+      "bbox": [
+        420,
+        1618,
+        833,
+        1651
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=420,1618,413,33",
+      "confidence": "line",
+      "gemini_text": "Craig, Eva, 311 Lnw.",
+      "surya_confidence": 0.9929
+    },
+    {
+      "bbox": [
+        420,
+        1649,
+        1137,
+        1686
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=420,1649,717,37",
+      "confidence": "line",
+      "gemini_text": "Davis, Elnora, Fort Washakie, Wyo.",
+      "surya_confidence": 0.9947
+    },
+    {
+      "bbox": [
+        422,
+        1687,
+        778,
+        1717
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=422,1687,356,30",
+      "confidence": "line",
+      "gemini_text": "Jackson, Mary L,",
+      "surya_confidence": 0.9896
+    },
+    {
+      "bbox": [
+        421,
+        1717,
+        871,
+        1753
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=421,1717,450,36",
+      "confidence": "line",
+      "gemini_text": "Wade, Alice, 311 F sw.",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        450,
+        1839,
+        1330,
+        1894
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=450,1839,880,55",
+      "confidence": "line",
+      "gemini_text": "JOSEPH H. STEWART,",
+      "surya_confidence": 0.9577
+    },
+    {
+      "bbox": [
+        613,
+        1953,
+        1164,
+        2001
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=613,1953,551,48",
+      "confidence": "line",
+      "gemini_text": "Attorney at Law.",
+      "surya_confidence": 0.9568
+    },
+    {
+      "bbox": [
+        323,
+        2187,
+        1454,
+        2239
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=323,2187,1131,52",
+      "confidence": "line",
+      "gemini_text": "OFFICE, 609 F STREET, N. W., ROOM 1.",
+      "surya_confidence": 0.9763
+    },
+    {
+      "bbox": [
+        701,
+        2318,
+        1071,
+        2360
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=701,2318,370,42",
+      "confidence": "line",
+      "gemini_text": "'Phone, 183-Y.",
+      "surya_confidence": 0.8104
+    },
+    {
+      "bbox": [
+        456,
+        2501,
+        1334,
+        2554
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=456,2501,878,53",
+      "confidence": "line",
+      "gemini_text": "Residence, 1012 R Street, N. W.,",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        599,
+        2598,
+        1166,
+        2638
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=599,2598,567,40",
+      "confidence": "line",
+      "gemini_text": "WASHINGTON, D. C.",
+      "surya_confidence": 0.9402
+    },
+    {
+      "bbox": [
+        856,
+        2715,
+        912,
+        2748
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:072#xywh=856,2715,56,33",
+      "confidence": "line",
+      "gemini_text": "63",
+      "surya_confidence": 0.9686
+    }
+  ],
+  "unmatched_gemini": []
+}

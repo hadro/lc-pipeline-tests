@@ -1,0 +1,36 @@
+{
+  "image_width": 1726,
+  "image_height": 3053,
+  "lines": [
+    {
+      "bbox": [
+        0,
+        408,
+        41,
+        491
+      ],
+      "text": "2.",
+      "confidence": 0.3659
+    },
+    {
+      "bbox": [
+        2,
+        2941,
+        64,
+        2968
+      ],
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        294,
+        2945,
+        437,
+        2970
+      ],
+      "text": "and the ball of the ball of the",
+      "confidence": 0.1425
+    }
+  ]
+}

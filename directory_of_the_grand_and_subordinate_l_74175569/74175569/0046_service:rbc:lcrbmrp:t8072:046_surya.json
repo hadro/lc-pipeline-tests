@@ -1,0 +1,276 @@
+{
+  "image_width": 1841,
+  "image_height": 2985,
+  "lines": [
+    {
+      "bbox": [
+        653,
+        401,
+        1133,
+        458
+      ],
+      "text": "eMecca Templee",
+      "confidence": 0.7156
+    },
+    {
+      "bbox": [
+        346,
+        510,
+        1440,
+        548
+      ],
+      "text": "A. E. A. O. N. OF THE MYSTIC SHRINE,",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        217,
+        600,
+        1569,
+        638
+      ],
+      "text": "Meets on Third Thursday in May, August, November and",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        777,
+        658,
+        1015,
+        694
+      ],
+      "text": "February.",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        518,
+        833,
+        1279,
+        872
+      ],
+      "text": "Official Divan for 1903 and 1904.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        225,
+        923,
+        1572,
+        961
+      ],
+      "text": "III. Grand Potentate...... Wm H. Judd Malvin",
+      "confidence": 0.9805
+    },
+    {
+      "bbox": [
+        711,
+        979,
+        1089,
+        1014
+      ],
+      "text": "1018 R St. N. W.",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        225,
+        1077,
+        1574,
+        1116
+      ],
+      "text": "Ill. Chief Rabban.....Arthur Simmons",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        226,
+        1178,
+        1578,
+        1219
+      ],
+      "text": "Ill. Assistant Rabban..... Charles D. Freeman",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        223,
+        1276,
+        1577,
+        1324
+      ],
+      "text": "High Priest and Prophet......Rev. L. S. Flagg",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        228,
+        1377,
+        1574,
+        1419
+      ],
+      "text": "Oriental Guide......Nathaniel Robinson",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        225,
+        1476,
+        1575,
+        1525
+      ],
+      "text": "Treasurer.....Joseph D. Jones",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        225,
+        1581,
+        1578,
+        1619
+      ],
+      "text": "Recorder.....Frank H. Cozzens",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        690,
+        1636,
+        1111,
+        1673
+      ],
+      "text": "2111 9th St. N. W.",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        227,
+        1736,
+        1580,
+        1777
+      ],
+      "text": "First Ceremonial Master..... Samuel T. Craig",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        228,
+        1832,
+        1579,
+        1883
+      ],
+      "text": "Second Ceremonial Master.....Benj. F. Pope",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        223,
+        1938,
+        1577,
+        1980
+      ],
+      "text": "Director..... George S. Newman",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        222,
+        2030,
+        1577,
+        2079
+      ],
+      "text": "Marshal..... Richard H. Jones",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        223,
+        2128,
+        1577,
+        2184
+      ],
+      "text": "Organist...... David L. Stewart",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        228,
+        2240,
+        1580,
+        2281
+      ],
+      "text": "Captain of the Guard....................................",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        230,
+        2338,
+        1581,
+        2379
+      ],
+      "text": "Outer Guard.....Julius Warren",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        968,
+        2442,
+        1488,
+        2478
+      ],
+      "text": "Nelson E. Weatherless",
+      "confidence": 0.956
+    },
+    {
+      "bbox": [
+        964,
+        2480,
+        1359,
+        2528
+      ],
+      "text": "Reuben S. Smith",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        223,
+        2485,
+        906,
+        2525
+      ],
+      "text": "Finance Committee.....",
+      "confidence": 0.9833
+    },
+    {
+      "bbox": [
+        972,
+        2527,
+        1580,
+        2569
+      ],
+      "text": "Richard L. Gaines, M. D.",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        880,
+        2634,
+        931,
+        2666
+      ],
+      "text": "37",
+      "confidence": 0.9816
+    },
+    {
+      "bbox": [
+        467,
+        2909,
+        578,
+        2921
+      ],
+      "text": "Andreas and a laboral",
+      "confidence": 0.1996
+    }
+  ]
+}

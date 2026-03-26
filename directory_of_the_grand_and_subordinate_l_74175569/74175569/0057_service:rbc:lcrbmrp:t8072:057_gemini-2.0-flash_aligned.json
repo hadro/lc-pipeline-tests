@@ -1,0 +1,98 @@
+{
+  "image": "0057_service:rbc:lcrbmrp:t8072:057.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:057",
+  "canvas_width": 1898,
+  "canvas_height": 2998,
+  "surya_median_confidence": 0.9809,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        516,
+        287,
+        1479,
+        380
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:057#xywh=516,287,963,93",
+      "confidence": "line",
+      "gemini_text": "HOTEL BRUNSWICK,",
+      "surya_confidence": 0.9725
+    },
+    {
+      "bbox": [
+        583,
+        465,
+        1404,
+        512
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:057#xywh=583,465,821,47",
+      "confidence": "line",
+      "gemini_text": "235 Pa. Ave. and 220 B Street, N. W.",
+      "surya_confidence": 0.9816
+    },
+    {
+      "bbox": [
+        464,
+        1929,
+        1509,
+        1988
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:057#xywh=464,1929,1045,59",
+      "confidence": "line",
+      "gemini_text": "JOSEPH D. JONES, PROPRIETOR.",
+      "surya_confidence": 0.9937
+    },
+    {
+      "bbox": [
+        420,
+        2119,
+        1551,
+        2172
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:057#xywh=420,2119,1131,53",
+      "confidence": "line",
+      "gemini_text": "HEADQUARTERS FOR VISITING MEMBERS",
+      "surya_confidence": 0.9926
+    },
+    {
+      "bbox": [
+        763,
+        2180,
+        998,
+        2221
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:057#xywh=763,2180,235,41",
+      "confidence": "line",
+      "gemini_text": "OF THE CRAFT.",
+      "surya_confidence": 0.9803
+    },
+    {
+      "bbox": [
+        994,
+        2179,
+        1209,
+        2225
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:057#xywh=994,2179,215,46",
+      "confidence": "line",
+      "gemini_text": "AMERICAN AND EUROPEAN PLAN.",
+      "surya_confidence": 0.9865
+    },
+    {
+      "bbox": [
+        1151,
+        2603,
+        1589,
+        2635
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:057#xywh=1151,2603,438,32",
+      "confidence": "line",
+      "gemini_text": "HOME COMFORTS. REASONABLE RATES.",
+      "surya_confidence": 0.9465
+    }
+  ],
+  "unmatched_gemini": [
+    "Commanderies and large organizations our Specialty."
+  ]
+}

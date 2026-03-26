@@ -1,0 +1,296 @@
+{
+  "image_width": 1873,
+  "image_height": 2992,
+  "lines": [
+    {
+      "bbox": [
+        1223,
+        443,
+        1657,
+        480
+      ],
+      "text": "New 'Phone, 1133.",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        305,
+        444,
+        586,
+        483
+      ],
+      "text": "<sup>3</sup>Phone, 577.",
+      "confidence": 0.733
+    },
+    {
+      "bbox": [
+        758,
+        530,
+        1198,
+        586
+      ],
+      "text": "A. D. PRICE,",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        302,
+        633,
+        1657,
+        689
+      ],
+      "text": "The Funeral Director, Embalmer & Liveryman.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        396,
+        812,
+        1565,
+        853
+      ],
+      "text": "Orders promptly filled at short notice by telegraph",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        830,
+        860,
+        1125,
+        896
+      ],
+      "text": "or telephone.",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        408,
+        902,
+        1551,
+        941
+      ],
+      "text": "Keeps Constantly on hand Fine Funeral Supplies.",
+      "confidence": 0.9487
+    },
+    {
+      "bbox": [
+        565,
+        947,
+        1390,
+        986
+      ],
+      "text": "First-class Carriages, Buggies, Etc.",
+      "confidence": 0.9927
+    },
+    {
+      "bbox": [
+        300,
+        1075,
+        1662,
+        1141
+      ],
+      "text": "210 and 212 East Leigh Street, Richmond, Va.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        351,
+        1169,
+        1610,
+        1213
+      ],
+      "text": "Open All Day and Night. Man on Duty All Night,",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        795,
+        1343,
+        1515,
+        1441
+      ],
+      "text": "DE ANDERS WEDDING",
+      "confidence": 0.7838
+    },
+    {
+      "bbox": [
+        906,
+        1462,
+        1448,
+        1520
+      ],
+      "text": "DE EXTRESIVO (1)",
+      "confidence": 0.3228
+    },
+    {
+      "bbox": [
+        1050,
+        1550,
+        1429,
+        1590
+      ],
+      "text": "N AVE HINNEAPOLIS",
+      "confidence": 0.9196
+    },
+    {
+      "bbox": [
+        745,
+        1551,
+        917,
+        1597
+      ],
+      "text": "-307 H",
+      "confidence": 0.5763
+    },
+    {
+      "bbox": [
+        784,
+        1603,
+        1516,
+        1665
+      ],
+      "text": "--- WRITE FOR CATALOGUE.",
+      "confidence": 0.7011
+    },
+    {
+      "bbox": [
+        550,
+        1778,
+        1414,
+        1817
+      ],
+      "text": "Office Hours: From 8 A. M. to 6 P. M.",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        808,
+        1849,
+        1151,
+        1887
+      ],
+      "text": "Telephone, 816",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        307,
+        1914,
+        1005,
+        1951
+      ],
+      "text": "EXTRACTION PAINLESS.",
+      "confidence": 0.7909
+    },
+    {
+      "bbox": [
+        652,
+        1979,
+        1304,
+        2035
+      ],
+      "text": "DR. P. B. RAMSEY,",
+      "confidence": 0.571
+    },
+    {
+      "bbox": [
+        863,
+        2083,
+        1097,
+        2136
+      ],
+      "text": "Dentist,",
+      "confidence": 0.9786
+    },
+    {
+      "bbox": [
+        305,
+        2179,
+        1660,
+        2239
+      ],
+      "text": "Office, 102 W. Leigh Street, Richmond, Va.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        635,
+        2315,
+        1395,
+        2370
+      ],
+      "text": "EDMONIA L. KEYES,",
+      "confidence": 0.9372
+    },
+    {
+      "bbox": [
+        852,
+        2407,
+        1109,
+        2460
+      ],
+      "text": "Cateress,",
+      "confidence": 0.9794
+    },
+    {
+      "bbox": [
+        1225,
+        2494,
+        1656,
+        2532
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        305,
+        2497,
+        825,
+        2531
+      ],
+      "text": "1620 11th Street N. W.",
+      "confidence": 0.9786
+    },
+    {
+      "bbox": [
+        539,
+        2574,
+        1411,
+        2614
+      ],
+      "text": "Meals Served in Private Dining Room",
+      "confidence": 0.9707
+    },
+    {
+      "bbox": [
+        777,
+        2620,
+        1189,
+        2653
+      ],
+      "text": "or at Your House.",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        416,
+        2685,
+        1542,
+        2723
+      ],
+      "text": "First-class Service and Satisfaction Guaranteed.",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        944,
+        2767,
+        1022,
+        2799
+      ],
+      "text": "124",
+      "confidence": 0.9661
+    }
+  ]
+}

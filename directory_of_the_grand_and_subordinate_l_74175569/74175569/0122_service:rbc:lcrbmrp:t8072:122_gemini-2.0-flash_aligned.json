@@ -1,0 +1,360 @@
+{
+  "image": "0122_service:rbc:lcrbmrp:t8072:122.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122",
+  "canvas_width": 1823,
+  "canvas_height": 2990,
+  "surya_median_confidence": 0.9964,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        406,
+        387,
+        1357,
+        472
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=406,387,951,85",
+      "confidence": "line",
+      "gemini_text": "ROSTER GRAND CHAPTER, O. E. S.,",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        815,
+        472,
+        951,
+        516
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=815,472,136,44",
+      "confidence": "line",
+      "gemini_text": "1904.",
+      "surya_confidence": 0.9805
+    },
+    {
+      "bbox": [
+        406,
+        540,
+        1357,
+        617
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=406,540,951,77",
+      "confidence": "line",
+      "gemini_text": "James O. Bampfield.....Grand Royal Patron",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        733,
+        596,
+        1046,
+        642
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=733,596,313,46",
+      "confidence": "line",
+      "gemini_text": "1119 V st. nw.",
+      "surya_confidence": 0.9944
+    },
+    {
+      "bbox": [
+        408,
+        652,
+        1361,
+        726
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=408,652,953,74",
+      "confidence": "line",
+      "gemini_text": "Elizabeth W. Marshall...Grand Royal Matron",
+      "surya_confidence": 0.9947
+    },
+    {
+      "bbox": [
+        738,
+        708,
+        1045,
+        756
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=738,708,307,48",
+      "confidence": "line",
+      "gemini_text": "1203 K st. nw.",
+      "surya_confidence": 0.9948
+    },
+    {
+      "bbox": [
+        410,
+        775,
+        1362,
+        852
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=410,775,952,77",
+      "confidence": "line",
+      "gemini_text": "Ellen L. Wayne Grand Secretary",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        673,
+        828,
+        1094,
+        886
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=673,828,421,58",
+      "confidence": "line",
+      "gemini_text": "315 East Capitol st.",
+      "surya_confidence": 0.9974
+    },
+    {
+      "bbox": [
+        467,
+        878,
+        1305,
+        949
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=467,878,838,71",
+      "confidence": "line",
+      "gemini_text": "Annual Meeting, Tuesday, May 24, 1904.",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        412,
+        1073,
+        1363,
+        1154
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=412,1073,951,81",
+      "confidence": "line",
+      "gemini_text": "Queen Esther Chapter, No. 1, O. E. S.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        410,
+        1158,
+        1362,
+        1230
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=410,1158,952,72",
+      "confidence": "line",
+      "gemini_text": "Mary Alice Parker Royal Matron",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        736,
+        1212,
+        1013,
+        1262
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=736,1212,277,50",
+      "confidence": "line",
+      "gemini_text": "212 E st. sw.",
+      "surya_confidence": 0.9952
+    },
+    {
+      "bbox": [
+        417,
+        1269,
+        1367,
+        1343
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=417,1269,950,74",
+      "confidence": "line",
+      "gemini_text": "Henry C. Irving, Royal Patron, 410 D st. se.",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        413,
+        1349,
+        1369,
+        1420
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=413,1349,956,71",
+      "confidence": "line",
+      "gemini_text": "Georgina Gleaves, Secretary, 126 Carroll st. se.",
+      "surya_confidence": 0.9984
+    },
+    {
+      "bbox": [
+        681,
+        1432,
+        1107,
+        1488
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=681,1432,426,56",
+      "confidence": "line",
+      "gemini_text": "Meets Third Friday.",
+      "surya_confidence": 0.9956
+    },
+    {
+      "bbox": [
+        419,
+        1661,
+        1370,
+        1732
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=419,1661,951,71",
+      "confidence": "line",
+      "gemini_text": "Queen of Sheba Chapter, No. 3, O. E. S.",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        419,
+        1743,
+        1371,
+        1812
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=419,1743,952,69",
+      "confidence": "line",
+      "gemini_text": "Sarah E. Evans. Royal Matron",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        677,
+        1793,
+        1104,
+        1848
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=677,1793,427,55",
+      "confidence": "line",
+      "gemini_text": "817 Cottage Hill, ne.",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        419,
+        1858,
+        1373,
+        1918
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=419,1858,954,60",
+      "confidence": "line",
+      "gemini_text": "Wm. A. Baltimore, Royal Patron, 71 G st. sw.",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        418,
+        1936,
+        1377,
+        1995
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=418,1936,959,59",
+      "confidence": "line",
+      "gemini_text": "Gertrude L. Baltimore, Secretary, 71 G st. sw.",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        681,
+        2019,
+        1129,
+        2071
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=681,2019,448,52",
+      "confidence": "line",
+      "gemini_text": "Meets Third Monday.",
+      "surya_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        423,
+        2249,
+        1377,
+        2328
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=423,2249,954,79",
+      "confidence": "line",
+      "gemini_text": "Gethsemane Chapter, No. 4, O. E. S.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        424,
+        2338,
+        1377,
+        2406
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=424,2338,953,68",
+      "confidence": "line",
+      "gemini_text": "Hannah Stevenson Royal Matron",
+      "surya_confidence": 0.9945
+    },
+    {
+      "bbox": [
+        755,
+        2395,
+        1048,
+        2431
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=755,2395,293,36",
+      "confidence": "line",
+      "gemini_text": "1612 11th nw.",
+      "surya_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        423,
+        2451,
+        1377,
+        2510
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=423,2451,954,59",
+      "confidence": "line",
+      "gemini_text": "John F. N. Wilkinson Royal Patron",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        759,
+        2507,
+        1034,
+        2543
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=759,2507,275,36",
+      "confidence": "line",
+      "gemini_text": "901 E st. sw.",
+      "surya_confidence": 0.9943
+    },
+    {
+      "bbox": [
+        482,
+        2576,
+        1334,
+        2633
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=482,2576,852,57",
+      "confidence": "line",
+      "gemini_text": "Bertha N. Gray, Secretary, 1634 4th nw.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        611,
+        2658,
+        1153,
+        2708
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=611,2658,542,50",
+      "confidence": "line",
+      "gemini_text": "Meets Third Wednesday.",
+      "surya_confidence": 0.9792
+    },
+    {
+      "bbox": [
+        872,
+        2720,
+        950,
+        2756
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:122#xywh=872,2720,78,36",
+      "confidence": "line",
+      "gemini_text": "113",
+      "surya_confidence": 0.9827
+    }
+  ],
+  "unmatched_gemini": []
+}

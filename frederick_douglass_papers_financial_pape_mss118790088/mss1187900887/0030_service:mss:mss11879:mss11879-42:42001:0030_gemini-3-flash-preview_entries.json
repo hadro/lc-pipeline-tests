@@ -1,0 +1,116 @@
+{
+  "image": "0030_service:mss:mss11879:mss11879-42:42001:0030.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Bank Ledger",
+    "section_title": "DR",
+    "year": "1855"
+  },
+  "page_context": {
+    "record_type": "Bank Ledger",
+    "section_title": "CR",
+    "year": "1856"
+  },
+  "entries": [
+    {
+      "date": "January 1, 1855",
+      "description": "To Balance",
+      "amount": "649.01",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1855",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0030",
+      "image": "0030_service:mss:mss11879:mss11879-42:42001:0030.jpg"
+    },
+    {
+      "date": "January 1, 1855",
+      "description": "Interest",
+      "amount": "15.81",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1855",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0030",
+      "image": "0030_service:mss:mss11879:mss11879-42:42001:0030.jpg"
+    },
+    {
+      "date": "July 13, 1855",
+      "description": "Interest",
+      "amount": "49.06",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1855",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0030",
+      "image": "0030_service:mss:mss11879:mss11879-42:42001:0030.jpg"
+    },
+    {
+      "date": "July 13, 1855",
+      "description": "Interest",
+      "amount": "24.38",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1855",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0030",
+      "image": "0030_service:mss:mss11879:mss11879-42:42001:0030.jpg"
+    },
+    {
+      "date": "March 8, 1856",
+      "description": "Miller O & M",
+      "amount": "551.47",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1856",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0030#xywh=718,481,66,49",
+      "image": "0030_service:mss:mss11879:mss11879-42:42001:0030.jpg"
+    },
+    {
+      "date": "March 20, 1856",
+      "description": "Miller O & M",
+      "amount": "3.20",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1856",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0030#xywh=640,481,74,48",
+      "image": "0030_service:mss:mss11879:mss11879-42:42001:0030.jpg"
+    },
+    {
+      "date": null,
+      "description": "By 50. 30. 80. 50",
+      "amount": null,
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1856",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0030#xywh=948,235,70,33",
+      "image": "0030_service:mss:mss11879:mss11879-42:42001:0030.jpg"
+    },
+    {
+      "date": null,
+      "description": "100. 50. 69 130",
+      "amount": null,
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1856",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0030#xywh=1102,266,164,101",
+      "image": "0030_service:mss:mss11879:mss11879-42:42001:0030.jpg"
+    },
+    {
+      "date": null,
+      "description": "28. 60. 121 26",
+      "amount": null,
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1856",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0030#xywh=1019,317,76,53",
+      "image": "0030_service:mss:mss11879:mss11879-42:42001:0030.jpg"
+    }
+  ]
+}

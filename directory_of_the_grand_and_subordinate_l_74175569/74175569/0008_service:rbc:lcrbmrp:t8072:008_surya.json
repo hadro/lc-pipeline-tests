@@ -1,0 +1,186 @@
+{
+  "image_width": 1710,
+  "image_height": 2826,
+  "lines": [
+    {
+      "bbox": [
+        312,
+        112,
+        1614,
+        345
+      ],
+      "text": "Freemost of aniel Meurray",
+      "confidence": 0.8466
+    },
+    {
+      "bbox": [
+        1204,
+        402,
+        1390,
+        452
+      ],
+      "text": "1905",
+      "confidence": 0.9769
+    },
+    {
+      "bbox": [
+        515,
+        414,
+        1041,
+        471
+      ],
+      "text": "DIRECTORY",
+      "confidence": 0.9411
+    },
+    {
+      "bbox": [
+        162,
+        416,
+        353,
+        467
+      ],
+      "text": "1903",
+      "confidence": 0.9655
+    },
+    {
+      "bbox": [
+        545,
+        575,
+        851,
+        610
+      ],
+      "text": "OF THE",
+      "confidence": 0.9357
+    },
+    {
+      "bbox": [
+        234,
+        697,
+        1334,
+        756
+      ],
+      "text": "GRAND AND SUBORDINATE LODGES.",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        1299,
+        824,
+        1484,
+        879
+      ],
+      "text": "618",
+      "confidence": 0.9794
+    },
+    {
+      "bbox": [
+        562,
+        877,
+        677,
+        939
+      ],
+      "text": "HO",
+      "confidence": 0.8523
+    },
+    {
+      "bbox": [
+        1293,
+        920,
+        1470,
+        990
+      ],
+      "text": "407",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        384,
+        1419,
+        1198,
+        1459
+      ],
+      "text": "OF THE DISTRICT OF COLUMBIA.",
+      "confidence": 0.9823
+    },
+    {
+      "bbox": [
+        588,
+        1564,
+        988,
+        1589
+      ],
+      "text": "ALSO A LIST OF THE",
+      "confidence": 0.9551
+    },
+    {
+      "bbox": [
+        357,
+        1691,
+        1222,
+        1743
+      ],
+      "text": "ROYAL ARCH CHAPTERS.",
+      "confidence": 0.9429
+    },
+    {
+      "bbox": [
+        242,
+        1837,
+        1341,
+        1888
+      ],
+      "text": "KNIGHTS TEMPLAR COMMANDERIES,",
+      "confidence": 0.9711
+    },
+    {
+      "bbox": [
+        291,
+        1975,
+        1301,
+        2032
+      ],
+      "text": "SUPREME COUNCIL, A. A. S. R.,",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        487,
+        2115,
+        1123,
+        2152
+      ],
+      "text": "SOUTHERN JURISDICTION,",
+      "confidence": 0.9699
+    },
+    {
+      "bbox": [
+        223,
+        2260,
+        1378,
+        2312
+      ],
+      "text": "ORDER OF EASTERN STAR CHAPTERS,",
+      "confidence": 0.9327
+    },
+    {
+      "bbox": [
+        711,
+        2414,
+        887,
+        2441
+      ],
+      "text": "AND THE",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        350,
+        2532,
+        1251,
+        2578
+      ],
+      "text": "COURTS OF HEROINES OF JERICHO.",
+      "confidence": 0.9796
+    }
+  ]
+}

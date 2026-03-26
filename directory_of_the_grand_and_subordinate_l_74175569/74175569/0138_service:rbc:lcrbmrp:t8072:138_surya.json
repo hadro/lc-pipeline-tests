@@ -1,0 +1,116 @@
+{
+  "image_width": 1716,
+  "image_height": 3002,
+  "lines": [
+    {
+      "bbox": [
+        348,
+        361,
+        1320,
+        477
+      ],
+      "text": "Life - Fire - Health - Accident.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        155,
+        884,
+        1512,
+        982
+      ],
+      "text": "LOUIS H. STABLER,",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        363,
+        1070,
+        1322,
+        1221
+      ],
+      "text": "General Insurance,",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        445,
+        1305,
+        1230,
+        1360
+      ],
+      "text": "1319 F STREET, N. W.",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        527,
+        1455,
+        1145,
+        1505
+      ],
+      "text": "WASHINGTON, D. C.",
+      "confidence": 0.9511
+    },
+    {
+      "bbox": [
+        604,
+        1841,
+        1069,
+        1873
+      ],
+      "text": "REPRESENTING THE",
+      "confidence": 0.9577
+    },
+    {
+      "bbox": [
+        384,
+        1935,
+        1277,
+        1993
+      ],
+      "text": "Penn Mutual Life Ins. Co., of Phila.",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        384,
+        2014,
+        1170,
+        2070
+      ],
+      "text": "Delaware Fire Ins. Co., of Phila.",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        385,
+        2093,
+        1240,
+        2150
+      ],
+      "text": "General Accident Ins. Co., of Phila.",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        382,
+        2173,
+        1283,
+        2225
+      ],
+      "text": "Massachusetts Mutual Accident Ass'n.",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        548,
+        2651,
+        1121,
+        2706
+      ],
+      "text": "'PHONE, MAIN 1849.",
+      "confidence": 0.8496
+    }
+  ]
+}

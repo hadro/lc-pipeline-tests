@@ -1,0 +1,408 @@
+{
+  "image": "0114_service:rbc:lcrbmrp:t8072:114.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114",
+  "canvas_width": 1816,
+  "canvas_height": 2991,
+  "surya_median_confidence": 0.9941,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        400,
+        375,
+        1174,
+        414
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=400,375,774,39",
+      "confidence": "line",
+      "gemini_text": "LODGE OFFICERS-continued.",
+      "surya_confidence": 0.9359
+    },
+    {
+      "bbox": [
+        544,
+        463,
+        1042,
+        501
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=544,463,498,38",
+      "confidence": "line",
+      "gemini_text": "Warren Lodge, No. 8.",
+      "surya_confidence": 0.9831
+    },
+    {
+      "bbox": [
+        444,
+        529,
+        1142,
+        569
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=444,529,698,40",
+      "confidence": "line",
+      "gemini_text": "Charles H. Brown, W. Master.",
+      "surya_confidence": 0.9882
+    },
+    {
+      "bbox": [
+        182,
+        571,
+        1400,
+        615
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=182,571,1218,44",
+      "confidence": "line",
+      "gemini_text": "Charles H. Parker, S. W. Allen F. Jackson, J. W.",
+      "surya_confidence": 0.9962
+    },
+    {
+      "bbox": [
+        182,
+        611,
+        1398,
+        662
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=182,611,1216,51",
+      "confidence": "line",
+      "gemini_text": "Geo. W. Branch, Sec'y., 2125 Ward Place, N. W.",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        511,
+        699,
+        1072,
+        736
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=511,699,561,37",
+      "confidence": "line",
+      "gemini_text": "Meets First Wednesday.",
+      "surya_confidence": 0.9898
+    },
+    {
+      "bbox": [
+        505,
+        817,
+        1079,
+        858
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=505,817,574,41",
+      "confidence": "line",
+      "gemini_text": "Pythagoras Lodge, No. 9.",
+      "surya_confidence": 0.9853
+    },
+    {
+      "bbox": [
+        444,
+        900,
+        1141,
+        937
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=444,900,697,37",
+      "confidence": "line",
+      "gemini_text": "Osborn T. Taylor, W. Master.",
+      "surya_confidence": 0.9881
+    },
+    {
+      "bbox": [
+        185,
+        937,
+        1400,
+        986
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=185,937,1215,49",
+      "confidence": "line",
+      "gemini_text": "Walter B. Hayson, S. W. John H. Gray, J. W.",
+      "surya_confidence": 0.9971
+    },
+    {
+      "bbox": [
+        287,
+        983,
+        1316,
+        1030
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=287,983,1029,47",
+      "confidence": "line",
+      "gemini_text": "James O. Bampfield, Sec'y, 1119 V st. N. W.",
+      "surya_confidence": 0.9977
+    },
+    {
+      "bbox": [
+        532,
+        1067,
+        1045,
+        1104
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=532,1067,513,37",
+      "confidence": "line",
+      "gemini_text": "Meets Third Tuesday.",
+      "surya_confidence": 0.9933
+    },
+    {
+      "bbox": [
+        462,
+        1183,
+        1118,
+        1231
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=462,1183,656,48",
+      "confidence": "line",
+      "gemini_text": "John F. Cook Lodge, No. 10.",
+      "surya_confidence": 0.9962
+    },
+    {
+      "bbox": [
+        467,
+        1267,
+        1118,
+        1302
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=467,1267,651,35",
+      "confidence": "line",
+      "gemini_text": "Jesse B. Martin, W. Master.",
+      "surya_confidence": 0.9866
+    },
+    {
+      "bbox": [
+        188,
+        1305,
+        1401,
+        1352
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=188,1305,1213,47",
+      "confidence": "line",
+      "gemini_text": "Daniel W. Eidier, S. W. William H. Jackson, J.W.",
+      "surya_confidence": 0.9981
+    },
+    {
+      "bbox": [
+        411,
+        1356,
+        965,
+        1396
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=411,1356,554,40",
+      "confidence": "line",
+      "gemini_text": "Thos. E. Jones, Sec'y.,",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        518,
+        1398,
+        1266,
+        1440
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=518,1398,748,42",
+      "confidence": "line",
+      "gemini_text": "20 Prospect st., Reno City, D. C.",
+      "surya_confidence": 0.9914
+    },
+    {
+      "bbox": [
+        535,
+        1480,
+        1074,
+        1516
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=535,1480,539,36",
+      "confidence": "line",
+      "gemini_text": "Meets Second Tuesday.",
+      "surya_confidence": 0.9712
+    },
+    {
+      "bbox": [
+        508,
+        1602,
+        1077,
+        1639
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=508,1602,569,37",
+      "confidence": "line",
+      "gemini_text": "St. John's Lodge, No. 12.",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        474,
+        1673,
+        1113,
+        1726
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=474,1673,639,53",
+      "confidence": "line",
+      "gemini_text": "Beverly Young, W. Master.",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        190,
+        1719,
+        1406,
+        1766
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=190,1719,1216,47",
+      "confidence": "line",
+      "gemini_text": "Allen L. Deans, S. W. John A. Smith, J. W.",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        189,
+        1769,
+        1405,
+        1808
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=189,1769,1216,39",
+      "confidence": "line",
+      "gemini_text": "Nathaniel Robinson, Sec'y, 2246 Cleveland Ave, N. W.",
+      "surya_confidence": 0.9962
+    },
+    {
+      "bbox": [
+        537,
+        1849,
+        1053,
+        1885
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=537,1849,516,36",
+      "confidence": "line",
+      "gemini_text": "Meets Fourth Monday.",
+      "surya_confidence": 0.9795
+    },
+    {
+      "bbox": [
+        488,
+        1970,
+        1104,
+        2007
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=488,1970,616,37",
+      "confidence": "line",
+      "gemini_text": "Prince Hall Lodge, No. 14.",
+      "surya_confidence": 0.983
+    },
+    {
+      "bbox": [
+        426,
+        2047,
+        1163,
+        2085
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=426,2047,737,38",
+      "confidence": "line",
+      "gemini_text": "William H. Haynes, W. Master.",
+      "surya_confidence": 0.995
+    },
+    {
+      "bbox": [
+        190,
+        2087,
+        1403,
+        2133
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=190,2087,1213,46",
+      "confidence": "line",
+      "gemini_text": "Edward H. Hunter, S. W. Wallace W. McCary, J. W.",
+      "surya_confidence": 0.9964
+    },
+    {
+      "bbox": [
+        193,
+        2131,
+        1401,
+        2181
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=193,2131,1208,50",
+      "confidence": "line",
+      "gemini_text": "Wm. T. Ferguson, Sec'y, 1420 Pierce Place, N. W.",
+      "surya_confidence": 0.9971
+    },
+    {
+      "bbox": [
+        526,
+        2217,
+        1068,
+        2253
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=526,2217,542,36",
+      "confidence": "line",
+      "gemini_text": "Meets Third Thursday.",
+      "surya_confidence": 0.9888
+    },
+    {
+      "bbox": [
+        438,
+        2339,
+        1157,
+        2375
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=438,2339,719,36",
+      "confidence": "line",
+      "gemini_text": "Charles Datcher Lodge, No. 15.",
+      "surya_confidence": 0.9746
+    },
+    {
+      "bbox": [
+        457,
+        2409,
+        1137,
+        2458
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=457,2409,680,49",
+      "confidence": "line",
+      "gemini_text": "John D. Howard, W. Master.",
+      "surya_confidence": 0.9971
+    },
+    {
+      "bbox": [
+        190,
+        2457,
+        1403,
+        2503
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=190,2457,1213,46",
+      "confidence": "line",
+      "gemini_text": "Charles H. Young, S. W. Jeremiah Scott, J. W.",
+      "surya_confidence": 0.9949
+    },
+    {
+      "bbox": [
+        191,
+        2499,
+        1401,
+        2548
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=191,2499,1210,49",
+      "confidence": "line",
+      "gemini_text": "Alex F. Hicks, Sec'y, 2435 Brightwood Ave. N. W.",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        517,
+        2574,
+        1092,
+        2610
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=517,2574,575,36",
+      "confidence": "line",
+      "gemini_text": "Meets Third Wednesday.",
+      "surya_confidence": 0.9906
+    },
+    {
+      "bbox": [
+        759,
+        2684,
+        839,
+        2718
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:114#xywh=759,2684,80,34",
+      "confidence": "line",
+      "gemini_text": "105",
+      "surya_confidence": 0.9892
+    }
+  ],
+  "unmatched_gemini": []
+}

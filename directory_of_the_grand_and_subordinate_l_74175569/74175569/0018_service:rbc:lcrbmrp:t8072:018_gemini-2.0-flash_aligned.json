@@ -1,0 +1,566 @@
+{
+  "image": "0018_service:rbc:lcrbmrp:t8072:018.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018",
+  "canvas_width": 1837,
+  "canvas_height": 2905,
+  "surya_median_confidence": 0.9993,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        415,
+        264,
+        1768,
+        339
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=415,264,1353,75",
+      "confidence": "line",
+      "gemini_text": "OFFICIAL HISTORY OF FREE",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        877,
+        351,
+        1314,
+        406
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=877,351,437,55",
+      "confidence": "line",
+      "gemini_text": "MASONRY",
+      "surya_confidence": 0.7927
+    },
+    {
+      "bbox": [
+        601,
+        440,
+        1580,
+        508
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=601,440,979,68",
+      "confidence": "line",
+      "gemini_text": "Among the Colored People",
+      "surya_confidence": 0.9866
+    },
+    {
+      "bbox": [
+        740,
+        515,
+        1404,
+        578
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=740,515,664,63",
+      "confidence": "line",
+      "gemini_text": "in North America.",
+      "surya_confidence": 0.9923
+    },
+    {
+      "bbox": [
+        534,
+        610,
+        1634,
+        667
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=534,610,1100,57",
+      "confidence": "line",
+      "gemini_text": "By W. H. GRIMSHAW, of the Library of Congress.",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        872,
+        711,
+        1310,
+        748
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=872,711,438,37",
+      "confidence": "line",
+      "gemini_text": "ILLUSTRATED.",
+      "surya_confidence": 0.9573
+    },
+    {
+      "bbox": [
+        769,
+        756,
+        1414,
+        796
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=769,756,645,40",
+      "confidence": "line",
+      "gemini_text": "WITH AN INTRODUCTION BY",
+      "surya_confidence": 0.9797
+    },
+    {
+      "bbox": [
+        707,
+        809,
+        1475,
+        848
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=707,809,768,39",
+      "confidence": "line",
+      "gemini_text": "JOSEPH TYLER BUTTS.",
+      "surya_confidence": 0.9688
+    },
+    {
+      "bbox": [
+        460,
+        896,
+        1760,
+        944
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=460,896,1300,48",
+      "confidence": "line",
+      "gemini_text": "This is a history of Colored Freemasonry, published in",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        414,
+        945,
+        1301,
+        989
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=414,945,887,44",
+      "confidence": "line",
+      "gemini_text": "one volume, now ready for distribution.",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        457,
+        986,
+        1762,
+        1032
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=457,986,1305,46",
+      "confidence": "line",
+      "gemini_text": "It begins with the Mother Grand Lodge, London, Eng-",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        415,
+        1027,
+        1762,
+        1081
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=415,1027,1347,54",
+      "confidence": "line",
+      "gemini_text": "land, 1717, and traces the growth of Masonry (especially",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        419,
+        1073,
+        1762,
+        1124
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=419,1073,1343,51",
+      "confidence": "line",
+      "gemini_text": "among Colored men) down to the present day. It gives an",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        417,
+        1115,
+        1765,
+        1169
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=417,1115,1348,54",
+      "confidence": "line",
+      "gemini_text": "account of the introduction of Freemasonry into America;",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        417,
+        1161,
+        1765,
+        1215
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=417,1161,1348,54",
+      "confidence": "line",
+      "gemini_text": "its origin and practice among Negroes, and indicates where",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        417,
+        1206,
+        1607,
+        1260
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=417,1206,1190,54",
+      "confidence": "line",
+      "gemini_text": "Colored Masons are recognized throughout the world.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        460,
+        1251,
+        1765,
+        1302
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=460,1251,1305,51",
+      "confidence": "line",
+      "gemini_text": "The history of Freemasonry among Colored Men in each",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        419,
+        1298,
+        1763,
+        1345
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=419,1298,1344,47",
+      "confidence": "line",
+      "gemini_text": "State is briefly and officially treated, and the book will be",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        420,
+        1346,
+        1149,
+        1385
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=420,1346,729,39",
+      "confidence": "line",
+      "gemini_text": "an official reference for all time.",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        461,
+        1384,
+        1765,
+        1434
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=461,1384,1304,50",
+      "confidence": "line",
+      "gemini_text": "Many curious incidents are mentioned—such as initiation",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        417,
+        1428,
+        1764,
+        1482
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=417,1428,1347,54",
+      "confidence": "line",
+      "gemini_text": "of whites into colored lodges and colored men into white",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        418,
+        1474,
+        1681,
+        1524
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=418,1474,1263,50",
+      "confidence": "line",
+      "gemini_text": "lodges, also the number of Masons in the United States.",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        460,
+        1520,
+        1762,
+        1568
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=460,1520,1302,48",
+      "confidence": "line",
+      "gemini_text": "The official seal of approval is set on the book by the fol-",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        417,
+        1570,
+        941,
+        1612
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=417,1570,524,42",
+      "confidence": "line",
+      "gemini_text": "lowing communication:",
+      "surya_confidence": 0.9878
+    },
+    {
+      "bbox": [
+        575,
+        1622,
+        1610,
+        1663
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=575,1622,1035,41",
+      "confidence": "line",
+      "gemini_text": "OFFICE OF THE GRAND SECRETARY,",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        854,
+        1669,
+        1328,
+        1707
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=854,1669,474,38",
+      "confidence": "line",
+      "gemini_text": "604 D Street, N. W.,",
+      "surya_confidence": 0.9774
+    },
+    {
+      "bbox": [
+        549,
+        1712,
+        1716,
+        1756
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=549,1712,1167,44",
+      "confidence": "line",
+      "gemini_text": "Washington, D. C., April 3, A. L. 5901, A. D. 1901.",
+      "surya_confidence": 0.9956
+    },
+    {
+      "bbox": [
+        415,
+        1759,
+        1007,
+        1799
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=415,1759,592,40",
+      "confidence": "line",
+      "gemini_text": "M W. SIR AND BROTHER:",
+      "surya_confidence": 0.9747
+    },
+    {
+      "bbox": [
+        457,
+        1795,
+        1760,
+        1846
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=457,1795,1303,51",
+      "confidence": "line",
+      "gemini_text": "We take great pleasure in recommending to your favora-",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        418,
+        1839,
+        1762,
+        1893
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=418,1839,1344,54",
+      "confidence": "line",
+      "gemini_text": "ble consideration our esteemed Bro., W. H. Grimshaw, of the",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        417,
+        1883,
+        1760,
+        1936
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=417,1883,1343,53",
+      "confidence": "line",
+      "gemini_text": "Library of Congress, who is a P D G. M. of this jurisdic-",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        417,
+        1929,
+        1760,
+        1980
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=417,1929,1343,51",
+      "confidence": "line",
+      "gemini_text": "tion, and who is highly respected by the Craft. You will",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        418,
+        1974,
+        1760,
+        2026
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=418,1974,1342,52",
+      "confidence": "line",
+      "gemini_text": "see that the work he is engaged in is one that concerns the",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        416,
+        2019,
+        1760,
+        2068
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=416,2019,1344,49",
+      "confidence": "line",
+      "gemini_text": "whole Fraternity, therefore we request for him full and free",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        415,
+        2062,
+        1759,
+        2115
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=415,2062,1344,53",
+      "confidence": "line",
+      "gemini_text": "information in all matters pertaining to the history of Free-",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        418,
+        2106,
+        1757,
+        2159
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=418,2106,1339,53",
+      "confidence": "line",
+      "gemini_text": "masonry in your State. The M. W. G. M., Robert H. Ter-",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        418,
+        2154,
+        1358,
+        2203
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=418,2154,940,49",
+      "confidence": "line",
+      "gemini_text": "rell, joins me in thanking you in advance.",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        858,
+        2205,
+        1288,
+        2241
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=858,2205,430,36",
+      "confidence": "line",
+      "gemini_text": "Fraternally yours,",
+      "surya_confidence": 0.9885
+    },
+    {
+      "bbox": [
+        1075,
+        2244,
+        1517,
+        2285
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=1075,2244,442,41",
+      "confidence": "line",
+      "gemini_text": "WM. H. MYERS,",
+      "surya_confidence": 0.9891
+    },
+    {
+      "bbox": [
+        548,
+        2255,
+        763,
+        2284
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=548,2255,215,29",
+      "confidence": "line",
+      "gemini_text": "ATTEST:",
+      "surya_confidence": 0.9792
+    },
+    {
+      "bbox": [
+        680,
+        2284,
+        1753,
+        2332
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=680,2284,1073,48",
+      "confidence": "line",
+      "gemini_text": "(Seal) Grand Secretary of the M. W. G. L.",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        1037,
+        2330,
+        1659,
+        2372
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=1037,2330,622,42",
+      "confidence": "line",
+      "gemini_text": "of the District of Columbia.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        504,
+        2381,
+        1474,
+        2433
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=504,2381,970,52",
+      "confidence": "line",
+      "gemini_text": "Sent postpaid on receipt of price, $1.50,",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        602,
+        2443,
+        1567,
+        2487
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=602,2443,965,44",
+      "confidence": "line",
+      "gemini_text": "By E. TENNYSON NEELY, Publisher,",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        416,
+        2494,
+        872,
+        2530
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=416,2494,456,36",
+      "confidence": "line",
+      "gemini_text": "40 West 34th Street, New York City.",
+      "surya_confidence": 0.9803
+    },
+    {
+      "bbox": [
+        471,
+        2546,
+        1705,
+        2584
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:018#xywh=471,2546,1234,38",
+      "confidence": "line",
+      "gemini_text": "or, W. H. GRIMSHAW, 247 10th St. N. E., Wash., D. C.",
+      "surya_confidence": 0.99
+    }
+  ],
+  "unmatched_gemini": [
+    "9"
+  ]
+}

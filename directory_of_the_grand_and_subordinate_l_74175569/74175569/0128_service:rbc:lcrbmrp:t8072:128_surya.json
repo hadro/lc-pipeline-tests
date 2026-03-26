@@ -1,0 +1,226 @@
+{
+  "image_width": 1827,
+  "image_height": 3004,
+  "lines": [
+    {
+      "bbox": [
+        446,
+        466,
+        1393,
+        535
+      ],
+      "text": "Zerubbabel Court, No. 1, Heroines",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        765,
+        586,
+        1067,
+        655
+      ],
+      "text": "of Jericho.",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        0,
+        840,
+        24,
+        867
+      ],
+      "text": "19",
+      "confidence": 0.6119
+    },
+    {
+      "bbox": [
+        444,
+        899,
+        1396,
+        954
+      ],
+      "text": "Thornton A. Jackson....................................",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        770,
+        976,
+        1070,
+        1015
+      ],
+      "text": "1229 T st. nw.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        445,
+        1071,
+        1393,
+        1124
+      ],
+      "text": "Helen Jackson.....M. A. M., 1229 T st. nw.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        0,
+        1102,
+        18,
+        1126
+      ],
+      "text": "-",
+      "confidence": 0.7204
+    },
+    {
+      "bbox": [
+        513,
+        1141,
+        1329,
+        1189
+      ],
+      "text": "Julia Jackson, Secretary, 429 61/2 st. sw.",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        0,
+        1168,
+        21,
+        1202
+      ],
+      "text": "B",
+      "confidence": 0.3955
+    },
+    {
+      "bbox": [
+        683,
+        1241,
+        1159,
+        1289
+      ],
+      "text": "Meets Second Monday.",
+      "confidence": 0.9895
+    },
+    {
+      "bbox": [
+        0,
+        1555,
+        15,
+        1588
+      ],
+      "text": "d",
+      "confidence": 0.9469
+    },
+    {
+      "bbox": [
+        0,
+        1616,
+        21,
+        1647
+      ],
+      "text": "3,",
+      "confidence": 0.5065
+    },
+    {
+      "bbox": [
+        449,
+        1725,
+        1400,
+        1804
+      ],
+      "text": "Datcher Court, No. 3, Heroines of",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        813,
+        1852,
+        1044,
+        1923
+      ],
+      "text": "Jericho.",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        446,
+        2133,
+        1398,
+        2201
+      ],
+      "text": "James O. Bampfield, ..... M. W. F. J.",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        761,
+        2214,
+        1070,
+        2253
+      ],
+      "text": "1119 V st. nw.",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        450,
+        2308,
+        1397,
+        2363
+      ],
+      "text": "Rebecca J. Taylor....................................",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        575,
+        2375,
+        1267,
+        2428
+      ],
+      "text": "1245 Austin st., Brookland, D. C.",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        448,
+        2479,
+        1402,
+        2528
+      ],
+      "text": "Mary Ida Miller, Secretary, 321 Oak st. nw.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        712,
+        2594,
+        1149,
+        2636
+      ],
+      "text": "Meets First Tuesday.",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        884,
+        2720,
+        968,
+        2758
+      ],
+      "text": "119",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        447,
+        2916,
+        555,
+        2930
+      ],
+      "text": "State State State State",
+      "confidence": 0.1594
+    }
+  ]
+}

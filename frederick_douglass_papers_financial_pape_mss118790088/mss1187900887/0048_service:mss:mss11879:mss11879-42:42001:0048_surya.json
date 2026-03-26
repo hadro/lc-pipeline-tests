@@ -1,0 +1,446 @@
+{
+  "image_width": 1355,
+  "image_height": 1107,
+  "lines": [
+    {
+      "bbox": [
+        173,
+        105,
+        498,
+        136
+      ],
+      "text": "CAPITAL SAVINGS BANK.",
+      "confidence": 0.9861
+    },
+    {
+      "bbox": [
+        83,
+        118,
+        101,
+        138
+      ],
+      "text": "8",
+      "confidence": 0.9803
+    },
+    {
+      "bbox": [
+        80,
+        160,
+        590,
+        200
+      ],
+      "text": "flect credit upon the business capability",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        83,
+        201,
+        226,
+        220
+      ],
+      "text": "of our race.",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        773,
+        209,
+        1265,
+        238
+      ],
+      "text": "Interest on Time Deposits will be as Follows:",
+      "confidence": 0.9736
+    },
+    {
+      "bbox": [
+        110,
+        215,
+        593,
+        254
+      ],
+      "text": "\"What we have accomplished in these",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        82,
+        242,
+        593,
+        283
+      ],
+      "text": "brief years has been accomplished in the",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        82,
+        269,
+        593,
+        313
+      ],
+      "text": "face of greater opposition than we have",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        83,
+        298,
+        593,
+        339
+      ],
+      "text": "any reason to expect will confront us",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        762,
+        312,
+        1271,
+        338
+      ],
+      "text": "On all sums of not less than $5-on deposit for",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        85,
+        326,
+        592,
+        366
+      ],
+      "text": "again. 'Nothing succeeds like success,'",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        806,
+        338,
+        1272,
+        366
+      ],
+      "text": "six months, next preceding the first day of",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        86,
+        354,
+        593,
+        395
+      ],
+      "text": "and, having shown what is possible of",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        806,
+        366,
+        1273,
+        394
+      ],
+      "text": "January or the first day of July, 21 per",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        86,
+        381,
+        593,
+        423
+      ],
+      "text": "accomplishment in this direction, we con-",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        806,
+        399,
+        984,
+        419
+      ],
+      "text": "cent per annum.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        87,
+        409,
+        594,
+        453
+      ],
+      "text": "fidently look forward to greater success",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        86,
+        445,
+        270,
+        475
+      ],
+      "text": "in the future.\"",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        114,
+        474,
+        595,
+        510
+      ],
+      "text": "We offer special advantages to",
+      "confidence": 0.9579
+    },
+    {
+      "bbox": [
+        765,
+        474,
+        1275,
+        501
+      ],
+      "text": "On all sums of not less than $50- on deposit for",
+      "confidence": 0.9875
+    },
+    {
+      "bbox": [
+        806,
+        501,
+        1273,
+        529
+      ],
+      "text": "six months, next preceding the first day of",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        87,
+        504,
+        596,
+        543
+      ],
+      "text": "churches, benevolent and charitable as-",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        806,
+        528,
+        1273,
+        557
+      ],
+      "text": "January or the first day of July, 4 per cent",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        87,
+        536,
+        598,
+        577
+      ],
+      "text": "sociations, secret societies and holders of",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        807,
+        563,
+        938,
+        583
+      ],
+      "text": "per annum.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        87,
+        570,
+        598,
+        614
+      ],
+      "text": "trust funds. On all deposits received from",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        88,
+        606,
+        599,
+        644
+      ],
+      "text": "these sources we pay interest at from 4 to",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        765,
+        636,
+        1273,
+        665
+      ],
+      "text": "On all sums of not less than $100- on deposit",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        88,
+        637,
+        599,
+        679
+      ],
+      "text": "6 per cent. per annum, regulated by the",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        809,
+        665,
+        1274,
+        692
+      ],
+      "text": "for not less than one year, next preceding",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        88,
+        670,
+        599,
+        714
+      ],
+      "text": "length of time the deposits are allowed to",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        808,
+        692,
+        1275,
+        721
+      ],
+      "text": "the first day of January or the first day of",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        88,
+        710,
+        340,
+        740
+      ],
+      "text": "remain uncalled for.",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        808,
+        725,
+        1106,
+        747
+      ],
+      "text": "July, 6 per cent per annum.",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        93,
+        738,
+        600,
+        779
+      ],
+      "text": "Banks are made strong in proportion as",
+      "confidence": 0.642
+    },
+    {
+      "bbox": [
+        91,
+        774,
+        506,
+        813
+      ],
+      "text": "they are supported by the people.",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        119,
+        804,
+        603,
+        845
+      ],
+      "text": "May we have your support? Give us a",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        789,
+        806,
+        1276,
+        834
+      ],
+      "text": "Interest will be computed and placed to",
+      "confidence": 0.59
+    },
+    {
+      "bbox": [
+        766,
+        840,
+        1277,
+        867
+      ],
+      "text": "the credit of depositors by the twentieth day of",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        92,
+        852,
+        150,
+        872
+      ],
+      "text": "call.",
+      "confidence": 0.9905
+    },
+    {
+      "bbox": [
+        115,
+        878,
+        602,
+        910
+      ],
+      "text": "The Herdics and F St. Curs puss",
+      "confidence": 0.7585
+    },
+    {
+      "bbox": [
+        770,
+        879,
+        1103,
+        899
+      ],
+      "text": "January and July of each year.",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        94,
+        911,
+        602,
+        948
+      ],
+      "text": "our door, and the Cable Cars pass with-",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        95,
+        951,
+        321,
+        979
+      ],
+      "text": "in one-hulf block.",
+      "confidence": 0.6693
+    }
+  ]
+}

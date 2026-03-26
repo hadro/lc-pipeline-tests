@@ -1,0 +1,814 @@
+{
+  "image": "0100_service:rbc:lcrbmrp:t8072:100.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100",
+  "canvas_width": 1795,
+  "canvas_height": 3000,
+  "surya_median_confidence": 0.9922,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        566,
+        375,
+        1180,
+        416
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=566,375,614,41",
+      "confidence": "line",
+      "gemini_text": "DIRECTORY-continued.",
+      "surya_confidence": 0.9233
+    },
+    {
+      "bbox": [
+        407,
+        450,
+        1249,
+        491
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=407,450,842,41",
+      "confidence": "line",
+      "gemini_text": "Nalle, John C., 5-7, G, 1429 Pierce Pl. nw.",
+      "surya_confidence": 0.988
+    },
+    {
+      "bbox": [
+        409,
+        486,
+        1247,
+        526
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=409,486,838,40",
+      "confidence": "line",
+      "gemini_text": "Moton, Robt. H., 7-11-2, S, 1135 24th nw.",
+      "surya_confidence": 0.9964
+    },
+    {
+      "bbox": [
+        409,
+        520,
+        1099,
+        560
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=409,520,690,40",
+      "confidence": "line",
+      "gemini_text": "Napper, W. P., 14, 1938 11th nw.",
+      "surya_confidence": 0.9952
+    },
+    {
+      "bbox": [
+        409,
+        551,
+        1092,
+        600
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=409,551,683,49",
+      "confidence": "line",
+      "gemini_text": "Naylor, Henry H., 14, 1108 K nw.",
+      "surya_confidence": 0.9808
+    },
+    {
+      "bbox": [
+        409,
+        590,
+        1099,
+        629
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=409,590,690,39",
+      "confidence": "line",
+      "gemini_text": "Naylor, Wm. T., 5, 1133 20th nw.",
+      "surya_confidence": 0.991
+    },
+    {
+      "bbox": [
+        407,
+        624,
+        1149,
+        663
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=407,624,742,39",
+      "confidence": "line",
+      "gemini_text": "Neal, Albert L., 8-11-3, D, 416 D se.",
+      "surya_confidence": 0.9916
+    },
+    {
+      "bbox": [
+        409,
+        661,
+        926,
+        696
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=409,661,517,35",
+      "confidence": "line",
+      "gemini_text": "Neal, R. A., 8, 648 A ne.",
+      "surya_confidence": 0.992
+    },
+    {
+      "bbox": [
+        408,
+        693,
+        1191,
+        731
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=408,693,783,38",
+      "confidence": "line",
+      "gemini_text": "Nelson, Edw., 15-5-1, 9th and E sts. sw.",
+      "surya_confidence": 0.9951
+    },
+    {
+      "bbox": [
+        409,
+        726,
+        984,
+        768
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=409,726,575,42",
+      "confidence": "line",
+      "gemini_text": "Nelson, Wm., 1, 1030 3d nw.",
+      "surya_confidence": 0.9887
+    },
+    {
+      "bbox": [
+        409,
+        761,
+        1081,
+        799
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=409,761,672,38",
+      "confidence": "line",
+      "gemini_text": "Newman, A. C., 5, 1306 27th nw.",
+      "surya_confidence": 0.9933
+    },
+    {
+      "bbox": [
+        408,
+        793,
+        1208,
+        834
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=408,793,800,41",
+      "confidence": "line",
+      "gemini_text": "Newman, A. T., 4-7, 1213 Linden Pl. ne.",
+      "surya_confidence": 0.9858
+    },
+    {
+      "bbox": [
+        408,
+        829,
+        1047,
+        867
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=408,829,639,38",
+      "confidence": "line",
+      "gemini_text": "Newman, Geo. H., 3, 146 C sw.",
+      "surya_confidence": 0.9838
+    },
+    {
+      "bbox": [
+        405,
+        852,
+        1344,
+        911
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=405,852,939,59",
+      "confidence": "line",
+      "gemini_text": "Newman, Geo. S., 3-5-1, 32d B-M-P-S, 146 C sw.",
+      "surya_confidence": 0.9952
+    },
+    {
+      "bbox": [
+        406,
+        899,
+        1078,
+        936
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=406,899,672,37",
+      "confidence": "line",
+      "gemini_text": "Newman, Jos. T., 3, 3d and D sw.",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        406,
+        934,
+        983,
+        970
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=406,934,577,36",
+      "confidence": "line",
+      "gemini_text": "Nichols, James, 5, 538 3d se.",
+      "surya_confidence": 0.995
+    },
+    {
+      "bbox": [
+        406,
+        961,
+        1285,
+        1007
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=406,961,879,46",
+      "confidence": "line",
+      "gemini_text": "Nichols, S. I., 1-7, 2235 Cleveland ave. nw.",
+      "surya_confidence": 0.9966
+    },
+    {
+      "bbox": [
+        406,
+        998,
+        1104,
+        1039
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=406,998,698,41",
+      "confidence": "line",
+      "gemini_text": "Norfolk, J. R., 9-7, Keyser, W. Va.",
+      "surya_confidence": 0.9974
+    },
+    {
+      "bbox": [
+        405,
+        1037,
+        893,
+        1071
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=405,1037,488,34",
+      "confidence": "line",
+      "gemini_text": "Obey, L., 9, 505 G nw.",
+      "surya_confidence": 0.9907
+    },
+    {
+      "bbox": [
+        403,
+        1071,
+        972,
+        1106
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,1071,569,35",
+      "confidence": "line",
+      "gemini_text": "Ogle, Jere, 7, G, 2524 P nw.",
+      "surya_confidence": 0.9781
+    },
+    {
+      "bbox": [
+        404,
+        1103,
+        981,
+        1144
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=404,1103,577,41",
+      "confidence": "line",
+      "gemini_text": "Onley, David, 4, 2543 Q nw.",
+      "surya_confidence": 0.9932
+    },
+    {
+      "bbox": [
+        404,
+        1136,
+        1049,
+        1180
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=404,1136,645,44",
+      "confidence": "line",
+      "gemini_text": "Overton, G. B. N., 15, 817 H ne.",
+      "surya_confidence": 0.986
+    },
+    {
+      "bbox": [
+        409,
+        1171,
+        1040,
+        1211
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=409,1171,631,40",
+      "confidence": "line",
+      "gemini_text": "Paine, Robt. A., 1, 1511 M nw.",
+      "surya_confidence": 0.9841
+    },
+    {
+      "bbox": [
+        404,
+        1204,
+        1046,
+        1245
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=404,1204,642,41",
+      "confidence": "line",
+      "gemini_text": "Pannell, Wm., 7, 1117 19th nw.",
+      "surya_confidence": 0.9952
+    },
+    {
+      "bbox": [
+        403,
+        1238,
+        1343,
+        1278
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,1238,940,40",
+      "confidence": "line",
+      "gemini_text": "Parker, C. H., 8-11, 210 Stevens ave., Anacostia.",
+      "surya_confidence": 0.9936
+    },
+    {
+      "bbox": [
+        405,
+        1274,
+        1021,
+        1314
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=405,1274,616,40",
+      "confidence": "line",
+      "gemini_text": "Parker, Fred., 7, 1613 32d nw.",
+      "surya_confidence": 0.9931
+    },
+    {
+      "bbox": [
+        402,
+        1306,
+        1204,
+        1354
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=402,1306,802,48",
+      "confidence": "line",
+      "gemini_text": "Parker, Stafford, 3-5-1, 32d S, 212 E sw.",
+      "surya_confidence": 0.9895
+    },
+    {
+      "bbox": [
+        402,
+        1342,
+        1283,
+        1381
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=402,1342,881,39",
+      "confidence": "line",
+      "gemini_text": "Parker, Wm. H., 7-11, 32d S, 1613 32d nw.",
+      "surya_confidence": 0.9951
+    },
+    {
+      "bbox": [
+        403,
+        1374,
+        1086,
+        1420
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,1374,683,46",
+      "confidence": "line",
+      "gemini_text": "Partridge, Wm., 7-11, 2014 E nw.",
+      "surya_confidence": 0.9903
+    },
+    {
+      "bbox": [
+        403,
+        1410,
+        1103,
+        1452
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,1410,700,42",
+      "confidence": "line",
+      "gemini_text": "Patrick, Wm. H., 7-11, 2014 E nw.",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        403,
+        1441,
+        1264,
+        1487
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,1441,861,46",
+      "confidence": "line",
+      "gemini_text": "Patten, E. A., 5, 2261 Cleveland ave. nw.",
+      "surya_confidence": 0.9981
+    },
+    {
+      "bbox": [
+        403,
+        1476,
+        1266,
+        1520
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,1476,863,44",
+      "confidence": "line",
+      "gemini_text": "Patterson, Louis, 8-2-3, G-M-S, 1205 W nw.",
+      "surya_confidence": 0.9931
+    },
+    {
+      "bbox": [
+        403,
+        1512,
+        1120,
+        1553
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,1512,717,41",
+      "confidence": "line",
+      "gemini_text": "Payne, Arthur, 6, G, 1809 13th nw.",
+      "surya_confidence": 0.9905
+    },
+    {
+      "bbox": [
+        403,
+        1549,
+        971,
+        1590
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,1549,568,41",
+      "confidence": "line",
+      "gemini_text": "Payne, C. E., 3, 431 8th sw.",
+      "surya_confidence": 0.9946
+    },
+    {
+      "bbox": [
+        403,
+        1578,
+        1142,
+        1627
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,1578,739,49",
+      "confidence": "line",
+      "gemini_text": "Payne, Jas. A., 1, 1615 Madison nw.",
+      "surya_confidence": 0.996
+    },
+    {
+      "bbox": [
+        403,
+        1616,
+        1140,
+        1658
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,1616,737,42",
+      "confidence": "line",
+      "gemini_text": "Payne, John C., 3, G, 1809 13th nw.",
+      "surya_confidence": 0.9925
+    },
+    {
+      "bbox": [
+        403,
+        1651,
+        1082,
+        1690
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,1651,679,39",
+      "confidence": "line",
+      "gemini_text": "Payne, Rev. R. A., 1, 1509 M nw.",
+      "surya_confidence": 0.9765
+    },
+    {
+      "bbox": [
+        403,
+        1685,
+        993,
+        1724
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,1685,590,39",
+      "confidence": "line",
+      "gemini_text": "Payne, Wm., 1, 1150 21st nw.",
+      "surya_confidence": 0.8646
+    },
+    {
+      "bbox": [
+        403,
+        1718,
+        1223,
+        1758
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,1718,820,40",
+      "confidence": "line",
+      "gemini_text": "Payne, Wm. H., 5, 1328 N. H. ave. nw.",
+      "surya_confidence": 0.9934
+    },
+    {
+      "bbox": [
+        404,
+        1752,
+        1047,
+        1793
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=404,1752,643,41",
+      "confidence": "line",
+      "gemini_text": "Paynter, John H., 14, 322 A ne.",
+      "surya_confidence": 0.9924
+    },
+    {
+      "bbox": [
+        403,
+        1784,
+        1340,
+        1825
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,1784,937,41",
+      "confidence": "line",
+      "gemini_text": "Pendleton, Robt. L., 9-11-3, 32d G-S, 1824 11th",
+      "surya_confidence": 0.994
+    },
+    {
+      "bbox": [
+        403,
+        1814,
+        1339,
+        1862
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,1814,936,48",
+      "confidence": "line",
+      "gemini_text": "Penn, J. B., 14-7-4, 33d S, 1220 N. Y. ave. nw.",
+      "surya_confidence": 0.9934
+    },
+    {
+      "bbox": [
+        403,
+        1853,
+        1046,
+        1899
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,1853,643,46",
+      "confidence": "line",
+      "gemini_text": "Perce, Fred. B., 1-7, 222 D nw.",
+      "surya_confidence": 0.9926
+    },
+    {
+      "bbox": [
+        403,
+        1891,
+        1029,
+        1928
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,1891,626,37",
+      "confidence": "line",
+      "gemini_text": "Perkins, Leslie, 15, Agr. Dept.",
+      "surya_confidence": 0.9869
+    },
+    {
+      "bbox": [
+        403,
+        1923,
+        1096,
+        1964
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,1923,693,41",
+      "confidence": "line",
+      "gemini_text": "Perkins, W. M., 12, 1155 17th nw.",
+      "surya_confidence": 0.9921
+    },
+    {
+      "bbox": [
+        403,
+        1960,
+        1098,
+        1996
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,1960,695,36",
+      "confidence": "line",
+      "gemini_text": "Peters, Harry W., 1, 1720 7th nw.",
+      "surya_confidence": 0.992
+    },
+    {
+      "bbox": [
+        402,
+        1994,
+        1048,
+        2030
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=402,1994,646,36",
+      "confidence": "line",
+      "gemini_text": "Peters, R. B., 14, 1714 10th nw.",
+      "surya_confidence": 0.9965
+    },
+    {
+      "bbox": [
+        403,
+        2024,
+        1342,
+        2064
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,2024,939,40",
+      "confidence": "line",
+      "gemini_text": "Phillips, Solomon, 8-7-4, 32d R-S, 338 Wilson",
+      "surya_confidence": 0.9975
+    },
+    {
+      "bbox": [
+        401,
+        2059,
+        1201,
+        2100
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=401,2059,800,41",
+      "confidence": "line",
+      "gemini_text": "Picketts, C. J., 9-7-4, 1945 Vt. ave. nw.",
+      "surya_confidence": 0.9926
+    },
+    {
+      "bbox": [
+        403,
+        2095,
+        995,
+        2136
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,2095,592,41",
+      "confidence": "line",
+      "gemini_text": "Piper, S. L. F., 1, 128 C sw.",
+      "surya_confidence": 0.9702
+    },
+    {
+      "bbox": [
+        400,
+        2126,
+        1339,
+        2170
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=400,2126,939,44",
+      "confidence": "line",
+      "gemini_text": "Pitts, Geo. W., 9-11, 32d G-S, 1736 N. Y. ave.",
+      "surya_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        401,
+        2162,
+        1119,
+        2204
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=401,2162,718,42",
+      "confidence": "line",
+      "gemini_text": "Pocher, Simon, 5, 32d 734 10th nw.",
+      "surya_confidence": 0.9898
+    },
+    {
+      "bbox": [
+        400,
+        2198,
+        1119,
+        2235
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=400,2198,719,37",
+      "confidence": "line",
+      "gemini_text": "Pollard, Wm. L., 14, 32d 609 F nw.",
+      "surya_confidence": 0.9915
+    },
+    {
+      "bbox": [
+        401,
+        2231,
+        1104,
+        2270
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=401,2231,703,39",
+      "confidence": "line",
+      "gemini_text": "Pope, Alfred. 7-11-2, D 2900 O nw.",
+      "surya_confidence": 0.9907
+    },
+    {
+      "bbox": [
+        402,
+        2264,
+        1180,
+        2306
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=402,2264,778,42",
+      "confidence": "line",
+      "gemini_text": "Pope, Benj. F., 1-1-3, S, 445 Ridge nw.",
+      "surya_confidence": 0.9883
+    },
+    {
+      "bbox": [
+        403,
+        2295,
+        1098,
+        2343
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,2295,695,48",
+      "confidence": "line",
+      "gemini_text": "Pope, Harry S., 7-11-2, 2900 O nw.",
+      "surya_confidence": 0.9915
+    },
+    {
+      "bbox": [
+        403,
+        2338,
+        969,
+        2371
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,2338,566,33",
+      "confidence": "line",
+      "gemini_text": "Porter, John, 1, 2317 G nw.",
+      "surya_confidence": 0.9948
+    },
+    {
+      "bbox": [
+        406,
+        2371,
+        1117,
+        2403
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=406,2371,711,32",
+      "confidence": "line",
+      "gemini_text": "Porter, R. L., 15-5, S, 1403 1st nw.",
+      "surya_confidence": 0.9894
+    },
+    {
+      "bbox": [
+        400,
+        2404,
+        1145,
+        2437
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=400,2404,745,33",
+      "confidence": "line",
+      "gemini_text": "Posey, Chas. H., 7, 664 Callan st. ne.",
+      "surya_confidence": 0.9978
+    },
+    {
+      "bbox": [
+        400,
+        2436,
+        1220,
+        2474
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=400,2436,820,38",
+      "confidence": "line",
+      "gemini_text": "Posey, Geo. W., 7-1-1, M. 931 Golden sw.",
+      "surya_confidence": 0.9888
+    },
+    {
+      "bbox": [
+        403,
+        2472,
+        1124,
+        2504
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=403,2472,721,32",
+      "confidence": "line",
+      "gemini_text": "Powell. A. D., 12, 1528 Madison nw.",
+      "surya_confidence": 0.985
+    },
+    {
+      "bbox": [
+        399,
+        2508,
+        969,
+        2543
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=399,2508,570,35",
+      "confidence": "line",
+      "gemini_text": "Price, Noah, 7, 928 24th nw.",
+      "surya_confidence": 0.9809
+    },
+    {
+      "bbox": [
+        396,
+        2535,
+        1341,
+        2650
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=396,2535,945,115",
+      "confidence": "line",
+      "gemini_text": "Proctor, Geo. H., 5, 1238 Joliet st., Brookland.",
+      "surya_confidence": 0.993
+    },
+    {
+      "bbox": [
+        400,
+        2644,
+        1338,
+        2678
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=400,2644,938,34",
+      "confidence": "line",
+      "gemini_text": "Pryor, Jos. R., 1-1-3, R-S, 1411 N. J. ave. nw.",
+      "surya_confidence": 0.9934
+    },
+    {
+      "bbox": [
+        840,
+        2707,
+        891,
+        2737
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=840,2707,51,30",
+      "confidence": "line",
+      "gemini_text": "91",
+      "surya_confidence": 0.9745
+    },
+    {
+      "bbox": [
+        389,
+        2545,
+        992,
+        2572
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=389,2545,603,27",
+      "confidence": "manual",
+      "gemini_text": "Primas, Lewis, 4, 2541 Q nw."
+    },
+    {
+      "bbox": [
+        389,
+        2611,
+        1277,
+        2641
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:100#xywh=389,2611,888,30",
+      "confidence": "manual",
+      "gemini_text": "Pryor, Henry D., 1-1-3, S, 1616 Vt. ave. nw."
+    }
+  ],
+  "unmatched_gemini": []
+}

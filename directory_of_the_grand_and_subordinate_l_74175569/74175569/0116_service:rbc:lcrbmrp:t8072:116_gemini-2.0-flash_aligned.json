@@ -1,0 +1,552 @@
+{
+  "image": "0116_service:rbc:lcrbmrp:t8072:116.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116",
+  "canvas_width": 1830,
+  "canvas_height": 3004,
+  "surya_median_confidence": 0.9956,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        571,
+        359,
+        1285,
+        405
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=571,359,714,46",
+      "confidence": "line",
+      "gemini_text": "James H. Hill Lodge, No 16.",
+      "surya_confidence": 0.9463
+    },
+    {
+      "bbox": [
+        460,
+        441,
+        1139,
+        482
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=460,441,679,41",
+      "confidence": "line",
+      "gemini_text": "Rev. Shelton Miller, W. Master.",
+      "surya_confidence": 0.9966
+    },
+    {
+      "bbox": [
+        728,
+        487,
+        1189,
+        526
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=728,487,461,39",
+      "confidence": "line",
+      "gemini_text": "John W. King, Sr. W.",
+      "surya_confidence": 0.9956
+    },
+    {
+      "bbox": [
+        844,
+        527,
+        1406,
+        569
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=844,527,562,42",
+      "confidence": "line",
+      "gemini_text": "Abram P. Winslow, Jr. W.",
+      "surya_confidence": 0.9977
+    },
+    {
+      "bbox": [
+        571,
+        599,
+        1174,
+        638
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=571,599,603,39",
+      "confidence": "line",
+      "gemini_text": "Washington P. Sidney, Sec'y,",
+      "surya_confidence": 0.994
+    },
+    {
+      "bbox": [
+        893,
+        641,
+        1269,
+        683
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=893,641,376,42",
+      "confidence": "line",
+      "gemini_text": "Brightwood, D. C.",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        703,
+        708,
+        1150,
+        752
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=703,708,447,44",
+      "confidence": "line",
+      "gemini_text": "Meets Second Friday.",
+      "surya_confidence": 0.9911
+    },
+    {
+      "bbox": [
+        462,
+        866,
+        1064,
+        904
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=462,866,602,38",
+      "confidence": "line",
+      "gemini_text": "Baylor, Frank, Takoma Park",
+      "surya_confidence": 0.9846
+    },
+    {
+      "bbox": [
+        458,
+        903,
+        1229,
+        954
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=458,903,771,51",
+      "confidence": "line",
+      "gemini_text": "Brooks, George, 2311 Brightwood ave",
+      "surya_confidence": 0.9883
+    },
+    {
+      "bbox": [
+        466,
+        952,
+        1083,
+        998
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=466,952,617,46",
+      "confidence": "line",
+      "gemini_text": "Brown, Chas. H., Brightwood",
+      "surya_confidence": 0.9956
+    },
+    {
+      "bbox": [
+        461,
+        996,
+        1116,
+        1042
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=461,996,655,46",
+      "confidence": "line",
+      "gemini_text": "Clark, Henry J. R., Brightwood",
+      "surya_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        462,
+        1045,
+        976,
+        1085
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=462,1045,514,40",
+      "confidence": "line",
+      "gemini_text": "Clark, J. R, Brightwood",
+      "surya_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        462,
+        1088,
+        1008,
+        1129
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=462,1088,546,41",
+      "confidence": "line",
+      "gemini_text": "Clark, Philip, Brightwood",
+      "surya_confidence": 0.9933
+    },
+    {
+      "bbox": [
+        460,
+        1134,
+        1009,
+        1174
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=460,1134,549,40",
+      "confidence": "line",
+      "gemini_text": "Clark, Walker, Brightwood",
+      "surya_confidence": 0.9853
+    },
+    {
+      "bbox": [
+        463,
+        1175,
+        1007,
+        1222
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=463,1175,544,47",
+      "confidence": "line",
+      "gemini_text": "Day, Moses, Takoma Park",
+      "surya_confidence": 0.9948
+    },
+    {
+      "bbox": [
+        461,
+        1219,
+        1139,
+        1269
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=461,1219,678,50",
+      "confidence": "line",
+      "gemini_text": "Fields, Thomas A., Takoma Park",
+      "surya_confidence": 0.9965
+    },
+    {
+      "bbox": [
+        461,
+        1267,
+        1157,
+        1309
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=461,1267,696,42",
+      "confidence": "line",
+      "gemini_text": "Grinnage, Francis M., Brightwood",
+      "surya_confidence": 0.9933
+    },
+    {
+      "bbox": [
+        464,
+        1311,
+        1145,
+        1355
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=464,1311,681,44",
+      "confidence": "line",
+      "gemini_text": "Hall, Thomas, 296 Pomeroy st nw",
+      "surya_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        465,
+        1359,
+        1081,
+        1398
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=465,1359,616,39",
+      "confidence": "line",
+      "gemini_text": "Harris, Chas. W., Brightwood",
+      "surya_confidence": 0.9913
+    },
+    {
+      "bbox": [
+        462,
+        1399,
+        997,
+        1447
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=462,1399,535,48",
+      "confidence": "line",
+      "gemini_text": "Hill, Benj., Takoma Park",
+      "surya_confidence": 0.996
+    },
+    {
+      "bbox": [
+        465,
+        1448,
+        1210,
+        1487
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=465,1448,745,39",
+      "confidence": "line",
+      "gemini_text": "Holmes, Isaiah, Freedman's Hospital",
+      "surya_confidence": 0.9887
+    },
+    {
+      "bbox": [
+        464,
+        1491,
+        1206,
+        1533
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=464,1491,742,42",
+      "confidence": "line",
+      "gemini_text": "Humphries, Chas. H., 1115 15th n w",
+      "surya_confidence": 0.9927
+    },
+    {
+      "bbox": [
+        462,
+        1538,
+        1009,
+        1577
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=462,1538,547,39",
+      "confidence": "line",
+      "gemini_text": "Jones, Wm. A., 3313 Rnw",
+      "surya_confidence": 0.982
+    },
+    {
+      "bbox": [
+        463,
+        1583,
+        1136,
+        1622
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=463,1583,673,39",
+      "confidence": "line",
+      "gemini_text": "Keith, Henry, 719 Grant ave nw",
+      "surya_confidence": 0.9913
+    },
+    {
+      "bbox": [
+        463,
+        1622,
+        1144,
+        1669
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=463,1622,681,47",
+      "confidence": "line",
+      "gemini_text": "King, John W., 746 Sheridan nw",
+      "surya_confidence": 0.9973
+    },
+    {
+      "bbox": [
+        465,
+        1672,
+        1053,
+        1712
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=465,1672,588,40",
+      "confidence": "line",
+      "gemini_text": "Matthews, Wm., Brightwood",
+      "surya_confidence": 0.9914
+    },
+    {
+      "bbox": [
+        463,
+        1710,
+        1347,
+        1761
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=463,1710,884,51",
+      "confidence": "line",
+      "gemini_text": "Miller, Rev. Shelton, 2313 Brightwood ave",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        466,
+        1759,
+        980,
+        1805
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=466,1759,514,46",
+      "confidence": "line",
+      "gemini_text": "Mitchell, Henry, Takoma",
+      "surya_confidence": 0.9957
+    },
+    {
+      "bbox": [
+        466,
+        1806,
+        1005,
+        1847
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=466,1806,539,41",
+      "confidence": "line",
+      "gemini_text": "Morton, Louis, Woodburn",
+      "surya_confidence": 0.9973
+    },
+    {
+      "bbox": [
+        463,
+        1847,
+        1083,
+        1894
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=463,1847,620,47",
+      "confidence": "line",
+      "gemini_text": "Pinckett, Alfred, 822 25th nw",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        464,
+        1894,
+        1060,
+        1938
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=464,1894,596,44",
+      "confidence": "line",
+      "gemini_text": "Priest, Marshall, Brightwood",
+      "surya_confidence": 0.994
+    },
+    {
+      "bbox": [
+        463,
+        1935,
+        1228,
+        1983
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=463,1935,765,48",
+      "confidence": "line",
+      "gemini_text": "Robinson, Robert, 1412 N. Y. ave nw",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        461,
+        1984,
+        979,
+        2028
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=461,1984,518,44",
+      "confidence": "line",
+      "gemini_text": "Ross, W. B, Brightwood",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        460,
+        2026,
+        1100,
+        2074
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=460,2026,640,48",
+      "confidence": "line",
+      "gemini_text": "Royster, Wm., 750 Sheridan nw",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        465,
+        2075,
+        1137,
+        2115
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=465,2075,672,40",
+      "confidence": "line",
+      "gemini_text": "Shamwell, Chas. H., Brightwood",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        466,
+        2120,
+        1139,
+        2160
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=466,2120,673,40",
+      "confidence": "line",
+      "gemini_text": "Shamwell, Louis O., Brightwood",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        459,
+        2157,
+        1190,
+        2211
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=459,2157,731,54",
+      "confidence": "line",
+      "gemini_text": "Sidney, Washington P., Brightwood",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        461,
+        2201,
+        1261,
+        2255
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=461,2201,800,54",
+      "confidence": "line",
+      "gemini_text": "Turner, Edward, Montgomery Co., Md.",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        461,
+        2249,
+        1162,
+        2299
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=461,2249,701,50",
+      "confidence": "line",
+      "gemini_text": "Washington, Geo. D, Brightwood",
+      "surya_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        464,
+        2294,
+        1231,
+        2342
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=464,2294,767,48",
+      "confidence": "line",
+      "gemini_text": "Winslow, Abram P., 324 Pomeroy nw",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        464,
+        2339,
+        1319,
+        2388
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=464,2339,855,49",
+      "confidence": "line",
+      "gemini_text": "Wood, Andrew A., Montgomery Co., Md.",
+      "surya_confidence": 0.9976
+    },
+    {
+      "bbox": [
+        460,
+        2382,
+        1235,
+        2430
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=460,2382,775,48",
+      "confidence": "line",
+      "gemini_text": "Wood, Wm. D., Montgomery Co., Md.",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        460,
+        2432,
+        1096,
+        2473
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=460,2432,636,41",
+      "confidence": "line",
+      "gemini_text": "Woody, Arthur, Takoma Park",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        458,
+        2471,
+        1227,
+        2520
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=458,2471,769,49",
+      "confidence": "line",
+      "gemini_text": "Worthington, Eugene, 2271 9th st nw",
+      "surya_confidence": 0.9984
+    },
+    {
+      "bbox": [
+        889,
+        2691,
+        965,
+        2726
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:116#xywh=889,2691,76,35",
+      "confidence": "line",
+      "gemini_text": "107",
+      "surya_confidence": 0.9881
+    }
+  ],
+  "unmatched_gemini": []
+}

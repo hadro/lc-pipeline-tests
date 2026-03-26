@@ -1,0 +1,384 @@
+{
+  "image": "0028_service:rbc:lcrbmrp:t8072:028.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028",
+  "canvas_width": 1824,
+  "canvas_height": 2910,
+  "surya_median_confidence": 0.9852,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        851,
+        341,
+        1219,
+        392
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=851,341,368,51",
+      "confidence": "line",
+      "gemini_text": "MEETINGS",
+      "surya_confidence": 0.8645
+    },
+    {
+      "bbox": [
+        932,
+        442,
+        1138,
+        472
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=932,442,206,30",
+      "confidence": "line",
+      "gemini_text": "HELD AT",
+      "surya_confidence": 0.9074
+    },
+    {
+      "bbox": [
+        736,
+        805,
+        1347,
+        856
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=736,805,611,51",
+      "confidence": "line",
+      "gemini_text": "M. W. GRAND LODGE:",
+      "surya_confidence": 0.9734
+    },
+    {
+      "bbox": [
+        801,
+        995,
+        1284,
+        1051
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=801,995,483,56",
+      "confidence": "line",
+      "gemini_text": "June and September.",
+      "surya_confidence": 0.9918
+    },
+    {
+      "bbox": [
+        1032,
+        2640,
+        1092,
+        2673
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=1032,2640,60,33",
+      "confidence": "line",
+      "gemini_text": "19",
+      "surya_confidence": 0.9052
+    },
+    {
+      "bbox": [
+        579,
+        519,
+        1498,
+        598
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=579,519,919,79",
+      "confidence": "line",
+      "gemini_text": "MASONIC TEMPLE,",
+      "surya_confidence": 0.9791
+    },
+    {
+      "bbox": [
+        468,
+        626,
+        1607,
+        686
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=468,626,1139,60",
+      "confidence": "line",
+      "gemini_text": "Corner of Fifth Street and Virginia Avenue, S. E.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        365,
+        888,
+        1723,
+        959
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=365,888,1358,71",
+      "confidence": "line",
+      "gemini_text": "Annual Communication, Second Wednesday of December;",
+      "surya_confidence": 0.9807
+    },
+    {
+      "bbox": [
+        366,
+        943,
+        1725,
+        1015
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=366,943,1359,72",
+      "confidence": "line",
+      "gemini_text": "Quarterly Communications, Second Wednesdays of March,",
+      "surya_confidence": 0.9933
+    },
+    {
+      "bbox": [
+        373,
+        1144,
+        789,
+        1185
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=373,1144,416,41",
+      "confidence": "line",
+      "gemini_text": "FIRST MONDAYS-",
+      "surya_confidence": 0.9542
+    },
+    {
+      "bbox": [
+        505,
+        1185,
+        1244,
+        1245
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=505,1185,739,60",
+      "confidence": "line",
+      "gemini_text": "Felix Lodge, No. 3, F. A. A. M.",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        374,
+        1288,
+        842,
+        1330
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=374,1288,468,42",
+      "confidence": "line",
+      "gemini_text": "SECOND MONDAYS-",
+      "surya_confidence": 0.9596
+    },
+    {
+      "bbox": [
+        506,
+        1333,
+        1300,
+        1388
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=506,1333,794,55",
+      "confidence": "line",
+      "gemini_text": "Eureka Lodge, No. 5, F. A. A. M.",
+      "surya_confidence": 0.9929
+    },
+    {
+      "bbox": [
+        508,
+        1379,
+        1279,
+        1433
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=508,1379,771,54",
+      "confidence": "line",
+      "gemini_text": "Zurubbabel Court, No. 1, H. of J.",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        377,
+        1478,
+        812,
+        1518
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=377,1478,435,40",
+      "confidence": "line",
+      "gemini_text": "THIRD MONDAYS-",
+      "surya_confidence": 0.9758
+    },
+    {
+      "bbox": [
+        506,
+        1523,
+        1293,
+        1579
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=506,1523,787,56",
+      "confidence": "line",
+      "gemini_text": "Hiram Lodge, No. 4, F. A. A. M.",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        511,
+        1578,
+        1440,
+        1630
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=511,1578,929,52",
+      "confidence": "line",
+      "gemini_text": "Queen of Sheba Chapter, No. 3, O. E. S.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        377,
+        1677,
+        844,
+        1719
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=377,1677,467,42",
+      "confidence": "line",
+      "gemini_text": "FOURTH MONDAYS-",
+      "surya_confidence": 0.9619
+    },
+    {
+      "bbox": [
+        511,
+        1723,
+        1377,
+        1776
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=511,1723,866,53",
+      "confidence": "line",
+      "gemini_text": "St. John's Lodge, No. 12, F. A. A. M.",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        512,
+        1770,
+        1091,
+        1823
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=512,1770,579,53",
+      "confidence": "line",
+      "gemini_text": "A. A. S. Rite Consistory.",
+      "surya_confidence": 0.9943
+    },
+    {
+      "bbox": [
+        380,
+        1870,
+        828,
+        1907
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=380,1870,448,37",
+      "confidence": "line",
+      "gemini_text": "FIRST TUESDAYS-",
+      "surya_confidence": 0.9816
+    },
+    {
+      "bbox": [
+        511,
+        1912,
+        1327,
+        1965
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=511,1912,816,53",
+      "confidence": "line",
+      "gemini_text": "Meridian Lodge, No. 6, F. A. A. M.",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        385,
+        2011,
+        862,
+        2052
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=385,2011,477,41",
+      "confidence": "line",
+      "gemini_text": "SECOND TUESDAYS-",
+      "surya_confidence": 0.9588
+    },
+    {
+      "bbox": [
+        516,
+        2056,
+        1449,
+        2111
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=516,2056,933,55",
+      "confidence": "line",
+      "gemini_text": "John F. Cook Lodge, No. 10, F. A. A. M.",
+      "surya_confidence": 0.9975
+    },
+    {
+      "bbox": [
+        385,
+        2158,
+        830,
+        2196
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=385,2158,445,38",
+      "confidence": "line",
+      "gemini_text": "THIRD TUESDAYS-",
+      "surya_confidence": 0.9782
+    },
+    {
+      "bbox": [
+        517,
+        2201,
+        1402,
+        2254
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=517,2201,885,53",
+      "confidence": "line",
+      "gemini_text": "Pythagoras Lodge, No. 9, F. A. A. M.",
+      "surya_confidence": 0.9976
+    },
+    {
+      "bbox": [
+        385,
+        2301,
+        865,
+        2339
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=385,2301,480,38",
+      "confidence": "line",
+      "gemini_text": "FOURTH TUESDAYS-",
+      "surya_confidence": 0.9616
+    },
+    {
+      "bbox": [
+        519,
+        2350,
+        1262,
+        2397
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=519,2350,743,47",
+      "confidence": "line",
+      "gemini_text": "Keystone R. A. Chapter, No. 11.",
+      "surya_confidence": 0.9852
+    },
+    {
+      "bbox": [
+        385,
+        2445,
+        895,
+        2481
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=385,2445,510,36",
+      "confidence": "line",
+      "gemini_text": "FIRST WEDNESDAYS-",
+      "surya_confidence": 0.9558
+    },
+    {
+      "bbox": [
+        521,
+        2493,
+        1316,
+        2540
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=521,2493,795,47",
+      "confidence": "line",
+      "gemini_text": "Warren Lodge, No. 8, F. A. A. M.",
+      "surya_confidence": 0.9975
+    },
+    {
+      "bbox": [
+        520,
+        2547,
+        1310,
+        2597
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:028#xywh=520,2547,790,50",
+      "confidence": "line",
+      "gemini_text": "Prince Hall R. A. Chapter, No. 5.",
+      "surya_confidence": 0.9966
+    }
+  ],
+  "unmatched_gemini": []
+}

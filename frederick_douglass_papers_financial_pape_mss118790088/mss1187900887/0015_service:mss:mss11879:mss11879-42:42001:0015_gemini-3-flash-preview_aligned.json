@@ -1,0 +1,376 @@
+{
+  "image": "0015_service:mss:mss11879:mss11879-42:42001:0015.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015",
+  "canvas_width": 1922,
+  "canvas_height": 1598,
+  "surya_median_confidence": 0.7823,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        89,
+        185,
+        898,
+        239
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=89,185,809,54",
+      "confidence": "line",
+      "gemini_text": "J'ai eu. Tu as eu. Il a eu. Nous avons eu.",
+      "surya_confidence": 0.5684
+    },
+    {
+      "bbox": [
+        99,
+        247,
+        618,
+        299
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=99,247,519,52",
+      "confidence": "line",
+      "gemini_text": "Vous avez eu, Ils ont eu.",
+      "surya_confidence": 0.9638
+    },
+    {
+      "bbox": [
+        214,
+        312,
+        597,
+        352
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=214,312,383,40",
+      "confidence": "line",
+      "gemini_text": "x x x x x",
+      "surya_confidence": 0.5175
+    },
+    {
+      "bbox": [
+        105,
+        394,
+        699,
+        436
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=105,394,594,42",
+      "confidence": "line",
+      "gemini_text": "J'ai vais eu. Tu vais eu",
+      "surya_confidence": 0.4407
+    },
+    {
+      "bbox": [
+        103,
+        440,
+        947,
+        499
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=103,440,844,59",
+      "confidence": "line",
+      "gemini_text": "J'vais eu. Tu vais eu: Il avait eu,",
+      "surya_confidence": 0.7049
+    },
+    {
+      "bbox": [
+        104,
+        496,
+        797,
+        551
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=104,496,693,55",
+      "confidence": "line",
+      "gemini_text": "nous avions eu. Vous aviez eu:",
+      "surya_confidence": 0.9299
+    },
+    {
+      "bbox": [
+        105,
+        539,
+        442,
+        580
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=105,539,337,41",
+      "confidence": "line",
+      "gemini_text": "Ils avaient eu.",
+      "surya_confidence": 0.9582
+    },
+    {
+      "bbox": [
+        110,
+        694,
+        703,
+        745
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=110,694,593,51",
+      "confidence": "line",
+      "gemini_text": "J'eus eu. Tu eus eu.",
+      "surya_confidence": 0.6852
+    },
+    {
+      "bbox": [
+        114,
+        742,
+        687,
+        795
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=114,742,573,53",
+      "confidence": "line",
+      "gemini_text": "Il eut eu.",
+      "surya_confidence": 0.7814
+    },
+    {
+      "bbox": [
+        112,
+        797,
+        683,
+        850
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=112,797,571,53",
+      "confidence": "line",
+      "gemini_text": "Nous eûmes eu.",
+      "surya_confidence": 0.6554
+    },
+    {
+      "bbox": [
+        126,
+        858,
+        773,
+        896
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=126,858,647,38",
+      "confidence": "line",
+      "gemini_text": "Vous eûtes eu.",
+      "surya_confidence": 0.6765
+    },
+    {
+      "bbox": [
+        116,
+        909,
+        677,
+        947
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=116,909,561,38",
+      "confidence": "line",
+      "gemini_text": "Ils eurent eu.",
+      "surya_confidence": 0.518
+    },
+    {
+      "bbox": [
+        92,
+        998,
+        589,
+        1059
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=92,998,497,61",
+      "confidence": "line",
+      "gemini_text": "Le prise de la Bastille",
+      "surya_confidence": 0.985
+    },
+    {
+      "bbox": [
+        104,
+        1103,
+        598,
+        1153
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=104,1103,494,50",
+      "confidence": "line",
+      "gemini_text": "Seulement pour voir",
+      "surya_confidence": 0.9049
+    },
+    {
+      "bbox": [
+        120,
+        1161,
+        587,
+        1198
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=120,1161,467,37",
+      "confidence": "line",
+      "gemini_text": "Seulement pour voir.",
+      "surya_confidence": 0.9497
+    },
+    {
+      "bbox": [
+        117,
+        1212,
+        418,
+        1248
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=117,1212,301,36",
+      "confidence": "line",
+      "gemini_text": "Seulement pour voir.",
+      "surya_confidence": 0.9423
+    },
+    {
+      "bbox": [
+        1029,
+        193,
+        1734,
+        245
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1029,193,705,52",
+      "confidence": "line",
+      "gemini_text": "Il faisait mauvais temps ce matin.",
+      "surya_confidence": 0.9897
+    },
+    {
+      "bbox": [
+        1223,
+        247,
+        1760,
+        297
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1223,247,537,50",
+      "confidence": "line",
+      "gemini_text": "Imperfect Past Definite",
+      "surya_confidence": 0.5836
+    },
+    {
+      "bbox": [
+        1029,
+        295,
+        1755,
+        349
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1029,295,726,54",
+      "confidence": "line",
+      "gemini_text": "J'ai eu. Tu as eu, Il avait eu,",
+      "surya_confidence": 0.8416
+    },
+    {
+      "bbox": [
+        1031,
+        346,
+        1848,
+        397
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1031,346,817,51",
+      "confidence": "line",
+      "gemini_text": "nous avons eu, Vous avez eu, Ils ont eu.",
+      "surya_confidence": 0.7823
+    },
+    {
+      "bbox": [
+        1208,
+        444,
+        1557,
+        498
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1208,444,349,54",
+      "confidence": "line",
+      "gemini_text": "Past definite",
+      "surya_confidence": 0.9878
+    },
+    {
+      "bbox": [
+        1007,
+        484,
+        1836,
+        612
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1007,484,829,128",
+      "confidence": "line",
+      "gemini_text": "J'ai eu, Tu as eu, Il avait eu, Nous avons",
+      "surya_confidence": 0.9528
+    },
+    {
+      "bbox": [
+        1178,
+        648,
+        1500,
+        695
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1178,648,322,47",
+      "confidence": "line",
+      "gemini_text": "Pluperfect",
+      "surya_confidence": 0.9932
+    },
+    {
+      "bbox": [
+        1038,
+        695,
+        1815,
+        809
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1038,695,777,114",
+      "confidence": "line",
+      "gemini_text": "on avait eu, Nous avions eu, Vous aviez",
+      "surya_confidence": 0.9523
+    },
+    {
+      "bbox": [
+        1043,
+        801,
+        1493,
+        852
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1043,801,450,51",
+      "confidence": "line",
+      "gemini_text": "eu, Ils avaient eu.",
+      "surya_confidence": 0.9375
+    },
+    {
+      "bbox": [
+        1149,
+        855,
+        1598,
+        901
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1149,855,449,46",
+      "confidence": "line",
+      "gemini_text": "Past anterior",
+      "surya_confidence": 0.9506
+    },
+    {
+      "bbox": [
+        1009,
+        952,
+        1746,
+        1011
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1009,952,737,59",
+      "confidence": "line",
+      "gemini_text": "J'eus eu, Tu eus eu, Il eut eu",
+      "surya_confidence": 0.7191
+    },
+    {
+      "bbox": [
+        1010,
+        1004,
+        1718,
+        1056
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1010,1004,708,52",
+      "confidence": "line",
+      "gemini_text": "nous eûmes eu. Vous eûtes eu,",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        1027,
+        1055,
+        1707,
+        1102
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1027,1055,680,47",
+      "confidence": "line",
+      "gemini_text": "Ils eurent eu.",
+      "surya_confidence": 0.3828
+    },
+    {
+      "bbox": [
+        1225,
+        1156,
+        1484,
+        1204
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0015#xywh=1225,1156,259,48",
+      "confidence": "line",
+      "gemini_text": "Future",
+      "surya_confidence": 0.5156
+    }
+  ],
+  "unmatched_gemini": [
+    "x x x",
+    "eu, Vous avez eu, Ils ont eu.",
+    "J'avais eu, Tu avais eu. Il avait eu,"
+  ]
+}

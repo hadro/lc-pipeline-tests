@@ -1,0 +1,422 @@
+{
+  "image": "0135_service:rbc:lcrbmrp:t8072:135.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135",
+  "canvas_width": 1871,
+  "canvas_height": 2982,
+  "surya_median_confidence": 0.9954,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        1250,
+        352,
+        1406,
+        445
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=1250,352,156,93",
+      "confidence": "line",
+      "gemini_text": "Grand",
+      "surya_confidence": 0.9509
+    },
+    {
+      "bbox": [
+        1316,
+        508,
+        1543,
+        611
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=1316,508,227,103",
+      "confidence": "line",
+      "gemini_text": "Masonic",
+      "surya_confidence": 0.9764
+    },
+    {
+      "bbox": [
+        1386,
+        674,
+        1584,
+        791
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=1386,674,198,117",
+      "confidence": "line",
+      "gemini_text": "Charity",
+      "surya_confidence": 0.9933
+    },
+    {
+      "bbox": [
+        1448,
+        838,
+        1701,
+        953
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=1448,838,253,115",
+      "confidence": "line",
+      "gemini_text": "Reception",
+      "surya_confidence": 0.9956
+    },
+    {
+      "bbox": [
+        1250,
+        1055,
+        1637,
+        1106
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=1250,1055,387,51",
+      "confidence": "line",
+      "gemini_text": "At the Great",
+      "surya_confidence": 0.9779
+    },
+    {
+      "bbox": [
+        1373,
+        1130,
+        1697,
+        1183
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=1373,1130,324,53",
+      "confidence": "line",
+      "gemini_text": "Convention",
+      "surya_confidence": 0.9105
+    },
+    {
+      "bbox": [
+        1481,
+        1211,
+        1637,
+        1265
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=1481,1211,156,54",
+      "confidence": "line",
+      "gemini_text": "Hall,",
+      "surya_confidence": 0.9973
+    },
+    {
+      "bbox": [
+        1255,
+        1334,
+        1705,
+        1387
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=1255,1334,450,53",
+      "confidence": "line",
+      "gemini_text": "Cor. 5th and L",
+      "surya_confidence": 0.9949
+    },
+    {
+      "bbox": [
+        1321,
+        1409,
+        1639,
+        1466
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=1321,1409,318,57",
+      "confidence": "line",
+      "gemini_text": "Sts. N. W.",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        350,
+        1529,
+        1708,
+        1621
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=350,1529,1358,92",
+      "confidence": "line",
+      "gemini_text": "Wednesday, Nov. 23, 1904",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        356,
+        1649,
+        1709,
+        1693
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=356,1649,1353,44",
+      "confidence": "line",
+      "gemini_text": "\"YOUR most exalted and sacred duty is to assist the",
+      "surya_confidence": 0.9945
+    },
+    {
+      "bbox": [
+        488,
+        1698,
+        1044,
+        1735
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=488,1698,556,37",
+      "confidence": "line",
+      "gemini_text": "Widows and Orphans.\"",
+      "surya_confidence": 0.9894
+    },
+    {
+      "bbox": [
+        353,
+        1748,
+        1701,
+        1795
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=353,1748,1348,47",
+      "confidence": "line",
+      "gemini_text": "\"Join us and let this be the greatest success of our lives.\"",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        444,
+        1839,
+        1716,
+        1883
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=444,1839,1272,44",
+      "confidence": "line",
+      "gemini_text": "Secure tickets from some member of the committee and",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        352,
+        1885,
+        1439,
+        1926
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=352,1885,1087,41",
+      "confidence": "line",
+      "gemini_text": "commence to do YOUR share of this great work.",
+      "surya_confidence": 0.9978
+    },
+    {
+      "bbox": [
+        355,
+        2021,
+        993,
+        2061
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=355,2021,638,40",
+      "confidence": "line",
+      "gemini_text": "John P. Turner, Chairman.",
+      "surya_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        355,
+        2063,
+        1271,
+        2107
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=355,2063,916,44",
+      "confidence": "line",
+      "gemini_text": "George S. Newman, 1st Vice Chairman.",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        356,
+        2109,
+        1302,
+        2149
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=356,2109,946,40",
+      "confidence": "line",
+      "gemini_text": "Mrs. Julia A Harris, 2d Vice-Chairman.",
+      "surya_confidence": 0.9976
+    },
+    {
+      "bbox": [
+        358,
+        2155,
+        1312,
+        2192
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=358,2155,954,37",
+      "confidence": "line",
+      "gemini_text": "Mrs. Mary A. Parker, 3d Vice-Chairman.",
+      "surya_confidence": 0.9971
+    },
+    {
+      "bbox": [
+        358,
+        2198,
+        1079,
+        2240
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=358,2198,721,42",
+      "confidence": "line",
+      "gemini_text": "George M. Webster, Treasurer.",
+      "surya_confidence": 0.9969
+    },
+    {
+      "bbox": [
+        358,
+        2238,
+        1551,
+        2287
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=358,2238,1193,49",
+      "confidence": "line",
+      "gemini_text": "James O. Bampfield, Secretary, 1119 V Street N. W.",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        358,
+        2288,
+        1331,
+        2327
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=358,2288,973,39",
+      "confidence": "line",
+      "gemini_text": "W. H. Judd Malvin, M. W. Grand Master.",
+      "surya_confidence": 0.9953
+    },
+    {
+      "bbox": [
+        356,
+        2332,
+        1419,
+        2374
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=356,2332,1063,42",
+      "confidence": "line",
+      "gemini_text": "Frank H. Cozzens, M. Ex. Grand High Priest.",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        359,
+        2376,
+        1450,
+        2418
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=359,2376,1091,42",
+      "confidence": "line",
+      "gemini_text": "George S. Newman, R. Em. Grand Commander.",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        358,
+        2424,
+        1089,
+        2460
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=358,2424,731,36",
+      "confidence": "line",
+      "gemini_text": "Arthur Simmons, Ill. Potentate.",
+      "surya_confidence": 0.9857
+    },
+    {
+      "bbox": [
+        358,
+        2463,
+        1503,
+        2507
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=358,2463,1145,44",
+      "confidence": "line",
+      "gemini_text": "Thornton A. Jackson, 33°, M P. S. Grand Cond'r.",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        358,
+        2507,
+        1551,
+        2551
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=358,2507,1193,44",
+      "confidence": "line",
+      "gemini_text": "Mrs. Elizabeth W. Marshall, G. R. Matron O. E. S.",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        358,
+        2558,
+        827,
+        2594
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=358,2558,469,36",
+      "confidence": "line",
+      "gemini_text": "Mrs. Nellie Morgan.",
+      "surya_confidence": 0.9888
+    },
+    {
+      "bbox": [
+        355,
+        2602,
+        749,
+        2636
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=355,2602,394,34",
+      "confidence": "line",
+      "gemini_text": "Mrs. H C. Irvin.",
+      "surya_confidence": 0.9925
+    },
+    {
+      "bbox": [
+        357,
+        2646,
+        749,
+        2681
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=357,2646,392,35",
+      "confidence": "line",
+      "gemini_text": "E. M. Dickerson.",
+      "surya_confidence": 0.9884
+    },
+    {
+      "bbox": [
+        355,
+        2689,
+        734,
+        2726
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=355,2689,379,37",
+      "confidence": "line",
+      "gemini_text": "Fred A. Fowler.",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        356,
+        2733,
+        898,
+        2770
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=356,2733,542,37",
+      "confidence": "line",
+      "gemini_text": "Nelson E Weatherless.",
+      "surya_confidence": 0.9813
+    },
+    {
+      "bbox": [
+        353,
+        2780,
+        633,
+        2814
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=353,2780,280,34",
+      "confidence": "line",
+      "gemini_text": "H C. Irvin.",
+      "surya_confidence": 0.9877
+    },
+    {
+      "bbox": [
+        358,
+        2825,
+        681,
+        2862
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:135#xywh=358,2825,323,37",
+      "confidence": "line",
+      "gemini_text": "Joseph Minor.",
+      "surya_confidence": 0.9864
+    }
+  ],
+  "unmatched_gemini": [
+    "COMMITTEE."
+  ]
+}

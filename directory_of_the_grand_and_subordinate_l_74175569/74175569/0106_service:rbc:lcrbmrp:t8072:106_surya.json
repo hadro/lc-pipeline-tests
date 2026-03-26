@@ -1,0 +1,656 @@
+{
+  "image_width": 1822,
+  "image_height": 3008,
+  "lines": [
+    {
+      "bbox": [
+        587,
+        343,
+        1201,
+        383
+      ],
+      "text": "DIRECTORY—continued.",
+      "confidence": 0.9301
+    },
+    {
+      "bbox": [
+        420,
+        434,
+        1101,
+        471
+      ],
+      "text": "Tignor, Wm. L., 9, G, 316 3d sw.",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        421,
+        469,
+        1090,
+        506
+      ],
+      "text": "Tinker, Geo. F., 15-5, Anacostia.",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        421,
+        500,
+        1146,
+        540
+      ],
+      "text": "Todd, Ira V., 1, 1426 Pierce Pl. nw.",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        422,
+        537,
+        1047,
+        570
+      ],
+      "text": "Toler, David, 7, 1410 34th nw.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        421,
+        567,
+        1241,
+        609
+      ],
+      "text": "Tompkins, Jeff. F., 15-7-1, 1704 10th nw.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        421,
+        600,
+        1362,
+        641
+      ],
+      "text": "Tompkins, Richard W., 1-1-3, G-M-R, 1341 V",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        421,
+        630,
+        1283,
+        683
+      ],
+      "text": "Towles, Edw. E., 6-7-4, C-S, 1608 10th nw.",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        421,
+        665,
+        1182,
+        716
+      ],
+      "text": "Tucker, Jos. W., 5, 1520 Madison nw.",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        421,
+        699,
+        1263,
+        748
+      ],
+      "text": "Turner, C. H. P., 1-5, 461 N. Y. ave. nw.",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        421,
+        733,
+        1360,
+        780
+      ],
+      "text": "Turner, Geo. W., 9-11-2, S, 1532 Columbia nw.",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        421,
+        769,
+        1156,
+        816
+      ],
+      "text": "Turner, I. H., 14, Indianapolis, Ind.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        421,
+        805,
+        1362,
+        847
+      ],
+      "text": "Turner, John P., 5-7-4, 33d C-M-R-S, Pine Bluff,",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        422,
+        843,
+        1299,
+        881
+      ],
+      "text": "Turner, John T., 7-11-2, D-0, 926 25th nw.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        421,
+        868,
+        1163,
+        922
+      ],
+      "text": "Turner, Richard W., 7, 326 Elm nw.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        421,
+        912,
+        925,
+        953
+      ],
+      "text": "Tyler, John, 3, 51 C se.",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        421,
+        941,
+        1165,
+        988
+      ],
+      "text": "Tyler, Wm., 8, G, 997 Fla. ave. nw.",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        421,
+        978,
+        1048,
+        1020
+      ],
+      "text": "Tymms, Wm., 15, 413 1st sw.",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        421,
+        1011,
+        1143,
+        1055
+      ],
+      "text": "Uncles, Isaac H., 10, G, 1118 K nw.",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        422,
+        1041,
+        1139,
+        1093
+      ],
+      "text": "Underwood, Stephen, 8, 705 2d sw.",
+      "confidence": 0.9827
+    },
+    {
+      "bbox": [
+        424,
+        1079,
+        1219,
+        1121
+      ],
+      "text": "Underwood, Wm. H., 3-5-1, G, 5 E sw.",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        422,
+        1107,
+        1085,
+        1165
+      ],
+      "text": "Upshur, Albert, 8, 1628 11th nw.",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        425,
+        1142,
+        1144,
+        1194
+      ],
+      "text": "Walker, Alex., 1-1-3, S, 1420 3d nw.",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        424,
+        1179,
+        1142,
+        1225
+      ],
+      "text": "Walker, James E., 5, 1809 13th nw.",
+      "confidence": 0.9862
+    },
+    {
+      "bbox": [
+        425,
+        1216,
+        1083,
+        1263
+      ],
+      "text": "Walker, Peter, 5, G, 1912 L nw.",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        425,
+        1247,
+        1282,
+        1296
+      ],
+      "text": "Walker, Wm. W., 7-11-2, S, 1242 20th nw.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        424,
+        1280,
+        1365,
+        1330
+      ],
+      "text": "Waller, Rev. O. M., 14-11, 33d 1411 Corcoran",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        425,
+        1320,
+        1033,
+        1364
+      ],
+      "text": "Ward, John H., 15, 221 H sw.",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        422,
+        1346,
+        1365,
+        1399
+      ],
+      "text": "Warfield, Wm. A., 14-7-4, 32d G-S, 1901 11th",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        424,
+        1384,
+        1096,
+        1430
+      ],
+      "text": "Warren, Edw., 15, Tennallytown.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        422,
+        1416,
+        1304,
+        1467
+      ],
+      "text": "Warren, Julius, 6-1-3, 32d G-S, 1017 3d nw.",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        422,
+        1454,
+        1147,
+        1501
+      ],
+      "text": "Washington, Benj., 5, 1114 21st nw.",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        422,
+        1487,
+        1242,
+        1534
+      ],
+      "text": "Washington, Chas., 1, 70 Logan Pl. nw.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        422,
+        1524,
+        1142,
+        1568
+      ],
+      "text": "Washington, G. W., 15, 1541 M nw.",
+      "confidence": 0.9889
+    },
+    {
+      "bbox": [
+        422,
+        1552,
+        1303,
+        1603
+      ],
+      "text": "Washington, Jas. H, 1, 1526 Pierce Pl. nw.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        418,
+        1585,
+        1285,
+        1676
+      ],
+      "text": "Washington, Wm., 4-11, G, 1332 29th nw. Watkins, Geo. R., 10, G, 457 N nw.",
+      "confidence": 0.9752
+    },
+    {
+      "bbox": [
+        420,
+        1644,
+        1367,
+        1718
+      ],
+      "text": "Watson, E. A., 5, F, 1238 Jollet st. Brookland.",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        424,
+        1695,
+        1222,
+        1735
+      ],
+      "text": "Watson, Samuel W., 5, 1208 Linden ne.",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        424,
+        1726,
+        1323,
+        1772
+      ],
+      "text": "Watts, S. Roger, 5-7-4, 33d A-N-S, 1343 V nw.",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        425,
+        1758,
+        1364,
+        1808
+      ],
+      "text": "Wayne, Louis H., 3-5-1, 32d D-M-N-S, 315 E.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        464,
+        1808,
+        624,
+        1836
+      ],
+      "text": "Capitol.",
+      "confidence": 0.9835
+    },
+    {
+      "bbox": [
+        427,
+        1828,
+        1365,
+        1874
+      ],
+      "text": "Weatherless, Nelson E., 9-11-2, 33d G-S, 2402",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        464,
+        1874,
+        801,
+        1903
+      ],
+      "text": "Brightwood ave.",
+      "confidence": 0.9413
+    },
+    {
+      "bbox": [
+        425,
+        1898,
+        1138,
+        1948
+      ],
+      "text": "Webster, Geo. M., 1, G, 320 E sw.",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        427,
+        1928,
+        1126,
+        1982
+      ],
+      "text": "Webster, Edw. L., 5, 323 Elm nw.",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        427,
+        1968,
+        1200,
+        2010
+      ],
+      "text": "Welch, Thomas, 5, C, 332 Spruce nw.",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        427,
+        2003,
+        1034,
+        2045
+      ],
+      "text": "Wells, Wm. A., 5, 255 3d sw.",
+      "confidence": 0.9892
+    },
+    {
+      "bbox": [
+        426,
+        2038,
+        1143,
+        2077
+      ],
+      "text": "Wells, Wm. A. Sr., 9, 1719 8th nw.",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        427,
+        2066,
+        1364,
+        2113
+      ],
+      "text": "West, Samuel H., 3-5-3, 32d C-H-N-S, 1116 N. J.",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        462,
+        2113,
+        653,
+        2144
+      ],
+      "text": "ave. aw.",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        425,
+        2134,
+        1048,
+        2189
+      ],
+      "text": "White, Alger, 6, 531 19th nw.",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        424,
+        2176,
+        981,
+        2213
+      ],
+      "text": "White, B. H., 3, 120 M se.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        424,
+        2205,
+        1163,
+        2251
+      ],
+      "text": "White, H. W., 9-11, 600 Spruce nw.",
+      "confidence": 0.9889
+    },
+    {
+      "bbox": [
+        1267,
+        2232,
+        1368,
+        2268
+      ],
+      "text": "717",
+      "confidence": 0.4863
+    },
+    {
+      "bbox": [
+        426,
+        2243,
+        1093,
+        2284
+      ],
+      "text": "White, Rev. J. R., 15, 1350 B ne.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        427,
+        2277,
+        1122,
+        2318
+      ],
+      "text": "Whiting, Geo. A., 8, 1639 6th nw.",
+      "confidence": 0.9835
+    },
+    {
+      "bbox": [
+        426,
+        2311,
+        985,
+        2352
+      ],
+      "text": "Wilder, J. R., 14, 412 B se.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        429,
+        2349,
+        1040,
+        2382
+      ],
+      "text": "Wilkes, W. H., 15, Anacostia.",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        427,
+        2375,
+        1325,
+        2419
+      ],
+      "text": "Wilkinson, J. F. N., 3-5-1, 33d F-N, 901 E sw.",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        425,
+        2406,
+        1330,
+        2524
+      ],
+      "text": "Wilkinson, J. W., 9-11-2, G, Anacostia. Wilkinson, W. L. D., 14, 1712 P nw. Williams, Benj., 7, D, 2911 Dumbarton ave.",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        427,
+        2514,
+        1092,
+        2555
+      ],
+      "text": "Williams, Benj., 6-2, 1115 1st nw.",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        429,
+        2548,
+        1034,
+        2588
+      ],
+      "text": "Williams, Esau, 7, 823 2d se.",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        429,
+        2582,
+        1142,
+        2624
+      ],
+      "text": "Williams, J. H., 12, G, 1448 P nw.",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        816,
+        2653,
+        916,
+        2686
+      ],
+      "text": "97",
+      "confidence": 0.949
+    },
+    {
+      "bbox": [
+        441,
+        2917,
+        555,
+        2930
+      ],
+      "text": "· 在 · · · · · · · · · · · · · · · · · ·",
+      "confidence": 0.1797
+    }
+  ]
+}

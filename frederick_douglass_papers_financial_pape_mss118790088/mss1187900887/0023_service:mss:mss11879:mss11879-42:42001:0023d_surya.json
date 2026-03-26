@@ -1,0 +1,86 @@
+{
+  "image_width": 786,
+  "image_height": 1273,
+  "lines": [
+    {
+      "bbox": [
+        220,
+        99,
+        447,
+        197
+      ],
+      "text": "No. 3825",
+      "confidence": 0.873
+    },
+    {
+      "bbox": [
+        135,
+        175,
+        682,
+        340
+      ],
+      "text": "Dentsch-Amerikanische",
+      "confidence": 0.6463
+    },
+    {
+      "bbox": [
+        318,
+        304,
+        500,
+        360
+      ],
+      "text": "Sparbank.",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        126,
+        988,
+        706,
+        1045
+      ],
+      "text": "German American Savings Bank,",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        197,
+        1043,
+        632,
+        1078
+      ],
+      "text": "CORNER OF SEVENTH AND F STREETS, N. W.,",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        311,
+        1074,
+        521,
+        1101
+      ],
+      "text": "FEDERAL BUILDINGS,",
+      "confidence": 0.9637
+    },
+    {
+      "bbox": [
+        240,
+        1100,
+        598,
+        1129
+      ],
+      "text": "WASHINGTON, D. C.",
+      "confidence": 0.9669
+    },
+    {
+      "bbox": [
+        158,
+        1143,
+        676,
+        1181
+      ],
+      "text": "Weep this Book carefully. Do not roll or fold it.",
+      "confidence": 0.3067
+    }
+  ]
+}

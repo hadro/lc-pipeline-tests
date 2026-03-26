@@ -1,0 +1,632 @@
+{
+  "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "section_title": "Masonic Directory",
+    "organization_name": null
+  },
+  "page_context": {
+    "section_title": "Masonic Directory",
+    "organization_name": null
+  },
+  "entries": [
+    {
+      "name": "Pulley, P. W.",
+      "masonic_codes": "6",
+      "lodge": "Meridian",
+      "address": "28 Defrees nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=420,471,664,33",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Quarles, W. C.",
+      "masonic_codes": "9-11-2, S",
+      "lodge": "Pythagoras",
+      "chapter": "Keystone",
+      "commandery": "Henderson",
+      "rank": "Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "Anacostia",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=423,506,720,33",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Kafas, John W.",
+      "masonic_codes": "8-2",
+      "lodge": "Warren",
+      "chapter": "Union",
+      "address": "822 12th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=421,539,683,34",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Redding, G. C.",
+      "masonic_codes": "8-2",
+      "lodge": "Warren",
+      "chapter": "Union",
+      "address": "1114 18th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=423,570,691,38",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Renfro, Daniel I.",
+      "masonic_codes": "1",
+      "lodge": "Social",
+      "address": "1628 5th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=418,599,671,80",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Rhone, Geo. R.",
+      "masonic_codes": "7",
+      "lodge": "Warren",
+      "address": "1017 18th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=421,673,660,36",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Rials, Ferd.",
+      "masonic_codes": "12",
+      "lodge": "St. John's",
+      "address": "465 School sw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=423,709,628,32",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Richardson, D. E.",
+      "masonic_codes": "4",
+      "lodge": "Hiram",
+      "address": "1504 26th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=421,742,736,32",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Richardson, Geo. H.",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "309 11th ne.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=421,775,737,34",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Richardson, J. A.",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "217 Capitol ave., Ivy City.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=420,805,938,40",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Richardson, Robt.",
+      "masonic_codes": "12",
+      "lodge": "St. John's",
+      "address": "410 O nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=421,838,648,46",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Roberts, Isaac",
+      "masonic_codes": "8",
+      "lodge": "Warren",
+      "address": "1322 Stanton ave.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=418,872,739,79",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Robinson, Geo. A.",
+      "masonic_codes": "7",
+      "lodge": "Warren",
+      "address": "1431 W nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=421,946,669,37",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Robinson, Geo. M.",
+      "masonic_codes": "10",
+      "lodge": "John F. Cook",
+      "address": "814 3d sw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=420,983,679,30",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Robinson, Michael H.",
+      "masonic_codes": "3-5-1, 33d G-M-R-S",
+      "lodge": "Widow's Son",
+      "chapter": "Prince Hall",
+      "commandery": "Simon",
+      "rank": "Supreme Council of Scottish Rite Masons, Past Master, Past High Priest, Past Eminent Commander, Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "41 D se.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=421,1013,937,37",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Robinson, Nathaniel",
+      "masonic_codes": "12-7-4, 32d G-N-S",
+      "lodge": "St. John's",
+      "chapter": "St. John's",
+      "commandery": "Mt. Calvary",
+      "rank": "Consistory of Scottish Rite Masons, Past Master, Past Grand Commander, Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "2246 Cleveland ave.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=421,1083,938,34",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Robinson, N. G.",
+      "masonic_codes": "3",
+      "lodge": "Widow's Son",
+      "address": "38½ O nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=424,1148,624,39",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Robinson, W. A.",
+      "masonic_codes": "0-1-3, 32d S",
+      "chapter": "Mt. Vernon",
+      "commandery": "Gethsemane",
+      "rank": "Consistory of Scottish Rite Masons, Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "1912 11th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=424,1180,878,41",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Rogers, G. C. F.",
+      "masonic_codes": "12",
+      "lodge": "St. John's",
+      "address": "2402 15th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=425,1222,715,30",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Rollins, Daniel",
+      "masonic_codes": "3",
+      "lodge": "Widow's Son",
+      "address": "47 L nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=423,1255,551,30",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Ross, Travis",
+      "masonic_codes": "7",
+      "lodge": "Warren",
+      "address": "1613 12th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=424,1288,624,33",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Ross, R. D.",
+      "masonic_codes": "4",
+      "lodge": "Hiram",
+      "address": "1129 23d nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=426,1321,578,35",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Ryder, Rev. Wm. P.",
+      "masonic_codes": "3-1-1, C",
+      "lodge": "Widow's Son",
+      "chapter": "Mt. Vernon",
+      "commandery": "Simon",
+      "rank": "Past Senior Grand Warden",
+      "address": "66 11th st., Wheeling, W. Va.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=421,1355,937,36",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Sales, Thomas",
+      "masonic_codes": "15-5",
+      "lodge": "Chas. Datcher",
+      "chapter": "Prince Hall",
+      "address": "711 2d sw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=424,1421,648,39",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Saunders, James",
+      "masonic_codes": "3-1",
+      "lodge": "Widow's Son",
+      "chapter": "Mt. Vernon",
+      "address": "1503 P nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=425,1460,657,30",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Saunders, Wm.",
+      "masonic_codes": "6",
+      "lodge": "Meridian",
+      "address": "Deanwood.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=424,1493,607,34",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Saunders, Wm. H.",
+      "masonic_codes": "4-11-2, G",
+      "lodge": "Hiram",
+      "chapter": "Keystone",
+      "commandery": "Henderson",
+      "rank": "Past Master",
+      "address": "Deanwood.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=424,1527,832,32",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Savoy, Edw. A.",
+      "masonic_codes": "14",
+      "lodge": "Prince Hall",
+      "address": "2008 17th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=423,1561,699,32",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Savoy, Walter",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "1257 Wylie ne.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=425,1596,685,30",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Scipio, Chas. W.",
+      "masonic_codes": "15-5-1",
+      "lodge": "Chas. Datcher",
+      "chapter": "Prince Hall",
+      "commandery": "Simon",
+      "address": "456 1st sw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=423,1629,717,32",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Scott, A. W.",
+      "masonic_codes": "12-2, G",
+      "lodge": "St. John's",
+      "chapter": "Union",
+      "rank": "Past Master",
+      "address": "1626 11th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=425,1662,747,38",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Scott, Geo. W.",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "1703 R nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=426,1694,623,37",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Scott, Isaac W.",
+      "masonic_codes": "9-7-4, 33d G-R-S",
+      "lodge": "Pythagoras",
+      "chapter": "St. John's",
+      "commandery": "Mt. Calvary",
+      "rank": "Supreme Council of Scottish Rite Masons, Past Master, Past Eminent Commander, Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "1737 L nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=425,1733,915,32",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Scott, Jere.",
+      "masonic_codes": "15",
+      "lodge": "Chas. Datcher",
+      "address": "206 Va. ave. sw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=426,1768,672,30",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Scott, John R.",
+      "masonic_codes": "9",
+      "lodge": "Pythagoras",
+      "address": "U. S. Marshal Office.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=426,1799,794,34",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Scott, Wm. A.",
+      "masonic_codes": "6",
+      "lodge": "Meridian",
+      "address": "Gaithersburg, Md.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=426,1836,732,30",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Scott, Wm. E.",
+      "masonic_codes": "1",
+      "lodge": "Social",
+      "address": "1032 N. J. ave. nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=426,1866,772,36",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Sears, Andrew W.",
+      "masonic_codes": "1-1-3, S",
+      "lodge": "Social",
+      "chapter": "Mt. Vernon",
+      "commandery": "Gethsemane",
+      "rank": "Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "445 I nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=422,1894,799,85",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Severson, Wm. H.",
+      "masonic_codes": "3-7-4, 32d B-L-R-S",
+      "lodge": "Widow's Son",
+      "chapter": "St. John's",
+      "commandery": "Mt. Calvary",
+      "rank": "Consistory of Scottish Rite Masons, Past Deputy Grand Master, Past Grand Scribe, Past Eminent Commander, Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "326 E",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=426,1970,933,34",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Sewell, Chas. A.",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "1127 18th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=426,2006,703,30",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Shelton, J. B.",
+      "masonic_codes": "6",
+      "lodge": "Meridian",
+      "address": "Chicago, Ills.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=426,2039,628,32",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Shelton, W. H.",
+      "masonic_codes": "15",
+      "lodge": "Chas. Datcher",
+      "address": "128 Va. ave. sw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=426,2074,735,30",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Shippen, P. W.",
+      "masonic_codes": "14",
+      "lodge": "Prince Hall",
+      "address": "1735 10th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=426,2106,690,35",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Simmons, Arthur",
+      "masonic_codes": "1-1-3, 33d G-I-S",
+      "lodge": "Social",
+      "chapter": "Mt. Vernon",
+      "commandery": "Gethsemane",
+      "rank": "Supreme Council of Scottish Rite Masons, Past Master, Past Deputy Grand High Priest, Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "1739 L nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=426,2138,915,37",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Simmons, John T.",
+      "masonic_codes": "15-5-1, S",
+      "lodge": "Chas. Datcher",
+      "chapter": "Prince Hall",
+      "commandery": "Simon",
+      "rank": "Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "207 Va. ave. sw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=426,2171,918,36",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Simmons, P. H.",
+      "masonic_codes": "6-1-1, 32d G-K-Q-S",
+      "lodge": "Meridian",
+      "chapter": "Mt. Vernon",
+      "commandery": "Simon",
+      "rank": "Consistory of Scottish Rite Masons, Past Master, Past Grand King, Past Grand Captain General, Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "1020 20th",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=426,2204,932,42",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Simms, Geo. W.",
+      "masonic_codes": "1-1-3, G-S",
+      "lodge": "Social",
+      "chapter": "Mt. Vernon",
+      "commandery": "Gethsemane",
+      "rank": "Past Master, Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "2110 Ward Pl. nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=426,2245,933,32",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Simms, Henry C.",
+      "masonic_codes": "15",
+      "lodge": "Chas. Datcher",
+      "address": "315 D se.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=426,2278,647,30",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Simms, H. E.",
+      "masonic_codes": "14, S",
+      "lodge": "Prince Hall",
+      "rank": "Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "1544 8th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=428,2313,704,29",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Simms, Richard",
+      "masonic_codes": "7-11-2, R",
+      "lodge": "Warren",
+      "chapter": "Keystone",
+      "commandery": "Henderson",
+      "rank": "Past Eminent Commander",
+      "address": "1918 N. Y. ave. nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=428,2347,931,29",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Skinner, John",
+      "masonic_codes": "3-5",
+      "lodge": "Widow's Son",
+      "chapter": "Prince Hall",
+      "address": "1440 Madison nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=427,2375,778,38",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Slade, Bennett B.",
+      "masonic_codes": "14",
+      "lodge": "Prince Hall",
+      "address": "1202 E nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=428,2408,691,36",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Slaughter, Abe",
+      "masonic_codes": "15-5-1, S",
+      "lodge": "Chas. Datcher",
+      "chapter": "Prince Hall",
+      "commandery": "Simon",
+      "rank": "Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "1611 4th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=423,2435,802,121",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Smiler, James H.",
+      "masonic_codes": "15-5-1",
+      "lodge": "Chas. Datcher",
+      "chapter": "Prince Hall",
+      "commandery": "Simon",
+      "address": "1318 11th se.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=426,2549,777,33",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Smith, Austin",
+      "masonic_codes": "3",
+      "lodge": "Widow's Son",
+      "address": "Falls Church, Va.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=427,2580,736,37",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Smith, Clem.",
+      "masonic_codes": "9-5-1, S",
+      "lodge": "Pythagoras",
+      "chapter": "Prince Hall",
+      "commandery": "Simon",
+      "rank": "Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "St. Elizabeth Asylum.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=428,2618,913,33",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Smith, C. L.",
+      "masonic_codes": "15",
+      "lodge": "Chas. Datcher",
+      "address": "302 12th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=427,2650,629,36",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Renfro, H. B.",
+      "masonic_codes": "9",
+      "lodge": "Pythagoras",
+      "address": "City P. O.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=407,608,603,29",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Rivers, John W.",
+      "masonic_codes": "8",
+      "lodge": "Warren",
+      "address": "236 13th se.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=415,876,653,36",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Scott, Wm. M.",
+      "masonic_codes": "15",
+      "lodge": "Chas. Datcher",
+      "address": "42 Pierce nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=412,1900,706,31",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Smallwood, Thomas",
+      "masonic_codes": "3",
+      "lodge": "Widow's Son",
+      "address": "207 L nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=412,2479,709,33",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    },
+    {
+      "name": "Smiler, Andrew",
+      "masonic_codes": "15",
+      "lodge": "Chas. Datcher",
+      "address": "704 1st sw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:102#xywh=412,2513,652,32",
+      "image": "0102_service:rbc:lcrbmrp:t8072:102.jpg"
+    }
+  ]
+}

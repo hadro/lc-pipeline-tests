@@ -1,0 +1,100 @@
+{
+  "image": "0003_service:rbc:lcrbmrp:t8072:003.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:003",
+  "canvas_width": 1837,
+  "canvas_height": 3010,
+  "surya_median_confidence": 0.9647,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        610,
+        979,
+        1299,
+        1031
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:003#xywh=610,979,689,52",
+      "confidence": "line",
+      "gemini_text": "RARE BOOK COLLECTION",
+      "surya_confidence": 0.9238
+    },
+    {
+      "bbox": [
+        639,
+        1607,
+        779,
+        1685
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:003#xywh=639,1607,140,78",
+      "confidence": "line",
+      "gemini_text": "Class",
+      "surya_confidence": 0.9405
+    },
+    {
+      "bbox": [
+        636,
+        1742,
+        765,
+        1823
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:003#xywh=636,1742,129,81",
+      "confidence": "line",
+      "gemini_text": "Book",
+      "surya_confidence": 0.9042
+    },
+    {
+      "bbox": [
+        744,
+        1858,
+        1095,
+        1915
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:003#xywh=744,1858,351,57",
+      "confidence": "line",
+      "gemini_text": "THE BEQUEST OF",
+      "surya_confidence": 0.9923
+    },
+    {
+      "bbox": [
+        695,
+        1906,
+        1148,
+        1976
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:003#xywh=695,1906,453,70",
+      "confidence": "line",
+      "gemini_text": "DANIEL MURRAY",
+      "surya_confidence": 0.9944
+    },
+    {
+      "bbox": [
+        731,
+        1968,
+        1108,
+        2024
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:003#xywh=731,1968,377,56",
+      "confidence": "line",
+      "gemini_text": "WASHINGTON, D. C.",
+      "surya_confidence": 0.9913
+    },
+    {
+      "bbox": [
+        875,
+        2027,
+        967,
+        2066
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:003#xywh=875,2027,92,39",
+      "confidence": "line",
+      "gemini_text": "1925",
+      "surya_confidence": 0.989
+    }
+  ],
+  "unmatched_gemini": [
+    "BRARY OF CONGRI",
+    "THE",
+    "RESS"
+  ]
+}

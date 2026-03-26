@@ -1,0 +1,202 @@
+{
+  "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "section_title": "Masonic Directory",
+    "organization_name": null
+  },
+  "page_context": {
+    "section_title": "M. W. Grand Lodge Officers",
+    "organization_name": "Grand Lodge"
+  },
+  "entries": [
+    {
+      "name": "Wm. H. Judd Malvin",
+      "title_or_role": "Grand Master",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=281,749,1217,46",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    },
+    {
+      "name": "John Payne Turner",
+      "title_or_role": "Deputy Grand Master",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=281,802,1217,54",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    },
+    {
+      "name": "Charles D. Freeman",
+      "title_or_role": "Senior Grand Warden",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=528,862,970,44",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    },
+    {
+      "name": "William A. Clark",
+      "title_or_role": "Junior Grand Warden",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=526,913,972,49",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    },
+    {
+      "name": "Henry Coleman",
+      "title_or_role": "Grand Treasurer",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=983,968,516,46",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    },
+    {
+      "name": "William H. Myers",
+      "title_or_role": "Grand Secretary",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=525,1025,975,52",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    },
+    {
+      "name": "James H. Hill",
+      "title_or_role": "Grand Chaplain",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=1118,1085,380,37",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    },
+    {
+      "name": "James O. Bampfield",
+      "title_or_role": "Grand Marshal",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=532,1134,967,54",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    },
+    {
+      "name": "Amasa W. Scott",
+      "title_or_role": "Assistant Grand Marshal",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=529,1188,973,57",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    },
+    {
+      "name": "Wm. H. Underwood",
+      "title_or_role": "Gr. Lecturer and Vis.",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=526,1248,974,52",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    },
+    {
+      "name": "Fred D. Henry",
+      "title_or_role": "Senior Grand Deacon",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=528,1304,973,50",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    },
+    {
+      "name": "Samuel T. Craig",
+      "title_or_role": "Junior Grand Deacon",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=532,1360,969,51",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    },
+    {
+      "name": "Peter Walker",
+      "title_or_role": "Senior Grand Steward",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=528,1417,972,46",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    },
+    {
+      "name": "John S. George",
+      "title_or_role": "Junior Grand Steward",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=531,1470,970,53",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    },
+    {
+      "name": "William Washington",
+      "title_or_role": "Grand Sword Bearer",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=525,1526,978,51",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    },
+    {
+      "name": "Wm. A. McBeth",
+      "title_or_role": "Grand Standard Bearer",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=529,1583,973,49",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    },
+    {
+      "name": "William H. Severson",
+      "title_or_role": "Grand Librarian",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=526,1636,977,53",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    },
+    {
+      "name": "John H. Jackson",
+      "title_or_role": "Grand Pursuivant",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=525,1691,981,55",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    },
+    {
+      "name": "John Coleman Nalle",
+      "title_or_role": "Grand Organist",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=528,1749,978,55",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    },
+    {
+      "name": "Robert H. Ford",
+      "title_or_role": "Grand Tiler",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=531,1804,974,52",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    },
+    {
+      "name": "Wm. H. Judd Malvin",
+      "title_or_role": "Grand Master",
+      "address": "1018 R. St. N. W.",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=282,2077,1224,51",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    },
+    {
+      "name": "Wm. H. Myers",
+      "title_or_role": "Grand Secretary",
+      "address": "308 3d St. S. W.",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=285,2334,1215,55",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    },
+    {
+      "name": "Wm. H. Grimshaw",
+      "title_or_role": "Chairman Committee on Foreign Correspondence",
+      "address": "Library of Congress",
+      "section_title": "M. W. Grand Lodge Officers",
+      "organization_name": "Grand Lodge",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:110#xywh=287,2549,1217,46",
+      "image": "0110_service:rbc:lcrbmrp:t8072:110.jpg"
+    }
+  ]
+}

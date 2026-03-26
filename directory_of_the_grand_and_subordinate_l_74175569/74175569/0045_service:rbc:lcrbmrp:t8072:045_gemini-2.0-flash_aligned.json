@@ -1,0 +1,318 @@
+{
+  "image": "0045_service:rbc:lcrbmrp:t8072:045.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045",
+  "canvas_width": 1863,
+  "canvas_height": 2992,
+  "surya_median_confidence": 0.9814,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        293,
+        2436,
+        1569,
+        2507
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=293,2436,1276,71",
+      "confidence": "line",
+      "gemini_text": "Masonic",
+      "surya_confidence": 0.9943
+    },
+    {
+      "bbox": [
+        336,
+        2523,
+        1537,
+        2591
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=336,2523,1201,68",
+      "confidence": "line",
+      "gemini_text": "Regalia",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        541,
+        917,
+        1347,
+        952
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=541,917,806,35",
+      "confidence": "line",
+      "gemini_text": "When you want a dozen funeral aprons or",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        507,
+        962,
+        1349,
+        996
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=507,962,842,34",
+      "confidence": "line",
+      "gemini_text": "a fine embroidered apron for your Past Mas-",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        506,
+        1007,
+        1350,
+        1041
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=506,1007,844,34",
+      "confidence": "line",
+      "gemini_text": "ter; when you want Chapter Regalia, or",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        507,
+        1051,
+        1349,
+        1084
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=507,1051,842,33",
+      "confidence": "line",
+      "gemini_text": "Scottish Rite Costumes, Templar Uniforms,",
+      "surya_confidence": 0.9885
+    },
+    {
+      "bbox": [
+        507,
+        1096,
+        1355,
+        1130
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=507,1096,848,34",
+      "confidence": "line",
+      "gemini_text": "banners or Masonic marks, write here-to the",
+      "surya_confidence": 0.978
+    },
+    {
+      "bbox": [
+        510,
+        1140,
+        1350,
+        1174
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=510,1140,840,34",
+      "confidence": "line",
+      "gemini_text": "only large Masonic house in the East with",
+      "surya_confidence": 0.9984
+    },
+    {
+      "bbox": [
+        516,
+        1186,
+        1344,
+        1220
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=516,1186,828,34",
+      "confidence": "line",
+      "gemini_text": "modern equipment. Our catalogs are free.",
+      "surya_confidence": 0.9964
+    },
+    {
+      "bbox": [
+        518,
+        1230,
+        1245,
+        1265
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=518,1230,727,35",
+      "confidence": "line",
+      "gemini_text": "Everything used within the Fraternity.",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        653,
+        1359,
+        1336,
+        1421
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=653,1359,683,62",
+      "confidence": "line",
+      "gemini_text": "W-H.Horstmann Company",
+      "surya_confidence": 0.4688
+    },
+    {
+      "bbox": [
+        757,
+        1425,
+        1131,
+        1463
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=757,1425,374,38",
+      "confidence": "line",
+      "gemini_text": "New York",
+      "surya_confidence": 0.9139
+    },
+    {
+      "bbox": [
+        667,
+        1470,
+        1271,
+        1506
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=667,1470,604,36",
+      "confidence": "line",
+      "gemini_text": "459 Broadway Cor of Grand St.",
+      "surya_confidence": 0.9838
+    },
+    {
+      "bbox": [
+        713,
+        1587,
+        1247,
+        1620
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=713,1587,534,33",
+      "confidence": "line",
+      "gemini_text": "ALL NATIONS ARE WELCOME",
+      "surya_confidence": 0.6186
+    },
+    {
+      "bbox": [
+        729,
+        1707,
+        1338,
+        1740
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=729,1707,609,33",
+      "confidence": "line",
+      "gemini_text": "FINE WINES AND WHISKIES",
+      "surya_confidence": 0.7105
+    },
+    {
+      "bbox": [
+        814,
+        1831,
+        1475,
+        1891
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=814,1831,661,60",
+      "confidence": "line",
+      "gemini_text": "EDWARD GREEN,",
+      "surya_confidence": 0.9876
+    },
+    {
+      "bbox": [
+        759,
+        1908,
+        1521,
+        1939
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=759,1908,762,31",
+      "confidence": "line",
+      "gemini_text": "S. W. COR. CAMERON AND FAYETTE STREETS,",
+      "surya_confidence": 0.9814
+    },
+    {
+      "bbox": [
+        911,
+        1962,
+        1370,
+        1996
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=911,1962,459,34",
+      "confidence": "line",
+      "gemini_text": "ALEXANDRIA, VA.",
+      "surya_confidence": 0.8828
+    },
+    {
+      "bbox": [
+        731,
+        2046,
+        1262,
+        2071
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=731,2046,531,25",
+      "confidence": "line",
+      "gemini_text": "PRIVATE ENTRANCE FOR LADIES.",
+      "surya_confidence": 0.8997
+    },
+    {
+      "bbox": [
+        829,
+        2114,
+        1459,
+        2150
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=829,2114,630,36",
+      "confidence": "line",
+      "gemini_text": "IN BUSINESS FOUR YEARS.",
+      "surya_confidence": 0.9575
+    },
+    {
+      "bbox": [
+        733,
+        2189,
+        1557,
+        2231
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=733,2189,824,42",
+      "confidence": "line",
+      "gemini_text": "HANDLES ALL KINDS OF WINE AND",
+      "surya_confidence": 0.919
+    },
+    {
+      "bbox": [
+        828,
+        2247,
+        1465,
+        2287
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=828,2247,637,40",
+      "confidence": "line",
+      "gemini_text": "WHISKEY BY THE BARREL.",
+      "surya_confidence": 0.9516
+    },
+    {
+      "bbox": [
+        511,
+        2360,
+        1343,
+        2420
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=511,2360,832,60",
+      "confidence": "line",
+      "gemini_text": "AMASA W. SCOTT,",
+      "surya_confidence": 0.9926
+    },
+    {
+      "bbox": [
+        624,
+        2606,
+        1248,
+        2640
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=624,2606,624,34",
+      "confidence": "line",
+      "gemini_text": "EMBALMER.",
+      "surya_confidence": 0.9849
+    },
+    {
+      "bbox": [
+        505,
+        2655,
+        1363,
+        2692
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:045#xywh=505,2655,858,37",
+      "confidence": "line",
+      "gemini_text": "LATE OF BOSTON AND NEW YORK.",
+      "surya_confidence": 0.9978
+    }
+  ],
+  "unmatched_gemini": [
+    "EXCEPT CARRIE NATION",
+    "CIGARS AND TOBACCO",
+    "UNDERTAKER AND FUNERAL DIRECTOR.",
+    "Sanitary, Anatomical, Arterial, Cavity and Needle",
+    "1626 11TH ST. N. W. WASHINGTON, D. C. PHONE, No, 2844-Y."
+  ]
+}

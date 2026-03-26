@@ -1,0 +1,676 @@
+{
+  "image_width": 1818,
+  "image_height": 2998,
+  "lines": [
+    {
+      "bbox": [
+        361,
+        490,
+        1413,
+        541
+      ],
+      "text": "M. W. Grand Lodge Officers, for 1904.",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        281,
+        749,
+        1498,
+        795
+      ],
+      "text": "M. W. Bro. Wm. H. Judd Malvin - Grand Master",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        281,
+        802,
+        1498,
+        856
+      ],
+      "text": "R. W. Bro. John Payne Turner, Deputy Grand Master",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        528,
+        862,
+        1498,
+        906
+      ],
+      "text": "Charles D. Freeman, Senior Grand Warden",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        331,
+        863,
+        369,
+        887
+      ],
+      "text": "66",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        445,
+        866,
+        487,
+        891
+      ],
+      "text": "66",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        526,
+        913,
+        1498,
+        962
+      ],
+      "text": "William A. Clark Junior Grand Warden",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        442,
+        921,
+        490,
+        946
+      ],
+      "text": "66",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        331,
+        922,
+        366,
+        942
+      ],
+      "text": "66",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        983,
+        968,
+        1499,
+        1014
+      ],
+      "text": "Grand Treasurer",
+      "confidence": 0.9122
+    },
+    {
+      "bbox": [
+        330,
+        977,
+        368,
+        997
+      ],
+      "text": "66",
+      "confidence": 0.9845
+    },
+    {
+      "bbox": [
+        443,
+        978,
+        481,
+        1004
+      ],
+      "text": "66",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        528,
+        979,
+        986,
+        1017
+      ],
+      "text": "Henry Coleman -",
+      "confidence": 0.9731
+    },
+    {
+      "bbox": [
+        525,
+        1025,
+        1500,
+        1077
+      ],
+      "text": "William H. Myers - Grand Secretary",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        331,
+        1033,
+        369,
+        1053
+      ],
+      "text": "66",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        446,
+        1033,
+        487,
+        1059
+      ],
+      "text": "66",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        1118,
+        1085,
+        1498,
+        1122
+      ],
+      "text": "Grand Chaplain",
+      "confidence": 0.8551
+    },
+    {
+      "bbox": [
+        529,
+        1087,
+        1074,
+        1127
+      ],
+      "text": "Rev. James H. Hill",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        445,
+        1090,
+        490,
+        1116
+      ],
+      "text": "66",
+      "confidence": 0.9869
+    },
+    {
+      "bbox": [
+        322,
+        1092,
+        378,
+        1125
+      ],
+      "text": "W",
+      "confidence": 0.9019
+    },
+    {
+      "bbox": [
+        532,
+        1134,
+        1499,
+        1188
+      ],
+      "text": "James O. Bampfield - Grand Marshal",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        325,
+        1144,
+        365,
+        1166
+      ],
+      "text": "66",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        445,
+        1144,
+        489,
+        1168
+      ],
+      "text": "66",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        529,
+        1188,
+        1502,
+        1245
+      ],
+      "text": "Amasa W. Scott, Assistant Grand Marshal",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        324,
+        1196,
+        369,
+        1222
+      ],
+      "text": "66",
+      "confidence": 0.9909
+    },
+    {
+      "bbox": [
+        440,
+        1198,
+        493,
+        1223
+      ],
+      "text": "66",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        526,
+        1248,
+        1500,
+        1300
+      ],
+      "text": "Wm. H. Underwood, Gr. Lecturer and Vis.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        433,
+        1252,
+        516,
+        1281
+      ],
+      "text": "66",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        325,
+        1254,
+        368,
+        1280
+      ],
+      "text": "66",
+      "confidence": 0.9769
+    },
+    {
+      "bbox": [
+        528,
+        1304,
+        1501,
+        1354
+      ],
+      "text": "Fred D. Henry - Senior Grand Deacon",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        430,
+        1311,
+        510,
+        1340
+      ],
+      "text": "66",
+      "confidence": 0.983
+    },
+    {
+      "bbox": [
+        325,
+        1313,
+        372,
+        1335
+      ],
+      "text": "66",
+      "confidence": 0.9276
+    },
+    {
+      "bbox": [
+        532,
+        1360,
+        1501,
+        1411
+      ],
+      "text": "Samuel T. Craig - Junior Grand Deacon",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        430,
+        1367,
+        492,
+        1396
+      ],
+      "text": "66",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        325,
+        1369,
+        372,
+        1391
+      ],
+      "text": "66",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        528,
+        1417,
+        1500,
+        1463
+      ],
+      "text": "Peter Walker - Senior Grand Steward",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        330,
+        1422,
+        407,
+        1449
+      ],
+      "text": "66 .",
+      "confidence": 0.9818
+    },
+    {
+      "bbox": [
+        437,
+        1423,
+        509,
+        1453
+      ],
+      "text": "66",
+      "confidence": 0.9872
+    },
+    {
+      "bbox": [
+        531,
+        1470,
+        1501,
+        1523
+      ],
+      "text": "John S. George - Junior Grand Steward",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        324,
+        1480,
+        395,
+        1504
+      ],
+      "text": "66",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        443,
+        1480,
+        492,
+        1510
+      ],
+      "text": "66",
+      "confidence": 0.9875
+    },
+    {
+      "bbox": [
+        525,
+        1526,
+        1503,
+        1577
+      ],
+      "text": "William Washington Grand Sword Bearer",
+      "confidence": 0.9644
+    },
+    {
+      "bbox": [
+        324,
+        1533,
+        372,
+        1558
+      ],
+      "text": "66",
+      "confidence": 0.9848
+    },
+    {
+      "bbox": [
+        428,
+        1534,
+        493,
+        1564
+      ],
+      "text": "66",
+      "confidence": 0.989
+    },
+    {
+      "bbox": [
+        529,
+        1583,
+        1502,
+        1632
+      ],
+      "text": "Wm. A. McBeth - Grand Standard Bearer",
+      "confidence": 0.9838
+    },
+    {
+      "bbox": [
+        431,
+        1591,
+        492,
+        1619
+      ],
+      "text": "66",
+      "confidence": 0.9902
+    },
+    {
+      "bbox": [
+        324,
+        1592,
+        371,
+        1616
+      ],
+      "text": "66",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        526,
+        1636,
+        1503,
+        1689
+      ],
+      "text": "William H. Severson - Grand Librarian",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        324,
+        1648,
+        372,
+        1672
+      ],
+      "text": "66",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        443,
+        1649,
+        499,
+        1678
+      ],
+      "text": "66",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        525,
+        1691,
+        1506,
+        1746
+      ],
+      "text": "John H. Jackson - Grand Pursuivant",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        322,
+        1705,
+        372,
+        1729
+      ],
+      "text": "66",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        449,
+        1705,
+        509,
+        1733
+      ],
+      "text": "66",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        528,
+        1749,
+        1506,
+        1804
+      ],
+      "text": "John Coleman Nalle - Grand Organist",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        324,
+        1759,
+        375,
+        1784
+      ],
+      "text": "66",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        446,
+        1760,
+        512,
+        1790
+      ],
+      "text": "66",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        531,
+        1804,
+        1505,
+        1856
+      ],
+      "text": "Robert H. Ford - - Grand Tiler",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        325,
+        1816,
+        372,
+        1840
+      ],
+      "text": "66",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        443,
+        1816,
+        510,
+        1844
+      ],
+      "text": "66",
+      "confidence": 0.9877
+    },
+    {
+      "bbox": [
+        628,
+        2001,
+        1168,
+        2041
+      ],
+      "text": "Grand Master's Address.",
+      "confidence": 0.9625
+    },
+    {
+      "bbox": [
+        282,
+        2077,
+        1506,
+        2128
+      ],
+      "text": "M. W. Bro Wm. H. Judd Malvin, 1018 R. St. N. W.",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        644,
+        2138,
+        1147,
+        2182
+      ],
+      "text": "Phone, North 1832-M.",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        597,
+        2248,
+        1192,
+        2292
+      ],
+      "text": "Grand Secretary's Address.",
+      "confidence": 0.975
+    },
+    {
+      "bbox": [
+        285,
+        2334,
+        1500,
+        2389
+      ],
+      "text": "R. W. Bro. Wm. H. Myers - 308 3d St. S. W.",
+      "confidence": 0.9815
+    },
+    {
+      "bbox": [
+        287,
+        2469,
+        1506,
+        2517
+      ],
+      "text": "Address, Chairman Committee on Foreign Correspondence",
+      "confidence": 0.9788
+    },
+    {
+      "bbox": [
+        287,
+        2549,
+        1504,
+        2595
+      ],
+      "text": "R. W. Bro. Wm. H. Grimshaw Library of Congress",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        860,
+        2699,
+        936,
+        2734
+      ],
+      "text": "101",
+      "confidence": 0.9935
+    }
+  ]
+}

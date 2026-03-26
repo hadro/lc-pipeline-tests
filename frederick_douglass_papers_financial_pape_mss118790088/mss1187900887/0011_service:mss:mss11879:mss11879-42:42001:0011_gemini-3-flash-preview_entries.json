@@ -1,0 +1,28 @@
+{
+  "image": "0011_service:mss:mss11879:mss11879-42:42001:0011.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Bank Ledger",
+    "section_title": "DR",
+    "year": "1900"
+  },
+  "page_context": {
+    "record_type": "Bill of Exchange",
+    "section_title": "Second of Exchange",
+    "year": "1893"
+  },
+  "entries": [
+    {
+      "date": "January 9, 1893",
+      "description": "Bill of Exchange: Pay to the order of Julia G. Crofts, Ten pounds Sterling, drawn on Messrs J. S. Morgan & Co., London, by Riggs & Co.",
+      "amount": "10.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bill of Exchange",
+      "section_title": "Second of Exchange",
+      "year": "1893",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0011",
+      "image": "0011_service:mss:mss11879:mss11879-42:42001:0011.jpg"
+    }
+  ]
+}

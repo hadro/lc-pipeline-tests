@@ -1,0 +1,408 @@
+{
+  "image": "0085_service:rbc:lcrbmrp:t8072:085.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085",
+  "canvas_width": 1919,
+  "canvas_height": 3005,
+  "surya_median_confidence": 0.9908,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        650,
+        483,
+        1322,
+        522
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=650,483,672,39",
+      "confidence": "line",
+      "gemini_text": "THE SOUTHERN HOTEL.",
+      "surya_confidence": 0.99
+    },
+    {
+      "bbox": [
+        724,
+        552,
+        1244,
+        592
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=724,552,520,40",
+      "confidence": "line",
+      "gemini_text": "S. STEWART, Prop.",
+      "surya_confidence": 0.995
+    },
+    {
+      "bbox": [
+        639,
+        616,
+        1347,
+        664
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=639,616,708,48",
+      "confidence": "line",
+      "gemini_text": "American and European Plan.",
+      "surya_confidence": 0.9914
+    },
+    {
+      "bbox": [
+        655,
+        674,
+        1305,
+        716
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=655,674,650,42",
+      "confidence": "line",
+      "gemini_text": "Rates, $1.00 to $3.00 per day.",
+      "surya_confidence": 0.9951
+    },
+    {
+      "bbox": [
+        573,
+        731,
+        1412,
+        775
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=573,731,839,44",
+      "confidence": "line",
+      "gemini_text": "Choicest Wines, Liquors and Cigars.",
+      "surya_confidence": 0.972
+    },
+    {
+      "bbox": [
+        354,
+        794,
+        900,
+        840
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=354,794,546,46",
+      "confidence": "line",
+      "gemini_text": "311 Penna. Ave., N. W. Washington, D. C.",
+      "surya_confidence": 0.9913
+    },
+    {
+      "bbox": [
+        711,
+        878,
+        1253,
+        913
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=711,878,542,35",
+      "confidence": "line",
+      "gemini_text": "ROBERT A. PAYNE.",
+      "surya_confidence": 0.974
+    },
+    {
+      "bbox": [
+        482,
+        976,
+        1503,
+        1022
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=482,976,1021,46",
+      "confidence": "line",
+      "gemini_text": "Tailoring, Scouring, Dyeing and Repairing.",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        746,
+        1080,
+        1224,
+        1119
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=746,1080,478,39",
+      "confidence": "line",
+      "gemini_text": "Altering a specialty.",
+      "surya_confidence": 0.9934
+    },
+    {
+      "bbox": [
+        706,
+        1178,
+        1279,
+        1217
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=706,1178,573,39",
+      "confidence": "line",
+      "gemini_text": "1509 M Street Northwest.",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        682,
+        1260,
+        1279,
+        1298
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=682,1260,597,38",
+      "confidence": "line",
+      "gemini_text": "MISS CARRIE LEWIS,",
+      "surya_confidence": 0.9844
+    },
+    {
+      "bbox": [
+        641,
+        1361,
+        1336,
+        1398
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=641,1361,695,37",
+      "confidence": "line",
+      "gemini_text": "Stenographer and Typewriter.",
+      "surya_confidence": 0.99
+    },
+    {
+      "bbox": [
+        745,
+        1448,
+        1221,
+        1482
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=745,1448,476,34",
+      "confidence": "line",
+      "gemini_text": "907 U St. Northwest.",
+      "surya_confidence": 0.9938
+    },
+    {
+      "bbox": [
+        543,
+        1549,
+        1418,
+        1590
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=543,1549,875,41",
+      "confidence": "line",
+      "gemini_text": "Secretary to the M. W. Grand Master.",
+      "surya_confidence": 0.9974
+    },
+    {
+      "bbox": [
+        729,
+        1629,
+        1229,
+        1667
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=729,1629,500,38",
+      "confidence": "line",
+      "gemini_text": "WM. L. POLLARD,",
+      "surya_confidence": 0.9881
+    },
+    {
+      "bbox": [
+        594,
+        1708,
+        1376,
+        1745
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=594,1708,782,37",
+      "confidence": "line",
+      "gemini_text": "Law, Real Estate and Insurance.",
+      "surya_confidence": 0.9962
+    },
+    {
+      "bbox": [
+        309,
+        1778,
+        1660,
+        1825
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=309,1778,1351,47",
+      "confidence": "line",
+      "gemini_text": "Practices in all courts in D. C. Loans on Real Estate.",
+      "surya_confidence": 0.9938
+    },
+    {
+      "bbox": [
+        705,
+        1853,
+        1256,
+        1889
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=705,1853,551,36",
+      "confidence": "line",
+      "gemini_text": "609 F Street Northwest,",
+      "surya_confidence": 0.9751
+    },
+    {
+      "bbox": [
+        439,
+        1909,
+        1519,
+        1947
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=439,1909,1080,38",
+      "confidence": "line",
+      "gemini_text": "Rooms 5, 6 and 7, Capital Savings Bank Bldg.",
+      "surya_confidence": 0.9958
+    },
+    {
+      "bbox": [
+        773,
+        1964,
+        1162,
+        1998
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=773,1964,389,34",
+      "confidence": "line",
+      "gemini_text": "'Phone East 347.",
+      "surya_confidence": 0.908
+    },
+    {
+      "bbox": [
+        750,
+        2043,
+        1197,
+        2080
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=750,2043,447,37",
+      "confidence": "line",
+      "gemini_text": "R. E. HAMMOND,",
+      "surya_confidence": 0.9777
+    },
+    {
+      "bbox": [
+        863,
+        2099,
+        1092,
+        2132
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=863,2099,229,33",
+      "confidence": "line",
+      "gemini_text": "Dealer in",
+      "surya_confidence": 0.9614
+    },
+    {
+      "bbox": [
+        522,
+        2152,
+        1455,
+        2196
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=522,2152,933,44",
+      "confidence": "line",
+      "gemini_text": "STAPLE AND FANCY GROCERIES,",
+      "surya_confidence": 0.965
+    },
+    {
+      "bbox": [
+        309,
+        2206,
+        1655,
+        2254
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=309,2206,1346,48",
+      "confidence": "line",
+      "gemini_text": "Fresh, salt and smoked meats. Butter, eggs, and country",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        497,
+        2256,
+        1463,
+        2294
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=497,2256,966,38",
+      "confidence": "line",
+      "gemini_text": "produce. Choice fruits and table luxuries.",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        567,
+        2299,
+        1391,
+        2341
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=567,2299,824,42",
+      "confidence": "line",
+      "gemini_text": "Confectionery. Cigars and tobacco.",
+      "surya_confidence": 0.9908
+    },
+    {
+      "bbox": [
+        355,
+        2370,
+        908,
+        2403
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=355,2370,553,33",
+      "confidence": "line",
+      "gemini_text": "1634 Eleventh St. N. W. Washington, D. C.",
+      "surya_confidence": 0.9793
+    },
+    {
+      "bbox": [
+        705,
+        2447,
+        1250,
+        2482
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=705,2447,545,35",
+      "confidence": "line",
+      "gemini_text": "GEORGE W. JONES.",
+      "surya_confidence": 0.9042
+    },
+    {
+      "bbox": [
+        791,
+        2536,
+        1165,
+        2570
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=791,2536,374,34",
+      "confidence": "line",
+      "gemini_text": "Produce Dealer.",
+      "surya_confidence": 0.9547
+    },
+    {
+      "bbox": [
+        457,
+        2626,
+        1493,
+        2660
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=457,2626,1036,34",
+      "confidence": "line",
+      "gemini_text": "B Street Northwest between 9th and 10th Sts.",
+      "surya_confidence": 0.9983
+    },
+    {
+      "bbox": [
+        695,
+        2681,
+        1255,
+        2714
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=695,2681,560,33",
+      "confidence": "line",
+      "gemini_text": "Widow's sons welcomed.",
+      "surya_confidence": 0.9929
+    },
+    {
+      "bbox": [
+        636,
+        2727,
+        1322,
+        2763
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=636,2727,686,36",
+      "confidence": "line",
+      "gemini_text": "Residence, 1836 11th St. N. W.",
+      "surya_confidence": 0.9946
+    },
+    {
+      "bbox": [
+        954,
+        2782,
+        1009,
+        2815
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:085#xywh=954,2782,55,33",
+      "confidence": "line",
+      "gemini_text": "76",
+      "surya_confidence": 0.9644
+    }
+  ],
+  "unmatched_gemini": []
+}

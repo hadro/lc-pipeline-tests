@@ -1,0 +1,325 @@
+{
+  "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Bank Ledger",
+    "section_title": "CR",
+    "year": "1856"
+  },
+  "page_context": {
+    "record_type": "Bank Ledger",
+    "section_title": "CR",
+    "year": "1857"
+  },
+  "entries": [
+    {
+      "date": "1856",
+      "description": "Amount forward",
+      "amount": "2485.00",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1856",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=109,155,393,61",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "June 30, 1856",
+      "description": "Interest",
+      "amount": "32.96",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1856",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=111,208,429,55",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "September 10, 1856",
+      "description": "",
+      "amount": "388.00",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1856",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=109,326,115,37",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "1856",
+      "description": "Total Amount",
+      "amount": "2905.96",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1856",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=111,375,109,37",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "November 25, 1856",
+      "description": "To Balance",
+      "amount": "1087.51",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1856",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=100,420,449,47",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "December 13, 1856",
+      "description": "20 £",
+      "amount": "96.89",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1856",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=100,478,109,34",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "December 19, 1856",
+      "description": "50 £",
+      "amount": "241.67",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1856",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=133,534,78,83",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "December 20, 1856",
+      "description": "Miller. V. M.",
+      "amount": "45.27",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1856",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=303,579,332,46",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "December 31, 1856",
+      "description": "Interest",
+      "amount": "51.15",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1856",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "1857",
+      "description": "Total Amount",
+      "amount": "1522.49",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1857",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=114,684,91,34",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "January 13, 1857",
+      "description": "",
+      "amount": "253.66",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1857",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "January 31, 1857",
+      "description": "20 £",
+      "amount": "96.33",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1857",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "February 25, 1857",
+      "description": "10 £",
+      "amount": "48.22",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1857",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=650,583,161,93",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "1857",
+      "description": "Total Amount",
+      "amount": "1519.45",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1857",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=641,884,166,75",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "1857",
+      "description": "Balance",
+      "amount": "1152.03",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1857",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=1378,447,170,32",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "1857",
+      "description": "Interest",
+      "amount": "12.95",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1857",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "1857",
+      "description": "Total Amount",
+      "amount": "1164.98",
+      "transaction_type": "deposit",
+      "record_type": "Bank Ledger",
+      "section_title": "DR",
+      "year": "1857",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=653,1051,175,53",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "1856",
+      "description": "Amount forward",
+      "amount": "1818.45",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1856",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "1856",
+      "description": "Balance",
+      "amount": "1087.51",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1856",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "1856",
+      "description": "7 Vouchers Returned",
+      "amount": "2905.96",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1856",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=843,727,129,54",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "1856",
+      "description": "",
+      "amount": "251.25",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1856",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=1370,383,168,57",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "1856",
+      "description": "",
+      "amount": "150.00",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1856",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "1856",
+      "description": "Balance",
+      "amount": "1070.24",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1856",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "1857",
+      "description": "Vouchers Returned",
+      "amount": "1522.49",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1857",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "February 4, 1857",
+      "description": "By Balance",
+      "amount": "367.42",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1857",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031#xywh=1405,743,136,31",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "February 4, 1857",
+      "description": "Balance",
+      "amount": "1152.03",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1857",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "1857",
+      "description": "Vouchers Returned",
+      "amount": "1519.45",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1857",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    },
+    {
+      "date": "March 11, 1857",
+      "description": "",
+      "amount": "1164.98",
+      "transaction_type": "withdrawal",
+      "record_type": "Bank Ledger",
+      "section_title": "CR",
+      "year": "1857",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0031",
+      "image": "0031_service:mss:mss11879:mss11879-42:42001:0031.jpg"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "image_width": 1876,
+  "image_height": 3001,
+  "lines": [
+    {
+      "bbox": [
+        327,
+        1733,
+        1607,
+        1857
+      ],
+      "text": "Pleasant Pasting. Purely Vegetable.",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        325,
+        1898,
+        1615,
+        1971
+      ],
+      "text": "Get your Stomach, Liver and Kidneys in good working",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        544,
+        1982,
+        1396,
+        2040
+      ],
+      "text": "order. Makes Rich Red Blood and",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        730,
+        2069,
+        1205,
+        2120
+      ],
+      "text": "Increasing Vitality.",
+      "confidence": 0.967
+    },
+    {
+      "bbox": [
+        324,
+        2154,
+        1618,
+        2222
+      ],
+      "text": "It enables you to Withstand the Enervating Effects o",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        382,
+        2235,
+        1617,
+        2301
+      ],
+      "text": "Extreme Heat and Cures Pimples and all other Un-",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        382,
+        2315,
+        1618,
+        2376
+      ],
+      "text": "sightly Blemishes Produced by Impure Blood or",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        381,
+        2401,
+        720,
+        2457
+      ],
+      "text": "Torpid Liver.",
+      "confidence": 0.9832
+    },
+    {
+      "bbox": [
+        963,
+        2503,
+        1621,
+        2561
+      ],
+      "text": "Sold by Leading Druggists.",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        324,
+        2507,
+        865,
+        2571
+      ],
+      "text": "Price 50c. per Bottle.",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        757,
+        2598,
+        1505,
+        2655
+      ],
+      "text": "HARRIS CHEMICAL CO.,",
+      "confidence": 0.9264
+    },
+    {
+      "bbox": [
+        1081,
+        2681,
+        1557,
+        2734
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9916
+    }
+  ]
+}

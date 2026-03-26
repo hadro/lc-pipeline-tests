@@ -1,0 +1,228 @@
+{
+  "image": "0031_service:rbc:lcrbmrp:t8072:031.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:031",
+  "canvas_width": 1821,
+  "canvas_height": 2916,
+  "surya_median_confidence": 0.9871,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        236,
+        322,
+        1443,
+        574
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:031#xywh=236,322,1207,252",
+      "confidence": "line",
+      "gemini_text": "Wm. W. Grymes & Son,",
+      "surya_confidence": 0.9847
+    },
+    {
+      "bbox": [
+        626,
+        719,
+        1068,
+        835
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:031#xywh=626,719,442,116",
+      "confidence": "line",
+      "gemini_text": "Steam",
+      "surya_confidence": 0.9875
+    },
+    {
+      "bbox": [
+        628,
+        887,
+        1069,
+        1019
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:031#xywh=628,887,441,132",
+      "confidence": "line",
+      "gemini_text": "Carpet",
+      "surya_confidence": 0.9866
+    },
+    {
+      "bbox": [
+        629,
+        1059,
+        1071,
+        1191
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:031#xywh=629,1059,442,132",
+      "confidence": "line",
+      "gemini_text": "Cleaners",
+      "surya_confidence": 0.9862
+    },
+    {
+      "bbox": [
+        233,
+        1328,
+        1447,
+        1581
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:031#xywh=233,1328,1214,253",
+      "confidence": "line",
+      "gemini_text": "12 Keating Ave. N. E.",
+      "surya_confidence": 0.9956
+    },
+    {
+      "bbox": [
+        379,
+        1629,
+        1308,
+        1708
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:031#xywh=379,1629,929,79",
+      "confidence": "line",
+      "gemini_text": "JACK M. RYAN,",
+      "surya_confidence": 0.9704
+    },
+    {
+      "bbox": [
+        237,
+        1754,
+        1455,
+        1827
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:031#xywh=237,1754,1218,73",
+      "confidence": "line",
+      "gemini_text": "POOL AND BILLIARD PARLOR,",
+      "surya_confidence": 0.9937
+    },
+    {
+      "bbox": [
+        345,
+        1858,
+        1340,
+        1919
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:031#xywh=345,1858,995,61",
+      "confidence": "line",
+      "gemini_text": "Fine Wines, Liquors and Cafe,",
+      "surya_confidence": 0.9905
+    },
+    {
+      "bbox": [
+        561,
+        1966,
+        1133,
+        2014
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:031#xywh=561,1966,572,48",
+      "confidence": "line",
+      "gemini_text": "619 B STREET N. W.",
+      "surya_confidence": 0.9877
+    },
+    {
+      "bbox": [
+        904,
+        2062,
+        1444,
+        2103
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:031#xywh=904,2062,540,41",
+      "confidence": "line",
+      "gemini_text": "Opp. B. & P. Depot. WASHINGTON, D. C.",
+      "surya_confidence": 0.9276
+    },
+    {
+      "bbox": [
+        1065,
+        2177,
+        1452,
+        2217
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:031#xywh=1065,2177,387,40",
+      "confidence": "line",
+      "gemini_text": "I. Cunningham. E. Cunningham.",
+      "surya_confidence": 0.9538
+    },
+    {
+      "bbox": [
+        553,
+        2247,
+        1138,
+        2285
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:031#xywh=553,2247,585,38",
+      "confidence": "line",
+      "gemini_text": "CUNNINGHAM BROS.,",
+      "surya_confidence": 0.8378
+    },
+    {
+      "bbox": [
+        433,
+        2322,
+        1268,
+        2366
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:031#xywh=433,2322,835,44",
+      "confidence": "line",
+      "gemini_text": "Dealers in Groceries and Provisions,",
+      "surya_confidence": 0.9799
+    },
+    {
+      "bbox": [
+        1083,
+        2387,
+        1447,
+        2425
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:031#xywh=1083,2387,364,38",
+      "confidence": "line",
+      "gemini_text": "300 E St. S. W. 700 3d St. S. W.",
+      "surya_confidence": 0.9983
+    },
+    {
+      "bbox": [
+        561,
+        2459,
+        1141,
+        2501
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:031#xywh=561,2459,580,42",
+      "confidence": "line",
+      "gemini_text": "Butter, Eggs and Cheese.",
+      "surya_confidence": 0.9846
+    },
+    {
+      "bbox": [
+        335,
+        2526,
+        1061,
+        2564
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:031#xywh=335,2526,726,38",
+      "confidence": "line",
+      "gemini_text": "Orders called for and delivered.",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        602,
+        2570,
+        1362,
+        2608
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:031#xywh=602,2570,760,38",
+      "confidence": "line",
+      "gemini_text": "Mail orders promptly attended to.",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        817,
+        2660,
+        874,
+        2695
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:031#xywh=817,2660,57,35",
+      "confidence": "line",
+      "gemini_text": "22",
+      "surya_confidence": 0.9871
+    }
+  ],
+  "unmatched_gemini": []
+}

@@ -1,0 +1,138 @@
+{
+  "image": "0018_service:mss:mss11879:mss11879-42:42001:0018.jpg",
+  "model": "gemini-3-flash-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "record_type": "Language Exercises",
+    "section_title": "French Phrases",
+    "year": null
+  },
+  "page_context": {
+    "record_type": "Travel Itinerary",
+    "section_title": "Itinerary",
+    "year": "1887"
+  },
+  "entries": [
+    {
+      "date": "June 20, 1887",
+      "description": "Hexham",
+      "amount": null,
+      "transaction_type": "travel_note",
+      "record_type": "Travel Itinerary",
+      "section_title": "Itinerary",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0018#xywh=968,138,552,311",
+      "image": "0018_service:mss:mss11879:mss11879-42:42001:0018.jpg"
+    },
+    {
+      "date": "June 21, 1887",
+      "description": "Edinburgh",
+      "amount": null,
+      "transaction_type": "travel_note",
+      "record_type": "Travel Itinerary",
+      "section_title": "Itinerary",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0018#xywh=982,581,117,49",
+      "image": "0018_service:mss:mss11879:mss11879-42:42001:0018.jpg"
+    },
+    {
+      "date": "June 22, 1887",
+      "description": "Edinburgh",
+      "amount": null,
+      "transaction_type": "travel_note",
+      "record_type": "Travel Itinerary",
+      "section_title": "Itinerary",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0018#xywh=986,121,84,48",
+      "image": "0018_service:mss:mss11879:mss11879-42:42001:0018.jpg"
+    },
+    {
+      "date": "June 23, 1887",
+      "description": "Glasgow",
+      "amount": null,
+      "transaction_type": "travel_note",
+      "record_type": "Travel Itinerary",
+      "section_title": "Itinerary",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0018",
+      "image": "0018_service:mss:mss11879:mss11879-42:42001:0018.jpg"
+    },
+    {
+      "date": "June 24, 1887",
+      "description": "Glasgow",
+      "amount": null,
+      "transaction_type": "travel_note",
+      "record_type": "Travel Itinerary",
+      "section_title": "Itinerary",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0018",
+      "image": "0018_service:mss:mss11879:mss11879-42:42001:0018.jpg"
+    },
+    {
+      "date": "June 25, 1887",
+      "description": "Glasgow",
+      "amount": null,
+      "transaction_type": "travel_note",
+      "record_type": "Travel Itinerary",
+      "section_title": "Itinerary",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0018",
+      "image": "0018_service:mss:mss11879:mss11879-42:42001:0018.jpg"
+    },
+    {
+      "date": "June 26, 1887",
+      "description": "Glasgow",
+      "amount": null,
+      "transaction_type": "travel_note",
+      "record_type": "Travel Itinerary",
+      "section_title": "Itinerary",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0018",
+      "image": "0018_service:mss:mss11879:mss11879-42:42001:0018.jpg"
+    },
+    {
+      "date": "June 27, 1887",
+      "description": "Carlisle",
+      "amount": null,
+      "transaction_type": "travel_note",
+      "record_type": "Travel Itinerary",
+      "section_title": "Itinerary",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0018#xywh=1099,515,370,75",
+      "image": "0018_service:mss:mss11879:mss11879-42:42001:0018.jpg"
+    },
+    {
+      "date": "June 28, 1887",
+      "description": "Carlisle",
+      "amount": null,
+      "transaction_type": "travel_note",
+      "record_type": "Travel Itinerary",
+      "section_title": "Itinerary",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0018",
+      "image": "0018_service:mss:mss11879:mss11879-42:42001:0018.jpg"
+    },
+    {
+      "date": "June 29, 1887",
+      "description": "Carlisle",
+      "amount": null,
+      "transaction_type": "travel_note",
+      "record_type": "Travel Itinerary",
+      "section_title": "Itinerary",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0018",
+      "image": "0018_service:mss:mss11879:mss11879-42:42001:0018.jpg"
+    },
+    {
+      "date": "June 30, 1887",
+      "description": "London",
+      "amount": null,
+      "transaction_type": "travel_note",
+      "record_type": "Travel Itinerary",
+      "section_title": "Itinerary",
+      "year": "1887",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0018#xywh=971,675,129,54",
+      "image": "0018_service:mss:mss11879:mss11879-42:42001:0018.jpg"
+    }
+  ]
+}

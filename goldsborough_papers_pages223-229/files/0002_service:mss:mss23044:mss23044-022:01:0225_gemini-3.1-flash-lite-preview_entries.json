@@ -1,0 +1,267 @@
+{
+  "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "vessel_identity": "1st Class Sloop",
+    "section_title": "Tacking & Wearing",
+    "subsection": "General"
+  },
+  "page_context": {
+    "vessel_identity": "1st Class Sloop",
+    "section_title": "Tacking & Wearing",
+    "subsection": "General"
+  },
+  "entries": [
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Main Top",
+      "value": "60",
+      "details": "Captain",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "OS",
+      "value": "70",
+      "details": "Main Top",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Main Top",
+      "value": "59",
+      "details": "Captain",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "OS",
+      "value": "69",
+      "details": "Main Top",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Mizen Top Bowline & weather & Jack Braces",
+      "value": "124, 123",
+      "details": "both AG & OS",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Miz Top 2 part",
+      "value": "103 to 110",
+      "details": "inclusive",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Messengers",
+      "value": "153 to 156",
+      "details": "inclusive",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Miz Top 1st part",
+      "value": "95, 96, 99, 100, 101, 102",
+      "details": "Man Lee Miz T-sail, Top Gallt & Royal Braces",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Main Brace",
+      "value": "118, 117",
+      "details": "Capts AG",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Main T-sail, Top Gallt & Royal Braces",
+      "value": "164, 163",
+      "details": "Qr [See AG 134, 133]",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "weather Main Brace",
+      "value": "117, 118, 135, 136, 137, 138, 139, 140, 141, 142",
+      "details": "AG",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Marines",
+      "value": "196 to 204",
+      "details": "inclusive",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Stopper Main Brace",
+      "value": "98, 97",
+      "details": "both OS of Miz Top",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "weather Main T-sail, Top Gallt, & Royal Braces",
+      "value": "61 to 68, 71, 72",
+      "details": "MT 1 part inclusive",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Marines",
+      "value": "205, 206, 217, 218, 219",
+      "details": "then to weather Fore T-sail, Top Gallt & Royal Braces",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Mizen Mast",
+      "value": "159",
+      "details": "BM",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Mizen Mast",
+      "value": "134, 133",
+      "details": "Miz Top",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Miz Top",
+      "value": "94",
+      "details": "both Capts",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "Tacking & Wearing",
+      "subsection": "General",
+      "item_label": "Spanker Sheet & Vang",
+      "value": "97, 98",
+      "details": "Miz Top",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "General Duty",
+      "subsection": "General",
+      "item_label": "Marines",
+      "value": "195",
+      "details": "Sergt",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "General Duty",
+      "subsection": "General",
+      "item_label": "Cabin",
+      "value": "180",
+      "details": "Capt Stewd",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "General Duty",
+      "subsection": "General",
+      "item_label": "Berth Deck",
+      "value": "175",
+      "details": "Mast Arms",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "General Duty",
+      "subsection": "General",
+      "item_label": "Berth Deck",
+      "value": "176",
+      "details": "Ordy Sergt",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "General Duty",
+      "subsection": "General",
+      "item_label": "Berth Deck",
+      "value": "177",
+      "details": "Surgeon Stewd",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    },
+    {
+      "vessel_identity": "1st Class Sloop",
+      "section_title": "General Duty",
+      "subsection": "General",
+      "item_label": "Store Rooms",
+      "value": "181",
+      "details": "Yeo",
+      "canvas_fragment": "",
+      "image": "0002_service:mss:mss23044:mss23044-022:01:0225.jpg"
+    }
+  ]
+}

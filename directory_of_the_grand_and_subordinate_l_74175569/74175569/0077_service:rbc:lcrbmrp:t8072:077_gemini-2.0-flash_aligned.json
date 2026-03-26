@@ -1,0 +1,180 @@
+{
+  "image": "0077_service:rbc:lcrbmrp:t8072:077.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:077",
+  "canvas_width": 1915,
+  "canvas_height": 3004,
+  "surya_median_confidence": 0.9954,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        350,
+        462,
+        1706,
+        560
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:077#xywh=350,462,1356,98",
+      "confidence": "line",
+      "gemini_text": "The Capital Shoe Store,",
+      "surya_confidence": 0.9984
+    },
+    {
+      "bbox": [
+        618,
+        642,
+        1441,
+        727
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:077#xywh=618,642,823,85",
+      "confidence": "line",
+      "gemini_text": "733 7th Street, N. W.",
+      "surya_confidence": 0.9933
+    },
+    {
+      "bbox": [
+        736,
+        759,
+        1262,
+        805
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:077#xywh=736,759,526,46",
+      "confidence": "line",
+      "gemini_text": "Between G and H Sts.",
+      "surya_confidence": 0.9078
+    },
+    {
+      "bbox": [
+        413,
+        1046,
+        1707,
+        1103
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:077#xywh=413,1046,1294,57",
+      "confidence": "line",
+      "gemini_text": "OUR LATEST STYLES IN MEN'S, WOMEN'S",
+      "surya_confidence": 0.9974
+    },
+    {
+      "bbox": [
+        356,
+        1168,
+        1708,
+        1234
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:077#xywh=356,1168,1352,66",
+      "confidence": "line",
+      "gemini_text": "AND CHILDREN'S SHOES SURPASS ANYTHING",
+      "surya_confidence": 0.9864
+    },
+    {
+      "bbox": [
+        352,
+        1291,
+        1709,
+        1355
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:077#xywh=352,1291,1357,64",
+      "confidence": "line",
+      "gemini_text": "WE HAVE EVER SHOWN BEFORE. OUR SHOES",
+      "surya_confidence": 0.9831
+    },
+    {
+      "bbox": [
+        357,
+        1418,
+        1712,
+        1479
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:077#xywh=357,1418,1355,61",
+      "confidence": "line",
+      "gemini_text": "ARE HIGH-GRADE, AND THE PRICES SURPRIS-",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        357,
+        1549,
+        727,
+        1597
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:077#xywh=357,1549,370,48",
+      "confidence": "line",
+      "gemini_text": "INGLY LOW.",
+      "surya_confidence": 0.9348
+    },
+    {
+      "bbox": [
+        360,
+        1788,
+        1716,
+        1860
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:077#xywh=360,1788,1356,72",
+      "confidence": "line",
+      "gemini_text": "Ask to see our “Waukwell” $3.50",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        533,
+        1907,
+        1544,
+        1962
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:077#xywh=533,1907,1011,55",
+      "confidence": "line",
+      "gemini_text": "Shoes for Men and Women.",
+      "surya_confidence": 0.9752
+    },
+    {
+      "bbox": [
+        416,
+        2198,
+        1717,
+        2252
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:077#xywh=416,2198,1301,54",
+      "confidence": "line",
+      "gemini_text": "THE DISPLAY ON OUR BARGAIN TABLE EVERY",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        363,
+        2322,
+        1661,
+        2379
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:077#xywh=363,2322,1298,57",
+      "confidence": "line",
+      "gemini_text": "FRIDAY MUST BE SEEN TO BE APPRECIATED.",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        746,
+        2611,
+        1334,
+        2661
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:077#xywh=746,2611,588,50",
+      "confidence": "line",
+      "gemini_text": "Don't forget the number,",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        634,
+        2740,
+        1453,
+        2811
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:077#xywh=634,2740,819,71",
+      "confidence": "line",
+      "gemini_text": "733 7th Street, N. W.",
+      "surya_confidence": 0.9965
+    }
+  ],
+  "unmatched_gemini": []
+}

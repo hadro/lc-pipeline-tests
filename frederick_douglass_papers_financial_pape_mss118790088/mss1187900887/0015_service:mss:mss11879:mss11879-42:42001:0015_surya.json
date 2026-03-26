@@ -1,0 +1,336 @@
+{
+  "image_width": 1922,
+  "image_height": 1598,
+  "lines": [
+    {
+      "bbox": [
+        89,
+        185,
+        898,
+        239
+      ],
+      "text": "I di eu. In us en. Il a ai. hous cevous en.",
+      "confidence": 0.5684
+    },
+    {
+      "bbox": [
+        1029,
+        193,
+        1734,
+        245
+      ],
+      "text": "Il facres maurais temp ce maten.",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        99,
+        247,
+        618,
+        299
+      ],
+      "text": "vous avez en, Ils out en.",
+      "confidence": 0.9638
+    },
+    {
+      "bbox": [
+        1223,
+        247,
+        1760,
+        297
+      ],
+      "text": "Imperfect Past Definite",
+      "confidence": 0.5836
+    },
+    {
+      "bbox": [
+        1029,
+        295,
+        1755,
+        349
+      ],
+      "text": "for an en. In as en, Il down avait ou",
+      "confidence": 0.8416
+    },
+    {
+      "bbox": [
+        214,
+        312,
+        597,
+        352
+      ],
+      "text": "XXXXX",
+      "confidence": 0.5175
+    },
+    {
+      "bbox": [
+        1031,
+        346,
+        1848,
+        397
+      ],
+      "text": "nous avous eu. Vous avez ou. le souten.",
+      "confidence": 0.7823
+    },
+    {
+      "bbox": [
+        105,
+        394,
+        699,
+        436
+      ],
+      "text": "I tet vais ou: Tu vais ou",
+      "confidence": 0.4407
+    },
+    {
+      "bbox": [
+        103,
+        440,
+        947,
+        499
+      ],
+      "text": "pour en Ju vuis en. Il avaiten,",
+      "confidence": 0.7049
+    },
+    {
+      "bbox": [
+        1208,
+        444,
+        1557,
+        498
+      ],
+      "text": "Past deficile",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        1007,
+        484,
+        1836,
+        612
+      ],
+      "text": "J. ai eu, Tu as eu, Il avait eu, nous avons\neu, vous avez eu, Ils out eu.",
+      "confidence": 0.9528
+    },
+    {
+      "bbox": [
+        104,
+        496,
+        797,
+        551
+      ],
+      "text": "nous words en. Vous aveez en.",
+      "confidence": 0.9299
+    },
+    {
+      "bbox": [
+        105,
+        539,
+        442,
+        580
+      ],
+      "text": "Ils aventeu.",
+      "confidence": 0.9582
+    },
+    {
+      "bbox": [
+        113,
+        625,
+        767,
+        697
+      ],
+      "text": "Meus on Fire sus on.",
+      "confidence": 0.2277
+    },
+    {
+      "bbox": [
+        1178,
+        648,
+        1500,
+        695
+      ],
+      "text": "Plu perfech",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        110,
+        694,
+        703,
+        745
+      ],
+      "text": "It Hotel Il cut en.",
+      "confidence": 0.6852
+    },
+    {
+      "bbox": [
+        1038,
+        695,
+        1815,
+        809
+      ],
+      "text": "on avail-ew. hour avious ew, Vous avieg",
+      "confidence": 0.9523
+    },
+    {
+      "bbox": [
+        114,
+        742,
+        687,
+        795
+      ],
+      "text": "nous occimens on.",
+      "confidence": 0.7814
+    },
+    {
+      "bbox": [
+        112,
+        797,
+        683,
+        850
+      ],
+      "text": "Vous enite. Tous enter lu eu-",
+      "confidence": 0.6554
+    },
+    {
+      "bbox": [
+        1043,
+        801,
+        1493,
+        852
+      ],
+      "text": "en, Maraut en.",
+      "confidence": 0.9375
+    },
+    {
+      "bbox": [
+        1149,
+        855,
+        1598,
+        901
+      ],
+      "text": "Past centireon",
+      "confidence": 0.9506
+    },
+    {
+      "bbox": [
+        126,
+        858,
+        773,
+        896
+      ],
+      "text": "Vous ecites en vous cittes en.",
+      "confidence": 0.6765
+    },
+    {
+      "bbox": [
+        116,
+        909,
+        677,
+        947
+      ],
+      "text": "It states Ils runerich eu.",
+      "confidence": 0.518
+    },
+    {
+      "bbox": [
+        1009,
+        952,
+        1746,
+        1011
+      ],
+      "text": "I ew en, gu eu eu. Il sete ent en",
+      "confidence": 0.7191
+    },
+    {
+      "bbox": [
+        92,
+        998,
+        589,
+        1059
+      ],
+      "text": "Le prèse de la Bastile",
+      "confidence": 0.985
+    },
+    {
+      "bbox": [
+        1010,
+        1004,
+        1718,
+        1056
+      ],
+      "text": "nous ecenies en. Vous életes ecc,",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        1027,
+        1055,
+        1707,
+        1102
+      ],
+      "text": "Votes avery Ils earent en eu.",
+      "confidence": 0.3828
+    },
+    {
+      "bbox": [
+        104,
+        1103,
+        598,
+        1153
+      ],
+      "text": "Seclement pour se Voir",
+      "confidence": 0.9049
+    },
+    {
+      "bbox": [
+        1225,
+        1156,
+        1484,
+        1204
+      ],
+      "text": "Testoros",
+      "confidence": 0.5156
+    },
+    {
+      "bbox": [
+        120,
+        1161,
+        587,
+        1198
+      ],
+      "text": "Seclament pour voir.",
+      "confidence": 0.9497
+    },
+    {
+      "bbox": [
+        117,
+        1212,
+        418,
+        1248
+      ],
+      "text": "Se a le ment kour",
+      "confidence": 0.9423
+    },
+    {
+      "bbox": [
+        461,
+        1216,
+        565,
+        1245
+      ],
+      "text": "voir.",
+      "confidence": 0.5993
+    },
+    {
+      "bbox": [
+        498,
+        1503,
+        531,
+        1516
+      ],
+      "text": ". 11",
+      "confidence": 0.6659
+    }
+  ]
+}

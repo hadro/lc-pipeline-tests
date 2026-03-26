@@ -1,0 +1,336 @@
+{
+  "image": "0016_service:rbc:lcrbmrp:t8072:016.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016",
+  "canvas_width": 1820,
+  "canvas_height": 2902,
+  "surya_median_confidence": 0.9881,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        527,
+        345,
+        1483,
+        406
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=527,345,956,61",
+      "confidence": "line",
+      "gemini_text": "Most Worshipful Grand Lodge",
+      "surya_confidence": 0.8958
+    },
+    {
+      "bbox": [
+        744,
+        544,
+        1261,
+        579
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=744,544,517,35",
+      "confidence": "line",
+      "gemini_text": "GRAND OFFICERS.",
+      "surya_confidence": 0.9044
+    },
+    {
+      "bbox": [
+        332,
+        632,
+        1683,
+        668
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=332,632,1351,36",
+      "confidence": "line",
+      "gemini_text": "M. W. Wm. H. Judd Malvin...........Grand Master",
+      "surya_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        335,
+        700,
+        1685,
+        739
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=335,700,1350,39",
+      "confidence": "line",
+      "gemini_text": "R. W. John T. Layton ............Deputy Grand Master",
+      "surya_confidence": 0.9939
+    },
+    {
+      "bbox": [
+        488,
+        768,
+        1685,
+        803
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=488,768,1197,35",
+      "confidence": "line",
+      "gemini_text": "“ Paul R. Stewart............Senior Grand Warden",
+      "surya_confidence": 0.9937
+    },
+    {
+      "bbox": [
+        488,
+        835,
+        1685,
+        871
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=488,835,1197,36",
+      "confidence": "line",
+      "gemini_text": "“ J. Nelson Lomax............Junior Grand Warden",
+      "surya_confidence": 0.9938
+    },
+    {
+      "bbox": [
+        488,
+        900,
+        1688,
+        942
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=488,900,1200,42",
+      "confidence": "line",
+      "gemini_text": "“ Henry Coleman............Grand Treasurer",
+      "surya_confidence": 0.9944
+    },
+    {
+      "bbox": [
+        491,
+        967,
+        1691,
+        1009
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=491,967,1200,42",
+      "confidence": "line",
+      "gemini_text": "“ Wm. H. Myers............Grand Secretary",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        342,
+        1029,
+        1689,
+        1077
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=342,1029,1347,48",
+      "confidence": "line",
+      "gemini_text": "W. Rev. James H. Hill............Grand Chaplain",
+      "surya_confidence": 0.9981
+    },
+    {
+      "bbox": [
+        409,
+        1102,
+        1685,
+        1140
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=409,1102,1276,38",
+      "confidence": "line",
+      "gemini_text": "“ John W. Freeman............Grand Marshal",
+      "surya_confidence": 0.996
+    },
+    {
+      "bbox": [
+        357,
+        1168,
+        1688,
+        1207
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=357,1168,1331,39",
+      "confidence": "line",
+      "gemini_text": "“ James L. Johnson............Gr. Lecturer and Visitor",
+      "surya_confidence": 0.9732
+    },
+    {
+      "bbox": [
+        360,
+        1230,
+        1689,
+        1278
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=360,1230,1329,48",
+      "confidence": "line",
+      "gemini_text": "“ Charles D. Freeman............Senior Grand Deacon",
+      "surya_confidence": 0.9755
+    },
+    {
+      "bbox": [
+        362,
+        1300,
+        1688,
+        1344
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=362,1300,1326,44",
+      "confidence": "line",
+      "gemini_text": "“ William A. Clark............Junior Grand Deacon",
+      "surya_confidence": 0.9701
+    },
+    {
+      "bbox": [
+        360,
+        1363,
+        1688,
+        1416
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=360,1363,1328,53",
+      "confidence": "line",
+      "gemini_text": "“ A. W. Scott............Senior Grand Steward",
+      "surya_confidence": 0.9876
+    },
+    {
+      "bbox": [
+        360,
+        1431,
+        1688,
+        1479
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=360,1431,1328,48",
+      "confidence": "line",
+      "gemini_text": "“ Joseph N. Lawson............Junior Grand Steward",
+      "surya_confidence": 0.9714
+    },
+    {
+      "bbox": [
+        362,
+        1495,
+        1689,
+        1546
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=362,1495,1327,51",
+      "confidence": "line",
+      "gemini_text": "“ Wm. Knox Brown............Grand Sword Bearer",
+      "surya_confidence": 0.5955
+    },
+    {
+      "bbox": [
+        363,
+        1568,
+        1691,
+        1609
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=363,1568,1328,41",
+      "confidence": "line",
+      "gemini_text": "“ Wilson Smith............Grand Standard Bearer",
+      "surya_confidence": 0.9884
+    },
+    {
+      "bbox": [
+        362,
+        1629,
+        1691,
+        1677
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=362,1629,1329,48",
+      "confidence": "line",
+      "gemini_text": "“ Wm. H. Grimshaw............Grand Librarian",
+      "surya_confidence": 0.9643
+    },
+    {
+      "bbox": [
+        362,
+        1698,
+        1694,
+        1747
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=362,1698,1332,49",
+      "confidence": "line",
+      "gemini_text": "“ Samuel T. Craig............Grand Pursuivant",
+      "surya_confidence": 0.9795
+    },
+    {
+      "bbox": [
+        365,
+        1769,
+        1694,
+        1810
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=365,1769,1329,41",
+      "confidence": "line",
+      "gemini_text": "“ Robert H. Ford ............Grand Tiler",
+      "surya_confidence": 0.9663
+    },
+    {
+      "bbox": [
+        723,
+        1928,
+        1313,
+        1963
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=723,1928,590,35",
+      "confidence": "line",
+      "gemini_text": "Grand Master's Address:",
+      "surya_confidence": 0.8779
+    },
+    {
+      "bbox": [
+        343,
+        2009,
+        1688,
+        2061
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=343,2009,1345,52",
+      "confidence": "line",
+      "gemini_text": "M. W. Wm. H. Judd Malvin............1018 R St. N. W.",
+      "surya_confidence": 0.9882
+    },
+    {
+      "bbox": [
+        676,
+        2197,
+        1328,
+        2234
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=676,2197,652,37",
+      "confidence": "line",
+      "gemini_text": "Grand Secretary's Address:",
+      "surya_confidence": 0.8811
+    },
+    {
+      "bbox": [
+        342,
+        2277,
+        1691,
+        2324
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=342,2277,1349,47",
+      "confidence": "line",
+      "gemini_text": "R. W. Wm. H. Myers ............308 3d St. S. W.",
+      "surya_confidence": 0.9928
+    },
+    {
+      "bbox": [
+        594,
+        2461,
+        1430,
+        2495
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=594,2461,836,34",
+      "confidence": "line",
+      "gemini_text": "Address of Chairman of Committee on",
+      "surya_confidence": 0.9389
+    },
+    {
+      "bbox": [
+        735,
+        2518,
+        1301,
+        2556
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=735,2518,566,38",
+      "confidence": "line",
+      "gemini_text": "Foreign Correspondence:",
+      "surya_confidence": 0.8937
+    },
+    {
+      "bbox": [
+        346,
+        2600,
+        1691,
+        2652
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:016#xywh=346,2600,1345,52",
+      "confidence": "line",
+      "gemini_text": "P. G. M., S. Roger Watts, M. D........1343 V St. N. W.",
+      "surya_confidence": 0.9939
+    }
+  ],
+  "unmatched_gemini": []
+}

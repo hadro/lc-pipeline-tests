@@ -1,0 +1,66 @@
+{
+  "image_width": 1883,
+  "image_height": 2998,
+  "lines": [
+    {
+      "bbox": [
+        364,
+        379,
+        1589,
+        480
+      ],
+      "text": "F. WARREN JOHNSON,",
+      "confidence": 0.9694
+    },
+    {
+      "bbox": [
+        579,
+        681,
+        1374,
+        755
+      ],
+      "text": "1224 Pa. Avenue N. W.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        269,
+        1116,
+        546,
+        1153
+      ],
+      "text": "Transfer Ch",
+      "confidence": 0.3478
+    },
+    {
+      "bbox": [
+        362,
+        1439,
+        1583,
+        1586
+      ],
+      "text": "Money Loaned on Personal Property.",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        488,
+        2383,
+        1462,
+        2421
+      ],
+      "text": "WHOLESALE AND RETAIL DEALER IN",
+      "confidence": 0.978
+    },
+    {
+      "bbox": [
+        388,
+        2599,
+        1544,
+        2684
+      ],
+      "text": "Watches, Diamonds, Jewelry, &c..",
+      "confidence": 0.9999
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "image": "0089_service:rbc:lcrbmrp:t8072:089.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089",
+  "canvas_width": 1907,
+  "canvas_height": 3009,
+  "surya_median_confidence": 0.9868,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        727,
+        453,
+        1351,
+        495
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=727,453,624,42",
+      "confidence": "line",
+      "gemini_text": "SAMUEL G. STEWART.",
+      "surya_confidence": 0.9802
+    },
+    {
+      "bbox": [
+        628,
+        599,
+        1465,
+        649
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=628,599,837,50",
+      "confidence": "line",
+      "gemini_text": "Heurich's Maerzen and Light Beers.",
+      "surya_confidence": 0.9883
+    },
+    {
+      "bbox": [
+        455,
+        744,
+        1619,
+        792
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=455,744,1164,48",
+      "confidence": "line",
+      "gemini_text": "Saloon, 1141 7th Street N. W. between L and M Sts.",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        762,
+        873,
+        1307,
+        909
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=762,873,545,36",
+      "confidence": "line",
+      "gemini_text": "MOORE BROTHERS.",
+      "surya_confidence": 0.9324
+    },
+    {
+      "bbox": [
+        632,
+        963,
+        1439,
+        1002
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=632,963,807,39",
+      "confidence": "line",
+      "gemini_text": "COAL, WOOD, FEED AND ICE.",
+      "surya_confidence": 0.9806
+    },
+    {
+      "bbox": [
+        800,
+        1050,
+        1263,
+        1087
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=800,1050,463,37",
+      "confidence": "line",
+      "gemini_text": "1200 R Street N. W.",
+      "surya_confidence": 0.9934
+    },
+    {
+      "bbox": [
+        597,
+        1140,
+        1479,
+        1182
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=597,1140,882,42",
+      "confidence": "line",
+      "gemini_text": "All kinds of coal at lowest cash prices.",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        694,
+        1266,
+        1374,
+        1304
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=694,1266,680,38",
+      "confidence": "line",
+      "gemini_text": "DR. WM. J. P. WILLIAMS,",
+      "surya_confidence": 0.9819
+    },
+    {
+      "bbox": [
+        907,
+        1345,
+        1177,
+        1378
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=907,1345,270,33",
+      "confidence": "line",
+      "gemini_text": "DENTIST.",
+      "surya_confidence": 0.9554
+    },
+    {
+      "bbox": [
+        579,
+        1420,
+        1497,
+        1462
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=579,1420,918,42",
+      "confidence": "line",
+      "gemini_text": "Long Distance 'Phone 1471 F, Madison.",
+      "surya_confidence": 0.9944
+    },
+    {
+      "bbox": [
+        490,
+        1486,
+        1098,
+        1527
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=490,1486,608,41",
+      "confidence": "line",
+      "gemini_text": "Office, 609 N. Eutaw St. Baltimore, Md.",
+      "surya_confidence": 0.9951
+    },
+    {
+      "bbox": [
+        443,
+        1556,
+        1074,
+        1592
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=443,1556,631,36",
+      "confidence": "line",
+      "gemini_text": "Over Jones' Photo. Gallery.",
+      "surya_confidence": 0.9851
+    },
+    {
+      "bbox": [
+        753,
+        1658,
+        1296,
+        1695
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=753,1658,543,37",
+      "confidence": "line",
+      "gemini_text": "DR. J. N. JOHNSON,",
+      "surya_confidence": 0.9676
+    },
+    {
+      "bbox": [
+        748,
+        1712,
+        1307,
+        1751
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=748,1712,559,39",
+      "confidence": "line",
+      "gemini_text": "(Late of Bryan, Texas.)",
+      "surya_confidence": 0.991
+    },
+    {
+      "bbox": [
+        657,
+        1763,
+        1400,
+        1804
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=657,1763,743,41",
+      "confidence": "line",
+      "gemini_text": "PHYSICIAN AND SURGEON.",
+      "surya_confidence": 0.9574
+    },
+    {
+      "bbox": [
+        350,
+        1816,
+        1702,
+        1870
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=350,1816,1352,54",
+      "confidence": "line",
+      "gemini_text": "Special Attention Given to Digestive, Urinary and Lung",
+      "surya_confidence": 0.9929
+    },
+    {
+      "bbox": [
+        460,
+        1864,
+        1584,
+        1910
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=460,1864,1124,46",
+      "confidence": "line",
+      "gemini_text": "Diseases, and Diseases of Women and Children.",
+      "surya_confidence": 0.9927
+    },
+    {
+      "bbox": [
+        571,
+        1909,
+        1479,
+        1956
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=571,1909,908,47",
+      "confidence": "line",
+      "gemini_text": "(Also Attorney and Counsellor-at-Law.)",
+      "surya_confidence": 0.9962
+    },
+    {
+      "bbox": [
+        485,
+        1953,
+        1562,
+        2002
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=485,1953,1077,49",
+      "confidence": "line",
+      "gemini_text": "Financial Secretary and Advocate, N. N. P. A.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        390,
+        2010,
+        856,
+        2051
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=390,2010,466,41",
+      "confidence": "line",
+      "gemini_text": "1337 B Street, N. E. Washington, D. C.",
+      "surya_confidence": 0.9795
+    },
+    {
+      "bbox": [
+        699,
+        2116,
+        1350,
+        2155
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=699,2116,651,39",
+      "confidence": "line",
+      "gemini_text": "WILLIAM H. RICHARDS,",
+      "surya_confidence": 0.9635
+    },
+    {
+      "bbox": [
+        833,
+        2216,
+        1213,
+        2256
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=833,2216,380,40",
+      "confidence": "line",
+      "gemini_text": "Attorney-at-law.",
+      "surya_confidence": 0.9796
+    },
+    {
+      "bbox": [
+        387,
+        2340,
+        910,
+        2376
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=387,2340,523,36",
+      "confidence": "line",
+      "gemini_text": "420 Fifth Street, N. W. Washington, D. C.",
+      "surya_confidence": 0.9917
+    },
+    {
+      "bbox": [
+        799,
+        2462,
+        1236,
+        2497
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=799,2462,437,35",
+      "confidence": "line",
+      "gemini_text": "JOHN A. SMITH.",
+      "surya_confidence": 0.9486
+    },
+    {
+      "bbox": [
+        511,
+        2529,
+        1517,
+        2566
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=511,2529,1006,37",
+      "confidence": "line",
+      "gemini_text": "ANTISEPTIC TONSORIAL PARLORS.",
+      "surya_confidence": 0.9694
+    },
+    {
+      "bbox": [
+        770,
+        2585,
+        1174,
+        2621
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=770,2585,404,36",
+      "confidence": "line",
+      "gemini_text": "1228 7th St N. W.",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        765,
+        2643,
+        1284,
+        2681
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=765,2643,519,38",
+      "confidence": "line",
+      "gemini_text": "Everything first class.",
+      "surya_confidence": 0.9799
+    },
+    {
+      "bbox": [
+        549,
+        2680,
+        1467,
+        2731
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=549,2680,918,51",
+      "confidence": "line",
+      "gemini_text": "Ladies' and Children's Hair Specialist.",
+      "surya_confidence": 0.9946
+    },
+    {
+      "bbox": [
+        536,
+        2729,
+        1497,
+        2773
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=536,2729,961,44",
+      "confidence": "line",
+      "gemini_text": "Prompt attention given to orders by mail.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        988,
+        2791,
+        1042,
+        2819
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:089#xywh=988,2791,54,28",
+      "confidence": "line",
+      "gemini_text": "80",
+      "surya_confidence": 0.9813
+    }
+  ],
+  "unmatched_gemini": []
+}

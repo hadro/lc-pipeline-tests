@@ -1,0 +1,384 @@
+{
+  "image": "0061_service:rbc:lcrbmrp:t8072:061.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061",
+  "canvas_width": 1882,
+  "canvas_height": 3001,
+  "surya_median_confidence": 0.978,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        719,
+        379,
+        1218,
+        417
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=719,379,499,38",
+      "confidence": "line",
+      "gemini_text": "ZEPH. P. MOORE,",
+      "surya_confidence": 0.9763
+    },
+    {
+      "bbox": [
+        801,
+        470,
+        1148,
+        506
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=801,470,347,36",
+      "confidence": "line",
+      "gemini_text": "Notary Public.",
+      "surya_confidence": 0.9642
+    },
+    {
+      "bbox": [
+        409,
+        556,
+        1533,
+        595
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=409,556,1124,39",
+      "confidence": "line",
+      "gemini_text": "FIRE, LIFE AND ACCIDENT INSURANCE.",
+      "surya_confidence": 0.9798
+    },
+    {
+      "bbox": [
+        606,
+        646,
+        1309,
+        683
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=606,646,703,37",
+      "confidence": "line",
+      "gemini_text": "No. 1206 R Street, Northwest,",
+      "surya_confidence": 0.9913
+    },
+    {
+      "bbox": [
+        429,
+        732,
+        820,
+        766
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=429,732,391,34",
+      "confidence": "line",
+      "gemini_text": "Phone Main 2322 Washington, D C.",
+      "surya_confidence": 0.9573
+    },
+    {
+      "bbox": [
+        686,
+        811,
+        1237,
+        849
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=686,811,551,38",
+      "confidence": "line",
+      "gemini_text": "THE SMITH HOUSE,",
+      "surya_confidence": 0.9908
+    },
+    {
+      "bbox": [
+        592,
+        898,
+        1339,
+        939
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=592,898,747,41",
+      "confidence": "line",
+      "gemini_text": "479 Missouri Avenue, Northwest.",
+      "surya_confidence": 0.9907
+    },
+    {
+      "bbox": [
+        294,
+        966,
+        1640,
+        1008
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=294,966,1346,42",
+      "confidence": "line",
+      "gemini_text": "Rooms Neatly Furnished, Ladies and Gent's Dining Room.",
+      "surya_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        515,
+        1057,
+        1416,
+        1094
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=515,1057,901,37",
+      "confidence": "line",
+      "gemini_text": "Everything New. Hot and Cold Baths.",
+      "surya_confidence": 0.9737
+    },
+    {
+      "bbox": [
+        625,
+        1138,
+        1307,
+        1175
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=625,1138,682,37",
+      "confidence": "line",
+      "gemini_text": "Alice M. Smith, Proprietress.",
+      "surya_confidence": 0.9929
+    },
+    {
+      "bbox": [
+        588,
+        1213,
+        1340,
+        1252
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=588,1213,752,39",
+      "confidence": "line",
+      "gemini_text": "BROWNING & MIDDLETON,",
+      "surya_confidence": 0.8794
+    },
+    {
+      "bbox": [
+        859,
+        1270,
+        1079,
+        1303
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=859,1270,220,33",
+      "confidence": "line",
+      "gemini_text": "Dealer in",
+      "surya_confidence": 0.9653
+    },
+    {
+      "bbox": [
+        387,
+        1323,
+        1540,
+        1367
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=387,1323,1153,44",
+      "confidence": "line",
+      "gemini_text": "FINE FAMILY GROCERIES, TEAS, WINES",
+      "surya_confidence": 0.959
+    },
+    {
+      "bbox": [
+        757,
+        1393,
+        1177,
+        1432
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=757,1393,420,39",
+      "confidence": "line",
+      "gemini_text": "AND LIQUORS.",
+      "surya_confidence": 0.9829
+    },
+    {
+      "bbox": [
+        290,
+        1448,
+        1638,
+        1488
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=290,1448,1348,40",
+      "confidence": "line",
+      "gemini_text": "Agents for Werner's \"America\" Extra Dry Champagne.",
+      "surya_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        686,
+        1504,
+        1246,
+        1538
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=686,1504,560,34",
+      "confidence": "line",
+      "gemini_text": "COFFEE ROASTERS.",
+      "surya_confidence": 0.9293
+    },
+    {
+      "bbox": [
+        440,
+        1562,
+        1467,
+        1600
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=440,1562,1027,38",
+      "confidence": "line",
+      "gemini_text": "608 Pennsylvania Avenue, Washington, D. C.",
+      "surya_confidence": 0.9915
+    },
+    {
+      "bbox": [
+        682,
+        1702,
+        1256,
+        1737
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=682,1702,574,35",
+      "confidence": "line",
+      "gemini_text": "HORACE M. BAILEY.",
+      "surya_confidence": 0.9397
+    },
+    {
+      "bbox": [
+        854,
+        1800,
+        1443,
+        1838
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=854,1800,589,38",
+      "confidence": "line",
+      "gemini_text": "TONSORIAL ARTIST.",
+      "surya_confidence": 0.9619
+    },
+    {
+      "bbox": [
+        1083,
+        1905,
+        1632,
+        1942
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=1083,1905,549,37",
+      "confidence": "line",
+      "gemini_text": "400 I Street, Northwest.",
+      "surya_confidence": 0.982
+    },
+    {
+      "bbox": [
+        287,
+        1959,
+        861,
+        1997
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=287,1959,574,38",
+      "confidence": "line",
+      "gemini_text": "Choice Brands of Cigars.",
+      "surya_confidence": 0.836
+    },
+    {
+      "bbox": [
+        702,
+        2085,
+        1202,
+        2124
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=702,2085,500,39",
+      "confidence": "line",
+      "gemini_text": "W. KNOX BROWN,",
+      "surya_confidence": 0.9737
+    },
+    {
+      "bbox": [
+        413,
+        2163,
+        1487,
+        2207
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=413,2163,1074,44",
+      "confidence": "line",
+      "gemini_text": "New Jersey Avenue and L Street, Northwest.",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        636,
+        2239,
+        1272,
+        2279
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=636,2239,636,40",
+      "confidence": "line",
+      "gemini_text": "CIGARS AND TOBACCO.",
+      "surya_confidence": 0.927
+    },
+    {
+      "bbox": [
+        522,
+        2322,
+        1392,
+        2358
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=522,2322,870,36",
+      "confidence": "line",
+      "gemini_text": "All Kinds of Fruit and Confectionery.",
+      "surya_confidence": 0.9953
+    },
+    {
+      "bbox": [
+        743,
+        2424,
+        1165,
+        2460
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=743,2424,422,36",
+      "confidence": "line",
+      "gemini_text": "T. F. WHALEN,",
+      "surya_confidence": 0.9936
+    },
+    {
+      "bbox": [
+        790,
+        2479,
+        1119,
+        2511
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=790,2479,329,32",
+      "confidence": "line",
+      "gemini_text": "-Dealer in-",
+      "surya_confidence": 0.5979
+    },
+    {
+      "bbox": [
+        522,
+        2533,
+        1391,
+        2574
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=522,2533,869,41",
+      "confidence": "line",
+      "gemini_text": "GROCERIES AND PROVISIONS,",
+      "surya_confidence": 0.9257
+    },
+    {
+      "bbox": [
+        326,
+        2591,
+        1573,
+        2624
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=326,2591,1247,33",
+      "confidence": "line",
+      "gemini_text": "Fresh and Salt Meats of all Kinds at Market Prices.",
+      "surya_confidence": 0.9941
+    },
+    {
+      "bbox": [
+        617,
+        2647,
+        1273,
+        2681
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=617,2647,656,34",
+      "confidence": "line",
+      "gemini_text": "CIGARS AND TOBACCO.",
+      "surya_confidence": 0.9418
+    },
+    {
+      "bbox": [
+        575,
+        2705,
+        1337,
+        2741
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:061#xywh=575,2705,762,36",
+      "confidence": "line",
+      "gemini_text": "1146 Fifteenth Street, Northwest.",
+      "surya_confidence": 0.995
+    }
+  ],
+  "unmatched_gemini": []
+}

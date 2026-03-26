@@ -1,0 +1,336 @@
+{
+  "image": "0115_service:rbc:lcrbmrp:t8072:115.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115",
+  "canvas_width": 1888,
+  "canvas_height": 2982,
+  "surya_median_confidence": 0.9942,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        774,
+        333,
+        1320,
+        386
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=774,333,546,53",
+      "confidence": "line",
+      "gemini_text": "JESSE Ң. FOSTER,",
+      "surya_confidence": 0.8595
+    },
+    {
+      "bbox": [
+        460,
+        423,
+        1638,
+        478
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=460,423,1178,55",
+      "confidence": "line",
+      "gemini_text": "CATERER AND CONFECTIONER,",
+      "surya_confidence": 0.9985
+    },
+    {
+      "bbox": [
+        611,
+        500,
+        1475,
+        556
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=611,500,864,56",
+      "confidence": "line",
+      "gemini_text": "1120 20th St N. W., Washington, D. C.",
+      "surya_confidence": 0.9964
+    },
+    {
+      "bbox": [
+        1356,
+        592,
+        1626,
+        630
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=1356,592,270,38",
+      "confidence": "line",
+      "gemini_text": "Weddings, Lunches, Receptions,",
+      "surya_confidence": 0.9863
+    },
+    {
+      "bbox": [
+        959,
+        646,
+        1194,
+        683
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=959,646,235,37",
+      "confidence": "line",
+      "gemini_text": "Dinners, Banquets, Balls,",
+      "surya_confidence": 0.9723
+    },
+    {
+      "bbox": [
+        705,
+        705,
+        1394,
+        755
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=705,705,689,50",
+      "confidence": "line",
+      "gemini_text": "Supplied with every requisite.",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        606,
+        771,
+        1476,
+        825
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=606,771,870,54",
+      "confidence": "line",
+      "gemini_text": "Theatre Parties Served at your Home.",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        409,
+        846,
+        1715,
+        905
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=409,846,1306,59",
+      "confidence": "line",
+      "gemini_text": "A large and elegant service of China, Glasses, Linen and",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        365,
+        887,
+        1420,
+        947
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=365,887,1055,60",
+      "confidence": "line",
+      "gemini_text": "Silverware can be rented at reasonable prices.",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        409,
+        935,
+        1717,
+        995
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=409,935,1308,60",
+      "confidence": "line",
+      "gemini_text": "All orders by mail or telephone will receive our prompt",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        366,
+        983,
+        944,
+        1027
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=366,983,578,44",
+      "confidence": "line",
+      "gemini_text": "and personal supervision.",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        625,
+        1049,
+        1445,
+        1103
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=625,1049,820,54",
+      "confidence": "line",
+      "gemini_text": "'PHONE CALL, NORTH 1221-Y.",
+      "surya_confidence": 0.9123
+    },
+    {
+      "bbox": [
+        753,
+        1166,
+        1320,
+        1218
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=753,1166,567,52",
+      "confidence": "line",
+      "gemini_text": "THOMAS L. JONES,",
+      "surya_confidence": 0.9839
+    },
+    {
+      "bbox": [
+        609,
+        1252,
+        1459,
+        1310
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=609,1252,850,58",
+      "confidence": "line",
+      "gemini_text": "Attorney at Law and Conveyancer,",
+      "surya_confidence": 0.9916
+    },
+    {
+      "bbox": [
+        403,
+        1350,
+        1665,
+        1407
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=403,1350,1262,57",
+      "confidence": "line",
+      "gemini_text": "Practices in All Courts of the District of Columbia.",
+      "surya_confidence": 0.9949
+    },
+    {
+      "bbox": [
+        711,
+        1470,
+        1360,
+        1520
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=711,1470,649,50",
+      "confidence": "line",
+      "gemini_text": "Office, 616 D Street N. W.",
+      "surya_confidence": 0.9944
+    },
+    {
+      "bbox": [
+        830,
+        1580,
+        1221,
+        1633
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=830,1580,391,53",
+      "confidence": "line",
+      "gemini_text": "R. W. DUNN,",
+      "surya_confidence": 0.9942
+    },
+    {
+      "bbox": [
+        353,
+        1662,
+        1707,
+        1730
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=353,1662,1354,68",
+      "confidence": "line",
+      "gemini_text": "Wholesale and Retail Dealer in Wood, Coal and Coke,",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        535,
+        1755,
+        1522,
+        1817
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=535,1755,987,62",
+      "confidence": "line",
+      "gemini_text": "Office and Yard, 5th and G Streets S. E.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        737,
+        1847,
+        1361,
+        1901
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=737,1847,624,54",
+      "confidence": "line",
+      "gemini_text": "Telephone, East 128-D.",
+      "surya_confidence": 0.9967
+    },
+    {
+      "bbox": [
+        354,
+        1985,
+        790,
+        2021
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=354,1985,436,36",
+      "confidence": "line",
+      "gemini_text": "WM. A. BALTIMORE. HENRY H. BANKS.",
+      "surya_confidence": 0.9847
+    },
+    {
+      "bbox": [
+        678,
+        2157,
+        1360,
+        2218
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=678,2157,682,61",
+      "confidence": "line",
+      "gemini_text": "BALTIMORE & BANKS,",
+      "surya_confidence": 0.955
+    },
+    {
+      "bbox": [
+        598,
+        2246,
+        1454,
+        2308
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=598,2246,856,62",
+      "confidence": "line",
+      "gemini_text": "BOOK AND JOB PRINTERS,",
+      "surya_confidence": 0.9761
+    },
+    {
+      "bbox": [
+        481,
+        2344,
+        1558,
+        2407
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=481,2344,1077,63",
+      "confidence": "line",
+      "gemini_text": "Special Rates to Churches, Clubs and Societies.",
+      "surya_confidence": 0.9947
+    },
+    {
+      "bbox": [
+        707,
+        2441,
+        1338,
+        2488
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=707,2441,631,47",
+      "confidence": "line",
+      "gemini_text": "Cor. 3d and F Sts. S. W.",
+      "surya_confidence": 0.9969
+    },
+    {
+      "bbox": [
+        347,
+        2634,
+        931,
+        2667
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=347,2634,584,33",
+      "confidence": "line",
+      "gemini_text": "WORK NEATLY EXECUTED. PRICES REASONABLE.",
+      "surya_confidence": 0.9311
+    },
+    {
+      "bbox": [
+        977,
+        2682,
+        1054,
+        2711
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:115#xywh=977,2682,77,29",
+      "confidence": "line",
+      "gemini_text": "106",
+      "surya_confidence": 0.9587
+    }
+  ],
+  "unmatched_gemini": []
+}

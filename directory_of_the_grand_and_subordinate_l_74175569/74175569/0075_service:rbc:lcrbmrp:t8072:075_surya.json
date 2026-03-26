@@ -1,0 +1,206 @@
+{
+  "image_width": 1897,
+  "image_height": 3012,
+  "lines": [
+    {
+      "bbox": [
+        322,
+        373,
+        619,
+        424
+      ],
+      "text": "STENCILS.",
+      "confidence": 0.9202
+    },
+    {
+      "bbox": [
+        1280,
+        376,
+        1678,
+        425
+      ],
+      "text": "BRASS SIGNS.",
+      "confidence": 0.8149
+    },
+    {
+      "bbox": [
+        886,
+        381,
+        1093,
+        423
+      ],
+      "text": "SEALS.",
+      "confidence": 0.9242
+    },
+    {
+      "bbox": [
+        601,
+        562,
+        1407,
+        635
+      ],
+      "text": "LAMB & TILDEN,",
+      "confidence": 0.9779
+    },
+    {
+      "bbox": [
+        325,
+        675,
+        755,
+        712
+      ],
+      "text": "Richard L. Lamb.",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        1236,
+        678,
+        1674,
+        717
+      ],
+      "text": "Eugene M. Tilden.",
+      "confidence": 0.9871
+    },
+    {
+      "bbox": [
+        452,
+        816,
+        1544,
+        930
+      ],
+      "text": "Rubber Stamps,",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        607,
+        1038,
+        1370,
+        1122
+      ],
+      "text": "525 Tenth St.,",
+      "confidence": 0.9871
+    },
+    {
+      "bbox": [
+        568,
+        1228,
+        1309,
+        1287
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9833
+    },
+    {
+      "bbox": [
+        319,
+        1479,
+        1674,
+        1529
+      ],
+      "text": "POCKET STAMPS. NUMBERING MACHINES.",
+      "confidence": 0.9477
+    },
+    {
+      "bbox": [
+        384,
+        1629,
+        1590,
+        1712
+      ],
+      "text": "West End Printing Co.,",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        659,
+        1775,
+        1342,
+        1854
+      ],
+      "text": "612 14th Street N. W.,",
+      "confidence": 0.9842
+    },
+    {
+      "bbox": [
+        712,
+        1908,
+        1267,
+        1955
+      ],
+      "text": "WASHINGTON, D. C.",
+      "confidence": 0.9137
+    },
+    {
+      "bbox": [
+        551,
+        2102,
+        1425,
+        2142
+      ],
+      "text": "FILLMORE HARRISON, Manager.",
+      "confidence": 0.9301
+    },
+    {
+      "bbox": [
+        313,
+        2288,
+        821,
+        2358
+      ],
+      "text": "Artistic Printing.",
+      "confidence": 0.8677
+    },
+    {
+      "bbox": [
+        1139,
+        2289,
+        1669,
+        2355
+      ],
+      "text": "Society Engraving.",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        545,
+        2448,
+        1441,
+        2483
+      ],
+      "text": "MASONIC CARDS A SPECIALTY.",
+      "confidence": 0.9431
+    },
+    {
+      "bbox": [
+        319,
+        2641,
+        1670,
+        2679
+      ],
+      "text": "See our Monogram Writing Paper, embossed from Steel Die,",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        448,
+        2696,
+        1531,
+        2735
+      ],
+      "text": "for 25c and 35c a quire, including 25 Envelopes.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        659,
+        2752,
+        1337,
+        2791
+      ],
+      "text": "No charge for use of steel die.",
+      "confidence": 0.9991
+    }
+  ]
+}

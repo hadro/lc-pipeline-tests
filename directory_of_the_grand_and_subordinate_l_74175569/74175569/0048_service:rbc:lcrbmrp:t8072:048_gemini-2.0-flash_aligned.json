@@ -1,0 +1,552 @@
+{
+  "image": "0048_service:rbc:lcrbmrp:t8072:048.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048",
+  "canvas_width": 1828,
+  "canvas_height": 2989,
+  "surya_median_confidence": 0.9899,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        336,
+        371,
+        1461,
+        435
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=336,371,1125,64",
+      "confidence": "line",
+      "gemini_text": "United Supreme Council A. A. S. Rite,",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        222,
+        467,
+        1575,
+        515
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=222,467,1353,48",
+      "confidence": "line",
+      "gemini_text": "Sovereign Grand Inspector-Generals of the 33d and last",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        295,
+        512,
+        1502,
+        559
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=295,512,1207,47",
+      "confidence": "line",
+      "gemini_text": "degree of the A. and A S. Rite of Free-Masonry,",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        333,
+        556,
+        1461,
+        600
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=333,556,1128,44",
+      "confidence": "line",
+      "gemini_text": "for the Southern Jurisdiction of the United States",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        397,
+        607,
+        1393,
+        643
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=397,607,996,36",
+      "confidence": "line",
+      "gemini_text": "of America, meets in Annual Session on",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        516,
+        650,
+        1272,
+        690
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=516,650,756,40",
+      "confidence": "line",
+      "gemini_text": "the Third Monday in October.",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        754,
+        739,
+        1046,
+        774
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=754,739,292,35",
+      "confidence": "line",
+      "gemini_text": "OFFICERS.",
+      "surya_confidence": 0.9197
+    },
+    {
+      "bbox": [
+        680,
+        873,
+        1109,
+        913
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=680,873,429,40",
+      "confidence": "line",
+      "gemini_text": "Washington, D. C.",
+      "surya_confidence": 0.9911
+    },
+    {
+      "bbox": [
+        726,
+        976,
+        1070,
+        1012
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=726,976,344,36",
+      "confidence": "line",
+      "gemini_text": "Baltimore, Md.",
+      "surya_confidence": 0.9803
+    },
+    {
+      "bbox": [
+        717,
+        1076,
+        1070,
+        1111
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=717,1076,353,35",
+      "confidence": "line",
+      "gemini_text": "Richmond, Va.",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        719,
+        1178,
+        1070,
+        1214
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=719,1178,351,36",
+      "confidence": "line",
+      "gemini_text": "Dallas, Texas.",
+      "surya_confidence": 0.9898
+    },
+    {
+      "bbox": [
+        683,
+        1279,
+        1112,
+        1316
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=683,1279,429,37",
+      "confidence": "line",
+      "gemini_text": "Washington, D. C.",
+      "surya_confidence": 0.9899
+    },
+    {
+      "bbox": [
+        720,
+        1379,
+        1076,
+        1415
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=720,1379,356,36",
+      "confidence": "line",
+      "gemini_text": "Baltimore, Md.",
+      "surya_confidence": 0.9804
+    },
+    {
+      "bbox": [
+        682,
+        1479,
+        1115,
+        1515
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=682,1479,433,36",
+      "confidence": "line",
+      "gemini_text": "Washington, D. C.",
+      "surya_confidence": 0.9892
+    },
+    {
+      "bbox": [
+        752,
+        1581,
+        1048,
+        1615
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=752,1581,296,34",
+      "confidence": "line",
+      "gemini_text": "Norfolk, Va.",
+      "surya_confidence": 0.9955
+    },
+    {
+      "bbox": [
+        683,
+        1682,
+        1112,
+        1718
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=683,1682,429,36",
+      "confidence": "line",
+      "gemini_text": "Washington, D. C.",
+      "surya_confidence": 0.9861
+    },
+    {
+      "bbox": [
+        719,
+        1782,
+        1075,
+        1817
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=719,1782,356,35",
+      "confidence": "line",
+      "gemini_text": "Baltimore, Md.",
+      "surya_confidence": 0.977
+    },
+    {
+      "bbox": [
+        683,
+        1882,
+        1113,
+        1918
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=683,1882,430,36",
+      "confidence": "line",
+      "gemini_text": "Washington, D. C.",
+      "surya_confidence": 0.9847
+    },
+    {
+      "bbox": [
+        720,
+        1984,
+        1073,
+        2018
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=720,1984,353,34",
+      "confidence": "line",
+      "gemini_text": "Baltimore, Md.",
+      "surya_confidence": 0.9771
+    },
+    {
+      "bbox": [
+        685,
+        2083,
+        1116,
+        2120
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=685,2083,431,37",
+      "confidence": "line",
+      "gemini_text": "Washington, D. C.",
+      "surya_confidence": 0.9833
+    },
+    {
+      "bbox": [
+        689,
+        2181,
+        1113,
+        2222
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=689,2181,424,41",
+      "confidence": "line",
+      "gemini_text": "Kansas City, Mo.",
+      "surya_confidence": 0.9875
+    },
+    {
+      "bbox": [
+        691,
+        2285,
+        1108,
+        2319
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=691,2285,417,34",
+      "confidence": "line",
+      "gemini_text": "Jacksonville, Fla.",
+      "surya_confidence": 0.9792
+    },
+    {
+      "bbox": [
+        764,
+        2384,
+        1035,
+        2419
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=764,2384,271,35",
+      "confidence": "line",
+      "gemini_text": "Macon, Ga.",
+      "surya_confidence": 0.9935
+    },
+    {
+      "bbox": [
+        715,
+        2482,
+        1090,
+        2520
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=715,2482,375,38",
+      "confidence": "line",
+      "gemini_text": "Columbia, S. C.",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        692,
+        2577,
+        1114,
+        2624
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=692,2577,422,47",
+      "confidence": "line",
+      "gemini_text": "Indian Territory.",
+      "surya_confidence": 0.9779
+    },
+    {
+      "bbox": [
+        749,
+        2683,
+        1055,
+        2721
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=749,2683,306,38",
+      "confidence": "line",
+      "gemini_text": "Norfolk, Va.",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        222,
+        828,
+        1575,
+        866
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=222,828,1353,38",
+      "confidence": "line",
+      "gemini_text": "111. Thornton A. Jackson .....M. P. S. Grand Commander",
+      "surya_confidence": 0.9899
+    },
+    {
+      "bbox": [
+        222,
+        927,
+        1575,
+        968
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=222,927,1353,41",
+      "confidence": "line",
+      "gemini_text": "I11. J. L. H. Smith.....M. P. Lieut. Grand Commander",
+      "surya_confidence": 0.9917
+    },
+    {
+      "bbox": [
+        220,
+        1027,
+        1578,
+        1069
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=220,1027,1358,42",
+      "confidence": "line",
+      "gemini_text": "Ill. James H. Hill...........Grand Prior",
+      "surya_confidence": 0.9946
+    },
+    {
+      "bbox": [
+        220,
+        1125,
+        1575,
+        1175
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=220,1125,1355,50",
+      "confidence": "line",
+      "gemini_text": "111. D. R. Stokes...........Grand Chancellor",
+      "surya_confidence": 0.9877
+    },
+    {
+      "bbox": [
+        226,
+        1226,
+        1580,
+        1274
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=226,1226,1354,48",
+      "confidence": "line",
+      "gemini_text": "I11. A. W. Tancil...........Grand Minister of State",
+      "surya_confidence": 0.9941
+    },
+    {
+      "bbox": [
+        223,
+        1330,
+        1584,
+        1371
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=223,1330,1361,41",
+      "confidence": "line",
+      "gemini_text": "I11. J. P. Evans...........Grand Treasurer General",
+      "surya_confidence": 0.9389
+    },
+    {
+      "bbox": [
+        222,
+        1430,
+        1576,
+        1477
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=222,1430,1354,47",
+      "confidence": "line",
+      "gemini_text": "Ill. James O. Bampfield...........Grand Secretary General",
+      "surya_confidence": 0.9956
+    },
+    {
+      "bbox": [
+        223,
+        1529,
+        1577,
+        1578
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=223,1529,1354,49",
+      "confidence": "line",
+      "gemini_text": "I11. Major D. Meekins...........Grand Almoner",
+      "surya_confidence": 0.9234
+    },
+    {
+      "bbox": [
+        223,
+        1629,
+        1577,
+        1679
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=223,1629,1354,50",
+      "confidence": "line",
+      "gemini_text": "Ill. S. Roger Watts...........Grand Auditor General",
+      "surya_confidence": 0.9828
+    },
+    {
+      "bbox": [
+        223,
+        1729,
+        1583,
+        1777
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=223,1729,1360,48",
+      "confidence": "line",
+      "gemini_text": "111. A. A. Watts...........Assistant Grand Auditor General",
+      "surya_confidence": 0.9896
+    },
+    {
+      "bbox": [
+        226,
+        1833,
+        1578,
+        1875
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=226,1833,1352,42",
+      "confidence": "line",
+      "gemini_text": "Ill. John N. Dorster...........Grand Master of Ceremonies",
+      "surya_confidence": 0.9914
+    },
+    {
+      "bbox": [
+        223,
+        1936,
+        1581,
+        1975
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=223,1936,1358,39",
+      "confidence": "line",
+      "gemini_text": "Ill. J. H. Murphy...........Grand Captain of the Guards",
+      "surya_confidence": 0.8428
+    },
+    {
+      "bbox": [
+        228,
+        2035,
+        1579,
+        2074
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=228,2035,1351,39",
+      "confidence": "line",
+      "gemini_text": "111. Hamilton S. Smith...........Grand Chamberlain",
+      "surya_confidence": 0.9941
+    },
+    {
+      "bbox": [
+        228,
+        2135,
+        1584,
+        2177
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=228,2135,1356,42",
+      "confidence": "line",
+      "gemini_text": "Ill. Thomas A. Jackson...........First Grand Equary",
+      "surya_confidence": 0.9933
+    },
+    {
+      "bbox": [
+        228,
+        2237,
+        1581,
+        2276
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=228,2237,1353,39",
+      "confidence": "line",
+      "gemini_text": "Ill. John H. Dickerson...........Second Grand Equary",
+      "surya_confidence": 0.9866
+    },
+    {
+      "bbox": [
+        228,
+        2337,
+        1581,
+        2377
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=228,2337,1353,40",
+      "confidence": "line",
+      "gemini_text": "Ill. John H. Walker...........Grand Standard Bearer",
+      "surya_confidence": 0.9919
+    },
+    {
+      "bbox": [
+        228,
+        2434,
+        1582,
+        2475
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=228,2434,1354,41",
+      "confidence": "line",
+      "gemini_text": "I11. Charles C. Johnson.....Grand Sword Bearer",
+      "surya_confidence": 0.9909
+    },
+    {
+      "bbox": [
+        225,
+        2538,
+        1576,
+        2573
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=225,2538,1351,35",
+      "confidence": "line",
+      "gemini_text": "111. L. A. Bell...........Grand Herald",
+      "surya_confidence": 0.9715
+    },
+    {
+      "bbox": [
+        226,
+        2639,
+        1579,
+        2675
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:048#xywh=226,2639,1353,36",
+      "confidence": "line",
+      "gemini_text": "Ill. John Moore...........Grand Tiler",
+      "surya_confidence": 0.9896
+    }
+  ],
+  "unmatched_gemini": []
+}

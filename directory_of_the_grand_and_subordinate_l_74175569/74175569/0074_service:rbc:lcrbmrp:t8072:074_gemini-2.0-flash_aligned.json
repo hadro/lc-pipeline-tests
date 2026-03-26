@@ -1,0 +1,243 @@
+{
+  "image": "0074_service:rbc:lcrbmrp:t8072:074.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:074",
+  "canvas_width": 1798,
+  "canvas_height": 2986,
+  "surya_median_confidence": 0.9891,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        546,
+        567,
+        1261,
+        602
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:074#xywh=546,567,715,35",
+      "confidence": "line",
+      "gemini_text": "OFFICERS AND MEMBERS",
+      "surya_confidence": 0.8493
+    },
+    {
+      "bbox": [
+        644,
+        859,
+        1173,
+        897
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:074#xywh=644,859,529,38",
+      "confidence": "line",
+      "gemini_text": "Meets Second Monday.",
+      "surya_confidence": 0.9794
+    },
+    {
+      "bbox": [
+        663,
+        1838,
+        1132,
+        1873
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:074#xywh=663,1838,469,35",
+      "confidence": "line",
+      "gemini_text": "PAST OFFICERS.",
+      "surya_confidence": 0.9575
+    },
+    {
+      "bbox": [
+        695,
+        2679,
+        1105,
+        2774
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:074#xywh=695,2679,410,95",
+      "confidence": "line",
+      "gemini_text": "Mary E. Brent........................P. M. A. M.",
+      "surya_confidence": 0.9546
+    },
+    {
+      "bbox": [
+        1471,
+        2010,
+        1514,
+        2034
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:074#xywh=1471,2010,43,24",
+      "confidence": "line",
+      "gemini_text": "Mary E. Green........................“ “",
+      "surya_confidence": 0.9921
+    },
+    {
+      "bbox": [
+        1469,
+        2101,
+        1511,
+        2123
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:074#xywh=1469,2101,42,22",
+      "confidence": "line",
+      "gemini_text": "Elizabeth Skinner........................“ “",
+      "surya_confidence": 0.9886
+    },
+    {
+      "bbox": [
+        1468,
+        2187,
+        1510,
+        2211
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:074#xywh=1468,2187,42,24",
+      "confidence": "line",
+      "gemini_text": "Anna V. Thomas ........................“ “",
+      "surya_confidence": 0.9905
+    },
+    {
+      "bbox": [
+        1471,
+        2277,
+        1513,
+        2301
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:074#xywh=1471,2277,42,24",
+      "confidence": "line",
+      "gemini_text": "Margaret Ferguson........................“ “",
+      "surya_confidence": 0.9862
+    },
+    {
+      "bbox": [
+        1415,
+        2374,
+        1573,
+        2402
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:074#xywh=1415,2374,158,28",
+      "confidence": "line",
+      "gemini_text": "Helen Jackson........................“ V. M.",
+      "surya_confidence": 0.9275
+    },
+    {
+      "bbox": [
+        295,
+        745,
+        1516,
+        811
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:074#xywh=295,745,1221,66",
+      "confidence": "line",
+      "gemini_text": "Zerubbabel Court No. 1, Heroines of Jericho,",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        230,
+        941,
+        1578,
+        993
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:074#xywh=230,941,1348,52",
+      "confidence": "line",
+      "gemini_text": "Ella L. Wayne........................Most Ancient Matron",
+      "surya_confidence": 0.9966
+    },
+    {
+      "bbox": [
+        230,
+        1030,
+        1577,
+        1077
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:074#xywh=230,1030,1347,47",
+      "confidence": "line",
+      "gemini_text": "Paulettia Goines.......................Vice Ancient Matron",
+      "surya_confidence": 0.9953
+    },
+    {
+      "bbox": [
+        230,
+        1126,
+        1574,
+        1165
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:074#xywh=230,1126,1344,39",
+      "confidence": "line",
+      "gemini_text": "Thornton A. Jackson........................W. F. J.",
+      "surya_confidence": 0.9958
+    },
+    {
+      "bbox": [
+        227,
+        1210,
+        1575,
+        1261
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:074#xywh=227,1210,1348,51",
+      "confidence": "line",
+      "gemini_text": "Humphrey P. Jackson........................V. F. J.",
+      "surya_confidence": 0.9879
+    },
+    {
+      "bbox": [
+        226,
+        1300,
+        1577,
+        1347
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:074#xywh=226,1300,1351,47",
+      "confidence": "line",
+      "gemini_text": "Helen Jackson........................Treasurer",
+      "surya_confidence": 0.9925
+    },
+    {
+      "bbox": [
+        229,
+        1391,
+        1579,
+        1433
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:074#xywh=229,1391,1350,42",
+      "confidence": "line",
+      "gemini_text": "Julia A. Jackson .................Secretary, 429 6½ St., S. W",
+      "surya_confidence": 0.9966
+    },
+    {
+      "bbox": [
+        224,
+        1474,
+        1577,
+        1520
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:074#xywh=224,1474,1353,46",
+      "confidence": "line",
+      "gemini_text": "Lettie Banks........................Senior Conductor",
+      "surya_confidence": 0.9937
+    },
+    {
+      "bbox": [
+        229,
+        1570,
+        1574,
+        1608
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:074#xywh=229,1570,1345,38",
+      "confidence": "line",
+      "gemini_text": "Marian Jefferds........................Junior Conductor",
+      "surya_confidence": 0.9891
+    },
+    {
+      "bbox": [
+        224,
+        2462,
+        1170,
+        2497
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:074#xywh=224,2462,946,35",
+      "confidence": "line",
+      "gemini_text": "Mamie Hill........................“ “",
+      "surya_confidence": 0.9505
+    }
+  ],
+  "unmatched_gemini": [
+    "OF",
+    "65"
+  ]
+}

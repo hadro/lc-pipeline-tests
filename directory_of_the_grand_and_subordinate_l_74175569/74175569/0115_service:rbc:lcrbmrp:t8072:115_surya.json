@@ -1,0 +1,336 @@
+{
+  "image_width": 1888,
+  "image_height": 2982,
+  "lines": [
+    {
+      "bbox": [
+        774,
+        333,
+        1320,
+        386
+      ],
+      "text": "JESSE H. FOSTER,",
+      "confidence": 0.8595
+    },
+    {
+      "bbox": [
+        460,
+        423,
+        1638,
+        478
+      ],
+      "text": "CATERER AND CONFECTIONER,",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        611,
+        500,
+        1475,
+        556
+      ],
+      "text": "1120 20th St N. W., Washington, D. C.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        371,
+        577,
+        817,
+        625
+      ],
+      "text": "Weddings,",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        871,
+        588,
+        1143,
+        626
+      ],
+      "text": "Lunches,",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        1356,
+        592,
+        1626,
+        630
+      ],
+      "text": "Receptions,",
+      "confidence": 0.9863
+    },
+    {
+      "bbox": [
+        501,
+        635,
+        739,
+        677
+      ],
+      "text": "Dinners,",
+      "confidence": 0.9912
+    },
+    {
+      "bbox": [
+        959,
+        646,
+        1194,
+        683
+      ],
+      "text": "Banquets,",
+      "confidence": 0.9723
+    },
+    {
+      "bbox": [
+        1574,
+        650,
+        1721,
+        684
+      ],
+      "text": "Balls.",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        705,
+        705,
+        1394,
+        755
+      ],
+      "text": "Supplied with every requisite.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        606,
+        771,
+        1476,
+        825
+      ],
+      "text": "Theatre Parties Served at your Home.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        409,
+        846,
+        1715,
+        905
+      ],
+      "text": "A large and elegant service of China, Glasses, Linen and",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        365,
+        887,
+        1420,
+        947
+      ],
+      "text": "Silverware can be rented at reasonable prices.",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        409,
+        935,
+        1717,
+        995
+      ],
+      "text": "All orders by mail or telephone will receive our prompt",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        366,
+        983,
+        944,
+        1027
+      ],
+      "text": "and personal supervision.",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        625,
+        1049,
+        1445,
+        1103
+      ],
+      "text": "'PHONE CALL, NORTH 1221-Y.",
+      "confidence": 0.9123
+    },
+    {
+      "bbox": [
+        753,
+        1166,
+        1320,
+        1218
+      ],
+      "text": "THOMAS L. JONES.",
+      "confidence": 0.9839
+    },
+    {
+      "bbox": [
+        609,
+        1252,
+        1459,
+        1310
+      ],
+      "text": "Attorney at Law and Conveyancer,",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        403,
+        1350,
+        1665,
+        1407
+      ],
+      "text": "Practices in All Courts of the District of Columbia.",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        711,
+        1470,
+        1360,
+        1520
+      ],
+      "text": "Office, 616 D Street N. W.",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        830,
+        1580,
+        1221,
+        1633
+      ],
+      "text": "R. W. DUNN,",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        353,
+        1662,
+        1707,
+        1730
+      ],
+      "text": "Wholesale and Retail Dealer in Wood, Coal and Coke,",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        535,
+        1755,
+        1522,
+        1817
+      ],
+      "text": "Office and Yard, 5th and G Streets S. E.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        737,
+        1847,
+        1361,
+        1901
+      ],
+      "text": "Telephone, East 128-D.",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        354,
+        1985,
+        790,
+        2021
+      ],
+      "text": "WM. A. BALTIMORE.",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        1294,
+        1997,
+        1695,
+        2030
+      ],
+      "text": "HENRY H. BANKS.",
+      "confidence": 0.9256
+    },
+    {
+      "bbox": [
+        678,
+        2157,
+        1360,
+        2218
+      ],
+      "text": "BALTIMORE & BANKS,",
+      "confidence": 0.955
+    },
+    {
+      "bbox": [
+        598,
+        2246,
+        1454,
+        2308
+      ],
+      "text": "BOOK AND JOB PRINTERS,",
+      "confidence": 0.9761
+    },
+    {
+      "bbox": [
+        481,
+        2344,
+        1558,
+        2407
+      ],
+      "text": "Special Rates to Churches, Clubs and Societies.",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        707,
+        2441,
+        1338,
+        2488
+      ],
+      "text": "Cor. 3d and F Sts. S. W.",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        347,
+        2634,
+        931,
+        2667
+      ],
+      "text": "WORK NEATLY EXECUTED.",
+      "confidence": 0.9311
+    },
+    {
+      "bbox": [
+        1223,
+        2644,
+        1690,
+        2675
+      ],
+      "text": "PRICES REASONABLE.",
+      "confidence": 0.9621
+    },
+    {
+      "bbox": [
+        977,
+        2682,
+        1054,
+        2711
+      ],
+      "text": "106",
+      "confidence": 0.9587
+    }
+  ]
+}

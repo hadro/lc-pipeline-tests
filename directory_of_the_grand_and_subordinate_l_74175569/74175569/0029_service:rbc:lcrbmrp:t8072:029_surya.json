@@ -1,0 +1,166 @@
+{
+  "image_width": 1824,
+  "image_height": 2925,
+  "lines": [
+    {
+      "bbox": [
+        191,
+        337,
+        497,
+        372
+      ],
+      "text": "W. H. MOSES.",
+      "confidence": 0.9836
+    },
+    {
+      "bbox": [
+        632,
+        345,
+        930,
+        375
+      ],
+      "text": "H. C. MOSES.",
+      "confidence": 0.982
+    },
+    {
+      "bbox": [
+        1109,
+        351,
+        1398,
+        381
+      ],
+      "text": "A. C. MOSES.",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        314,
+        618,
+        1238,
+        700
+      ],
+      "text": "W. B. MOSES & SONS,",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        182,
+        732,
+        1407,
+        814
+      ],
+      "text": "Furniture, Carpets, Upholsteries",
+      "confidence": 0.9759
+    },
+    {
+      "bbox": [
+        485,
+        850,
+        1105,
+        918
+      ],
+      "text": "and Wall Papers.",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        298,
+        955,
+        1274,
+        1024
+      ],
+      "text": "Cor. 11th and F Streets, N. W.,",
+      "confidence": 0.9924
+    },
+    {
+      "bbox": [
+        488,
+        1059,
+        1089,
+        1122
+      ],
+      "text": "Washington, D. C.",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        254,
+        1356,
+        1353,
+        1428
+      ],
+      "text": "Storage Warehouse, 22d and M Sts.",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        190,
+        1529,
+        1402,
+        1659
+      ],
+      "text": "Saks & Company,",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        459,
+        1726,
+        1122,
+        1786
+      ],
+      "text": "Leaders Since 1867.",
+      "confidence": 0.9723
+    },
+    {
+      "bbox": [
+        181,
+        1942,
+        1396,
+        2026
+      ],
+      "text": "Everything Men and Boys Wear,",
+      "confidence": 0.965
+    },
+    {
+      "bbox": [
+        352,
+        2080,
+        1232,
+        2158
+      ],
+      "text": "The Best of Everything.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        401,
+        2214,
+        1173,
+        2287
+      ],
+      "text": "At Consistent Prices.",
+      "confidence": 0.9788
+    },
+    {
+      "bbox": [
+        158,
+        2507,
+        1396,
+        2601
+      ],
+      "text": "Penna. Ave. and 7th St.",
+      "confidence": 0.9852
+    },
+    {
+      "bbox": [
+        760,
+        2619,
+        814,
+        2651
+      ],
+      "text": "20",
+      "confidence": 0.9923
+    }
+  ]
+}

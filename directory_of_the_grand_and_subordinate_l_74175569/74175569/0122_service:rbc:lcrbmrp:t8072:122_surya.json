@@ -1,0 +1,306 @@
+{
+  "image_width": 1823,
+  "image_height": 2990,
+  "lines": [
+    {
+      "bbox": [
+        406,
+        387,
+        1357,
+        472
+      ],
+      "text": "ROSTER GRAND CHAPTER, O.E. S.,",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        815,
+        472,
+        951,
+        516
+      ],
+      "text": "1904.",
+      "confidence": 0.9805
+    },
+    {
+      "bbox": [
+        406,
+        540,
+        1357,
+        617
+      ],
+      "text": "James O. Bampfield .... Grand Royal Patron",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        733,
+        596,
+        1046,
+        642
+      ],
+      "text": "1119 V st. nw.",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        408,
+        652,
+        1361,
+        726
+      ],
+      "text": "Elizabeth W. Marshall...Grand Royal Matron",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        738,
+        708,
+        1045,
+        756
+      ],
+      "text": "1203 K st. nw.",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        410,
+        775,
+        1362,
+        852
+      ],
+      "text": "Ellen L. Wayne......Grand Secretary",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        673,
+        828,
+        1094,
+        886
+      ],
+      "text": "315 East Capitol st.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        467,
+        878,
+        1305,
+        949
+      ],
+      "text": "Annual Meeting, Tuesday, May 24, 1904.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        412,
+        1073,
+        1363,
+        1154
+      ],
+      "text": "Queen Esther Chapter, No. 1, O. E. S.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        410,
+        1158,
+        1362,
+        1230
+      ],
+      "text": "Mary Alice Parker.....Royal Matron",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        736,
+        1212,
+        1013,
+        1262
+      ],
+      "text": "212 E st. sw.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        417,
+        1269,
+        1367,
+        1343
+      ],
+      "text": "Henry C. Irving, Royal Patron, 410 D st. se.",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        413,
+        1349,
+        1369,
+        1420
+      ],
+      "text": "Georgina Gleaves, Secretary, 126 Carroll st. se.",
+      "confidence": 0.9984
+    },
+    {
+      "bbox": [
+        681,
+        1432,
+        1107,
+        1488
+      ],
+      "text": "Meets Third Friday.",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        419,
+        1661,
+        1370,
+        1732
+      ],
+      "text": "Queen of Sheba Chapter, No. 3, O. E. S.",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        419,
+        1743,
+        1371,
+        1812
+      ],
+      "text": "Sarah E. Evans.....Royal Matron",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        677,
+        1793,
+        1104,
+        1848
+      ],
+      "text": "817 Cottage Hill, ne.",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        419,
+        1858,
+        1373,
+        1918
+      ],
+      "text": "Wm. A. Baltimore, Royal Patron, 71 Gst. sw.",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        418,
+        1936,
+        1377,
+        1995
+      ],
+      "text": "Gertrude L. Baltimore, Secretary, 71 G st. sw.",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        681,
+        2019,
+        1129,
+        2071
+      ],
+      "text": "Meets Third Monday.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        423,
+        2249,
+        1377,
+        2328
+      ],
+      "text": "Gethsemane Chapter, No. 4, O. E. S.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        424,
+        2338,
+        1377,
+        2406
+      ],
+      "text": "Hannah Stevenson .... Royal Matron",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        755,
+        2395,
+        1048,
+        2431
+      ],
+      "text": "1612 11th nw.",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        423,
+        2451,
+        1377,
+        2510
+      ],
+      "text": "John F. N. Wilkinson ...... Royal Patron",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        759,
+        2507,
+        1034,
+        2543
+      ],
+      "text": "901 E st. sw.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        482,
+        2576,
+        1334,
+        2633
+      ],
+      "text": "Bertha N. Gray, Secretary, 1634 4th nw.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        611,
+        2658,
+        1153,
+        2708
+      ],
+      "text": "Meets Third Wednesday.",
+      "confidence": 0.9792
+    },
+    {
+      "bbox": [
+        872,
+        2720,
+        950,
+        2756
+      ],
+      "text": "113",
+      "confidence": 0.9827
+    },
+    {
+      "bbox": [
+        454,
+        2912,
+        551,
+        2922
+      ],
+      "text": "State of the State of",
+      "confidence": 0.1239
+    }
+  ]
+}

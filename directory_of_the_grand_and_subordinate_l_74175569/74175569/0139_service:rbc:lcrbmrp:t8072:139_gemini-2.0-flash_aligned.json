@@ -1,0 +1,132 @@
+{
+  "image": "0139_service:rbc:lcrbmrp:t8072:139.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:139",
+  "canvas_width": 1817,
+  "canvas_height": 2975,
+  "surya_median_confidence": 0.9997,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        312,
+        348,
+        1666,
+        475
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:139#xywh=312,348,1354,127",
+      "confidence": "line",
+      "gemini_text": "Independent Order of St. Luke.",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        259,
+        2110,
+        1612,
+        2210
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:139#xywh=259,2110,1353,100",
+      "confidence": "line",
+      "gemini_text": "HOME OFFICE, 900-902-904 ST. JAMES ST. RICHMOND, VA.",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        304,
+        2236,
+        1611,
+        2322
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:139#xywh=304,2236,1307,86",
+      "confidence": "line",
+      "gemini_text": "A Co-operative, Progressive, Business Organization oper-",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        259,
+        2277,
+        1611,
+        2370
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:139#xywh=259,2277,1352,93",
+      "confidence": "line",
+      "gemini_text": "ating a Sick and Endowment Department, Juvenile Sick",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        259,
+        2321,
+        1603,
+        2416
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:139#xywh=259,2321,1344,95",
+      "confidence": "line",
+      "gemini_text": "and Endowment Department, Official Supply Department,",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        259,
+        2365,
+        1602,
+        2458
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:139#xywh=259,2365,1343,93",
+      "confidence": "line",
+      "gemini_text": "Printing and Publishing Department, and Savings Bank.",
+      "surya_confidence": 0.9999
+    },
+    {
+      "bbox": [
+        384,
+        2453,
+        1474,
+        2531
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:139#xywh=384,2453,1090,78",
+      "confidence": "line",
+      "gemini_text": "JOSEPHINE D. CHAMBERS, R. W. Grand Chief.",
+      "surya_confidence": 0.6482
+    },
+    {
+      "bbox": [
+        579,
+        2528,
+        1275,
+        2589
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:139#xywh=579,2528,696,61",
+      "confidence": "line",
+      "gemini_text": "EMMETT C. BURKE, Cashier.",
+      "surya_confidence": 0.9584
+    },
+    {
+      "bbox": [
+        382,
+        2589,
+        1473,
+        2666
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:139#xywh=382,2589,1091,77",
+      "confidence": "line",
+      "gemini_text": "MAGGIE L. WALKER, R. W. Grand Secretary,",
+      "surya_confidence": 0.998
+    },
+    {
+      "bbox": [
+        485,
+        2650,
+        1381,
+        2722
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:139#xywh=485,2650,896,72",
+      "confidence": "line",
+      "gemini_text": "and President St. Luke Savings Bank.",
+      "surya_confidence": 0.9998
+    }
+  ],
+  "unmatched_gemini": []
+}

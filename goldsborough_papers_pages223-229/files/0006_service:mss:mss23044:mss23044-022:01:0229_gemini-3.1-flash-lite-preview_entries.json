@@ -1,0 +1,307 @@
+{
+  "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "multimodal",
+  "prior_context": {
+    "vessel_identity": "Razee Sloop",
+    "section_title": "Watch-bill",
+    "subsection": "Forecastle"
+  },
+  "page_context": {
+    "vessel_identity": "Razee Sloop",
+    "section_title": "Armaments",
+    "subsection": "General"
+  },
+  "entries": [
+    {
+      "vessel_identity": "Constellation",
+      "section_title": "Armaments",
+      "subsection": "General",
+      "item_label": "10-in gun",
+      "value": "2",
+      "details": "87 cwt, 12000 lbs",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Constellation",
+      "section_title": "Armaments",
+      "subsection": "General",
+      "item_label": "8-in gun",
+      "value": "16",
+      "details": "63 cwt",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Constellation",
+      "section_title": "Armaments",
+      "subsection": "General",
+      "item_label": "32-pdr",
+      "value": "4",
+      "details": "57 cwt",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Macedonian",
+      "section_title": "Armaments",
+      "subsection": "General",
+      "item_label": "X-in gun",
+      "value": "2",
+      "details": "12000 lbs",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Macedonian",
+      "section_title": "Armaments",
+      "subsection": "General",
+      "item_label": "8-in gun",
+      "value": "16",
+      "details": "63 cwt",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Macedonian",
+      "section_title": "Armaments",
+      "subsection": "General",
+      "item_label": "32-pdr",
+      "value": "4",
+      "details": "57 cwt",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Cumberland",
+      "section_title": "Armaments",
+      "subsection": "General",
+      "item_label": "X-in gun",
+      "value": "2",
+      "details": "12000 lbs",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Cumberland",
+      "section_title": "Armaments",
+      "subsection": "General",
+      "item_label": "8-in gun",
+      "value": "6",
+      "details": "63 cwt",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Cumberland",
+      "section_title": "Armaments",
+      "subsection": "General",
+      "item_label": "32-pdr",
+      "value": "16",
+      "details": "57 cwt",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Savannah",
+      "section_title": "Armaments",
+      "subsection": "General",
+      "item_label": "X-in gun",
+      "value": "2",
+      "details": "12000 lbs",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Savannah",
+      "section_title": "Armaments",
+      "subsection": "General",
+      "item_label": "8-in gun",
+      "value": "8",
+      "details": "63 cwt",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Savannah",
+      "section_title": "Armaments",
+      "subsection": "General",
+      "item_label": "32-pdr",
+      "value": "14",
+      "details": "57 cwt",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Brooklyn",
+      "section_title": "Armaments",
+      "subsection": "General",
+      "item_label": "X-in gun",
+      "value": "2",
+      "details": "12000 lbs",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Brooklyn",
+      "section_title": "Armaments",
+      "subsection": "General",
+      "item_label": "IX-in gun",
+      "value": "16",
+      "details": "9000 lbs",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "San Jacinto",
+      "section_title": "Armaments",
+      "subsection": "General",
+      "item_label": "8-in gun",
+      "value": "10",
+      "details": "55 cwt",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "San Jacinto",
+      "section_title": "Armaments",
+      "subsection": "General",
+      "item_label": "32-pdr",
+      "value": "2",
+      "details": "57 cwt",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "San Jacinto",
+      "section_title": "Armaments",
+      "subsection": "General",
+      "item_label": "64-pdr",
+      "value": "1",
+      "details": "107 cwt",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Saranac",
+      "section_title": "Armaments",
+      "subsection": "General",
+      "item_label": "64-pdr",
+      "value": "2",
+      "details": "106 cwt",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Saranac",
+      "section_title": "Armaments",
+      "subsection": "General",
+      "item_label": "8-in gun",
+      "value": "4",
+      "details": "55 cwt",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Manning of Guns",
+      "subsection": "General",
+      "item_label": "XI-inch gun",
+      "value": "24 men",
+      "details": "16000 lbs, 1 Powder Man",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Manning of Guns",
+      "subsection": "General",
+      "item_label": "X-inch gun",
+      "value": "20 men",
+      "details": "12000 lbs, 1 Powder Man",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Manning of Guns",
+      "subsection": "General",
+      "item_label": "IX-inch gun",
+      "value": "16 men",
+      "details": "9000 lbs, 1 Powder Man",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Manning of Guns",
+      "subsection": "General",
+      "item_label": "64-pdr",
+      "value": "16 men",
+      "details": "106 cwt, 1 Powder Boy",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Manning of Guns",
+      "subsection": "General",
+      "item_label": "8-in gun",
+      "value": "14 men",
+      "details": "63 cwt, 1 Powder Boy",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Manning of Guns",
+      "subsection": "General",
+      "item_label": "8-in gun",
+      "value": "12 men",
+      "details": "55 cwt, 1 Powder Boy",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Manning of Guns",
+      "subsection": "General",
+      "item_label": "32-pdr",
+      "value": "12 men",
+      "details": "57 cwt, 1 Boy",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Manning of Guns",
+      "subsection": "General",
+      "item_label": "32-pdr",
+      "value": "10 men",
+      "details": "42 & 46 cwt, 1 Boy",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Manning of Guns",
+      "subsection": "General",
+      "item_label": "32-pdr",
+      "value": "8 men",
+      "details": "33 cwt, 1 Boy",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    },
+    {
+      "vessel_identity": "Razee Sloop",
+      "section_title": "Manning of Guns",
+      "subsection": "General",
+      "item_label": "32-pdr",
+      "value": "6 men",
+      "details": "27 cwt, 1 Boy",
+      "canvas_fragment": "",
+      "image": "0006_service:mss:mss23044:mss23044-022:01:0229.jpg"
+    }
+  ]
+}

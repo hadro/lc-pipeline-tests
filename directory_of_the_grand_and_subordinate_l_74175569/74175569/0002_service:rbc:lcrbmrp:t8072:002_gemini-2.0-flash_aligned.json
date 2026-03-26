@@ -1,0 +1,40 @@
+{
+  "image": "0002_service:rbc:lcrbmrp:t8072:002.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:002",
+  "canvas_width": 2021,
+  "canvas_height": 3020,
+  "surya_median_confidence": 0.8678,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        415,
+        781,
+        1553,
+        1791
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:002#xywh=415,781,1138,1010",
+      "confidence": "line",
+      "gemini_text": "BY COLORED AUTHORS",
+      "surya_confidence": 0.9616
+    },
+    {
+      "bbox": [
+        1469,
+        416,
+        1764,
+        636
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:002#xywh=1469,416,295,220",
+      "confidence": "line",
+      "gemini_text": "A\\ Mason",
+      "surya_confidence": 0.774
+    }
+  ],
+  "unmatched_gemini": [
+    "LIBRARY OF CONGRESS",
+    "COLLECTION OF BOOKS",
+    "/32"
+  ]
+}

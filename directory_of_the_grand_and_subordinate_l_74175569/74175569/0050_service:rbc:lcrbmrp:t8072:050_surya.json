@@ -1,0 +1,236 @@
+{
+  "image_width": 1835,
+  "image_height": 2990,
+  "lines": [
+    {
+      "bbox": [
+        489,
+        310,
+        1351,
+        376
+      ],
+      "text": "•A. and A. S. Rite Masons•",
+      "confidence": 0.5478
+    },
+    {
+      "bbox": [
+        470,
+        381,
+        583,
+        438
+      ],
+      "text": "Man Mari",
+      "confidence": 0.2262
+    },
+    {
+      "bbox": [
+        926,
+        394,
+        1200,
+        452
+      ],
+      "text": "7 78 /",
+      "confidence": 0.4793
+    },
+    {
+      "bbox": [
+        236,
+        639,
+        1599,
+        697
+      ],
+      "text": "Jonathan Davis Consistory, No. 1, Sublime Princes",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        645,
+        697,
+        1189,
+        772
+      ],
+      "text": "of the Royal Secret,",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        493,
+        838,
+        1338,
+        876
+      ],
+      "text": "Meets Fourth Monday in each Month.",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        357,
+        928,
+        1601,
+        979
+      ],
+      "text": "John F. N. Wilkinson ........... Commander-in-chief",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        247,
+        938,
+        331,
+        970
+      ],
+      "text": "I11.",
+      "confidence": 0.4252
+    },
+    {
+      "bbox": [
+        354,
+        1019,
+        1598,
+        1071
+      ],
+      "text": "Henry C. Irvin.......1st Lieut. Commander",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        243,
+        1027,
+        334,
+        1062
+      ],
+      "text": "I11.",
+      "confidence": 0.7765
+    },
+    {
+      "bbox": [
+        333,
+        1109,
+        1596,
+        1162
+      ],
+      "text": "Paul H. Bray....................................",
+      "confidence": 0.9973
+    },
+    {
+      "bbox": [
+        241,
+        1119,
+        328,
+        1151
+      ],
+      "text": "All.",
+      "confidence": 0.9236
+    },
+    {
+      "bbox": [
+        241,
+        1203,
+        1591,
+        1245
+      ],
+      "text": "Ill. Walter J. Abrams.....Gr. Sec'y. and K. of S. and A.",
+      "confidence": 0.9944
+    },
+    {
+      "bbox": [
+        620,
+        1261,
+        1221,
+        1297
+      ],
+      "text": "1241 22d Street Northwest",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        408,
+        1529,
+        1484,
+        1576
+      ],
+      "text": "Zoroaster Council, Knights of Kadosh,",
+      "confidence": 0.9136
+    },
+    {
+      "bbox": [
+        325,
+        1631,
+        1518,
+        1675
+      ],
+      "text": "Meets Quarterly, January, April, July and October.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        354,
+        1909,
+        1486,
+        1959
+      ],
+      "text": "Budha Chapter Knights of the Rose Croix,",
+      "confidence": 0.8631
+    },
+    {
+      "bbox": [
+        241,
+        2039,
+        1591,
+        2078
+      ],
+      "text": "Meets quarterly or upon call of the M. W. and P. Master.",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        305,
+        2305,
+        1526,
+        2352
+      ],
+      "text": "Gallahad Lodge of Perfection, Grand E. P. and",
+      "confidence": 0.9889
+    },
+    {
+      "bbox": [
+        764,
+        2376,
+        1061,
+        2417
+      ],
+      "text": "S. Masons,",
+      "confidence": 0.9716
+    },
+    {
+      "bbox": [
+        342,
+        2472,
+        1484,
+        2516
+      ],
+      "text": "Meets quarterly or upon call of the Thrice Pucient",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        740,
+        2542,
+        1081,
+        2576
+      ],
+      "text": "Grand Master.",
+      "confidence": 0.9117
+    },
+    {
+      "bbox": [
+        831,
+        2619,
+        998,
+        2674
+      ],
+      "text": "41",
+      "confidence": 0.9878
+    }
+  ]
+}

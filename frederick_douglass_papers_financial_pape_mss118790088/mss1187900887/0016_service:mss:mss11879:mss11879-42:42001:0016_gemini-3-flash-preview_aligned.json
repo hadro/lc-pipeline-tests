@@ -1,0 +1,256 @@
+{
+  "image": "0016_service:mss:mss11879:mss11879-42:42001:0016.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016",
+  "canvas_width": 1903,
+  "canvas_height": 1560,
+  "surya_median_confidence": 0.9196,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        974,
+        159,
+        1755,
+        225
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016#xywh=974,159,781,66",
+      "confidence": "line",
+      "gemini_text": "Jesus étant né à Bethléhem ville",
+      "surya_confidence": 0.9962
+    },
+    {
+      "bbox": [
+        991,
+        208,
+        1800,
+        334
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016#xywh=991,208,809,126",
+      "confidence": "line",
+      "gemini_text": "des mages d'Orient arrivèrent à",
+      "surya_confidence": 0.8554
+    },
+    {
+      "bbox": [
+        966,
+        366,
+        1710,
+        423
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016#xywh=966,366,744,57",
+      "confidence": "line",
+      "gemini_text": "2. Et dirent, où est les roi des",
+      "surya_confidence": 0.4891
+    },
+    {
+      "bbox": [
+        988,
+        421,
+        1778,
+        474
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016#xywh=988,421,790,53",
+      "confidence": "line",
+      "gemini_text": "Juifs qui est né, car nous avons vu",
+      "surya_confidence": 0.7233
+    },
+    {
+      "bbox": [
+        988,
+        472,
+        1773,
+        522
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016#xywh=988,472,785,50",
+      "confidence": "line",
+      "gemini_text": "son étoile en Orient nous sommes",
+      "surya_confidence": 0.7501
+    },
+    {
+      "bbox": [
+        985,
+        522,
+        1494,
+        575
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016#xywh=985,522,509,53",
+      "confidence": "line",
+      "gemini_text": "venus l'adorer.",
+      "surya_confidence": 0.5879
+    },
+    {
+      "bbox": [
+        985,
+        611,
+        1705,
+        673
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016#xywh=985,611,720,62",
+      "confidence": "line",
+      "gemini_text": "3. Le roi Hérode l'ayant appris,",
+      "surya_confidence": 0.9955
+    },
+    {
+      "bbox": [
+        1046,
+        668,
+        1737,
+        725
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016#xywh=1046,668,691,57",
+      "confidence": "line",
+      "gemini_text": "en fut troublé et tout Jérusalem",
+      "surya_confidence": 0.9969
+    },
+    {
+      "bbox": [
+        1053,
+        732,
+        1271,
+        773
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016#xywh=1053,732,218,41",
+      "confidence": "line",
+      "gemini_text": "avec lui.",
+      "surya_confidence": 0.9961
+    },
+    {
+      "bbox": [
+        990,
+        774,
+        1829,
+        827
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016#xywh=990,774,839,53",
+      "confidence": "line",
+      "gemini_text": "4. Et ayant assemblé tout les principaux",
+      "surya_confidence": 0.9987
+    },
+    {
+      "bbox": [
+        1068,
+        828,
+        1759,
+        878
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016#xywh=1068,828,691,50",
+      "confidence": "line",
+      "gemini_text": "sacrificateurs et les scribes, il s'",
+      "surya_confidence": 0.7077
+    },
+    {
+      "bbox": [
+        1064,
+        875,
+        1782,
+        933
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016#xywh=1064,875,718,58",
+      "confidence": "line",
+      "gemini_text": "informa du peuple, il s'informa",
+      "surya_confidence": 0.8659
+    },
+    {
+      "bbox": [
+        1066,
+        928,
+        1720,
+        981
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016#xywh=1066,928,654,53",
+      "confidence": "line",
+      "gemini_text": "de d'eux où le Christ devait",
+      "surya_confidence": 0.9939
+    },
+    {
+      "bbox": [
+        1058,
+        988,
+        1367,
+        1026
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016#xywh=1058,988,309,38",
+      "confidence": "line",
+      "gemini_text": "naître",
+      "surya_confidence": 0.5381
+    },
+    {
+      "bbox": [
+        1004,
+        1026,
+        1659,
+        1076
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016#xywh=1004,1026,655,50",
+      "confidence": "line",
+      "gemini_text": "5. Et ils lui dirent, c'est à",
+      "surya_confidence": 0.9831
+    },
+    {
+      "bbox": [
+        1045,
+        1075,
+        1783,
+        1127
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016#xywh=1045,1075,738,52",
+      "confidence": "line",
+      "gemini_text": "Bethléhem, ville de Judée, car c'est",
+      "surya_confidence": 0.9978
+    },
+    {
+      "bbox": [
+        1008,
+        1231,
+        1777,
+        1281
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016#xywh=1008,1231,769,50",
+      "confidence": "line",
+      "gemini_text": "6. Et toi Bethléhem, terre de Juda tu",
+      "surya_confidence": 0.4899
+    },
+    {
+      "bbox": [
+        1055,
+        1275,
+        1681,
+        1327
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016#xywh=1055,1275,626,52",
+      "confidence": "line",
+      "gemini_text": "n'es pas la moindre entre les",
+      "surya_confidence": 0.9733
+    },
+    {
+      "bbox": [
+        1065,
+        1321,
+        1787,
+        1384
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016#xywh=1065,1321,722,63",
+      "confidence": "line",
+      "gemini_text": "principales villes de Juda: car c'est",
+      "surya_confidence": 0.9958
+    },
+    {
+      "bbox": [
+        1069,
+        1387,
+        1198,
+        1424
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0016#xywh=1069,1387,129,37",
+      "confidence": "line",
+      "gemini_text": "de toi",
+      "surya_confidence": 0.9942
+    }
+  ],
+  "unmatched_gemini": [
+    "de Judée, au temps du roi Hérode,",
+    "Jérusalem.",
+    "ainsi que l'a écrit un prophète:"
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "image": "0067_service:rbc:lcrbmrp:t8072:067.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067",
+  "canvas_width": 1898,
+  "canvas_height": 3005,
+  "surya_median_confidence": 0.9838,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        389,
+        404,
+        1591,
+        489
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=389,404,1202,85",
+      "confidence": "line",
+      "gemini_text": "The Most Superb Stock",
+      "surya_confidence": 0.9989
+    },
+    {
+      "bbox": [
+        1143,
+        529,
+        1200,
+        557
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=1143,529,57,28",
+      "confidence": "line",
+      "gemini_text": "OF",
+      "surya_confidence": 0.953
+    },
+    {
+      "bbox": [
+        1005,
+        592,
+        1515,
+        675
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=1005,592,510,83",
+      "confidence": "line",
+      "gemini_text": "Furniture,",
+      "surya_confidence": 0.957
+    },
+    {
+      "bbox": [
+        906,
+        719,
+        1619,
+        795
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=906,719,713,76",
+      "confidence": "line",
+      "gemini_text": "Carpets, Mattings and",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        956,
+        805,
+        1565,
+        883
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=956,805,609,78",
+      "confidence": "line",
+      "gemini_text": "Home Furnishings",
+      "surya_confidence": 0.9356
+    },
+    {
+      "bbox": [
+        874,
+        907,
+        1649,
+        960
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=874,907,775,53",
+      "confidence": "line",
+      "gemini_text": "In the City at the Lowest Prices.",
+      "surya_confidence": 0.9986
+    },
+    {
+      "bbox": [
+        912,
+        982,
+        1611,
+        1033
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=912,982,699,51",
+      "confidence": "line",
+      "gemini_text": "\"WE WILL TRUST YOU.\"",
+      "surya_confidence": 0.935
+    },
+    {
+      "bbox": [
+        869,
+        1061,
+        1649,
+        1110
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=869,1061,780,49",
+      "confidence": "line",
+      "gemini_text": "MAYER & CO., 415-417 7th St. N. W",
+      "surya_confidence": 0.9838
+    },
+    {
+      "bbox": [
+        719,
+        1347,
+        1317,
+        1396
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=719,1347,598,49",
+      "confidence": "line",
+      "gemini_text": "Men, Women and",
+      "surya_confidence": 0.987
+    },
+    {
+      "bbox": [
+        961,
+        1436,
+        1624,
+        1484
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=961,1436,663,48",
+      "confidence": "line",
+      "gemini_text": "Children Outfitters.",
+      "surya_confidence": 0.902
+    },
+    {
+      "bbox": [
+        717,
+        1528,
+        1650,
+        1586
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=717,1528,933,58",
+      "confidence": "line",
+      "gemini_text": "The best ready-to-wear CLOTHING",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        1032,
+        1599,
+        1349,
+        1650
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=1032,1599,317,51",
+      "confidence": "line",
+      "gemini_text": "in the City.",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        831,
+        1670,
+        1551,
+        1717
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=831,1670,720,47",
+      "confidence": "line",
+      "gemini_text": "\"WE WILL TRUST YOU.\"",
+      "surya_confidence": 0.9694
+    },
+    {
+      "bbox": [
+        732,
+        1759,
+        1644,
+        1805
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=732,1759,912,46",
+      "confidence": "line",
+      "gemini_text": "MAYER & CO., 415-417 7th Street N. W.",
+      "surya_confidence": 0.9777
+    },
+    {
+      "bbox": [
+        1177,
+        2020,
+        1572,
+        2060
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=1177,2020,395,40",
+      "confidence": "line",
+      "gemini_text": "for the Celebrated",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        1115,
+        2291,
+        1641,
+        2332
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=1115,2291,526,41",
+      "confidence": "line",
+      "gemini_text": "Ten Year Guarantee with",
+      "surya_confidence": 0.9995
+    },
+    {
+      "bbox": [
+        1268,
+        2370,
+        1486,
+        2409
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=1268,2370,218,39",
+      "confidence": "line",
+      "gemini_text": "every sale.",
+      "surya_confidence": 0.9977
+    },
+    {
+      "bbox": [
+        1137,
+        2452,
+        1641,
+        2491
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=1137,2452,504,39",
+      "confidence": "line",
+      "gemini_text": "Sold on Time Payments.",
+      "surya_confidence": 0.9842
+    },
+    {
+      "bbox": [
+        1119,
+        2528,
+        1635,
+        2569
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=1119,2528,516,41",
+      "confidence": "line",
+      "gemini_text": "“WE WILL TRUST YOU.”",
+      "surya_confidence": 0.918
+    },
+    {
+      "bbox": [
+        572,
+        2726,
+        931,
+        2750
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=572,2726,359,24",
+      "confidence": "line",
+      "gemini_text": "COPYRIGHT - 1897",
+      "surya_confidence": 0.9307
+    },
+    {
+      "bbox": [
+        339,
+        1202,
+        1635,
+        1297
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=339,1202,1296,95",
+      "confidence": "line",
+      "gemini_text": "Our Clothing Department.",
+      "surya_confidence": 0.996
+    },
+    {
+      "bbox": [
+        330,
+        1889,
+        1650,
+        1981
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=330,1889,1320,92",
+      "confidence": "line",
+      "gemini_text": "We are Exclusive Agents",
+      "surya_confidence": 0.7277
+    },
+    {
+      "bbox": [
+        1115,
+        2631,
+        1440,
+        2669
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=1115,2631,325,38",
+      "confidence": "line",
+      "gemini_text": "MA YER&CO.,",
+      "surya_confidence": 0.9736
+    },
+    {
+      "bbox": [
+        1179,
+        2686,
+        1643,
+        2720
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:067#xywh=1179,2686,464,34",
+      "confidence": "line",
+      "gemini_text": "415-417 7th St. N. W.",
+      "surya_confidence": 0.9987
+    }
+  ],
+  "unmatched_gemini": [
+    "Byrne PIANOS."
+  ]
+}

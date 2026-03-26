@@ -1,0 +1,136 @@
+{
+  "image_width": 1893,
+  "image_height": 2995,
+  "lines": [
+    {
+      "bbox": [
+        305,
+        354,
+        1655,
+        469
+      ],
+      "text": "Chery & Moran Co.,",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        528,
+        543,
+        1457,
+        659
+      ],
+      "text": "Cheamen's a Store,",
+      "confidence": 0.6813
+    },
+    {
+      "bbox": [
+        677,
+        740,
+        1292,
+        818
+      ],
+      "text": "811 Pa. Ave.",
+      "confidence": 0.97
+    },
+    {
+      "bbox": [
+        531,
+        903,
+        1430,
+        965
+      ],
+      "text": "WASHINGTON, D. C.",
+      "confidence": 0.9031
+    },
+    {
+      "bbox": [
+        306,
+        1304,
+        1661,
+        1440
+      ],
+      "text": "Glothing, Furnishings, Hats",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        507,
+        1545,
+        1467,
+        1604
+      ],
+      "text": "FOR MEN, BOYS AND CHILDREN.",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        313,
+        1843,
+        1671,
+        1899
+      ],
+      "text": "Sole Agents for Rogers, Peet & Co.'s Garments.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        374,
+        2169,
+        1666,
+        2238
+      ],
+      "text": "Naturally, you want the best your money",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        310,
+        2274,
+        1664,
+        2334
+      ],
+      "text": "will buy. Best in fabric, best in fit, best in",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        311,
+        2366,
+        1664,
+        2438
+      ],
+      "text": "style. All of these \"bests\" are here in ready-",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        311,
+        2467,
+        1666,
+        2540
+      ],
+      "text": "to-wear Clothing—better in every way than",
+      "confidence": 0.9989
+    },
+    {
+      "bbox": [
+        311,
+        2570,
+        1407,
+        2642
+      ],
+      "text": "$2.50 more money will buy elsewhere.",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        951,
+        2676,
+        1030,
+        2713
+      ],
+      "text": "104",
+      "confidence": 0.9919
+    }
+  ]
+}

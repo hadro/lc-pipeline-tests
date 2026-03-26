@@ -1,0 +1,326 @@
+{
+  "image_width": 1916,
+  "image_height": 2992,
+  "lines": [
+    {
+      "bbox": [
+        398,
+        329,
+        1533,
+        401
+      ],
+      "text": "Woman's Crowning Beauty is her Face.",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        569,
+        434,
+        1360,
+        478
+      ],
+      "text": "THE ART OF BEAUTIFYING,",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        791,
+        516,
+        1130,
+        576
+      ],
+      "text": "Electrolysys.",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        285,
+        620,
+        1641,
+        667
+      ],
+      "text": "SCIENTIFIC, FACIAL AND GENERAL MASSAGE",
+      "confidence": 0.9818
+    },
+    {
+      "bbox": [
+        835,
+        694,
+        1087,
+        728
+      ],
+      "text": "TAUGHT.",
+      "confidence": 0.978
+    },
+    {
+      "bbox": [
+        326,
+        867,
+        1643,
+        918
+      ],
+      "text": "The long-felt want of an institution for the teaching of",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        280,
+        911,
+        1637,
+        963
+      ],
+      "text": "Massage, Electricity, Medico-Gymnastic, Medical Baths,",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        283,
+        956,
+        1638,
+        1006
+      ],
+      "text": "etc., after the system in the Medical Schools in Europe, has",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        280,
+        1001,
+        1413,
+        1048
+      ],
+      "text": "prompted me to introduce such an institution here.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        323,
+        1059,
+        1638,
+        1105
+      ],
+      "text": "The number of scientifically educated Massage Operators",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        279,
+        1101,
+        1638,
+        1150
+      ],
+      "text": "in this country is very limited, and the demand for such is",
+      "confidence": 1.0
+    },
+    {
+      "bbox": [
+        281,
+        1149,
+        673,
+        1187
+      ],
+      "text": "rapidly growing.",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        323,
+        1202,
+        1346,
+        1249
+      ],
+      "text": "Do you desire to learn a profitable life work?",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        671,
+        1283,
+        1242,
+        1325
+      ],
+      "text": "DR. JOHN F. NUBEL,",
+      "confidence": 0.9783
+    },
+    {
+      "bbox": [
+        826,
+        1352,
+        1630,
+        1396
+      ],
+      "text": "Professor of Massage Electrolysys.",
+      "confidence": 0.9684
+    },
+    {
+      "bbox": [
+        1453,
+        1427,
+        1632,
+        1469
+      ],
+      "text": "'Phone.",
+      "confidence": 0.8902
+    },
+    {
+      "bbox": [
+        279,
+        1428,
+        951,
+        1470
+      ],
+      "text": "Residence, 1202 K St., N. W.",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        282,
+        1553,
+        1630,
+        1641
+      ],
+      "text": "BEAUTIFY YOUR WORK!",
+      "confidence": 0.9874
+    },
+    {
+      "bbox": [
+        389,
+        1713,
+        1526,
+        1764
+      ],
+      "text": "Sermons, Song Services, Lectures, Readings, etc.,",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        609,
+        1789,
+        1301,
+        1850
+      ],
+      "text": "·Beautifully Illustrated·",
+      "confidence": 0.9129
+    },
+    {
+      "bbox": [
+        846,
+        1878,
+        1064,
+        1917
+      ],
+      "text": "by aid of",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        491,
+        1940,
+        1414,
+        1999
+      ],
+      "text": "DOUBLE STEREOPTICON",
+      "confidence": 0.7013
+    },
+    {
+      "bbox": [
+        911,
+        2027,
+        999,
+        2057
+      ],
+      "text": "and",
+      "confidence": 0.9845
+    },
+    {
+      "bbox": [
+        689,
+        2090,
+        1215,
+        2148
+      ],
+      "text": "Calcium Light.",
+      "confidence": 0.9498
+    },
+    {
+      "bbox": [
+        394,
+        2225,
+        1494,
+        2281
+      ],
+      "text": "Masonic Work and Bible History a Specialty.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        521,
+        2346,
+        1389,
+        2384
+      ],
+      "text": "Slides Made to Order on Short Notice.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        271,
+        2416,
+        1058,
+        2450
+      ],
+      "text": "PRICES REASONABLE.",
+      "confidence": 0.9875
+    },
+    {
+      "bbox": [
+        1055,
+        2418,
+        1634,
+        2451
+      ],
+      "text": "SERVICES PROMPT.",
+      "confidence": 0.9293
+    },
+    {
+      "bbox": [
+        328,
+        2529,
+        1563,
+        2568
+      ],
+      "text": "For rates, dates and list of subjects, call on or address",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        726,
+        2597,
+        1160,
+        2633
+      ],
+      "text": "F. A. FOWLER,",
+      "confidence": 0.9688
+    },
+    {
+      "bbox": [
+        491,
+        2665,
+        1398,
+        2703
+      ],
+      "text": "Sec'y Social Lodge, No. 1, F. A. A. M.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        271,
+        2731,
+        1617,
+        2768
+      ],
+      "text": "Office, 511 10th St., N.W. Residence, 2209 14th St., N.W.",
+      "confidence": 0.9879
+    }
+  ]
+}

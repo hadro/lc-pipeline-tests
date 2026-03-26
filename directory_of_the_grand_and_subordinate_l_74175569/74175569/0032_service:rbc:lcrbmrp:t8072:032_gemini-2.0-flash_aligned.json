@@ -1,0 +1,312 @@
+{
+  "image": "0032_service:rbc:lcrbmrp:t8072:032.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032",
+  "canvas_width": 1851,
+  "canvas_height": 2986,
+  "surya_median_confidence": 0.9929,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        209,
+        404,
+        1562,
+        466
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=209,404,1353,62",
+      "confidence": "line",
+      "gemini_text": "M. Ex. Grand Royal Arch Chapter of the",
+      "surya_confidence": 0.996
+    },
+    {
+      "bbox": [
+        583,
+        505,
+        1190,
+        565
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=583,505,607,60",
+      "confidence": "line",
+      "gemini_text": "District of Columbia.",
+      "surya_confidence": 0.9098
+    },
+    {
+      "bbox": [
+        745,
+        705,
+        1039,
+        739
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=745,705,294,34",
+      "confidence": "line",
+      "gemini_text": "OFFICERS.",
+      "surya_confidence": 0.9188
+    },
+    {
+      "bbox": [
+        660,
+        2344,
+        1122,
+        2381
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=660,2344,462,37",
+      "confidence": "line",
+      "gemini_text": "West Raleigh, N. C.",
+      "surya_confidence": 0.9943
+    },
+    {
+      "bbox": [
+        761,
+        2490,
+        1033,
+        2525
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=761,2490,272,35",
+      "confidence": "line",
+      "gemini_text": "Macon, Ga.",
+      "surya_confidence": 0.9954
+    },
+    {
+      "bbox": [
+        712,
+        2634,
+        1076,
+        2670
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=712,2634,364,36",
+      "confidence": "line",
+      "gemini_text": "Columbia, S. C.",
+      "surya_confidence": 0.995
+    },
+    {
+      "bbox": [
+        863,
+        2724,
+        922,
+        2757
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=863,2724,59,33",
+      "confidence": "line",
+      "gemini_text": "23",
+      "surya_confidence": 0.9746
+    },
+    {
+      "bbox": [
+        214,
+        793,
+        1570,
+        833
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=214,793,1356,40",
+      "confidence": "line",
+      "gemini_text": "M. Ex. Comp. Frank H. Cozzens.....Grand High Priest",
+      "surya_confidence": 0.9968
+    },
+    {
+      "bbox": [
+        215,
+        883,
+        1570,
+        922
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=215,883,1355,39",
+      "confidence": "line",
+      "gemini_text": "Ex. Comp. Henry Coleman.....Deputy Grand High Priest",
+      "surya_confidence": 0.9897
+    },
+    {
+      "bbox": [
+        217,
+        971,
+        1570,
+        1011
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=217,971,1353,40",
+      "confidence": "line",
+      "gemini_text": "Ex. Comp. Henry C. Harris...........Grand King",
+      "surya_confidence": 0.9905
+    },
+    {
+      "bbox": [
+        217,
+        1061,
+        1565,
+        1103
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=217,1061,1348,42",
+      "confidence": "line",
+      "gemini_text": "Ex. Comp. Henry C. Irving...........Grand Scribe",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        206,
+        1151,
+        1565,
+        1190
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=206,1151,1359,39",
+      "confidence": "line",
+      "gemini_text": "Ex. Comp. Benjamin F. Dailey........Grand Treasurer",
+      "surya_confidence": 0.9832
+    },
+    {
+      "bbox": [
+        218,
+        1238,
+        1568,
+        1279
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=218,1238,1350,41",
+      "confidence": "line",
+      "gemini_text": "Ex. Comp. James O. Bampfield........Grand Secretary",
+      "surya_confidence": 0.9992
+    },
+    {
+      "bbox": [
+        220,
+        1326,
+        1570,
+        1368
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=220,1326,1350,42",
+      "confidence": "line",
+      "gemini_text": "Ex. Comp. Rev. James H. Hill.........Grand Chaplain",
+      "surya_confidence": 0.9929
+    },
+    {
+      "bbox": [
+        220,
+        1417,
+        1570,
+        1457
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=220,1417,1350,40",
+      "confidence": "line",
+      "gemini_text": "Ex. Comp. Richard Gates.........Grand Capt. of Host",
+      "surya_confidence": 0.999
+    },
+    {
+      "bbox": [
+        220,
+        1505,
+        1570,
+        1546
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=220,1505,1350,41",
+      "confidence": "line",
+      "gemini_text": "Ex. Comp. Wilson Smith..........Grand Prin. Sojourner",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        222,
+        1595,
+        1567,
+        1634
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=222,1595,1345,39",
+      "confidence": "line",
+      "gemini_text": "Ex. Comp. N. Robinson...........Grand R. A. Capt.",
+      "surya_confidence": 0.9844
+    },
+    {
+      "bbox": [
+        218,
+        1684,
+        1567,
+        1725
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=218,1684,1349,41",
+      "confidence": "line",
+      "gemini_text": "Ex. Comp. Geo. S. Newman.....Grand Master of 3d Vail",
+      "surya_confidence": 0.9929
+    },
+    {
+      "bbox": [
+        220,
+        1774,
+        1570,
+        1812
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=220,1774,1350,38",
+      "confidence": "line",
+      "gemini_text": "Ex. Comp. Wm. H. Hutchinson.....Grand Master 2d Vail",
+      "surya_confidence": 0.9857
+    },
+    {
+      "bbox": [
+        220,
+        1861,
+        1570,
+        1903
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=220,1861,1350,42",
+      "confidence": "line",
+      "gemini_text": "Ex. Comp. Frank Hall...........Grand Master 1st Vail",
+      "surya_confidence": 0.99
+    },
+    {
+      "bbox": [
+        220,
+        1950,
+        1568,
+        1990
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=220,1950,1348,40",
+      "confidence": "line",
+      "gemini_text": "Ex. Comp. Robert H. Ford...........Grand Guard",
+      "surya_confidence": 0.9907
+    },
+    {
+      "bbox": [
+        285,
+        2184,
+        1500,
+        2220
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=285,2184,1215,36",
+      "confidence": "line",
+      "gemini_text": "DISTRICT DEPUTY GRAND HIGH PRIESTS.",
+      "surya_confidence": 0.9455
+    },
+    {
+      "bbox": [
+        219,
+        2276,
+        1576,
+        2315
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=219,2276,1357,39",
+      "confidence": "line",
+      "gemini_text": "Comp. Walker F. Williams..........State of North Carolina",
+      "surya_confidence": 0.9997
+    },
+    {
+      "bbox": [
+        220,
+        2421,
+        1570,
+        2460
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=220,2421,1350,39",
+      "confidence": "line",
+      "gemini_text": "Comp. Jesse Robinson...........State of Georgia",
+      "surya_confidence": 0.9994
+    },
+    {
+      "bbox": [
+        218,
+        2566,
+        1571,
+        2606
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:032#xywh=218,2566,1353,40",
+      "confidence": "line",
+      "gemini_text": "Comp. N. E. Lewis...........State of South Carolina",
+      "surya_confidence": 0.9996
+    }
+  ],
+  "unmatched_gemini": []
+}

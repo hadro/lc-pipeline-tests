@@ -1,0 +1,356 @@
+{
+  "image_width": 1637,
+  "image_height": 2903,
+  "lines": [
+    {
+      "bbox": [
+        151,
+        318,
+        1504,
+        419
+      ],
+      "text": "Masonic Hall Building Association.",
+      "confidence": 0.9571
+    },
+    {
+      "bbox": [
+        662,
+        466,
+        1014,
+        506
+      ],
+      "text": "Organized 1892.",
+      "confidence": 0.9679
+    },
+    {
+      "bbox": [
+        557,
+        555,
+        1098,
+        595
+      ],
+      "text": "WASHINGTON, D. C.",
+      "confidence": 0.9295
+    },
+    {
+      "bbox": [
+        291,
+        641,
+        1372,
+        688
+      ],
+      "text": "Annual Meeting, Third Tuesday in December.",
+      "confidence": 0.9914
+    },
+    {
+      "bbox": [
+        695,
+        820,
+        989,
+        855
+      ],
+      "text": "OFFICERS:",
+      "confidence": 0.7361
+    },
+    {
+      "bbox": [
+        160,
+        899,
+        1507,
+        961
+      ],
+      "text": "S. Roger Watts, M. D..... President",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        516,
+        966,
+        1146,
+        1005
+      ],
+      "text": "Office, 1343 V Street, N. W.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        159,
+        1050,
+        1509,
+        1099
+      ],
+      "text": "Henry Coleman......Vice President",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        488,
+        1109,
+        1172,
+        1153
+      ],
+      "text": "Office, 1112 N. J. Ave., N. W.",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        163,
+        1193,
+        1504,
+        1240
+      ],
+      "text": "W. H. Judd Malvin..... Treasurer",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        511,
+        1252,
+        1166,
+        1294
+      ],
+      "text": "Office, 511 10th Street, N. W.",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        473,
+        1298,
+        1192,
+        1342
+      ],
+      "text": "Residence, 1018 R Street, N. W.",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        160,
+        1381,
+        1509,
+        1435
+      ],
+      "text": "Richard H. Gleaves..... Financial Secretary",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        475,
+        1428,
+        1192,
+        1476
+      ],
+      "text": "Office, 126 Carroll Street, S. E.",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        166,
+        1516,
+        1515,
+        1566
+      ],
+      "text": "Wm. H. Severson......Corresponding Secretary",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        529,
+        1567,
+        1140,
+        1604
+      ],
+      "text": "Office, 326 E Street, S. W.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        159,
+        1649,
+        1507,
+        1696
+      ],
+      "text": "Nelson E. Weatherless ......Auditor",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        652,
+        1742,
+        1002,
+        1778
+      ],
+      "text": "DIRECTORS:",
+      "confidence": 0.7308
+    },
+    {
+      "bbox": [
+        1051,
+        1831,
+        1327,
+        1867
+      ],
+      "text": "S. H. West,",
+      "confidence": 0.9962
+    },
+    {
+      "bbox": [
+        296,
+        1836,
+        778,
+        1872
+      ],
+      "text": "A. W. Tancil, M. D.",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        1043,
+        1919,
+        1370,
+        1955
+      ],
+      "text": "F. H Cozzens,",
+      "confidence": 0.9847
+    },
+    {
+      "bbox": [
+        292,
+        1924,
+        602,
+        1963
+      ],
+      "text": "C. Stevenson,",
+      "confidence": 0.9785
+    },
+    {
+      "bbox": [
+        1043,
+        2009,
+        1372,
+        2045
+      ],
+      "text": "L. H. Wayne,",
+      "confidence": 0.9942
+    },
+    {
+      "bbox": [
+        293,
+        2015,
+        581,
+        2050
+      ],
+      "text": "H. Coleman,",
+      "confidence": 0.9911
+    },
+    {
+      "bbox": [
+        1042,
+        2098,
+        1417,
+        2134
+      ],
+      "text": "John T. Turner,",
+      "confidence": 0.9946
+    },
+    {
+      "bbox": [
+        293,
+        2104,
+        653,
+        2139
+      ],
+      "text": "W. H. Severson,",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        1036,
+        2186,
+        1373,
+        2222
+      ],
+      "text": "R. H. Gleaves,",
+      "confidence": 0.9873
+    },
+    {
+      "bbox": [
+        291,
+        2192,
+        608,
+        2229
+      ],
+      "text": "W. H. Myers,",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        1034,
+        2275,
+        1331,
+        2310
+      ],
+      "text": "S. R. Watts,",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        294,
+        2279,
+        789,
+        2316
+      ],
+      "text": "Mrs. E. W. Marshall.",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        562,
+        2364,
+        1100,
+        2403
+      ],
+      "text": "Mrs. Nellie E. Morgan.",
+      "confidence": 0.99
+    },
+    {
+      "bbox": [
+        675,
+        2451,
+        990,
+        2487
+      ],
+      "text": "TRUSTEES:",
+      "confidence": 0.8791
+    },
+    {
+      "bbox": [
+        1019,
+        2539,
+        1392,
+        2577
+      ],
+      "text": "Henry Coleman,",
+      "confidence": 0.9856
+    },
+    {
+      "bbox": [
+        292,
+        2543,
+        606,
+        2585
+      ],
+      "text": "W. H. Myers,",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        584,
+        2629,
+        1061,
+        2671
+      ],
+      "text": "A. W. Tancil, M. D.",
+      "confidence": 0.9985
+    }
+  ]
+}

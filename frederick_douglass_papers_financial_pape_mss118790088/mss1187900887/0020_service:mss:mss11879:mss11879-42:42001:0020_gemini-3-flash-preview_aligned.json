@@ -1,0 +1,165 @@
+{
+  "image": "0020_service:mss:mss11879:mss11879-42:42001:0020.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0020",
+  "canvas_width": 1950,
+  "canvas_height": 1587,
+  "surya_median_confidence": 0.8904,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        1033,
+        178,
+        1468,
+        412
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0020#xywh=1033,178,435,234",
+      "confidence": "line",
+      "gemini_text": "J'ai: j'avais",
+      "surya_confidence": 0.9327
+    },
+    {
+      "bbox": [
+        1019,
+        377,
+        1624,
+        568
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0020#xywh=1019,377,605,191",
+      "confidence": "line",
+      "gemini_text": "vous avez vous aviez",
+      "surya_confidence": 0.6695
+    },
+    {
+      "bbox": [
+        1051,
+        553,
+        1261,
+        604
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0020#xywh=1051,553,210,51",
+      "confidence": "line",
+      "gemini_text": "J'ai eu:",
+      "surya_confidence": 0.5613
+    },
+    {
+      "bbox": [
+        1049,
+        603,
+        1256,
+        653
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0020#xywh=1049,603,207,50",
+      "confidence": "line",
+      "gemini_text": "Tu as eu.",
+      "surya_confidence": 0.8739
+    },
+    {
+      "bbox": [
+        1051,
+        657,
+        1248,
+        697
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0020#xywh=1051,657,197,40",
+      "confidence": "line",
+      "gemini_text": "Il a eu",
+      "surya_confidence": 0.9697
+    },
+    {
+      "bbox": [
+        1054,
+        709,
+        1327,
+        749
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0020#xywh=1054,709,273,40",
+      "confidence": "line",
+      "gemini_text": "Nous avons eu.",
+      "surya_confidence": 0.7096
+    },
+    {
+      "bbox": [
+        1051,
+        755,
+        1340,
+        808
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0020#xywh=1051,755,289,53",
+      "confidence": "line",
+      "gemini_text": "vous avez eu.",
+      "surya_confidence": 0.606
+    },
+    {
+      "bbox": [
+        1058,
+        803,
+        1346,
+        852
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0020#xywh=1058,803,288,49",
+      "confidence": "line",
+      "gemini_text": "Ils ont eu.",
+      "surya_confidence": 0.971
+    },
+    {
+      "bbox": [
+        1313,
+        854,
+        1575,
+        1071
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0020#xywh=1313,854,262,217",
+      "confidence": "line",
+      "gemini_text": "J'avais eu.",
+      "surya_confidence": 0.907
+    },
+    {
+      "bbox": [
+        1321,
+        1057,
+        1560,
+        1104
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0020#xywh=1321,1057,239,47",
+      "confidence": "line",
+      "gemini_text": "Il avait eu",
+      "surya_confidence": 0.9861
+    },
+    {
+      "bbox": [
+        1327,
+        1115,
+        1647,
+        1156
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0020#xywh=1327,1115,320,41",
+      "confidence": "line",
+      "gemini_text": "nous avions eu",
+      "surya_confidence": 0.9696
+    },
+    {
+      "bbox": [
+        1320,
+        1158,
+        1663,
+        1270
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0020#xywh=1320,1158,343,112",
+      "confidence": "line",
+      "gemini_text": "vous aviez eu.",
+      "surya_confidence": 0.9551
+    }
+  ],
+  "unmatched_gemini": [
+    "Tu as Tu avais",
+    "Il ai Il avait",
+    "nous avons Nous avions",
+    "Ils avaient Ils avaient",
+    "Preterite indefinite",
+    "Pluperfect",
+    "Tu avais eu.",
+    "Ils avaient eu."
+  ]
+}

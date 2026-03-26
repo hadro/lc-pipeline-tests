@@ -1,0 +1,324 @@
+{
+  "image": "0099_service:rbc:lcrbmrp:t8072:099.jpg",
+  "model": "gemini-2.0-flash",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099",
+  "canvas_width": 1911,
+  "canvas_height": 2997,
+  "surya_median_confidence": 0.9937,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        383,
+        339,
+        1628,
+        408
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=383,339,1245,69",
+      "confidence": "line",
+      "gemini_text": "WASHINGTON LABOR EXCHANGE,",
+      "surya_confidence": 0.9701
+    },
+    {
+      "bbox": [
+        519,
+        433,
+        1480,
+        495
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=519,433,961,62",
+      "confidence": "line",
+      "gemini_text": "Main Office, 1635 11th St. N. W.",
+      "surya_confidence": 0.9944
+    },
+    {
+      "bbox": [
+        320,
+        519,
+        916,
+        567
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=320,519,596,48",
+      "confidence": "line",
+      "gemini_text": "Branch Offices, 1443 P St. 2022 7th St. N. W.",
+      "surya_confidence": 0.9873
+    },
+    {
+      "bbox": [
+        543,
+        589,
+        1451,
+        641
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=543,589,908,52",
+      "confidence": "line",
+      "gemini_text": "New London, Conn., and Boston, Mass.,",
+      "surya_confidence": 0.9925
+    },
+    {
+      "bbox": [
+        455,
+        657,
+        1543,
+        706
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=455,657,1088,49",
+      "confidence": "line",
+      "gemini_text": "Young Ladies in charge of the branches, and a",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        605,
+        697,
+        1391,
+        751
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=605,697,786,54",
+      "confidence": "line",
+      "gemini_text": "Bicycle Messenger at your service.",
+      "surya_confidence": 0.9937
+    },
+    {
+      "bbox": [
+        435,
+        766,
+        1559,
+        814
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=435,766,1124,48",
+      "confidence": "line",
+      "gemini_text": "WE FURNISH FIRST-CLASS HELP ONLY.",
+      "surya_confidence": 0.9624
+    },
+    {
+      "bbox": [
+        623,
+        839,
+        1369,
+        877
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=623,839,746,38",
+      "confidence": "line",
+      "gemini_text": "Give us a trial and be convinced.",
+      "surya_confidence": 0.9988
+    },
+    {
+      "bbox": [
+        359,
+        899,
+        1625,
+        955
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=359,899,1266,56",
+      "confidence": "line",
+      "gemini_text": "Mail and 'Phone Orders will receive Prompt Attention.",
+      "surya_confidence": 0.9979
+    },
+    {
+      "bbox": [
+        650,
+        973,
+        1341,
+        1017
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=650,973,691,44",
+      "confidence": "line",
+      "gemini_text": "JAMES A. ANDREWS, Jr.,",
+      "surya_confidence": 0.9703
+    },
+    {
+      "bbox": [
+        315,
+        1034,
+        768,
+        1080
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=315,1034,453,46",
+      "confidence": "line",
+      "gemini_text": "1635 11th St., N. W. 'Phone, Main 2813.",
+      "surya_confidence": 0.9965
+    },
+    {
+      "bbox": [
+        734,
+        1264,
+        1246,
+        1320
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=734,1264,512,56",
+      "confidence": "line",
+      "gemini_text": "R. D. RUFFIN,",
+      "surya_confidence": 0.9972
+    },
+    {
+      "bbox": [
+        620,
+        1359,
+        1360,
+        1410
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=620,1359,740,51",
+      "confidence": "line",
+      "gemini_text": "ATTORNEY-AT-LAW,",
+      "surya_confidence": 0.993
+    },
+    {
+      "bbox": [
+        397,
+        1438,
+        1573,
+        1492
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=397,1438,1176,54",
+      "confidence": "line",
+      "gemini_text": "529 7th St. N. W., cor. 7th and F Sts., 3d floor front,",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        776,
+        1523,
+        1198,
+        1565
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=776,1523,422,42",
+      "confidence": "line",
+      "gemini_text": "Washington, D. C.",
+      "surya_confidence": 0.9892
+    },
+    {
+      "bbox": [
+        566,
+        1653,
+        1406,
+        1700
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=566,1653,840,47",
+      "confidence": "line",
+      "gemini_text": "Dealer in Coal Oil and Timber Land",
+      "surya_confidence": 0.9747
+    },
+    {
+      "bbox": [
+        695,
+        1737,
+        1280,
+        1779
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=695,1737,585,42",
+      "confidence": "line",
+      "gemini_text": "in W. Va. and Kentucky.",
+      "surya_confidence": 0.9996
+    },
+    {
+      "bbox": [
+        516,
+        1951,
+        1448,
+        2020
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=516,1951,932,69",
+      "confidence": "line",
+      "gemini_text": "LEWIS JEFFERSON & CO.,",
+      "surya_confidence": 0.9982
+    },
+    {
+      "bbox": [
+        301,
+        2066,
+        1658,
+        2135
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=301,2066,1357,69",
+      "confidence": "line",
+      "gemini_text": "Wholesale and Retail Dealers in Wood, Coal",
+      "surya_confidence": 0.9959
+    },
+    {
+      "bbox": [
+        834,
+        2152,
+        1119,
+        2204
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=834,2152,285,52",
+      "confidence": "line",
+      "gemini_text": "and Coke,",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        646,
+        2249,
+        1321,
+        2301
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=646,2249,675,52",
+      "confidence": "line",
+      "gemini_text": "Canal and N Sts. S. W.",
+      "surya_confidence": 0.9914
+    },
+    {
+      "bbox": [
+        621,
+        2353,
+        1141,
+        2401
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=621,2353,520,48",
+      "confidence": "line",
+      "gemini_text": "FULL WEIGHT AND MEASURE.",
+      "surya_confidence": 0.9037
+    },
+    {
+      "bbox": [
+        300,
+        2445,
+        1661,
+        2517
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=300,2445,1361,72",
+      "confidence": "line",
+      "gemini_text": "All Orders Promptly Delivered to Any Part of",
+      "surya_confidence": 0.9998
+    },
+    {
+      "bbox": [
+        848,
+        2519,
+        1119,
+        2575
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=848,2519,271,56",
+      "confidence": "line",
+      "gemini_text": "the City.",
+      "surya_confidence": 0.9993
+    },
+    {
+      "bbox": [
+        698,
+        2616,
+        1253,
+        2677
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=698,2616,555,61",
+      "confidence": "line",
+      "gemini_text": "'Phone, 1779 Main.",
+      "surya_confidence": 0.766
+    },
+    {
+      "bbox": [
+        950,
+        2700,
+        1004,
+        2733
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:099#xywh=950,2700,54,33",
+      "confidence": "line",
+      "gemini_text": "90",
+      "surya_confidence": 0.9891
+    }
+  ],
+  "unmatched_gemini": []
+}

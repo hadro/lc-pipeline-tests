@@ -1,0 +1,696 @@
+{
+  "image_width": 1810,
+  "image_height": 2988,
+  "lines": [
+    {
+      "bbox": [
+        466,
+        378,
+        1241,
+        434
+      ],
+      "text": "MEMBERS, ZERUBBABEL COURT.",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        386,
+        482,
+        914,
+        514
+      ],
+      "text": "Banks, Lettie, 731 2d sw.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        385,
+        514,
+        1066,
+        550
+      ],
+      "text": "Brent, Mary E., 609 Page al. sw.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        388,
+        549,
+        977,
+        584
+      ],
+      "text": "Briscoe, Mary E., 132 G ne.",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        386,
+        585,
+        935,
+        618
+      ],
+      "text": "Brooks, Fannie, 222 5th se.",
+      "confidence": 0.9885
+    },
+    {
+      "bbox": [
+        387,
+        618,
+        986,
+        651
+      ],
+      "text": "Brown, Chaney, 511 20th nw.",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        386,
+        652,
+        1055,
+        686
+      ],
+      "text": "Brown, Horace, Bennings, D. C.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        389,
+        688,
+        932,
+        722
+      ],
+      "text": "Chase, Agnes, 9151/2 G sw.",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        387,
+        724,
+        1000,
+        757
+      ],
+      "text": "Dandridge, Emma, 419 N nw.",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        386,
+        759,
+        876,
+        791
+      ],
+      "text": "Davis, Adah, 304 F sw.",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        389,
+        791,
+        1164,
+        826
+      ],
+      "text": "Diggs, Mary C., 2237 Brightwood ave.",
+      "confidence": 0.9919
+    },
+    {
+      "bbox": [
+        386,
+        828,
+        969,
+        861
+      ],
+      "text": "Duker, Elizabeth, 146 C sw.",
+      "confidence": 0.9926
+    },
+    {
+      "bbox": [
+        387,
+        858,
+        1078,
+        896
+      ],
+      "text": "Evans, Sarah C., Bennings, D. C.",
+      "confidence": 0.9963
+    },
+    {
+      "bbox": [
+        387,
+        896,
+        1066,
+        930
+      ],
+      "text": "Fergurson, Margaret, 2617 O nw.",
+      "confidence": 0.9969
+    },
+    {
+      "bbox": [
+        389,
+        932,
+        997,
+        964
+      ],
+      "text": "Fisher, Elizabeth, 2518 P nw.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        387,
+        967,
+        1036,
+        999
+      ],
+      "text": "Ford, Mary E., 1910 N. Y. ave.",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        387,
+        1001,
+        1042,
+        1034
+      ],
+      "text": "Goines, Paulettia, 1303 27th nw.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        385,
+        1033,
+        1030,
+        1070
+      ],
+      "text": "Green, Mary E., 1225 28th nw.",
+      "confidence": 0.9818
+    },
+    {
+      "bbox": [
+        387,
+        1069,
+        976,
+        1105
+      ],
+      "text": "Hill, Amanda, 652 Acker ne.",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        387,
+        1100,
+        861,
+        1139
+      ],
+      "text": "Hill, Mamie, 332 E se.",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        387,
+        1141,
+        950,
+        1173
+      ],
+      "text": "Isabell, Emma, 1229 T nw.",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        387,
+        1174,
+        1116,
+        1209
+      ],
+      "text": "Jackson, Annie E., 1407 E. Capitol.",
+      "confidence": 0.9894
+    },
+    {
+      "bbox": [
+        1251,
+        1203,
+        1315,
+        1233
+      ],
+      "text": "* **",
+      "confidence": 0.3396
+    },
+    {
+      "bbox": [
+        388,
+        1206,
+        989,
+        1244
+      ],
+      "text": "Jackson, Ella F., 429 61/2 sw.",
+      "confidence": 0.9882
+    },
+    {
+      "bbox": [
+        387,
+        1244,
+        962,
+        1276
+      ],
+      "text": "Jackson, Helen, 1229 T nw.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        385,
+        1278,
+        1001,
+        1315
+      ],
+      "text": "Jackson, Julia A., 429 61/2 sw.",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        387,
+        1311,
+        974,
+        1347
+      ],
+      "text": "Jefferds, Marian, 308 3d se.",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        384,
+        1348,
+        997,
+        1378
+      ],
+      "text": "Johnson, Virginia, 1113 I nw.",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        384,
+        1383,
+        920,
+        1413
+      ],
+      "text": "Lee, Margaret, 512 2d sw.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        1153,
+        1414,
+        1289,
+        1454
+      ],
+      "text": "1. 2",
+      "confidence": 0.9147
+    },
+    {
+      "bbox": [
+        384,
+        1417,
+        1114,
+        1450
+      ],
+      "text": "Madre, M. A. D., Madre Park ne.",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        384,
+        1452,
+        1105,
+        1484
+      ],
+      "text": "Mitchell, Mary J., 411 2d sw.",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        384,
+        1486,
+        974,
+        1518
+      ],
+      "text": "Moten, Cordelia, 430 1st sw.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        1196,
+        1510,
+        1310,
+        1547
+      ],
+      "text": "4 1 15",
+      "confidence": 0.2208
+    },
+    {
+      "bbox": [
+        384,
+        1521,
+        853,
+        1555
+      ],
+      "text": "Neal, Susan, 416 D se.",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        1171,
+        1541,
+        1318,
+        1604
+      ],
+      "text": "4 4",
+      "confidence": 0.3469
+    },
+    {
+      "bbox": [
+        383,
+        1557,
+        1001,
+        1587
+      ],
+      "text": "Newman, Georgie, 146 C sw.",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        382,
+        1590,
+        965,
+        1623
+      ],
+      "text": "Owens, Rachael, 2523 O nw.",
+      "confidence": 0.9956
+    },
+    {
+      "bbox": [
+        382,
+        1626,
+        894,
+        1659
+      ],
+      "text": "Rush, Emma, 312 C sw.",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        385,
+        1658,
+        1135,
+        1695
+      ],
+      "text": "Saunders, Margaret V., 1503 P nw.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        384,
+        1694,
+        956,
+        1730
+      ],
+      "text": "Simmons, Alice, 1739 L nw.",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        384,
+        1728,
+        1140,
+        1765
+      ],
+      "text": "Skinner, Elizabeth, 1753 Vt. ave. nw.",
+      "confidence": 0.9958
+    },
+    {
+      "bbox": [
+        385,
+        1764,
+        988,
+        1799
+      ],
+      "text": "Smiler, Edmonia, 704 1st sw.",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        386,
+        1802,
+        1039,
+        1834
+      ],
+      "text": "Smith, Bessie C., 419 20th nw.",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        384,
+        1829,
+        1024,
+        1873
+      ],
+      "text": "Smith, Lucy, 351 Wilson nw.",
+      "confidence": 0.9981
+    },
+    {
+      "bbox": [
+        383,
+        1865,
+        964,
+        1909
+      ],
+      "text": "Smith, Mary F., 210 L nw.",
+      "confidence": 0.997
+    },
+    {
+      "bbox": [
+        384,
+        1904,
+        1093,
+        1938
+      ],
+      "text": "Stephenson, Ellen R., 308 3d se.",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        381,
+        1925,
+        1130,
+        1975
+      ],
+      "text": "Stephenson, Josephine, 308 3d se.",
+      "confidence": 0.9975
+    },
+    {
+      "bbox": [
+        1182,
+        1954,
+        1277,
+        2027
+      ],
+      "text": "Auto",
+      "confidence": 0.2706
+    },
+    {
+      "bbox": [
+        384,
+        1976,
+        972,
+        2006
+      ],
+      "text": "Thomas, Anna V., 1113 I nw.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        384,
+        2009,
+        912,
+        2043
+      ],
+      "text": "Tignor, Lottie, 324 G sw.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        1174,
+        2035,
+        1280,
+        2057
+      ],
+      "text": "(4) 秦 (2)",
+      "confidence": 0.2116
+    },
+    {
+      "bbox": [
+        382,
+        2043,
+        909,
+        2078
+      ],
+      "text": "Tinney, Eva, 915 4th nw.",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        383,
+        2075,
+        1093,
+        2114
+      ],
+      "text": "Tompkins, Nettie, 1341 V nw.",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        379,
+        2108,
+        1096,
+        2187
+      ],
+      "text": "Walker, Mary, 1242 20th nw.\nWare, Fannie, 924 Marshall nw.",
+      "confidence": 0.9789
+    },
+    {
+      "bbox": [
+        1202,
+        2125,
+        1244,
+        2161
+      ],
+      "text": "3.",
+      "confidence": 0.624
+    },
+    {
+      "bbox": [
+        1186,
+        2166,
+        1270,
+        2193
+      ],
+      "text": "45/",
+      "confidence": 0.4521
+    },
+    {
+      "bbox": [
+        382,
+        2183,
+        955,
+        2219
+      ],
+      "text": "Warren, Anna, 1017 3d nw.",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        381,
+        2218,
+        995,
+        2253
+      ],
+      "text": "Washington, Julia, 923 F sw.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        383,
+        2254,
+        972,
+        2286
+      ],
+      "text": "Wayne, Ella, 315 E. Capitol.",
+      "confidence": 0.9939
+    },
+    {
+      "bbox": [
+        382,
+        2285,
+        995,
+        2324
+      ],
+      "text": "Williams, Emma, 2517 P nw.",
+      "confidence": 0.9967
+    },
+    {
+      "bbox": [
+        380,
+        2324,
+        915,
+        2356
+      ],
+      "text": "Wilson, Eva, 2056 8th nw.",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        383,
+        2359,
+        998,
+        2392
+      ],
+      "text": "Wilson, Nannie, 2056 8th nw.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        388,
+        2388,
+        992,
+        2427
+      ],
+      "text": "Wright, Mollie, 1343 27th nw.",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        384,
+        2421,
+        968,
+        2462
+      ],
+      "text": "Young, Sarah, 1348 28th nw.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        380,
+        2457,
+        1055,
+        2492
+      ],
+      "text": "Hanna, Mary, 413 Washington nw.",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        383,
+        2493,
+        889,
+        2526
+      ],
+      "text": "Moxley, Sarah, 444 61/2 sw.",
+      "confidence": 0.9948
+    },
+    {
+      "bbox": [
+        817,
+        2733,
+        864,
+        2767
+      ],
+      "text": "67",
+      "confidence": 0.9797
+    },
+    {
+      "bbox": [
+        438,
+        2909,
+        549,
+        2922
+      ],
+      "text": "Same and all of the",
+      "confidence": 0.1777
+    }
+  ]
+}

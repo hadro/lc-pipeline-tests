@@ -1,0 +1,235 @@
+{
+  "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg",
+  "model": "gemini-3.1-flash-lite-preview",
+  "mode": "text-only",
+  "prior_context": {
+    "section_title": "Masonic Directory",
+    "organization_name": null
+  },
+  "page_context": {
+    "section_title": "Masonic Directory",
+    "organization_name": null
+  },
+  "entries": [
+    {
+      "name": "Williams, Jos. L.",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "2437 Brightwood ave.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108#xywh=444,437,881,37",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    },
+    {
+      "name": "Williams, R. W.",
+      "masonic_codes": "8",
+      "lodge": "Warren",
+      "address": "932 Dartmouth nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108#xywh=444,470,820,39",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    },
+    {
+      "name": "Williams, Thomas",
+      "masonic_codes": "6",
+      "lodge": "Meridian",
+      "address": "406 C ne.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108#xywh=445,507,649,34",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    },
+    {
+      "name": "Williams, Wyatt",
+      "masonic_codes": "7-2-2",
+      "lodge": "Warren",
+      "chapter": "Union",
+      "commandery": "Henderson",
+      "address": "1620 Vt. ave. nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108#xywh=439,530,865,122",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    },
+    {
+      "name": "Williston, Edw. D.",
+      "masonic_codes": "1",
+      "lodge": "Social",
+      "address": "1434 T nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108#xywh=442,644,695,33",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    },
+    {
+      "name": "Winfield, Walter",
+      "masonic_codes": "14",
+      "lodge": "Prince Hall",
+      "address": "1626 Vt. ave. nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108#xywh=443,679,818,30",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    },
+    {
+      "name": "Winslow, A. B.",
+      "masonic_codes": "12, G",
+      "lodge": "St. John's",
+      "rank": "Past Master",
+      "address": "1018 W nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108#xywh=442,713,722,32",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    },
+    {
+      "name": "Winslow, James H.",
+      "masonic_codes": "1",
+      "lodge": "Social",
+      "address": "1206 R nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108#xywh=443,743,714,37",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    },
+    {
+      "name": "Wormley, James T.",
+      "masonic_codes": "14-7-4",
+      "lodge": "Prince Hall",
+      "chapter": "St. John's",
+      "commandery": "Mt. Calvary",
+      "address": "1801 8th nw",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108#xywh=440,773,827,116",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    },
+    {
+      "name": "Wortham, Rev. P. W.",
+      "masonic_codes": "7-11-2",
+      "lodge": "Warren",
+      "chapter": "Keystone",
+      "commandery": "Henderson",
+      "address": "Cumberland, Md.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108#xywh=441,880,940,38",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    },
+    {
+      "name": "Wright, David C.",
+      "masonic_codes": "7-11-2, S",
+      "lodge": "Warren",
+      "chapter": "Keystone",
+      "commandery": "Henderson",
+      "rank": "Mecca Temple, A.E.A.O.N. Mystic Shrine",
+      "address": "1348 27th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108#xywh=440,915,862,38",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    },
+    {
+      "name": "Wright, James B.",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "406 Elm nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108#xywh=440,950,701,36",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    },
+    {
+      "name": "Wright, John W.",
+      "masonic_codes": "7-11-2",
+      "lodge": "Warren",
+      "chapter": "Keystone",
+      "commandery": "Henderson",
+      "address": "1348 27th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108#xywh=440,980,799,42",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    },
+    {
+      "name": "Young, Beverly",
+      "masonic_codes": "12-2",
+      "lodge": "St. John's",
+      "chapter": "Union",
+      "address": "471 Clarks Court sw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108#xywh=443,1008,880,52",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    },
+    {
+      "name": "Young, Chas. H.",
+      "masonic_codes": "15",
+      "lodge": "Chas. Datcher",
+      "address": "1633 10th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108#xywh=443,1050,729,38",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    },
+    {
+      "name": "Young, James",
+      "masonic_codes": "6",
+      "lodge": "Meridian",
+      "address": "39 Hanover nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108#xywh=443,1085,694,37",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    },
+    {
+      "name": "Young, J. E.",
+      "masonic_codes": "10",
+      "lodge": "John F. Cook",
+      "address": "Garfield Anacostia.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108#xywh=443,1121,751,36",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    },
+    {
+      "name": "Young, Samuel",
+      "masonic_codes": "8",
+      "lodge": "Warren",
+      "address": "1205 N. Y. ave. nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108#xywh=445,1155,819,35",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    },
+    {
+      "name": "Young, Samuel I.",
+      "masonic_codes": "5",
+      "lodge": "Eureka",
+      "address": "635 L ne.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108#xywh=446,1186,615,38",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    },
+    {
+      "name": "Williams, Thomas N.",
+      "masonic_codes": "7",
+      "lodge": "Warren",
+      "address": "2121 11th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    },
+    {
+      "name": "Willis, Geo. W.",
+      "masonic_codes": "3",
+      "lodge": "Widow's Son",
+      "address": "332 C sw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    },
+    {
+      "name": "Wood, James W.",
+      "masonic_codes": "12",
+      "lodge": "St. John's",
+      "address": "826 10th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    },
+    {
+      "name": "Wormley, C. S.",
+      "masonic_codes": "14",
+      "lodge": "Prince Hall",
+      "address": "1531 14th nw.",
+      "section_title": "Masonic Directory",
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8072:108",
+      "image": "0108_service:rbc:lcrbmrp:t8072:108.jpg"
+    }
+  ]
+}

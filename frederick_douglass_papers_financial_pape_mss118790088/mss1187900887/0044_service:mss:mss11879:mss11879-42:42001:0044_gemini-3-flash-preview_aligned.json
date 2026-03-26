@@ -1,0 +1,348 @@
+{
+  "image": "0044_service:mss:mss11879:mss11879-42:42001:0044.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044",
+  "canvas_width": 1394,
+  "canvas_height": 1144,
+  "surya_median_confidence": 0.9945,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        170,
+        141,
+        547,
+        158
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=170,141,377,17",
+      "confidence": "line",
+      "gemini_text": "Organized October 1, 1888.",
+      "surya_confidence": 0.9862
+    },
+    {
+      "bbox": [
+        103,
+        209,
+        614,
+        251
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=103,209,511,42",
+      "confidence": "line",
+      "gemini_text": "Capital Savings Bank,",
+      "surya_confidence": 0.7047
+    },
+    {
+      "bbox": [
+        239,
+        272,
+        478,
+        298
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=239,272,239,26",
+      "confidence": "line",
+      "gemini_text": "609 F St., N. W.,",
+      "surya_confidence": 0.9928
+    },
+    {
+      "bbox": [
+        220,
+        318,
+        485,
+        344
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=220,318,265,26",
+      "confidence": "line",
+      "gemini_text": "WASHINGTON, D. C.",
+      "surya_confidence": 0.9578
+    },
+    {
+      "bbox": [
+        300,
+        403,
+        419,
+        419
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=300,403,119,16",
+      "confidence": "line",
+      "gemini_text": "OFFICERS.",
+      "surya_confidence": 0.9432
+    },
+    {
+      "bbox": [
+        239,
+        455,
+        473,
+        475
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=239,455,234,20",
+      "confidence": "line",
+      "gemini_text": "HON. J. R. LYNCH,",
+      "surya_confidence": 0.9882
+    },
+    {
+      "bbox": [
+        304,
+        485,
+        414,
+        504
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=304,485,110,19",
+      "confidence": "line",
+      "gemini_text": "President.",
+      "surya_confidence": 0.9812
+    },
+    {
+      "bbox": [
+        212,
+        512,
+        504,
+        532
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=212,512,292,20",
+      "confidence": "line",
+      "gemini_text": "DR. JAMES R. WILDER,",
+      "surya_confidence": 0.9797
+    },
+    {
+      "bbox": [
+        272,
+        540,
+        440,
+        559
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=272,540,168,19",
+      "confidence": "line",
+      "gemini_text": "Vice President.",
+      "surya_confidence": 0.9734
+    },
+    {
+      "bbox": [
+        240,
+        568,
+        473,
+        590
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=240,568,233,22",
+      "confidence": "line",
+      "gemini_text": "HENRY E. BAKER,",
+      "surya_confidence": 0.949
+    },
+    {
+      "bbox": [
+        297,
+        597,
+        411,
+        617
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=297,597,114,20",
+      "confidence": "line",
+      "gemini_text": "Secretary.",
+      "surya_confidence": 0.9977
+    },
+    {
+      "bbox": [
+        263,
+        626,
+        439,
+        643
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=263,626,176,17",
+      "confidence": "line",
+      "gemini_text": "L. C. BAILEY,",
+      "surya_confidence": 0.9565
+    },
+    {
+      "bbox": [
+        304,
+        652,
+        419,
+        672
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=304,652,115,20",
+      "confidence": "line",
+      "gemini_text": "Treasurer.",
+      "surya_confidence": 0.9879
+    },
+    {
+      "bbox": [
+        211,
+        677,
+        503,
+        703
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=211,677,292,26",
+      "confidence": "line",
+      "gemini_text": "DOUGLASS B. McCARY,",
+      "surya_confidence": 0.9701
+    },
+    {
+      "bbox": [
+        314,
+        711,
+        401,
+        728
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=314,711,87,17",
+      "confidence": "line",
+      "gemini_text": "Cashier.",
+      "surya_confidence": 0.9799
+    },
+    {
+      "bbox": [
+        281,
+        770,
+        419,
+        790
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=281,770,138,20",
+      "confidence": "line",
+      "gemini_text": "DIRECTORS.",
+      "surya_confidence": 0.9241
+    },
+    {
+      "bbox": [
+        101,
+        830,
+        299,
+        849
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=101,830,198,19",
+      "confidence": "line",
+      "gemini_text": "Hon. J. R. Lynch, L. C. Bailey,",
+      "surya_confidence": 0.9963
+    },
+    {
+      "bbox": [
+        335,
+        849,
+        505,
+        868
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=335,849,170,19",
+      "confidence": "line",
+      "gemini_text": "J. W. Cole, John A. Pierre,",
+      "surya_confidence": 0.9945
+    },
+    {
+      "bbox": [
+        336,
+        874,
+        549,
+        891
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=336,874,213,17",
+      "confidence": "line",
+      "gemini_text": "Henry E. Baker, Jerome A. Johnson,",
+      "surya_confidence": 0.9805
+    },
+    {
+      "bbox": [
+        101,
+        896,
+        539,
+        915
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=101,896,438,19",
+      "confidence": "line",
+      "gemini_text": "Prof. James Storum, Wm. E. Matthews,",
+      "surya_confidence": 0.9832
+    },
+    {
+      "bbox": [
+        333,
+        918,
+        612,
+        937
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=333,918,279,19",
+      "confidence": "line",
+      "gemini_text": "James T. Bradford Prof. W. S. Montgomery,",
+      "surya_confidence": 0.976
+    },
+    {
+      "bbox": [
+        334,
+        938,
+        562,
+        960
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=334,938,228,22",
+      "confidence": "line",
+      "gemini_text": "Dr. A. W. Tancil, Dr. James R. Wilder,",
+      "surya_confidence": 0.9888
+    },
+    {
+      "bbox": [
+        102,
+        965,
+        275,
+        982
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=102,965,173,17",
+      "confidence": "line",
+      "gemini_text": "John. A. Lewis, Dr. W. S. Lofton,",
+      "surya_confidence": 0.9898
+    },
+    {
+      "bbox": [
+        245,
+        983,
+        477,
+        1003
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=245,983,232,20",
+      "confidence": "line",
+      "gemini_text": "Whitefield McKinlay.",
+      "surya_confidence": 0.9911
+    },
+    {
+      "bbox": [
+        796,
+        140,
+        1281,
+        198
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=796,140,485,58",
+      "confidence": "line",
+      "gemini_text": "THE CAPITAL SAVINGS BANK",
+      "surya_confidence": 0.9288
+    },
+    {
+      "bbox": [
+        770,
+        314,
+        1284,
+        349
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=770,314,514,35",
+      "confidence": "line",
+      "gemini_text": "Presents the \"compliments of the season\" to its many patrons and friends, and asks for the New Year a continuance of the patronage which they have so generously given to it in the past, and upon which has been built the splendid success which the Bank has achieved.",
+      "surya_confidence": 1.0
+    },
+    {
+      "bbox": [
+        774,
+        579,
+        1286,
+        617
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=774,579,512,38",
+      "confidence": "line",
+      "gemini_text": "With the purchase of our new building at 609 F St., at a cost of $32,000, and with the alterations necessary to adapt it to the needs of our business, we have greatly improved our facilities for transacting a general banking business, and we cordially invite the public to give us a larger share of their patronage and support.",
+      "surya_confidence": 0.9971
+    },
+    {
+      "bbox": [
+        778,
+        981,
+        1291,
+        1020
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0044#xywh=778,981,513,39",
+      "confidence": "line",
+      "gemini_text": "As a SAVINGS INSTITUTION, we invite special attention to the importance of forming the habit of laying by some part of one's earnings regularly—however small it may be—so that the foundation may thus be laid for larger accumulations; and as a MEDIUM OF EXCHANGE for business men, we offer special advantages in the fact that our location is cen-",
+      "surya_confidence": 1.0
+    }
+  ],
+  "unmatched_gemini": []
+}

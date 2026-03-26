@@ -1,0 +1,486 @@
+{
+  "image_width": 1827,
+  "image_height": 3010,
+  "lines": [
+    {
+      "bbox": [
+        305,
+        366,
+        1255,
+        428
+      ],
+      "text": "M. Ex. Grand R. A. Chapter of the Dist. of Col.",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        717,
+        451,
+        848,
+        484
+      ],
+      "text": "1904.",
+      "confidence": 0.954
+    },
+    {
+      "bbox": [
+        308,
+        513,
+        1256,
+        562
+      ],
+      "text": "M. Ex. Comp. Frank H. Cozzens, Gr. High Priest",
+      "confidence": 0.9974
+    },
+    {
+      "bbox": [
+        613,
+        563,
+        948,
+        599
+      ],
+      "text": "2111 9th st. nw.",
+      "confidence": 0.9922
+    },
+    {
+      "bbox": [
+        308,
+        599,
+        1256,
+        655
+      ],
+      "text": "Ex. Comp. Arthur Simmons, D. Gr. High Priest",
+      "confidence": 0.9937
+    },
+    {
+      "bbox": [
+        310,
+        647,
+        1256,
+        696
+      ],
+      "text": "Ex. Comp. Charles D. Freeman . . . Grand King",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        313,
+        691,
+        1256,
+        743
+      ],
+      "text": "Ex. Comp. Wm. Knox Brown...Grand Scribe",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        313,
+        736,
+        1258,
+        787
+      ],
+      "text": "Ex. Comp. Renjamin F. Dailey .. Gr. Treasurer",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        311,
+        780,
+        1255,
+        831
+      ],
+      "text": "Ex. Comp. James O. Bampfield...Grand Sec'y",
+      "confidence": 0.9916
+    },
+    {
+      "bbox": [
+        636,
+        832,
+        943,
+        866
+      ],
+      "text": "1119 V st. nw.",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        357,
+        871,
+        1215,
+        922
+      ],
+      "text": "Annual Meeting, Tuesday, Nov. 22, 1904.",
+      "confidence": 0.9917
+    },
+    {
+      "bbox": [
+        357,
+        967,
+        1210,
+        1008
+      ],
+      "text": "Mt. Vernon Chapter, No. 1, R. A. M.",
+      "confidence": 0.9883
+    },
+    {
+      "bbox": [
+        313,
+        1004,
+        1261,
+        1058
+      ],
+      "text": "Robert H. Beverly....................................",
+      "confidence": 0.995
+    },
+    {
+      "bbox": [
+        317,
+        1051,
+        1258,
+        1105
+      ],
+      "text": "Benj. F. Pope ......King",
+      "confidence": 0.9933
+    },
+    {
+      "bbox": [
+        317,
+        1096,
+        1261,
+        1147
+      ],
+      "text": "Longstreet Bradford.....Scribe",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        314,
+        1143,
+        1259,
+        1189
+      ],
+      "text": "Primus H. Simmons.....Secretary",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        601,
+        1185,
+        971,
+        1226
+      ],
+      "text": "1020 20th st. nw.",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        596,
+        1233,
+        996,
+        1275
+      ],
+      "text": "Meets First Friday.",
+      "confidence": 0.9949
+    },
+    {
+      "bbox": [
+        428,
+        1321,
+        1160,
+        1371
+      ],
+      "text": "Union Chapter, No. 2, R. A. M.",
+      "confidence": 0.9842
+    },
+    {
+      "bbox": [
+        317,
+        1362,
+        1264,
+        1416
+      ],
+      "text": "Wm. A. Clark ..... High Priest",
+      "confidence": 0.998
+    },
+    {
+      "bbox": [
+        317,
+        1408,
+        1264,
+        1458
+      ],
+      "text": "Amasa W. Scott ..... King",
+      "confidence": 0.996
+    },
+    {
+      "bbox": [
+        317,
+        1452,
+        1264,
+        1505
+      ],
+      "text": "Gilbert Redding......Scribe",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        322,
+        1499,
+        1265,
+        1548
+      ],
+      "text": "William Anderson......Secretary",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        601,
+        1545,
+        973,
+        1584
+      ],
+      "text": "163 Pierce st nw.",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        537,
+        1592,
+        1045,
+        1630
+      ],
+      "text": "Meets Third Wednesday.",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        365,
+        1680,
+        1223,
+        1727
+      ],
+      "text": "Prince Hall Chapter, No. 5, R. A. M.",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        322,
+        1722,
+        1270,
+        1771
+      ],
+      "text": "John D. Howard....................................",
+      "confidence": 0.9951
+    },
+    {
+      "bbox": [
+        322,
+        1767,
+        1268,
+        1816
+      ],
+      "text": "Alex. F. Hicks..... King",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        325,
+        1814,
+        1270,
+        1858
+      ],
+      "text": "Moses Lewis.... Scribe",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        325,
+        1859,
+        1268,
+        1899
+      ],
+      "text": "John F. N. Wilkinson ..... Secretary",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        651,
+        1905,
+        930,
+        1938
+      ],
+      "text": "901 Est. sw.",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        548,
+        1950,
+        1042,
+        1986
+      ],
+      "text": "Meets First Wednesday.",
+      "confidence": 0.9906
+    },
+    {
+      "bbox": [
+        390,
+        2033,
+        1209,
+        2087
+      ],
+      "text": "St. John's Chapter, No. 7, R. A. M.",
+      "confidence": 0.9982
+    },
+    {
+      "bbox": [
+        325,
+        2078,
+        1274,
+        2128
+      ],
+      "text": "Wm. H. Judd Matvin ...... High Priest",
+      "confidence": 0.9893
+    },
+    {
+      "bbox": [
+        325,
+        2125,
+        1274,
+        2174
+      ],
+      "text": "Fred. D. Henry..... King",
+      "confidence": 0.993
+    },
+    {
+      "bbox": [
+        330,
+        2170,
+        1274,
+        2216
+      ],
+      "text": "Irr. A. H. Stevens......Scribe",
+      "confidence": 0.8857
+    },
+    {
+      "bbox": [
+        330,
+        2216,
+        1273,
+        2262
+      ],
+      "text": "Wm. H. Severson ..... Secretary",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        643,
+        2259,
+        930,
+        2299
+      ],
+      "text": "326 Est. sw.",
+      "confidence": 0.9745
+    },
+    {
+      "bbox": [
+        550,
+        2302,
+        1051,
+        2350
+      ],
+      "text": "Meets Second Thursday.",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        389,
+        2390,
+        1209,
+        2439
+      ],
+      "text": "Keystone Chapter, No. 11, R. A.M.",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        325,
+        2434,
+        1277,
+        2487
+      ],
+      "text": "George W. Jones..... High Priest",
+      "confidence": 0.9959
+    },
+    {
+      "bbox": [
+        316,
+        2481,
+        1275,
+        2531
+      ],
+      "text": "John S. George ...... King",
+      "confidence": 0.9839
+    },
+    {
+      "bbox": [
+        327,
+        2526,
+        1277,
+        2570
+      ],
+      "text": "N. E. Weatherless..... Scribe",
+      "confidence": 0.9904
+    },
+    {
+      "bbox": [
+        330,
+        2569,
+        1276,
+        2618
+      ],
+      "text": "Louis N. Harris..... Secretary",
+      "confidence": 0.9993
+    },
+    {
+      "bbox": [
+        654,
+        2613,
+        959,
+        2652
+      ],
+      "text": "2453 Pst. nw.",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        567,
+        2660,
+        1053,
+        2702
+      ],
+      "text": "Meets Fourth Tuesday.",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        752,
+        2711,
+        832,
+        2743
+      ],
+      "text": "109",
+      "confidence": 0.9831
+    },
+    {
+      "bbox": [
+        459,
+        2926,
+        557,
+        2938
+      ],
+      "text": "State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the State of the S",
+      "confidence": 0.1114
+    }
+  ]
+}

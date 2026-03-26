@@ -1,0 +1,326 @@
+{
+  "image_width": 1882,
+  "image_height": 3001,
+  "lines": [
+    {
+      "bbox": [
+        719,
+        379,
+        1218,
+        417
+      ],
+      "text": "ZEPH. P. MOORE,",
+      "confidence": 0.9763
+    },
+    {
+      "bbox": [
+        801,
+        470,
+        1148,
+        506
+      ],
+      "text": "Notary Public.",
+      "confidence": 0.9642
+    },
+    {
+      "bbox": [
+        409,
+        556,
+        1533,
+        595
+      ],
+      "text": "FIRE, LIFE AND ACCIDENT INSURANCE.",
+      "confidence": 0.9798
+    },
+    {
+      "bbox": [
+        606,
+        646,
+        1309,
+        683
+      ],
+      "text": "No. 1206 R Street, Northwest,",
+      "confidence": 0.9913
+    },
+    {
+      "bbox": [
+        429,
+        732,
+        820,
+        766
+      ],
+      "text": "Phone Main 2322",
+      "confidence": 0.9573
+    },
+    {
+      "bbox": [
+        1223,
+        735,
+        1643,
+        773
+      ],
+      "text": "Washington, D C.",
+      "confidence": 0.9897
+    },
+    {
+      "bbox": [
+        686,
+        811,
+        1237,
+        849
+      ],
+      "text": "THE SMITH HOUSE,",
+      "confidence": 0.9908
+    },
+    {
+      "bbox": [
+        592,
+        898,
+        1339,
+        939
+      ],
+      "text": "479 Missouri Avenue, Northwest.",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        294,
+        966,
+        1640,
+        1008
+      ],
+      "text": "Rooms Neatly Furnished, Ladies and Gent's Dining Room.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        515,
+        1057,
+        1416,
+        1094
+      ],
+      "text": "Everything New. Hot and Cold Baths.",
+      "confidence": 0.9737
+    },
+    {
+      "bbox": [
+        625,
+        1138,
+        1307,
+        1175
+      ],
+      "text": "Alice M. Smith, Proprietress.",
+      "confidence": 0.9929
+    },
+    {
+      "bbox": [
+        588,
+        1213,
+        1340,
+        1252
+      ],
+      "text": "BROWNING & MIDDLETON,",
+      "confidence": 0.8794
+    },
+    {
+      "bbox": [
+        859,
+        1270,
+        1079,
+        1303
+      ],
+      "text": "Dealer in",
+      "confidence": 0.9653
+    },
+    {
+      "bbox": [
+        387,
+        1323,
+        1540,
+        1367
+      ],
+      "text": "FINE FAMILY GROCERIES, TEAS, WINES",
+      "confidence": 0.959
+    },
+    {
+      "bbox": [
+        757,
+        1393,
+        1177,
+        1432
+      ],
+      "text": "AND LIQUORS.",
+      "confidence": 0.9829
+    },
+    {
+      "bbox": [
+        290,
+        1448,
+        1638,
+        1488
+      ],
+      "text": "Agents for Werner's \"America\" Extra Dry Champagne.",
+      "confidence": 0.9961
+    },
+    {
+      "bbox": [
+        686,
+        1504,
+        1246,
+        1538
+      ],
+      "text": "COFFEE ROASTERS.",
+      "confidence": 0.9293
+    },
+    {
+      "bbox": [
+        440,
+        1562,
+        1467,
+        1600
+      ],
+      "text": "608 Pennsylvania Avenue, Washington, D. C.",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        682,
+        1702,
+        1256,
+        1737
+      ],
+      "text": "HORACE M. BAILEY.",
+      "confidence": 0.9397
+    },
+    {
+      "bbox": [
+        854,
+        1800,
+        1443,
+        1838
+      ],
+      "text": "TONSORIAL ARTIST.",
+      "confidence": 0.9619
+    },
+    {
+      "bbox": [
+        1083,
+        1905,
+        1632,
+        1942
+      ],
+      "text": "400 I Street, Northwest.",
+      "confidence": 0.982
+    },
+    {
+      "bbox": [
+        287,
+        1959,
+        861,
+        1997
+      ],
+      "text": "Choice Brands of Cigars.",
+      "confidence": 0.836
+    },
+    {
+      "bbox": [
+        702,
+        2085,
+        1202,
+        2124
+      ],
+      "text": "W. KNOX BROWN,",
+      "confidence": 0.9737
+    },
+    {
+      "bbox": [
+        413,
+        2163,
+        1487,
+        2207
+      ],
+      "text": "New Jersey Avenue and L Street, Northwest.",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        636,
+        2239,
+        1272,
+        2279
+      ],
+      "text": "CIGARS AND TOBACCO.",
+      "confidence": 0.927
+    },
+    {
+      "bbox": [
+        522,
+        2322,
+        1392,
+        2358
+      ],
+      "text": "All Kinds of Fruit and Confectionery.",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        743,
+        2424,
+        1165,
+        2460
+      ],
+      "text": "T. F. WHALEN,",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        790,
+        2479,
+        1119,
+        2511
+      ],
+      "text": "—Dealer in—",
+      "confidence": 0.5979
+    },
+    {
+      "bbox": [
+        522,
+        2533,
+        1391,
+        2574
+      ],
+      "text": "GROCERIES AND PROVISIONS,",
+      "confidence": 0.9257
+    },
+    {
+      "bbox": [
+        326,
+        2591,
+        1573,
+        2624
+      ],
+      "text": "Fresh and Salt Meats of all Kinds at Market Prices.",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        617,
+        2647,
+        1273,
+        2681
+      ],
+      "text": "CIGARS AND TOBACCO.",
+      "confidence": 0.9418
+    },
+    {
+      "bbox": [
+        575,
+        2705,
+        1337,
+        2741
+      ],
+      "text": "1146 Fifteenth Street, Northwest.",
+      "confidence": 0.995
+    }
+  ]
+}

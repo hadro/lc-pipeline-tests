@@ -1,0 +1,228 @@
+{
+  "image": "0022_service:mss:mss11879:mss11879-42:42001:0022.jpg",
+  "model": "gemini-3-flash-preview",
+  "canvas_uri": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022",
+  "canvas_width": 1903,
+  "canvas_height": 1647,
+  "surya_median_confidence": 0.9031,
+  "needs_review": false,
+  "lines": [
+    {
+      "bbox": [
+        1203,
+        140,
+        1617,
+        195
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1203,140,414,55",
+      "confidence": "line",
+      "gemini_text": "For clothes & sundries",
+      "surya_confidence": 0.9925
+    },
+    {
+      "bbox": [
+        1011,
+        205,
+        1723,
+        277
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1011,205,712,72",
+      "confidence": "line",
+      "gemini_text": "Paid to Helen: July 15. 1886 $ 50. 00",
+      "surya_confidence": 0.772
+    },
+    {
+      "bbox": [
+        1130,
+        278,
+        1449,
+        316
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1130,278,319,38",
+      "confidence": "line",
+      "gemini_text": "\" \" \" Nov- 19. \" 25. 00",
+      "surya_confidence": 0.8821
+    },
+    {
+      "bbox": [
+        1127,
+        327,
+        1401,
+        366
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1127,327,274,39",
+      "confidence": "line",
+      "gemini_text": "\" \" \" Aug. 5 00",
+      "surya_confidence": 0.9289
+    },
+    {
+      "bbox": [
+        1655,
+        423,
+        1744,
+        463
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1655,423,89,40",
+      "confidence": "line",
+      "gemini_text": "4 00",
+      "surya_confidence": 0.9937
+    },
+    {
+      "bbox": [
+        998,
+        430,
+        1131,
+        471
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=998,430,133,41",
+      "confidence": "line",
+      "gemini_text": "Mar: 30 4 00",
+      "surya_confidence": 0.4596
+    },
+    {
+      "bbox": [
+        1006,
+        475,
+        1586,
+        529
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1006,475,580,54",
+      "confidence": "line",
+      "gemini_text": "1887. 2 Pairs of boots Rome 6 50",
+      "surya_confidence": 0.991
+    },
+    {
+      "bbox": [
+        1002,
+        525,
+        1502,
+        578
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1002,525,500,53",
+      "confidence": "line",
+      "gemini_text": "April 20 Umbrella and gloves 4.00",
+      "surya_confidence": 0.9991
+    },
+    {
+      "bbox": [
+        1001,
+        559,
+        1757,
+        633
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1001,559,756,74",
+      "confidence": "line",
+      "gemini_text": "May 6. Silk Dress Rome- $ 33- 00",
+      "surya_confidence": 0.953
+    },
+    {
+      "bbox": [
+        999,
+        632,
+        1481,
+        672
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=999,632,482,40",
+      "confidence": "line",
+      "gemini_text": "25 \" Paris: Boots- 5 60",
+      "surya_confidence": 0.9743
+    },
+    {
+      "bbox": [
+        989,
+        663,
+        1770,
+        733
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=989,663,781,70",
+      "confidence": "line",
+      "gemini_text": "May 28. Paris: making dress. $ 50 00",
+      "surya_confidence": 0.9935
+    },
+    {
+      "bbox": [
+        1131,
+        720,
+        1789,
+        777
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1131,720,658,57",
+      "confidence": "line",
+      "gemini_text": "Cameo: $ 125- 00.",
+      "surya_confidence": 0.5055
+    },
+    {
+      "bbox": [
+        1414,
+        773,
+        1779,
+        821
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1414,773,365,48",
+      "confidence": "line",
+      "gemini_text": "Violin $ 100- 00",
+      "surya_confidence": 0.4994
+    },
+    {
+      "bbox": [
+        1141,
+        828,
+        1635,
+        880
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1141,828,494,52",
+      "confidence": "line",
+      "gemini_text": "Tariff on gold spoons. 1.80-",
+      "surya_confidence": 0.6024
+    },
+    {
+      "bbox": [
+        1642,
+        830,
+        1784,
+        868
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1642,830,142,38",
+      "confidence": "line",
+      "gemini_text": "May 31. London for gloves. . . . 2 50",
+      "surya_confidence": 0.9755
+    },
+    {
+      "bbox": [
+        993,
+        866,
+        1636,
+        995
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=993,866,643,129",
+      "confidence": "line",
+      "gemini_text": "June. 6. Dress eleven dollars 11- 38.",
+      "surya_confidence": 0.9445
+    },
+    {
+      "bbox": [
+        1026,
+        974,
+        1547,
+        1027
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1026,974,521,53",
+      "confidence": "line",
+      "gemini_text": "\" 7 Shoes &cts 5.00",
+      "surya_confidence": 0.7735
+    },
+    {
+      "bbox": [
+        1019,
+        1024,
+        1594,
+        1086
+      ],
+      "canvas_fragment": "https://tile.loc.gov/image-services/iiif/service:mss:mss11879:mss11879-42:42001:0022#xywh=1019,1024,575,62",
+      "confidence": "line",
+      "gemini_text": "\" 8. Seventy frs. in America 70 00",
+      "surya_confidence": 0.7358
+    }
+  ],
+  "unmatched_gemini": []
+}

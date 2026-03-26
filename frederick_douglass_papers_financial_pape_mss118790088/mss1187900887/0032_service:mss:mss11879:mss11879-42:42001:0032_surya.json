@@ -1,0 +1,56 @@
+{
+  "image_width": 1524,
+  "image_height": 706,
+  "lines": [
+    {
+      "bbox": [
+        825,
+        129,
+        1388,
+        199
+      ],
+      "text": "Rochester February 4. 1857.",
+      "confidence": 0.53
+    },
+    {
+      "bbox": [
+        634,
+        213,
+        1142,
+        298
+      ],
+      "text": "KARNES,",
+      "confidence": 0.489
+    },
+    {
+      "bbox": [
+        530,
+        320,
+        1039,
+        400
+      ],
+      "text": "and Hastings and Melian",
+      "confidence": 0.8492
+    },
+    {
+      "bbox": [
+        280,
+        419,
+        608,
+        511
+      ],
+      "text": "Three hundren",
+      "confidence": 0.986
+    },
+    {
+      "bbox": [
+        808,
+        496,
+        1275,
+        578
+      ],
+      "text": "Wederick Douglass",
+      "confidence": 0.3857
+    }
+  ]
+}

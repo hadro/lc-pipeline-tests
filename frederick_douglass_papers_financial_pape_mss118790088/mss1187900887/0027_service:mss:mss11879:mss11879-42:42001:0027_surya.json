@@ -1,0 +1,246 @@
+{
+  "image_width": 828,
+  "image_height": 1283,
+  "lines": [
+    {
+      "bbox": [
+        224,
+        214,
+        566,
+        248
+      ],
+      "text": "OFFICERS AND TRUSTEES",
+      "confidence": 0.8601
+    },
+    {
+      "bbox": [
+        361,
+        285,
+        430,
+        300
+      ],
+      "text": "OF THE",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        122,
+        328,
+        673,
+        388
+      ],
+      "text": "German American Savings Bank.",
+      "confidence": 0.9955
+    },
+    {
+      "bbox": [
+        366,
+        472,
+        440,
+        494
+      ],
+      "text": "Officers.",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        233,
+        509,
+        481,
+        538
+      ],
+      "text": "JOHN HITZ, PRESIDENT.",
+      "confidence": 0.9768
+    },
+    {
+      "bbox": [
+        235,
+        532,
+        589,
+        567
+      ],
+      "text": "ANTON EBERLY, VIGE-PRESIDENT.",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        235,
+        560,
+        577,
+        594
+      ],
+      "text": "WM F. MATTINGLY, SECRETARY.",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        236,
+        590,
+        506,
+        621
+      ],
+      "text": "C. E. PRENTISS, CASHIER.",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        238,
+        615,
+        624,
+        650
+      ],
+      "text": "ROBT. M. POTTS, Assistant Cashier.",
+      "confidence": 0.9881
+    },
+    {
+      "bbox": [
+        315,
+        686,
+        496,
+        715
+      ],
+      "text": "Board of Trustess.",
+      "confidence": 0.9879
+    },
+    {
+      "bbox": [
+        291,
+        725,
+        497,
+        754
+      ],
+      "text": "R. B. DONALDSON,",
+      "confidence": 0.988
+    },
+    {
+      "bbox": [
+        294,
+        754,
+        480,
+        781
+      ],
+      "text": "ANTON EBERLY,",
+      "confidence": 0.9789
+    },
+    {
+      "bbox": [
+        295,
+        780,
+        500,
+        809
+      ],
+      "text": "GEORGE EMMERT,",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        295,
+        811,
+        429,
+        837
+      ],
+      "text": "JOHN HITZ,",
+      "confidence": 0.98
+    },
+    {
+      "bbox": [
+        297,
+        837,
+        496,
+        864
+      ],
+      "text": "JAMES M. LEWIS,",
+      "confidence": 0.9406
+    },
+    {
+      "bbox": [
+        296,
+        863,
+        521,
+        892
+      ],
+      "text": "WM. F. MATTINGLY,",
+      "confidence": 0.9896
+    },
+    {
+      "bbox": [
+        299,
+        891,
+        545,
+        921
+      ],
+      "text": "CHRISTIAN RUPPERT,",
+      "confidence": 0.977
+    },
+    {
+      "bbox": [
+        298,
+        919,
+        544,
+        949
+      ],
+      "text": "LOUIS H. SCHNEIDER,",
+      "confidence": 0.9842
+    },
+    {
+      "bbox": [
+        300,
+        948,
+        503,
+        976
+      ],
+      "text": "FREDRICH STUTZ.",
+      "confidence": 0.9707
+    },
+    {
+      "bbox": [
+        141,
+        1039,
+        695,
+        1080
+      ],
+      "text": "BANK HOURS .- 10 A. M. to 4 o'clock, P. M. Open on",
+      "confidence": 0.9953
+    },
+    {
+      "bbox": [
+        221,
+        1069,
+        614,
+        1104
+      ],
+      "text": "Saturday evenings from 6 to 8 o'clock, to",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        312,
+        1094,
+        523,
+        1126
+      ],
+      "text": "receive usposits only.",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        188,
+        1134,
+        698,
+        1174
+      ],
+      "text": "If this book should be lost, immediate notice must",
+      "confidence": 0.9704
+    },
+    {
+      "bbox": [
+        314,
+        1168,
+        524,
+        1198
+      ],
+      "text": "be given to the Bank.",
+      "confidence": 0.9984
+    }
+  ]
+}
