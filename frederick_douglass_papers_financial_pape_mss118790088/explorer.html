@@ -578,6 +578,16 @@ function viewerUrl(canvas_fragment) {
     return `https://archive.org/details/${iaMatch[1]}/page/n${iaMatch[2]}/mode/2up`;
   }
 
+  // LOC IIIF image service: https://tile.loc.gov/image-services/iiif/service:{type}:{coll}:{item}:{part}:{page}
+  const tileSvcMatch = cid.match(/https:\/\/tile\.loc\.gov\/image-services\/iiif\/service:[^:]+:([^:]+):[^:]+:([^:]+):([^/#]+)/);
+  if (tileSvcMatch) {
+    const sp = parseInt(tileSvcMatch[3]); // parseInt("0001d") → 1
+    if (currentDocMeta && currentDocMeta.resource_url) {
+      return currentDocMeta.resource_url.replace(/\/?$/, "/") + `?sp=${sp}&st=image`;
+    }
+    return `https://www.loc.gov/resource/${tileSvcMatch[1]}.${tileSvcMatch[2]}/?sp=${sp}&st=image`;
+  }
+
   // Library of Congress: https://www.loc.gov/item/{id}/canvas/{num}
   const locMatch = cid.match(/https:\/\/www\.loc\.gov\/item\/([^/]+)\/canvas\/(\d+)/);
   if (locMatch) {
