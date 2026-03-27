@@ -77,7 +77,9 @@ The "files" go to the source repo and generally include some or all of the follo
 
 ## Previous examples sent out with the invitation
 
-- [1911 Woods' Business, Professional and Trades Directory of New Orleans, Louisiana](https://hadro.github.io/woods-directory/explorer)
+- 1911 Woods' Business, Professional and Trades Directory of New Orleans, Louisiana
+    - [Explorer](https://hadro.github.io/woods-directory/explorer#about)
+    - [Map viewer](https://hadro.github.io/woods-directory/map#about)
 - [1842 copyright ledger (printed text & handwritten text)](https://hadro.github.io/copyright-ledger-test/explorer)
 - [19th Century brewery guides, extracted from a brewery guide](https://hadro.github.io/brewery-guides/explorer#about)
 - [Example map listings from the 1947 Green Book](https://hadro.github.io/green-book-iiif-test/map)
