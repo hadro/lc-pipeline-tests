@@ -18,7 +18,7 @@ Josh Hadro</p>
 </section>
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="2" lang="en-US">
 <h2 id="what-the-pipeline-does">What the pipeline does</h2>
-<p>Takes any item with <a href="https://iiif.io/get-started/how-iiif-works/">a IIIF manifest</a> and runs through a human-in-the-loop, Large Language Model (LLM)-augmented pipeline to produce structured data with minimal customization required.</p>
+<p>Takes any item with <a href="https://iiif.io/get-started/how-iiif-works/">a IIIF manifest</a> and runs through a human-in-the-loop, Large Language Model (LLM)-augmented set of scripts to produce structured data with minimal customization required.</p>
 </section>
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="3" lang="en-US">
 <h2 id="example-outputs">Example outputs</h2>
@@ -30,10 +30,11 @@ Josh Hadro</p>
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="4" lang="en-US">
 <h2 id="what-are-we-talking-about-today">What are we talking about today</h2>
 <ul>
-<li>Broadly, LLM-assisted tools that may aid in the exploration of library materials</li>
+<li>At root, very targeted LLM-assisted tooling that may aid in the exploration of library materials</li>
 <li>Not just talking about LC stuff! Any <a href="https://iiif.io/get-started/how-iiif-works/">IIIF</a>-compliant digital collection items</li>
 <li>Not a replacement for anything! An augmentation -- like OCR, and other access points, as means of increasing the surface area of discovery for potentially interested patrons and users. Likewise, helping interested researchers get to the most interesting parts of their inquiry more quickly</li>
-<li>Mainly for directories, gazetteers, and similarly structured items. Less useful for general tabular data, but it does work surprisingly well for hand-written documents</li>
+<li>Mainly for directories, gazetteers, and similarly structured items, where latent information is often implicit in the structure of the page and the listings</li>
+<li>Less useful for general tabular data, but it does work surprisingly well for structured hand-written documents</li>
 </ul>
 </section>
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="5" lang="en-US">
@@ -100,13 +101,21 @@ Josh Hadro</p>
 </ul>
 </section>
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="16" lang="en-US">
+<h2 id="how-prompts-figure-into-the-pipeline">How prompts figure into the Pipeline</h2>
+<p>Some LLM-generated prompt examples, based on 3-5 example pages each:</p>
+<ul>
+<li><a href="https://github.com/hadro/lc-pipeline-tests/blob/main/steiger_s_german_american_cookbook_steig_07033856/ocr_prompt.md">OCR prompt</a> for <a href="https://www.loc.gov/item/07033856/">the Steiger’s German American cookbook</a></li>
+<li><a href="https://github.com/hadro/lc-pipeline-tests/blob/main/directory_of_the_grand_and_subordinate_l_74175569/ner_prompt.md">Entity extraction prompt</a> for <a href="https://www.loc.gov/item/74175569/">Directory of the Grand and Subordinate Lodges, F.A.A.M. of the District of Columbia, 1903-1905</a></li>
+</ul>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="17" lang="en-US">
 <h2 id="human-in-the-loop-interface-examples">Human-in-the-loop interface examples</h2>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section lang="en-US" data-marpit-advanced-background="background"><div data-marpit-advanced-background-container="true" data-marpit-advanced-background-direction="horizontal"><figure style="background-image:url(&quot;https://github.com/hadro/directory-pipeline/raw/main/docs/screenshots/web-interface.png&quot;);"></figure></div></section></foreignObject><foreignObject width="1280" height="720"><section id="17" lang="en-US" data-marpit-advanced-background="content"></section>
-</foreignObject><foreignObject width="1280" height="720" data-marpit-advanced-background="pseudo"><section lang="en-US" data-marpit-advanced-background="pseudo" style=""></section></foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section lang="en-US" data-marpit-advanced-background="background"><div data-marpit-advanced-background-container="true" data-marpit-advanced-background-direction="horizontal"><figure style="background-image:url(&quot;https://github.com/hadro/directory-pipeline/raw/main/docs/screenshots/select-pages.png&quot;);"></figure></div></section></foreignObject><foreignObject width="1280" height="720"><section id="18" lang="en-US" data-marpit-advanced-background="content"></section>
-</foreignObject><foreignObject width="1280" height="720" data-marpit-advanced-background="pseudo"><section lang="en-US" data-marpit-advanced-background="pseudo" style=""></section></foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section lang="en-US" data-marpit-advanced-background="background"><div data-marpit-advanced-background-container="true" data-marpit-advanced-background-direction="horizontal"><figure style="background-image:url(&quot;https://github.com/hadro/directory-pipeline/raw/main/docs/screenshots/review-alignment.png&quot;);"></figure></div></section></foreignObject><foreignObject width="1280" height="720"><section id="19" lang="en-US" data-marpit-advanced-background="content"></section>
-</foreignObject><foreignObject width="1280" height="720" data-marpit-advanced-background="pseudo"><section lang="en-US" data-marpit-advanced-background="pseudo" style=""></section></foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section lang="en-US" data-marpit-advanced-background="background"><div data-marpit-advanced-background-container="true" data-marpit-advanced-background-direction="horizontal"><figure style="background-image:url(&quot;https://github.com/hadro/directory-pipeline/raw/main/docs/screenshots/ner-in-cli.png&quot;);"></figure></div></section></foreignObject><foreignObject width="1280" height="720"><section id="20" lang="en-US" data-marpit-advanced-background="content"></section>
-</foreignObject><foreignObject width="1280" height="720" data-marpit-advanced-background="pseudo"><section lang="en-US" data-marpit-advanced-background="pseudo" style=""></section></foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="21" lang="en-US">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section lang="en-US" data-marpit-advanced-background="background"><div data-marpit-advanced-background-container="true" data-marpit-advanced-background-direction="horizontal"><figure style="background-image:url(&quot;https://github.com/hadro/directory-pipeline/raw/main/docs/screenshots/web-interface.png&quot;);"></figure></div></section></foreignObject><foreignObject width="1280" height="720"><section id="18" lang="en-US" data-marpit-advanced-background="content"></section>
+</foreignObject><foreignObject width="1280" height="720" data-marpit-advanced-background="pseudo"><section lang="en-US" data-marpit-advanced-background="pseudo" style=""></section></foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section lang="en-US" data-marpit-advanced-background="background"><div data-marpit-advanced-background-container="true" data-marpit-advanced-background-direction="horizontal"><figure style="background-image:url(&quot;https://github.com/hadro/directory-pipeline/raw/main/docs/screenshots/select-pages.png&quot;);"></figure></div></section></foreignObject><foreignObject width="1280" height="720"><section id="19" lang="en-US" data-marpit-advanced-background="content"></section>
+</foreignObject><foreignObject width="1280" height="720" data-marpit-advanced-background="pseudo"><section lang="en-US" data-marpit-advanced-background="pseudo" style=""></section></foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section lang="en-US" data-marpit-advanced-background="background"><div data-marpit-advanced-background-container="true" data-marpit-advanced-background-direction="horizontal"><figure style="background-image:url(&quot;https://github.com/hadro/directory-pipeline/raw/main/docs/screenshots/review-alignment.png&quot;);"></figure></div></section></foreignObject><foreignObject width="1280" height="720"><section id="20" lang="en-US" data-marpit-advanced-background="content"></section>
+</foreignObject><foreignObject width="1280" height="720" data-marpit-advanced-background="pseudo"><section lang="en-US" data-marpit-advanced-background="pseudo" style=""></section></foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section lang="en-US" data-marpit-advanced-background="background"><div data-marpit-advanced-background-container="true" data-marpit-advanced-background-direction="horizontal"><figure style="background-image:url(&quot;https://github.com/hadro/directory-pipeline/raw/main/docs/screenshots/ner-in-cli.png&quot;);"></figure></div></section></foreignObject><foreignObject width="1280" height="720"><section id="21" lang="en-US" data-marpit-advanced-background="content"></section>
+</foreignObject><foreignObject width="1280" height="720" data-marpit-advanced-background="pseudo"><section lang="en-US" data-marpit-advanced-background="pseudo" style=""></section></foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="22" lang="en-US">
 <h2 id="pipeline-actors">Pipeline actors</h2>
 <h3 id="what-a-human-is-doing-in-this-pipeline">What a <strong>human</strong> is doing in this pipeline</h3>
 <ul>
@@ -119,17 +128,17 @@ Josh Hadro</p>
 <li>Synthesizing, understanding, and getting excited about possibilities</li>
 </ul>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="22" lang="en-US">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="23" lang="en-US">
 <h2 id="pipeline-actors-1">Pipeline actors</h2>
 <h3 id="what-an-llm-is-doing-in-this-pipeline">What an <strong>LLM</strong> is doing in this pipeline</h3>
 <ul>
 <li>Meta-prompting for prompt-generation (OCR, NER)</li>
-<li>Tuned OCR extraction</li>
+<li>Item-specific OCR extraction</li>
 <li>Handwriting detection</li>
 <li>Item-specific data extraction</li>
 </ul>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="23" lang="en-US">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="24" lang="en-US">
 <h2 id="pipeline-actors-2">Pipeline actors</h2>
 <h3 id="what-a-plain-old-computer-is-doing-in-this-pipeline">What a <strong>plain old computer</strong> is doing in this pipeline</h3>
 <ul>
@@ -143,34 +152,26 @@ Josh Hadro</p>
 <li>IIIF annotation and content state generation</li>
 </ul>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="24" lang="en-US">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="25" lang="en-US">
 <h2 id="examples">Examples</h2>
 <h3 id="woods-directory">Woods Directory</h3>
-<p><a href="https://hadro.github.io/woods-directory/explorer">The Woods Directory</a> -- Black and minority business, professional and trades directory of New Orleans, Louisiana.</p>
+<p><a href="https://hadro.github.io/woods-directory/explorer#about">The Woods Directory</a> -- Black and minority business, professional and trades directory of New Orleans, Louisiana.</p>
 <p>1911, 1912, and 1913 editions digitized on <a href="https://www.loc.gov/item/73644404/">loc.gov</a>.</p>
 <ul>
-<li><a href="https://hadro.github.io/woods-directory/explorer">Pipeline Data Explorer</a></li>
-<li><a href="https://hadro.github.io/woods-directory/map">Pipeline Map Explorer</a></li>
+<li><a href="https://hadro.github.io/woods-directory/explorer#about">Pipeline Data Explorer</a></li>
+<li><a href="https://hadro.github.io/woods-directory/map#about">Pipeline Map Explorer</a></li>
 </ul>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="25" lang="en-US">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="26" lang="en-US">
 <h3 id="woods-directory-1">Woods Directory</h3>
 <p>The physical resource was <a href="https://www.creolegen.org/2013/02/28/woods-directory-2/">written about by a geneologist in 2013. </a></p>
 <p>Like a lot of these kinds of reference resource posts, nearly all the comments on that post identify relatives named in the Directory, and want to see if there's a digital copy where they could see their relative's names in print. People are instead emailing each other cellphone photos taken of hard copies in private hands.</p>
 <p>All the relative's names are searchable in the pipeline output, with link to the exact spots in the relevant pages!<br />
 E.g. <a href="https://hadro.github.io/woods-directory/explorer#q=Raoul">https://hadro.github.io/woods-directory/explorer#q=Raoul</a></p>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="26" lang="en-US">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="27" lang="en-US">
 <h2 id="more-examples">More examples</h2>
 <p><a href="https://hadro.github.io/lc-pipeline-tests/">https://hadro.github.io/lc-pipeline-tests/</a></p>
-</section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="27" lang="en-US">
-<h2 id="how-prompts-figure-into-the-pipeline">How prompts figure into the Pipeline</h2>
-<p>Some LLM-generated prompt examples to look at, for <a href="https://www.loc.gov/item/07033856/">the Steiger’s German American cookbook</a>:</p>
-<ul>
-<li><a href="https://github.com/hadro/lc-pipeline-tests/blob/main/steiger_s_german_american_cookbook_steig_07033856/ocr_prompt.md">OCR prompt</a></li>
-<li><a href="https://github.com/hadro/lc-pipeline-tests/blob/main/steiger_s_german_american_cookbook_steig_07033856/ner_prompt.md">Entity extraction prompt</a></li>
-</ul>
 </section>
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="28" lang="en-US">
 <h2 id="what-vibe-coding-enabled-and-what-it-didnt">What vibe coding enabled, and what it didn't</h2>
@@ -191,7 +192,12 @@ E.g. <a href="https://hadro.github.io/woods-directory/explorer#q=Raoul">https://
 LC tests and examples: <a href="https://hadro.github.io/lc-pipeline-tests/">https://hadro.github.io/lc-pipeline-tests/</a></p>
 <h3 id="other-examples">Other examples:</h3>
 <ul>
-<li><a href="https://hadro.github.io/woods-directory/explorer">1911 Woods' Business, Professional and Trades Directory of New Orleans, Louisiana</a></li>
+<li>1911-1913 Woods' Business, Professional and Trades Directory of New Orleans, Louisiana
+<ul>
+<li><a href="https://hadro.github.io/woods-directory/explorer#about">Explorer</a></li>
+<li><a href="https://hadro.github.io/woods-directory/map#about">Map viewer</a></li>
+</ul>
+</li>
 <li><a href="https://hadro.github.io/copyright-ledger-test/explorer">1842 copyright ledger (printed text &amp; handwritten text)</a></li>
 <li><a href="https://hadro.github.io/brewery-guides/explorer#about">19th Century brewery guides, extracted from a brewery guide</a></li>
 <li><a href="https://hadro.github.io/green-book-iiif-test/map">Example map listings from the 1947 Green Book</a></li>
